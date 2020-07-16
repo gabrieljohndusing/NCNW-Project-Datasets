@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25092_001E,float,Estimate!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Total,B25092
+B25092_002E,float,Estimate!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Housing units with a mortgage,B25092
+B25092_003E,float,Estimate!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Housing units without a mortgage,B25092
+B25092_001M,float,Margin of Error!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Total,B25092
+B25092_002M,float,Margin of Error!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Housing units with a mortgage,B25092
+B25092_003M,float,Margin of Error!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Housing units without a mortgage,B25092
+B25092_001EA,string,Annotation of Estimate!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Total,B25092
+B25092_001MA,string,Annotation of Margin of Error!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Total,B25092
+B25092_002EA,string,Annotation of Estimate!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Housing units with a mortgage,B25092
+B25092_002MA,string,Annotation of Margin of Error!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Housing units with a mortgage,B25092
+B25092_003EA,string,Annotation of Estimate!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Housing units without a mortgage,B25092
+B25092_003MA,string,Annotation of Margin of Error!!Median selected monthly owner costs as a percentage of household income in the past 12 months --!!Housing units without a mortgage,B25092

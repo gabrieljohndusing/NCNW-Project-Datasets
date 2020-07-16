@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07004FPR_001E,int,Estimate!!Total,B07004FPR
+B07004FPR_002E,int,Estimate!!Total!!Same house 1 year ago,B07004FPR
+B07004FPR_003E,int,Estimate!!Total!!Moved within same municipio,B07004FPR
+B07004FPR_004E,int,Estimate!!Total!!Moved from different municipio,B07004FPR
+B07004FPR_005E,int,Estimate!!Total!!Moved from the United States,B07004FPR
+B07004FPR_006E,int,Estimate!!Total!!Moved from elsewhere,B07004FPR
+B07004FPR_001M,int,Margin of Error!!Total,B07004FPR
+B07004FPR_002M,int,Margin of Error!!Total!!Same house 1 year ago,B07004FPR
+B07004FPR_003M,int,Margin of Error!!Total!!Moved within same municipio,B07004FPR
+B07004FPR_004M,int,Margin of Error!!Total!!Moved from different municipio,B07004FPR
+B07004FPR_005M,int,Margin of Error!!Total!!Moved from the United States,B07004FPR
+B07004FPR_006M,int,Margin of Error!!Total!!Moved from elsewhere,B07004FPR
+B07004FPR_001EA,string,Annotation of Estimate!!Total,B07004FPR
+B07004FPR_001MA,string,Annotation of Margin of Error!!Total,B07004FPR
+B07004FPR_002EA,string,Annotation of Estimate!!Total!!Same house 1 year ago,B07004FPR
+B07004FPR_002MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago,B07004FPR
+B07004FPR_003EA,string,Annotation of Estimate!!Total!!Moved within same municipio,B07004FPR
+B07004FPR_003MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio,B07004FPR
+B07004FPR_004EA,string,Annotation of Estimate!!Total!!Moved from different municipio,B07004FPR
+B07004FPR_004MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio,B07004FPR
+B07004FPR_005EA,string,Annotation of Estimate!!Total!!Moved from the United States,B07004FPR
+B07004FPR_005MA,string,Annotation of Margin of Error!!Total!!Moved from the United States,B07004FPR
+B07004FPR_006EA,string,Annotation of Estimate!!Total!!Moved from elsewhere,B07004FPR
+B07004FPR_006MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere,B07004FPR

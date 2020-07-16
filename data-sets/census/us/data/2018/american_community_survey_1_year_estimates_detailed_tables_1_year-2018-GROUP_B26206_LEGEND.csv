@@ -1,0 +1,165 @@
+VARIABLE,TYPE,LABEL,GROUP
+B26206_001E,int,Estimate!!Total,B26206
+B26206_002E,int,Estimate!!Total!!Less than high school diploma,B26206
+B26206_003E,int,Estimate!!Total!!High school graduate (includes equivalency),B26206
+B26206_004E,int,Estimate!!Total!!Some college or associate's degree,B26206
+B26206_005E,int,Estimate!!Total!!Bachelor's degree or higher,B26206
+B26206_006E,int,Estimate!!Total!!Group quarters population,B26206
+B26206_007E,int,Estimate!!Total!!Group quarters population!!Less than high school diploma,B26206
+B26206_008E,int,Estimate!!Total!!Group quarters population!!High school graduate (includes equivalency),B26206
+B26206_009E,int,Estimate!!Total!!Group quarters population!!Some college or associate's degree,B26206
+B26206_010E,int,Estimate!!Total!!Group quarters population!!Bachelor's degree or higher,B26206
+B26206_011E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26206
+B26206_012E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Less than high school diploma,B26206
+B26206_013E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!High school graduate (includes equivalency),B26206
+B26206_014E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Some college or associate's degree,B26206
+B26206_015E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Bachelor's degree or higher,B26206
+B26206_016E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26206
+B26206_017E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Less than high school diploma,B26206
+B26206_018E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!High school graduate (includes equivalency),B26206
+B26206_019E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Some college or associate's degree,B26206
+B26206_020E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Bachelor's degree or higher,B26206
+B26206_021E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26206
+B26206_022E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Less than high school diploma,B26206
+B26206_023E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!High school graduate (includes equivalency),B26206
+B26206_024E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Some college or associate's degree,B26206
+B26206_025E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Bachelor's degree or higher,B26206
+B26206_026E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26206
+B26206_027E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Less than high school diploma,B26206
+B26206_028E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!High school graduate (includes equivalency),B26206
+B26206_029E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Some college or associate's degree,B26206
+B26206_030E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Bachelor's degree or higher,B26206
+B26206_031E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26206
+B26206_032E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Less than high school diploma,B26206
+B26206_033E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!High school graduate (includes equivalency),B26206
+B26206_034E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Some college or associate's degree,B26206
+B26206_035E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Bachelor's degree or higher,B26206
+B26206_036E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26206
+B26206_037E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Less than high school diploma,B26206
+B26206_038E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!High school graduate (includes equivalency),B26206
+B26206_039E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Some college or associate's degree,B26206
+B26206_040E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Bachelor's degree or higher,B26206
+B26206_041E,int,Estimate!!Total!!Household population,B26206
+B26206_001M,int,Margin of Error!!Total,B26206
+B26206_002M,int,Margin of Error!!Total!!Less than high school diploma,B26206
+B26206_003M,int,Margin of Error!!Total!!High school graduate (includes equivalency),B26206
+B26206_004M,int,Margin of Error!!Total!!Some college or associate's degree,B26206
+B26206_005M,int,Margin of Error!!Total!!Bachelor's degree or higher,B26206
+B26206_006M,int,Margin of Error!!Total!!Group quarters population,B26206
+B26206_007M,int,Margin of Error!!Total!!Group quarters population!!Less than high school diploma,B26206
+B26206_008M,int,Margin of Error!!Total!!Group quarters population!!High school graduate (includes equivalency),B26206
+B26206_009M,int,Margin of Error!!Total!!Group quarters population!!Some college or associate's degree,B26206
+B26206_010M,int,Margin of Error!!Total!!Group quarters population!!Bachelor's degree or higher,B26206
+B26206_011M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26206
+B26206_012M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Less than high school diploma,B26206
+B26206_013M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!High school graduate (includes equivalency),B26206
+B26206_014M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Some college or associate's degree,B26206
+B26206_015M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Bachelor's degree or higher,B26206
+B26206_016M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26206
+B26206_017M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Less than high school diploma,B26206
+B26206_018M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!High school graduate (includes equivalency),B26206
+B26206_019M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Some college or associate's degree,B26206
+B26206_020M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Bachelor's degree or higher,B26206
+B26206_021M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26206
+B26206_022M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Less than high school diploma,B26206
+B26206_023M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!High school graduate (includes equivalency),B26206
+B26206_024M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Some college or associate's degree,B26206
+B26206_025M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Bachelor's degree or higher,B26206
+B26206_026M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26206
+B26206_027M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Less than high school diploma,B26206
+B26206_028M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!High school graduate (includes equivalency),B26206
+B26206_029M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Some college or associate's degree,B26206
+B26206_030M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Bachelor's degree or higher,B26206
+B26206_031M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26206
+B26206_032M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Less than high school diploma,B26206
+B26206_033M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!High school graduate (includes equivalency),B26206
+B26206_034M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Some college or associate's degree,B26206
+B26206_035M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Bachelor's degree or higher,B26206
+B26206_036M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26206
+B26206_037M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Less than high school diploma,B26206
+B26206_038M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!High school graduate (includes equivalency),B26206
+B26206_039M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Some college or associate's degree,B26206
+B26206_040M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Bachelor's degree or higher,B26206
+B26206_041M,int,Margin of Error!!Total!!Household population,B26206
+B26206_001EA,string,Annotation of Estimate!!Total,B26206
+B26206_001MA,string,Annotation of Margin of Error!!Total,B26206
+B26206_002EA,string,Annotation of Estimate!!Total!!Less than high school diploma,B26206
+B26206_002MA,string,Annotation of Margin of Error!!Total!!Less than high school diploma,B26206
+B26206_003EA,string,Annotation of Estimate!!Total!!High school graduate (includes equivalency),B26206
+B26206_003MA,string,Annotation of Margin of Error!!Total!!High school graduate (includes equivalency),B26206
+B26206_004EA,string,Annotation of Estimate!!Total!!Some college or associate's degree,B26206
+B26206_004MA,string,Annotation of Margin of Error!!Total!!Some college or associate's degree,B26206
+B26206_005EA,string,Annotation of Estimate!!Total!!Bachelor's degree or higher,B26206
+B26206_005MA,string,Annotation of Margin of Error!!Total!!Bachelor's degree or higher,B26206
+B26206_006EA,string,Annotation of Estimate!!Total!!Group quarters population,B26206
+B26206_006MA,string,Annotation of Margin of Error!!Total!!Group quarters population,B26206
+B26206_007EA,string,Annotation of Estimate!!Total!!Group quarters population!!Less than high school diploma,B26206
+B26206_007MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Less than high school diploma,B26206
+B26206_008EA,string,Annotation of Estimate!!Total!!Group quarters population!!High school graduate (includes equivalency),B26206
+B26206_008MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!High school graduate (includes equivalency),B26206
+B26206_009EA,string,Annotation of Estimate!!Total!!Group quarters population!!Some college or associate's degree,B26206
+B26206_009MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Some college or associate's degree,B26206
+B26206_010EA,string,Annotation of Estimate!!Total!!Group quarters population!!Bachelor's degree or higher,B26206
+B26206_010MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Bachelor's degree or higher,B26206
+B26206_011EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26206
+B26206_011MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26206
+B26206_012EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Less than high school diploma,B26206
+B26206_012MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Less than high school diploma,B26206
+B26206_013EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!High school graduate (includes equivalency),B26206
+B26206_013MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!High school graduate (includes equivalency),B26206
+B26206_014EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Some college or associate's degree,B26206
+B26206_014MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Some college or associate's degree,B26206
+B26206_015EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Bachelor's degree or higher,B26206
+B26206_015MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Bachelor's degree or higher,B26206
+B26206_016EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26206
+B26206_016MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26206
+B26206_017EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Less than high school diploma,B26206
+B26206_017MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Less than high school diploma,B26206
+B26206_018EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!High school graduate (includes equivalency),B26206
+B26206_018MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!High school graduate (includes equivalency),B26206
+B26206_019EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Some college or associate's degree,B26206
+B26206_019MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Some college or associate's degree,B26206
+B26206_020EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Bachelor's degree or higher,B26206
+B26206_020MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Bachelor's degree or higher,B26206
+B26206_021EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26206
+B26206_021MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26206
+B26206_022EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Less than high school diploma,B26206
+B26206_022MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Less than high school diploma,B26206
+B26206_023EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!High school graduate (includes equivalency),B26206
+B26206_023MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!High school graduate (includes equivalency),B26206
+B26206_024EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Some college or associate's degree,B26206
+B26206_024MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Some college or associate's degree,B26206
+B26206_025EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Bachelor's degree or higher,B26206
+B26206_025MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Bachelor's degree or higher,B26206
+B26206_026EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26206
+B26206_026MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26206
+B26206_027EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Less than high school diploma,B26206
+B26206_027MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Less than high school diploma,B26206
+B26206_028EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!High school graduate (includes equivalency),B26206
+B26206_028MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!High school graduate (includes equivalency),B26206
+B26206_029EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Some college or associate's degree,B26206
+B26206_029MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Some college or associate's degree,B26206
+B26206_030EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Bachelor's degree or higher,B26206
+B26206_030MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Bachelor's degree or higher,B26206
+B26206_031EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26206
+B26206_031MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26206
+B26206_032EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Less than high school diploma,B26206
+B26206_032MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Less than high school diploma,B26206
+B26206_033EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!High school graduate (includes equivalency),B26206
+B26206_033MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!High school graduate (includes equivalency),B26206
+B26206_034EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Some college or associate's degree,B26206
+B26206_034MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Some college or associate's degree,B26206
+B26206_035EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Bachelor's degree or higher,B26206
+B26206_035MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Bachelor's degree or higher,B26206
+B26206_036EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26206
+B26206_036MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26206
+B26206_037EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Less than high school diploma,B26206
+B26206_037MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Less than high school diploma,B26206
+B26206_038EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!High school graduate (includes equivalency),B26206
+B26206_038MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!High school graduate (includes equivalency),B26206
+B26206_039EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Some college or associate's degree,B26206
+B26206_039MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Some college or associate's degree,B26206
+B26206_040EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Bachelor's degree or higher,B26206
+B26206_040MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Bachelor's degree or higher,B26206
+B26206_041EA,string,Annotation of Estimate!!Total!!Household population,B26206
+B26206_041MA,string,Annotation of Margin of Error!!Total!!Household population,B26206

@@ -1,0 +1,109 @@
+VARIABLE,TYPE,LABEL,GROUP
+B18107_001E,int,Estimate!!Total,B18107
+B18107_002E,int,Estimate!!Total!!Male,B18107
+B18107_003E,int,Estimate!!Total!!Male!!18 to 34 years,B18107
+B18107_004E,int,Estimate!!Total!!Male!!18 to 34 years!!With an independent living difficulty,B18107
+B18107_005E,int,Estimate!!Total!!Male!!18 to 34 years!!No independent living difficulty,B18107
+B18107_006E,int,Estimate!!Total!!Male!!35 to 64 years,B18107
+B18107_007E,int,Estimate!!Total!!Male!!35 to 64 years!!With an independent living difficulty,B18107
+B18107_008E,int,Estimate!!Total!!Male!!35 to 64 years!!No independent living difficulty,B18107
+B18107_009E,int,Estimate!!Total!!Male!!65 to 74 years,B18107
+B18107_010E,int,Estimate!!Total!!Male!!65 to 74 years!!With an independent living difficulty,B18107
+B18107_011E,int,Estimate!!Total!!Male!!65 to 74 years!!No independent living difficulty,B18107
+B18107_012E,int,Estimate!!Total!!Male!!75 years and over,B18107
+B18107_013E,int,Estimate!!Total!!Male!!75 years and over!!With an independent living difficulty,B18107
+B18107_014E,int,Estimate!!Total!!Male!!75 years and over!!No independent living difficulty,B18107
+B18107_015E,int,Estimate!!Total!!Female,B18107
+B18107_016E,int,Estimate!!Total!!Female!!18 to 34 years,B18107
+B18107_017E,int,Estimate!!Total!!Female!!18 to 34 years!!With an independent living difficulty,B18107
+B18107_018E,int,Estimate!!Total!!Female!!18 to 34 years!!No independent living difficulty,B18107
+B18107_019E,int,Estimate!!Total!!Female!!35 to 64 years,B18107
+B18107_020E,int,Estimate!!Total!!Female!!35 to 64 years!!With an independent living difficulty,B18107
+B18107_021E,int,Estimate!!Total!!Female!!35 to 64 years!!No independent living difficulty,B18107
+B18107_022E,int,Estimate!!Total!!Female!!65 to 74 years,B18107
+B18107_023E,int,Estimate!!Total!!Female!!65 to 74 years!!With an independent living difficulty,B18107
+B18107_024E,int,Estimate!!Total!!Female!!65 to 74 years!!No independent living difficulty,B18107
+B18107_025E,int,Estimate!!Total!!Female!!75 years and over,B18107
+B18107_026E,int,Estimate!!Total!!Female!!75 years and over!!With an independent living difficulty,B18107
+B18107_027E,int,Estimate!!Total!!Female!!75 years and over!!No independent living difficulty,B18107
+B18107_001M,int,Margin of Error!!Total,B18107
+B18107_002M,int,Margin of Error!!Total!!Male,B18107
+B18107_003M,int,Margin of Error!!Total!!Male!!18 to 34 years,B18107
+B18107_004M,int,Margin of Error!!Total!!Male!!18 to 34 years!!With an independent living difficulty,B18107
+B18107_005M,int,Margin of Error!!Total!!Male!!18 to 34 years!!No independent living difficulty,B18107
+B18107_006M,int,Margin of Error!!Total!!Male!!35 to 64 years,B18107
+B18107_007M,int,Margin of Error!!Total!!Male!!35 to 64 years!!With an independent living difficulty,B18107
+B18107_008M,int,Margin of Error!!Total!!Male!!35 to 64 years!!No independent living difficulty,B18107
+B18107_009M,int,Margin of Error!!Total!!Male!!65 to 74 years,B18107
+B18107_010M,int,Margin of Error!!Total!!Male!!65 to 74 years!!With an independent living difficulty,B18107
+B18107_011M,int,Margin of Error!!Total!!Male!!65 to 74 years!!No independent living difficulty,B18107
+B18107_012M,int,Margin of Error!!Total!!Male!!75 years and over,B18107
+B18107_013M,int,Margin of Error!!Total!!Male!!75 years and over!!With an independent living difficulty,B18107
+B18107_014M,int,Margin of Error!!Total!!Male!!75 years and over!!No independent living difficulty,B18107
+B18107_015M,int,Margin of Error!!Total!!Female,B18107
+B18107_016M,int,Margin of Error!!Total!!Female!!18 to 34 years,B18107
+B18107_017M,int,Margin of Error!!Total!!Female!!18 to 34 years!!With an independent living difficulty,B18107
+B18107_018M,int,Margin of Error!!Total!!Female!!18 to 34 years!!No independent living difficulty,B18107
+B18107_019M,int,Margin of Error!!Total!!Female!!35 to 64 years,B18107
+B18107_020M,int,Margin of Error!!Total!!Female!!35 to 64 years!!With an independent living difficulty,B18107
+B18107_021M,int,Margin of Error!!Total!!Female!!35 to 64 years!!No independent living difficulty,B18107
+B18107_022M,int,Margin of Error!!Total!!Female!!65 to 74 years,B18107
+B18107_023M,int,Margin of Error!!Total!!Female!!65 to 74 years!!With an independent living difficulty,B18107
+B18107_024M,int,Margin of Error!!Total!!Female!!65 to 74 years!!No independent living difficulty,B18107
+B18107_025M,int,Margin of Error!!Total!!Female!!75 years and over,B18107
+B18107_026M,int,Margin of Error!!Total!!Female!!75 years and over!!With an independent living difficulty,B18107
+B18107_027M,int,Margin of Error!!Total!!Female!!75 years and over!!No independent living difficulty,B18107
+B18107_001EA,string,Annotation of Estimate!!Total,B18107
+B18107_001MA,string,Annotation of Margin of Error!!Total,B18107
+B18107_002EA,string,Annotation of Estimate!!Total!!Male,B18107
+B18107_002MA,string,Annotation of Margin of Error!!Total!!Male,B18107
+B18107_003EA,string,Annotation of Estimate!!Total!!Male!!18 to 34 years,B18107
+B18107_003MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 34 years,B18107
+B18107_004EA,string,Annotation of Estimate!!Total!!Male!!18 to 34 years!!With an independent living difficulty,B18107
+B18107_004MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 34 years!!With an independent living difficulty,B18107
+B18107_005EA,string,Annotation of Estimate!!Total!!Male!!18 to 34 years!!No independent living difficulty,B18107
+B18107_005MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 34 years!!No independent living difficulty,B18107
+B18107_006EA,string,Annotation of Estimate!!Total!!Male!!35 to 64 years,B18107
+B18107_006MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 64 years,B18107
+B18107_007EA,string,Annotation of Estimate!!Total!!Male!!35 to 64 years!!With an independent living difficulty,B18107
+B18107_007MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 64 years!!With an independent living difficulty,B18107
+B18107_008EA,string,Annotation of Estimate!!Total!!Male!!35 to 64 years!!No independent living difficulty,B18107
+B18107_008MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 64 years!!No independent living difficulty,B18107
+B18107_009EA,string,Annotation of Estimate!!Total!!Male!!65 to 74 years,B18107
+B18107_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 to 74 years,B18107
+B18107_010EA,string,Annotation of Estimate!!Total!!Male!!65 to 74 years!!With an independent living difficulty,B18107
+B18107_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 to 74 years!!With an independent living difficulty,B18107
+B18107_011EA,string,Annotation of Estimate!!Total!!Male!!65 to 74 years!!No independent living difficulty,B18107
+B18107_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 to 74 years!!No independent living difficulty,B18107
+B18107_012EA,string,Annotation of Estimate!!Total!!Male!!75 years and over,B18107
+B18107_012MA,string,Annotation of Margin of Error!!Total!!Male!!75 years and over,B18107
+B18107_013EA,string,Annotation of Estimate!!Total!!Male!!75 years and over!!With an independent living difficulty,B18107
+B18107_013MA,string,Annotation of Margin of Error!!Total!!Male!!75 years and over!!With an independent living difficulty,B18107
+B18107_014EA,string,Annotation of Estimate!!Total!!Male!!75 years and over!!No independent living difficulty,B18107
+B18107_014MA,string,Annotation of Margin of Error!!Total!!Male!!75 years and over!!No independent living difficulty,B18107
+B18107_015EA,string,Annotation of Estimate!!Total!!Female,B18107
+B18107_015MA,string,Annotation of Margin of Error!!Total!!Female,B18107
+B18107_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 34 years,B18107
+B18107_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 34 years,B18107
+B18107_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 34 years!!With an independent living difficulty,B18107
+B18107_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 34 years!!With an independent living difficulty,B18107
+B18107_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 34 years!!No independent living difficulty,B18107
+B18107_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 34 years!!No independent living difficulty,B18107
+B18107_019EA,string,Annotation of Estimate!!Total!!Female!!35 to 64 years,B18107
+B18107_019MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 64 years,B18107
+B18107_020EA,string,Annotation of Estimate!!Total!!Female!!35 to 64 years!!With an independent living difficulty,B18107
+B18107_020MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 64 years!!With an independent living difficulty,B18107
+B18107_021EA,string,Annotation of Estimate!!Total!!Female!!35 to 64 years!!No independent living difficulty,B18107
+B18107_021MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 64 years!!No independent living difficulty,B18107
+B18107_022EA,string,Annotation of Estimate!!Total!!Female!!65 to 74 years,B18107
+B18107_022MA,string,Annotation of Margin of Error!!Total!!Female!!65 to 74 years,B18107
+B18107_023EA,string,Annotation of Estimate!!Total!!Female!!65 to 74 years!!With an independent living difficulty,B18107
+B18107_023MA,string,Annotation of Margin of Error!!Total!!Female!!65 to 74 years!!With an independent living difficulty,B18107
+B18107_024EA,string,Annotation of Estimate!!Total!!Female!!65 to 74 years!!No independent living difficulty,B18107
+B18107_024MA,string,Annotation of Margin of Error!!Total!!Female!!65 to 74 years!!No independent living difficulty,B18107
+B18107_025EA,string,Annotation of Estimate!!Total!!Female!!75 years and over,B18107
+B18107_025MA,string,Annotation of Margin of Error!!Total!!Female!!75 years and over,B18107
+B18107_026EA,string,Annotation of Estimate!!Total!!Female!!75 years and over!!With an independent living difficulty,B18107
+B18107_026MA,string,Annotation of Margin of Error!!Total!!Female!!75 years and over!!With an independent living difficulty,B18107
+B18107_027EA,string,Annotation of Estimate!!Total!!Female!!75 years and over!!No independent living difficulty,B18107
+B18107_027MA,string,Annotation of Margin of Error!!Total!!Female!!75 years and over!!No independent living difficulty,B18107

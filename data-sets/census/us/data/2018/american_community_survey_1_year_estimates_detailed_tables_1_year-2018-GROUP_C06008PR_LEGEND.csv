@@ -1,0 +1,101 @@
+VARIABLE,TYPE,LABEL,GROUP
+C06008PR_001E,int,Estimate!!Total,C06008PR
+C06008PR_002E,int,Estimate!!Total!!Never married,C06008PR
+C06008PR_003E,int,"Estimate!!Total!!Now married, except separated",C06008PR
+C06008PR_004E,int,Estimate!!Total!!Divorced or separated,C06008PR
+C06008PR_005E,int,Estimate!!Total!!Widowed,C06008PR
+C06008PR_006E,int,Estimate!!Total!!Born in Puerto Rico,C06008PR
+C06008PR_007E,int,Estimate!!Total!!Born in Puerto Rico!!Never married,C06008PR
+C06008PR_008E,int,"Estimate!!Total!!Born in Puerto Rico!!Now married, except separated",C06008PR
+C06008PR_009E,int,Estimate!!Total!!Born in Puerto Rico!!Divorced or separated,C06008PR
+C06008PR_010E,int,Estimate!!Total!!Born in Puerto Rico!!Widowed,C06008PR
+C06008PR_011E,int,Estimate!!Total!!Born in the United States,C06008PR
+C06008PR_012E,int,Estimate!!Total!!Born in the United States!!Never married,C06008PR
+C06008PR_013E,int,"Estimate!!Total!!Born in the United States!!Now married, except separated",C06008PR
+C06008PR_014E,int,Estimate!!Total!!Born in the United States!!Divorced or separated,C06008PR
+C06008PR_015E,int,Estimate!!Total!!Born in the United States!!Widowed,C06008PR
+C06008PR_016E,int,Estimate!!Total!!Native; born elsewhere,C06008PR
+C06008PR_017E,int,Estimate!!Total!!Native; born elsewhere!!Never married,C06008PR
+C06008PR_018E,int,"Estimate!!Total!!Native; born elsewhere!!Now married, except separated",C06008PR
+C06008PR_019E,int,Estimate!!Total!!Native; born elsewhere!!Divorced or separated,C06008PR
+C06008PR_020E,int,Estimate!!Total!!Native; born elsewhere!!Widowed,C06008PR
+C06008PR_021E,int,Estimate!!Total!!Foreign born,C06008PR
+C06008PR_022E,int,Estimate!!Total!!Foreign born!!Never married,C06008PR
+C06008PR_023E,int,"Estimate!!Total!!Foreign born!!Now married, except separated",C06008PR
+C06008PR_024E,int,Estimate!!Total!!Foreign born!!Divorced or separated,C06008PR
+C06008PR_025E,int,Estimate!!Total!!Foreign born!!Widowed,C06008PR
+C06008PR_001M,int,Margin of Error!!Total,C06008PR
+C06008PR_002M,int,Margin of Error!!Total!!Never married,C06008PR
+C06008PR_003M,int,"Margin of Error!!Total!!Now married, except separated",C06008PR
+C06008PR_004M,int,Margin of Error!!Total!!Divorced or separated,C06008PR
+C06008PR_005M,int,Margin of Error!!Total!!Widowed,C06008PR
+C06008PR_006M,int,Margin of Error!!Total!!Born in Puerto Rico,C06008PR
+C06008PR_007M,int,Margin of Error!!Total!!Born in Puerto Rico!!Never married,C06008PR
+C06008PR_008M,int,"Margin of Error!!Total!!Born in Puerto Rico!!Now married, except separated",C06008PR
+C06008PR_009M,int,Margin of Error!!Total!!Born in Puerto Rico!!Divorced or separated,C06008PR
+C06008PR_010M,int,Margin of Error!!Total!!Born in Puerto Rico!!Widowed,C06008PR
+C06008PR_011M,int,Margin of Error!!Total!!Born in the United States,C06008PR
+C06008PR_012M,int,Margin of Error!!Total!!Born in the United States!!Never married,C06008PR
+C06008PR_013M,int,"Margin of Error!!Total!!Born in the United States!!Now married, except separated",C06008PR
+C06008PR_014M,int,Margin of Error!!Total!!Born in the United States!!Divorced or separated,C06008PR
+C06008PR_015M,int,Margin of Error!!Total!!Born in the United States!!Widowed,C06008PR
+C06008PR_016M,int,Margin of Error!!Total!!Native; born elsewhere,C06008PR
+C06008PR_017M,int,Margin of Error!!Total!!Native; born elsewhere!!Never married,C06008PR
+C06008PR_018M,int,"Margin of Error!!Total!!Native; born elsewhere!!Now married, except separated",C06008PR
+C06008PR_019M,int,Margin of Error!!Total!!Native; born elsewhere!!Divorced or separated,C06008PR
+C06008PR_020M,int,Margin of Error!!Total!!Native; born elsewhere!!Widowed,C06008PR
+C06008PR_021M,int,Margin of Error!!Total!!Foreign born,C06008PR
+C06008PR_022M,int,Margin of Error!!Total!!Foreign born!!Never married,C06008PR
+C06008PR_023M,int,"Margin of Error!!Total!!Foreign born!!Now married, except separated",C06008PR
+C06008PR_024M,int,Margin of Error!!Total!!Foreign born!!Divorced or separated,C06008PR
+C06008PR_025M,int,Margin of Error!!Total!!Foreign born!!Widowed,C06008PR
+C06008PR_001EA,string,Annotation of Estimate!!Total,C06008PR
+C06008PR_001MA,string,Annotation of Margin of Error!!Total,C06008PR
+C06008PR_002EA,string,Annotation of Estimate!!Total!!Never married,C06008PR
+C06008PR_002MA,string,Annotation of Margin of Error!!Total!!Never married,C06008PR
+C06008PR_003EA,string,"Annotation of Estimate!!Total!!Now married, except separated",C06008PR
+C06008PR_003MA,string,"Annotation of Margin of Error!!Total!!Now married, except separated",C06008PR
+C06008PR_004EA,string,Annotation of Estimate!!Total!!Divorced or separated,C06008PR
+C06008PR_004MA,string,Annotation of Margin of Error!!Total!!Divorced or separated,C06008PR
+C06008PR_005EA,string,Annotation of Estimate!!Total!!Widowed,C06008PR
+C06008PR_005MA,string,Annotation of Margin of Error!!Total!!Widowed,C06008PR
+C06008PR_006EA,string,Annotation of Estimate!!Total!!Born in Puerto Rico,C06008PR
+C06008PR_006MA,string,Annotation of Margin of Error!!Total!!Born in Puerto Rico,C06008PR
+C06008PR_007EA,string,Annotation of Estimate!!Total!!Born in Puerto Rico!!Never married,C06008PR
+C06008PR_007MA,string,Annotation of Margin of Error!!Total!!Born in Puerto Rico!!Never married,C06008PR
+C06008PR_008EA,string,"Annotation of Estimate!!Total!!Born in Puerto Rico!!Now married, except separated",C06008PR
+C06008PR_008MA,string,"Annotation of Margin of Error!!Total!!Born in Puerto Rico!!Now married, except separated",C06008PR
+C06008PR_009EA,string,Annotation of Estimate!!Total!!Born in Puerto Rico!!Divorced or separated,C06008PR
+C06008PR_009MA,string,Annotation of Margin of Error!!Total!!Born in Puerto Rico!!Divorced or separated,C06008PR
+C06008PR_010EA,string,Annotation of Estimate!!Total!!Born in Puerto Rico!!Widowed,C06008PR
+C06008PR_010MA,string,Annotation of Margin of Error!!Total!!Born in Puerto Rico!!Widowed,C06008PR
+C06008PR_011EA,string,Annotation of Estimate!!Total!!Born in the United States,C06008PR
+C06008PR_011MA,string,Annotation of Margin of Error!!Total!!Born in the United States,C06008PR
+C06008PR_012EA,string,Annotation of Estimate!!Total!!Born in the United States!!Never married,C06008PR
+C06008PR_012MA,string,Annotation of Margin of Error!!Total!!Born in the United States!!Never married,C06008PR
+C06008PR_013EA,string,"Annotation of Estimate!!Total!!Born in the United States!!Now married, except separated",C06008PR
+C06008PR_013MA,string,"Annotation of Margin of Error!!Total!!Born in the United States!!Now married, except separated",C06008PR
+C06008PR_014EA,string,Annotation of Estimate!!Total!!Born in the United States!!Divorced or separated,C06008PR
+C06008PR_014MA,string,Annotation of Margin of Error!!Total!!Born in the United States!!Divorced or separated,C06008PR
+C06008PR_015EA,string,Annotation of Estimate!!Total!!Born in the United States!!Widowed,C06008PR
+C06008PR_015MA,string,Annotation of Margin of Error!!Total!!Born in the United States!!Widowed,C06008PR
+C06008PR_016EA,string,Annotation of Estimate!!Total!!Native; born elsewhere,C06008PR
+C06008PR_016MA,string,Annotation of Margin of Error!!Total!!Native; born elsewhere,C06008PR
+C06008PR_017EA,string,Annotation of Estimate!!Total!!Native; born elsewhere!!Never married,C06008PR
+C06008PR_017MA,string,Annotation of Margin of Error!!Total!!Native; born elsewhere!!Never married,C06008PR
+C06008PR_018EA,string,"Annotation of Estimate!!Total!!Native; born elsewhere!!Now married, except separated",C06008PR
+C06008PR_018MA,string,"Annotation of Margin of Error!!Total!!Native; born elsewhere!!Now married, except separated",C06008PR
+C06008PR_019EA,string,Annotation of Estimate!!Total!!Native; born elsewhere!!Divorced or separated,C06008PR
+C06008PR_019MA,string,Annotation of Margin of Error!!Total!!Native; born elsewhere!!Divorced or separated,C06008PR
+C06008PR_020EA,string,Annotation of Estimate!!Total!!Native; born elsewhere!!Widowed,C06008PR
+C06008PR_020MA,string,Annotation of Margin of Error!!Total!!Native; born elsewhere!!Widowed,C06008PR
+C06008PR_021EA,string,Annotation of Estimate!!Total!!Foreign born,C06008PR
+C06008PR_021MA,string,Annotation of Margin of Error!!Total!!Foreign born,C06008PR
+C06008PR_022EA,string,Annotation of Estimate!!Total!!Foreign born!!Never married,C06008PR
+C06008PR_022MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Never married,C06008PR
+C06008PR_023EA,string,"Annotation of Estimate!!Total!!Foreign born!!Now married, except separated",C06008PR
+C06008PR_023MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Now married, except separated",C06008PR
+C06008PR_024EA,string,Annotation of Estimate!!Total!!Foreign born!!Divorced or separated,C06008PR
+C06008PR_024MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Divorced or separated,C06008PR
+C06008PR_025EA,string,Annotation of Estimate!!Total!!Foreign born!!Widowed,C06008PR
+C06008PR_025MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Widowed,C06008PR

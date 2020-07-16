@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07011PR_001E,int,Estimate!!Median income in the past 12 months --!!Total,B07011PR
+B07011PR_002E,int,Estimate!!Median income in the past 12 months --!!Total!!Same house 1 year ago,B07011PR
+B07011PR_003E,int,Estimate!!Median income in the past 12 months --!!Total!!Moved within same municipio,B07011PR
+B07011PR_004E,int,Estimate!!Median income in the past 12 months --!!Total!!Moved from different municipio,B07011PR
+B07011PR_005E,int,Estimate!!Median income in the past 12 months --!!Total!!Moved from the United States,B07011PR
+B07011PR_006E,int,Estimate!!Median income in the past 12 months --!!Total!!Moved from elsewhere,B07011PR
+B07011PR_001M,int,Margin of Error!!Median income in the past 12 months --!!Total,B07011PR
+B07011PR_002M,int,Margin of Error!!Median income in the past 12 months --!!Total!!Same house 1 year ago,B07011PR
+B07011PR_003M,int,Margin of Error!!Median income in the past 12 months --!!Total!!Moved within same municipio,B07011PR
+B07011PR_004M,int,Margin of Error!!Median income in the past 12 months --!!Total!!Moved from different municipio,B07011PR
+B07011PR_005M,int,Margin of Error!!Median income in the past 12 months --!!Total!!Moved from the United States,B07011PR
+B07011PR_006M,int,Margin of Error!!Median income in the past 12 months --!!Total!!Moved from elsewhere,B07011PR
+B07011PR_001EA,string,Annotation of Estimate!!Median income in the past 12 months --!!Total,B07011PR
+B07011PR_001MA,string,Annotation of Margin of Error!!Median income in the past 12 months --!!Total,B07011PR
+B07011PR_002EA,string,Annotation of Estimate!!Median income in the past 12 months --!!Total!!Same house 1 year ago,B07011PR
+B07011PR_002MA,string,Annotation of Margin of Error!!Median income in the past 12 months --!!Total!!Same house 1 year ago,B07011PR
+B07011PR_003EA,string,Annotation of Estimate!!Median income in the past 12 months --!!Total!!Moved within same municipio,B07011PR
+B07011PR_003MA,string,Annotation of Margin of Error!!Median income in the past 12 months --!!Total!!Moved within same municipio,B07011PR
+B07011PR_004EA,string,Annotation of Estimate!!Median income in the past 12 months --!!Total!!Moved from different municipio,B07011PR
+B07011PR_004MA,string,Annotation of Margin of Error!!Median income in the past 12 months --!!Total!!Moved from different municipio,B07011PR
+B07011PR_005EA,string,Annotation of Estimate!!Median income in the past 12 months --!!Total!!Moved from the United States,B07011PR
+B07011PR_005MA,string,Annotation of Margin of Error!!Median income in the past 12 months --!!Total!!Moved from the United States,B07011PR
+B07011PR_006EA,string,Annotation of Estimate!!Median income in the past 12 months --!!Total!!Moved from elsewhere,B07011PR
+B07011PR_006MA,string,Annotation of Margin of Error!!Median income in the past 12 months --!!Total!!Moved from elsewhere,B07011PR

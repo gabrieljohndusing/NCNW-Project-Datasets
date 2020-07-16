@@ -1,0 +1,481 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25122_001E,int,Estimate!!Total,B25122
+B25122_002E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000",B25122
+B25122_003E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent",B25122
+B25122_004E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!Less than $100",B25122
+B25122_005E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$100 to $199",B25122
+B25122_006E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$200 to $299",B25122
+B25122_007E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$300 to $399",B25122
+B25122_008E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$400 to $499",B25122
+B25122_009E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$500 to $599",B25122
+B25122_010E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$600 to $699",B25122
+B25122_011E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$700 to $799",B25122
+B25122_012E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$800 to $899",B25122
+B25122_013E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$900 to $999",B25122
+B25122_014E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,000 to $1,249",B25122
+B25122_015E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,250 to $1,499",B25122
+B25122_016E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,500 to $1,999",B25122
+B25122_017E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$2,000 or more",B25122
+B25122_018E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!No cash rent",B25122
+B25122_019E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999",B25122
+B25122_020E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent",B25122
+B25122_021E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!Less than $100",B25122
+B25122_022E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$100 to $199",B25122
+B25122_023E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$200 to $299",B25122
+B25122_024E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$300 to $399",B25122
+B25122_025E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$400 to $499",B25122
+B25122_026E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$500 to $599",B25122
+B25122_027E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$600 to $699",B25122
+B25122_028E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$700 to $799",B25122
+B25122_029E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$800 to $899",B25122
+B25122_030E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$900 to $999",B25122
+B25122_031E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_032E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_033E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_034E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$2,000 or more",B25122
+B25122_035E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!No cash rent",B25122
+B25122_036E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999",B25122
+B25122_037E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent",B25122
+B25122_038E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!Less than $100",B25122
+B25122_039E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$100 to $199",B25122
+B25122_040E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$200 to $299",B25122
+B25122_041E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$300 to $399",B25122
+B25122_042E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$400 to $499",B25122
+B25122_043E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$500 to $599",B25122
+B25122_044E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$600 to $699",B25122
+B25122_045E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$700 to $799",B25122
+B25122_046E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$800 to $899",B25122
+B25122_047E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$900 to $999",B25122
+B25122_048E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_049E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_050E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_051E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$2,000 or more",B25122
+B25122_052E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!No cash rent",B25122
+B25122_053E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999",B25122
+B25122_054E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent",B25122
+B25122_055E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!Less than $100",B25122
+B25122_056E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$100 to $199",B25122
+B25122_057E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$200 to $299",B25122
+B25122_058E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$300 to $399",B25122
+B25122_059E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$400 to $499",B25122
+B25122_060E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$500 to $599",B25122
+B25122_061E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$600 to $699",B25122
+B25122_062E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$700 to $799",B25122
+B25122_063E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$800 to $899",B25122
+B25122_064E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$900 to $999",B25122
+B25122_065E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_066E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_067E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_068E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$2,000 or more",B25122
+B25122_069E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!No cash rent",B25122
+B25122_070E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999",B25122
+B25122_071E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent",B25122
+B25122_072E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!Less than $100",B25122
+B25122_073E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$100 to $199",B25122
+B25122_074E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$200 to $299",B25122
+B25122_075E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$300 to $399",B25122
+B25122_076E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$400 to $499",B25122
+B25122_077E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$500 to $599",B25122
+B25122_078E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$600 to $699",B25122
+B25122_079E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$700 to $799",B25122
+B25122_080E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$800 to $899",B25122
+B25122_081E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$900 to $999",B25122
+B25122_082E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_083E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_084E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_085E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$2,000 or more",B25122
+B25122_086E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!No cash rent",B25122
+B25122_087E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999",B25122
+B25122_088E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent",B25122
+B25122_089E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!Less than $100",B25122
+B25122_090E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$100 to $199",B25122
+B25122_091E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$200 to $299",B25122
+B25122_092E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$300 to $399",B25122
+B25122_093E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$400 to $499",B25122
+B25122_094E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$500 to $599",B25122
+B25122_095E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$600 to $699",B25122
+B25122_096E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$700 to $799",B25122
+B25122_097E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$800 to $899",B25122
+B25122_098E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$900 to $999",B25122
+B25122_099E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_100E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_101E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_102E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$2,000 or more",B25122
+B25122_103E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!No cash rent",B25122
+B25122_104E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more",B25122
+B25122_105E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent",B25122
+B25122_106E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!Less than $100",B25122
+B25122_107E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$100 to $199",B25122
+B25122_108E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$200 to $299",B25122
+B25122_109E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$300 to $399",B25122
+B25122_110E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$400 to $499",B25122
+B25122_111E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$500 to $599",B25122
+B25122_112E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$600 to $699",B25122
+B25122_113E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$700 to $799",B25122
+B25122_114E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$800 to $899",B25122
+B25122_115E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$900 to $999",B25122
+B25122_116E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,000 to $1,249",B25122
+B25122_117E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,250 to $1,499",B25122
+B25122_118E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,500 to $1,999",B25122
+B25122_119E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$2,000 or more",B25122
+B25122_120E,int,"Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!No cash rent",B25122
+B25122_001M,int,Margin of Error!!Total,B25122
+B25122_002M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000",B25122
+B25122_003M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent",B25122
+B25122_004M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!Less than $100",B25122
+B25122_005M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$100 to $199",B25122
+B25122_006M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$200 to $299",B25122
+B25122_007M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$300 to $399",B25122
+B25122_008M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$400 to $499",B25122
+B25122_009M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$500 to $599",B25122
+B25122_010M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$600 to $699",B25122
+B25122_011M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$700 to $799",B25122
+B25122_012M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$800 to $899",B25122
+B25122_013M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$900 to $999",B25122
+B25122_014M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,000 to $1,249",B25122
+B25122_015M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,250 to $1,499",B25122
+B25122_016M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,500 to $1,999",B25122
+B25122_017M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$2,000 or more",B25122
+B25122_018M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!No cash rent",B25122
+B25122_019M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999",B25122
+B25122_020M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent",B25122
+B25122_021M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!Less than $100",B25122
+B25122_022M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$100 to $199",B25122
+B25122_023M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$200 to $299",B25122
+B25122_024M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$300 to $399",B25122
+B25122_025M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$400 to $499",B25122
+B25122_026M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$500 to $599",B25122
+B25122_027M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$600 to $699",B25122
+B25122_028M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$700 to $799",B25122
+B25122_029M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$800 to $899",B25122
+B25122_030M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$900 to $999",B25122
+B25122_031M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_032M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_033M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_034M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$2,000 or more",B25122
+B25122_035M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!No cash rent",B25122
+B25122_036M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999",B25122
+B25122_037M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent",B25122
+B25122_038M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!Less than $100",B25122
+B25122_039M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$100 to $199",B25122
+B25122_040M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$200 to $299",B25122
+B25122_041M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$300 to $399",B25122
+B25122_042M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$400 to $499",B25122
+B25122_043M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$500 to $599",B25122
+B25122_044M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$600 to $699",B25122
+B25122_045M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$700 to $799",B25122
+B25122_046M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$800 to $899",B25122
+B25122_047M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$900 to $999",B25122
+B25122_048M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_049M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_050M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_051M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$2,000 or more",B25122
+B25122_052M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!No cash rent",B25122
+B25122_053M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999",B25122
+B25122_054M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent",B25122
+B25122_055M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!Less than $100",B25122
+B25122_056M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$100 to $199",B25122
+B25122_057M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$200 to $299",B25122
+B25122_058M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$300 to $399",B25122
+B25122_059M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$400 to $499",B25122
+B25122_060M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$500 to $599",B25122
+B25122_061M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$600 to $699",B25122
+B25122_062M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$700 to $799",B25122
+B25122_063M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$800 to $899",B25122
+B25122_064M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$900 to $999",B25122
+B25122_065M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_066M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_067M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_068M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$2,000 or more",B25122
+B25122_069M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!No cash rent",B25122
+B25122_070M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999",B25122
+B25122_071M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent",B25122
+B25122_072M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!Less than $100",B25122
+B25122_073M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$100 to $199",B25122
+B25122_074M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$200 to $299",B25122
+B25122_075M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$300 to $399",B25122
+B25122_076M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$400 to $499",B25122
+B25122_077M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$500 to $599",B25122
+B25122_078M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$600 to $699",B25122
+B25122_079M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$700 to $799",B25122
+B25122_080M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$800 to $899",B25122
+B25122_081M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$900 to $999",B25122
+B25122_082M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_083M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_084M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_085M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$2,000 or more",B25122
+B25122_086M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!No cash rent",B25122
+B25122_087M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999",B25122
+B25122_088M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent",B25122
+B25122_089M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!Less than $100",B25122
+B25122_090M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$100 to $199",B25122
+B25122_091M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$200 to $299",B25122
+B25122_092M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$300 to $399",B25122
+B25122_093M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$400 to $499",B25122
+B25122_094M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$500 to $599",B25122
+B25122_095M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$600 to $699",B25122
+B25122_096M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$700 to $799",B25122
+B25122_097M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$800 to $899",B25122
+B25122_098M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$900 to $999",B25122
+B25122_099M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_100M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_101M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_102M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$2,000 or more",B25122
+B25122_103M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!No cash rent",B25122
+B25122_104M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more",B25122
+B25122_105M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent",B25122
+B25122_106M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!Less than $100",B25122
+B25122_107M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$100 to $199",B25122
+B25122_108M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$200 to $299",B25122
+B25122_109M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$300 to $399",B25122
+B25122_110M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$400 to $499",B25122
+B25122_111M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$500 to $599",B25122
+B25122_112M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$600 to $699",B25122
+B25122_113M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$700 to $799",B25122
+B25122_114M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$800 to $899",B25122
+B25122_115M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$900 to $999",B25122
+B25122_116M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,000 to $1,249",B25122
+B25122_117M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,250 to $1,499",B25122
+B25122_118M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,500 to $1,999",B25122
+B25122_119M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$2,000 or more",B25122
+B25122_120M,int,"Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!No cash rent",B25122
+B25122_001EA,string,Annotation of Estimate!!Total,B25122
+B25122_001MA,string,Annotation of Margin of Error!!Total,B25122
+B25122_002EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000",B25122
+B25122_002MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000",B25122
+B25122_003EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent",B25122
+B25122_003MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent",B25122
+B25122_004EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!Less than $100",B25122
+B25122_004MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!Less than $100",B25122
+B25122_005EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$100 to $199",B25122
+B25122_005MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$100 to $199",B25122
+B25122_006EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$200 to $299",B25122
+B25122_006MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$200 to $299",B25122
+B25122_007EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$300 to $399",B25122
+B25122_007MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$300 to $399",B25122
+B25122_008EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$400 to $499",B25122
+B25122_008MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$400 to $499",B25122
+B25122_009EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$500 to $599",B25122
+B25122_009MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$500 to $599",B25122
+B25122_010EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$600 to $699",B25122
+B25122_010MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$600 to $699",B25122
+B25122_011EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$700 to $799",B25122
+B25122_011MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$700 to $799",B25122
+B25122_012EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$800 to $899",B25122
+B25122_012MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$800 to $899",B25122
+B25122_013EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$900 to $999",B25122
+B25122_013MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$900 to $999",B25122
+B25122_014EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,000 to $1,249",B25122
+B25122_014MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,000 to $1,249",B25122
+B25122_015EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,250 to $1,499",B25122
+B25122_015MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,250 to $1,499",B25122
+B25122_016EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,500 to $1,999",B25122
+B25122_016MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$1,500 to $1,999",B25122
+B25122_017EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$2,000 or more",B25122
+B25122_017MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!With cash rent!!$2,000 or more",B25122
+B25122_018EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!No cash rent",B25122
+B25122_018MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Less than $10,000!!No cash rent",B25122
+B25122_019EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999",B25122
+B25122_019MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999",B25122
+B25122_020EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent",B25122
+B25122_020MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent",B25122
+B25122_021EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!Less than $100",B25122
+B25122_021MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!Less than $100",B25122
+B25122_022EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$100 to $199",B25122
+B25122_022MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$100 to $199",B25122
+B25122_023EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$200 to $299",B25122
+B25122_023MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$200 to $299",B25122
+B25122_024EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$300 to $399",B25122
+B25122_024MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$300 to $399",B25122
+B25122_025EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$400 to $499",B25122
+B25122_025MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$400 to $499",B25122
+B25122_026EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$500 to $599",B25122
+B25122_026MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$500 to $599",B25122
+B25122_027EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$600 to $699",B25122
+B25122_027MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$600 to $699",B25122
+B25122_028EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$700 to $799",B25122
+B25122_028MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$700 to $799",B25122
+B25122_029EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$800 to $899",B25122
+B25122_029MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$800 to $899",B25122
+B25122_030EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$900 to $999",B25122
+B25122_030MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$900 to $999",B25122
+B25122_031EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_031MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_032EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_032MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_033EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_033MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_034EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$2,000 or more",B25122
+B25122_034MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!With cash rent!!$2,000 or more",B25122
+B25122_035EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!No cash rent",B25122
+B25122_035MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$10,000 to $19,999!!No cash rent",B25122
+B25122_036EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999",B25122
+B25122_036MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999",B25122
+B25122_037EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent",B25122
+B25122_037MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent",B25122
+B25122_038EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!Less than $100",B25122
+B25122_038MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!Less than $100",B25122
+B25122_039EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$100 to $199",B25122
+B25122_039MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$100 to $199",B25122
+B25122_040EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$200 to $299",B25122
+B25122_040MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$200 to $299",B25122
+B25122_041EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$300 to $399",B25122
+B25122_041MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$300 to $399",B25122
+B25122_042EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$400 to $499",B25122
+B25122_042MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$400 to $499",B25122
+B25122_043EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$500 to $599",B25122
+B25122_043MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$500 to $599",B25122
+B25122_044EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$600 to $699",B25122
+B25122_044MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$600 to $699",B25122
+B25122_045EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$700 to $799",B25122
+B25122_045MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$700 to $799",B25122
+B25122_046EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$800 to $899",B25122
+B25122_046MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$800 to $899",B25122
+B25122_047EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$900 to $999",B25122
+B25122_047MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$900 to $999",B25122
+B25122_048EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_048MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_049EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_049MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_050EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_050MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_051EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$2,000 or more",B25122
+B25122_051MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!With cash rent!!$2,000 or more",B25122
+B25122_052EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!No cash rent",B25122
+B25122_052MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$20,000 to $34,999!!No cash rent",B25122
+B25122_053EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999",B25122
+B25122_053MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999",B25122
+B25122_054EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent",B25122
+B25122_054MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent",B25122
+B25122_055EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!Less than $100",B25122
+B25122_055MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!Less than $100",B25122
+B25122_056EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$100 to $199",B25122
+B25122_056MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$100 to $199",B25122
+B25122_057EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$200 to $299",B25122
+B25122_057MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$200 to $299",B25122
+B25122_058EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$300 to $399",B25122
+B25122_058MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$300 to $399",B25122
+B25122_059EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$400 to $499",B25122
+B25122_059MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$400 to $499",B25122
+B25122_060EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$500 to $599",B25122
+B25122_060MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$500 to $599",B25122
+B25122_061EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$600 to $699",B25122
+B25122_061MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$600 to $699",B25122
+B25122_062EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$700 to $799",B25122
+B25122_062MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$700 to $799",B25122
+B25122_063EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$800 to $899",B25122
+B25122_063MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$800 to $899",B25122
+B25122_064EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$900 to $999",B25122
+B25122_064MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$900 to $999",B25122
+B25122_065EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_065MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_066EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_066MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_067EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_067MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_068EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$2,000 or more",B25122
+B25122_068MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!With cash rent!!$2,000 or more",B25122
+B25122_069EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!No cash rent",B25122
+B25122_069MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$35,000 to $49,999!!No cash rent",B25122
+B25122_070EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999",B25122
+B25122_070MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999",B25122
+B25122_071EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent",B25122
+B25122_071MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent",B25122
+B25122_072EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!Less than $100",B25122
+B25122_072MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!Less than $100",B25122
+B25122_073EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$100 to $199",B25122
+B25122_073MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$100 to $199",B25122
+B25122_074EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$200 to $299",B25122
+B25122_074MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$200 to $299",B25122
+B25122_075EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$300 to $399",B25122
+B25122_075MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$300 to $399",B25122
+B25122_076EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$400 to $499",B25122
+B25122_076MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$400 to $499",B25122
+B25122_077EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$500 to $599",B25122
+B25122_077MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$500 to $599",B25122
+B25122_078EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$600 to $699",B25122
+B25122_078MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$600 to $699",B25122
+B25122_079EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$700 to $799",B25122
+B25122_079MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$700 to $799",B25122
+B25122_080EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$800 to $899",B25122
+B25122_080MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$800 to $899",B25122
+B25122_081EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$900 to $999",B25122
+B25122_081MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$900 to $999",B25122
+B25122_082EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_082MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_083EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_083MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_084EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_084MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_085EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$2,000 or more",B25122
+B25122_085MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!With cash rent!!$2,000 or more",B25122
+B25122_086EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!No cash rent",B25122
+B25122_086MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$50,000 to $74,999!!No cash rent",B25122
+B25122_087EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999",B25122
+B25122_087MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999",B25122
+B25122_088EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent",B25122
+B25122_088MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent",B25122
+B25122_089EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!Less than $100",B25122
+B25122_089MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!Less than $100",B25122
+B25122_090EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$100 to $199",B25122
+B25122_090MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$100 to $199",B25122
+B25122_091EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$200 to $299",B25122
+B25122_091MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$200 to $299",B25122
+B25122_092EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$300 to $399",B25122
+B25122_092MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$300 to $399",B25122
+B25122_093EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$400 to $499",B25122
+B25122_093MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$400 to $499",B25122
+B25122_094EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$500 to $599",B25122
+B25122_094MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$500 to $599",B25122
+B25122_095EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$600 to $699",B25122
+B25122_095MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$600 to $699",B25122
+B25122_096EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$700 to $799",B25122
+B25122_096MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$700 to $799",B25122
+B25122_097EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$800 to $899",B25122
+B25122_097MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$800 to $899",B25122
+B25122_098EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$900 to $999",B25122
+B25122_098MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$900 to $999",B25122
+B25122_099EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_099MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,000 to $1,249",B25122
+B25122_100EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_100MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,250 to $1,499",B25122
+B25122_101EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_101MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$1,500 to $1,999",B25122
+B25122_102EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$2,000 or more",B25122
+B25122_102MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!With cash rent!!$2,000 or more",B25122
+B25122_103EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!No cash rent",B25122
+B25122_103MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$75,000 to $99,999!!No cash rent",B25122
+B25122_104EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more",B25122
+B25122_104MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more",B25122
+B25122_105EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent",B25122
+B25122_105MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent",B25122
+B25122_106EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!Less than $100",B25122
+B25122_106MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!Less than $100",B25122
+B25122_107EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$100 to $199",B25122
+B25122_107MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$100 to $199",B25122
+B25122_108EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$200 to $299",B25122
+B25122_108MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$200 to $299",B25122
+B25122_109EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$300 to $399",B25122
+B25122_109MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$300 to $399",B25122
+B25122_110EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$400 to $499",B25122
+B25122_110MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$400 to $499",B25122
+B25122_111EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$500 to $599",B25122
+B25122_111MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$500 to $599",B25122
+B25122_112EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$600 to $699",B25122
+B25122_112MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$600 to $699",B25122
+B25122_113EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$700 to $799",B25122
+B25122_113MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$700 to $799",B25122
+B25122_114EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$800 to $899",B25122
+B25122_114MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$800 to $899",B25122
+B25122_115EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$900 to $999",B25122
+B25122_115MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$900 to $999",B25122
+B25122_116EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,000 to $1,249",B25122
+B25122_116MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,000 to $1,249",B25122
+B25122_117EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,250 to $1,499",B25122
+B25122_117MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,250 to $1,499",B25122
+B25122_118EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,500 to $1,999",B25122
+B25122_118MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$1,500 to $1,999",B25122
+B25122_119EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$2,000 or more",B25122
+B25122_119MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!With cash rent!!$2,000 or more",B25122
+B25122_120EA,string,"Annotation of Estimate!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!No cash rent",B25122
+B25122_120MA,string,"Annotation of Margin of Error!!Total!!Household income in the past 12 months (in 2018 inflation-adjusted dollars) --!!$100,000 or more!!No cash rent",B25122

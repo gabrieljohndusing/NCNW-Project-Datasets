@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B11009_001E,int,Estimate!!Total,B11009
+B11009_002E,int,Estimate!!Total!!Unmarried-partner households,B11009
+B11009_003E,int,Estimate!!Total!!Unmarried-partner households!!Male householder and male partner,B11009
+B11009_004E,int,Estimate!!Total!!Unmarried-partner households!!Male householder and female partner,B11009
+B11009_005E,int,Estimate!!Total!!Unmarried-partner households!!Female householder and female partner,B11009
+B11009_006E,int,Estimate!!Total!!Unmarried-partner households!!Female householder and male partner,B11009
+B11009_007E,int,Estimate!!Total!!All other households,B11009
+B11009_001M,int,Margin of Error!!Total,B11009
+B11009_002M,int,Margin of Error!!Total!!Unmarried-partner households,B11009
+B11009_003M,int,Margin of Error!!Total!!Unmarried-partner households!!Male householder and male partner,B11009
+B11009_004M,int,Margin of Error!!Total!!Unmarried-partner households!!Male householder and female partner,B11009
+B11009_005M,int,Margin of Error!!Total!!Unmarried-partner households!!Female householder and female partner,B11009
+B11009_006M,int,Margin of Error!!Total!!Unmarried-partner households!!Female householder and male partner,B11009
+B11009_007M,int,Margin of Error!!Total!!All other households,B11009
+B11009_001EA,string,Annotation of Estimate!!Total,B11009
+B11009_001MA,string,Annotation of Margin of Error!!Total,B11009
+B11009_002EA,string,Annotation of Estimate!!Total!!Unmarried-partner households,B11009
+B11009_002MA,string,Annotation of Margin of Error!!Total!!Unmarried-partner households,B11009
+B11009_003EA,string,Annotation of Estimate!!Total!!Unmarried-partner households!!Male householder and male partner,B11009
+B11009_003MA,string,Annotation of Margin of Error!!Total!!Unmarried-partner households!!Male householder and male partner,B11009
+B11009_004EA,string,Annotation of Estimate!!Total!!Unmarried-partner households!!Male householder and female partner,B11009
+B11009_004MA,string,Annotation of Margin of Error!!Total!!Unmarried-partner households!!Male householder and female partner,B11009
+B11009_005EA,string,Annotation of Estimate!!Total!!Unmarried-partner households!!Female householder and female partner,B11009
+B11009_005MA,string,Annotation of Margin of Error!!Total!!Unmarried-partner households!!Female householder and female partner,B11009
+B11009_006EA,string,Annotation of Estimate!!Total!!Unmarried-partner households!!Female householder and male partner,B11009
+B11009_006MA,string,Annotation of Margin of Error!!Total!!Unmarried-partner households!!Female householder and male partner,B11009
+B11009_007EA,string,Annotation of Estimate!!Total!!All other households,B11009
+B11009_007MA,string,Annotation of Margin of Error!!Total!!All other households,B11009

@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25097_001E,int,Estimate!!Median value --!!Total,B25097
+B25097_002E,int,Estimate!!Median value --!!Total!!Median value for units with a mortgage,B25097
+B25097_003E,int,Estimate!!Median value --!!Total!!Median value for units without a mortgage,B25097
+B25097_001M,int,Margin of Error!!Median value --!!Total,B25097
+B25097_002M,int,Margin of Error!!Median value --!!Total!!Median value for units with a mortgage,B25097
+B25097_003M,int,Margin of Error!!Median value --!!Total!!Median value for units without a mortgage,B25097
+B25097_001EA,string,Annotation of Estimate!!Median value --!!Total,B25097
+B25097_001MA,string,Annotation of Margin of Error!!Median value --!!Total,B25097
+B25097_002EA,string,Annotation of Estimate!!Median value --!!Total!!Median value for units with a mortgage,B25097
+B25097_002MA,string,Annotation of Margin of Error!!Median value --!!Total!!Median value for units with a mortgage,B25097
+B25097_003EA,string,Annotation of Estimate!!Median value --!!Total!!Median value for units without a mortgage,B25097
+B25097_003MA,string,Annotation of Margin of Error!!Median value --!!Total!!Median value for units without a mortgage,B25097

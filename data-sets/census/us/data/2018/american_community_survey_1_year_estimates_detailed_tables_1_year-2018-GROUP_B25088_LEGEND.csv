@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25088_001E,int,Estimate!!Median selected monthly owner costs (dollars) --!!Total,B25088
+B25088_002E,int,Estimate!!Median selected monthly owner costs (dollars) --!!Housing units with a mortgage (dollars),B25088
+B25088_003E,int,Estimate!!Median selected monthly owner costs (dollars) --!!Housing units without a mortgage (dollars),B25088
+B25088_001M,int,Margin of Error!!Median selected monthly owner costs (dollars) --!!Total,B25088
+B25088_002M,int,Margin of Error!!Median selected monthly owner costs (dollars) --!!Housing units with a mortgage (dollars),B25088
+B25088_003M,int,Margin of Error!!Median selected monthly owner costs (dollars) --!!Housing units without a mortgage (dollars),B25088
+B25088_001EA,string,Annotation of Estimate!!Median selected monthly owner costs (dollars) --!!Total,B25088
+B25088_001MA,string,Annotation of Margin of Error!!Median selected monthly owner costs (dollars) --!!Total,B25088
+B25088_002EA,string,Annotation of Estimate!!Median selected monthly owner costs (dollars) --!!Housing units with a mortgage (dollars),B25088
+B25088_002MA,string,Annotation of Margin of Error!!Median selected monthly owner costs (dollars) --!!Housing units with a mortgage (dollars),B25088
+B25088_003EA,string,Annotation of Estimate!!Median selected monthly owner costs (dollars) --!!Housing units without a mortgage (dollars),B25088
+B25088_003MA,string,Annotation of Margin of Error!!Median selected monthly owner costs (dollars) --!!Housing units without a mortgage (dollars),B25088

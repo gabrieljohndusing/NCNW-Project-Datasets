@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+C15002A_001E,int,Estimate!!Total,C15002A
+C15002A_002E,int,Estimate!!Total!!Male,C15002A
+C15002A_003E,int,Estimate!!Total!!Male!!Less than high school diploma,C15002A
+C15002A_004E,int,Estimate!!Total!!Male!!High school graduate (includes equivalency),C15002A
+C15002A_005E,int,Estimate!!Total!!Male!!Some college or associate's degree,C15002A
+C15002A_006E,int,Estimate!!Total!!Male!!Bachelor's degree or higher,C15002A
+C15002A_007E,int,Estimate!!Total!!Female,C15002A
+C15002A_008E,int,Estimate!!Total!!Female!!Less than high school diploma,C15002A
+C15002A_009E,int,Estimate!!Total!!Female!!High school graduate (includes equivalency),C15002A
+C15002A_010E,int,Estimate!!Total!!Female!!Some college or associate's degree,C15002A
+C15002A_011E,int,Estimate!!Total!!Female!!Bachelor's degree or higher,C15002A
+C15002A_001M,int,Margin of Error!!Total,C15002A
+C15002A_002M,int,Margin of Error!!Total!!Male,C15002A
+C15002A_003M,int,Margin of Error!!Total!!Male!!Less than high school diploma,C15002A
+C15002A_004M,int,Margin of Error!!Total!!Male!!High school graduate (includes equivalency),C15002A
+C15002A_005M,int,Margin of Error!!Total!!Male!!Some college or associate's degree,C15002A
+C15002A_006M,int,Margin of Error!!Total!!Male!!Bachelor's degree or higher,C15002A
+C15002A_007M,int,Margin of Error!!Total!!Female,C15002A
+C15002A_008M,int,Margin of Error!!Total!!Female!!Less than high school diploma,C15002A
+C15002A_009M,int,Margin of Error!!Total!!Female!!High school graduate (includes equivalency),C15002A
+C15002A_010M,int,Margin of Error!!Total!!Female!!Some college or associate's degree,C15002A
+C15002A_011M,int,Margin of Error!!Total!!Female!!Bachelor's degree or higher,C15002A
+C15002A_001EA,string,Annotation of Estimate!!Total,C15002A
+C15002A_001MA,string,Annotation of Margin of Error!!Total,C15002A
+C15002A_002EA,string,Annotation of Estimate!!Total!!Male,C15002A
+C15002A_002MA,string,Annotation of Margin of Error!!Total!!Male,C15002A
+C15002A_003EA,string,Annotation of Estimate!!Total!!Male!!Less than high school diploma,C15002A
+C15002A_003MA,string,Annotation of Margin of Error!!Total!!Male!!Less than high school diploma,C15002A
+C15002A_004EA,string,Annotation of Estimate!!Total!!Male!!High school graduate (includes equivalency),C15002A
+C15002A_004MA,string,Annotation of Margin of Error!!Total!!Male!!High school graduate (includes equivalency),C15002A
+C15002A_005EA,string,Annotation of Estimate!!Total!!Male!!Some college or associate's degree,C15002A
+C15002A_005MA,string,Annotation of Margin of Error!!Total!!Male!!Some college or associate's degree,C15002A
+C15002A_006EA,string,Annotation of Estimate!!Total!!Male!!Bachelor's degree or higher,C15002A
+C15002A_006MA,string,Annotation of Margin of Error!!Total!!Male!!Bachelor's degree or higher,C15002A
+C15002A_007EA,string,Annotation of Estimate!!Total!!Female,C15002A
+C15002A_007MA,string,Annotation of Margin of Error!!Total!!Female,C15002A
+C15002A_008EA,string,Annotation of Estimate!!Total!!Female!!Less than high school diploma,C15002A
+C15002A_008MA,string,Annotation of Margin of Error!!Total!!Female!!Less than high school diploma,C15002A
+C15002A_009EA,string,Annotation of Estimate!!Total!!Female!!High school graduate (includes equivalency),C15002A
+C15002A_009MA,string,Annotation of Margin of Error!!Total!!Female!!High school graduate (includes equivalency),C15002A
+C15002A_010EA,string,Annotation of Estimate!!Total!!Female!!Some college or associate's degree,C15002A
+C15002A_010MA,string,Annotation of Margin of Error!!Total!!Female!!Some college or associate's degree,C15002A
+C15002A_011EA,string,Annotation of Estimate!!Total!!Female!!Bachelor's degree or higher,C15002A
+C15002A_011MA,string,Annotation of Margin of Error!!Total!!Female!!Bachelor's degree or higher,C15002A

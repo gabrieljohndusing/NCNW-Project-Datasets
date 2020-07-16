@@ -1,0 +1,169 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2406_C01_001E,int,Estimate!!Total!!Civilian employed population 16 years and over,S2406
+S2406_C01_002E,int,"Estimate!!Total!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C01_003E,int,Estimate!!Total!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C01_004E,int,Estimate!!Total!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C01_005E,int,"Estimate!!Total!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C01_006E,int,"Estimate!!Total!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C01_007E,float,Estimate!!Total!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C02_001E,float,Estimate!!Employee of private company workers!!Civilian employed population 16 years and over,S2406
+S2406_C02_002E,float,"Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C02_003E,float,Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C02_004E,float,Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C02_005E,float,"Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C02_006E,float,"Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C02_007E,int,Estimate!!Employee of private company workers!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C03_001E,float,Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over,S2406
+S2406_C03_002E,float,"Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C03_003E,float,Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C03_004E,float,Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C03_005E,float,"Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C03_006E,float,"Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C03_007E,int,Estimate!!Self-employed in own incorporated business workers!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C04_001E,float,Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over,S2406
+S2406_C04_002E,float,"Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C04_003E,float,Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C04_004E,float,Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C04_005E,float,"Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C04_006E,float,"Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C04_007E,int,Estimate!!Private not-for-profit wage and salary workers!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C05_001E,float,"Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over",S2406
+S2406_C05_002E,float,"Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C05_003E,float,"Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Service occupations",S2406
+S2406_C05_004E,float,"Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Sales and office occupations",S2406
+S2406_C05_005E,float,"Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C05_006E,float,"Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C05_007E,int,"Estimate!!Local, state, and federal government workers!!PERCENT ALLOCATED!!Occupation",S2406
+S2406_C06_001E,float,Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over,S2406
+S2406_C06_002E,float,"Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C06_003E,float,Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C06_004E,float,Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C06_005E,float,"Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C06_006E,float,"Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C06_007E,int,Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C01_001M,int,Margin of Error!!Total MOE!!Civilian employed population 16 years and over,S2406
+S2406_C01_002M,int,"Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C01_003M,int,Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C01_004M,int,Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C01_005M,int,"Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C01_006M,int,"Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C01_007M,float,Margin of Error!!Total MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C02_001M,float,Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over,S2406
+S2406_C02_002M,float,"Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C02_003M,float,Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C02_004M,float,Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C02_005M,float,"Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C02_006M,float,"Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C02_007M,int,Margin of Error!!Employee of private company workers MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C03_001M,float,Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over,S2406
+S2406_C03_002M,float,"Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C03_003M,float,Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C03_004M,float,Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C03_005M,float,"Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C03_006M,float,"Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C03_007M,int,Margin of Error!!Self-employed in own incorporated business workers MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C04_001M,float,Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over,S2406
+S2406_C04_002M,float,"Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C04_003M,float,Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C04_004M,float,Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C04_005M,float,"Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C04_006M,float,"Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C04_007M,int,Margin of Error!!Private not-for-profit wage and salary workers MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C05_001M,float,"Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over",S2406
+S2406_C05_002M,float,"Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C05_003M,float,"Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Service occupations",S2406
+S2406_C05_004M,float,"Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations",S2406
+S2406_C05_005M,float,"Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C05_006M,float,"Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C05_007M,int,"Margin of Error!!Local, state, and federal government workers MOE!!PERCENT ALLOCATED!!Occupation",S2406
+S2406_C06_001M,float,Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over,S2406
+S2406_C06_002M,float,"Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C06_003M,float,Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C06_004M,float,Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C06_005M,float,"Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C06_006M,float,"Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C06_007M,int,Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C01_001EA,string,Annotation of Estimate!!Total!!Civilian employed population 16 years and over,S2406
+S2406_C01_001MA,string,Annotation of Margin of Error!!Total MOE!!Civilian employed population 16 years and over,S2406
+S2406_C01_002EA,string,"Annotation of Estimate!!Total!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C01_002MA,string,"Annotation of Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C01_003EA,string,Annotation of Estimate!!Total!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C01_003MA,string,Annotation of Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C01_004EA,string,Annotation of Estimate!!Total!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C01_004MA,string,Annotation of Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C01_005EA,string,"Annotation of Estimate!!Total!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C01_005MA,string,"Annotation of Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C01_006EA,string,"Annotation of Estimate!!Total!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C01_006MA,string,"Annotation of Margin of Error!!Total MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C01_007EA,string,Annotation of Estimate!!Total!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C01_007MA,string,Annotation of Margin of Error!!Total MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C02_001EA,string,Annotation of Estimate!!Employee of private company workers!!Civilian employed population 16 years and over,S2406
+S2406_C02_001MA,string,Annotation of Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over,S2406
+S2406_C02_002EA,string,"Annotation of Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C02_002MA,string,"Annotation of Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C02_003EA,string,Annotation of Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C02_003MA,string,Annotation of Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C02_004EA,string,Annotation of Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C02_004MA,string,Annotation of Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C02_005EA,string,"Annotation of Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C02_005MA,string,"Annotation of Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C02_006EA,string,"Annotation of Estimate!!Employee of private company workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C02_006MA,string,"Annotation of Margin of Error!!Employee of private company workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C02_007EA,string,Annotation of Estimate!!Employee of private company workers!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C02_007MA,string,Annotation of Margin of Error!!Employee of private company workers MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C03_001EA,string,Annotation of Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over,S2406
+S2406_C03_001MA,string,Annotation of Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over,S2406
+S2406_C03_002EA,string,"Annotation of Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C03_002MA,string,"Annotation of Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C03_003EA,string,Annotation of Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C03_003MA,string,Annotation of Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C03_004EA,string,Annotation of Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C03_004MA,string,Annotation of Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C03_005EA,string,"Annotation of Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C03_005MA,string,"Annotation of Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C03_006EA,string,"Annotation of Estimate!!Self-employed in own incorporated business workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C03_006MA,string,"Annotation of Margin of Error!!Self-employed in own incorporated business workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C03_007EA,string,Annotation of Estimate!!Self-employed in own incorporated business workers!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C03_007MA,string,Annotation of Margin of Error!!Self-employed in own incorporated business workers MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C04_001EA,string,Annotation of Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over,S2406
+S2406_C04_001MA,string,Annotation of Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over,S2406
+S2406_C04_002EA,string,"Annotation of Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C04_002MA,string,"Annotation of Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C04_003EA,string,Annotation of Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C04_003MA,string,Annotation of Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C04_004EA,string,Annotation of Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C04_004MA,string,Annotation of Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C04_005EA,string,"Annotation of Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C04_005MA,string,"Annotation of Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C04_006EA,string,"Annotation of Estimate!!Private not-for-profit wage and salary workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C04_006MA,string,"Annotation of Margin of Error!!Private not-for-profit wage and salary workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C04_007EA,string,Annotation of Estimate!!Private not-for-profit wage and salary workers!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C04_007MA,string,Annotation of Margin of Error!!Private not-for-profit wage and salary workers MOE!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C05_001EA,string,"Annotation of Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over",S2406
+S2406_C05_001MA,string,"Annotation of Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over",S2406
+S2406_C05_002EA,string,"Annotation of Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C05_002MA,string,"Annotation of Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C05_003EA,string,"Annotation of Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Service occupations",S2406
+S2406_C05_003MA,string,"Annotation of Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Service occupations",S2406
+S2406_C05_004EA,string,"Annotation of Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Sales and office occupations",S2406
+S2406_C05_004MA,string,"Annotation of Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations",S2406
+S2406_C05_005EA,string,"Annotation of Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C05_005MA,string,"Annotation of Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C05_006EA,string,"Annotation of Estimate!!Local, state, and federal government workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C05_006MA,string,"Annotation of Margin of Error!!Local, state, and federal government workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C05_007EA,string,"Annotation of Estimate!!Local, state, and federal government workers!!PERCENT ALLOCATED!!Occupation",S2406
+S2406_C05_007MA,string,"Annotation of Margin of Error!!Local, state, and federal government workers MOE!!PERCENT ALLOCATED!!Occupation",S2406
+S2406_C06_001EA,string,Annotation of Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over,S2406
+S2406_C06_001MA,string,Annotation of Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over,S2406
+S2406_C06_002EA,string,"Annotation of Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C06_002MA,string,"Annotation of Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2406
+S2406_C06_003EA,string,Annotation of Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C06_003MA,string,Annotation of Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Service occupations,S2406
+S2406_C06_004EA,string,Annotation of Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C06_004MA,string,Annotation of Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Sales and office occupations,S2406
+S2406_C06_005EA,string,"Annotation of Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C06_005MA,string,"Annotation of Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S2406
+S2406_C06_006EA,string,"Annotation of Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C06_006MA,string,"Annotation of Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2406
+S2406_C06_007EA,string,Annotation of Estimate!!Self-employed in own not incorporated business workers and unpaid family workers!!PERCENT ALLOCATED!!Occupation,S2406
+S2406_C06_007MA,string,Annotation of Margin of Error!!Self-employed in own not incorporated business workers and unpaid family workers MOE!!PERCENT ALLOCATED!!Occupation,S2406
