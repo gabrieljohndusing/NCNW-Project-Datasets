@@ -1,0 +1,101 @@
+VARIABLE,TYPE,LABEL,GROUP
+C06007_001E,int,Estimate!!Total,C06007
+C06007_002E,int,Estimate!!Total!!Speak only English,C06007
+C06007_003E,int,Estimate!!Total!!Speak language other than English,C06007
+C06007_004E,int,"Estimate!!Total!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_005E,int,"Estimate!!Total!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_006E,int,Estimate!!Total!!Born in state of residence,C06007
+C06007_007E,int,Estimate!!Total!!Born in state of residence!!Speak only English,C06007
+C06007_008E,int,Estimate!!Total!!Born in state of residence!!Speak language other than English,C06007
+C06007_009E,int,"Estimate!!Total!!Born in state of residence!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_010E,int,"Estimate!!Total!!Born in state of residence!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_011E,int,Estimate!!Total!!Born in other state in the United States,C06007
+C06007_012E,int,Estimate!!Total!!Born in other state in the United States!!Speak only English,C06007
+C06007_013E,int,Estimate!!Total!!Born in other state in the United States!!Speak language other than English,C06007
+C06007_014E,int,"Estimate!!Total!!Born in other state in the United States!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_015E,int,"Estimate!!Total!!Born in other state in the United States!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_016E,int,Estimate!!Total!!Native; born outside the United States,C06007
+C06007_017E,int,Estimate!!Total!!Native; born outside the United States!!Speak only English,C06007
+C06007_018E,int,Estimate!!Total!!Native; born outside the United States!!Speak language other than English,C06007
+C06007_019E,int,"Estimate!!Total!!Native; born outside the United States!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_020E,int,"Estimate!!Total!!Native; born outside the United States!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_021E,int,Estimate!!Total!!Foreign born,C06007
+C06007_022E,int,Estimate!!Total!!Foreign born!!Speak only English,C06007
+C06007_023E,int,Estimate!!Total!!Foreign born!!Speak language other than English,C06007
+C06007_024E,int,"Estimate!!Total!!Foreign born!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_025E,int,"Estimate!!Total!!Foreign born!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_001M,int,Margin of Error!!Total,C06007
+C06007_002M,int,Margin of Error!!Total!!Speak only English,C06007
+C06007_003M,int,Margin of Error!!Total!!Speak language other than English,C06007
+C06007_004M,int,"Margin of Error!!Total!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_005M,int,"Margin of Error!!Total!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_006M,int,Margin of Error!!Total!!Born in state of residence,C06007
+C06007_007M,int,Margin of Error!!Total!!Born in state of residence!!Speak only English,C06007
+C06007_008M,int,Margin of Error!!Total!!Born in state of residence!!Speak language other than English,C06007
+C06007_009M,int,"Margin of Error!!Total!!Born in state of residence!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_010M,int,"Margin of Error!!Total!!Born in state of residence!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_011M,int,Margin of Error!!Total!!Born in other state in the United States,C06007
+C06007_012M,int,Margin of Error!!Total!!Born in other state in the United States!!Speak only English,C06007
+C06007_013M,int,Margin of Error!!Total!!Born in other state in the United States!!Speak language other than English,C06007
+C06007_014M,int,"Margin of Error!!Total!!Born in other state in the United States!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_015M,int,"Margin of Error!!Total!!Born in other state in the United States!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_016M,int,Margin of Error!!Total!!Native; born outside the United States,C06007
+C06007_017M,int,Margin of Error!!Total!!Native; born outside the United States!!Speak only English,C06007
+C06007_018M,int,Margin of Error!!Total!!Native; born outside the United States!!Speak language other than English,C06007
+C06007_019M,int,"Margin of Error!!Total!!Native; born outside the United States!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_020M,int,"Margin of Error!!Total!!Native; born outside the United States!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_021M,int,Margin of Error!!Total!!Foreign born,C06007
+C06007_022M,int,Margin of Error!!Total!!Foreign born!!Speak only English,C06007
+C06007_023M,int,Margin of Error!!Total!!Foreign born!!Speak language other than English,C06007
+C06007_024M,int,"Margin of Error!!Total!!Foreign born!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_025M,int,"Margin of Error!!Total!!Foreign born!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_001EA,string,Annotation of Estimate!!Total,C06007
+C06007_001MA,string,Annotation of Margin of Error!!Total,C06007
+C06007_002EA,string,Annotation of Estimate!!Total!!Speak only English,C06007
+C06007_002MA,string,Annotation of Margin of Error!!Total!!Speak only English,C06007
+C06007_003EA,string,Annotation of Estimate!!Total!!Speak language other than English,C06007
+C06007_003MA,string,Annotation of Margin of Error!!Total!!Speak language other than English,C06007
+C06007_004EA,string,"Annotation of Estimate!!Total!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_004MA,string,"Annotation of Margin of Error!!Total!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_005EA,string,"Annotation of Estimate!!Total!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_005MA,string,"Annotation of Margin of Error!!Total!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_006EA,string,Annotation of Estimate!!Total!!Born in state of residence,C06007
+C06007_006MA,string,Annotation of Margin of Error!!Total!!Born in state of residence,C06007
+C06007_007EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Speak only English,C06007
+C06007_007MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Speak only English,C06007
+C06007_008EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Speak language other than English,C06007
+C06007_008MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Speak language other than English,C06007
+C06007_009EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_009MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_010EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_010MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_011EA,string,Annotation of Estimate!!Total!!Born in other state in the United States,C06007
+C06007_011MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States,C06007
+C06007_012EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Speak only English,C06007
+C06007_012MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Speak only English,C06007
+C06007_013EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Speak language other than English,C06007
+C06007_013MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Speak language other than English,C06007
+C06007_014EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_014MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_015EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_015MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_016EA,string,Annotation of Estimate!!Total!!Native; born outside the United States,C06007
+C06007_016MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States,C06007
+C06007_017EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Speak only English,C06007
+C06007_017MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Speak only English,C06007
+C06007_018EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Speak language other than English,C06007
+C06007_018MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Speak language other than English,C06007
+C06007_019EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_019MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_020EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_020MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_021EA,string,Annotation of Estimate!!Total!!Foreign born,C06007
+C06007_021MA,string,Annotation of Margin of Error!!Total!!Foreign born,C06007
+C06007_022EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak only English,C06007
+C06007_022MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak only English,C06007
+C06007_023EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak language other than English,C06007
+C06007_023MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak language other than English,C06007
+C06007_024EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_024MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak language other than English!!Speak English ""very well""",C06007
+C06007_025EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak language other than English!!Speak English less than ""very well""",C06007
+C06007_025MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak language other than English!!Speak English less than ""very well""",C06007

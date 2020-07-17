@@ -1,0 +1,401 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1101_C01_001E,int,Total!!Estimate!!Total households,S1101
+S1101_C01_002E,int,Total!!Estimate!!Average household size,S1101
+S1101_C01_003E,int,Total!!Estimate!!FAMILIES!!Total families,S1101
+S1101_C01_004E,int,Total!!Estimate!!FAMILIES!!Average family size,S1101
+S1101_C01_005E,int,Total!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C01_006E,int,Total!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C01_007E,int,Total!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C01_008E,int,Total!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C01_009E,int,Total!!Estimate!!Total households,S1101
+S1101_C01_010E,int,Total!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C01_011E,int,Total!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C01_012E,int,Total!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C01_013E,int,Total!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C01_014E,int,Total!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C01_015E,int,Total!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C01_016E,int,Total!!Estimate!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C01_017E,int,Total!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C01_018E,int,Total!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C01_019E,int,Total!!Estimate!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C01_020E,int,Total!!Estimate!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C02_001E,int,Married-couple family household!!Estimate!!Total households,S1101
+S1101_C02_002E,int,Married-couple family household!!Estimate!!Average household size,S1101
+S1101_C02_003E,int,Married-couple family household!!Estimate!!FAMILIES!!Total families,S1101
+S1101_C02_004E,int,Married-couple family household!!Estimate!!FAMILIES!!Average family size,S1101
+S1101_C02_005E,int,Married-couple family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C02_006E,int,Married-couple family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C02_007E,int,Married-couple family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C02_008E,int,Married-couple family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C02_009E,int,Married-couple family household!!Estimate!!Total households,S1101
+S1101_C02_010E,int,Married-couple family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C02_011E,int,Married-couple family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C02_012E,int,Married-couple family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C02_013E,int,Married-couple family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C02_014E,int,Married-couple family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C02_015E,int,Married-couple family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C02_016E,int,Married-couple family household!!Estimate!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C02_017E,int,Married-couple family household!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C02_018E,int,Married-couple family household!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C02_019E,int,Married-couple family household!!Estimate!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C02_020E,int,Married-couple family household!!Estimate!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C03_001E,int,"Male householder, no wife present, family household!!Estimate!!Total households",S1101
+S1101_C03_002E,int,"Male householder, no wife present, family household!!Estimate!!Average household size",S1101
+S1101_C03_003E,int,"Male householder, no wife present, family household!!Estimate!!FAMILIES!!Total families",S1101
+S1101_C03_004E,int,"Male householder, no wife present, family household!!Estimate!!FAMILIES!!Average family size",S1101
+S1101_C03_005E,int,"Male householder, no wife present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years",S1101
+S1101_C03_006E,int,"Male householder, no wife present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only",S1101
+S1101_C03_007E,int,"Male householder, no wife present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years",S1101
+S1101_C03_008E,int,"Male householder, no wife present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only",S1101
+S1101_C03_009E,int,"Male householder, no wife present, family household!!Estimate!!Total households",S1101
+S1101_C03_010E,int,"Male householder, no wife present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years",S1101
+S1101_C03_011E,int,"Male householder, no wife present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over",S1101
+S1101_C03_012E,int,"Male householder, no wife present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone",S1101
+S1101_C03_013E,int,"Male householder, no wife present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over",S1101
+S1101_C03_014E,int,"Male householder, no wife present, family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex",S1101
+S1101_C03_015E,int,"Male householder, no wife present, family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex",S1101
+S1101_C03_016E,int,"Male householder, no wife present, family household!!Estimate!!UNITS IN STRUCTURE!!1-unit structures",S1101
+S1101_C03_017E,int,"Male householder, no wife present, family household!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures",S1101
+S1101_C03_018E,int,"Male householder, no wife present, family household!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units",S1101
+S1101_C03_019E,int,"Male householder, no wife present, family household!!Estimate!!HOUSING TENURE!!Owner-occupied housing units",S1101
+S1101_C03_020E,int,"Male householder, no wife present, family household!!Estimate!!HOUSING TENURE!!Renter-occupied housing units",S1101
+S1101_C04_001E,int,"Female householder, no husband present, family household!!Estimate!!Total households",S1101
+S1101_C04_002E,int,"Female householder, no husband present, family household!!Estimate!!Average household size",S1101
+S1101_C04_003E,int,"Female householder, no husband present, family household!!Estimate!!FAMILIES!!Total families",S1101
+S1101_C04_004E,int,"Female householder, no husband present, family household!!Estimate!!FAMILIES!!Average family size",S1101
+S1101_C04_005E,int,"Female householder, no husband present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years",S1101
+S1101_C04_006E,int,"Female householder, no husband present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only",S1101
+S1101_C04_007E,int,"Female householder, no husband present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years",S1101
+S1101_C04_008E,int,"Female householder, no husband present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only",S1101
+S1101_C04_009E,int,"Female householder, no husband present, family household!!Estimate!!Total households",S1101
+S1101_C04_010E,int,"Female householder, no husband present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years",S1101
+S1101_C04_011E,int,"Female householder, no husband present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over",S1101
+S1101_C04_012E,int,"Female householder, no husband present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone",S1101
+S1101_C04_013E,int,"Female householder, no husband present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over",S1101
+S1101_C04_014E,int,"Female householder, no husband present, family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex",S1101
+S1101_C04_015E,int,"Female householder, no husband present, family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex",S1101
+S1101_C04_016E,int,"Female householder, no husband present, family household!!Estimate!!UNITS IN STRUCTURE!!1-unit structures",S1101
+S1101_C04_017E,int,"Female householder, no husband present, family household!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures",S1101
+S1101_C04_018E,int,"Female householder, no husband present, family household!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units",S1101
+S1101_C04_019E,int,"Female householder, no husband present, family household!!Estimate!!HOUSING TENURE!!Owner-occupied housing units",S1101
+S1101_C04_020E,int,"Female householder, no husband present, family household!!Estimate!!HOUSING TENURE!!Renter-occupied housing units",S1101
+S1101_C05_001E,int,Nonfamily household!!Estimate!!Total households,S1101
+S1101_C05_002E,int,Nonfamily household!!Estimate!!Average household size,S1101
+S1101_C05_003E,int,Nonfamily household!!Estimate!!FAMILIES!!Total families,S1101
+S1101_C05_004E,int,Nonfamily household!!Estimate!!FAMILIES!!Average family size,S1101
+S1101_C05_005E,int,Nonfamily household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C05_006E,int,Nonfamily household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C05_007E,int,Nonfamily household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C05_008E,int,Nonfamily household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C05_009E,int,Nonfamily household!!Estimate!!Total households,S1101
+S1101_C05_010E,int,Nonfamily household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C05_011E,int,Nonfamily household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C05_012E,int,Nonfamily household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C05_013E,int,Nonfamily household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C05_014E,int,Nonfamily household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C05_015E,int,Nonfamily household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C05_016E,int,Nonfamily household!!Estimate!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C05_017E,int,Nonfamily household!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C05_018E,int,Nonfamily household!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C05_019E,int,Nonfamily household!!Estimate!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C05_020E,int,Nonfamily household!!Estimate!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C01_001M,int,Total!!Margin of Error!!Total households,S1101
+S1101_C01_002M,int,Total!!Margin of Error!!Average household size,S1101
+S1101_C01_003M,int,Total!!Margin of Error!!FAMILIES!!Total families,S1101
+S1101_C01_004M,int,Total!!Margin of Error!!FAMILIES!!Average family size,S1101
+S1101_C01_005M,int,Total!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C01_006M,int,Total!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C01_007M,int,Total!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C01_008M,int,Total!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C01_009M,int,Total!!Margin of Error!!Total households,S1101
+S1101_C01_010M,int,Total!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C01_011M,int,Total!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C01_012M,int,Total!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C01_013M,int,Total!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C01_014M,int,Total!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C01_015M,int,Total!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C01_016M,int,Total!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C01_017M,int,Total!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C01_018M,int,Total!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C01_019M,int,Total!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C01_020M,int,Total!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C02_001M,int,Married-couple family household!!Margin of Error!!Total households,S1101
+S1101_C02_002M,int,Married-couple family household!!Margin of Error!!Average household size,S1101
+S1101_C02_003M,int,Married-couple family household!!Margin of Error!!FAMILIES!!Total families,S1101
+S1101_C02_004M,int,Married-couple family household!!Margin of Error!!FAMILIES!!Average family size,S1101
+S1101_C02_005M,int,Married-couple family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C02_006M,int,Married-couple family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C02_007M,int,Married-couple family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C02_008M,int,Married-couple family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C02_009M,int,Married-couple family household!!Margin of Error!!Total households,S1101
+S1101_C02_010M,int,Married-couple family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C02_011M,int,Married-couple family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C02_012M,int,Married-couple family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C02_013M,int,Married-couple family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C02_014M,int,Married-couple family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C02_015M,int,Married-couple family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C02_016M,int,Married-couple family household!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C02_017M,int,Married-couple family household!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C02_018M,int,Married-couple family household!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C02_019M,int,Married-couple family household!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C02_020M,int,Married-couple family household!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C03_001M,int,"Male householder, no wife present, family household!!Margin of Error!!Total households",S1101
+S1101_C03_002M,int,"Male householder, no wife present, family household!!Margin of Error!!Average household size",S1101
+S1101_C03_003M,int,"Male householder, no wife present, family household!!Margin of Error!!FAMILIES!!Total families",S1101
+S1101_C03_004M,int,"Male householder, no wife present, family household!!Margin of Error!!FAMILIES!!Average family size",S1101
+S1101_C03_005M,int,"Male householder, no wife present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years",S1101
+S1101_C03_006M,int,"Male householder, no wife present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only",S1101
+S1101_C03_007M,int,"Male householder, no wife present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years",S1101
+S1101_C03_008M,int,"Male householder, no wife present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only",S1101
+S1101_C03_009M,int,"Male householder, no wife present, family household!!Margin of Error!!Total households",S1101
+S1101_C03_010M,int,"Male householder, no wife present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years",S1101
+S1101_C03_011M,int,"Male householder, no wife present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over",S1101
+S1101_C03_012M,int,"Male householder, no wife present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone",S1101
+S1101_C03_013M,int,"Male householder, no wife present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over",S1101
+S1101_C03_014M,int,"Male householder, no wife present, family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex",S1101
+S1101_C03_015M,int,"Male householder, no wife present, family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex",S1101
+S1101_C03_016M,int,"Male householder, no wife present, family household!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures",S1101
+S1101_C03_017M,int,"Male householder, no wife present, family household!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures",S1101
+S1101_C03_018M,int,"Male householder, no wife present, family household!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units",S1101
+S1101_C03_019M,int,"Male householder, no wife present, family household!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units",S1101
+S1101_C03_020M,int,"Male householder, no wife present, family household!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units",S1101
+S1101_C04_001M,int,"Female householder, no husband present, family household!!Margin of Error!!Total households",S1101
+S1101_C04_002M,int,"Female householder, no husband present, family household!!Margin of Error!!Average household size",S1101
+S1101_C04_003M,int,"Female householder, no husband present, family household!!Margin of Error!!FAMILIES!!Total families",S1101
+S1101_C04_004M,int,"Female householder, no husband present, family household!!Margin of Error!!FAMILIES!!Average family size",S1101
+S1101_C04_005M,int,"Female householder, no husband present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years",S1101
+S1101_C04_006M,int,"Female householder, no husband present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only",S1101
+S1101_C04_007M,int,"Female householder, no husband present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years",S1101
+S1101_C04_008M,int,"Female householder, no husband present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only",S1101
+S1101_C04_009M,int,"Female householder, no husband present, family household!!Margin of Error!!Total households",S1101
+S1101_C04_010M,int,"Female householder, no husband present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years",S1101
+S1101_C04_011M,int,"Female householder, no husband present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over",S1101
+S1101_C04_012M,int,"Female householder, no husband present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone",S1101
+S1101_C04_013M,int,"Female householder, no husband present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over",S1101
+S1101_C04_014M,int,"Female householder, no husband present, family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex",S1101
+S1101_C04_015M,int,"Female householder, no husband present, family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex",S1101
+S1101_C04_016M,int,"Female householder, no husband present, family household!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures",S1101
+S1101_C04_017M,int,"Female householder, no husband present, family household!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures",S1101
+S1101_C04_018M,int,"Female householder, no husband present, family household!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units",S1101
+S1101_C04_019M,int,"Female householder, no husband present, family household!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units",S1101
+S1101_C04_020M,int,"Female householder, no husband present, family household!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units",S1101
+S1101_C05_001M,int,Nonfamily household!!Margin of Error!!Total households,S1101
+S1101_C05_002M,int,Nonfamily household!!Margin of Error!!Average household size,S1101
+S1101_C05_003M,int,Nonfamily household!!Margin of Error!!FAMILIES!!Total families,S1101
+S1101_C05_004M,int,Nonfamily household!!Margin of Error!!FAMILIES!!Average family size,S1101
+S1101_C05_005M,int,Nonfamily household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C05_006M,int,Nonfamily household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C05_007M,int,Nonfamily household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C05_008M,int,Nonfamily household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C05_009M,int,Nonfamily household!!Margin of Error!!Total households,S1101
+S1101_C05_010M,int,Nonfamily household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C05_011M,int,Nonfamily household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C05_012M,int,Nonfamily household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C05_013M,int,Nonfamily household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C05_014M,int,Nonfamily household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C05_015M,int,Nonfamily household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C05_016M,int,Nonfamily household!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C05_017M,int,Nonfamily household!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C05_018M,int,Nonfamily household!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C05_019M,int,Nonfamily household!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C05_020M,int,Nonfamily household!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C01_001EA,string,Annotation of Total!!Estimate!!Total households,S1101
+S1101_C01_001MA,string,Annotation of Total!!Margin of Error!!Total households,S1101
+S1101_C01_002EA,string,Annotation of Total!!Estimate!!Average household size,S1101
+S1101_C01_002MA,string,Annotation of Total!!Margin of Error!!Average household size,S1101
+S1101_C01_003EA,string,Annotation of Total!!Estimate!!FAMILIES!!Total families,S1101
+S1101_C01_003MA,string,Annotation of Total!!Margin of Error!!FAMILIES!!Total families,S1101
+S1101_C01_004EA,string,Annotation of Total!!Estimate!!FAMILIES!!Average family size,S1101
+S1101_C01_004MA,string,Annotation of Total!!Margin of Error!!FAMILIES!!Average family size,S1101
+S1101_C01_005EA,string,Annotation of Total!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C01_005MA,string,Annotation of Total!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C01_006EA,string,Annotation of Total!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C01_006MA,string,Annotation of Total!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C01_007EA,string,Annotation of Total!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C01_007MA,string,Annotation of Total!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C01_008EA,string,Annotation of Total!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C01_008MA,string,Annotation of Total!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C01_009EA,string,Annotation of Total!!Estimate!!Total households,S1101
+S1101_C01_009MA,string,Annotation of Total!!Margin of Error!!Total households,S1101
+S1101_C01_010EA,string,Annotation of Total!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C01_010MA,string,Annotation of Total!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C01_011EA,string,Annotation of Total!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C01_011MA,string,Annotation of Total!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C01_012EA,string,Annotation of Total!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C01_012MA,string,Annotation of Total!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C01_013EA,string,Annotation of Total!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C01_013MA,string,Annotation of Total!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C01_014EA,string,Annotation of Total!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C01_014MA,string,Annotation of Total!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C01_015EA,string,Annotation of Total!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C01_015MA,string,Annotation of Total!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C01_016EA,string,Annotation of Total!!Estimate!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C01_016MA,string,Annotation of Total!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C01_017EA,string,Annotation of Total!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C01_017MA,string,Annotation of Total!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C01_018EA,string,Annotation of Total!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C01_018MA,string,Annotation of Total!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C01_019EA,string,Annotation of Total!!Estimate!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C01_019MA,string,Annotation of Total!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C01_020EA,string,Annotation of Total!!Estimate!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C01_020MA,string,Annotation of Total!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C02_001EA,string,Annotation of Married-couple family household!!Estimate!!Total households,S1101
+S1101_C02_001MA,string,Annotation of Married-couple family household!!Margin of Error!!Total households,S1101
+S1101_C02_002EA,string,Annotation of Married-couple family household!!Estimate!!Average household size,S1101
+S1101_C02_002MA,string,Annotation of Married-couple family household!!Margin of Error!!Average household size,S1101
+S1101_C02_003EA,string,Annotation of Married-couple family household!!Estimate!!FAMILIES!!Total families,S1101
+S1101_C02_003MA,string,Annotation of Married-couple family household!!Margin of Error!!FAMILIES!!Total families,S1101
+S1101_C02_004EA,string,Annotation of Married-couple family household!!Estimate!!FAMILIES!!Average family size,S1101
+S1101_C02_004MA,string,Annotation of Married-couple family household!!Margin of Error!!FAMILIES!!Average family size,S1101
+S1101_C02_005EA,string,Annotation of Married-couple family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C02_005MA,string,Annotation of Married-couple family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C02_006EA,string,Annotation of Married-couple family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C02_006MA,string,Annotation of Married-couple family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C02_007EA,string,Annotation of Married-couple family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C02_007MA,string,Annotation of Married-couple family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C02_008EA,string,Annotation of Married-couple family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C02_008MA,string,Annotation of Married-couple family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C02_009EA,string,Annotation of Married-couple family household!!Estimate!!Total households,S1101
+S1101_C02_009MA,string,Annotation of Married-couple family household!!Margin of Error!!Total households,S1101
+S1101_C02_010EA,string,Annotation of Married-couple family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C02_010MA,string,Annotation of Married-couple family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C02_011EA,string,Annotation of Married-couple family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C02_011MA,string,Annotation of Married-couple family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C02_012EA,string,Annotation of Married-couple family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C02_012MA,string,Annotation of Married-couple family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C02_013EA,string,Annotation of Married-couple family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C02_013MA,string,Annotation of Married-couple family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C02_014EA,string,Annotation of Married-couple family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C02_014MA,string,Annotation of Married-couple family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C02_015EA,string,Annotation of Married-couple family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C02_015MA,string,Annotation of Married-couple family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C02_016EA,string,Annotation of Married-couple family household!!Estimate!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C02_016MA,string,Annotation of Married-couple family household!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C02_017EA,string,Annotation of Married-couple family household!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C02_017MA,string,Annotation of Married-couple family household!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C02_018EA,string,Annotation of Married-couple family household!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C02_018MA,string,Annotation of Married-couple family household!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C02_019EA,string,Annotation of Married-couple family household!!Estimate!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C02_019MA,string,Annotation of Married-couple family household!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C02_020EA,string,Annotation of Married-couple family household!!Estimate!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C02_020MA,string,Annotation of Married-couple family household!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C03_001EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!Total households",S1101
+S1101_C03_001MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!Total households",S1101
+S1101_C03_002EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!Average household size",S1101
+S1101_C03_002MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!Average household size",S1101
+S1101_C03_003EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!FAMILIES!!Total families",S1101
+S1101_C03_003MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!FAMILIES!!Total families",S1101
+S1101_C03_004EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!FAMILIES!!Average family size",S1101
+S1101_C03_004MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!FAMILIES!!Average family size",S1101
+S1101_C03_005EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years",S1101
+S1101_C03_005MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years",S1101
+S1101_C03_006EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only",S1101
+S1101_C03_006MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only",S1101
+S1101_C03_007EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years",S1101
+S1101_C03_007MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years",S1101
+S1101_C03_008EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only",S1101
+S1101_C03_008MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only",S1101
+S1101_C03_009EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!Total households",S1101
+S1101_C03_009MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!Total households",S1101
+S1101_C03_010EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years",S1101
+S1101_C03_010MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years",S1101
+S1101_C03_011EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over",S1101
+S1101_C03_011MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over",S1101
+S1101_C03_012EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone",S1101
+S1101_C03_012MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone",S1101
+S1101_C03_013EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over",S1101
+S1101_C03_013MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over",S1101
+S1101_C03_014EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex",S1101
+S1101_C03_014MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex",S1101
+S1101_C03_015EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex",S1101
+S1101_C03_015MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex",S1101
+S1101_C03_016EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!UNITS IN STRUCTURE!!1-unit structures",S1101
+S1101_C03_016MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures",S1101
+S1101_C03_017EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures",S1101
+S1101_C03_017MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures",S1101
+S1101_C03_018EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units",S1101
+S1101_C03_018MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units",S1101
+S1101_C03_019EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!HOUSING TENURE!!Owner-occupied housing units",S1101
+S1101_C03_019MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units",S1101
+S1101_C03_020EA,string,"Annotation of Male householder, no wife present, family household!!Estimate!!HOUSING TENURE!!Renter-occupied housing units",S1101
+S1101_C03_020MA,string,"Annotation of Male householder, no wife present, family household!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units",S1101
+S1101_C04_001EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!Total households",S1101
+S1101_C04_001MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!Total households",S1101
+S1101_C04_002EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!Average household size",S1101
+S1101_C04_002MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!Average household size",S1101
+S1101_C04_003EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!FAMILIES!!Total families",S1101
+S1101_C04_003MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!FAMILIES!!Total families",S1101
+S1101_C04_004EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!FAMILIES!!Average family size",S1101
+S1101_C04_004MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!FAMILIES!!Average family size",S1101
+S1101_C04_005EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years",S1101
+S1101_C04_005MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years",S1101
+S1101_C04_006EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only",S1101
+S1101_C04_006MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only",S1101
+S1101_C04_007EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years",S1101
+S1101_C04_007MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years",S1101
+S1101_C04_008EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only",S1101
+S1101_C04_008MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only",S1101
+S1101_C04_009EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!Total households",S1101
+S1101_C04_009MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!Total households",S1101
+S1101_C04_010EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years",S1101
+S1101_C04_010MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years",S1101
+S1101_C04_011EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over",S1101
+S1101_C04_011MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over",S1101
+S1101_C04_012EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone",S1101
+S1101_C04_012MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone",S1101
+S1101_C04_013EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over",S1101
+S1101_C04_013MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over",S1101
+S1101_C04_014EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex",S1101
+S1101_C04_014MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex",S1101
+S1101_C04_015EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex",S1101
+S1101_C04_015MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex",S1101
+S1101_C04_016EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!UNITS IN STRUCTURE!!1-unit structures",S1101
+S1101_C04_016MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures",S1101
+S1101_C04_017EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures",S1101
+S1101_C04_017MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures",S1101
+S1101_C04_018EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units",S1101
+S1101_C04_018MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units",S1101
+S1101_C04_019EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!HOUSING TENURE!!Owner-occupied housing units",S1101
+S1101_C04_019MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units",S1101
+S1101_C04_020EA,string,"Annotation of Female householder, no husband present, family household!!Estimate!!HOUSING TENURE!!Renter-occupied housing units",S1101
+S1101_C04_020MA,string,"Annotation of Female householder, no husband present, family household!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units",S1101
+S1101_C05_001EA,string,Annotation of Nonfamily household!!Estimate!!Total households,S1101
+S1101_C05_001MA,string,Annotation of Nonfamily household!!Margin of Error!!Total households,S1101
+S1101_C05_002EA,string,Annotation of Nonfamily household!!Estimate!!Average household size,S1101
+S1101_C05_002MA,string,Annotation of Nonfamily household!!Margin of Error!!Average household size,S1101
+S1101_C05_003EA,string,Annotation of Nonfamily household!!Estimate!!FAMILIES!!Total families,S1101
+S1101_C05_003MA,string,Annotation of Nonfamily household!!Margin of Error!!FAMILIES!!Total families,S1101
+S1101_C05_004EA,string,Annotation of Nonfamily household!!Estimate!!FAMILIES!!Average family size,S1101
+S1101_C05_004MA,string,Annotation of Nonfamily household!!Margin of Error!!FAMILIES!!Average family size,S1101
+S1101_C05_005EA,string,Annotation of Nonfamily household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C05_005MA,string,Annotation of Nonfamily household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years,S1101
+S1101_C05_006EA,string,Annotation of Nonfamily household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C05_006MA,string,Annotation of Nonfamily household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years only,S1101
+S1101_C05_007EA,string,Annotation of Nonfamily household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C05_007MA,string,Annotation of Nonfamily household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!Under 6 years and 6 to 17 years,S1101
+S1101_C05_008EA,string,Annotation of Nonfamily household!!Estimate!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C05_008MA,string,Annotation of Nonfamily household!!Margin of Error!!AGE OF OWN CHILDREN!!Households with own children of the householder under 18 years!!6 to 17 years only,S1101
+S1101_C05_009EA,string,Annotation of Nonfamily household!!Estimate!!Total households,S1101
+S1101_C05_009MA,string,Annotation of Nonfamily household!!Margin of Error!!Total households,S1101
+S1101_C05_010EA,string,Annotation of Nonfamily household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C05_010MA,string,Annotation of Nonfamily household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,S1101
+S1101_C05_011EA,string,Annotation of Nonfamily household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C05_011MA,string,Annotation of Nonfamily household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Households with one or more people 60 years and over,S1101
+S1101_C05_012EA,string,Annotation of Nonfamily household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C05_012MA,string,Annotation of Nonfamily household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone,S1101
+S1101_C05_013EA,string,Annotation of Nonfamily household!!Estimate!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C05_013MA,string,Annotation of Nonfamily household!!Margin of Error!!Total households!!SELECTED HOUSEHOLDS BY TYPE!!Householder living alone!!65 years and over,S1101
+S1101_C05_014EA,string,Annotation of Nonfamily household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C05_014MA,string,Annotation of Nonfamily household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Same sex,S1101
+S1101_C05_015EA,string,Annotation of Nonfamily household!!Estimate!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C05_015MA,string,Annotation of Nonfamily household!!Margin of Error!!UNMARRIED-PARTNER HOUSEHOLDS!!Opposite sex,S1101
+S1101_C05_016EA,string,Annotation of Nonfamily household!!Estimate!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C05_016MA,string,Annotation of Nonfamily household!!Margin of Error!!UNITS IN STRUCTURE!!1-unit structures,S1101
+S1101_C05_017EA,string,Annotation of Nonfamily household!!Estimate!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C05_017MA,string,Annotation of Nonfamily household!!Margin of Error!!UNITS IN STRUCTURE!!2-or-more-unit structures,S1101
+S1101_C05_018EA,string,Annotation of Nonfamily household!!Estimate!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C05_018MA,string,Annotation of Nonfamily household!!Margin of Error!!UNITS IN STRUCTURE!!Mobile homes and all other types of units,S1101
+S1101_C05_019EA,string,Annotation of Nonfamily household!!Estimate!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C05_019MA,string,Annotation of Nonfamily household!!Margin of Error!!HOUSING TENURE!!Owner-occupied housing units,S1101
+S1101_C05_020EA,string,Annotation of Nonfamily household!!Estimate!!HOUSING TENURE!!Renter-occupied housing units,S1101
+S1101_C05_020MA,string,Annotation of Nonfamily household!!Margin of Error!!HOUSING TENURE!!Renter-occupied housing units,S1101

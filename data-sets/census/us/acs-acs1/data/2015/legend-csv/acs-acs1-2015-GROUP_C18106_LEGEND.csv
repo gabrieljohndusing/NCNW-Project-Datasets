@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18106_001E,int,Estimate!!Total,C18106
+C18106_002E,int,Estimate!!Total!!Male,C18106
+C18106_003E,int,Estimate!!Total!!Male!!5 to 17 years,C18106
+C18106_004E,int,Estimate!!Total!!Male!!5 to 17 years!!With a self-care difficulty,C18106
+C18106_005E,int,Estimate!!Total!!Male!!5 to 17 years!!No self-care difficulty,C18106
+C18106_006E,int,Estimate!!Total!!Male!!18 to 64 years,C18106
+C18106_007E,int,Estimate!!Total!!Male!!18 to 64 years!!With a self-care difficulty,C18106
+C18106_008E,int,Estimate!!Total!!Male!!18 to 64 years!!No self-care difficulty,C18106
+C18106_009E,int,Estimate!!Total!!Male!!65 years and over,C18106
+C18106_010E,int,Estimate!!Total!!Male!!65 years and over!!With a self-care difficulty,C18106
+C18106_011E,int,Estimate!!Total!!Male!!65 years and over!!No self-care difficulty,C18106
+C18106_012E,int,Estimate!!Total!!Female,C18106
+C18106_013E,int,Estimate!!Total!!Female!!5 to 17 years,C18106
+C18106_014E,int,Estimate!!Total!!Female!!5 to 17 years!!With a self-care difficulty,C18106
+C18106_015E,int,Estimate!!Total!!Female!!5 to 17 years!!No self-care difficulty,C18106
+C18106_016E,int,Estimate!!Total!!Female!!18 to 64 years,C18106
+C18106_017E,int,Estimate!!Total!!Female!!18 to 64 years!!With a self-care difficulty,C18106
+C18106_018E,int,Estimate!!Total!!Female!!18 to 64 years!!No self-care difficulty,C18106
+C18106_019E,int,Estimate!!Total!!Female!!65 years and over,C18106
+C18106_020E,int,Estimate!!Total!!Female!!65 years and over!!With a self-care difficulty,C18106
+C18106_021E,int,Estimate!!Total!!Female!!65 years and over!!No self-care difficulty,C18106
+C18106_001M,int,Margin of Error!!Total,C18106
+C18106_002M,int,Margin of Error!!Total!!Male,C18106
+C18106_003M,int,Margin of Error!!Total!!Male!!5 to 17 years,C18106
+C18106_004M,int,Margin of Error!!Total!!Male!!5 to 17 years!!With a self-care difficulty,C18106
+C18106_005M,int,Margin of Error!!Total!!Male!!5 to 17 years!!No self-care difficulty,C18106
+C18106_006M,int,Margin of Error!!Total!!Male!!18 to 64 years,C18106
+C18106_007M,int,Margin of Error!!Total!!Male!!18 to 64 years!!With a self-care difficulty,C18106
+C18106_008M,int,Margin of Error!!Total!!Male!!18 to 64 years!!No self-care difficulty,C18106
+C18106_009M,int,Margin of Error!!Total!!Male!!65 years and over,C18106
+C18106_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With a self-care difficulty,C18106
+C18106_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No self-care difficulty,C18106
+C18106_012M,int,Margin of Error!!Total!!Female,C18106
+C18106_013M,int,Margin of Error!!Total!!Female!!5 to 17 years,C18106
+C18106_014M,int,Margin of Error!!Total!!Female!!5 to 17 years!!With a self-care difficulty,C18106
+C18106_015M,int,Margin of Error!!Total!!Female!!5 to 17 years!!No self-care difficulty,C18106
+C18106_016M,int,Margin of Error!!Total!!Female!!18 to 64 years,C18106
+C18106_017M,int,Margin of Error!!Total!!Female!!18 to 64 years!!With a self-care difficulty,C18106
+C18106_018M,int,Margin of Error!!Total!!Female!!18 to 64 years!!No self-care difficulty,C18106
+C18106_019M,int,Margin of Error!!Total!!Female!!65 years and over,C18106
+C18106_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With a self-care difficulty,C18106
+C18106_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No self-care difficulty,C18106
+C18106_001EA,string,Annotation of Estimate!!Total,C18106
+C18106_001MA,string,Annotation of Margin of Error!!Total,C18106
+C18106_002EA,string,Annotation of Estimate!!Total!!Male,C18106
+C18106_002MA,string,Annotation of Margin of Error!!Total!!Male,C18106
+C18106_003EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years,C18106
+C18106_003MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years,C18106
+C18106_004EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years!!With a self-care difficulty,C18106
+C18106_004MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years!!With a self-care difficulty,C18106
+C18106_005EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years!!No self-care difficulty,C18106
+C18106_005MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years!!No self-care difficulty,C18106
+C18106_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C18106
+C18106_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C18106
+C18106_007EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!With a self-care difficulty,C18106
+C18106_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!With a self-care difficulty,C18106
+C18106_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!No self-care difficulty,C18106
+C18106_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!No self-care difficulty,C18106
+C18106_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C18106
+C18106_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C18106
+C18106_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With a self-care difficulty,C18106
+C18106_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With a self-care difficulty,C18106
+C18106_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No self-care difficulty,C18106
+C18106_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No self-care difficulty,C18106
+C18106_012EA,string,Annotation of Estimate!!Total!!Female,C18106
+C18106_012MA,string,Annotation of Margin of Error!!Total!!Female,C18106
+C18106_013EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years,C18106
+C18106_013MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years,C18106
+C18106_014EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years!!With a self-care difficulty,C18106
+C18106_014MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years!!With a self-care difficulty,C18106
+C18106_015EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years!!No self-care difficulty,C18106
+C18106_015MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years!!No self-care difficulty,C18106
+C18106_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C18106
+C18106_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C18106
+C18106_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!With a self-care difficulty,C18106
+C18106_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!With a self-care difficulty,C18106
+C18106_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!No self-care difficulty,C18106
+C18106_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!No self-care difficulty,C18106
+C18106_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C18106
+C18106_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C18106
+C18106_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With a self-care difficulty,C18106
+C18106_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With a self-care difficulty,C18106
+C18106_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No self-care difficulty,C18106
+C18106_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No self-care difficulty,C18106

@@ -1,0 +1,541 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2404_C01_001E,int,"Total!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C01_002E,int,"Total!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C01_003E,int,"Total!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C01_004E,int,"Total!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C01_005E,int,Total!!Estimate!!Construction,S2404
+S2404_C01_006E,int,Total!!Estimate!!Manufacturing,S2404
+S2404_C01_007E,int,Total!!Estimate!!Wholesale trade,S2404
+S2404_C01_008E,int,Total!!Estimate!!Retail trade,S2404
+S2404_C01_009E,int,"Total!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C01_010E,int,"Total!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C01_011E,int,"Total!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C01_012E,int,Total!!Estimate!!Information,S2404
+S2404_C01_013E,int,"Total!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C01_014E,int,"Total!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C01_015E,int,"Total!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C01_016E,int,"Total!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C01_017E,int,"Total!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C01_018E,int,"Total!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C01_019E,int,"Total!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C01_020E,int,"Total!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C01_021E,int,"Total!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C01_022E,int,"Total!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C01_023E,int,"Total!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C01_024E,int,"Total!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C01_025E,int,"Total!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C01_026E,int,"Total!!Estimate!!Other services, except public administration",S2404
+S2404_C01_027E,int,Total!!Estimate!!Public administration,S2404
+S2404_C02_001E,int,"Male!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C02_002E,int,"Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C02_003E,int,"Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C02_004E,int,"Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C02_005E,int,Male!!Estimate!!Construction,S2404
+S2404_C02_006E,int,Male!!Estimate!!Manufacturing,S2404
+S2404_C02_007E,int,Male!!Estimate!!Wholesale trade,S2404
+S2404_C02_008E,int,Male!!Estimate!!Retail trade,S2404
+S2404_C02_009E,int,"Male!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C02_010E,int,"Male!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C02_011E,int,"Male!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C02_012E,int,Male!!Estimate!!Information,S2404
+S2404_C02_013E,int,"Male!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C02_014E,int,"Male!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C02_015E,int,"Male!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C02_016E,int,"Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C02_017E,int,"Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C02_018E,int,"Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C02_019E,int,"Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C02_020E,int,"Male!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C02_021E,int,"Male!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C02_022E,int,"Male!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C02_023E,int,"Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C02_024E,int,"Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C02_025E,int,"Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C02_026E,int,"Male!!Estimate!!Other services, except public administration",S2404
+S2404_C02_027E,int,Male!!Estimate!!Public administration,S2404
+S2404_C03_001E,int,"Percent Male!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C03_002E,int,"Percent Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C03_003E,int,"Percent Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C03_004E,int,"Percent Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C03_005E,int,Percent Male!!Estimate!!Construction,S2404
+S2404_C03_006E,int,Percent Male!!Estimate!!Manufacturing,S2404
+S2404_C03_007E,int,Percent Male!!Estimate!!Wholesale trade,S2404
+S2404_C03_008E,int,Percent Male!!Estimate!!Retail trade,S2404
+S2404_C03_009E,int,"Percent Male!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C03_010E,int,"Percent Male!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C03_011E,int,"Percent Male!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C03_012E,int,Percent Male!!Estimate!!Information,S2404
+S2404_C03_013E,int,"Percent Male!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C03_014E,int,"Percent Male!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C03_015E,int,"Percent Male!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C03_016E,int,"Percent Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C03_017E,int,"Percent Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C03_018E,int,"Percent Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C03_019E,int,"Percent Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C03_020E,int,"Percent Male!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C03_021E,int,"Percent Male!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C03_022E,int,"Percent Male!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C03_023E,int,"Percent Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C03_024E,int,"Percent Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C03_025E,int,"Percent Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C03_026E,int,"Percent Male!!Estimate!!Other services, except public administration",S2404
+S2404_C03_027E,int,Percent Male!!Estimate!!Public administration,S2404
+S2404_C04_001E,int,"Female!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C04_002E,int,"Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C04_003E,int,"Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C04_004E,int,"Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C04_005E,int,Female!!Estimate!!Construction,S2404
+S2404_C04_006E,int,Female!!Estimate!!Manufacturing,S2404
+S2404_C04_007E,int,Female!!Estimate!!Wholesale trade,S2404
+S2404_C04_008E,int,Female!!Estimate!!Retail trade,S2404
+S2404_C04_009E,int,"Female!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C04_010E,int,"Female!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C04_011E,int,"Female!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C04_012E,int,Female!!Estimate!!Information,S2404
+S2404_C04_013E,int,"Female!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C04_014E,int,"Female!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C04_015E,int,"Female!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C04_016E,int,"Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C04_017E,int,"Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C04_018E,int,"Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C04_019E,int,"Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C04_020E,int,"Female!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C04_021E,int,"Female!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C04_022E,int,"Female!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C04_023E,int,"Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C04_024E,int,"Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C04_025E,int,"Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C04_026E,int,"Female!!Estimate!!Other services, except public administration",S2404
+S2404_C04_027E,int,Female!!Estimate!!Public administration,S2404
+S2404_C05_001E,int,"Percent Female!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C05_002E,int,"Percent Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C05_003E,int,"Percent Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C05_004E,int,"Percent Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C05_005E,int,Percent Female!!Estimate!!Construction,S2404
+S2404_C05_006E,int,Percent Female!!Estimate!!Manufacturing,S2404
+S2404_C05_007E,int,Percent Female!!Estimate!!Wholesale trade,S2404
+S2404_C05_008E,int,Percent Female!!Estimate!!Retail trade,S2404
+S2404_C05_009E,int,"Percent Female!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C05_010E,int,"Percent Female!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C05_011E,int,"Percent Female!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C05_012E,int,Percent Female!!Estimate!!Information,S2404
+S2404_C05_013E,int,"Percent Female!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C05_014E,int,"Percent Female!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C05_015E,int,"Percent Female!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C05_016E,int,"Percent Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C05_017E,int,"Percent Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C05_018E,int,"Percent Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C05_019E,int,"Percent Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C05_020E,int,"Percent Female!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C05_021E,int,"Percent Female!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C05_022E,int,"Percent Female!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C05_023E,int,"Percent Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C05_024E,int,"Percent Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C05_025E,int,"Percent Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C05_026E,int,"Percent Female!!Estimate!!Other services, except public administration",S2404
+S2404_C05_027E,int,Percent Female!!Estimate!!Public administration,S2404
+S2404_C01_001M,int,"Total!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C01_002M,int,"Total!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C01_003M,int,"Total!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C01_004M,int,"Total!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C01_005M,int,Total!!Margin of Error!!Construction,S2404
+S2404_C01_006M,int,Total!!Margin of Error!!Manufacturing,S2404
+S2404_C01_007M,int,Total!!Margin of Error!!Wholesale trade,S2404
+S2404_C01_008M,int,Total!!Margin of Error!!Retail trade,S2404
+S2404_C01_009M,int,"Total!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C01_010M,int,"Total!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C01_011M,int,"Total!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C01_012M,int,Total!!Margin of Error!!Information,S2404
+S2404_C01_013M,int,"Total!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C01_014M,int,"Total!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C01_015M,int,"Total!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C01_016M,int,"Total!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C01_017M,int,"Total!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C01_018M,int,"Total!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C01_019M,int,"Total!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C01_020M,int,"Total!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C01_021M,int,"Total!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C01_022M,int,"Total!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C01_023M,int,"Total!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C01_024M,int,"Total!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C01_025M,int,"Total!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C01_026M,int,"Total!!Margin of Error!!Other services, except public administration",S2404
+S2404_C01_027M,int,Total!!Margin of Error!!Public administration,S2404
+S2404_C02_001M,int,"Male!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C02_002M,int,"Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C02_003M,int,"Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C02_004M,int,"Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C02_005M,int,Male!!Margin of Error!!Construction,S2404
+S2404_C02_006M,int,Male!!Margin of Error!!Manufacturing,S2404
+S2404_C02_007M,int,Male!!Margin of Error!!Wholesale trade,S2404
+S2404_C02_008M,int,Male!!Margin of Error!!Retail trade,S2404
+S2404_C02_009M,int,"Male!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C02_010M,int,"Male!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C02_011M,int,"Male!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C02_012M,int,Male!!Margin of Error!!Information,S2404
+S2404_C02_013M,int,"Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C02_014M,int,"Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C02_015M,int,"Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C02_016M,int,"Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C02_017M,int,"Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C02_018M,int,"Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C02_019M,int,"Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C02_020M,int,"Male!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C02_021M,int,"Male!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C02_022M,int,"Male!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C02_023M,int,"Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C02_024M,int,"Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C02_025M,int,"Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C02_026M,int,"Male!!Margin of Error!!Other services, except public administration",S2404
+S2404_C02_027M,int,Male!!Margin of Error!!Public administration,S2404
+S2404_C03_001M,int,"Percent Male!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C03_002M,int,"Percent Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C03_003M,int,"Percent Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C03_004M,int,"Percent Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C03_005M,int,Percent Male!!Margin of Error!!Construction,S2404
+S2404_C03_006M,int,Percent Male!!Margin of Error!!Manufacturing,S2404
+S2404_C03_007M,int,Percent Male!!Margin of Error!!Wholesale trade,S2404
+S2404_C03_008M,int,Percent Male!!Margin of Error!!Retail trade,S2404
+S2404_C03_009M,int,"Percent Male!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C03_010M,int,"Percent Male!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C03_011M,int,"Percent Male!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C03_012M,int,Percent Male!!Margin of Error!!Information,S2404
+S2404_C03_013M,int,"Percent Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C03_014M,int,"Percent Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C03_015M,int,"Percent Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C03_016M,int,"Percent Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C03_017M,int,"Percent Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C03_018M,int,"Percent Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C03_019M,int,"Percent Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C03_020M,int,"Percent Male!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C03_021M,int,"Percent Male!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C03_022M,int,"Percent Male!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C03_023M,int,"Percent Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C03_024M,int,"Percent Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C03_025M,int,"Percent Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C03_026M,int,"Percent Male!!Margin of Error!!Other services, except public administration",S2404
+S2404_C03_027M,int,Percent Male!!Margin of Error!!Public administration,S2404
+S2404_C04_001M,int,"Female!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C04_002M,int,"Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C04_003M,int,"Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C04_004M,int,"Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C04_005M,int,Female!!Margin of Error!!Construction,S2404
+S2404_C04_006M,int,Female!!Margin of Error!!Manufacturing,S2404
+S2404_C04_007M,int,Female!!Margin of Error!!Wholesale trade,S2404
+S2404_C04_008M,int,Female!!Margin of Error!!Retail trade,S2404
+S2404_C04_009M,int,"Female!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C04_010M,int,"Female!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C04_011M,int,"Female!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C04_012M,int,Female!!Margin of Error!!Information,S2404
+S2404_C04_013M,int,"Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C04_014M,int,"Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C04_015M,int,"Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C04_016M,int,"Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C04_017M,int,"Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C04_018M,int,"Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C04_019M,int,"Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C04_020M,int,"Female!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C04_021M,int,"Female!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C04_022M,int,"Female!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C04_023M,int,"Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C04_024M,int,"Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C04_025M,int,"Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C04_026M,int,"Female!!Margin of Error!!Other services, except public administration",S2404
+S2404_C04_027M,int,Female!!Margin of Error!!Public administration,S2404
+S2404_C05_001M,int,"Percent Female!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C05_002M,int,"Percent Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C05_003M,int,"Percent Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C05_004M,int,"Percent Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C05_005M,int,Percent Female!!Margin of Error!!Construction,S2404
+S2404_C05_006M,int,Percent Female!!Margin of Error!!Manufacturing,S2404
+S2404_C05_007M,int,Percent Female!!Margin of Error!!Wholesale trade,S2404
+S2404_C05_008M,int,Percent Female!!Margin of Error!!Retail trade,S2404
+S2404_C05_009M,int,"Percent Female!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C05_010M,int,"Percent Female!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C05_011M,int,"Percent Female!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C05_012M,int,Percent Female!!Margin of Error!!Information,S2404
+S2404_C05_013M,int,"Percent Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C05_014M,int,"Percent Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C05_015M,int,"Percent Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C05_016M,int,"Percent Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C05_017M,int,"Percent Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C05_018M,int,"Percent Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C05_019M,int,"Percent Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C05_020M,int,"Percent Female!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C05_021M,int,"Percent Female!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C05_022M,int,"Percent Female!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C05_023M,int,"Percent Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C05_024M,int,"Percent Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C05_025M,int,"Percent Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C05_026M,int,"Percent Female!!Margin of Error!!Other services, except public administration",S2404
+S2404_C05_027M,int,Percent Female!!Margin of Error!!Public administration,S2404
+S2404_C01_001EA,string,"Annotation of Total!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C01_001MA,string,"Annotation of Total!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C01_002EA,string,"Annotation of Total!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C01_002MA,string,"Annotation of Total!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C01_003EA,string,"Annotation of Total!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C01_003MA,string,"Annotation of Total!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C01_004EA,string,"Annotation of Total!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C01_004MA,string,"Annotation of Total!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C01_005EA,string,Annotation of Total!!Estimate!!Construction,S2404
+S2404_C01_005MA,string,Annotation of Total!!Margin of Error!!Construction,S2404
+S2404_C01_006EA,string,Annotation of Total!!Estimate!!Manufacturing,S2404
+S2404_C01_006MA,string,Annotation of Total!!Margin of Error!!Manufacturing,S2404
+S2404_C01_007EA,string,Annotation of Total!!Estimate!!Wholesale trade,S2404
+S2404_C01_007MA,string,Annotation of Total!!Margin of Error!!Wholesale trade,S2404
+S2404_C01_008EA,string,Annotation of Total!!Estimate!!Retail trade,S2404
+S2404_C01_008MA,string,Annotation of Total!!Margin of Error!!Retail trade,S2404
+S2404_C01_009EA,string,"Annotation of Total!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C01_009MA,string,"Annotation of Total!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C01_010EA,string,"Annotation of Total!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C01_010MA,string,"Annotation of Total!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C01_011EA,string,"Annotation of Total!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C01_011MA,string,"Annotation of Total!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C01_012EA,string,Annotation of Total!!Estimate!!Information,S2404
+S2404_C01_012MA,string,Annotation of Total!!Margin of Error!!Information,S2404
+S2404_C01_013EA,string,"Annotation of Total!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C01_013MA,string,"Annotation of Total!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C01_014EA,string,"Annotation of Total!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C01_014MA,string,"Annotation of Total!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C01_015EA,string,"Annotation of Total!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C01_015MA,string,"Annotation of Total!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C01_016EA,string,"Annotation of Total!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C01_016MA,string,"Annotation of Total!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C01_017EA,string,"Annotation of Total!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C01_017MA,string,"Annotation of Total!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C01_018EA,string,"Annotation of Total!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C01_018MA,string,"Annotation of Total!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C01_019EA,string,"Annotation of Total!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C01_019MA,string,"Annotation of Total!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C01_020EA,string,"Annotation of Total!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C01_020MA,string,"Annotation of Total!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C01_021EA,string,"Annotation of Total!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C01_021MA,string,"Annotation of Total!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C01_022EA,string,"Annotation of Total!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C01_022MA,string,"Annotation of Total!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C01_023EA,string,"Annotation of Total!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C01_023MA,string,"Annotation of Total!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C01_024EA,string,"Annotation of Total!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C01_024MA,string,"Annotation of Total!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C01_025EA,string,"Annotation of Total!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C01_025MA,string,"Annotation of Total!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C01_026EA,string,"Annotation of Total!!Estimate!!Other services, except public administration",S2404
+S2404_C01_026MA,string,"Annotation of Total!!Margin of Error!!Other services, except public administration",S2404
+S2404_C01_027EA,string,Annotation of Total!!Estimate!!Public administration,S2404
+S2404_C01_027MA,string,Annotation of Total!!Margin of Error!!Public administration,S2404
+S2404_C02_001EA,string,"Annotation of Male!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C02_001MA,string,"Annotation of Male!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C02_002EA,string,"Annotation of Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C02_002MA,string,"Annotation of Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C02_003EA,string,"Annotation of Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C02_003MA,string,"Annotation of Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C02_004EA,string,"Annotation of Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C02_004MA,string,"Annotation of Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C02_005EA,string,Annotation of Male!!Estimate!!Construction,S2404
+S2404_C02_005MA,string,Annotation of Male!!Margin of Error!!Construction,S2404
+S2404_C02_006EA,string,Annotation of Male!!Estimate!!Manufacturing,S2404
+S2404_C02_006MA,string,Annotation of Male!!Margin of Error!!Manufacturing,S2404
+S2404_C02_007EA,string,Annotation of Male!!Estimate!!Wholesale trade,S2404
+S2404_C02_007MA,string,Annotation of Male!!Margin of Error!!Wholesale trade,S2404
+S2404_C02_008EA,string,Annotation of Male!!Estimate!!Retail trade,S2404
+S2404_C02_008MA,string,Annotation of Male!!Margin of Error!!Retail trade,S2404
+S2404_C02_009EA,string,"Annotation of Male!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C02_009MA,string,"Annotation of Male!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C02_010EA,string,"Annotation of Male!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C02_010MA,string,"Annotation of Male!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C02_011EA,string,"Annotation of Male!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C02_011MA,string,"Annotation of Male!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C02_012EA,string,Annotation of Male!!Estimate!!Information,S2404
+S2404_C02_012MA,string,Annotation of Male!!Margin of Error!!Information,S2404
+S2404_C02_013EA,string,"Annotation of Male!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C02_013MA,string,"Annotation of Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C02_014EA,string,"Annotation of Male!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C02_014MA,string,"Annotation of Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C02_015EA,string,"Annotation of Male!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C02_015MA,string,"Annotation of Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C02_016EA,string,"Annotation of Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C02_016MA,string,"Annotation of Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C02_017EA,string,"Annotation of Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C02_017MA,string,"Annotation of Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C02_018EA,string,"Annotation of Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C02_018MA,string,"Annotation of Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C02_019EA,string,"Annotation of Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C02_019MA,string,"Annotation of Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C02_020EA,string,"Annotation of Male!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C02_020MA,string,"Annotation of Male!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C02_021EA,string,"Annotation of Male!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C02_021MA,string,"Annotation of Male!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C02_022EA,string,"Annotation of Male!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C02_022MA,string,"Annotation of Male!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C02_023EA,string,"Annotation of Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C02_023MA,string,"Annotation of Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C02_024EA,string,"Annotation of Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C02_024MA,string,"Annotation of Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C02_025EA,string,"Annotation of Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C02_025MA,string,"Annotation of Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C02_026EA,string,"Annotation of Male!!Estimate!!Other services, except public administration",S2404
+S2404_C02_026MA,string,"Annotation of Male!!Margin of Error!!Other services, except public administration",S2404
+S2404_C02_027EA,string,Annotation of Male!!Estimate!!Public administration,S2404
+S2404_C02_027MA,string,Annotation of Male!!Margin of Error!!Public administration,S2404
+S2404_C03_001EA,string,"Annotation of Percent Male!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C03_001MA,string,"Annotation of Percent Male!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C03_002EA,string,"Annotation of Percent Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C03_002MA,string,"Annotation of Percent Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C03_003EA,string,"Annotation of Percent Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C03_003MA,string,"Annotation of Percent Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C03_004EA,string,"Annotation of Percent Male!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C03_004MA,string,"Annotation of Percent Male!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C03_005EA,string,Annotation of Percent Male!!Estimate!!Construction,S2404
+S2404_C03_005MA,string,Annotation of Percent Male!!Margin of Error!!Construction,S2404
+S2404_C03_006EA,string,Annotation of Percent Male!!Estimate!!Manufacturing,S2404
+S2404_C03_006MA,string,Annotation of Percent Male!!Margin of Error!!Manufacturing,S2404
+S2404_C03_007EA,string,Annotation of Percent Male!!Estimate!!Wholesale trade,S2404
+S2404_C03_007MA,string,Annotation of Percent Male!!Margin of Error!!Wholesale trade,S2404
+S2404_C03_008EA,string,Annotation of Percent Male!!Estimate!!Retail trade,S2404
+S2404_C03_008MA,string,Annotation of Percent Male!!Margin of Error!!Retail trade,S2404
+S2404_C03_009EA,string,"Annotation of Percent Male!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C03_009MA,string,"Annotation of Percent Male!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C03_010EA,string,"Annotation of Percent Male!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C03_010MA,string,"Annotation of Percent Male!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C03_011EA,string,"Annotation of Percent Male!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C03_011MA,string,"Annotation of Percent Male!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C03_012EA,string,Annotation of Percent Male!!Estimate!!Information,S2404
+S2404_C03_012MA,string,Annotation of Percent Male!!Margin of Error!!Information,S2404
+S2404_C03_013EA,string,"Annotation of Percent Male!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C03_013MA,string,"Annotation of Percent Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C03_014EA,string,"Annotation of Percent Male!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C03_014MA,string,"Annotation of Percent Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C03_015EA,string,"Annotation of Percent Male!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C03_015MA,string,"Annotation of Percent Male!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C03_016EA,string,"Annotation of Percent Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C03_016MA,string,"Annotation of Percent Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C03_017EA,string,"Annotation of Percent Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C03_017MA,string,"Annotation of Percent Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C03_018EA,string,"Annotation of Percent Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C03_018MA,string,"Annotation of Percent Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C03_019EA,string,"Annotation of Percent Male!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C03_019MA,string,"Annotation of Percent Male!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C03_020EA,string,"Annotation of Percent Male!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C03_020MA,string,"Annotation of Percent Male!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C03_021EA,string,"Annotation of Percent Male!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C03_021MA,string,"Annotation of Percent Male!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C03_022EA,string,"Annotation of Percent Male!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C03_022MA,string,"Annotation of Percent Male!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C03_023EA,string,"Annotation of Percent Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C03_023MA,string,"Annotation of Percent Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C03_024EA,string,"Annotation of Percent Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C03_024MA,string,"Annotation of Percent Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C03_025EA,string,"Annotation of Percent Male!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C03_025MA,string,"Annotation of Percent Male!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C03_026EA,string,"Annotation of Percent Male!!Estimate!!Other services, except public administration",S2404
+S2404_C03_026MA,string,"Annotation of Percent Male!!Margin of Error!!Other services, except public administration",S2404
+S2404_C03_027EA,string,Annotation of Percent Male!!Estimate!!Public administration,S2404
+S2404_C03_027MA,string,Annotation of Percent Male!!Margin of Error!!Public administration,S2404
+S2404_C04_001EA,string,"Annotation of Female!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C04_001MA,string,"Annotation of Female!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C04_002EA,string,"Annotation of Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C04_002MA,string,"Annotation of Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C04_003EA,string,"Annotation of Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C04_003MA,string,"Annotation of Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C04_004EA,string,"Annotation of Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C04_004MA,string,"Annotation of Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C04_005EA,string,Annotation of Female!!Estimate!!Construction,S2404
+S2404_C04_005MA,string,Annotation of Female!!Margin of Error!!Construction,S2404
+S2404_C04_006EA,string,Annotation of Female!!Estimate!!Manufacturing,S2404
+S2404_C04_006MA,string,Annotation of Female!!Margin of Error!!Manufacturing,S2404
+S2404_C04_007EA,string,Annotation of Female!!Estimate!!Wholesale trade,S2404
+S2404_C04_007MA,string,Annotation of Female!!Margin of Error!!Wholesale trade,S2404
+S2404_C04_008EA,string,Annotation of Female!!Estimate!!Retail trade,S2404
+S2404_C04_008MA,string,Annotation of Female!!Margin of Error!!Retail trade,S2404
+S2404_C04_009EA,string,"Annotation of Female!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C04_009MA,string,"Annotation of Female!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C04_010EA,string,"Annotation of Female!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C04_010MA,string,"Annotation of Female!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C04_011EA,string,"Annotation of Female!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C04_011MA,string,"Annotation of Female!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C04_012EA,string,Annotation of Female!!Estimate!!Information,S2404
+S2404_C04_012MA,string,Annotation of Female!!Margin of Error!!Information,S2404
+S2404_C04_013EA,string,"Annotation of Female!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C04_013MA,string,"Annotation of Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C04_014EA,string,"Annotation of Female!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C04_014MA,string,"Annotation of Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C04_015EA,string,"Annotation of Female!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C04_015MA,string,"Annotation of Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C04_016EA,string,"Annotation of Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C04_016MA,string,"Annotation of Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C04_017EA,string,"Annotation of Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C04_017MA,string,"Annotation of Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C04_018EA,string,"Annotation of Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C04_018MA,string,"Annotation of Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C04_019EA,string,"Annotation of Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C04_019MA,string,"Annotation of Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C04_020EA,string,"Annotation of Female!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C04_020MA,string,"Annotation of Female!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C04_021EA,string,"Annotation of Female!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C04_021MA,string,"Annotation of Female!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C04_022EA,string,"Annotation of Female!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C04_022MA,string,"Annotation of Female!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C04_023EA,string,"Annotation of Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C04_023MA,string,"Annotation of Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C04_024EA,string,"Annotation of Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C04_024MA,string,"Annotation of Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C04_025EA,string,"Annotation of Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C04_025MA,string,"Annotation of Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C04_026EA,string,"Annotation of Female!!Estimate!!Other services, except public administration",S2404
+S2404_C04_026MA,string,"Annotation of Female!!Margin of Error!!Other services, except public administration",S2404
+S2404_C04_027EA,string,Annotation of Female!!Estimate!!Public administration,S2404
+S2404_C04_027MA,string,Annotation of Female!!Margin of Error!!Public administration,S2404
+S2404_C05_001EA,string,"Annotation of Percent Female!!Estimate!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C05_001MA,string,"Annotation of Percent Female!!Margin of Error!!Full-time, year-round civilian employed population 16 years and over",S2404
+S2404_C05_002EA,string,"Annotation of Percent Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C05_002MA,string,"Annotation of Percent Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining",S2404
+S2404_C05_003EA,string,"Annotation of Percent Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C05_003MA,string,"Annotation of Percent Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",S2404
+S2404_C05_004EA,string,"Annotation of Percent Female!!Estimate!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C05_004MA,string,"Annotation of Percent Female!!Margin of Error!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",S2404
+S2404_C05_005EA,string,Annotation of Percent Female!!Estimate!!Construction,S2404
+S2404_C05_005MA,string,Annotation of Percent Female!!Margin of Error!!Construction,S2404
+S2404_C05_006EA,string,Annotation of Percent Female!!Estimate!!Manufacturing,S2404
+S2404_C05_006MA,string,Annotation of Percent Female!!Margin of Error!!Manufacturing,S2404
+S2404_C05_007EA,string,Annotation of Percent Female!!Estimate!!Wholesale trade,S2404
+S2404_C05_007MA,string,Annotation of Percent Female!!Margin of Error!!Wholesale trade,S2404
+S2404_C05_008EA,string,Annotation of Percent Female!!Estimate!!Retail trade,S2404
+S2404_C05_008MA,string,Annotation of Percent Female!!Margin of Error!!Retail trade,S2404
+S2404_C05_009EA,string,"Annotation of Percent Female!!Estimate!!Transportation and warehousing, and utilities",S2404
+S2404_C05_009MA,string,"Annotation of Percent Female!!Margin of Error!!Transportation and warehousing, and utilities",S2404
+S2404_C05_010EA,string,"Annotation of Percent Female!!Estimate!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C05_010MA,string,"Annotation of Percent Female!!Margin of Error!!Transportation and warehousing, and utilities!!Transportation and warehousing",S2404
+S2404_C05_011EA,string,"Annotation of Percent Female!!Estimate!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C05_011MA,string,"Annotation of Percent Female!!Margin of Error!!Transportation and warehousing, and utilities!!Utilities",S2404
+S2404_C05_012EA,string,Annotation of Percent Female!!Estimate!!Information,S2404
+S2404_C05_012MA,string,Annotation of Percent Female!!Margin of Error!!Information,S2404
+S2404_C05_013EA,string,"Annotation of Percent Female!!Estimate!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C05_013MA,string,"Annotation of Percent Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing",S2404
+S2404_C05_014EA,string,"Annotation of Percent Female!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C05_014MA,string,"Annotation of Percent Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",S2404
+S2404_C05_015EA,string,"Annotation of Percent Female!!Estimate!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C05_015MA,string,"Annotation of Percent Female!!Margin of Error!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",S2404
+S2404_C05_016EA,string,"Annotation of Percent Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C05_016MA,string,"Annotation of Percent Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services",S2404
+S2404_C05_017EA,string,"Annotation of Percent Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C05_017MA,string,"Annotation of Percent Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",S2404
+S2404_C05_018EA,string,"Annotation of Percent Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C05_018MA,string,"Annotation of Percent Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",S2404
+S2404_C05_019EA,string,"Annotation of Percent Female!!Estimate!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C05_019MA,string,"Annotation of Percent Female!!Margin of Error!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",S2404
+S2404_C05_020EA,string,"Annotation of Percent Female!!Estimate!!Educational services, and health care and social assistance",S2404
+S2404_C05_020MA,string,"Annotation of Percent Female!!Margin of Error!!Educational services, and health care and social assistance",S2404
+S2404_C05_021EA,string,"Annotation of Percent Female!!Estimate!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C05_021MA,string,"Annotation of Percent Female!!Margin of Error!!Educational services, and health care and social assistance!!Educational services",S2404
+S2404_C05_022EA,string,"Annotation of Percent Female!!Estimate!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C05_022MA,string,"Annotation of Percent Female!!Margin of Error!!Educational services, and health care and social assistance!!Health care and social assistance",S2404
+S2404_C05_023EA,string,"Annotation of Percent Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C05_023MA,string,"Annotation of Percent Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services",S2404
+S2404_C05_024EA,string,"Annotation of Percent Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C05_024MA,string,"Annotation of Percent Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",S2404
+S2404_C05_025EA,string,"Annotation of Percent Female!!Estimate!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C05_025MA,string,"Annotation of Percent Female!!Margin of Error!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",S2404
+S2404_C05_026EA,string,"Annotation of Percent Female!!Estimate!!Other services, except public administration",S2404
+S2404_C05_026MA,string,"Annotation of Percent Female!!Margin of Error!!Other services, except public administration",S2404
+S2404_C05_027EA,string,Annotation of Percent Female!!Estimate!!Public administration,S2404
+S2404_C05_027MA,string,Annotation of Percent Female!!Margin of Error!!Public administration,S2404

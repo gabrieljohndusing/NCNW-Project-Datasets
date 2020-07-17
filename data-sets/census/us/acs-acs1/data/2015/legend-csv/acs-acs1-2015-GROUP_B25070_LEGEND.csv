@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25070_001E,int,Estimate!!Total,B25070
+B25070_002E,int,Estimate!!Total!!Less than 10.0 percent,B25070
+B25070_003E,int,Estimate!!Total!!10.0 to 14.9 percent,B25070
+B25070_004E,int,Estimate!!Total!!15.0 to 19.9 percent,B25070
+B25070_005E,int,Estimate!!Total!!20.0 to 24.9 percent,B25070
+B25070_006E,int,Estimate!!Total!!25.0 to 29.9 percent,B25070
+B25070_007E,int,Estimate!!Total!!30.0 to 34.9 percent,B25070
+B25070_008E,int,Estimate!!Total!!35.0 to 39.9 percent,B25070
+B25070_009E,int,Estimate!!Total!!40.0 to 49.9 percent,B25070
+B25070_010E,int,Estimate!!Total!!50.0 percent or more,B25070
+B25070_011E,int,Estimate!!Total!!Not computed,B25070
+B25070_001M,int,Margin of Error!!Total,B25070
+B25070_002M,int,Margin of Error!!Total!!Less than 10.0 percent,B25070
+B25070_003M,int,Margin of Error!!Total!!10.0 to 14.9 percent,B25070
+B25070_004M,int,Margin of Error!!Total!!15.0 to 19.9 percent,B25070
+B25070_005M,int,Margin of Error!!Total!!20.0 to 24.9 percent,B25070
+B25070_006M,int,Margin of Error!!Total!!25.0 to 29.9 percent,B25070
+B25070_007M,int,Margin of Error!!Total!!30.0 to 34.9 percent,B25070
+B25070_008M,int,Margin of Error!!Total!!35.0 to 39.9 percent,B25070
+B25070_009M,int,Margin of Error!!Total!!40.0 to 49.9 percent,B25070
+B25070_010M,int,Margin of Error!!Total!!50.0 percent or more,B25070
+B25070_011M,int,Margin of Error!!Total!!Not computed,B25070
+B25070_001EA,string,Annotation of Estimate!!Total,B25070
+B25070_001MA,string,Annotation of Margin of Error!!Total,B25070
+B25070_002EA,string,Annotation of Estimate!!Total!!Less than 10.0 percent,B25070
+B25070_002MA,string,Annotation of Margin of Error!!Total!!Less than 10.0 percent,B25070
+B25070_003EA,string,Annotation of Estimate!!Total!!10.0 to 14.9 percent,B25070
+B25070_003MA,string,Annotation of Margin of Error!!Total!!10.0 to 14.9 percent,B25070
+B25070_004EA,string,Annotation of Estimate!!Total!!15.0 to 19.9 percent,B25070
+B25070_004MA,string,Annotation of Margin of Error!!Total!!15.0 to 19.9 percent,B25070
+B25070_005EA,string,Annotation of Estimate!!Total!!20.0 to 24.9 percent,B25070
+B25070_005MA,string,Annotation of Margin of Error!!Total!!20.0 to 24.9 percent,B25070
+B25070_006EA,string,Annotation of Estimate!!Total!!25.0 to 29.9 percent,B25070
+B25070_006MA,string,Annotation of Margin of Error!!Total!!25.0 to 29.9 percent,B25070
+B25070_007EA,string,Annotation of Estimate!!Total!!30.0 to 34.9 percent,B25070
+B25070_007MA,string,Annotation of Margin of Error!!Total!!30.0 to 34.9 percent,B25070
+B25070_008EA,string,Annotation of Estimate!!Total!!35.0 to 39.9 percent,B25070
+B25070_008MA,string,Annotation of Margin of Error!!Total!!35.0 to 39.9 percent,B25070
+B25070_009EA,string,Annotation of Estimate!!Total!!40.0 to 49.9 percent,B25070
+B25070_009MA,string,Annotation of Margin of Error!!Total!!40.0 to 49.9 percent,B25070
+B25070_010EA,string,Annotation of Estimate!!Total!!50.0 percent or more,B25070
+B25070_010MA,string,Annotation of Margin of Error!!Total!!50.0 percent or more,B25070
+B25070_011EA,string,Annotation of Estimate!!Total!!Not computed,B25070
+B25070_011MA,string,Annotation of Margin of Error!!Total!!Not computed,B25070

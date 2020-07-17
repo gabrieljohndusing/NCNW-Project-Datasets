@@ -1,0 +1,113 @@
+VARIABLE,TYPE,LABEL,GROUP
+B27001H_001E,int,Estimate!!Total,B27001H
+B27001H_002E,int,Estimate!!Total!!Under 6 years,B27001H
+B27001H_003E,int,Estimate!!Total!!Under 6 years!!With health insurance coverage,B27001H
+B27001H_004E,int,Estimate!!Total!!Under 6 years!!No health insurance coverage,B27001H
+B27001H_005E,int,Estimate!!Total!!6 to 17 years,B27001H
+B27001H_006E,int,Estimate!!Total!!6 to 17 years!!With health insurance coverage,B27001H
+B27001H_007E,int,Estimate!!Total!!6 to 17 years!!No health insurance coverage,B27001H
+B27001H_008E,int,Estimate!!Total!!18 to 24 years,B27001H
+B27001H_009E,int,Estimate!!Total!!18 to 24 years!!With health insurance coverage,B27001H
+B27001H_010E,int,Estimate!!Total!!18 to 24 years!!No health insurance coverage,B27001H
+B27001H_011E,int,Estimate!!Total!!25 to 34 years,B27001H
+B27001H_012E,int,Estimate!!Total!!25 to 34 years!!With health insurance coverage,B27001H
+B27001H_013E,int,Estimate!!Total!!25 to 34 years!!No health insurance coverage,B27001H
+B27001H_014E,int,Estimate!!Total!!35 to 44 years,B27001H
+B27001H_015E,int,Estimate!!Total!!35 to 44 years!!With health insurance coverage,B27001H
+B27001H_016E,int,Estimate!!Total!!35 to 44 years!!No health insurance coverage,B27001H
+B27001H_017E,int,Estimate!!Total!!45 to 54 years,B27001H
+B27001H_018E,int,Estimate!!Total!!45 to 54 years!!With health insurance coverage,B27001H
+B27001H_019E,int,Estimate!!Total!!45 to 54 years!!No health insurance coverage,B27001H
+B27001H_020E,int,Estimate!!Total!!55 to 64 years,B27001H
+B27001H_021E,int,Estimate!!Total!!55 to 64 years!!With health insurance coverage,B27001H
+B27001H_022E,int,Estimate!!Total!!55 to 64 years!!No health insurance coverage,B27001H
+B27001H_023E,int,Estimate!!Total!!65 to 74 years,B27001H
+B27001H_024E,int,Estimate!!Total!!65 to 74 years!!With health insurance coverage,B27001H
+B27001H_025E,int,Estimate!!Total!!65 to 74 years!!No health insurance coverage,B27001H
+B27001H_026E,int,Estimate!!Total!!75 years and over,B27001H
+B27001H_027E,int,Estimate!!Total!!75 years and over!!With health insurance coverage,B27001H
+B27001H_028E,int,Estimate!!Total!!75 years and over!!No health insurance coverage,B27001H
+B27001H_001M,int,Margin of Error!!Total,B27001H
+B27001H_002M,int,Margin of Error!!Total!!Under 6 years,B27001H
+B27001H_003M,int,Margin of Error!!Total!!Under 6 years!!With health insurance coverage,B27001H
+B27001H_004M,int,Margin of Error!!Total!!Under 6 years!!No health insurance coverage,B27001H
+B27001H_005M,int,Margin of Error!!Total!!6 to 17 years,B27001H
+B27001H_006M,int,Margin of Error!!Total!!6 to 17 years!!With health insurance coverage,B27001H
+B27001H_007M,int,Margin of Error!!Total!!6 to 17 years!!No health insurance coverage,B27001H
+B27001H_008M,int,Margin of Error!!Total!!18 to 24 years,B27001H
+B27001H_009M,int,Margin of Error!!Total!!18 to 24 years!!With health insurance coverage,B27001H
+B27001H_010M,int,Margin of Error!!Total!!18 to 24 years!!No health insurance coverage,B27001H
+B27001H_011M,int,Margin of Error!!Total!!25 to 34 years,B27001H
+B27001H_012M,int,Margin of Error!!Total!!25 to 34 years!!With health insurance coverage,B27001H
+B27001H_013M,int,Margin of Error!!Total!!25 to 34 years!!No health insurance coverage,B27001H
+B27001H_014M,int,Margin of Error!!Total!!35 to 44 years,B27001H
+B27001H_015M,int,Margin of Error!!Total!!35 to 44 years!!With health insurance coverage,B27001H
+B27001H_016M,int,Margin of Error!!Total!!35 to 44 years!!No health insurance coverage,B27001H
+B27001H_017M,int,Margin of Error!!Total!!45 to 54 years,B27001H
+B27001H_018M,int,Margin of Error!!Total!!45 to 54 years!!With health insurance coverage,B27001H
+B27001H_019M,int,Margin of Error!!Total!!45 to 54 years!!No health insurance coverage,B27001H
+B27001H_020M,int,Margin of Error!!Total!!55 to 64 years,B27001H
+B27001H_021M,int,Margin of Error!!Total!!55 to 64 years!!With health insurance coverage,B27001H
+B27001H_022M,int,Margin of Error!!Total!!55 to 64 years!!No health insurance coverage,B27001H
+B27001H_023M,int,Margin of Error!!Total!!65 to 74 years,B27001H
+B27001H_024M,int,Margin of Error!!Total!!65 to 74 years!!With health insurance coverage,B27001H
+B27001H_025M,int,Margin of Error!!Total!!65 to 74 years!!No health insurance coverage,B27001H
+B27001H_026M,int,Margin of Error!!Total!!75 years and over,B27001H
+B27001H_027M,int,Margin of Error!!Total!!75 years and over!!With health insurance coverage,B27001H
+B27001H_028M,int,Margin of Error!!Total!!75 years and over!!No health insurance coverage,B27001H
+B27001H_001EA,string,Annotation of Estimate!!Total,B27001H
+B27001H_001MA,string,Annotation of Margin of Error!!Total,B27001H
+B27001H_002EA,string,Annotation of Estimate!!Total!!Under 6 years,B27001H
+B27001H_002MA,string,Annotation of Margin of Error!!Total!!Under 6 years,B27001H
+B27001H_003EA,string,Annotation of Estimate!!Total!!Under 6 years!!With health insurance coverage,B27001H
+B27001H_003MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!With health insurance coverage,B27001H
+B27001H_004EA,string,Annotation of Estimate!!Total!!Under 6 years!!No health insurance coverage,B27001H
+B27001H_004MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!No health insurance coverage,B27001H
+B27001H_005EA,string,Annotation of Estimate!!Total!!6 to 17 years,B27001H
+B27001H_005MA,string,Annotation of Margin of Error!!Total!!6 to 17 years,B27001H
+B27001H_006EA,string,Annotation of Estimate!!Total!!6 to 17 years!!With health insurance coverage,B27001H
+B27001H_006MA,string,Annotation of Margin of Error!!Total!!6 to 17 years!!With health insurance coverage,B27001H
+B27001H_007EA,string,Annotation of Estimate!!Total!!6 to 17 years!!No health insurance coverage,B27001H
+B27001H_007MA,string,Annotation of Margin of Error!!Total!!6 to 17 years!!No health insurance coverage,B27001H
+B27001H_008EA,string,Annotation of Estimate!!Total!!18 to 24 years,B27001H
+B27001H_008MA,string,Annotation of Margin of Error!!Total!!18 to 24 years,B27001H
+B27001H_009EA,string,Annotation of Estimate!!Total!!18 to 24 years!!With health insurance coverage,B27001H
+B27001H_009MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!With health insurance coverage,B27001H
+B27001H_010EA,string,Annotation of Estimate!!Total!!18 to 24 years!!No health insurance coverage,B27001H
+B27001H_010MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!No health insurance coverage,B27001H
+B27001H_011EA,string,Annotation of Estimate!!Total!!25 to 34 years,B27001H
+B27001H_011MA,string,Annotation of Margin of Error!!Total!!25 to 34 years,B27001H
+B27001H_012EA,string,Annotation of Estimate!!Total!!25 to 34 years!!With health insurance coverage,B27001H
+B27001H_012MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!With health insurance coverage,B27001H
+B27001H_013EA,string,Annotation of Estimate!!Total!!25 to 34 years!!No health insurance coverage,B27001H
+B27001H_013MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!No health insurance coverage,B27001H
+B27001H_014EA,string,Annotation of Estimate!!Total!!35 to 44 years,B27001H
+B27001H_014MA,string,Annotation of Margin of Error!!Total!!35 to 44 years,B27001H
+B27001H_015EA,string,Annotation of Estimate!!Total!!35 to 44 years!!With health insurance coverage,B27001H
+B27001H_015MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!With health insurance coverage,B27001H
+B27001H_016EA,string,Annotation of Estimate!!Total!!35 to 44 years!!No health insurance coverage,B27001H
+B27001H_016MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!No health insurance coverage,B27001H
+B27001H_017EA,string,Annotation of Estimate!!Total!!45 to 54 years,B27001H
+B27001H_017MA,string,Annotation of Margin of Error!!Total!!45 to 54 years,B27001H
+B27001H_018EA,string,Annotation of Estimate!!Total!!45 to 54 years!!With health insurance coverage,B27001H
+B27001H_018MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!With health insurance coverage,B27001H
+B27001H_019EA,string,Annotation of Estimate!!Total!!45 to 54 years!!No health insurance coverage,B27001H
+B27001H_019MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!No health insurance coverage,B27001H
+B27001H_020EA,string,Annotation of Estimate!!Total!!55 to 64 years,B27001H
+B27001H_020MA,string,Annotation of Margin of Error!!Total!!55 to 64 years,B27001H
+B27001H_021EA,string,Annotation of Estimate!!Total!!55 to 64 years!!With health insurance coverage,B27001H
+B27001H_021MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!With health insurance coverage,B27001H
+B27001H_022EA,string,Annotation of Estimate!!Total!!55 to 64 years!!No health insurance coverage,B27001H
+B27001H_022MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!No health insurance coverage,B27001H
+B27001H_023EA,string,Annotation of Estimate!!Total!!65 to 74 years,B27001H
+B27001H_023MA,string,Annotation of Margin of Error!!Total!!65 to 74 years,B27001H
+B27001H_024EA,string,Annotation of Estimate!!Total!!65 to 74 years!!With health insurance coverage,B27001H
+B27001H_024MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!With health insurance coverage,B27001H
+B27001H_025EA,string,Annotation of Estimate!!Total!!65 to 74 years!!No health insurance coverage,B27001H
+B27001H_025MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!No health insurance coverage,B27001H
+B27001H_026EA,string,Annotation of Estimate!!Total!!75 years and over,B27001H
+B27001H_026MA,string,Annotation of Margin of Error!!Total!!75 years and over,B27001H
+B27001H_027EA,string,Annotation of Estimate!!Total!!75 years and over!!With health insurance coverage,B27001H
+B27001H_027MA,string,Annotation of Margin of Error!!Total!!75 years and over!!With health insurance coverage,B27001H
+B27001H_028EA,string,Annotation of Estimate!!Total!!75 years and over!!No health insurance coverage,B27001H
+B27001H_028MA,string,Annotation of Margin of Error!!Total!!75 years and over!!No health insurance coverage,B27001H
