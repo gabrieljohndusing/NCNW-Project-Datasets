@@ -1,0 +1,121 @@
+VARIABLE,TYPE,LABEL,GROUP
+C07008_001E,int,Estimate!!Total,C07008
+C07008_002E,int,Estimate!!Total!!Never married,C07008
+C07008_003E,int,"Estimate!!Total!!Now married, except separated",C07008
+C07008_004E,int,Estimate!!Total!!Divorced or separated,C07008
+C07008_005E,int,Estimate!!Total!!Widowed,C07008
+C07008_006E,int,Estimate!!Total!!Same house 1 year ago,C07008
+C07008_007E,int,Estimate!!Total!!Same house 1 year ago!!Never married,C07008
+C07008_008E,int,"Estimate!!Total!!Same house 1 year ago!!Now married, except separated",C07008
+C07008_009E,int,Estimate!!Total!!Same house 1 year ago!!Divorced or separated,C07008
+C07008_010E,int,Estimate!!Total!!Same house 1 year ago!!Widowed,C07008
+C07008_011E,int,Estimate!!Total!!Moved within same county,C07008
+C07008_012E,int,Estimate!!Total!!Moved within same county!!Never married,C07008
+C07008_013E,int,"Estimate!!Total!!Moved within same county!!Now married, except separated",C07008
+C07008_014E,int,Estimate!!Total!!Moved within same county!!Divorced or separated,C07008
+C07008_015E,int,Estimate!!Total!!Moved within same county!!Widowed,C07008
+C07008_016E,int,Estimate!!Total!!Moved from different county within same state,C07008
+C07008_017E,int,Estimate!!Total!!Moved from different county within same state!!Never married,C07008
+C07008_018E,int,"Estimate!!Total!!Moved from different county within same state!!Now married, except separated",C07008
+C07008_019E,int,Estimate!!Total!!Moved from different county within same state!!Divorced or separated,C07008
+C07008_020E,int,Estimate!!Total!!Moved from different county within same state!!Widowed,C07008
+C07008_021E,int,Estimate!!Total!!Moved from different state,C07008
+C07008_022E,int,Estimate!!Total!!Moved from different state!!Never married,C07008
+C07008_023E,int,"Estimate!!Total!!Moved from different state!!Now married, except separated",C07008
+C07008_024E,int,Estimate!!Total!!Moved from different state!!Divorced or separated,C07008
+C07008_025E,int,Estimate!!Total!!Moved from different state!!Widowed,C07008
+C07008_026E,int,Estimate!!Total!!Moved from abroad,C07008
+C07008_027E,int,Estimate!!Total!!Moved from abroad!!Never married,C07008
+C07008_028E,int,"Estimate!!Total!!Moved from abroad!!Now married, except separated",C07008
+C07008_029E,int,Estimate!!Total!!Moved from abroad!!Divorced or separated,C07008
+C07008_030E,int,Estimate!!Total!!Moved from abroad!!Widowed,C07008
+C07008_001M,int,Margin of Error!!Total,C07008
+C07008_002M,int,Margin of Error!!Total!!Never married,C07008
+C07008_003M,int,"Margin of Error!!Total!!Now married, except separated",C07008
+C07008_004M,int,Margin of Error!!Total!!Divorced or separated,C07008
+C07008_005M,int,Margin of Error!!Total!!Widowed,C07008
+C07008_006M,int,Margin of Error!!Total!!Same house 1 year ago,C07008
+C07008_007M,int,Margin of Error!!Total!!Same house 1 year ago!!Never married,C07008
+C07008_008M,int,"Margin of Error!!Total!!Same house 1 year ago!!Now married, except separated",C07008
+C07008_009M,int,Margin of Error!!Total!!Same house 1 year ago!!Divorced or separated,C07008
+C07008_010M,int,Margin of Error!!Total!!Same house 1 year ago!!Widowed,C07008
+C07008_011M,int,Margin of Error!!Total!!Moved within same county,C07008
+C07008_012M,int,Margin of Error!!Total!!Moved within same county!!Never married,C07008
+C07008_013M,int,"Margin of Error!!Total!!Moved within same county!!Now married, except separated",C07008
+C07008_014M,int,Margin of Error!!Total!!Moved within same county!!Divorced or separated,C07008
+C07008_015M,int,Margin of Error!!Total!!Moved within same county!!Widowed,C07008
+C07008_016M,int,Margin of Error!!Total!!Moved from different county within same state,C07008
+C07008_017M,int,Margin of Error!!Total!!Moved from different county within same state!!Never married,C07008
+C07008_018M,int,"Margin of Error!!Total!!Moved from different county within same state!!Now married, except separated",C07008
+C07008_019M,int,Margin of Error!!Total!!Moved from different county within same state!!Divorced or separated,C07008
+C07008_020M,int,Margin of Error!!Total!!Moved from different county within same state!!Widowed,C07008
+C07008_021M,int,Margin of Error!!Total!!Moved from different state,C07008
+C07008_022M,int,Margin of Error!!Total!!Moved from different state!!Never married,C07008
+C07008_023M,int,"Margin of Error!!Total!!Moved from different state!!Now married, except separated",C07008
+C07008_024M,int,Margin of Error!!Total!!Moved from different state!!Divorced or separated,C07008
+C07008_025M,int,Margin of Error!!Total!!Moved from different state!!Widowed,C07008
+C07008_026M,int,Margin of Error!!Total!!Moved from abroad,C07008
+C07008_027M,int,Margin of Error!!Total!!Moved from abroad!!Never married,C07008
+C07008_028M,int,"Margin of Error!!Total!!Moved from abroad!!Now married, except separated",C07008
+C07008_029M,int,Margin of Error!!Total!!Moved from abroad!!Divorced or separated,C07008
+C07008_030M,int,Margin of Error!!Total!!Moved from abroad!!Widowed,C07008
+C07008_001EA,string,Annotation of Estimate!!Total,C07008
+C07008_001MA,string,Annotation of Margin of Error!!Total,C07008
+C07008_002EA,string,Annotation of Estimate!!Total!!Never married,C07008
+C07008_002MA,string,Annotation of Margin of Error!!Total!!Never married,C07008
+C07008_003EA,string,"Annotation of Estimate!!Total!!Now married, except separated",C07008
+C07008_003MA,string,"Annotation of Margin of Error!!Total!!Now married, except separated",C07008
+C07008_004EA,string,Annotation of Estimate!!Total!!Divorced or separated,C07008
+C07008_004MA,string,Annotation of Margin of Error!!Total!!Divorced or separated,C07008
+C07008_005EA,string,Annotation of Estimate!!Total!!Widowed,C07008
+C07008_005MA,string,Annotation of Margin of Error!!Total!!Widowed,C07008
+C07008_006EA,string,Annotation of Estimate!!Total!!Same house 1 year ago,C07008
+C07008_006MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago,C07008
+C07008_007EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Never married,C07008
+C07008_007MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Never married,C07008
+C07008_008EA,string,"Annotation of Estimate!!Total!!Same house 1 year ago!!Now married, except separated",C07008
+C07008_008MA,string,"Annotation of Margin of Error!!Total!!Same house 1 year ago!!Now married, except separated",C07008
+C07008_009EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Divorced or separated,C07008
+C07008_009MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Divorced or separated,C07008
+C07008_010EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Widowed,C07008
+C07008_010MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Widowed,C07008
+C07008_011EA,string,Annotation of Estimate!!Total!!Moved within same county,C07008
+C07008_011MA,string,Annotation of Margin of Error!!Total!!Moved within same county,C07008
+C07008_012EA,string,Annotation of Estimate!!Total!!Moved within same county!!Never married,C07008
+C07008_012MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!Never married,C07008
+C07008_013EA,string,"Annotation of Estimate!!Total!!Moved within same county!!Now married, except separated",C07008
+C07008_013MA,string,"Annotation of Margin of Error!!Total!!Moved within same county!!Now married, except separated",C07008
+C07008_014EA,string,Annotation of Estimate!!Total!!Moved within same county!!Divorced or separated,C07008
+C07008_014MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!Divorced or separated,C07008
+C07008_015EA,string,Annotation of Estimate!!Total!!Moved within same county!!Widowed,C07008
+C07008_015MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!Widowed,C07008
+C07008_016EA,string,Annotation of Estimate!!Total!!Moved from different county within same state,C07008
+C07008_016MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state,C07008
+C07008_017EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!Never married,C07008
+C07008_017MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!Never married,C07008
+C07008_018EA,string,"Annotation of Estimate!!Total!!Moved from different county within same state!!Now married, except separated",C07008
+C07008_018MA,string,"Annotation of Margin of Error!!Total!!Moved from different county within same state!!Now married, except separated",C07008
+C07008_019EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!Divorced or separated,C07008
+C07008_019MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!Divorced or separated,C07008
+C07008_020EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!Widowed,C07008
+C07008_020MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!Widowed,C07008
+C07008_021EA,string,Annotation of Estimate!!Total!!Moved from different state,C07008
+C07008_021MA,string,Annotation of Margin of Error!!Total!!Moved from different state,C07008
+C07008_022EA,string,Annotation of Estimate!!Total!!Moved from different state!!Never married,C07008
+C07008_022MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!Never married,C07008
+C07008_023EA,string,"Annotation of Estimate!!Total!!Moved from different state!!Now married, except separated",C07008
+C07008_023MA,string,"Annotation of Margin of Error!!Total!!Moved from different state!!Now married, except separated",C07008
+C07008_024EA,string,Annotation of Estimate!!Total!!Moved from different state!!Divorced or separated,C07008
+C07008_024MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!Divorced or separated,C07008
+C07008_025EA,string,Annotation of Estimate!!Total!!Moved from different state!!Widowed,C07008
+C07008_025MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!Widowed,C07008
+C07008_026EA,string,Annotation of Estimate!!Total!!Moved from abroad,C07008
+C07008_026MA,string,Annotation of Margin of Error!!Total!!Moved from abroad,C07008
+C07008_027EA,string,Annotation of Estimate!!Total!!Moved from abroad!!Never married,C07008
+C07008_027MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!Never married,C07008
+C07008_028EA,string,"Annotation of Estimate!!Total!!Moved from abroad!!Now married, except separated",C07008
+C07008_028MA,string,"Annotation of Margin of Error!!Total!!Moved from abroad!!Now married, except separated",C07008
+C07008_029EA,string,Annotation of Estimate!!Total!!Moved from abroad!!Divorced or separated,C07008
+C07008_029MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!Divorced or separated,C07008
+C07008_030EA,string,Annotation of Estimate!!Total!!Moved from abroad!!Widowed,C07008
+C07008_030MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!Widowed,C07008

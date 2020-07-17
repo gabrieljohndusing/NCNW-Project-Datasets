@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18103_001E,int,Estimate!!Total,C18103
+C18103_002E,int,Estimate!!Total!!Male,C18103
+C18103_003E,int,Estimate!!Total!!Male!!Under 18 years,C18103
+C18103_004E,int,Estimate!!Total!!Male!!Under 18 years!!With a vision difficulty,C18103
+C18103_005E,int,Estimate!!Total!!Male!!Under 18 years!!No vision difficulty,C18103
+C18103_006E,int,Estimate!!Total!!Male!!18 to 64 years,C18103
+C18103_007E,int,Estimate!!Total!!Male!!18 to 64 years!!With a vision difficulty,C18103
+C18103_008E,int,Estimate!!Total!!Male!!18 to 64 years!!No vision difficulty,C18103
+C18103_009E,int,Estimate!!Total!!Male!!65 years and over,C18103
+C18103_010E,int,Estimate!!Total!!Male!!65 years and over!!With a vision difficulty,C18103
+C18103_011E,int,Estimate!!Total!!Male!!65 years and over!!No vision difficulty,C18103
+C18103_012E,int,Estimate!!Total!!Female,C18103
+C18103_013E,int,Estimate!!Total!!Female!!Under 18 years,C18103
+C18103_014E,int,Estimate!!Total!!Female!!Under 18 years!!With a vision difficulty,C18103
+C18103_015E,int,Estimate!!Total!!Female!!Under 18 years!!No vision difficulty,C18103
+C18103_016E,int,Estimate!!Total!!Female!!18 to 64 years,C18103
+C18103_017E,int,Estimate!!Total!!Female!!18 to 64 years!!With a vision difficulty,C18103
+C18103_018E,int,Estimate!!Total!!Female!!18 to 64 years!!No vision difficulty,C18103
+C18103_019E,int,Estimate!!Total!!Female!!65 years and over,C18103
+C18103_020E,int,Estimate!!Total!!Female!!65 years and over!!With a vision difficulty,C18103
+C18103_021E,int,Estimate!!Total!!Female!!65 years and over!!No vision difficulty,C18103
+C18103_001M,int,Margin of Error!!Total,C18103
+C18103_002M,int,Margin of Error!!Total!!Male,C18103
+C18103_003M,int,Margin of Error!!Total!!Male!!Under 18 years,C18103
+C18103_004M,int,Margin of Error!!Total!!Male!!Under 18 years!!With a vision difficulty,C18103
+C18103_005M,int,Margin of Error!!Total!!Male!!Under 18 years!!No vision difficulty,C18103
+C18103_006M,int,Margin of Error!!Total!!Male!!18 to 64 years,C18103
+C18103_007M,int,Margin of Error!!Total!!Male!!18 to 64 years!!With a vision difficulty,C18103
+C18103_008M,int,Margin of Error!!Total!!Male!!18 to 64 years!!No vision difficulty,C18103
+C18103_009M,int,Margin of Error!!Total!!Male!!65 years and over,C18103
+C18103_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With a vision difficulty,C18103
+C18103_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No vision difficulty,C18103
+C18103_012M,int,Margin of Error!!Total!!Female,C18103
+C18103_013M,int,Margin of Error!!Total!!Female!!Under 18 years,C18103
+C18103_014M,int,Margin of Error!!Total!!Female!!Under 18 years!!With a vision difficulty,C18103
+C18103_015M,int,Margin of Error!!Total!!Female!!Under 18 years!!No vision difficulty,C18103
+C18103_016M,int,Margin of Error!!Total!!Female!!18 to 64 years,C18103
+C18103_017M,int,Margin of Error!!Total!!Female!!18 to 64 years!!With a vision difficulty,C18103
+C18103_018M,int,Margin of Error!!Total!!Female!!18 to 64 years!!No vision difficulty,C18103
+C18103_019M,int,Margin of Error!!Total!!Female!!65 years and over,C18103
+C18103_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With a vision difficulty,C18103
+C18103_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No vision difficulty,C18103
+C18103_001EA,string,Annotation of Estimate!!Total,C18103
+C18103_001MA,string,Annotation of Margin of Error!!Total,C18103
+C18103_002EA,string,Annotation of Estimate!!Total!!Male,C18103
+C18103_002MA,string,Annotation of Margin of Error!!Total!!Male,C18103
+C18103_003EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years,C18103
+C18103_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years,C18103
+C18103_004EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!With a vision difficulty,C18103
+C18103_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!With a vision difficulty,C18103
+C18103_005EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!No vision difficulty,C18103
+C18103_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!No vision difficulty,C18103
+C18103_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C18103
+C18103_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C18103
+C18103_007EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!With a vision difficulty,C18103
+C18103_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!With a vision difficulty,C18103
+C18103_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!No vision difficulty,C18103
+C18103_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!No vision difficulty,C18103
+C18103_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C18103
+C18103_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C18103
+C18103_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With a vision difficulty,C18103
+C18103_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With a vision difficulty,C18103
+C18103_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No vision difficulty,C18103
+C18103_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No vision difficulty,C18103
+C18103_012EA,string,Annotation of Estimate!!Total!!Female,C18103
+C18103_012MA,string,Annotation of Margin of Error!!Total!!Female,C18103
+C18103_013EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years,C18103
+C18103_013MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years,C18103
+C18103_014EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!With a vision difficulty,C18103
+C18103_014MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!With a vision difficulty,C18103
+C18103_015EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!No vision difficulty,C18103
+C18103_015MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!No vision difficulty,C18103
+C18103_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C18103
+C18103_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C18103
+C18103_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!With a vision difficulty,C18103
+C18103_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!With a vision difficulty,C18103
+C18103_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!No vision difficulty,C18103
+C18103_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!No vision difficulty,C18103
+C18103_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C18103
+C18103_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C18103
+C18103_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With a vision difficulty,C18103
+C18103_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With a vision difficulty,C18103
+C18103_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No vision difficulty,C18103
+C18103_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No vision difficulty,C18103

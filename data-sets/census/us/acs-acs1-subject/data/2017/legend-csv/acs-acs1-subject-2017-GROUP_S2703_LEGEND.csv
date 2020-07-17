@@ -1,0 +1,349 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2703_C01_001E,int,Total!!Estimate!!Civilian noninstitutionalized population,S2703
+S2703_C01_002E,int,Total!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C01_003E,int,Total!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C01_004E,int,Total!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_005E,int,Total!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_006E,int,Total!!Estimate!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C01_007E,int,Total!!Estimate!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C01_008E,int,Total!!Estimate!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_009E,int,Total!!Estimate!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_010E,int,Total!!Estimate!!Tricare/military health insurance alone or in combination,S2703
+S2703_C01_011E,int,Total!!Estimate!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C01_012E,int,Total!!Estimate!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_013E,int,Total!!Estimate!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_014E,int,Total!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C01_015E,int,Total!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C01_016E,int,"Total!!Estimate!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C01_017E,int,Total!!Estimate!!Under 6,S2703
+S2703_C01_018E,int,Total!!Estimate!!6 to 18 years,S2703
+S2703_C01_019E,int,Total!!Estimate!!19 to 25 years,S2703
+S2703_C01_020E,int,Total!!Estimate!!26 to 34 years,S2703
+S2703_C01_021E,int,Total!!Estimate!!35 to 44 years,S2703
+S2703_C01_022E,int,Total!!Estimate!!45 to 54 years,S2703
+S2703_C01_023E,int,Total!!Estimate!!55 to 64 years,S2703
+S2703_C01_024E,int,Total!!Estimate!!65 to 74 years,S2703
+S2703_C01_025E,int,Total!!Estimate!!75 years and over,S2703
+S2703_C01_026E,int,Total!!Estimate!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C01_027E,int,Total!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C01_028E,int,Total!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C01_029E,int,Total!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C02_001E,int,Private Coverage!!Estimate!!Civilian noninstitutionalized population,S2703
+S2703_C02_002E,int,Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C02_003E,int,Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C02_004E,int,Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_005E,int,Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_006E,int,Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C02_007E,int,Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C02_008E,int,Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_009E,int,Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_010E,int,Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination,S2703
+S2703_C02_011E,int,Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C02_012E,int,Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_013E,int,Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_014E,int,Private Coverage!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C02_015E,int,Private Coverage!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C02_016E,int,"Private Coverage!!Estimate!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C02_017E,int,Private Coverage!!Estimate!!Under 6,S2703
+S2703_C02_018E,int,Private Coverage!!Estimate!!6 to 18 years,S2703
+S2703_C02_019E,int,Private Coverage!!Estimate!!19 to 25 years,S2703
+S2703_C02_020E,int,Private Coverage!!Estimate!!26 to 34 years,S2703
+S2703_C02_021E,int,Private Coverage!!Estimate!!35 to 44 years,S2703
+S2703_C02_022E,int,Private Coverage!!Estimate!!45 to 54 years,S2703
+S2703_C02_023E,int,Private Coverage!!Estimate!!55 to 64 years,S2703
+S2703_C02_024E,int,Private Coverage!!Estimate!!65 to 74 years,S2703
+S2703_C02_025E,int,Private Coverage!!Estimate!!75 years and over,S2703
+S2703_C02_026E,int,Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C02_027E,int,Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C02_028E,int,Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C02_029E,int,Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C03_001E,float,Percent Private Coverage!!Estimate!!Civilian noninstitutionalized population,S2703
+S2703_C03_002E,float,Percent Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C03_003E,float,Percent Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C03_004E,float,Percent Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_005E,float,Percent Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_006E,float,Percent Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C03_007E,float,Percent Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C03_008E,float,Percent Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_009E,float,Percent Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_010E,float,Percent Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination,S2703
+S2703_C03_011E,float,Percent Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C03_012E,float,Percent Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_013E,float,Percent Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_014E,float,Percent Private Coverage!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C03_015E,float,Percent Private Coverage!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C03_016E,float,"Percent Private Coverage!!Estimate!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C03_017E,float,Percent Private Coverage!!Estimate!!Under 6,S2703
+S2703_C03_018E,float,Percent Private Coverage!!Estimate!!6 to 18 years,S2703
+S2703_C03_019E,float,Percent Private Coverage!!Estimate!!19 to 25 years,S2703
+S2703_C03_020E,float,Percent Private Coverage!!Estimate!!26 to 34 years,S2703
+S2703_C03_021E,float,Percent Private Coverage!!Estimate!!35 to 44 years,S2703
+S2703_C03_022E,float,Percent Private Coverage!!Estimate!!45 to 54 years,S2703
+S2703_C03_023E,float,Percent Private Coverage!!Estimate!!55 to 64 years,S2703
+S2703_C03_024E,float,Percent Private Coverage!!Estimate!!65 to 74 years,S2703
+S2703_C03_025E,float,Percent Private Coverage!!Estimate!!75 years and over,S2703
+S2703_C03_026E,float,Percent Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C03_027E,float,Percent Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C03_028E,float,Percent Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C03_029E,float,Percent Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C01_001M,int,Total!!Margin of Error!!Civilian noninstitutionalized population,S2703
+S2703_C01_002M,int,Total!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C01_003M,int,Total!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C01_004M,int,Total!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_005M,int,Total!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_006M,int,Total!!Margin of Error!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C01_007M,int,Total!!Margin of Error!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C01_008M,int,Total!!Margin of Error!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_009M,int,Total!!Margin of Error!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_010M,int,Total!!Margin of Error!!Tricare/military health insurance alone or in combination,S2703
+S2703_C01_011M,int,Total!!Margin of Error!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C01_012M,int,Total!!Margin of Error!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_013M,int,Total!!Margin of Error!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_014M,int,Total!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C01_015M,int,Total!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C01_016M,int,"Total!!Margin of Error!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C01_017M,int,Total!!Margin of Error!!Under 6,S2703
+S2703_C01_018M,int,Total!!Margin of Error!!6 to 18 years,S2703
+S2703_C01_019M,int,Total!!Margin of Error!!19 to 25 years,S2703
+S2703_C01_020M,int,Total!!Margin of Error!!26 to 34 years,S2703
+S2703_C01_021M,int,Total!!Margin of Error!!35 to 44 years,S2703
+S2703_C01_022M,int,Total!!Margin of Error!!45 to 54 years,S2703
+S2703_C01_023M,int,Total!!Margin of Error!!55 to 64 years,S2703
+S2703_C01_024M,int,Total!!Margin of Error!!65 to 74 years,S2703
+S2703_C01_025M,int,Total!!Margin of Error!!75 years and over,S2703
+S2703_C01_026M,int,Total!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C01_027M,int,Total!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C01_028M,int,Total!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C01_029M,int,Total!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C02_001M,int,Private Coverage!!Margin of Error!!Civilian noninstitutionalized population,S2703
+S2703_C02_002M,int,Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C02_003M,int,Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C02_004M,int,Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_005M,int,Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_006M,int,Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C02_007M,int,Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C02_008M,int,Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_009M,int,Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_010M,int,Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination,S2703
+S2703_C02_011M,int,Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C02_012M,int,Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_013M,int,Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_014M,int,Private Coverage!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C02_015M,int,Private Coverage!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C02_016M,int,"Private Coverage!!Margin of Error!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C02_017M,int,Private Coverage!!Margin of Error!!Under 6,S2703
+S2703_C02_018M,int,Private Coverage!!Margin of Error!!6 to 18 years,S2703
+S2703_C02_019M,int,Private Coverage!!Margin of Error!!19 to 25 years,S2703
+S2703_C02_020M,int,Private Coverage!!Margin of Error!!26 to 34 years,S2703
+S2703_C02_021M,int,Private Coverage!!Margin of Error!!35 to 44 years,S2703
+S2703_C02_022M,int,Private Coverage!!Margin of Error!!45 to 54 years,S2703
+S2703_C02_023M,int,Private Coverage!!Margin of Error!!55 to 64 years,S2703
+S2703_C02_024M,int,Private Coverage!!Margin of Error!!65 to 74 years,S2703
+S2703_C02_025M,int,Private Coverage!!Margin of Error!!75 years and over,S2703
+S2703_C02_026M,int,Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C02_027M,int,Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C02_028M,int,Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C02_029M,int,Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C03_001M,float,Percent Private Coverage!!Margin of Error!!Civilian noninstitutionalized population,S2703
+S2703_C03_002M,float,Percent Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C03_003M,float,Percent Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C03_004M,float,Percent Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_005M,float,Percent Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_006M,float,Percent Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C03_007M,float,Percent Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C03_008M,float,Percent Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_009M,float,Percent Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_010M,float,Percent Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination,S2703
+S2703_C03_011M,float,Percent Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C03_012M,float,Percent Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_013M,float,Percent Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_014M,float,Percent Private Coverage!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C03_015M,float,Percent Private Coverage!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C03_016M,float,"Percent Private Coverage!!Margin of Error!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C03_017M,float,Percent Private Coverage!!Margin of Error!!Under 6,S2703
+S2703_C03_018M,float,Percent Private Coverage!!Margin of Error!!6 to 18 years,S2703
+S2703_C03_019M,float,Percent Private Coverage!!Margin of Error!!19 to 25 years,S2703
+S2703_C03_020M,float,Percent Private Coverage!!Margin of Error!!26 to 34 years,S2703
+S2703_C03_021M,float,Percent Private Coverage!!Margin of Error!!35 to 44 years,S2703
+S2703_C03_022M,float,Percent Private Coverage!!Margin of Error!!45 to 54 years,S2703
+S2703_C03_023M,float,Percent Private Coverage!!Margin of Error!!55 to 64 years,S2703
+S2703_C03_024M,float,Percent Private Coverage!!Margin of Error!!65 to 74 years,S2703
+S2703_C03_025M,float,Percent Private Coverage!!Margin of Error!!75 years and over,S2703
+S2703_C03_026M,float,Percent Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C03_027M,float,Percent Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C03_028M,float,Percent Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C03_029M,float,Percent Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C01_001EA,string,Annotation of Total!!Estimate!!Civilian noninstitutionalized population,S2703
+S2703_C01_001MA,string,Annotation of Total!!Margin of Error!!Civilian noninstitutionalized population,S2703
+S2703_C01_002EA,string,Annotation of Total!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C01_002MA,string,Annotation of Total!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C01_003EA,string,Annotation of Total!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C01_003MA,string,Annotation of Total!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C01_004EA,string,Annotation of Total!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_004MA,string,Annotation of Total!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_005EA,string,Annotation of Total!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_005MA,string,Annotation of Total!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_006EA,string,Annotation of Total!!Estimate!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C01_006MA,string,Annotation of Total!!Margin of Error!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C01_007EA,string,Annotation of Total!!Estimate!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C01_007MA,string,Annotation of Total!!Margin of Error!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C01_008EA,string,Annotation of Total!!Estimate!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_008MA,string,Annotation of Total!!Margin of Error!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_009EA,string,Annotation of Total!!Estimate!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_009MA,string,Annotation of Total!!Margin of Error!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_010EA,string,Annotation of Total!!Estimate!!Tricare/military health insurance alone or in combination,S2703
+S2703_C01_010MA,string,Annotation of Total!!Margin of Error!!Tricare/military health insurance alone or in combination,S2703
+S2703_C01_011EA,string,Annotation of Total!!Estimate!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C01_011MA,string,Annotation of Total!!Margin of Error!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C01_012EA,string,Annotation of Total!!Estimate!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_012MA,string,Annotation of Total!!Margin of Error!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C01_013EA,string,Annotation of Total!!Estimate!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_013MA,string,Annotation of Total!!Margin of Error!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C01_014EA,string,Annotation of Total!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C01_014MA,string,Annotation of Total!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C01_015EA,string,Annotation of Total!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C01_015MA,string,Annotation of Total!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C01_016EA,string,"Annotation of Total!!Estimate!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C01_016MA,string,"Annotation of Total!!Margin of Error!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C01_017EA,string,Annotation of Total!!Estimate!!Under 6,S2703
+S2703_C01_017MA,string,Annotation of Total!!Margin of Error!!Under 6,S2703
+S2703_C01_018EA,string,Annotation of Total!!Estimate!!6 to 18 years,S2703
+S2703_C01_018MA,string,Annotation of Total!!Margin of Error!!6 to 18 years,S2703
+S2703_C01_019EA,string,Annotation of Total!!Estimate!!19 to 25 years,S2703
+S2703_C01_019MA,string,Annotation of Total!!Margin of Error!!19 to 25 years,S2703
+S2703_C01_020EA,string,Annotation of Total!!Estimate!!26 to 34 years,S2703
+S2703_C01_020MA,string,Annotation of Total!!Margin of Error!!26 to 34 years,S2703
+S2703_C01_021EA,string,Annotation of Total!!Estimate!!35 to 44 years,S2703
+S2703_C01_021MA,string,Annotation of Total!!Margin of Error!!35 to 44 years,S2703
+S2703_C01_022EA,string,Annotation of Total!!Estimate!!45 to 54 years,S2703
+S2703_C01_022MA,string,Annotation of Total!!Margin of Error!!45 to 54 years,S2703
+S2703_C01_023EA,string,Annotation of Total!!Estimate!!55 to 64 years,S2703
+S2703_C01_023MA,string,Annotation of Total!!Margin of Error!!55 to 64 years,S2703
+S2703_C01_024EA,string,Annotation of Total!!Estimate!!65 to 74 years,S2703
+S2703_C01_024MA,string,Annotation of Total!!Margin of Error!!65 to 74 years,S2703
+S2703_C01_025EA,string,Annotation of Total!!Estimate!!75 years and over,S2703
+S2703_C01_025MA,string,Annotation of Total!!Margin of Error!!75 years and over,S2703
+S2703_C01_026EA,string,Annotation of Total!!Estimate!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C01_026MA,string,Annotation of Total!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C01_027EA,string,Annotation of Total!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C01_027MA,string,Annotation of Total!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C01_028EA,string,Annotation of Total!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C01_028MA,string,Annotation of Total!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C01_029EA,string,Annotation of Total!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C01_029MA,string,Annotation of Total!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C02_001EA,string,Annotation of Private Coverage!!Estimate!!Civilian noninstitutionalized population,S2703
+S2703_C02_001MA,string,Annotation of Private Coverage!!Margin of Error!!Civilian noninstitutionalized population,S2703
+S2703_C02_002EA,string,Annotation of Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C02_002MA,string,Annotation of Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C02_003EA,string,Annotation of Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C02_003MA,string,Annotation of Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C02_004EA,string,Annotation of Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_004MA,string,Annotation of Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_005EA,string,Annotation of Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_005MA,string,Annotation of Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_006EA,string,Annotation of Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C02_006MA,string,Annotation of Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C02_007EA,string,Annotation of Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C02_007MA,string,Annotation of Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C02_008EA,string,Annotation of Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_008MA,string,Annotation of Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_009EA,string,Annotation of Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_009MA,string,Annotation of Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_010EA,string,Annotation of Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination,S2703
+S2703_C02_010MA,string,Annotation of Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination,S2703
+S2703_C02_011EA,string,Annotation of Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C02_011MA,string,Annotation of Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C02_012EA,string,Annotation of Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_012MA,string,Annotation of Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C02_013EA,string,Annotation of Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_013MA,string,Annotation of Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C02_014EA,string,Annotation of Private Coverage!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C02_014MA,string,Annotation of Private Coverage!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C02_015EA,string,Annotation of Private Coverage!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C02_015MA,string,Annotation of Private Coverage!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C02_016EA,string,"Annotation of Private Coverage!!Estimate!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C02_016MA,string,"Annotation of Private Coverage!!Margin of Error!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C02_017EA,string,Annotation of Private Coverage!!Estimate!!Under 6,S2703
+S2703_C02_017MA,string,Annotation of Private Coverage!!Margin of Error!!Under 6,S2703
+S2703_C02_018EA,string,Annotation of Private Coverage!!Estimate!!6 to 18 years,S2703
+S2703_C02_018MA,string,Annotation of Private Coverage!!Margin of Error!!6 to 18 years,S2703
+S2703_C02_019EA,string,Annotation of Private Coverage!!Estimate!!19 to 25 years,S2703
+S2703_C02_019MA,string,Annotation of Private Coverage!!Margin of Error!!19 to 25 years,S2703
+S2703_C02_020EA,string,Annotation of Private Coverage!!Estimate!!26 to 34 years,S2703
+S2703_C02_020MA,string,Annotation of Private Coverage!!Margin of Error!!26 to 34 years,S2703
+S2703_C02_021EA,string,Annotation of Private Coverage!!Estimate!!35 to 44 years,S2703
+S2703_C02_021MA,string,Annotation of Private Coverage!!Margin of Error!!35 to 44 years,S2703
+S2703_C02_022EA,string,Annotation of Private Coverage!!Estimate!!45 to 54 years,S2703
+S2703_C02_022MA,string,Annotation of Private Coverage!!Margin of Error!!45 to 54 years,S2703
+S2703_C02_023EA,string,Annotation of Private Coverage!!Estimate!!55 to 64 years,S2703
+S2703_C02_023MA,string,Annotation of Private Coverage!!Margin of Error!!55 to 64 years,S2703
+S2703_C02_024EA,string,Annotation of Private Coverage!!Estimate!!65 to 74 years,S2703
+S2703_C02_024MA,string,Annotation of Private Coverage!!Margin of Error!!65 to 74 years,S2703
+S2703_C02_025EA,string,Annotation of Private Coverage!!Estimate!!75 years and over,S2703
+S2703_C02_025MA,string,Annotation of Private Coverage!!Margin of Error!!75 years and over,S2703
+S2703_C02_026EA,string,Annotation of Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C02_026MA,string,Annotation of Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C02_027EA,string,Annotation of Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C02_027MA,string,Annotation of Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C02_028EA,string,Annotation of Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C02_028MA,string,Annotation of Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C02_029EA,string,Annotation of Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C02_029MA,string,Annotation of Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C03_001EA,string,Annotation of Percent Private Coverage!!Estimate!!Civilian noninstitutionalized population,S2703
+S2703_C03_001MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Civilian noninstitutionalized population,S2703
+S2703_C03_002EA,string,Annotation of Percent Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C03_002MA,string,Annotation of Percent Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination,S2703
+S2703_C03_003EA,string,Annotation of Percent Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C03_003MA,string,Annotation of Percent Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!Under 19,S2703
+S2703_C03_004EA,string,Annotation of Percent Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_004MA,string,Annotation of Percent Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_005EA,string,Annotation of Percent Private Coverage!!Estimate!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_005MA,string,Annotation of Percent Private Coverage!!Margin of Error!!COVERAGE ALONE OR IN COMBINATION!!Employer-based health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_006EA,string,Annotation of Percent Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C03_006MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination,S2703
+S2703_C03_007EA,string,Annotation of Percent Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C03_007MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!Under 19,S2703
+S2703_C03_008EA,string,Annotation of Percent Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_008MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_009EA,string,Annotation of Percent Private Coverage!!Estimate!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_009MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Direct-purchase health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_010EA,string,Annotation of Percent Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination,S2703
+S2703_C03_010MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination,S2703
+S2703_C03_011EA,string,Annotation of Percent Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C03_011MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!Under 19,S2703
+S2703_C03_012EA,string,Annotation of Percent Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_012MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!19 to 64 years,S2703
+S2703_C03_013EA,string,Annotation of Percent Private Coverage!!Estimate!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_013MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Tricare/military health insurance alone or in combination!!65 years and over,S2703
+S2703_C03_014EA,string,Annotation of Percent Private Coverage!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C03_014MA,string,Annotation of Percent Private Coverage!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!Below 138 percent of the poverty threshold,S2703
+S2703_C03_015EA,string,Annotation of Percent Private Coverage!!Estimate!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C03_015MA,string,Annotation of Percent Private Coverage!!Margin of Error!!PRIVATE HEALTH INSURANCE ALONE OR IN COMBINATION!!At or above 138 percent of the poverty threshold,S2703
+S2703_C03_016EA,string,"Annotation of Percent Private Coverage!!Estimate!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C03_016MA,string,"Annotation of Percent Private Coverage!!Margin of Error!!Worked full-time, year-round (19-64 years)",S2703
+S2703_C03_017EA,string,Annotation of Percent Private Coverage!!Estimate!!Under 6,S2703
+S2703_C03_017MA,string,Annotation of Percent Private Coverage!!Margin of Error!!Under 6,S2703
+S2703_C03_018EA,string,Annotation of Percent Private Coverage!!Estimate!!6 to 18 years,S2703
+S2703_C03_018MA,string,Annotation of Percent Private Coverage!!Margin of Error!!6 to 18 years,S2703
+S2703_C03_019EA,string,Annotation of Percent Private Coverage!!Estimate!!19 to 25 years,S2703
+S2703_C03_019MA,string,Annotation of Percent Private Coverage!!Margin of Error!!19 to 25 years,S2703
+S2703_C03_020EA,string,Annotation of Percent Private Coverage!!Estimate!!26 to 34 years,S2703
+S2703_C03_020MA,string,Annotation of Percent Private Coverage!!Margin of Error!!26 to 34 years,S2703
+S2703_C03_021EA,string,Annotation of Percent Private Coverage!!Estimate!!35 to 44 years,S2703
+S2703_C03_021MA,string,Annotation of Percent Private Coverage!!Margin of Error!!35 to 44 years,S2703
+S2703_C03_022EA,string,Annotation of Percent Private Coverage!!Estimate!!45 to 54 years,S2703
+S2703_C03_022MA,string,Annotation of Percent Private Coverage!!Margin of Error!!45 to 54 years,S2703
+S2703_C03_023EA,string,Annotation of Percent Private Coverage!!Estimate!!55 to 64 years,S2703
+S2703_C03_023MA,string,Annotation of Percent Private Coverage!!Margin of Error!!55 to 64 years,S2703
+S2703_C03_024EA,string,Annotation of Percent Private Coverage!!Estimate!!65 to 74 years,S2703
+S2703_C03_024MA,string,Annotation of Percent Private Coverage!!Margin of Error!!65 to 74 years,S2703
+S2703_C03_025EA,string,Annotation of Percent Private Coverage!!Estimate!!75 years and over,S2703
+S2703_C03_025MA,string,Annotation of Percent Private Coverage!!Margin of Error!!75 years and over,S2703
+S2703_C03_026EA,string,Annotation of Percent Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C03_026MA,string,Annotation of Percent Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone,S2703
+S2703_C03_027EA,string,Annotation of Percent Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C03_027MA,string,Annotation of Percent Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Employer-based health insurance alone,S2703
+S2703_C03_028EA,string,Annotation of Percent Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C03_028MA,string,Annotation of Percent Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Direct-purchase health insurance alone,S2703
+S2703_C03_029EA,string,Annotation of Percent Private Coverage!!Estimate!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703
+S2703_C03_029MA,string,Annotation of Percent Private Coverage!!Margin of Error!!COVERAGE ALONE!!Private health insurance alone!!Tricare/military health coverage alone,S2703

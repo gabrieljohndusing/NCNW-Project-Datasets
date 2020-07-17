@@ -1,0 +1,221 @@
+VARIABLE,TYPE,LABEL,GROUP
+B26204_001E,int,Estimate!!Total,B26204
+B26204_002E,int,Estimate!!Total!!Never married,B26204
+B26204_003E,int,Estimate!!Total!!Now married (except separated),B26204
+B26204_004E,int,Estimate!!Total!!Separated,B26204
+B26204_005E,int,Estimate!!Total!!Widowed,B26204
+B26204_006E,int,Estimate!!Total!!Divorced,B26204
+B26204_007E,int,Estimate!!Total!!Group quarters population,B26204
+B26204_008E,int,Estimate!!Total!!Group quarters population!!Never married,B26204
+B26204_009E,int,Estimate!!Total!!Group quarters population!!Now married (except separated),B26204
+B26204_010E,int,Estimate!!Total!!Group quarters population!!Separated,B26204
+B26204_011E,int,Estimate!!Total!!Group quarters population!!Widowed,B26204
+B26204_012E,int,Estimate!!Total!!Group quarters population!!Divorced,B26204
+B26204_013E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26204
+B26204_014E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Never married,B26204
+B26204_015E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Now married (except separated),B26204
+B26204_016E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Separated,B26204
+B26204_017E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Widowed,B26204
+B26204_018E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Divorced,B26204
+B26204_019E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26204
+B26204_020E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Never married,B26204
+B26204_021E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Now married (except separated),B26204
+B26204_022E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Separated,B26204
+B26204_023E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Widowed,B26204
+B26204_024E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Divorced,B26204
+B26204_025E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26204
+B26204_026E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Never married,B26204
+B26204_027E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Now married (except separated),B26204
+B26204_028E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Separated,B26204
+B26204_029E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Widowed,B26204
+B26204_030E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Divorced,B26204
+B26204_031E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26204
+B26204_032E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Never married,B26204
+B26204_033E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Now married (except separated),B26204
+B26204_034E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Separated,B26204
+B26204_035E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Widowed,B26204
+B26204_036E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Divorced,B26204
+B26204_037E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26204
+B26204_038E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Never married,B26204
+B26204_039E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Now married (except separated),B26204
+B26204_040E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Separated,B26204
+B26204_041E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Widowed,B26204
+B26204_042E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Divorced,B26204
+B26204_043E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26204
+B26204_044E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Never married,B26204
+B26204_045E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Now married (except separated),B26204
+B26204_046E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Separated,B26204
+B26204_047E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Widowed,B26204
+B26204_048E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Divorced,B26204
+B26204_049E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26204
+B26204_050E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Never married,B26204
+B26204_051E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Now married (except separated),B26204
+B26204_052E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Separated,B26204
+B26204_053E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Widowed,B26204
+B26204_054E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Divorced,B26204
+B26204_055E,int,Estimate!!Total!!Household population,B26204
+B26204_001M,int,Margin of Error!!Total,B26204
+B26204_002M,int,Margin of Error!!Total!!Never married,B26204
+B26204_003M,int,Margin of Error!!Total!!Now married (except separated),B26204
+B26204_004M,int,Margin of Error!!Total!!Separated,B26204
+B26204_005M,int,Margin of Error!!Total!!Widowed,B26204
+B26204_006M,int,Margin of Error!!Total!!Divorced,B26204
+B26204_007M,int,Margin of Error!!Total!!Group quarters population,B26204
+B26204_008M,int,Margin of Error!!Total!!Group quarters population!!Never married,B26204
+B26204_009M,int,Margin of Error!!Total!!Group quarters population!!Now married (except separated),B26204
+B26204_010M,int,Margin of Error!!Total!!Group quarters population!!Separated,B26204
+B26204_011M,int,Margin of Error!!Total!!Group quarters population!!Widowed,B26204
+B26204_012M,int,Margin of Error!!Total!!Group quarters population!!Divorced,B26204
+B26204_013M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26204
+B26204_014M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Never married,B26204
+B26204_015M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Now married (except separated),B26204
+B26204_016M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Separated,B26204
+B26204_017M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Widowed,B26204
+B26204_018M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Divorced,B26204
+B26204_019M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26204
+B26204_020M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Never married,B26204
+B26204_021M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Now married (except separated),B26204
+B26204_022M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Separated,B26204
+B26204_023M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Widowed,B26204
+B26204_024M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Divorced,B26204
+B26204_025M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26204
+B26204_026M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Never married,B26204
+B26204_027M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Now married (except separated),B26204
+B26204_028M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Separated,B26204
+B26204_029M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Widowed,B26204
+B26204_030M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Divorced,B26204
+B26204_031M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26204
+B26204_032M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Never married,B26204
+B26204_033M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Now married (except separated),B26204
+B26204_034M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Separated,B26204
+B26204_035M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Widowed,B26204
+B26204_036M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Divorced,B26204
+B26204_037M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26204
+B26204_038M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Never married,B26204
+B26204_039M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Now married (except separated),B26204
+B26204_040M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Separated,B26204
+B26204_041M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Widowed,B26204
+B26204_042M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Divorced,B26204
+B26204_043M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26204
+B26204_044M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Never married,B26204
+B26204_045M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Now married (except separated),B26204
+B26204_046M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Separated,B26204
+B26204_047M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Widowed,B26204
+B26204_048M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Divorced,B26204
+B26204_049M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26204
+B26204_050M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Never married,B26204
+B26204_051M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Now married (except separated),B26204
+B26204_052M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Separated,B26204
+B26204_053M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Widowed,B26204
+B26204_054M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Divorced,B26204
+B26204_055M,int,Margin of Error!!Total!!Household population,B26204
+B26204_001EA,string,Annotation of Estimate!!Total,B26204
+B26204_001MA,string,Annotation of Margin of Error!!Total,B26204
+B26204_002EA,string,Annotation of Estimate!!Total!!Never married,B26204
+B26204_002MA,string,Annotation of Margin of Error!!Total!!Never married,B26204
+B26204_003EA,string,Annotation of Estimate!!Total!!Now married (except separated),B26204
+B26204_003MA,string,Annotation of Margin of Error!!Total!!Now married (except separated),B26204
+B26204_004EA,string,Annotation of Estimate!!Total!!Separated,B26204
+B26204_004MA,string,Annotation of Margin of Error!!Total!!Separated,B26204
+B26204_005EA,string,Annotation of Estimate!!Total!!Widowed,B26204
+B26204_005MA,string,Annotation of Margin of Error!!Total!!Widowed,B26204
+B26204_006EA,string,Annotation of Estimate!!Total!!Divorced,B26204
+B26204_006MA,string,Annotation of Margin of Error!!Total!!Divorced,B26204
+B26204_007EA,string,Annotation of Estimate!!Total!!Group quarters population,B26204
+B26204_007MA,string,Annotation of Margin of Error!!Total!!Group quarters population,B26204
+B26204_008EA,string,Annotation of Estimate!!Total!!Group quarters population!!Never married,B26204
+B26204_008MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Never married,B26204
+B26204_009EA,string,Annotation of Estimate!!Total!!Group quarters population!!Now married (except separated),B26204
+B26204_009MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Now married (except separated),B26204
+B26204_010EA,string,Annotation of Estimate!!Total!!Group quarters population!!Separated,B26204
+B26204_010MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Separated,B26204
+B26204_011EA,string,Annotation of Estimate!!Total!!Group quarters population!!Widowed,B26204
+B26204_011MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Widowed,B26204
+B26204_012EA,string,Annotation of Estimate!!Total!!Group quarters population!!Divorced,B26204
+B26204_012MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Divorced,B26204
+B26204_013EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26204
+B26204_013MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26204
+B26204_014EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Never married,B26204
+B26204_014MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Never married,B26204
+B26204_015EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Now married (except separated),B26204
+B26204_015MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Now married (except separated),B26204
+B26204_016EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Separated,B26204
+B26204_016MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Separated,B26204
+B26204_017EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Widowed,B26204
+B26204_017MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Widowed,B26204
+B26204_018EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Divorced,B26204
+B26204_018MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Divorced,B26204
+B26204_019EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26204
+B26204_019MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26204
+B26204_020EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Never married,B26204
+B26204_020MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Never married,B26204
+B26204_021EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Now married (except separated),B26204
+B26204_021MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Now married (except separated),B26204
+B26204_022EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Separated,B26204
+B26204_022MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Separated,B26204
+B26204_023EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Widowed,B26204
+B26204_023MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Widowed,B26204
+B26204_024EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Divorced,B26204
+B26204_024MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Divorced,B26204
+B26204_025EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26204
+B26204_025MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26204
+B26204_026EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Never married,B26204
+B26204_026MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Never married,B26204
+B26204_027EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Now married (except separated),B26204
+B26204_027MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Now married (except separated),B26204
+B26204_028EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Separated,B26204
+B26204_028MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Separated,B26204
+B26204_029EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Widowed,B26204
+B26204_029MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Widowed,B26204
+B26204_030EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Divorced,B26204
+B26204_030MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Divorced,B26204
+B26204_031EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26204
+B26204_031MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26204
+B26204_032EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Never married,B26204
+B26204_032MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Never married,B26204
+B26204_033EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Now married (except separated),B26204
+B26204_033MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Now married (except separated),B26204
+B26204_034EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Separated,B26204
+B26204_034MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Separated,B26204
+B26204_035EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Widowed,B26204
+B26204_035MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Widowed,B26204
+B26204_036EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Divorced,B26204
+B26204_036MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Divorced,B26204
+B26204_037EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26204
+B26204_037MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26204
+B26204_038EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Never married,B26204
+B26204_038MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Never married,B26204
+B26204_039EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Now married (except separated),B26204
+B26204_039MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Now married (except separated),B26204
+B26204_040EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Separated,B26204
+B26204_040MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Separated,B26204
+B26204_041EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Widowed,B26204
+B26204_041MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Widowed,B26204
+B26204_042EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Divorced,B26204
+B26204_042MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Divorced,B26204
+B26204_043EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26204
+B26204_043MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26204
+B26204_044EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Never married,B26204
+B26204_044MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Never married,B26204
+B26204_045EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Now married (except separated),B26204
+B26204_045MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Now married (except separated),B26204
+B26204_046EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Separated,B26204
+B26204_046MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Separated,B26204
+B26204_047EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Widowed,B26204
+B26204_047MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Widowed,B26204
+B26204_048EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Divorced,B26204
+B26204_048MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Divorced,B26204
+B26204_049EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26204
+B26204_049MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26204
+B26204_050EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Never married,B26204
+B26204_050MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Never married,B26204
+B26204_051EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Now married (except separated),B26204
+B26204_051MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Now married (except separated),B26204
+B26204_052EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Separated,B26204
+B26204_052MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Separated,B26204
+B26204_053EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Widowed,B26204
+B26204_053MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Widowed,B26204
+B26204_054EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Divorced,B26204
+B26204_054MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Divorced,B26204
+B26204_055EA,string,Annotation of Estimate!!Total!!Household population,B26204
+B26204_055MA,string,Annotation of Margin of Error!!Total!!Household population,B26204

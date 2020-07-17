@@ -1,0 +1,89 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18130_001E,int,Estimate!!Total,C18130
+C18130_002E,int,Estimate!!Total!!Under 18 years,C18130
+C18130_003E,int,Estimate!!Total!!Under 18 years!!With a disability,C18130
+C18130_004E,int,Estimate!!Total!!Under 18 years!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_005E,int,Estimate!!Total!!Under 18 years!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_006E,int,Estimate!!Total!!Under 18 years!!No disability,C18130
+C18130_007E,int,Estimate!!Total!!Under 18 years!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_008E,int,Estimate!!Total!!Under 18 years!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_009E,int,Estimate!!Total!!18 to 64 years,C18130
+C18130_010E,int,Estimate!!Total!!18 to 64 years!!With a disability,C18130
+C18130_011E,int,Estimate!!Total!!18 to 64 years!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_012E,int,Estimate!!Total!!18 to 64 years!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_013E,int,Estimate!!Total!!18 to 64 years!!No disability,C18130
+C18130_014E,int,Estimate!!Total!!18 to 64 years!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_015E,int,Estimate!!Total!!18 to 64 years!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_016E,int,Estimate!!Total!!65 years and over,C18130
+C18130_017E,int,Estimate!!Total!!65 years and over!!With a disability,C18130
+C18130_018E,int,Estimate!!Total!!65 years and over!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_019E,int,Estimate!!Total!!65 years and over!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_020E,int,Estimate!!Total!!65 years and over!!No disability,C18130
+C18130_021E,int,Estimate!!Total!!65 years and over!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_022E,int,Estimate!!Total!!65 years and over!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_001M,int,Margin of Error!!Total,C18130
+C18130_002M,int,Margin of Error!!Total!!Under 18 years,C18130
+C18130_003M,int,Margin of Error!!Total!!Under 18 years!!With a disability,C18130
+C18130_004M,int,Margin of Error!!Total!!Under 18 years!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_005M,int,Margin of Error!!Total!!Under 18 years!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_006M,int,Margin of Error!!Total!!Under 18 years!!No disability,C18130
+C18130_007M,int,Margin of Error!!Total!!Under 18 years!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_008M,int,Margin of Error!!Total!!Under 18 years!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_009M,int,Margin of Error!!Total!!18 to 64 years,C18130
+C18130_010M,int,Margin of Error!!Total!!18 to 64 years!!With a disability,C18130
+C18130_011M,int,Margin of Error!!Total!!18 to 64 years!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_012M,int,Margin of Error!!Total!!18 to 64 years!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_013M,int,Margin of Error!!Total!!18 to 64 years!!No disability,C18130
+C18130_014M,int,Margin of Error!!Total!!18 to 64 years!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_015M,int,Margin of Error!!Total!!18 to 64 years!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_016M,int,Margin of Error!!Total!!65 years and over,C18130
+C18130_017M,int,Margin of Error!!Total!!65 years and over!!With a disability,C18130
+C18130_018M,int,Margin of Error!!Total!!65 years and over!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_019M,int,Margin of Error!!Total!!65 years and over!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_020M,int,Margin of Error!!Total!!65 years and over!!No disability,C18130
+C18130_021M,int,Margin of Error!!Total!!65 years and over!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_022M,int,Margin of Error!!Total!!65 years and over!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_001EA,string,Annotation of Estimate!!Total,C18130
+C18130_001MA,string,Annotation of Margin of Error!!Total,C18130
+C18130_002EA,string,Annotation of Estimate!!Total!!Under 18 years,C18130
+C18130_002MA,string,Annotation of Margin of Error!!Total!!Under 18 years,C18130
+C18130_003EA,string,Annotation of Estimate!!Total!!Under 18 years!!With a disability,C18130
+C18130_003MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With a disability,C18130
+C18130_004EA,string,Annotation of Estimate!!Total!!Under 18 years!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_004MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_005EA,string,Annotation of Estimate!!Total!!Under 18 years!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_005MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_006EA,string,Annotation of Estimate!!Total!!Under 18 years!!No disability,C18130
+C18130_006MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!No disability,C18130
+C18130_007EA,string,Annotation of Estimate!!Total!!Under 18 years!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_007MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_008EA,string,Annotation of Estimate!!Total!!Under 18 years!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_008MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_009EA,string,Annotation of Estimate!!Total!!18 to 64 years,C18130
+C18130_009MA,string,Annotation of Margin of Error!!Total!!18 to 64 years,C18130
+C18130_010EA,string,Annotation of Estimate!!Total!!18 to 64 years!!With a disability,C18130
+C18130_010MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!With a disability,C18130
+C18130_011EA,string,Annotation of Estimate!!Total!!18 to 64 years!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_011MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_012EA,string,Annotation of Estimate!!Total!!18 to 64 years!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_012MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_013EA,string,Annotation of Estimate!!Total!!18 to 64 years!!No disability,C18130
+C18130_013MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!No disability,C18130
+C18130_014EA,string,Annotation of Estimate!!Total!!18 to 64 years!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_014MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_015EA,string,Annotation of Estimate!!Total!!18 to 64 years!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_015MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_016EA,string,Annotation of Estimate!!Total!!65 years and over,C18130
+C18130_016MA,string,Annotation of Margin of Error!!Total!!65 years and over,C18130
+C18130_017EA,string,Annotation of Estimate!!Total!!65 years and over!!With a disability,C18130
+C18130_017MA,string,Annotation of Margin of Error!!Total!!65 years and over!!With a disability,C18130
+C18130_018EA,string,Annotation of Estimate!!Total!!65 years and over!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_018MA,string,Annotation of Margin of Error!!Total!!65 years and over!!With a disability!!Income in the past 12-months below poverty level,C18130
+C18130_019EA,string,Annotation of Estimate!!Total!!65 years and over!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_019MA,string,Annotation of Margin of Error!!Total!!65 years and over!!With a disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_020EA,string,Annotation of Estimate!!Total!!65 years and over!!No disability,C18130
+C18130_020MA,string,Annotation of Margin of Error!!Total!!65 years and over!!No disability,C18130
+C18130_021EA,string,Annotation of Estimate!!Total!!65 years and over!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_021MA,string,Annotation of Margin of Error!!Total!!65 years and over!!No disability!!Income in the past 12-months below poverty level,C18130
+C18130_022EA,string,Annotation of Estimate!!Total!!65 years and over!!No disability!!Income in the past 12-months at or above poverty level,C18130
+C18130_022MA,string,Annotation of Margin of Error!!Total!!65 years and over!!No disability!!Income in the past 12-months at or above poverty level,C18130

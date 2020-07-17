@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08503_001E,float,Estimate!!Median age!!Total,B08503
+B08503_002E,float,"Estimate!!Median age!!Total!!Car, truck, or van - drove alone",B08503
+B08503_003E,float,"Estimate!!Median age!!Total!!Car, truck, or van - carpooled",B08503
+B08503_004E,float,Estimate!!Median age!!Total!!Public transportation (excluding taxicab),B08503
+B08503_005E,float,Estimate!!Median age!!Total!!Walked,B08503
+B08503_006E,float,"Estimate!!Median age!!Total!!Taxicab, motorcycle, bicycle, or other means",B08503
+B08503_007E,float,Estimate!!Median age!!Total!!Worked at home,B08503
+B08503_001M,float,Margin of Error!!Median age!!Total,B08503
+B08503_002M,float,"Margin of Error!!Median age!!Total!!Car, truck, or van - drove alone",B08503
+B08503_003M,float,"Margin of Error!!Median age!!Total!!Car, truck, or van - carpooled",B08503
+B08503_004M,float,Margin of Error!!Median age!!Total!!Public transportation (excluding taxicab),B08503
+B08503_005M,float,Margin of Error!!Median age!!Total!!Walked,B08503
+B08503_006M,float,"Margin of Error!!Median age!!Total!!Taxicab, motorcycle, bicycle, or other means",B08503
+B08503_007M,float,Margin of Error!!Median age!!Total!!Worked at home,B08503
+B08503_001EA,string,Annotation of Estimate!!Median age!!Total,B08503
+B08503_001MA,string,Annotation of Margin of Error!!Median age!!Total,B08503
+B08503_002EA,string,"Annotation of Estimate!!Median age!!Total!!Car, truck, or van - drove alone",B08503
+B08503_002MA,string,"Annotation of Margin of Error!!Median age!!Total!!Car, truck, or van - drove alone",B08503
+B08503_003EA,string,"Annotation of Estimate!!Median age!!Total!!Car, truck, or van - carpooled",B08503
+B08503_003MA,string,"Annotation of Margin of Error!!Median age!!Total!!Car, truck, or van - carpooled",B08503
+B08503_004EA,string,Annotation of Estimate!!Median age!!Total!!Public transportation (excluding taxicab),B08503
+B08503_004MA,string,Annotation of Margin of Error!!Median age!!Total!!Public transportation (excluding taxicab),B08503
+B08503_005EA,string,Annotation of Estimate!!Median age!!Total!!Walked,B08503
+B08503_005MA,string,Annotation of Margin of Error!!Median age!!Total!!Walked,B08503
+B08503_006EA,string,"Annotation of Estimate!!Median age!!Total!!Taxicab, motorcycle, bicycle, or other means",B08503
+B08503_006MA,string,"Annotation of Margin of Error!!Median age!!Total!!Taxicab, motorcycle, bicycle, or other means",B08503
+B08503_007EA,string,Annotation of Estimate!!Median age!!Total!!Worked at home,B08503
+B08503_007MA,string,Annotation of Margin of Error!!Median age!!Total!!Worked at home,B08503

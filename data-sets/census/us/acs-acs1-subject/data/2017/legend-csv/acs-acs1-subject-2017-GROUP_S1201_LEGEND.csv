@@ -1,0 +1,745 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1201_C01_001E,int,Total!!Estimate!!Population 15 years and over,S1201
+S1201_C01_002E,int,Total!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C01_003E,int,Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C01_004E,int,Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C01_005E,int,Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C01_006E,int,Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C01_007E,int,Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C01_008E,int,Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C01_009E,int,Total!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C01_010E,int,Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C01_011E,int,Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C01_012E,int,Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C01_013E,int,Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C01_014E,int,Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C01_015E,int,Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C01_016E,int,Total!!Estimate!!Population 15 years and over,S1201
+S1201_C01_017E,int,Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C01_018E,int,Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C01_019E,int,Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C01_020E,int,Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C01_021E,int,Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C01_022E,int,Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C01_023E,int,Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C01_024E,int,Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C01_025E,int,Total!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C01_026E,int,"Total!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C01_027E,int,Total!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C01_028E,int,Total!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C01_029E,int,Total!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C01_030E,int,Total!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C01_031E,float,Total!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C02_001E,float,Now married (except separated)!!Estimate!!Population 15 years and over,S1201
+S1201_C02_002E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C02_003E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C02_004E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C02_005E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C02_006E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C02_007E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C02_008E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C02_009E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C02_010E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C02_011E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C02_012E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C02_013E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C02_014E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C02_015E,float,Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C02_016E,float,Now married (except separated)!!Estimate!!Population 15 years and over,S1201
+S1201_C02_017E,float,Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C02_018E,float,Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C02_019E,float,Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C02_020E,float,Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C02_021E,float,Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C02_022E,float,Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C02_023E,float,Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C02_024E,float,Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C02_025E,float,Now married (except separated)!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C02_026E,float,"Now married (except separated)!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C02_027E,float,Now married (except separated)!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C02_028E,float,Now married (except separated)!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C02_029E,float,Now married (except separated)!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C02_030E,float,Now married (except separated)!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C02_031E,int,Now married (except separated)!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C03_001E,float,Widowed!!Estimate!!Population 15 years and over,S1201
+S1201_C03_002E,float,Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C03_003E,float,Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C03_004E,float,Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C03_005E,float,Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C03_006E,float,Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C03_007E,float,Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C03_008E,float,Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C03_009E,float,Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C03_010E,float,Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C03_011E,float,Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C03_012E,float,Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C03_013E,float,Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C03_014E,float,Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C03_015E,float,Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C03_016E,float,Widowed!!Estimate!!Population 15 years and over,S1201
+S1201_C03_017E,float,Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C03_018E,float,Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C03_019E,float,Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C03_020E,float,Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C03_021E,float,Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C03_022E,float,Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C03_023E,float,Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C03_024E,float,Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C03_025E,float,Widowed!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C03_026E,float,"Widowed!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C03_027E,float,Widowed!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C03_028E,float,Widowed!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C03_029E,float,Widowed!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C03_030E,float,Widowed!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C03_031E,int,Widowed!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C04_001E,float,Divorced!!Estimate!!Population 15 years and over,S1201
+S1201_C04_002E,float,Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C04_003E,float,Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C04_004E,float,Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C04_005E,float,Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C04_006E,float,Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C04_007E,float,Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C04_008E,float,Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C04_009E,float,Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C04_010E,float,Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C04_011E,float,Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C04_012E,float,Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C04_013E,float,Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C04_014E,float,Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C04_015E,float,Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C04_016E,float,Divorced!!Estimate!!Population 15 years and over,S1201
+S1201_C04_017E,float,Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C04_018E,float,Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C04_019E,float,Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C04_020E,float,Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C04_021E,float,Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C04_022E,float,Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C04_023E,float,Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C04_024E,float,Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C04_025E,float,Divorced!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C04_026E,float,"Divorced!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C04_027E,float,Divorced!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C04_028E,float,Divorced!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C04_029E,float,Divorced!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C04_030E,float,Divorced!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C04_031E,int,Divorced!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C05_001E,float,Separated!!Estimate!!Population 15 years and over,S1201
+S1201_C05_002E,float,Separated!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C05_003E,float,Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C05_004E,float,Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C05_005E,float,Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C05_006E,float,Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C05_007E,float,Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C05_008E,float,Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C05_009E,float,Separated!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C05_010E,float,Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C05_011E,float,Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C05_012E,float,Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C05_013E,float,Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C05_014E,float,Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C05_015E,float,Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C05_016E,float,Separated!!Estimate!!Population 15 years and over,S1201
+S1201_C05_017E,float,Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C05_018E,float,Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C05_019E,float,Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C05_020E,float,Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C05_021E,float,Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C05_022E,float,Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C05_023E,float,Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C05_024E,float,Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C05_025E,float,Separated!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C05_026E,float,"Separated!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C05_027E,float,Separated!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C05_028E,float,Separated!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C05_029E,float,Separated!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C05_030E,float,Separated!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C05_031E,int,Separated!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C06_001E,float,Never married!!Estimate!!Population 15 years and over,S1201
+S1201_C06_002E,float,Never married!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C06_003E,float,Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C06_004E,float,Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C06_005E,float,Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C06_006E,float,Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C06_007E,float,Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C06_008E,float,Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C06_009E,float,Never married!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C06_010E,float,Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C06_011E,float,Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C06_012E,float,Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C06_013E,float,Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C06_014E,float,Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C06_015E,float,Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C06_016E,float,Never married!!Estimate!!Population 15 years and over,S1201
+S1201_C06_017E,float,Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C06_018E,float,Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C06_019E,float,Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C06_020E,float,Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C06_021E,float,Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C06_022E,float,Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C06_023E,float,Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C06_024E,float,Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C06_025E,float,Never married!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C06_026E,float,"Never married!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C06_027E,float,Never married!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C06_028E,float,Never married!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C06_029E,float,Never married!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C06_030E,float,Never married!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C06_031E,int,Never married!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C01_001M,int,Total!!Margin of Error!!Population 15 years and over,S1201
+S1201_C01_002M,int,Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C01_003M,int,Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C01_004M,int,Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C01_005M,int,Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C01_006M,int,Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C01_007M,int,Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C01_008M,int,Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C01_009M,int,Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C01_010M,int,Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C01_011M,int,Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C01_012M,int,Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C01_013M,int,Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C01_014M,int,Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C01_015M,int,Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C01_016M,int,Total!!Margin of Error!!Population 15 years and over,S1201
+S1201_C01_017M,int,Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C01_018M,int,Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C01_019M,int,Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C01_020M,int,Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C01_021M,int,Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C01_022M,int,Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C01_023M,int,Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C01_024M,int,Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C01_025M,int,Total!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C01_026M,int,"Total!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C01_027M,int,Total!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C01_028M,int,Total!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C01_029M,int,Total!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C01_030M,int,Total!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C01_031M,float,Total!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C02_001M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over,S1201
+S1201_C02_002M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C02_003M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C02_004M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C02_005M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C02_006M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C02_007M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C02_008M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C02_009M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C02_010M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C02_011M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C02_012M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C02_013M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C02_014M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C02_015M,float,Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C02_016M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over,S1201
+S1201_C02_017M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C02_018M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C02_019M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C02_020M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C02_021M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C02_022M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C02_023M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C02_024M,float,Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C02_025M,float,Now married (except separated)!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C02_026M,float,"Now married (except separated)!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C02_027M,float,Now married (except separated)!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C02_028M,float,Now married (except separated)!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C02_029M,float,Now married (except separated)!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C02_030M,float,Now married (except separated)!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C02_031M,int,Now married (except separated)!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C03_001M,float,Widowed!!Margin of Error!!Population 15 years and over,S1201
+S1201_C03_002M,float,Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C03_003M,float,Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C03_004M,float,Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C03_005M,float,Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C03_006M,float,Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C03_007M,float,Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C03_008M,float,Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C03_009M,float,Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C03_010M,float,Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C03_011M,float,Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C03_012M,float,Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C03_013M,float,Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C03_014M,float,Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C03_015M,float,Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C03_016M,float,Widowed!!Margin of Error!!Population 15 years and over,S1201
+S1201_C03_017M,float,Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C03_018M,float,Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C03_019M,float,Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C03_020M,float,Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C03_021M,float,Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C03_022M,float,Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C03_023M,float,Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C03_024M,float,Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C03_025M,float,Widowed!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C03_026M,float,"Widowed!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C03_027M,float,Widowed!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C03_028M,float,Widowed!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C03_029M,float,Widowed!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C03_030M,float,Widowed!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C03_031M,int,Widowed!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C04_001M,float,Divorced!!Margin of Error!!Population 15 years and over,S1201
+S1201_C04_002M,float,Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C04_003M,float,Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C04_004M,float,Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C04_005M,float,Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C04_006M,float,Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C04_007M,float,Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C04_008M,float,Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C04_009M,float,Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C04_010M,float,Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C04_011M,float,Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C04_012M,float,Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C04_013M,float,Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C04_014M,float,Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C04_015M,float,Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C04_016M,float,Divorced!!Margin of Error!!Population 15 years and over,S1201
+S1201_C04_017M,float,Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C04_018M,float,Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C04_019M,float,Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C04_020M,float,Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C04_021M,float,Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C04_022M,float,Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C04_023M,float,Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C04_024M,float,Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C04_025M,float,Divorced!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C04_026M,float,"Divorced!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C04_027M,float,Divorced!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C04_028M,float,Divorced!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C04_029M,float,Divorced!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C04_030M,float,Divorced!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C04_031M,int,Divorced!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C05_001M,float,Separated!!Margin of Error!!Population 15 years and over,S1201
+S1201_C05_002M,float,Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C05_003M,float,Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C05_004M,float,Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C05_005M,float,Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C05_006M,float,Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C05_007M,float,Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C05_008M,float,Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C05_009M,float,Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C05_010M,float,Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C05_011M,float,Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C05_012M,float,Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C05_013M,float,Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C05_014M,float,Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C05_015M,float,Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C05_016M,float,Separated!!Margin of Error!!Population 15 years and over,S1201
+S1201_C05_017M,float,Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C05_018M,float,Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C05_019M,float,Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C05_020M,float,Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C05_021M,float,Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C05_022M,float,Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C05_023M,float,Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C05_024M,float,Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C05_025M,float,Separated!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C05_026M,float,"Separated!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C05_027M,float,Separated!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C05_028M,float,Separated!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C05_029M,float,Separated!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C05_030M,float,Separated!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C05_031M,int,Separated!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C06_001M,float,Never married!!Margin of Error!!Population 15 years and over,S1201
+S1201_C06_002M,float,Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C06_003M,float,Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C06_004M,float,Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C06_005M,float,Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C06_006M,float,Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C06_007M,float,Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C06_008M,float,Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C06_009M,float,Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C06_010M,float,Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C06_011M,float,Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C06_012M,float,Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C06_013M,float,Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C06_014M,float,Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C06_015M,float,Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C06_016M,float,Never married!!Margin of Error!!Population 15 years and over,S1201
+S1201_C06_017M,float,Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C06_018M,float,Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C06_019M,float,Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C06_020M,float,Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C06_021M,float,Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C06_022M,float,Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C06_023M,float,Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C06_024M,float,Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C06_025M,float,Never married!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C06_026M,float,"Never married!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C06_027M,float,Never married!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C06_028M,float,Never married!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C06_029M,float,Never married!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C06_030M,float,Never married!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C06_031M,int,Never married!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C01_001EA,string,Annotation of Total!!Estimate!!Population 15 years and over,S1201
+S1201_C01_001MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over,S1201
+S1201_C01_002EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C01_002MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C01_003EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C01_003MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C01_004EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C01_004MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C01_005EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C01_005MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C01_006EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C01_006MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C01_007EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C01_007MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C01_008EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C01_008MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C01_009EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C01_009MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C01_010EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C01_010MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C01_011EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C01_011MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C01_012EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C01_012MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C01_013EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C01_013MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C01_014EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C01_014MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C01_015EA,string,Annotation of Total!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C01_015MA,string,Annotation of Total!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C01_016EA,string,Annotation of Total!!Estimate!!Population 15 years and over,S1201
+S1201_C01_016MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over,S1201
+S1201_C01_017EA,string,Annotation of Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C01_017MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C01_018EA,string,Annotation of Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C01_018MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C01_019EA,string,Annotation of Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C01_019MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C01_020EA,string,Annotation of Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C01_020MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C01_021EA,string,Annotation of Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C01_021MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C01_022EA,string,Annotation of Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C01_022MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C01_023EA,string,Annotation of Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C01_023MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C01_024EA,string,Annotation of Total!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C01_024MA,string,Annotation of Total!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C01_025EA,string,Annotation of Total!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C01_025MA,string,Annotation of Total!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C01_026EA,string,"Annotation of Total!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C01_026MA,string,"Annotation of Total!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C01_027EA,string,Annotation of Total!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C01_027MA,string,Annotation of Total!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C01_028EA,string,Annotation of Total!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C01_028MA,string,Annotation of Total!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C01_029EA,string,Annotation of Total!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C01_029MA,string,Annotation of Total!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C01_030EA,string,Annotation of Total!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C01_030MA,string,Annotation of Total!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C01_031EA,string,Annotation of Total!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C01_031MA,string,Annotation of Total!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C02_001EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over,S1201
+S1201_C02_001MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over,S1201
+S1201_C02_002EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C02_002MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C02_003EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C02_003MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C02_004EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C02_004MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C02_005EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C02_005MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C02_006EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C02_006MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C02_007EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C02_007MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C02_008EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C02_008MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C02_009EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C02_009MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C02_010EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C02_010MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C02_011EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C02_011MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C02_012EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C02_012MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C02_013EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C02_013MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C02_014EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C02_014MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C02_015EA,string,Annotation of Now married (except separated)!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C02_015MA,string,Annotation of Now married (except separated)!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C02_016EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over,S1201
+S1201_C02_016MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over,S1201
+S1201_C02_017EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C02_017MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C02_018EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C02_018MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C02_019EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C02_019MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C02_020EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C02_020MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C02_021EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C02_021MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C02_022EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C02_022MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C02_023EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C02_023MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C02_024EA,string,Annotation of Now married (except separated)!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C02_024MA,string,Annotation of Now married (except separated)!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C02_025EA,string,Annotation of Now married (except separated)!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C02_025MA,string,Annotation of Now married (except separated)!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C02_026EA,string,"Annotation of Now married (except separated)!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C02_026MA,string,"Annotation of Now married (except separated)!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C02_027EA,string,Annotation of Now married (except separated)!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C02_027MA,string,Annotation of Now married (except separated)!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C02_028EA,string,Annotation of Now married (except separated)!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C02_028MA,string,Annotation of Now married (except separated)!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C02_029EA,string,Annotation of Now married (except separated)!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C02_029MA,string,Annotation of Now married (except separated)!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C02_030EA,string,Annotation of Now married (except separated)!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C02_030MA,string,Annotation of Now married (except separated)!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C02_031EA,string,Annotation of Now married (except separated)!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C02_031MA,string,Annotation of Now married (except separated)!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C03_001EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over,S1201
+S1201_C03_001MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over,S1201
+S1201_C03_002EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C03_002MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C03_003EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C03_003MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C03_004EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C03_004MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C03_005EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C03_005MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C03_006EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C03_006MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C03_007EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C03_007MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C03_008EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C03_008MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C03_009EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C03_009MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C03_010EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C03_010MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C03_011EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C03_011MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C03_012EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C03_012MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C03_013EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C03_013MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C03_014EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C03_014MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C03_015EA,string,Annotation of Widowed!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C03_015MA,string,Annotation of Widowed!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C03_016EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over,S1201
+S1201_C03_016MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over,S1201
+S1201_C03_017EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C03_017MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C03_018EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C03_018MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C03_019EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C03_019MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C03_020EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C03_020MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C03_021EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C03_021MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C03_022EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C03_022MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C03_023EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C03_023MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C03_024EA,string,Annotation of Widowed!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C03_024MA,string,Annotation of Widowed!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C03_025EA,string,Annotation of Widowed!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C03_025MA,string,Annotation of Widowed!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C03_026EA,string,"Annotation of Widowed!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C03_026MA,string,"Annotation of Widowed!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C03_027EA,string,Annotation of Widowed!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C03_027MA,string,Annotation of Widowed!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C03_028EA,string,Annotation of Widowed!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C03_028MA,string,Annotation of Widowed!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C03_029EA,string,Annotation of Widowed!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C03_029MA,string,Annotation of Widowed!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C03_030EA,string,Annotation of Widowed!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C03_030MA,string,Annotation of Widowed!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C03_031EA,string,Annotation of Widowed!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C03_031MA,string,Annotation of Widowed!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C04_001EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over,S1201
+S1201_C04_001MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over,S1201
+S1201_C04_002EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C04_002MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C04_003EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C04_003MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C04_004EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C04_004MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C04_005EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C04_005MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C04_006EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C04_006MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C04_007EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C04_007MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C04_008EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C04_008MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C04_009EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C04_009MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C04_010EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C04_010MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C04_011EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C04_011MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C04_012EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C04_012MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C04_013EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C04_013MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C04_014EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C04_014MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C04_015EA,string,Annotation of Divorced!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C04_015MA,string,Annotation of Divorced!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C04_016EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over,S1201
+S1201_C04_016MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over,S1201
+S1201_C04_017EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C04_017MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C04_018EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C04_018MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C04_019EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C04_019MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C04_020EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C04_020MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C04_021EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C04_021MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C04_022EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C04_022MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C04_023EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C04_023MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C04_024EA,string,Annotation of Divorced!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C04_024MA,string,Annotation of Divorced!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C04_025EA,string,Annotation of Divorced!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C04_025MA,string,Annotation of Divorced!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C04_026EA,string,"Annotation of Divorced!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C04_026MA,string,"Annotation of Divorced!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C04_027EA,string,Annotation of Divorced!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C04_027MA,string,Annotation of Divorced!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C04_028EA,string,Annotation of Divorced!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C04_028MA,string,Annotation of Divorced!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C04_029EA,string,Annotation of Divorced!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C04_029MA,string,Annotation of Divorced!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C04_030EA,string,Annotation of Divorced!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C04_030MA,string,Annotation of Divorced!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C04_031EA,string,Annotation of Divorced!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C04_031MA,string,Annotation of Divorced!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C05_001EA,string,Annotation of Separated!!Estimate!!Population 15 years and over,S1201
+S1201_C05_001MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over,S1201
+S1201_C05_002EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C05_002MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C05_003EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C05_003MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C05_004EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C05_004MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C05_005EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C05_005MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C05_006EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C05_006MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C05_007EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C05_007MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C05_008EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C05_008MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C05_009EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C05_009MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C05_010EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C05_010MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C05_011EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C05_011MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C05_012EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C05_012MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C05_013EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C05_013MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C05_014EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C05_014MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C05_015EA,string,Annotation of Separated!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C05_015MA,string,Annotation of Separated!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C05_016EA,string,Annotation of Separated!!Estimate!!Population 15 years and over,S1201
+S1201_C05_016MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over,S1201
+S1201_C05_017EA,string,Annotation of Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C05_017MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C05_018EA,string,Annotation of Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C05_018MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C05_019EA,string,Annotation of Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C05_019MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C05_020EA,string,Annotation of Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C05_020MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C05_021EA,string,Annotation of Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C05_021MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C05_022EA,string,Annotation of Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C05_022MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C05_023EA,string,Annotation of Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C05_023MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C05_024EA,string,Annotation of Separated!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C05_024MA,string,Annotation of Separated!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C05_025EA,string,Annotation of Separated!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C05_025MA,string,Annotation of Separated!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C05_026EA,string,"Annotation of Separated!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C05_026MA,string,"Annotation of Separated!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C05_027EA,string,Annotation of Separated!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C05_027MA,string,Annotation of Separated!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C05_028EA,string,Annotation of Separated!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C05_028MA,string,Annotation of Separated!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C05_029EA,string,Annotation of Separated!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C05_029MA,string,Annotation of Separated!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C05_030EA,string,Annotation of Separated!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C05_030MA,string,Annotation of Separated!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C05_031EA,string,Annotation of Separated!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C05_031MA,string,Annotation of Separated!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C06_001EA,string,Annotation of Never married!!Estimate!!Population 15 years and over,S1201
+S1201_C06_001MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over,S1201
+S1201_C06_002EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C06_002MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over,S1201
+S1201_C06_003EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C06_003MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!15 to 19 years,S1201
+S1201_C06_004EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C06_004MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!20 to 34 years,S1201
+S1201_C06_005EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C06_005MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!35 to 44 years,S1201
+S1201_C06_006EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C06_006MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!45 to 54 years,S1201
+S1201_C06_007EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C06_007MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!55 to 64 years,S1201
+S1201_C06_008EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C06_008MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Males 15 years and over!!65 years and over,S1201
+S1201_C06_009EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C06_009MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over,S1201
+S1201_C06_010EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C06_010MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!15 to 19 years,S1201
+S1201_C06_011EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C06_011MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!20 to 34 years,S1201
+S1201_C06_012EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C06_012MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!35 to 44 years,S1201
+S1201_C06_013EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C06_013MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!45 to 54 years,S1201
+S1201_C06_014EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C06_014MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!55 to 64 years,S1201
+S1201_C06_015EA,string,Annotation of Never married!!Estimate!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C06_015MA,string,Annotation of Never married!!Margin of Error!!AGE AND SEX!!Females 15 years and over!!65 years and over,S1201
+S1201_C06_016EA,string,Annotation of Never married!!Estimate!!Population 15 years and over,S1201
+S1201_C06_016MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over,S1201
+S1201_C06_017EA,string,Annotation of Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C06_017MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1201
+S1201_C06_018EA,string,Annotation of Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C06_018MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1201
+S1201_C06_019EA,string,Annotation of Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C06_019MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1201
+S1201_C06_020EA,string,Annotation of Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C06_020MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1201
+S1201_C06_021EA,string,Annotation of Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C06_021MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1201
+S1201_C06_022EA,string,Annotation of Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C06_022MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1201
+S1201_C06_023EA,string,Annotation of Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C06_023MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1201
+S1201_C06_024EA,string,Annotation of Never married!!Estimate!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C06_024MA,string,Annotation of Never married!!Margin of Error!!Population 15 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1201
+S1201_C06_025EA,string,Annotation of Never married!!Estimate!!Hispanic or Latino origin (of any race),S1201
+S1201_C06_025MA,string,Annotation of Never married!!Margin of Error!!Hispanic or Latino origin (of any race),S1201
+S1201_C06_026EA,string,"Annotation of Never married!!Estimate!!White alone, not Hispanic or Latino",S1201
+S1201_C06_026MA,string,"Annotation of Never married!!Margin of Error!!White alone, not Hispanic or Latino",S1201
+S1201_C06_027EA,string,Annotation of Never married!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C06_027MA,string,Annotation of Never married!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over,S1201
+S1201_C06_028EA,string,Annotation of Never married!!Estimate!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C06_028MA,string,Annotation of Never married!!Margin of Error!!LABOR FORCE PARTICIPATION!!Males 16 years and over!!In labor force,S1201
+S1201_C06_029EA,string,Annotation of Never married!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C06_029MA,string,Annotation of Never married!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over,S1201
+S1201_C06_030EA,string,Annotation of Never married!!Estimate!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C06_030MA,string,Annotation of Never married!!Margin of Error!!LABOR FORCE PARTICIPATION!!Females 16 years and over!!In labor force,S1201
+S1201_C06_031EA,string,Annotation of Never married!!Estimate!!PERCENT ALLOCATED!!Marital status,S1201
+S1201_C06_031MA,string,Annotation of Never married!!Margin of Error!!PERCENT ALLOCATED!!Marital status,S1201

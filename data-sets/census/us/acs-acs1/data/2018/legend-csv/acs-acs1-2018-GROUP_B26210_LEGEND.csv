@@ -1,0 +1,473 @@
+VARIABLE,TYPE,LABEL,GROUP
+B26210_001E,int,Estimate!!Total,B26210
+B26210_002E,int,Estimate!!Total!!Native,B26210
+B26210_003E,int,Estimate!!Total!!Native!!Male,B26210
+B26210_004E,int,Estimate!!Total!!Native!!Female,B26210
+B26210_005E,int,Estimate!!Total!!Foreign born,B26210
+B26210_006E,int,Estimate!!Total!!Foreign born!!Male,B26210
+B26210_007E,int,Estimate!!Total!!Foreign born!!Female,B26210
+B26210_008E,int,Estimate!!Total!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_009E,int,Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_010E,int,Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_011E,int,Estimate!!Total!!Foreign born!!Not a U.S. citizen,B26210
+B26210_012E,int,Estimate!!Total!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_013E,int,Estimate!!Total!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_014E,int,Estimate!!Total!!Group quarters population,B26210
+B26210_015E,int,Estimate!!Total!!Group quarters population!!Native,B26210
+B26210_016E,int,Estimate!!Total!!Group quarters population!!Native!!Male,B26210
+B26210_017E,int,Estimate!!Total!!Group quarters population!!Native!!Female,B26210
+B26210_018E,int,Estimate!!Total!!Group quarters population!!Foreign born,B26210
+B26210_019E,int,Estimate!!Total!!Group quarters population!!Foreign born!!Male,B26210
+B26210_020E,int,Estimate!!Total!!Group quarters population!!Foreign born!!Female,B26210
+B26210_021E,int,Estimate!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_022E,int,Estimate!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_023E,int,Estimate!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_024E,int,Estimate!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_025E,int,Estimate!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_026E,int,Estimate!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_027E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26210
+B26210_028E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Native,B26210
+B26210_029E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Native!!Male,B26210
+B26210_030E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Native!!Female,B26210
+B26210_031E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born,B26210
+B26210_032E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Male,B26210
+B26210_033E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Female,B26210
+B26210_034E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_035E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_036E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_037E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_038E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_039E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_040E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26210
+B26210_041E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native,B26210
+B26210_042E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native!!Male,B26210
+B26210_043E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native!!Female,B26210
+B26210_044E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born,B26210
+B26210_045E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Male,B26210
+B26210_046E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Female,B26210
+B26210_047E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_048E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_049E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_050E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_051E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_052E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_053E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26210
+B26210_054E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native,B26210
+B26210_055E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native!!Male,B26210
+B26210_056E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native!!Female,B26210
+B26210_057E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born,B26210
+B26210_058E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Male,B26210
+B26210_059E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Female,B26210
+B26210_060E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_061E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_062E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_063E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_064E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_065E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_066E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26210
+B26210_067E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native,B26210
+B26210_068E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native!!Male,B26210
+B26210_069E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native!!Female,B26210
+B26210_070E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born,B26210
+B26210_071E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Male,B26210
+B26210_072E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Female,B26210
+B26210_073E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_074E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_075E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_076E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_077E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_078E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_079E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26210
+B26210_080E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native,B26210
+B26210_081E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native!!Male,B26210
+B26210_082E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native!!Female,B26210
+B26210_083E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born,B26210
+B26210_084E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Male,B26210
+B26210_085E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Female,B26210
+B26210_086E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_087E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_088E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_089E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_090E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_091E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_092E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26210
+B26210_093E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native,B26210
+B26210_094E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native!!Male,B26210
+B26210_095E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native!!Female,B26210
+B26210_096E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born,B26210
+B26210_097E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Male,B26210
+B26210_098E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Female,B26210
+B26210_099E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_100E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_101E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_102E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen,B26210
+B26210_103E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_104E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_105E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26210
+B26210_106E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native,B26210
+B26210_107E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native!!Male,B26210
+B26210_108E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native!!Female,B26210
+B26210_109E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born,B26210
+B26210_110E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Male,B26210
+B26210_111E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Female,B26210
+B26210_112E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_113E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_114E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_115E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen,B26210
+B26210_116E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_117E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_118E,int,Estimate!!Total!!Household population,B26210
+B26210_001M,int,Margin of Error!!Total,B26210
+B26210_002M,int,Margin of Error!!Total!!Native,B26210
+B26210_003M,int,Margin of Error!!Total!!Native!!Male,B26210
+B26210_004M,int,Margin of Error!!Total!!Native!!Female,B26210
+B26210_005M,int,Margin of Error!!Total!!Foreign born,B26210
+B26210_006M,int,Margin of Error!!Total!!Foreign born!!Male,B26210
+B26210_007M,int,Margin of Error!!Total!!Foreign born!!Female,B26210
+B26210_008M,int,Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_009M,int,Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_010M,int,Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_011M,int,Margin of Error!!Total!!Foreign born!!Not a U.S. citizen,B26210
+B26210_012M,int,Margin of Error!!Total!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_013M,int,Margin of Error!!Total!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_014M,int,Margin of Error!!Total!!Group quarters population,B26210
+B26210_015M,int,Margin of Error!!Total!!Group quarters population!!Native,B26210
+B26210_016M,int,Margin of Error!!Total!!Group quarters population!!Native!!Male,B26210
+B26210_017M,int,Margin of Error!!Total!!Group quarters population!!Native!!Female,B26210
+B26210_018M,int,Margin of Error!!Total!!Group quarters population!!Foreign born,B26210
+B26210_019M,int,Margin of Error!!Total!!Group quarters population!!Foreign born!!Male,B26210
+B26210_020M,int,Margin of Error!!Total!!Group quarters population!!Foreign born!!Female,B26210
+B26210_021M,int,Margin of Error!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_022M,int,Margin of Error!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_023M,int,Margin of Error!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_024M,int,Margin of Error!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_025M,int,Margin of Error!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_026M,int,Margin of Error!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_027M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26210
+B26210_028M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Native,B26210
+B26210_029M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Native!!Male,B26210
+B26210_030M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Native!!Female,B26210
+B26210_031M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born,B26210
+B26210_032M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Male,B26210
+B26210_033M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Female,B26210
+B26210_034M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_035M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_036M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_037M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_038M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_039M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_040M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26210
+B26210_041M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native,B26210
+B26210_042M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native!!Male,B26210
+B26210_043M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native!!Female,B26210
+B26210_044M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born,B26210
+B26210_045M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Male,B26210
+B26210_046M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Female,B26210
+B26210_047M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_048M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_049M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_050M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_051M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_052M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_053M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26210
+B26210_054M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native,B26210
+B26210_055M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native!!Male,B26210
+B26210_056M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native!!Female,B26210
+B26210_057M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born,B26210
+B26210_058M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Male,B26210
+B26210_059M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Female,B26210
+B26210_060M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_061M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_062M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_063M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_064M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_065M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_066M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26210
+B26210_067M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native,B26210
+B26210_068M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native!!Male,B26210
+B26210_069M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native!!Female,B26210
+B26210_070M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born,B26210
+B26210_071M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Male,B26210
+B26210_072M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Female,B26210
+B26210_073M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_074M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_075M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_076M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_077M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_078M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_079M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26210
+B26210_080M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native,B26210
+B26210_081M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native!!Male,B26210
+B26210_082M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native!!Female,B26210
+B26210_083M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born,B26210
+B26210_084M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Male,B26210
+B26210_085M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Female,B26210
+B26210_086M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_087M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_088M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_089M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_090M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_091M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_092M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26210
+B26210_093M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native,B26210
+B26210_094M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native!!Male,B26210
+B26210_095M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native!!Female,B26210
+B26210_096M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born,B26210
+B26210_097M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Male,B26210
+B26210_098M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Female,B26210
+B26210_099M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_100M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_101M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_102M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen,B26210
+B26210_103M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_104M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_105M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26210
+B26210_106M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native,B26210
+B26210_107M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native!!Male,B26210
+B26210_108M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native!!Female,B26210
+B26210_109M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born,B26210
+B26210_110M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Male,B26210
+B26210_111M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Female,B26210
+B26210_112M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_113M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_114M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_115M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen,B26210
+B26210_116M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_117M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_118M,int,Margin of Error!!Total!!Household population,B26210
+B26210_001EA,string,Annotation of Estimate!!Total,B26210
+B26210_001MA,string,Annotation of Margin of Error!!Total,B26210
+B26210_002EA,string,Annotation of Estimate!!Total!!Native,B26210
+B26210_002MA,string,Annotation of Margin of Error!!Total!!Native,B26210
+B26210_003EA,string,Annotation of Estimate!!Total!!Native!!Male,B26210
+B26210_003MA,string,Annotation of Margin of Error!!Total!!Native!!Male,B26210
+B26210_004EA,string,Annotation of Estimate!!Total!!Native!!Female,B26210
+B26210_004MA,string,Annotation of Margin of Error!!Total!!Native!!Female,B26210
+B26210_005EA,string,Annotation of Estimate!!Total!!Foreign born,B26210
+B26210_005MA,string,Annotation of Margin of Error!!Total!!Foreign born,B26210
+B26210_006EA,string,Annotation of Estimate!!Total!!Foreign born!!Male,B26210
+B26210_006MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Male,B26210
+B26210_007EA,string,Annotation of Estimate!!Total!!Foreign born!!Female,B26210
+B26210_007MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Female,B26210
+B26210_008EA,string,Annotation of Estimate!!Total!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_008MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_009EA,string,Annotation of Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_009MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_010EA,string,Annotation of Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_010MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_011EA,string,Annotation of Estimate!!Total!!Foreign born!!Not a U.S. citizen,B26210
+B26210_011MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Not a U.S. citizen,B26210
+B26210_012EA,string,Annotation of Estimate!!Total!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_012MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_013EA,string,Annotation of Estimate!!Total!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_013MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_014EA,string,Annotation of Estimate!!Total!!Group quarters population,B26210
+B26210_014MA,string,Annotation of Margin of Error!!Total!!Group quarters population,B26210
+B26210_015EA,string,Annotation of Estimate!!Total!!Group quarters population!!Native,B26210
+B26210_015MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Native,B26210
+B26210_016EA,string,Annotation of Estimate!!Total!!Group quarters population!!Native!!Male,B26210
+B26210_016MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Native!!Male,B26210
+B26210_017EA,string,Annotation of Estimate!!Total!!Group quarters population!!Native!!Female,B26210
+B26210_017MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Native!!Female,B26210
+B26210_018EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born,B26210
+B26210_018MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born,B26210
+B26210_019EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born!!Male,B26210
+B26210_019MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born!!Male,B26210
+B26210_020EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born!!Female,B26210
+B26210_020MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born!!Female,B26210
+B26210_021EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_021MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_022EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_022MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_023EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_023MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_024EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_024MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_025EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_025MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_026EA,string,Annotation of Estimate!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_026MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_027EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26210
+B26210_027MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26210
+B26210_028EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Native,B26210
+B26210_028MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Native,B26210
+B26210_029EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Native!!Male,B26210
+B26210_029MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Native!!Male,B26210
+B26210_030EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Native!!Female,B26210
+B26210_030MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Native!!Female,B26210
+B26210_031EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born,B26210
+B26210_031MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born,B26210
+B26210_032EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Male,B26210
+B26210_032MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Male,B26210
+B26210_033EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Female,B26210
+B26210_033MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Female,B26210
+B26210_034EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_034MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_035EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_035MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_036EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_036MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_037EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_037MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_038EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_038MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_039EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_039MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_040EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26210
+B26210_040MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26210
+B26210_041EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native,B26210
+B26210_041MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native,B26210
+B26210_042EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native!!Male,B26210
+B26210_042MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native!!Male,B26210
+B26210_043EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native!!Female,B26210
+B26210_043MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Native!!Female,B26210
+B26210_044EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born,B26210
+B26210_044MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born,B26210
+B26210_045EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Male,B26210
+B26210_045MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Male,B26210
+B26210_046EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Female,B26210
+B26210_046MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Female,B26210
+B26210_047EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_047MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_048EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_048MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_049EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_049MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_050EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_050MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_051EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_051MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_052EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_052MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_053EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26210
+B26210_053MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26210
+B26210_054EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native,B26210
+B26210_054MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native,B26210
+B26210_055EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native!!Male,B26210
+B26210_055MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native!!Male,B26210
+B26210_056EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native!!Female,B26210
+B26210_056MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Native!!Female,B26210
+B26210_057EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born,B26210
+B26210_057MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born,B26210
+B26210_058EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Male,B26210
+B26210_058MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Male,B26210
+B26210_059EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Female,B26210
+B26210_059MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Female,B26210
+B26210_060EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_060MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_061EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_061MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_062EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_062MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_063EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_063MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_064EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_064MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_065EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_065MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_066EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26210
+B26210_066MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26210
+B26210_067EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native,B26210
+B26210_067MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native,B26210
+B26210_068EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native!!Male,B26210
+B26210_068MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native!!Male,B26210
+B26210_069EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native!!Female,B26210
+B26210_069MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Native!!Female,B26210
+B26210_070EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born,B26210
+B26210_070MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born,B26210
+B26210_071EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Male,B26210
+B26210_071MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Male,B26210
+B26210_072EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Female,B26210
+B26210_072MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Female,B26210
+B26210_073EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_073MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_074EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_074MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_075EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_075MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_076EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_076MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen,B26210
+B26210_077EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_077MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_078EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_078MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_079EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26210
+B26210_079MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26210
+B26210_080EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native,B26210
+B26210_080MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native,B26210
+B26210_081EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native!!Male,B26210
+B26210_081MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native!!Male,B26210
+B26210_082EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native!!Female,B26210
+B26210_082MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Native!!Female,B26210
+B26210_083EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born,B26210
+B26210_083MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born,B26210
+B26210_084EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Male,B26210
+B26210_084MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Male,B26210
+B26210_085EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Female,B26210
+B26210_085MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Female,B26210
+B26210_086EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_086MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_087EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_087MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_088EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_088MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_089EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_089MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen,B26210
+B26210_090EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_090MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_091EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_091MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_092EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26210
+B26210_092MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26210
+B26210_093EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native,B26210
+B26210_093MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native,B26210
+B26210_094EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native!!Male,B26210
+B26210_094MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native!!Male,B26210
+B26210_095EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native!!Female,B26210
+B26210_095MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Native!!Female,B26210
+B26210_096EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born,B26210
+B26210_096MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born,B26210
+B26210_097EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Male,B26210
+B26210_097MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Male,B26210
+B26210_098EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Female,B26210
+B26210_098MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Female,B26210
+B26210_099EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_099MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_100EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_100MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_101EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_101MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_102EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen,B26210
+B26210_102MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen,B26210
+B26210_103EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_103MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_104EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_104MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_105EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26210
+B26210_105MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26210
+B26210_106EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native,B26210
+B26210_106MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native,B26210
+B26210_107EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native!!Male,B26210
+B26210_107MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native!!Male,B26210
+B26210_108EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native!!Female,B26210
+B26210_108MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Native!!Female,B26210
+B26210_109EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born,B26210
+B26210_109MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born,B26210
+B26210_110EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Male,B26210
+B26210_110MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Male,B26210
+B26210_111EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Female,B26210
+B26210_111MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Female,B26210
+B26210_112EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_112MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen,B26210
+B26210_113EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_113MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen!!Male,B26210
+B26210_114EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_114MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Naturalized U.S. citizen!!Female,B26210
+B26210_115EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen,B26210
+B26210_115MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen,B26210
+B26210_116EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_116MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen!!Male,B26210
+B26210_117EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_117MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Foreign born!!Not a U.S. citizen!!Female,B26210
+B26210_118EA,string,Annotation of Estimate!!Total!!Household population,B26210
+B26210_118MA,string,Annotation of Margin of Error!!Total!!Household population,B26210

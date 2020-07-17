@@ -1,0 +1,577 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1502_C01_001E,int,Total!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C01_002E,int,Total!!Estimate!!Science and Engineering,S1502
+S1502_C01_003E,int,Total!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C01_004E,int,Total!!Estimate!!Business,S1502
+S1502_C01_005E,int,Total!!Estimate!!Education,S1502
+S1502_C01_006E,int,"Total!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C01_007E,int,Total!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C01_008E,int,Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C01_009E,int,Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C01_010E,int,Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C01_011E,int,Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C01_012E,int,"Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C01_013E,int,Total!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C01_014E,int,Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C01_015E,int,Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C01_016E,int,Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C01_017E,int,Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C01_018E,int,"Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C01_019E,int,Total!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C01_020E,int,Total!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C01_021E,int,Total!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C01_022E,int,Total!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C01_023E,int,Total!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C01_024E,int,"Total!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C02_001E,float,Percent!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C02_002E,float,Percent!!Estimate!!Science and Engineering,S1502
+S1502_C02_003E,float,Percent!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C02_004E,float,Percent!!Estimate!!Business,S1502
+S1502_C02_005E,float,Percent!!Estimate!!Education,S1502
+S1502_C02_006E,float,"Percent!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C02_007E,float,Percent!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C02_008E,float,Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C02_009E,float,Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C02_010E,float,Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C02_011E,float,Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C02_012E,float,"Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C02_013E,float,Percent!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C02_014E,float,Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C02_015E,float,Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C02_016E,float,Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C02_017E,float,Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C02_018E,float,"Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C02_019E,float,Percent!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C02_020E,float,Percent!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C02_021E,float,Percent!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C02_022E,float,Percent!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C02_023E,float,Percent!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C02_024E,float,"Percent!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C03_001E,int,Male!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C03_002E,int,Male!!Estimate!!Science and Engineering,S1502
+S1502_C03_003E,int,Male!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C03_004E,int,Male!!Estimate!!Business,S1502
+S1502_C03_005E,int,Male!!Estimate!!Education,S1502
+S1502_C03_006E,int,"Male!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C03_007E,int,Male!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C03_008E,int,Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C03_009E,int,Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C03_010E,int,Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C03_011E,int,Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C03_012E,int,"Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C03_013E,int,Male!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C03_014E,int,Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C03_015E,int,Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C03_016E,int,Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C03_017E,int,Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C03_018E,int,"Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C03_019E,int,Male!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C03_020E,int,Male!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C03_021E,int,Male!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C03_022E,int,Male!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C03_023E,int,Male!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C03_024E,int,"Male!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C04_001E,float,Percent Male!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C04_002E,float,Percent Male!!Estimate!!Science and Engineering,S1502
+S1502_C04_003E,float,Percent Male!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C04_004E,float,Percent Male!!Estimate!!Business,S1502
+S1502_C04_005E,float,Percent Male!!Estimate!!Education,S1502
+S1502_C04_006E,float,"Percent Male!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C04_007E,float,Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C04_008E,float,Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C04_009E,float,Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C04_010E,float,Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C04_011E,float,Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C04_012E,float,"Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C04_013E,float,Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C04_014E,float,Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C04_015E,float,Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C04_016E,float,Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C04_017E,float,Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C04_018E,float,"Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C04_019E,float,Percent Male!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C04_020E,float,Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C04_021E,float,Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C04_022E,float,Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C04_023E,float,Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C04_024E,float,"Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C05_001E,int,Female!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C05_002E,int,Female!!Estimate!!Science and Engineering,S1502
+S1502_C05_003E,int,Female!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C05_004E,int,Female!!Estimate!!Business,S1502
+S1502_C05_005E,int,Female!!Estimate!!Education,S1502
+S1502_C05_006E,int,"Female!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C05_007E,int,Female!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C05_008E,int,Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C05_009E,int,Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C05_010E,int,Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C05_011E,int,Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C05_012E,int,"Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C05_013E,int,Female!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C05_014E,int,Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C05_015E,int,Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C05_016E,int,Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C05_017E,int,Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C05_018E,int,"Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C05_019E,int,Female!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C05_020E,int,Female!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C05_021E,int,Female!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C05_022E,int,Female!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C05_023E,int,Female!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C05_024E,int,"Female!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C06_001E,float,Percent Female!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C06_002E,float,Percent Female!!Estimate!!Science and Engineering,S1502
+S1502_C06_003E,float,Percent Female!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C06_004E,float,Percent Female!!Estimate!!Business,S1502
+S1502_C06_005E,float,Percent Female!!Estimate!!Education,S1502
+S1502_C06_006E,float,"Percent Female!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C06_007E,float,Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C06_008E,float,Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C06_009E,float,Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C06_010E,float,Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C06_011E,float,Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C06_012E,float,"Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C06_013E,float,Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C06_014E,float,Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C06_015E,float,Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C06_016E,float,Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C06_017E,float,Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C06_018E,float,"Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C06_019E,float,Percent Female!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C06_020E,float,Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C06_021E,float,Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C06_022E,float,Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C06_023E,float,Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C06_024E,float,"Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C01_001M,int,Total!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C01_002M,int,Total!!Margin of Error!!Science and Engineering,S1502
+S1502_C01_003M,int,Total!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C01_004M,int,Total!!Margin of Error!!Business,S1502
+S1502_C01_005M,int,Total!!Margin of Error!!Education,S1502
+S1502_C01_006M,int,"Total!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C01_007M,int,Total!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C01_008M,int,Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C01_009M,int,Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C01_010M,int,Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C01_011M,int,Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C01_012M,int,"Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C01_013M,int,Total!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C01_014M,int,Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C01_015M,int,Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C01_016M,int,Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C01_017M,int,Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C01_018M,int,"Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C01_019M,int,Total!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C01_020M,int,Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C01_021M,int,Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C01_022M,int,Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C01_023M,int,Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C01_024M,int,"Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C02_001M,float,Percent!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C02_002M,float,Percent!!Margin of Error!!Science and Engineering,S1502
+S1502_C02_003M,float,Percent!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C02_004M,float,Percent!!Margin of Error!!Business,S1502
+S1502_C02_005M,float,Percent!!Margin of Error!!Education,S1502
+S1502_C02_006M,float,"Percent!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C02_007M,float,Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C02_008M,float,Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C02_009M,float,Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C02_010M,float,Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C02_011M,float,Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C02_012M,float,"Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C02_013M,float,Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C02_014M,float,Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C02_015M,float,Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C02_016M,float,Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C02_017M,float,Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C02_018M,float,"Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C02_019M,float,Percent!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C02_020M,float,Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C02_021M,float,Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C02_022M,float,Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C02_023M,float,Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C02_024M,float,"Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C03_001M,int,Male!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C03_002M,int,Male!!Margin of Error!!Science and Engineering,S1502
+S1502_C03_003M,int,Male!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C03_004M,int,Male!!Margin of Error!!Business,S1502
+S1502_C03_005M,int,Male!!Margin of Error!!Education,S1502
+S1502_C03_006M,int,"Male!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C03_007M,int,Male!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C03_008M,int,Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C03_009M,int,Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C03_010M,int,Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C03_011M,int,Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C03_012M,int,"Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C03_013M,int,Male!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C03_014M,int,Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C03_015M,int,Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C03_016M,int,Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C03_017M,int,Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C03_018M,int,"Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C03_019M,int,Male!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C03_020M,int,Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C03_021M,int,Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C03_022M,int,Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C03_023M,int,Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C03_024M,int,"Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C04_001M,float,Percent Male!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C04_002M,float,Percent Male!!Margin of Error!!Science and Engineering,S1502
+S1502_C04_003M,float,Percent Male!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C04_004M,float,Percent Male!!Margin of Error!!Business,S1502
+S1502_C04_005M,float,Percent Male!!Margin of Error!!Education,S1502
+S1502_C04_006M,float,"Percent Male!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C04_007M,float,Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C04_008M,float,Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C04_009M,float,Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C04_010M,float,Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C04_011M,float,Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C04_012M,float,"Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C04_013M,float,Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C04_014M,float,Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C04_015M,float,Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C04_016M,float,Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C04_017M,float,Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C04_018M,float,"Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C04_019M,float,Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C04_020M,float,Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C04_021M,float,Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C04_022M,float,Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C04_023M,float,Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C04_024M,float,"Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C05_001M,int,Female!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C05_002M,int,Female!!Margin of Error!!Science and Engineering,S1502
+S1502_C05_003M,int,Female!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C05_004M,int,Female!!Margin of Error!!Business,S1502
+S1502_C05_005M,int,Female!!Margin of Error!!Education,S1502
+S1502_C05_006M,int,"Female!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C05_007M,int,Female!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C05_008M,int,Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C05_009M,int,Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C05_010M,int,Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C05_011M,int,Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C05_012M,int,"Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C05_013M,int,Female!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C05_014M,int,Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C05_015M,int,Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C05_016M,int,Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C05_017M,int,Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C05_018M,int,"Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C05_019M,int,Female!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C05_020M,int,Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C05_021M,int,Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C05_022M,int,Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C05_023M,int,Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C05_024M,int,"Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C06_001M,float,Percent Female!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C06_002M,float,Percent Female!!Margin of Error!!Science and Engineering,S1502
+S1502_C06_003M,float,Percent Female!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C06_004M,float,Percent Female!!Margin of Error!!Business,S1502
+S1502_C06_005M,float,Percent Female!!Margin of Error!!Education,S1502
+S1502_C06_006M,float,"Percent Female!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C06_007M,float,Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C06_008M,float,Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C06_009M,float,Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C06_010M,float,Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C06_011M,float,Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C06_012M,float,"Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C06_013M,float,Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C06_014M,float,Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C06_015M,float,Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C06_016M,float,Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C06_017M,float,Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C06_018M,float,"Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C06_019M,float,Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C06_020M,float,Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C06_021M,float,Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C06_022M,float,Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C06_023M,float,Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C06_024M,float,"Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C01_001EA,string,Annotation of Total!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C01_001MA,string,Annotation of Total!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C01_002EA,string,Annotation of Total!!Estimate!!Science and Engineering,S1502
+S1502_C01_002MA,string,Annotation of Total!!Margin of Error!!Science and Engineering,S1502
+S1502_C01_003EA,string,Annotation of Total!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C01_003MA,string,Annotation of Total!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C01_004EA,string,Annotation of Total!!Estimate!!Business,S1502
+S1502_C01_004MA,string,Annotation of Total!!Margin of Error!!Business,S1502
+S1502_C01_005EA,string,Annotation of Total!!Estimate!!Education,S1502
+S1502_C01_005MA,string,Annotation of Total!!Margin of Error!!Education,S1502
+S1502_C01_006EA,string,"Annotation of Total!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C01_006MA,string,"Annotation of Total!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C01_007EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C01_007MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C01_008EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C01_008MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C01_009EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C01_009MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C01_010EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C01_010MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C01_011EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C01_011MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C01_012EA,string,"Annotation of Total!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C01_012MA,string,"Annotation of Total!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C01_013EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C01_013MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C01_014EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C01_014MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C01_015EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C01_015MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C01_016EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C01_016MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C01_017EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C01_017MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C01_018EA,string,"Annotation of Total!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C01_018MA,string,"Annotation of Total!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C01_019EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C01_019MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C01_020EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C01_020MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C01_021EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C01_021MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C01_022EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C01_022MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C01_023EA,string,Annotation of Total!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C01_023MA,string,Annotation of Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C01_024EA,string,"Annotation of Total!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C01_024MA,string,"Annotation of Total!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C02_001EA,string,Annotation of Percent!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C02_001MA,string,Annotation of Percent!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C02_002EA,string,Annotation of Percent!!Estimate!!Science and Engineering,S1502
+S1502_C02_002MA,string,Annotation of Percent!!Margin of Error!!Science and Engineering,S1502
+S1502_C02_003EA,string,Annotation of Percent!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C02_003MA,string,Annotation of Percent!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C02_004EA,string,Annotation of Percent!!Estimate!!Business,S1502
+S1502_C02_004MA,string,Annotation of Percent!!Margin of Error!!Business,S1502
+S1502_C02_005EA,string,Annotation of Percent!!Estimate!!Education,S1502
+S1502_C02_005MA,string,Annotation of Percent!!Margin of Error!!Education,S1502
+S1502_C02_006EA,string,"Annotation of Percent!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C02_006MA,string,"Annotation of Percent!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C02_007EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C02_007MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C02_008EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C02_008MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C02_009EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C02_009MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C02_010EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C02_010MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C02_011EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C02_011MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C02_012EA,string,"Annotation of Percent!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C02_012MA,string,"Annotation of Percent!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C02_013EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C02_013MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C02_014EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C02_014MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C02_015EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C02_015MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C02_016EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C02_016MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C02_017EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C02_017MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C02_018EA,string,"Annotation of Percent!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C02_018MA,string,"Annotation of Percent!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C02_019EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C02_019MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C02_020EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C02_020MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C02_021EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C02_021MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C02_022EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C02_022MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C02_023EA,string,Annotation of Percent!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C02_023MA,string,Annotation of Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C02_024EA,string,"Annotation of Percent!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C02_024MA,string,"Annotation of Percent!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C03_001EA,string,Annotation of Male!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C03_001MA,string,Annotation of Male!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C03_002EA,string,Annotation of Male!!Estimate!!Science and Engineering,S1502
+S1502_C03_002MA,string,Annotation of Male!!Margin of Error!!Science and Engineering,S1502
+S1502_C03_003EA,string,Annotation of Male!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C03_003MA,string,Annotation of Male!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C03_004EA,string,Annotation of Male!!Estimate!!Business,S1502
+S1502_C03_004MA,string,Annotation of Male!!Margin of Error!!Business,S1502
+S1502_C03_005EA,string,Annotation of Male!!Estimate!!Education,S1502
+S1502_C03_005MA,string,Annotation of Male!!Margin of Error!!Education,S1502
+S1502_C03_006EA,string,"Annotation of Male!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C03_006MA,string,"Annotation of Male!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C03_007EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C03_007MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C03_008EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C03_008MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C03_009EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C03_009MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C03_010EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C03_010MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C03_011EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C03_011MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C03_012EA,string,"Annotation of Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C03_012MA,string,"Annotation of Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C03_013EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C03_013MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C03_014EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C03_014MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C03_015EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C03_015MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C03_016EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C03_016MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C03_017EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C03_017MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C03_018EA,string,"Annotation of Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C03_018MA,string,"Annotation of Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C03_019EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C03_019MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C03_020EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C03_020MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C03_021EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C03_021MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C03_022EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C03_022MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C03_023EA,string,Annotation of Male!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C03_023MA,string,Annotation of Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C03_024EA,string,"Annotation of Male!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C03_024MA,string,"Annotation of Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C04_001EA,string,Annotation of Percent Male!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C04_001MA,string,Annotation of Percent Male!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C04_002EA,string,Annotation of Percent Male!!Estimate!!Science and Engineering,S1502
+S1502_C04_002MA,string,Annotation of Percent Male!!Margin of Error!!Science and Engineering,S1502
+S1502_C04_003EA,string,Annotation of Percent Male!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C04_003MA,string,Annotation of Percent Male!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C04_004EA,string,Annotation of Percent Male!!Estimate!!Business,S1502
+S1502_C04_004MA,string,Annotation of Percent Male!!Margin of Error!!Business,S1502
+S1502_C04_005EA,string,Annotation of Percent Male!!Estimate!!Education,S1502
+S1502_C04_005MA,string,Annotation of Percent Male!!Margin of Error!!Education,S1502
+S1502_C04_006EA,string,"Annotation of Percent Male!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C04_006MA,string,"Annotation of Percent Male!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C04_007EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C04_007MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C04_008EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C04_008MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C04_009EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C04_009MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C04_010EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C04_010MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C04_011EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C04_011MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C04_012EA,string,"Annotation of Percent Male!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C04_012MA,string,"Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C04_013EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C04_013MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C04_014EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C04_014MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C04_015EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C04_015MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C04_016EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C04_016MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C04_017EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C04_017MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C04_018EA,string,"Annotation of Percent Male!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C04_018MA,string,"Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C04_019EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C04_019MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C04_020EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C04_020MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C04_021EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C04_021MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C04_022EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C04_022MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C04_023EA,string,Annotation of Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C04_023MA,string,Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C04_024EA,string,"Annotation of Percent Male!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C04_024MA,string,"Annotation of Percent Male!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C05_001EA,string,Annotation of Female!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C05_001MA,string,Annotation of Female!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C05_002EA,string,Annotation of Female!!Estimate!!Science and Engineering,S1502
+S1502_C05_002MA,string,Annotation of Female!!Margin of Error!!Science and Engineering,S1502
+S1502_C05_003EA,string,Annotation of Female!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C05_003MA,string,Annotation of Female!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C05_004EA,string,Annotation of Female!!Estimate!!Business,S1502
+S1502_C05_004MA,string,Annotation of Female!!Margin of Error!!Business,S1502
+S1502_C05_005EA,string,Annotation of Female!!Estimate!!Education,S1502
+S1502_C05_005MA,string,Annotation of Female!!Margin of Error!!Education,S1502
+S1502_C05_006EA,string,"Annotation of Female!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C05_006MA,string,"Annotation of Female!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C05_007EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C05_007MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C05_008EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C05_008MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C05_009EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C05_009MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C05_010EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C05_010MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C05_011EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C05_011MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C05_012EA,string,"Annotation of Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C05_012MA,string,"Annotation of Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C05_013EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C05_013MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C05_014EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C05_014MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C05_015EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C05_015MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C05_016EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C05_016MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C05_017EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C05_017MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C05_018EA,string,"Annotation of Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C05_018MA,string,"Annotation of Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C05_019EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C05_019MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C05_020EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C05_020MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C05_021EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C05_021MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C05_022EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C05_022MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C05_023EA,string,Annotation of Female!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C05_023MA,string,Annotation of Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C05_024EA,string,"Annotation of Female!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C05_024MA,string,"Annotation of Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C06_001EA,string,Annotation of Percent Female!!Estimate!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C06_001MA,string,Annotation of Percent Female!!Margin of Error!!Total population 25 years and over with a Bachelor's degree or higher,S1502
+S1502_C06_002EA,string,Annotation of Percent Female!!Estimate!!Science and Engineering,S1502
+S1502_C06_002MA,string,Annotation of Percent Female!!Margin of Error!!Science and Engineering,S1502
+S1502_C06_003EA,string,Annotation of Percent Female!!Estimate!!Science and Engineering Related Fields,S1502
+S1502_C06_003MA,string,Annotation of Percent Female!!Margin of Error!!Science and Engineering Related Fields,S1502
+S1502_C06_004EA,string,Annotation of Percent Female!!Estimate!!Business,S1502
+S1502_C06_004MA,string,Annotation of Percent Female!!Margin of Error!!Business,S1502
+S1502_C06_005EA,string,Annotation of Percent Female!!Estimate!!Education,S1502
+S1502_C06_005MA,string,Annotation of Percent Female!!Margin of Error!!Education,S1502
+S1502_C06_006EA,string,"Annotation of Percent Female!!Estimate!!Arts, Humanities and Others",S1502
+S1502_C06_006MA,string,"Annotation of Percent Female!!Margin of Error!!Arts, Humanities and Others",S1502
+S1502_C06_007EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C06_007MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years,S1502
+S1502_C06_008EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C06_008MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering,S1502
+S1502_C06_009EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C06_009MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Science and Engineering Related Fields,S1502
+S1502_C06_010EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C06_010MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Business,S1502
+S1502_C06_011EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C06_011MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Education,S1502
+S1502_C06_012EA,string,"Annotation of Percent Female!!Estimate!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C06_012MA,string,"Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!25 to 39 years!!Arts, Humanities and Others",S1502
+S1502_C06_013EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C06_013MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years,S1502
+S1502_C06_014EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C06_014MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering,S1502
+S1502_C06_015EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C06_015MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Science and Engineering Related Fields,S1502
+S1502_C06_016EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C06_016MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Business,S1502
+S1502_C06_017EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C06_017MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Education,S1502
+S1502_C06_018EA,string,"Annotation of Percent Female!!Estimate!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C06_018MA,string,"Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!40 to 64 years!!Arts, Humanities and Others",S1502
+S1502_C06_019EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!65 years and over,S1502
+S1502_C06_019MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over,S1502
+S1502_C06_020EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C06_020MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering,S1502
+S1502_C06_021EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C06_021MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Science and Engineering Related Fields,S1502
+S1502_C06_022EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C06_022MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Business,S1502
+S1502_C06_023EA,string,Annotation of Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C06_023MA,string,Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Education,S1502
+S1502_C06_024EA,string,"Annotation of Percent Female!!Estimate!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502
+S1502_C06_024MA,string,"Annotation of Percent Female!!Margin of Error!!DETAILED AGE!!65 years and over!!Arts, Humanities and Others",S1502

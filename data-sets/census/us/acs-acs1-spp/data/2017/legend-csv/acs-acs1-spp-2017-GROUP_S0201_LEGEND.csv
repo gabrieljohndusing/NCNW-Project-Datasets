@@ -1,0 +1,1233 @@
+VARIABLE,TYPE,LABEL,GROUP
+S0201_001E,int,Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population,S0201
+S0201_002E,float,Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population!!One race,S0201
+S0201_003E,float,Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Two races,S0201
+S0201_004E,float,Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Three races,S0201
+S0201_005E,float,Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Four or more races,S0201
+S0201_006E,null,Estimate!!SEX AND AGE!!Total population,S0201
+S0201_007E,float,Estimate!!SEX AND AGE!!Total population!!Male,S0201
+S0201_008E,float,Estimate!!SEX AND AGE!!Total population!!Female,S0201
+S0201_009E,float,Estimate!!SEX AND AGE!!Under 5 years,S0201
+S0201_010E,float,Estimate!!SEX AND AGE!!5 to 17 years,S0201
+S0201_011E,float,Estimate!!SEX AND AGE!!18 to 24 years,S0201
+S0201_012E,float,Estimate!!SEX AND AGE!!25 to 34 years,S0201
+S0201_013E,float,Estimate!!SEX AND AGE!!35 to 44 years,S0201
+S0201_014E,float,Estimate!!SEX AND AGE!!45 to 54 years,S0201
+S0201_015E,float,Estimate!!SEX AND AGE!!55 to 64 years,S0201
+S0201_016E,float,Estimate!!SEX AND AGE!!65 to 74 years,S0201
+S0201_017E,float,Estimate!!SEX AND AGE!!75 years and over,S0201
+S0201_018E,float,Estimate!!SEX AND AGE!!Median age (years),S0201
+S0201_019E,float,Estimate!!SEX AND AGE!!18 years and over,S0201
+S0201_020E,float,Estimate!!SEX AND AGE!!21 years and over,S0201
+S0201_021E,float,Estimate!!SEX AND AGE!!62 years and over,S0201
+S0201_022E,float,Estimate!!SEX AND AGE!!65 years and over,S0201
+S0201_023E,int,Estimate!!SEX AND AGE!!Under 18 years,S0201
+S0201_024E,float,Estimate!!SEX AND AGE!!Under 18 years!!Male,S0201
+S0201_025E,float,Estimate!!SEX AND AGE!!Under 18 years!!Female,S0201
+S0201_026E,int,Estimate!!SEX AND AGE!!18 years and over,S0201
+S0201_027E,float,Estimate!!SEX AND AGE!!18 years and over!!Male,S0201
+S0201_028E,float,Estimate!!SEX AND AGE!!18 years and over!!Female,S0201
+S0201_029E,int,Estimate!!SEX AND AGE!!18 to 34 years,S0201
+S0201_030E,float,Estimate!!SEX AND AGE!!18 to 34 years!!Male,S0201
+S0201_031E,float,Estimate!!SEX AND AGE!!18 to 34 years!!Female,S0201
+S0201_032E,int,Estimate!!SEX AND AGE!!35 to 64 years,S0201
+S0201_033E,float,Estimate!!SEX AND AGE!!35 to 64 years!!Male,S0201
+S0201_034E,float,Estimate!!SEX AND AGE!!35 to 64 years!!Female,S0201
+S0201_035E,int,Estimate!!SEX AND AGE!!65 years and over,S0201
+S0201_036E,float,Estimate!!SEX AND AGE!!65 years and over!!Male,S0201
+S0201_037E,float,Estimate!!SEX AND AGE!!65 years and over!!Female,S0201
+S0201_038E,int,Estimate!!RELATIONSHIP!!Population in households,S0201
+S0201_039E,float,Estimate!!RELATIONSHIP!!Population in households!!Householder or spouse,S0201
+S0201_040E,float,Estimate!!RELATIONSHIP!!Population in households!!Child,S0201
+S0201_041E,float,Estimate!!RELATIONSHIP!!Population in households!!Other relatives,S0201
+S0201_042E,float,Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives,S0201
+S0201_043E,float,Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0201
+S0201_044E,int,Estimate!!HOUSEHOLDS BY TYPE!!Households,S0201
+S0201_045E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0201
+S0201_046E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!With own children of the householder under 18 years,S0201
+S0201_047E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0201
+S0201_048E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family!!With own children of the householder under 18 years,S0201
+S0201_049E,float,"Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0201
+S0201_050E,float,"Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family!!With own children of the householder under 18 years",S0201
+S0201_051E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0201
+S0201_052E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder,S0201
+S0201_053E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder!!Living alone,S0201
+S0201_054E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder!!Not living alone,S0201
+S0201_055E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder,S0201
+S0201_056E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder!!Living alone,S0201
+S0201_057E,float,Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder!!Not living alone,S0201
+S0201_058E,float,Estimate!!HOUSEHOLDS BY TYPE!!Average household size,S0201
+S0201_059E,float,Estimate!!HOUSEHOLDS BY TYPE!!Average family size,S0201
+S0201_060E,int,Estimate!!MARITAL STATUS!!Population 15 years and over,S0201
+S0201_061E,float,"Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0201
+S0201_062E,float,Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0201
+S0201_063E,float,Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0201
+S0201_064E,float,Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S0201
+S0201_065E,float,Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0201
+S0201_066E,int,Estimate!!MARITAL STATUS!!Male 15 years and over,S0201
+S0201_067E,float,"Estimate!!MARITAL STATUS!!Male 15 years and over!!Now married, except separated",S0201
+S0201_068E,float,Estimate!!MARITAL STATUS!!Male 15 years and over!!Widowed,S0201
+S0201_069E,float,Estimate!!MARITAL STATUS!!Male 15 years and over!!Divorced,S0201
+S0201_070E,float,Estimate!!MARITAL STATUS!!Male 15 years and over!!Separated,S0201
+S0201_071E,float,Estimate!!MARITAL STATUS!!Male 15 years and over!!Never married,S0201
+S0201_072E,int,Estimate!!MARITAL STATUS!!Female 15 years and over,S0201
+S0201_073E,float,"Estimate!!MARITAL STATUS!!Female 15 years and over!!Now married, except separated",S0201
+S0201_074E,float,Estimate!!MARITAL STATUS!!Female 15 years and over!!Widowed,S0201
+S0201_075E,float,Estimate!!MARITAL STATUS!!Female 15 years and over!!Divorced,S0201
+S0201_076E,float,Estimate!!MARITAL STATUS!!Female 15 years and over!!Separated,S0201
+S0201_077E,float,Estimate!!MARITAL STATUS!!Female 15 years and over!!Never married,S0201
+S0201_078E,int,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S0201
+S0201_079E,float,"Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool",S0201
+S0201_080E,float,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten,S0201
+S0201_081E,float,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8),S0201
+S0201_082E,float,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12),S0201
+S0201_083E,float,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S0201
+S0201_084E,int,Estimate!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school,S0201
+S0201_085E,float,Estimate!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school!!Percent enrolled in kindergarten to grade 12,S0201
+S0201_086E,float,Estimate!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school!!Percent enrolled in college or graduate school,S0201
+S0201_087E,int,Estimate!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school,S0201
+S0201_088E,float,Estimate!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school!!Percent enrolled in kindergarten to grade 12,S0201
+S0201_089E,float,Estimate!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school!!Percent enrolled in college or graduate school,S0201
+S0201_090E,int,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0201
+S0201_091E,float,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school diploma,S0201
+S0201_092E,float,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0201
+S0201_093E,float,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0201
+S0201_094E,float,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0201
+S0201_095E,float,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0201
+S0201_096E,float,Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate or higher,S0201
+S0201_097E,float,"Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate or higher!!Male, high school graduate or higher",S0201
+S0201_098E,float,"Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate or higher!!Female, high school graduate or higher",S0201
+S0201_099E,float,Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S0201
+S0201_100E,float,"Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher!!Male, bachelor's degree or higher",S0201
+S0201_101E,float,"Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher!!Female, bachelor's degree or higher",S0201
+S0201_102E,int,Estimate!!FERTILITY!!Women 15 to 50 years,S0201
+S0201_103E,int,Estimate!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months,S0201
+S0201_104E,int,Estimate!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months!!Unmarried women 15 to 50 years who had a birth in the past 12 months,S0201
+S0201_105E,float,Estimate!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months!!Unmarried women 15 to 50 years who had a birth in the past 12 months!!As a percent of all women with a birth in the past 12 months,S0201
+S0201_106E,int,Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0201
+S0201_107E,float,Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Grandparents living with grandchild(ren),S0201
+S0201_108E,float,Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Grandparents living with grandchild(ren)!!Grandparents responsible for grandchildren as a percentage of living with grandchildren,S0201
+S0201_109E,int,Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S0201
+S0201_110E,float,Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0201
+S0201_111E,int,Estimate!!DISABILITY STATUS!!Total civilian noninstitutionalized population,S0201
+S0201_112E,float,Estimate!!DISABILITY STATUS!!Total civilian noninstitutionalized population!!With a disability,S0201
+S0201_113E,int,Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population under 18 years,S0201
+S0201_114E,float,Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population under 18 years!!With a disability,S0201
+S0201_115E,int,Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population 18 to 64 years,S0201
+S0201_116E,float,Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population 18 to 64 years!!With a disability,S0201
+S0201_117E,int,Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population 65 years and older,S0201
+S0201_118E,float,Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population 65 years and older!!With a disability,S0201
+S0201_119E,int,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0201
+S0201_120E,float,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0201
+S0201_121E,float,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.,S0201
+S0201_122E,float,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Same county,S0201
+S0201_123E,float,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county,S0201
+S0201_124E,float,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Same state,S0201
+S0201_125E,float,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Different state,S0201
+S0201_126E,float,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0201
+S0201_127E,int,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native",S0201
+S0201_128E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native!!Male",S0201
+S0201_129E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native!!Female",S0201
+S0201_130E,int,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born",S0201
+S0201_131E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born!!Male",S0201
+S0201_132E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born!!Female",S0201
+S0201_133E,int,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen",S0201
+S0201_134E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen!!Male",S0201
+S0201_135E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen!!Female",S0201
+S0201_136E,int,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen",S0201
+S0201_137E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen!!Male",S0201
+S0201_138E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen!!Female",S0201
+S0201_139E,int,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States",S0201
+S0201_140E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered 2010 or later",S0201
+S0201_141E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered 2000 to 2009",S0201
+S0201_142E,float,"Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered before 2000",S0201
+S0201_143E,int,Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea,S0201
+S0201_144E,float,Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Europe,S0201
+S0201_145E,float,Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Asia,S0201
+S0201_146E,float,Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Africa,S0201
+S0201_147E,float,Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Oceania,S0201
+S0201_148E,float,Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Latin America,S0201
+S0201_149E,float,Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Northern America,S0201
+S0201_150E,int,Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0201
+S0201_151E,float,Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0201
+S0201_152E,float,Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0201
+S0201_153E,float,"Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0201
+S0201_154E,int,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,S0201
+S0201_155E,float,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S0201
+S0201_156E,float,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S0201
+S0201_157E,float,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S0201
+S0201_158E,float,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S0201
+S0201_159E,float,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Unemployment Rate,S0201
+S0201_160E,float,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S0201
+S0201_161E,float,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S0201
+S0201_162E,int,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over,S0201
+S0201_163E,float,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,S0201
+S0201_164E,float,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,S0201
+S0201_165E,float,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,S0201
+S0201_166E,float,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S0201
+S0201_167E,float,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Unemployment Rate,S0201
+S0201_168E,int,Estimate!!COMMUTING TO WORK!!Workers 16 years and over,S0201
+S0201_169E,float,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van - drove alone",S0201
+S0201_170E,float,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van - carpooled",S0201
+S0201_171E,float,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),S0201
+S0201_172E,float,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,S0201
+S0201_173E,float,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,S0201
+S0201_174E,float,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,S0201
+S0201_175E,float,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),S0201
+S0201_176E,int,Estimate!!OCCUPATION!!Civilian employed population 16 years and over,S0201
+S0201_177E,float,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_178E,float,Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S0201
+S0201_179E,float,Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_180E,float,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_181E,float,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_182E,int,Estimate!!OCCUPATION!!Male civilian employed population 16 years and over,S0201
+S0201_183E,float,"Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_184E,float,Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Service occupations,S0201
+S0201_185E,float,Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_186E,float,"Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_187E,float,"Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_188E,int,Estimate!!OCCUPATION!!Female civilian employed population 16 years and over,S0201
+S0201_189E,float,"Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_190E,float,Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Service occupations,S0201
+S0201_191E,float,Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_192E,float,"Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_193E,float,"Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_194E,int,Estimate!!INDUSTRY!!Civilian employed population 16 years and over,S0201
+S0201_195E,float,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",S0201
+S0201_196E,float,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,S0201
+S0201_197E,float,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,S0201
+S0201_198E,float,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,S0201
+S0201_199E,float,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,S0201
+S0201_200E,float,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",S0201
+S0201_201E,float,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Information,S0201
+S0201_202E,float,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",S0201
+S0201_203E,float,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",S0201
+S0201_204E,float,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",S0201
+S0201_205E,float,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",S0201
+S0201_206E,float,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Other services (except public administration),S0201
+S0201_207E,float,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,S0201
+S0201_208E,int,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over,S0201
+S0201_209E,float,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,S0201
+S0201_210E,float,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,S0201
+S0201_211E,float,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed workers in own not incorporated business,S0201
+S0201_212E,float,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,S0201
+S0201_213E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Households,S0201
+S0201_214E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Households!!Median household income (dollars),S0201
+S0201_215E,float,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings,S0201
+S0201_216E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings!!Mean earnings (dollars),S0201
+S0201_217E,float,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Social Security income,S0201
+S0201_218E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Social Security income!!Mean Social Security income (dollars),S0201
+S0201_219E,float,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income,S0201
+S0201_220E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0201
+S0201_221E,float,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income,S0201
+S0201_222E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income!!Mean cash public assistance income (dollars),S0201
+S0201_223E,float,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With retirement income,S0201
+S0201_224E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With retirement income!!Mean retirement income (dollars),S0201
+S0201_225E,float,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Food Stamp/SNAP benefits,S0201
+S0201_226E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families,S0201
+S0201_227E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),S0201
+S0201_228E,float,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars)!!Married-couple family,S0201
+S0201_229E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_230E,float,"Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars)!!Male householder, no spouse present, family",S0201
+S0201_231E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_232E,float,"Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars)!!Female householder, no husband present, family",S0201
+S0201_233E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_234E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Individuals,S0201
+S0201_235E,int,Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S0201
+S0201_236E,int,"Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings for full-time, year-round workers!!Male",S0201
+S0201_237E,int,"Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings for full-time, year-round workers!!Female",S0201
+S0201_238E,int,"Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars) for full-time, year-round workers!!Male",S0201
+S0201_239E,int,"Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars) for full-time, year-round workers!!Female",S0201
+S0201_240E,int,"Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Median earnings (dollars) full-time, year-round workers!!Male",S0201
+S0201_241E,int,"Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Median earnings (dollars) full-time, year-round workers!!Female",S0201
+S0201_242E,int,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,S0201
+S0201_243E,float,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With private health insurance,S0201
+S0201_244E,float,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With public coverage,S0201
+S0201_245E,float,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,S0201
+S0201_246E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families,S0201
+S0201_247E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!With related children of the householder under 18 years,S0201
+S0201_248E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,S0201
+S0201_249E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family,S0201
+S0201_250E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family!!With related children of the householder under 18 years,S0201
+S0201_251E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,S0201
+S0201_252E,float,"Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family",S0201
+S0201_253E,float,"Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family!!With related children of the householder under 18 years",S0201
+S0201_254E,float,"Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",S0201
+S0201_255E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S0201
+S0201_256E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years,S0201
+S0201_257E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years,S0201
+S0201_258E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,S0201
+S0201_259E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,S0201
+S0201_260E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S0201
+S0201_261E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S0201
+S0201_262E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S0201
+S0201_263E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!People in families,S0201
+S0201_264E,float,Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Unrelated individuals 15 years and over,S0201
+S0201_265E,int,Estimate!!HOUSING TENURE!!Occupied housing units,S0201
+S0201_266E,float,Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied housing units,S0201
+S0201_267E,float,Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied housing units,S0201
+S0201_268E,float,Estimate!!HOUSING TENURE!!Average household size of owner-occupied unit,S0201
+S0201_269E,float,Estimate!!HOUSING TENURE!!Average household size of renter-occupied unit,S0201
+S0201_270E,int,Estimate!!UNITS IN STRUCTURE!!Occupied housing units,S0201
+S0201_271E,float,"Estimate!!UNITS IN STRUCTURE!!Occupied housing units!!1-unit, detached or attached",S0201
+S0201_272E,float,Estimate!!UNITS IN STRUCTURE!!Occupied housing units!!2 to 4 units,S0201
+S0201_273E,float,Estimate!!UNITS IN STRUCTURE!!Occupied housing units!!5 or more units,S0201
+S0201_274E,float,"Estimate!!UNITS IN STRUCTURE!!Occupied housing units!!Mobile home, boat, RV, van, etc.",S0201
+S0201_275E,int,Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units,S0201
+S0201_276E,float,Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2014 or later,S0201
+S0201_277E,float,Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2010 to 2013,S0201
+S0201_278E,float,Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2000 to 2009,S0201
+S0201_279E,float,Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1980 to 1999,S0201
+S0201_280E,float,Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1960 to 1979,S0201
+S0201_281E,float,Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1940 to 1959,S0201
+S0201_282E,float,Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1939 or earlier,S0201
+S0201_283E,int,Estimate!!VEHICLES AVAILABLE!!Occupied housing units,S0201
+S0201_284E,float,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!None,S0201
+S0201_285E,float,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!1 or more,S0201
+S0201_286E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units,S0201
+S0201_287E,float,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Gas,S0201
+S0201_288E,float,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,S0201
+S0201_289E,float,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!All other fuels,S0201
+S0201_290E,float,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,S0201
+S0201_291E,int,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units,S0201
+S0201_292E,float,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,S0201
+S0201_293E,float,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!1.01 or more occupants per room,S0201
+S0201_294E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed),S0201
+S0201_295E,float,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed)!!Less than 30 percent,S0201
+S0201_296E,float,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed)!!30 percent or more,S0201
+S0201_297E,int,Estimate!!OWNER CHARACTERISTICS!!Owner-occupied housing units,S0201
+S0201_298E,int,Estimate!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median value (dollars),S0201
+S0201_299E,int,Estimate!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median selected monthly owner costs with a mortgage (dollars),S0201
+S0201_300E,int,Estimate!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median selected monthly owner costs without a mortgage (dollars),S0201
+S0201_301E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed),S0201
+S0201_302E,float,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 30 percent,S0201
+S0201_303E,float,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30 percent or more,S0201
+S0201_304E,int,Estimate!!GROSS RENT!!Occupied units paying rent,S0201
+S0201_305E,int,Estimate!!GROSS RENT!!Occupied units paying rent!!Median gross rent (dollars),S0201
+S0201_306E,int,Estimate!!COMPUTERS AND INTERNET USE!!Total households,S0201
+S0201_307E,float,Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer,S0201
+S0201_308E,float,Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription,S0201
+S0201_001M,int,Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population,S0201
+S0201_002M,float,Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population!!One race,S0201
+S0201_003M,float,Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Two races,S0201
+S0201_004M,float,Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Three races,S0201
+S0201_005M,float,Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Four or more races,S0201
+S0201_006M,int,Margin of Error!!SEX AND AGE!!Total population,S0201
+S0201_007M,float,Margin of Error!!SEX AND AGE!!Total population!!Male,S0201
+S0201_008M,float,Margin of Error!!SEX AND AGE!!Total population!!Female,S0201
+S0201_009M,float,Margin of Error!!SEX AND AGE!!Under 5 years,S0201
+S0201_010M,float,Margin of Error!!SEX AND AGE!!5 to 17 years,S0201
+S0201_011M,float,Margin of Error!!SEX AND AGE!!18 to 24 years,S0201
+S0201_012M,float,Margin of Error!!SEX AND AGE!!25 to 34 years,S0201
+S0201_013M,float,Margin of Error!!SEX AND AGE!!35 to 44 years,S0201
+S0201_014M,float,Margin of Error!!SEX AND AGE!!45 to 54 years,S0201
+S0201_015M,float,Margin of Error!!SEX AND AGE!!55 to 64 years,S0201
+S0201_016M,float,Margin of Error!!SEX AND AGE!!65 to 74 years,S0201
+S0201_017M,float,Margin of Error!!SEX AND AGE!!75 years and over,S0201
+S0201_018M,float,Margin of Error!!SEX AND AGE!!Median age (years),S0201
+S0201_019M,float,Margin of Error!!SEX AND AGE!!18 years and over,S0201
+S0201_020M,float,Margin of Error!!SEX AND AGE!!21 years and over,S0201
+S0201_021M,float,Margin of Error!!SEX AND AGE!!62 years and over,S0201
+S0201_022M,float,Margin of Error!!SEX AND AGE!!65 years and over,S0201
+S0201_023M,int,Margin of Error!!SEX AND AGE!!Under 18 years,S0201
+S0201_024M,float,Margin of Error!!SEX AND AGE!!Under 18 years!!Male,S0201
+S0201_025M,float,Margin of Error!!SEX AND AGE!!Under 18 years!!Female,S0201
+S0201_026M,int,Margin of Error!!SEX AND AGE!!18 years and over,S0201
+S0201_027M,float,Margin of Error!!SEX AND AGE!!18 years and over!!Male,S0201
+S0201_028M,float,Margin of Error!!SEX AND AGE!!18 years and over!!Female,S0201
+S0201_029M,int,Margin of Error!!SEX AND AGE!!18 to 34 years,S0201
+S0201_030M,float,Margin of Error!!SEX AND AGE!!18 to 34 years!!Male,S0201
+S0201_031M,float,Margin of Error!!SEX AND AGE!!18 to 34 years!!Female,S0201
+S0201_032M,int,Margin of Error!!SEX AND AGE!!35 to 64 years,S0201
+S0201_033M,float,Margin of Error!!SEX AND AGE!!35 to 64 years!!Male,S0201
+S0201_034M,float,Margin of Error!!SEX AND AGE!!35 to 64 years!!Female,S0201
+S0201_035M,int,Margin of Error!!SEX AND AGE!!65 years and over,S0201
+S0201_036M,float,Margin of Error!!SEX AND AGE!!65 years and over!!Male,S0201
+S0201_037M,float,Margin of Error!!SEX AND AGE!!65 years and over!!Female,S0201
+S0201_038M,int,Margin of Error!!RELATIONSHIP!!Population in households,S0201
+S0201_039M,float,Margin of Error!!RELATIONSHIP!!Population in households!!Householder or spouse,S0201
+S0201_040M,float,Margin of Error!!RELATIONSHIP!!Population in households!!Child,S0201
+S0201_041M,float,Margin of Error!!RELATIONSHIP!!Population in households!!Other relatives,S0201
+S0201_042M,float,Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives,S0201
+S0201_043M,float,Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0201
+S0201_044M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Households,S0201
+S0201_045M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0201
+S0201_046M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!With own children of the householder under 18 years,S0201
+S0201_047M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0201
+S0201_048M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family!!With own children of the householder under 18 years,S0201
+S0201_049M,float,"Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0201
+S0201_050M,float,"Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family!!With own children of the householder under 18 years",S0201
+S0201_051M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0201
+S0201_052M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder,S0201
+S0201_053M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder!!Living alone,S0201
+S0201_054M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder!!Not living alone,S0201
+S0201_055M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder,S0201
+S0201_056M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder!!Living alone,S0201
+S0201_057M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder!!Not living alone,S0201
+S0201_058M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Average household size,S0201
+S0201_059M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Average family size,S0201
+S0201_060M,int,Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0201
+S0201_061M,float,"Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0201
+S0201_062M,float,Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0201
+S0201_063M,float,Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0201
+S0201_064M,float,Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S0201
+S0201_065M,float,Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0201
+S0201_066M,int,Margin of Error!!MARITAL STATUS!!Male 15 years and over,S0201
+S0201_067M,float,"Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Now married, except separated",S0201
+S0201_068M,float,Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Widowed,S0201
+S0201_069M,float,Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Divorced,S0201
+S0201_070M,float,Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Separated,S0201
+S0201_071M,float,Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Never married,S0201
+S0201_072M,int,Margin of Error!!MARITAL STATUS!!Female 15 years and over,S0201
+S0201_073M,float,"Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Now married, except separated",S0201
+S0201_074M,float,Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Widowed,S0201
+S0201_075M,float,Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Divorced,S0201
+S0201_076M,float,Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Separated,S0201
+S0201_077M,float,Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Never married,S0201
+S0201_078M,int,Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S0201
+S0201_079M,float,"Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool",S0201
+S0201_080M,float,Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten,S0201
+S0201_081M,float,Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8),S0201
+S0201_082M,float,Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12),S0201
+S0201_083M,float,Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S0201
+S0201_084M,int,Margin of Error!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school,S0201
+S0201_085M,float,Margin of Error!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school!!Percent enrolled in kindergarten to grade 12,S0201
+S0201_086M,float,Margin of Error!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school!!Percent enrolled in college or graduate school,S0201
+S0201_087M,int,Margin of Error!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school,S0201
+S0201_088M,float,Margin of Error!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school!!Percent enrolled in kindergarten to grade 12,S0201
+S0201_089M,float,Margin of Error!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school!!Percent enrolled in college or graduate school,S0201
+S0201_090M,int,Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0201
+S0201_091M,float,Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school diploma,S0201
+S0201_092M,float,Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0201
+S0201_093M,float,Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0201
+S0201_094M,float,Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0201
+S0201_095M,float,Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0201
+S0201_096M,float,Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate or higher,S0201
+S0201_097M,float,"Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate or higher!!Male, high school graduate or higher",S0201
+S0201_098M,float,"Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate or higher!!Female, high school graduate or higher",S0201
+S0201_099M,float,Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S0201
+S0201_100M,float,"Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher!!Male, bachelor's degree or higher",S0201
+S0201_101M,float,"Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher!!Female, bachelor's degree or higher",S0201
+S0201_102M,int,Margin of Error!!FERTILITY!!Women 15 to 50 years,S0201
+S0201_103M,int,Margin of Error!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months,S0201
+S0201_104M,int,Margin of Error!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months!!Unmarried women 15 to 50 years who had a birth in the past 12 months,S0201
+S0201_105M,float,Margin of Error!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months!!Unmarried women 15 to 50 years who had a birth in the past 12 months!!As a percent of all women with a birth in the past 12 months,S0201
+S0201_106M,int,Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0201
+S0201_107M,float,Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Grandparents living with grandchild(ren),S0201
+S0201_108M,float,Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Grandparents living with grandchild(ren)!!Grandparents responsible for grandchildren as a percentage of living with grandchildren,S0201
+S0201_109M,int,Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S0201
+S0201_110M,float,Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0201
+S0201_111M,int,Margin of Error!!DISABILITY STATUS!!Total civilian noninstitutionalized population,S0201
+S0201_112M,float,Margin of Error!!DISABILITY STATUS!!Total civilian noninstitutionalized population!!With a disability,S0201
+S0201_113M,int,Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population under 18 years,S0201
+S0201_114M,float,Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population under 18 years!!With a disability,S0201
+S0201_115M,int,Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population 18 to 64 years,S0201
+S0201_116M,float,Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population 18 to 64 years!!With a disability,S0201
+S0201_117M,int,Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population 65 years and older,S0201
+S0201_118M,float,Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population 65 years and older!!With a disability,S0201
+S0201_119M,int,Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0201
+S0201_120M,float,Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0201
+S0201_121M,float,Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.,S0201
+S0201_122M,float,Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Same county,S0201
+S0201_123M,float,Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county,S0201
+S0201_124M,float,Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Same state,S0201
+S0201_125M,float,Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Different state,S0201
+S0201_126M,float,Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0201
+S0201_127M,int,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native",S0201
+S0201_128M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native!!Male",S0201
+S0201_129M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native!!Female",S0201
+S0201_130M,int,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born",S0201
+S0201_131M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born!!Male",S0201
+S0201_132M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born!!Female",S0201
+S0201_133M,int,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen",S0201
+S0201_134M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen!!Male",S0201
+S0201_135M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen!!Female",S0201
+S0201_136M,int,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen",S0201
+S0201_137M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen!!Male",S0201
+S0201_138M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen!!Female",S0201
+S0201_139M,int,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States",S0201
+S0201_140M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered 2010 or later",S0201
+S0201_141M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered 2000 to 2009",S0201
+S0201_142M,float,"Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered before 2000",S0201
+S0201_143M,int,Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea,S0201
+S0201_144M,float,Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Europe,S0201
+S0201_145M,float,Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Asia,S0201
+S0201_146M,float,Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Africa,S0201
+S0201_147M,float,Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Oceania,S0201
+S0201_148M,float,Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Latin America,S0201
+S0201_149M,float,Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Northern America,S0201
+S0201_150M,int,Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0201
+S0201_151M,float,Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0201
+S0201_152M,float,Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0201
+S0201_153M,float,"Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0201
+S0201_154M,int,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,S0201
+S0201_155M,float,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S0201
+S0201_156M,float,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S0201
+S0201_157M,float,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S0201
+S0201_158M,float,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S0201
+S0201_159M,float,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Unemployment Rate,S0201
+S0201_160M,float,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S0201
+S0201_161M,float,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S0201
+S0201_162M,int,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over,S0201
+S0201_163M,float,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,S0201
+S0201_164M,float,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,S0201
+S0201_165M,float,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,S0201
+S0201_166M,float,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S0201
+S0201_167M,float,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Unemployment Rate,S0201
+S0201_168M,int,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over,S0201
+S0201_169M,float,"Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van - drove alone",S0201
+S0201_170M,float,"Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van - carpooled",S0201
+S0201_171M,float,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),S0201
+S0201_172M,float,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,S0201
+S0201_173M,float,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,S0201
+S0201_174M,float,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,S0201
+S0201_175M,float,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),S0201
+S0201_176M,int,Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over,S0201
+S0201_177M,float,"Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_178M,float,Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S0201
+S0201_179M,float,Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_180M,float,"Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_181M,float,"Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_182M,int,Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over,S0201
+S0201_183M,float,"Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_184M,float,Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Service occupations,S0201
+S0201_185M,float,Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_186M,float,"Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_187M,float,"Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_188M,int,Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over,S0201
+S0201_189M,float,"Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_190M,float,Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Service occupations,S0201
+S0201_191M,float,Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_192M,float,"Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_193M,float,"Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_194M,int,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over,S0201
+S0201_195M,float,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",S0201
+S0201_196M,float,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,S0201
+S0201_197M,float,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,S0201
+S0201_198M,float,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,S0201
+S0201_199M,float,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,S0201
+S0201_200M,float,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",S0201
+S0201_201M,float,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Information,S0201
+S0201_202M,float,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",S0201
+S0201_203M,float,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",S0201
+S0201_204M,float,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",S0201
+S0201_205M,float,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",S0201
+S0201_206M,float,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Other services (except public administration),S0201
+S0201_207M,float,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,S0201
+S0201_208M,int,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over,S0201
+S0201_209M,float,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,S0201
+S0201_210M,float,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,S0201
+S0201_211M,float,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed workers in own not incorporated business,S0201
+S0201_212M,float,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,S0201
+S0201_213M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Households,S0201
+S0201_214M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Households!!Median household income (dollars),S0201
+S0201_215M,float,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings,S0201
+S0201_216M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings!!Mean earnings (dollars),S0201
+S0201_217M,float,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Social Security income,S0201
+S0201_218M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Social Security income!!Mean Social Security income (dollars),S0201
+S0201_219M,float,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income,S0201
+S0201_220M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0201
+S0201_221M,float,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income,S0201
+S0201_222M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income!!Mean cash public assistance income (dollars),S0201
+S0201_223M,float,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With retirement income,S0201
+S0201_224M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With retirement income!!Mean retirement income (dollars),S0201
+S0201_225M,float,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Food Stamp/SNAP benefits,S0201
+S0201_226M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families,S0201
+S0201_227M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),S0201
+S0201_228M,float,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars)!!Married-couple family,S0201
+S0201_229M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_230M,float,"Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars)!!Male householder, no spouse present, family",S0201
+S0201_231M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_232M,float,"Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars)!!Female householder, no husband present, family",S0201
+S0201_233M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_234M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Individuals,S0201
+S0201_235M,int,Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S0201
+S0201_236M,int,"Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings for full-time, year-round workers!!Male",S0201
+S0201_237M,int,"Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings for full-time, year-round workers!!Female",S0201
+S0201_238M,int,"Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars) for full-time, year-round workers!!Male",S0201
+S0201_239M,int,"Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars) for full-time, year-round workers!!Female",S0201
+S0201_240M,int,"Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Median earnings (dollars) full-time, year-round workers!!Male",S0201
+S0201_241M,int,"Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Median earnings (dollars) full-time, year-round workers!!Female",S0201
+S0201_242M,int,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,S0201
+S0201_243M,float,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With private health insurance,S0201
+S0201_244M,float,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With public coverage,S0201
+S0201_245M,float,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,S0201
+S0201_246M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families,S0201
+S0201_247M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!With related children of the householder under 18 years,S0201
+S0201_248M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,S0201
+S0201_249M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family,S0201
+S0201_250M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family!!With related children of the householder under 18 years,S0201
+S0201_251M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,S0201
+S0201_252M,float,"Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family",S0201
+S0201_253M,float,"Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family!!With related children of the householder under 18 years",S0201
+S0201_254M,float,"Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",S0201
+S0201_255M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S0201
+S0201_256M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years,S0201
+S0201_257M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years,S0201
+S0201_258M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,S0201
+S0201_259M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,S0201
+S0201_260M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S0201
+S0201_261M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S0201
+S0201_262M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S0201
+S0201_263M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!People in families,S0201
+S0201_264M,float,Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Unrelated individuals 15 years and over,S0201
+S0201_265M,int,Margin of Error!!HOUSING TENURE!!Occupied housing units,S0201
+S0201_266M,float,Margin of Error!!HOUSING TENURE!!Occupied housing units!!Owner-occupied housing units,S0201
+S0201_267M,float,Margin of Error!!HOUSING TENURE!!Occupied housing units!!Renter-occupied housing units,S0201
+S0201_268M,float,Margin of Error!!HOUSING TENURE!!Average household size of owner-occupied unit,S0201
+S0201_269M,float,Margin of Error!!HOUSING TENURE!!Average household size of renter-occupied unit,S0201
+S0201_270M,int,Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units,S0201
+S0201_271M,float,"Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units!!1-unit, detached or attached",S0201
+S0201_272M,float,Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units!!2 to 4 units,S0201
+S0201_273M,float,Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units!!5 or more units,S0201
+S0201_274M,float,"Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units!!Mobile home, boat, RV, van, etc.",S0201
+S0201_275M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units,S0201
+S0201_276M,float,Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2014 or later,S0201
+S0201_277M,float,Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2010 to 2013,S0201
+S0201_278M,float,Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2000 to 2009,S0201
+S0201_279M,float,Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1980 to 1999,S0201
+S0201_280M,float,Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1960 to 1979,S0201
+S0201_281M,float,Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1940 to 1959,S0201
+S0201_282M,float,Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1939 or earlier,S0201
+S0201_283M,int,Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units,S0201
+S0201_284M,float,Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!None,S0201
+S0201_285M,float,Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!1 or more,S0201
+S0201_286M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units,S0201
+S0201_287M,float,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Gas,S0201
+S0201_288M,float,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,S0201
+S0201_289M,float,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!All other fuels,S0201
+S0201_290M,float,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,S0201
+S0201_291M,int,Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units,S0201
+S0201_292M,float,Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,S0201
+S0201_293M,float,Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!1.01 or more occupants per room,S0201
+S0201_294M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed),S0201
+S0201_295M,float,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed)!!Less than 30 percent,S0201
+S0201_296M,float,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed)!!30 percent or more,S0201
+S0201_297M,int,Margin of Error!!OWNER CHARACTERISTICS!!Owner-occupied housing units,S0201
+S0201_298M,int,Margin of Error!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median value (dollars),S0201
+S0201_299M,int,Margin of Error!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median selected monthly owner costs with a mortgage (dollars),S0201
+S0201_300M,int,Margin of Error!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median selected monthly owner costs without a mortgage (dollars),S0201
+S0201_301M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed),S0201
+S0201_302M,float,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 30 percent,S0201
+S0201_303M,float,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30 percent or more,S0201
+S0201_304M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent,S0201
+S0201_305M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent!!Median gross rent (dollars),S0201
+S0201_306M,int,Margin of Error!!COMPUTERS AND INTERNET USE!!Total households,S0201
+S0201_307M,float,Margin of Error!!COMPUTERS AND INTERNET USE!!Total households!!With a computer,S0201
+S0201_308M,float,Margin of Error!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription,S0201
+S0201_001EA,string,Annotation of Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population,S0201
+S0201_001MA,string,Annotation of Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population,S0201
+S0201_002EA,string,Annotation of Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population!!One race,S0201
+S0201_002MA,string,Annotation of Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population!!One race,S0201
+S0201_003EA,string,Annotation of Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Two races,S0201
+S0201_003MA,string,Annotation of Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Two races,S0201
+S0201_004EA,string,Annotation of Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Three races,S0201
+S0201_004MA,string,Annotation of Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Three races,S0201
+S0201_005EA,string,Annotation of Estimate!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Four or more races,S0201
+S0201_005MA,string,Annotation of Margin of Error!!TOTAL NUMBER OF RACES REPORTED!!Total population!!Four or more races,S0201
+S0201_006EA,string,Annotation of Estimate!!SEX AND AGE!!Total population,S0201
+S0201_006MA,string,Annotation of Margin of Error!!SEX AND AGE!!Total population,S0201
+S0201_007EA,string,Annotation of Estimate!!SEX AND AGE!!Total population!!Male,S0201
+S0201_007MA,string,Annotation of Margin of Error!!SEX AND AGE!!Total population!!Male,S0201
+S0201_008EA,string,Annotation of Estimate!!SEX AND AGE!!Total population!!Female,S0201
+S0201_008MA,string,Annotation of Margin of Error!!SEX AND AGE!!Total population!!Female,S0201
+S0201_009EA,string,Annotation of Estimate!!SEX AND AGE!!Under 5 years,S0201
+S0201_009MA,string,Annotation of Margin of Error!!SEX AND AGE!!Under 5 years,S0201
+S0201_010EA,string,Annotation of Estimate!!SEX AND AGE!!5 to 17 years,S0201
+S0201_010MA,string,Annotation of Margin of Error!!SEX AND AGE!!5 to 17 years,S0201
+S0201_011EA,string,Annotation of Estimate!!SEX AND AGE!!18 to 24 years,S0201
+S0201_011MA,string,Annotation of Margin of Error!!SEX AND AGE!!18 to 24 years,S0201
+S0201_012EA,string,Annotation of Estimate!!SEX AND AGE!!25 to 34 years,S0201
+S0201_012MA,string,Annotation of Margin of Error!!SEX AND AGE!!25 to 34 years,S0201
+S0201_013EA,string,Annotation of Estimate!!SEX AND AGE!!35 to 44 years,S0201
+S0201_013MA,string,Annotation of Margin of Error!!SEX AND AGE!!35 to 44 years,S0201
+S0201_014EA,string,Annotation of Estimate!!SEX AND AGE!!45 to 54 years,S0201
+S0201_014MA,string,Annotation of Margin of Error!!SEX AND AGE!!45 to 54 years,S0201
+S0201_015EA,string,Annotation of Estimate!!SEX AND AGE!!55 to 64 years,S0201
+S0201_015MA,string,Annotation of Margin of Error!!SEX AND AGE!!55 to 64 years,S0201
+S0201_016EA,string,Annotation of Estimate!!SEX AND AGE!!65 to 74 years,S0201
+S0201_016MA,string,Annotation of Margin of Error!!SEX AND AGE!!65 to 74 years,S0201
+S0201_017EA,string,Annotation of Estimate!!SEX AND AGE!!75 years and over,S0201
+S0201_017MA,string,Annotation of Margin of Error!!SEX AND AGE!!75 years and over,S0201
+S0201_018EA,string,Annotation of Estimate!!SEX AND AGE!!Median age (years),S0201
+S0201_018MA,string,Annotation of Margin of Error!!SEX AND AGE!!Median age (years),S0201
+S0201_019EA,string,Annotation of Estimate!!SEX AND AGE!!18 years and over,S0201
+S0201_019MA,string,Annotation of Margin of Error!!SEX AND AGE!!18 years and over,S0201
+S0201_020EA,string,Annotation of Estimate!!SEX AND AGE!!21 years and over,S0201
+S0201_020MA,string,Annotation of Margin of Error!!SEX AND AGE!!21 years and over,S0201
+S0201_021EA,string,Annotation of Estimate!!SEX AND AGE!!62 years and over,S0201
+S0201_021MA,string,Annotation of Margin of Error!!SEX AND AGE!!62 years and over,S0201
+S0201_022EA,string,Annotation of Estimate!!SEX AND AGE!!65 years and over,S0201
+S0201_022MA,string,Annotation of Margin of Error!!SEX AND AGE!!65 years and over,S0201
+S0201_023EA,string,Annotation of Estimate!!SEX AND AGE!!Under 18 years,S0201
+S0201_023MA,string,Annotation of Margin of Error!!SEX AND AGE!!Under 18 years,S0201
+S0201_024EA,string,Annotation of Estimate!!SEX AND AGE!!Under 18 years!!Male,S0201
+S0201_024MA,string,Annotation of Margin of Error!!SEX AND AGE!!Under 18 years!!Male,S0201
+S0201_025EA,string,Annotation of Estimate!!SEX AND AGE!!Under 18 years!!Female,S0201
+S0201_025MA,string,Annotation of Margin of Error!!SEX AND AGE!!Under 18 years!!Female,S0201
+S0201_026EA,string,Annotation of Estimate!!SEX AND AGE!!18 years and over,S0201
+S0201_026MA,string,Annotation of Margin of Error!!SEX AND AGE!!18 years and over,S0201
+S0201_027EA,string,Annotation of Estimate!!SEX AND AGE!!18 years and over!!Male,S0201
+S0201_027MA,string,Annotation of Margin of Error!!SEX AND AGE!!18 years and over!!Male,S0201
+S0201_028EA,string,Annotation of Estimate!!SEX AND AGE!!18 years and over!!Female,S0201
+S0201_028MA,string,Annotation of Margin of Error!!SEX AND AGE!!18 years and over!!Female,S0201
+S0201_029EA,string,Annotation of Estimate!!SEX AND AGE!!18 to 34 years,S0201
+S0201_029MA,string,Annotation of Margin of Error!!SEX AND AGE!!18 to 34 years,S0201
+S0201_030EA,string,Annotation of Estimate!!SEX AND AGE!!18 to 34 years!!Male,S0201
+S0201_030MA,string,Annotation of Margin of Error!!SEX AND AGE!!18 to 34 years!!Male,S0201
+S0201_031EA,string,Annotation of Estimate!!SEX AND AGE!!18 to 34 years!!Female,S0201
+S0201_031MA,string,Annotation of Margin of Error!!SEX AND AGE!!18 to 34 years!!Female,S0201
+S0201_032EA,string,Annotation of Estimate!!SEX AND AGE!!35 to 64 years,S0201
+S0201_032MA,string,Annotation of Margin of Error!!SEX AND AGE!!35 to 64 years,S0201
+S0201_033EA,string,Annotation of Estimate!!SEX AND AGE!!35 to 64 years!!Male,S0201
+S0201_033MA,string,Annotation of Margin of Error!!SEX AND AGE!!35 to 64 years!!Male,S0201
+S0201_034EA,string,Annotation of Estimate!!SEX AND AGE!!35 to 64 years!!Female,S0201
+S0201_034MA,string,Annotation of Margin of Error!!SEX AND AGE!!35 to 64 years!!Female,S0201
+S0201_035EA,string,Annotation of Estimate!!SEX AND AGE!!65 years and over,S0201
+S0201_035MA,string,Annotation of Margin of Error!!SEX AND AGE!!65 years and over,S0201
+S0201_036EA,string,Annotation of Estimate!!SEX AND AGE!!65 years and over!!Male,S0201
+S0201_036MA,string,Annotation of Margin of Error!!SEX AND AGE!!65 years and over!!Male,S0201
+S0201_037EA,string,Annotation of Estimate!!SEX AND AGE!!65 years and over!!Female,S0201
+S0201_037MA,string,Annotation of Margin of Error!!SEX AND AGE!!65 years and over!!Female,S0201
+S0201_038EA,string,Annotation of Estimate!!RELATIONSHIP!!Population in households,S0201
+S0201_038MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Population in households,S0201
+S0201_039EA,string,Annotation of Estimate!!RELATIONSHIP!!Population in households!!Householder or spouse,S0201
+S0201_039MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Population in households!!Householder or spouse,S0201
+S0201_040EA,string,Annotation of Estimate!!RELATIONSHIP!!Population in households!!Child,S0201
+S0201_040MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Population in households!!Child,S0201
+S0201_041EA,string,Annotation of Estimate!!RELATIONSHIP!!Population in households!!Other relatives,S0201
+S0201_041MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Population in households!!Other relatives,S0201
+S0201_042EA,string,Annotation of Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives,S0201
+S0201_042MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives,S0201
+S0201_043EA,string,Annotation of Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0201
+S0201_043MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0201
+S0201_044EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households,S0201
+S0201_044MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households,S0201
+S0201_045EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0201
+S0201_045MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0201
+S0201_046EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!With own children of the householder under 18 years,S0201
+S0201_046MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!With own children of the householder under 18 years,S0201
+S0201_047EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0201
+S0201_047MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0201
+S0201_048EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family!!With own children of the householder under 18 years,S0201
+S0201_048MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family!!With own children of the householder under 18 years,S0201
+S0201_049EA,string,"Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0201
+S0201_049MA,string,"Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0201
+S0201_050EA,string,"Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family!!With own children of the householder under 18 years",S0201
+S0201_050MA,string,"Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family!!With own children of the householder under 18 years",S0201
+S0201_051EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0201
+S0201_051MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0201
+S0201_052EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder,S0201
+S0201_052MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder,S0201
+S0201_053EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder!!Living alone,S0201
+S0201_053MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder!!Living alone,S0201
+S0201_054EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder!!Not living alone,S0201
+S0201_054MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Male householder!!Not living alone,S0201
+S0201_055EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder,S0201
+S0201_055MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder,S0201
+S0201_056EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder!!Living alone,S0201
+S0201_056MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder!!Living alone,S0201
+S0201_057EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder!!Not living alone,S0201
+S0201_057MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Female householder!!Not living alone,S0201
+S0201_058EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Average household size,S0201
+S0201_058MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Average household size,S0201
+S0201_059EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Average family size,S0201
+S0201_059MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Average family size,S0201
+S0201_060EA,string,Annotation of Estimate!!MARITAL STATUS!!Population 15 years and over,S0201
+S0201_060MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0201
+S0201_061EA,string,"Annotation of Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0201
+S0201_061MA,string,"Annotation of Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0201
+S0201_062EA,string,Annotation of Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0201
+S0201_062MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0201
+S0201_063EA,string,Annotation of Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0201
+S0201_063MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0201
+S0201_064EA,string,Annotation of Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S0201
+S0201_064MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S0201
+S0201_065EA,string,Annotation of Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0201
+S0201_065MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0201
+S0201_066EA,string,Annotation of Estimate!!MARITAL STATUS!!Male 15 years and over,S0201
+S0201_066MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Male 15 years and over,S0201
+S0201_067EA,string,"Annotation of Estimate!!MARITAL STATUS!!Male 15 years and over!!Now married, except separated",S0201
+S0201_067MA,string,"Annotation of Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Now married, except separated",S0201
+S0201_068EA,string,Annotation of Estimate!!MARITAL STATUS!!Male 15 years and over!!Widowed,S0201
+S0201_068MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Widowed,S0201
+S0201_069EA,string,Annotation of Estimate!!MARITAL STATUS!!Male 15 years and over!!Divorced,S0201
+S0201_069MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Divorced,S0201
+S0201_070EA,string,Annotation of Estimate!!MARITAL STATUS!!Male 15 years and over!!Separated,S0201
+S0201_070MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Separated,S0201
+S0201_071EA,string,Annotation of Estimate!!MARITAL STATUS!!Male 15 years and over!!Never married,S0201
+S0201_071MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Male 15 years and over!!Never married,S0201
+S0201_072EA,string,Annotation of Estimate!!MARITAL STATUS!!Female 15 years and over,S0201
+S0201_072MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Female 15 years and over,S0201
+S0201_073EA,string,"Annotation of Estimate!!MARITAL STATUS!!Female 15 years and over!!Now married, except separated",S0201
+S0201_073MA,string,"Annotation of Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Now married, except separated",S0201
+S0201_074EA,string,Annotation of Estimate!!MARITAL STATUS!!Female 15 years and over!!Widowed,S0201
+S0201_074MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Widowed,S0201
+S0201_075EA,string,Annotation of Estimate!!MARITAL STATUS!!Female 15 years and over!!Divorced,S0201
+S0201_075MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Divorced,S0201
+S0201_076EA,string,Annotation of Estimate!!MARITAL STATUS!!Female 15 years and over!!Separated,S0201
+S0201_076MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Separated,S0201
+S0201_077EA,string,Annotation of Estimate!!MARITAL STATUS!!Female 15 years and over!!Never married,S0201
+S0201_077MA,string,Annotation of Margin of Error!!MARITAL STATUS!!Female 15 years and over!!Never married,S0201
+S0201_078EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S0201
+S0201_078MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S0201
+S0201_079EA,string,"Annotation of Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool",S0201
+S0201_079MA,string,"Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool",S0201
+S0201_080EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten,S0201
+S0201_080MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten,S0201
+S0201_081EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8),S0201
+S0201_081MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8),S0201
+S0201_082EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12),S0201
+S0201_082MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12),S0201
+S0201_083EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S0201
+S0201_083MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S0201
+S0201_084EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school,S0201
+S0201_084MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school,S0201
+S0201_085EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school!!Percent enrolled in kindergarten to grade 12,S0201
+S0201_085MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school!!Percent enrolled in kindergarten to grade 12,S0201
+S0201_086EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school!!Percent enrolled in college or graduate school,S0201
+S0201_086MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Male 3 years and over enrolled in school!!Percent enrolled in college or graduate school,S0201
+S0201_087EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school,S0201
+S0201_087MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school,S0201
+S0201_088EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school!!Percent enrolled in kindergarten to grade 12,S0201
+S0201_088MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school!!Percent enrolled in kindergarten to grade 12,S0201
+S0201_089EA,string,Annotation of Estimate!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school!!Percent enrolled in college or graduate school,S0201
+S0201_089MA,string,Annotation of Margin of Error!!SCHOOL ENROLLMENT!!Female 3 years and over enrolled in school!!Percent enrolled in college or graduate school,S0201
+S0201_090EA,string,Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0201
+S0201_090MA,string,Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0201
+S0201_091EA,string,Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school diploma,S0201
+S0201_091MA,string,Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school diploma,S0201
+S0201_092EA,string,Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0201
+S0201_092MA,string,Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0201
+S0201_093EA,string,Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0201
+S0201_093MA,string,Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0201
+S0201_094EA,string,Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0201
+S0201_094MA,string,Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0201
+S0201_095EA,string,Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0201
+S0201_095MA,string,Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0201
+S0201_096EA,string,Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate or higher,S0201
+S0201_096MA,string,Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate or higher,S0201
+S0201_097EA,string,"Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate or higher!!Male, high school graduate or higher",S0201
+S0201_097MA,string,"Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate or higher!!Male, high school graduate or higher",S0201
+S0201_098EA,string,"Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate or higher!!Female, high school graduate or higher",S0201
+S0201_098MA,string,"Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate or higher!!Female, high school graduate or higher",S0201
+S0201_099EA,string,Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S0201
+S0201_099MA,string,Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S0201
+S0201_100EA,string,"Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher!!Male, bachelor's degree or higher",S0201
+S0201_100MA,string,"Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher!!Male, bachelor's degree or higher",S0201
+S0201_101EA,string,"Annotation of Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher!!Female, bachelor's degree or higher",S0201
+S0201_101MA,string,"Annotation of Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher!!Female, bachelor's degree or higher",S0201
+S0201_102EA,string,Annotation of Estimate!!FERTILITY!!Women 15 to 50 years,S0201
+S0201_102MA,string,Annotation of Margin of Error!!FERTILITY!!Women 15 to 50 years,S0201
+S0201_103EA,string,Annotation of Estimate!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months,S0201
+S0201_103MA,string,Annotation of Margin of Error!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months,S0201
+S0201_104EA,string,Annotation of Estimate!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months!!Unmarried women 15 to 50 years who had a birth in the past 12 months,S0201
+S0201_104MA,string,Annotation of Margin of Error!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months!!Unmarried women 15 to 50 years who had a birth in the past 12 months,S0201
+S0201_105EA,string,Annotation of Estimate!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months!!Unmarried women 15 to 50 years who had a birth in the past 12 months!!As a percent of all women with a birth in the past 12 months,S0201
+S0201_105MA,string,Annotation of Margin of Error!!FERTILITY!!Women 15 to 50 years!!Women 15 to 50 years who had a birth in the past 12 months!!Unmarried women 15 to 50 years who had a birth in the past 12 months!!As a percent of all women with a birth in the past 12 months,S0201
+S0201_106EA,string,Annotation of Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0201
+S0201_106MA,string,Annotation of Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0201
+S0201_107EA,string,Annotation of Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Grandparents living with grandchild(ren),S0201
+S0201_107MA,string,Annotation of Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Grandparents living with grandchild(ren),S0201
+S0201_108EA,string,Annotation of Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Grandparents living with grandchild(ren)!!Grandparents responsible for grandchildren as a percentage of living with grandchildren,S0201
+S0201_108MA,string,Annotation of Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Grandparents living with grandchild(ren)!!Grandparents responsible for grandchildren as a percentage of living with grandchildren,S0201
+S0201_109EA,string,Annotation of Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S0201
+S0201_109MA,string,Annotation of Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S0201
+S0201_110EA,string,Annotation of Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0201
+S0201_110MA,string,Annotation of Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0201
+S0201_111EA,string,Annotation of Estimate!!DISABILITY STATUS!!Total civilian noninstitutionalized population,S0201
+S0201_111MA,string,Annotation of Margin of Error!!DISABILITY STATUS!!Total civilian noninstitutionalized population,S0201
+S0201_112EA,string,Annotation of Estimate!!DISABILITY STATUS!!Total civilian noninstitutionalized population!!With a disability,S0201
+S0201_112MA,string,Annotation of Margin of Error!!DISABILITY STATUS!!Total civilian noninstitutionalized population!!With a disability,S0201
+S0201_113EA,string,Annotation of Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population under 18 years,S0201
+S0201_113MA,string,Annotation of Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population under 18 years,S0201
+S0201_114EA,string,Annotation of Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population under 18 years!!With a disability,S0201
+S0201_114MA,string,Annotation of Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population under 18 years!!With a disability,S0201
+S0201_115EA,string,Annotation of Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population 18 to 64 years,S0201
+S0201_115MA,string,Annotation of Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population 18 to 64 years,S0201
+S0201_116EA,string,Annotation of Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population 18 to 64 years!!With a disability,S0201
+S0201_116MA,string,Annotation of Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population 18 to 64 years!!With a disability,S0201
+S0201_117EA,string,Annotation of Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population 65 years and older,S0201
+S0201_117MA,string,Annotation of Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population 65 years and older,S0201
+S0201_118EA,string,Annotation of Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population 65 years and older!!With a disability,S0201
+S0201_118MA,string,Annotation of Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population 65 years and older!!With a disability,S0201
+S0201_119EA,string,Annotation of Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0201
+S0201_119MA,string,Annotation of Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0201
+S0201_120EA,string,Annotation of Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0201
+S0201_120MA,string,Annotation of Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0201
+S0201_121EA,string,Annotation of Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.,S0201
+S0201_121MA,string,Annotation of Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.,S0201
+S0201_122EA,string,Annotation of Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Same county,S0201
+S0201_122MA,string,Annotation of Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Same county,S0201
+S0201_123EA,string,Annotation of Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county,S0201
+S0201_123MA,string,Annotation of Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county,S0201
+S0201_124EA,string,Annotation of Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Same state,S0201
+S0201_124MA,string,Annotation of Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Same state,S0201
+S0201_125EA,string,Annotation of Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Different state,S0201
+S0201_125MA,string,Annotation of Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Different state,S0201
+S0201_126EA,string,Annotation of Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0201
+S0201_126MA,string,Annotation of Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0201
+S0201_127EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native",S0201
+S0201_127MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native",S0201
+S0201_128EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native!!Male",S0201
+S0201_128MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native!!Male",S0201
+S0201_129EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native!!Female",S0201
+S0201_129MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Native!!Female",S0201
+S0201_130EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born",S0201
+S0201_130MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born",S0201
+S0201_131EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born!!Male",S0201
+S0201_131MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born!!Male",S0201
+S0201_132EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born!!Female",S0201
+S0201_132MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born!!Female",S0201
+S0201_133EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen",S0201
+S0201_133MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen",S0201
+S0201_134EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen!!Male",S0201
+S0201_134MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen!!Male",S0201
+S0201_135EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen!!Female",S0201
+S0201_135MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; naturalized U.S. citizen!!Female",S0201
+S0201_136EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen",S0201
+S0201_136MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen",S0201
+S0201_137EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen!!Male",S0201
+S0201_137MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen!!Male",S0201
+S0201_138EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen!!Female",S0201
+S0201_138MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Foreign born; not a U.S. citizen!!Female",S0201
+S0201_139EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States",S0201
+S0201_139MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States",S0201
+S0201_140EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered 2010 or later",S0201
+S0201_140MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered 2010 or later",S0201
+S0201_141EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered 2000 to 2009",S0201
+S0201_141MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered 2000 to 2009",S0201
+S0201_142EA,string,"Annotation of Estimate!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered before 2000",S0201
+S0201_142MA,string,"Annotation of Margin of Error!!PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY!!Population born outside the United States!!Entered before 2000",S0201
+S0201_143EA,string,Annotation of Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea,S0201
+S0201_143MA,string,Annotation of Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea,S0201
+S0201_144EA,string,Annotation of Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Europe,S0201
+S0201_144MA,string,Annotation of Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Europe,S0201
+S0201_145EA,string,Annotation of Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Asia,S0201
+S0201_145MA,string,Annotation of Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Asia,S0201
+S0201_146EA,string,Annotation of Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Africa,S0201
+S0201_146MA,string,Annotation of Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Africa,S0201
+S0201_147EA,string,Annotation of Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Oceania,S0201
+S0201_147MA,string,Annotation of Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Oceania,S0201
+S0201_148EA,string,Annotation of Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Latin America,S0201
+S0201_148MA,string,Annotation of Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Latin America,S0201
+S0201_149EA,string,Annotation of Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Northern America,S0201
+S0201_149MA,string,Annotation of Margin of Error!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population excluding population born at sea!!Northern America,S0201
+S0201_150EA,string,Annotation of Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0201
+S0201_150MA,string,Annotation of Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0201
+S0201_151EA,string,Annotation of Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0201
+S0201_151MA,string,Annotation of Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0201
+S0201_152EA,string,Annotation of Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0201
+S0201_152MA,string,Annotation of Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0201
+S0201_153EA,string,"Annotation of Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0201
+S0201_153MA,string,"Annotation of Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0201
+S0201_154EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,S0201
+S0201_154MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,S0201
+S0201_155EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S0201
+S0201_155MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S0201
+S0201_156EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S0201
+S0201_156MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S0201
+S0201_157EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S0201
+S0201_157MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S0201
+S0201_158EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S0201
+S0201_158MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S0201
+S0201_159EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Unemployment Rate,S0201
+S0201_159MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Unemployment Rate,S0201
+S0201_160EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S0201
+S0201_160MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S0201
+S0201_161EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S0201
+S0201_161MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S0201
+S0201_162EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over,S0201
+S0201_162MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over,S0201
+S0201_163EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,S0201
+S0201_163MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,S0201
+S0201_164EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,S0201
+S0201_164MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,S0201
+S0201_165EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,S0201
+S0201_165MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,S0201
+S0201_166EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S0201
+S0201_166MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S0201
+S0201_167EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Unemployment Rate,S0201
+S0201_167MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Unemployment Rate,S0201
+S0201_168EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over,S0201
+S0201_168MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over,S0201
+S0201_169EA,string,"Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van - drove alone",S0201
+S0201_169MA,string,"Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van - drove alone",S0201
+S0201_170EA,string,"Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van - carpooled",S0201
+S0201_170MA,string,"Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van - carpooled",S0201
+S0201_171EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),S0201
+S0201_171MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),S0201
+S0201_172EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,S0201
+S0201_172MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,S0201
+S0201_173EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,S0201
+S0201_173MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,S0201
+S0201_174EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,S0201
+S0201_174MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,S0201
+S0201_175EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),S0201
+S0201_175MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),S0201
+S0201_176EA,string,Annotation of Estimate!!OCCUPATION!!Civilian employed population 16 years and over,S0201
+S0201_176MA,string,Annotation of Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over,S0201
+S0201_177EA,string,"Annotation of Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_177MA,string,"Annotation of Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_178EA,string,Annotation of Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S0201
+S0201_178MA,string,Annotation of Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S0201
+S0201_179EA,string,Annotation of Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_179MA,string,Annotation of Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_180EA,string,"Annotation of Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_180MA,string,"Annotation of Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_181EA,string,"Annotation of Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_181MA,string,"Annotation of Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_182EA,string,Annotation of Estimate!!OCCUPATION!!Male civilian employed population 16 years and over,S0201
+S0201_182MA,string,Annotation of Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over,S0201
+S0201_183EA,string,"Annotation of Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_183MA,string,"Annotation of Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_184EA,string,Annotation of Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Service occupations,S0201
+S0201_184MA,string,Annotation of Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Service occupations,S0201
+S0201_185EA,string,Annotation of Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_185MA,string,Annotation of Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_186EA,string,"Annotation of Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_186MA,string,"Annotation of Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_187EA,string,"Annotation of Estimate!!OCCUPATION!!Male civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_187MA,string,"Annotation of Margin of Error!!OCCUPATION!!Male civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_188EA,string,Annotation of Estimate!!OCCUPATION!!Female civilian employed population 16 years and over,S0201
+S0201_188MA,string,Annotation of Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over,S0201
+S0201_189EA,string,"Annotation of Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_189MA,string,"Annotation of Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Management, business, science, and arts occupations",S0201
+S0201_190EA,string,Annotation of Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Service occupations,S0201
+S0201_190MA,string,Annotation of Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Service occupations,S0201
+S0201_191EA,string,Annotation of Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_191MA,string,Annotation of Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Sales and office occupations,S0201
+S0201_192EA,string,"Annotation of Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_192MA,string,"Annotation of Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",S0201
+S0201_193EA,string,"Annotation of Estimate!!OCCUPATION!!Female civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_193MA,string,"Annotation of Margin of Error!!OCCUPATION!!Female civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S0201
+S0201_194EA,string,Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over,S0201
+S0201_194MA,string,Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over,S0201
+S0201_195EA,string,"Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",S0201
+S0201_195MA,string,"Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",S0201
+S0201_196EA,string,Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,S0201
+S0201_196MA,string,Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,S0201
+S0201_197EA,string,Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,S0201
+S0201_197MA,string,Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,S0201
+S0201_198EA,string,Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,S0201
+S0201_198MA,string,Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,S0201
+S0201_199EA,string,Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,S0201
+S0201_199MA,string,Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,S0201
+S0201_200EA,string,"Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",S0201
+S0201_200MA,string,"Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",S0201
+S0201_201EA,string,Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Information,S0201
+S0201_201MA,string,Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Information,S0201
+S0201_202EA,string,"Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",S0201
+S0201_202MA,string,"Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",S0201
+S0201_203EA,string,"Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",S0201
+S0201_203MA,string,"Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",S0201
+S0201_204EA,string,"Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",S0201
+S0201_204MA,string,"Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",S0201
+S0201_205EA,string,"Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",S0201
+S0201_205MA,string,"Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",S0201
+S0201_206EA,string,Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Other services (except public administration),S0201
+S0201_206MA,string,Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Other services (except public administration),S0201
+S0201_207EA,string,Annotation of Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,S0201
+S0201_207MA,string,Annotation of Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,S0201
+S0201_208EA,string,Annotation of Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over,S0201
+S0201_208MA,string,Annotation of Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over,S0201
+S0201_209EA,string,Annotation of Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,S0201
+S0201_209MA,string,Annotation of Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,S0201
+S0201_210EA,string,Annotation of Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,S0201
+S0201_210MA,string,Annotation of Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,S0201
+S0201_211EA,string,Annotation of Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed workers in own not incorporated business,S0201
+S0201_211MA,string,Annotation of Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed workers in own not incorporated business,S0201
+S0201_212EA,string,Annotation of Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,S0201
+S0201_212MA,string,Annotation of Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,S0201
+S0201_213EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Households,S0201
+S0201_213MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Households,S0201
+S0201_214EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Households!!Median household income (dollars),S0201
+S0201_214MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Households!!Median household income (dollars),S0201
+S0201_215EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings,S0201
+S0201_215MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings,S0201
+S0201_216EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings!!Mean earnings (dollars),S0201
+S0201_216MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings!!Mean earnings (dollars),S0201
+S0201_217EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Social Security income,S0201
+S0201_217MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Social Security income,S0201
+S0201_218EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Social Security income!!Mean Social Security income (dollars),S0201
+S0201_218MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Social Security income!!Mean Social Security income (dollars),S0201
+S0201_219EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income,S0201
+S0201_219MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income,S0201
+S0201_220EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0201
+S0201_220MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0201
+S0201_221EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income,S0201
+S0201_221MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income,S0201
+S0201_222EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income!!Mean cash public assistance income (dollars),S0201
+S0201_222MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income!!Mean cash public assistance income (dollars),S0201
+S0201_223EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With retirement income,S0201
+S0201_223MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With retirement income,S0201
+S0201_224EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With retirement income!!Mean retirement income (dollars),S0201
+S0201_224MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With retirement income!!Mean retirement income (dollars),S0201
+S0201_225EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Food Stamp/SNAP benefits,S0201
+S0201_225MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With Food Stamp/SNAP benefits,S0201
+S0201_226EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families,S0201
+S0201_226MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families,S0201
+S0201_227EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),S0201
+S0201_227MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),S0201
+S0201_228EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars)!!Married-couple family,S0201
+S0201_228MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars)!!Married-couple family,S0201
+S0201_229EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_229MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_230EA,string,"Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars)!!Male householder, no spouse present, family",S0201
+S0201_230MA,string,"Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars)!!Male householder, no spouse present, family",S0201
+S0201_231EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_231MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_232EA,string,"Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars)!!Female householder, no husband present, family",S0201
+S0201_232MA,string,"Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars)!!Female householder, no husband present, family",S0201
+S0201_233EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_233MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median income (dollars),S0201
+S0201_234EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Individuals,S0201
+S0201_234MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Individuals,S0201
+S0201_235EA,string,Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S0201
+S0201_235MA,string,Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S0201
+S0201_236EA,string,"Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings for full-time, year-round workers!!Male",S0201
+S0201_236MA,string,"Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings for full-time, year-round workers!!Male",S0201
+S0201_237EA,string,"Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings for full-time, year-round workers!!Female",S0201
+S0201_237MA,string,"Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!With earnings for full-time, year-round workers!!Female",S0201
+S0201_238EA,string,"Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars) for full-time, year-round workers!!Male",S0201
+S0201_238MA,string,"Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars) for full-time, year-round workers!!Male",S0201
+S0201_239EA,string,"Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars) for full-time, year-round workers!!Female",S0201
+S0201_239MA,string,"Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars) for full-time, year-round workers!!Female",S0201
+S0201_240EA,string,"Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Median earnings (dollars) full-time, year-round workers!!Male",S0201
+S0201_240MA,string,"Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Median earnings (dollars) full-time, year-round workers!!Male",S0201
+S0201_241EA,string,"Annotation of Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Median earnings (dollars) full-time, year-round workers!!Female",S0201
+S0201_241MA,string,"Annotation of Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Median earnings (dollars) full-time, year-round workers!!Female",S0201
+S0201_242EA,string,Annotation of Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,S0201
+S0201_242MA,string,Annotation of Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,S0201
+S0201_243EA,string,Annotation of Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With private health insurance,S0201
+S0201_243MA,string,Annotation of Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With private health insurance,S0201
+S0201_244EA,string,Annotation of Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With public coverage,S0201
+S0201_244MA,string,Annotation of Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With public coverage,S0201
+S0201_245EA,string,Annotation of Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,S0201
+S0201_245MA,string,Annotation of Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,S0201
+S0201_246EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families,S0201
+S0201_246MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families,S0201
+S0201_247EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!With related children of the householder under 18 years,S0201
+S0201_247MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!With related children of the householder under 18 years,S0201
+S0201_248EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,S0201
+S0201_248MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,S0201
+S0201_249EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family,S0201
+S0201_249MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family,S0201
+S0201_250EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family!!With related children of the householder under 18 years,S0201
+S0201_250MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family!!With related children of the householder under 18 years,S0201
+S0201_251EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,S0201
+S0201_251MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Married-couple family!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,S0201
+S0201_252EA,string,"Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family",S0201
+S0201_252MA,string,"Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family",S0201
+S0201_253EA,string,"Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family!!With related children of the householder under 18 years",S0201
+S0201_253MA,string,"Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family!!With related children of the householder under 18 years",S0201
+S0201_254EA,string,"Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",S0201
+S0201_254MA,string,"Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All families!!Female householder, no husband present, family!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",S0201
+S0201_255EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S0201
+S0201_255MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S0201
+S0201_256EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years,S0201
+S0201_256MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years,S0201
+S0201_257EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years,S0201
+S0201_257MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years,S0201
+S0201_258EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,S0201
+S0201_258MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,S0201
+S0201_259EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,S0201
+S0201_259MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,S0201
+S0201_260EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S0201
+S0201_260MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S0201
+S0201_261EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S0201
+S0201_261MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S0201
+S0201_262EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S0201
+S0201_262MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S0201
+S0201_263EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!People in families,S0201
+S0201_263MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!People in families,S0201
+S0201_264EA,string,Annotation of Estimate!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Unrelated individuals 15 years and over,S0201
+S0201_264MA,string,Annotation of Margin of Error!!POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!Unrelated individuals 15 years and over,S0201
+S0201_265EA,string,Annotation of Estimate!!HOUSING TENURE!!Occupied housing units,S0201
+S0201_265MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Occupied housing units,S0201
+S0201_266EA,string,Annotation of Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied housing units,S0201
+S0201_266MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Occupied housing units!!Owner-occupied housing units,S0201
+S0201_267EA,string,Annotation of Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied housing units,S0201
+S0201_267MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Occupied housing units!!Renter-occupied housing units,S0201
+S0201_268EA,string,Annotation of Estimate!!HOUSING TENURE!!Average household size of owner-occupied unit,S0201
+S0201_268MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Average household size of owner-occupied unit,S0201
+S0201_269EA,string,Annotation of Estimate!!HOUSING TENURE!!Average household size of renter-occupied unit,S0201
+S0201_269MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Average household size of renter-occupied unit,S0201
+S0201_270EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Occupied housing units,S0201
+S0201_270MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units,S0201
+S0201_271EA,string,"Annotation of Estimate!!UNITS IN STRUCTURE!!Occupied housing units!!1-unit, detached or attached",S0201
+S0201_271MA,string,"Annotation of Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units!!1-unit, detached or attached",S0201
+S0201_272EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Occupied housing units!!2 to 4 units,S0201
+S0201_272MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units!!2 to 4 units,S0201
+S0201_273EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Occupied housing units!!5 or more units,S0201
+S0201_273MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units!!5 or more units,S0201
+S0201_274EA,string,"Annotation of Estimate!!UNITS IN STRUCTURE!!Occupied housing units!!Mobile home, boat, RV, van, etc.",S0201
+S0201_274MA,string,"Annotation of Margin of Error!!UNITS IN STRUCTURE!!Occupied housing units!!Mobile home, boat, RV, van, etc.",S0201
+S0201_275EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units,S0201
+S0201_275MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units,S0201
+S0201_276EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2014 or later,S0201
+S0201_276MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2014 or later,S0201
+S0201_277EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2010 to 2013,S0201
+S0201_277MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2010 to 2013,S0201
+S0201_278EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2000 to 2009,S0201
+S0201_278MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 2000 to 2009,S0201
+S0201_279EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1980 to 1999,S0201
+S0201_279MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1980 to 1999,S0201
+S0201_280EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1960 to 1979,S0201
+S0201_280MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1960 to 1979,S0201
+S0201_281EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1940 to 1959,S0201
+S0201_281MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1940 to 1959,S0201
+S0201_282EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1939 or earlier,S0201
+S0201_282MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Occupied housing units!!Built 1939 or earlier,S0201
+S0201_283EA,string,Annotation of Estimate!!VEHICLES AVAILABLE!!Occupied housing units,S0201
+S0201_283MA,string,Annotation of Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units,S0201
+S0201_284EA,string,Annotation of Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!None,S0201
+S0201_284MA,string,Annotation of Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!None,S0201
+S0201_285EA,string,Annotation of Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!1 or more,S0201
+S0201_285MA,string,Annotation of Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!1 or more,S0201
+S0201_286EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units,S0201
+S0201_286MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units,S0201
+S0201_287EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Gas,S0201
+S0201_287MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Gas,S0201
+S0201_288EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,S0201
+S0201_288MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,S0201
+S0201_289EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!All other fuels,S0201
+S0201_289MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!All other fuels,S0201
+S0201_290EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,S0201
+S0201_290MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,S0201
+S0201_291EA,string,Annotation of Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units,S0201
+S0201_291MA,string,Annotation of Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units,S0201
+S0201_292EA,string,Annotation of Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,S0201
+S0201_292MA,string,Annotation of Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,S0201
+S0201_293EA,string,Annotation of Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!1.01 or more occupants per room,S0201
+S0201_293MA,string,Annotation of Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!1.01 or more occupants per room,S0201
+S0201_294EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed),S0201
+S0201_294MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed),S0201
+S0201_295EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed)!!Less than 30 percent,S0201
+S0201_295MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed)!!Less than 30 percent,S0201
+S0201_296EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed)!!30 percent or more,S0201
+S0201_296MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Housing units with a mortgage (excluding units where SMOC cannot be computed)!!30 percent or more,S0201
+S0201_297EA,string,Annotation of Estimate!!OWNER CHARACTERISTICS!!Owner-occupied housing units,S0201
+S0201_297MA,string,Annotation of Margin of Error!!OWNER CHARACTERISTICS!!Owner-occupied housing units,S0201
+S0201_298EA,string,Annotation of Estimate!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median value (dollars),S0201
+S0201_298MA,string,Annotation of Margin of Error!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median value (dollars),S0201
+S0201_299EA,string,Annotation of Estimate!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median selected monthly owner costs with a mortgage (dollars),S0201
+S0201_299MA,string,Annotation of Margin of Error!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median selected monthly owner costs with a mortgage (dollars),S0201
+S0201_300EA,string,Annotation of Estimate!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median selected monthly owner costs without a mortgage (dollars),S0201
+S0201_300MA,string,Annotation of Margin of Error!!OWNER CHARACTERISTICS!!Owner-occupied housing units!!Median selected monthly owner costs without a mortgage (dollars),S0201
+S0201_301EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed),S0201
+S0201_301MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed),S0201
+S0201_302EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 30 percent,S0201
+S0201_302MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 30 percent,S0201
+S0201_303EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30 percent or more,S0201
+S0201_303MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30 percent or more,S0201
+S0201_304EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent,S0201
+S0201_304MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent,S0201
+S0201_305EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!Median gross rent (dollars),S0201
+S0201_305MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!Median gross rent (dollars),S0201
+S0201_306EA,string,Annotation of Estimate!!COMPUTERS AND INTERNET USE!!Total households,S0201
+S0201_306MA,string,Annotation of Margin of Error!!COMPUTERS AND INTERNET USE!!Total households,S0201
+S0201_307EA,string,Annotation of Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer,S0201
+S0201_307MA,string,Annotation of Margin of Error!!COMPUTERS AND INTERNET USE!!Total households!!With a computer,S0201
+S0201_308EA,string,Annotation of Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription,S0201
+S0201_308MA,string,Annotation of Margin of Error!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription,S0201

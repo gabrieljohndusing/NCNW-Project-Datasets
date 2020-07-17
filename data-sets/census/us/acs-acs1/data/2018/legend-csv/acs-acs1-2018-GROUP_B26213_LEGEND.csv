@@ -1,0 +1,185 @@
+VARIABLE,TYPE,LABEL,GROUP
+B26213_001E,int,Estimate!!Total,B26213
+B26213_002E,int,Estimate!!Total!!Speak only English,B26213
+B26213_003E,int,Estimate!!Total!!Speak Language other than English,B26213
+B26213_004E,int,"Estimate!!Total!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_005E,int,"Estimate!!Total!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_006E,int,Estimate!!Total!!Group quarters population,B26213
+B26213_007E,int,Estimate!!Total!!Group quarters population!!Speak only English,B26213
+B26213_008E,int,Estimate!!Total!!Group quarters population!!Speak Language other than English,B26213
+B26213_009E,int,"Estimate!!Total!!Group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_010E,int,"Estimate!!Total!!Group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_011E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26213
+B26213_012E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak only English,B26213
+B26213_013E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English,B26213
+B26213_014E,int,"Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_015E,int,"Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_016E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26213
+B26213_017E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak only English,B26213
+B26213_018E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English,B26213
+B26213_019E,int,"Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_020E,int,"Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_021E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26213
+B26213_022E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak only English,B26213
+B26213_023E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English,B26213
+B26213_024E,int,"Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_025E,int,"Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_026E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26213
+B26213_027E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak only English,B26213
+B26213_028E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English,B26213
+B26213_029E,int,"Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_030E,int,"Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_031E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26213
+B26213_032E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak only English,B26213
+B26213_033E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English,B26213
+B26213_034E,int,"Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_035E,int,"Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_036E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26213
+B26213_037E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak only English,B26213
+B26213_038E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English,B26213
+B26213_039E,int,"Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_040E,int,"Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_041E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26213
+B26213_042E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak only English,B26213
+B26213_043E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English,B26213
+B26213_044E,int,"Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_045E,int,"Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_046E,int,Estimate!!Total!!Household population,B26213
+B26213_001M,int,Margin of Error!!Total,B26213
+B26213_002M,int,Margin of Error!!Total!!Speak only English,B26213
+B26213_003M,int,Margin of Error!!Total!!Speak Language other than English,B26213
+B26213_004M,int,"Margin of Error!!Total!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_005M,int,"Margin of Error!!Total!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_006M,int,Margin of Error!!Total!!Group quarters population,B26213
+B26213_007M,int,Margin of Error!!Total!!Group quarters population!!Speak only English,B26213
+B26213_008M,int,Margin of Error!!Total!!Group quarters population!!Speak Language other than English,B26213
+B26213_009M,int,"Margin of Error!!Total!!Group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_010M,int,"Margin of Error!!Total!!Group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_011M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26213
+B26213_012M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak only English,B26213
+B26213_013M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English,B26213
+B26213_014M,int,"Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_015M,int,"Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_016M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26213
+B26213_017M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak only English,B26213
+B26213_018M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English,B26213
+B26213_019M,int,"Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_020M,int,"Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_021M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26213
+B26213_022M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak only English,B26213
+B26213_023M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English,B26213
+B26213_024M,int,"Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_025M,int,"Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_026M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26213
+B26213_027M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak only English,B26213
+B26213_028M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English,B26213
+B26213_029M,int,"Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_030M,int,"Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_031M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26213
+B26213_032M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak only English,B26213
+B26213_033M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English,B26213
+B26213_034M,int,"Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_035M,int,"Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_036M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26213
+B26213_037M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak only English,B26213
+B26213_038M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English,B26213
+B26213_039M,int,"Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_040M,int,"Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_041M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26213
+B26213_042M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak only English,B26213
+B26213_043M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English,B26213
+B26213_044M,int,"Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_045M,int,"Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_046M,int,Margin of Error!!Total!!Household population,B26213
+B26213_001EA,string,Annotation of Estimate!!Total,B26213
+B26213_001MA,string,Annotation of Margin of Error!!Total,B26213
+B26213_002EA,string,Annotation of Estimate!!Total!!Speak only English,B26213
+B26213_002MA,string,Annotation of Margin of Error!!Total!!Speak only English,B26213
+B26213_003EA,string,Annotation of Estimate!!Total!!Speak Language other than English,B26213
+B26213_003MA,string,Annotation of Margin of Error!!Total!!Speak Language other than English,B26213
+B26213_004EA,string,"Annotation of Estimate!!Total!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_004MA,string,"Annotation of Margin of Error!!Total!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_005EA,string,"Annotation of Estimate!!Total!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_005MA,string,"Annotation of Margin of Error!!Total!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_006EA,string,Annotation of Estimate!!Total!!Group quarters population,B26213
+B26213_006MA,string,Annotation of Margin of Error!!Total!!Group quarters population,B26213
+B26213_007EA,string,Annotation of Estimate!!Total!!Group quarters population!!Speak only English,B26213
+B26213_007MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Speak only English,B26213
+B26213_008EA,string,Annotation of Estimate!!Total!!Group quarters population!!Speak Language other than English,B26213
+B26213_008MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Speak Language other than English,B26213
+B26213_009EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_009MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_010EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_010MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_011EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26213
+B26213_011MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26213
+B26213_012EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak only English,B26213
+B26213_012MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak only English,B26213
+B26213_013EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English,B26213
+B26213_013MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English,B26213
+B26213_014EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_014MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_015EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_015MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_016EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26213
+B26213_016MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26213
+B26213_017EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak only English,B26213
+B26213_017MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak only English,B26213
+B26213_018EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English,B26213
+B26213_018MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English,B26213
+B26213_019EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_019MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_020EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_020MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_021EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26213
+B26213_021MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26213
+B26213_022EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak only English,B26213
+B26213_022MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak only English,B26213
+B26213_023EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English,B26213
+B26213_023MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English,B26213
+B26213_024EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_024MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_025EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_025MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_026EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26213
+B26213_026MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities,B26213
+B26213_027EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak only English,B26213
+B26213_027MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak only English,B26213
+B26213_028EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English,B26213
+B26213_028MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English,B26213
+B26213_029EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_029MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_030EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_030MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Juvenile facilities!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_031EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26213
+B26213_031MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26213
+B26213_032EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak only English,B26213
+B26213_032MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak only English,B26213
+B26213_033EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English,B26213
+B26213_033MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English,B26213
+B26213_034EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_034MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_035EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_035MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_036EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26213
+B26213_036MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26213
+B26213_037EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak only English,B26213
+B26213_037MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak only English,B26213
+B26213_038EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English,B26213
+B26213_038MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English,B26213
+B26213_039EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_039MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_040EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_040MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_041EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26213
+B26213_041MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships,B26213
+B26213_042EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak only English,B26213
+B26213_042MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak only English,B26213
+B26213_043EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English,B26213
+B26213_043MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English,B26213
+B26213_044EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_044MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English!!Speak English ""very well""",B26213
+B26213_045EA,string,"Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_045MA,string,"Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!Military quarters/military ships!!Speak Language other than English!!Speak English less than ""very well""",B26213
+B26213_046EA,string,Annotation of Estimate!!Total!!Household population,B26213
+B26213_046MA,string,Annotation of Margin of Error!!Total!!Household population,B26213
