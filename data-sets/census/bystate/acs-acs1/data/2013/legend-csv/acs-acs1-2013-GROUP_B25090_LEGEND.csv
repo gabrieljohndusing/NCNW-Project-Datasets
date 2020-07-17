@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25090_001E,int,Estimate!!Aggregate real estate taxes paid (dollars),B25090
+B25090_002E,int,Estimate!!Aggregate real estate taxes paid (dollars)!!Aggregate real estate taxes paid for units with a mortgage (dollars),B25090
+B25090_003E,int,Estimate!!Aggregate real estate taxes paid (dollars)!!Aggregate real estate taxes paid for units without a mortgage (dollars),B25090
+B25090_001M,int,Margin of Error!!Aggregate real estate taxes paid (dollars),B25090
+B25090_002M,int,Margin of Error!!Aggregate real estate taxes paid (dollars)!!Aggregate real estate taxes paid for units with a mortgage (dollars),B25090
+B25090_003M,int,Margin of Error!!Aggregate real estate taxes paid (dollars)!!Aggregate real estate taxes paid for units without a mortgage (dollars),B25090
+B25090_001EA,string,Annotation of Estimate!!Aggregate real estate taxes paid (dollars),B25090
+B25090_001MA,string,Annotation of Margin of Error!!Aggregate real estate taxes paid (dollars),B25090
+B25090_002EA,string,Annotation of Estimate!!Aggregate real estate taxes paid (dollars)!!Aggregate real estate taxes paid for units with a mortgage (dollars),B25090
+B25090_002MA,string,Annotation of Margin of Error!!Aggregate real estate taxes paid (dollars)!!Aggregate real estate taxes paid for units with a mortgage (dollars),B25090
+B25090_003EA,string,Annotation of Estimate!!Aggregate real estate taxes paid (dollars)!!Aggregate real estate taxes paid for units without a mortgage (dollars),B25090
+B25090_003MA,string,Annotation of Margin of Error!!Aggregate real estate taxes paid (dollars)!!Aggregate real estate taxes paid for units without a mortgage (dollars),B25090

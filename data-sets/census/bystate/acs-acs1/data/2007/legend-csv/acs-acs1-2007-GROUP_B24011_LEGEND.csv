@@ -1,0 +1,149 @@
+VARIABLE,TYPE,LABEL,GROUP
+B24011_001E,int,Estimate!!Total,B24011
+B24011_002E,int,"Estimate!!Total!!Management, professional, and related occupations",B24011
+B24011_003E,int,"Estimate!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations",B24011
+B24011_004E,int,"Estimate!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations",B24011
+B24011_005E,int,"Estimate!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24011
+B24011_006E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations",B24011
+B24011_007E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24011
+B24011_008E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24011
+B24011_009E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24011
+B24011_010E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24011
+B24011_011E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24011
+B24011_012E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24011
+B24011_013E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24011
+B24011_014E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24011
+B24011_015E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations!!Health diagnosing and treating practitioners and other technical occupations",B24011
+B24011_016E,int,"Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations!!Health technologists and technicians",B24011
+B24011_017E,int,Estimate!!Total!!Service occupations,B24011
+B24011_018E,int,Estimate!!Total!!Service occupations!!Healthcare support occupations,B24011
+B24011_019E,int,Estimate!!Total!!Service occupations!!Protective service occupations,B24011
+B24011_020E,int,"Estimate!!Total!!Service occupations!!Protective service occupations!!Fire fighting and prevention, and other protective service workers including supervisors",B24011
+B24011_021E,int,Estimate!!Total!!Service occupations!!Protective service occupations!!Law enforcement workers including supervisors,B24011
+B24011_022E,int,Estimate!!Total!!Service occupations!!Food preparation and serving related occupations,B24011
+B24011_023E,int,Estimate!!Total!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24011
+B24011_024E,int,Estimate!!Total!!Service occupations!!Personal care and service occupations,B24011
+B24011_025E,int,Estimate!!Total!!Sales and office occupations,B24011
+B24011_026E,int,Estimate!!Total!!Sales and office occupations!!Sales and related occupations,B24011
+B24011_027E,int,Estimate!!Total!!Sales and office occupations!!Office and administrative support occupations,B24011
+B24011_028E,int,"Estimate!!Total!!Farming, fishing, and forestry occupations",B24011
+B24011_029E,int,"Estimate!!Total!!Construction, extraction, maintenance, and repair occupations",B24011
+B24011_030E,int,"Estimate!!Total!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24011
+B24011_031E,int,"Estimate!!Total!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24011
+B24011_032E,int,"Estimate!!Total!!Production, transportation, and material moving occupations",B24011
+B24011_033E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Production occupations",B24011
+B24011_034E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24011
+B24011_035E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Supervisors, transportation and material moving workers, and other transportation workers except motor vehicle operators",B24011
+B24011_036E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Motor vehicle operators",B24011
+B24011_037E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Material moving workers",B24011
+B24011_001M,int,Margin of Error!!Total,B24011
+B24011_002M,int,"Margin of Error!!Total!!Management, professional, and related occupations",B24011
+B24011_003M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations",B24011
+B24011_004M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations",B24011
+B24011_005M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24011
+B24011_006M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations",B24011
+B24011_007M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24011
+B24011_008M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24011
+B24011_009M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24011
+B24011_010M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24011
+B24011_011M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24011
+B24011_012M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24011
+B24011_013M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24011
+B24011_014M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24011
+B24011_015M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations!!Health diagnosing and treating practitioners and other technical occupations",B24011
+B24011_016M,int,"Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations!!Health technologists and technicians",B24011
+B24011_017M,int,Margin of Error!!Total!!Service occupations,B24011
+B24011_018M,int,Margin of Error!!Total!!Service occupations!!Healthcare support occupations,B24011
+B24011_019M,int,Margin of Error!!Total!!Service occupations!!Protective service occupations,B24011
+B24011_020M,int,"Margin of Error!!Total!!Service occupations!!Protective service occupations!!Fire fighting and prevention, and other protective service workers including supervisors",B24011
+B24011_021M,int,Margin of Error!!Total!!Service occupations!!Protective service occupations!!Law enforcement workers including supervisors,B24011
+B24011_022M,int,Margin of Error!!Total!!Service occupations!!Food preparation and serving related occupations,B24011
+B24011_023M,int,Margin of Error!!Total!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24011
+B24011_024M,int,Margin of Error!!Total!!Service occupations!!Personal care and service occupations,B24011
+B24011_025M,int,Margin of Error!!Total!!Sales and office occupations,B24011
+B24011_026M,int,Margin of Error!!Total!!Sales and office occupations!!Sales and related occupations,B24011
+B24011_027M,int,Margin of Error!!Total!!Sales and office occupations!!Office and administrative support occupations,B24011
+B24011_028M,int,"Margin of Error!!Total!!Farming, fishing, and forestry occupations",B24011
+B24011_029M,int,"Margin of Error!!Total!!Construction, extraction, maintenance, and repair occupations",B24011
+B24011_030M,int,"Margin of Error!!Total!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24011
+B24011_031M,int,"Margin of Error!!Total!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24011
+B24011_032M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations",B24011
+B24011_033M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Production occupations",B24011
+B24011_034M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24011
+B24011_035M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Supervisors, transportation and material moving workers, and other transportation workers except motor vehicle operators",B24011
+B24011_036M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Motor vehicle operators",B24011
+B24011_037M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Material moving workers",B24011
+B24011_001EA,string,Annotation of Estimate!!Total,B24011
+B24011_001MA,string,Annotation of Margin of Error!!Total,B24011
+B24011_002EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations",B24011
+B24011_002MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations",B24011
+B24011_003EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations",B24011
+B24011_003MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations",B24011
+B24011_004EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations",B24011
+B24011_004MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations",B24011
+B24011_005EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24011
+B24011_005MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24011
+B24011_006EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations",B24011
+B24011_006MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations",B24011
+B24011_007EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24011
+B24011_007MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24011
+B24011_008EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24011
+B24011_008MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24011
+B24011_009EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24011
+B24011_009MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24011
+B24011_010EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24011
+B24011_010MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24011
+B24011_011EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24011
+B24011_011MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24011
+B24011_012EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24011
+B24011_012MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24011
+B24011_013EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24011
+B24011_013MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24011
+B24011_014EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24011
+B24011_014MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24011
+B24011_015EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations!!Health diagnosing and treating practitioners and other technical occupations",B24011
+B24011_015MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations!!Health diagnosing and treating practitioners and other technical occupations",B24011
+B24011_016EA,string,"Annotation of Estimate!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations!!Health technologists and technicians",B24011
+B24011_016MA,string,"Annotation of Margin of Error!!Total!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations!!Health technologists and technicians",B24011
+B24011_017EA,string,Annotation of Estimate!!Total!!Service occupations,B24011
+B24011_017MA,string,Annotation of Margin of Error!!Total!!Service occupations,B24011
+B24011_018EA,string,Annotation of Estimate!!Total!!Service occupations!!Healthcare support occupations,B24011
+B24011_018MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Healthcare support occupations,B24011
+B24011_019EA,string,Annotation of Estimate!!Total!!Service occupations!!Protective service occupations,B24011
+B24011_019MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Protective service occupations,B24011
+B24011_020EA,string,"Annotation of Estimate!!Total!!Service occupations!!Protective service occupations!!Fire fighting and prevention, and other protective service workers including supervisors",B24011
+B24011_020MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Protective service occupations!!Fire fighting and prevention, and other protective service workers including supervisors",B24011
+B24011_021EA,string,Annotation of Estimate!!Total!!Service occupations!!Protective service occupations!!Law enforcement workers including supervisors,B24011
+B24011_021MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Protective service occupations!!Law enforcement workers including supervisors,B24011
+B24011_022EA,string,Annotation of Estimate!!Total!!Service occupations!!Food preparation and serving related occupations,B24011
+B24011_022MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Food preparation and serving related occupations,B24011
+B24011_023EA,string,Annotation of Estimate!!Total!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24011
+B24011_023MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24011
+B24011_024EA,string,Annotation of Estimate!!Total!!Service occupations!!Personal care and service occupations,B24011
+B24011_024MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Personal care and service occupations,B24011
+B24011_025EA,string,Annotation of Estimate!!Total!!Sales and office occupations,B24011
+B24011_025MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations,B24011
+B24011_026EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Sales and related occupations,B24011
+B24011_026MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Sales and related occupations,B24011
+B24011_027EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Office and administrative support occupations,B24011
+B24011_027MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Office and administrative support occupations,B24011
+B24011_028EA,string,"Annotation of Estimate!!Total!!Farming, fishing, and forestry occupations",B24011
+B24011_028MA,string,"Annotation of Margin of Error!!Total!!Farming, fishing, and forestry occupations",B24011
+B24011_029EA,string,"Annotation of Estimate!!Total!!Construction, extraction, maintenance, and repair occupations",B24011
+B24011_029MA,string,"Annotation of Margin of Error!!Total!!Construction, extraction, maintenance, and repair occupations",B24011
+B24011_030EA,string,"Annotation of Estimate!!Total!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24011
+B24011_030MA,string,"Annotation of Margin of Error!!Total!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24011
+B24011_031EA,string,"Annotation of Estimate!!Total!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24011
+B24011_031MA,string,"Annotation of Margin of Error!!Total!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24011
+B24011_032EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations",B24011
+B24011_032MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations",B24011
+B24011_033EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Production occupations",B24011
+B24011_033MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Production occupations",B24011
+B24011_034EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24011
+B24011_034MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24011
+B24011_035EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Supervisors, transportation and material moving workers, and other transportation workers except motor vehicle operators",B24011
+B24011_035MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Supervisors, transportation and material moving workers, and other transportation workers except motor vehicle operators",B24011
+B24011_036EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Motor vehicle operators",B24011
+B24011_036MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Motor vehicle operators",B24011
+B24011_037EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Material moving workers",B24011
+B24011_037MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and material moving occupations!!Material moving workers",B24011

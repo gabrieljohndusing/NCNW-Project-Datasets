@@ -1,0 +1,181 @@
+VARIABLE,TYPE,LABEL,GROUP
+C06001_001E,int,Estimate!!Total,C06001
+C06001_002E,int,Estimate!!Total!!Under 5 years,C06001
+C06001_003E,int,Estimate!!Total!!5 to 17 years,C06001
+C06001_004E,int,Estimate!!Total!!18 to 24 years,C06001
+C06001_005E,int,Estimate!!Total!!25 to 44 years,C06001
+C06001_006E,int,Estimate!!Total!!45 to 54 years,C06001
+C06001_007E,int,Estimate!!Total!!55 to 64 years,C06001
+C06001_008E,int,Estimate!!Total!!65 to 74 years,C06001
+C06001_009E,int,Estimate!!Total!!75 years and over,C06001
+C06001_010E,int,Estimate!!Total!!Born in state of residence,C06001
+C06001_011E,int,Estimate!!Total!!Born in state of residence!!Under 5 years,C06001
+C06001_012E,int,Estimate!!Total!!Born in state of residence!!5 to 17 years,C06001
+C06001_013E,int,Estimate!!Total!!Born in state of residence!!18 to 24 years,C06001
+C06001_014E,int,Estimate!!Total!!Born in state of residence!!25 to 44 years,C06001
+C06001_015E,int,Estimate!!Total!!Born in state of residence!!45 to 54 years,C06001
+C06001_016E,int,Estimate!!Total!!Born in state of residence!!55 to 64 years,C06001
+C06001_017E,int,Estimate!!Total!!Born in state of residence!!65 to 74 years,C06001
+C06001_018E,int,Estimate!!Total!!Born in state of residence!!75 years and over,C06001
+C06001_019E,int,Estimate!!Total!!Born in other state in the United States,C06001
+C06001_020E,int,Estimate!!Total!!Born in other state in the United States!!Under 5 years,C06001
+C06001_021E,int,Estimate!!Total!!Born in other state in the United States!!5 to 17 years,C06001
+C06001_022E,int,Estimate!!Total!!Born in other state in the United States!!18 to 24 years,C06001
+C06001_023E,int,Estimate!!Total!!Born in other state in the United States!!25 to 44 years,C06001
+C06001_024E,int,Estimate!!Total!!Born in other state in the United States!!45 to 54 years,C06001
+C06001_025E,int,Estimate!!Total!!Born in other state in the United States!!55 to 64 years,C06001
+C06001_026E,int,Estimate!!Total!!Born in other state in the United States!!65 to 74 years,C06001
+C06001_027E,int,Estimate!!Total!!Born in other state in the United States!!75 years and over,C06001
+C06001_028E,int,Estimate!!Total!!Native; born outside the United States,C06001
+C06001_029E,int,Estimate!!Total!!Native; born outside the United States!!Under 5 years,C06001
+C06001_030E,int,Estimate!!Total!!Native; born outside the United States!!5 to 17 years,C06001
+C06001_031E,int,Estimate!!Total!!Native; born outside the United States!!18 to 24 years,C06001
+C06001_032E,int,Estimate!!Total!!Native; born outside the United States!!25 to 44 years,C06001
+C06001_033E,int,Estimate!!Total!!Native; born outside the United States!!45 to 54 years,C06001
+C06001_034E,int,Estimate!!Total!!Native; born outside the United States!!55 to 64 years,C06001
+C06001_035E,int,Estimate!!Total!!Native; born outside the United States!!65 to 74 years,C06001
+C06001_036E,int,Estimate!!Total!!Native; born outside the United States!!75 years and over,C06001
+C06001_037E,int,Estimate!!Total!!Foreign born,C06001
+C06001_038E,int,Estimate!!Total!!Foreign born!!Under 5 years,C06001
+C06001_039E,int,Estimate!!Total!!Foreign born!!5 to 17 years,C06001
+C06001_040E,int,Estimate!!Total!!Foreign born!!18 to 24 years,C06001
+C06001_041E,int,Estimate!!Total!!Foreign born!!25 to 44 years,C06001
+C06001_042E,int,Estimate!!Total!!Foreign born!!45 to 54 years,C06001
+C06001_043E,int,Estimate!!Total!!Foreign born!!55 to 64 years,C06001
+C06001_044E,int,Estimate!!Total!!Foreign born!!65 to 74 years,C06001
+C06001_045E,int,Estimate!!Total!!Foreign born!!75 years and over,C06001
+C06001_001M,int,Margin of Error!!Total,C06001
+C06001_002M,int,Margin of Error!!Total!!Under 5 years,C06001
+C06001_003M,int,Margin of Error!!Total!!5 to 17 years,C06001
+C06001_004M,int,Margin of Error!!Total!!18 to 24 years,C06001
+C06001_005M,int,Margin of Error!!Total!!25 to 44 years,C06001
+C06001_006M,int,Margin of Error!!Total!!45 to 54 years,C06001
+C06001_007M,int,Margin of Error!!Total!!55 to 64 years,C06001
+C06001_008M,int,Margin of Error!!Total!!65 to 74 years,C06001
+C06001_009M,int,Margin of Error!!Total!!75 years and over,C06001
+C06001_010M,int,Margin of Error!!Total!!Born in state of residence,C06001
+C06001_011M,int,Margin of Error!!Total!!Born in state of residence!!Under 5 years,C06001
+C06001_012M,int,Margin of Error!!Total!!Born in state of residence!!5 to 17 years,C06001
+C06001_013M,int,Margin of Error!!Total!!Born in state of residence!!18 to 24 years,C06001
+C06001_014M,int,Margin of Error!!Total!!Born in state of residence!!25 to 44 years,C06001
+C06001_015M,int,Margin of Error!!Total!!Born in state of residence!!45 to 54 years,C06001
+C06001_016M,int,Margin of Error!!Total!!Born in state of residence!!55 to 64 years,C06001
+C06001_017M,int,Margin of Error!!Total!!Born in state of residence!!65 to 74 years,C06001
+C06001_018M,int,Margin of Error!!Total!!Born in state of residence!!75 years and over,C06001
+C06001_019M,int,Margin of Error!!Total!!Born in other state in the United States,C06001
+C06001_020M,int,Margin of Error!!Total!!Born in other state in the United States!!Under 5 years,C06001
+C06001_021M,int,Margin of Error!!Total!!Born in other state in the United States!!5 to 17 years,C06001
+C06001_022M,int,Margin of Error!!Total!!Born in other state in the United States!!18 to 24 years,C06001
+C06001_023M,int,Margin of Error!!Total!!Born in other state in the United States!!25 to 44 years,C06001
+C06001_024M,int,Margin of Error!!Total!!Born in other state in the United States!!45 to 54 years,C06001
+C06001_025M,int,Margin of Error!!Total!!Born in other state in the United States!!55 to 64 years,C06001
+C06001_026M,int,Margin of Error!!Total!!Born in other state in the United States!!65 to 74 years,C06001
+C06001_027M,int,Margin of Error!!Total!!Born in other state in the United States!!75 years and over,C06001
+C06001_028M,int,Margin of Error!!Total!!Native; born outside the United States,C06001
+C06001_029M,int,Margin of Error!!Total!!Native; born outside the United States!!Under 5 years,C06001
+C06001_030M,int,Margin of Error!!Total!!Native; born outside the United States!!5 to 17 years,C06001
+C06001_031M,int,Margin of Error!!Total!!Native; born outside the United States!!18 to 24 years,C06001
+C06001_032M,int,Margin of Error!!Total!!Native; born outside the United States!!25 to 44 years,C06001
+C06001_033M,int,Margin of Error!!Total!!Native; born outside the United States!!45 to 54 years,C06001
+C06001_034M,int,Margin of Error!!Total!!Native; born outside the United States!!55 to 64 years,C06001
+C06001_035M,int,Margin of Error!!Total!!Native; born outside the United States!!65 to 74 years,C06001
+C06001_036M,int,Margin of Error!!Total!!Native; born outside the United States!!75 years and over,C06001
+C06001_037M,int,Margin of Error!!Total!!Foreign born,C06001
+C06001_038M,int,Margin of Error!!Total!!Foreign born!!Under 5 years,C06001
+C06001_039M,int,Margin of Error!!Total!!Foreign born!!5 to 17 years,C06001
+C06001_040M,int,Margin of Error!!Total!!Foreign born!!18 to 24 years,C06001
+C06001_041M,int,Margin of Error!!Total!!Foreign born!!25 to 44 years,C06001
+C06001_042M,int,Margin of Error!!Total!!Foreign born!!45 to 54 years,C06001
+C06001_043M,int,Margin of Error!!Total!!Foreign born!!55 to 64 years,C06001
+C06001_044M,int,Margin of Error!!Total!!Foreign born!!65 to 74 years,C06001
+C06001_045M,int,Margin of Error!!Total!!Foreign born!!75 years and over,C06001
+C06001_001EA,string,Annotation of Estimate!!Total,C06001
+C06001_001MA,string,Annotation of Margin of Error!!Total,C06001
+C06001_002EA,string,Annotation of Estimate!!Total!!Under 5 years,C06001
+C06001_002MA,string,Annotation of Margin of Error!!Total!!Under 5 years,C06001
+C06001_003EA,string,Annotation of Estimate!!Total!!5 to 17 years,C06001
+C06001_003MA,string,Annotation of Margin of Error!!Total!!5 to 17 years,C06001
+C06001_004EA,string,Annotation of Estimate!!Total!!18 to 24 years,C06001
+C06001_004MA,string,Annotation of Margin of Error!!Total!!18 to 24 years,C06001
+C06001_005EA,string,Annotation of Estimate!!Total!!25 to 44 years,C06001
+C06001_005MA,string,Annotation of Margin of Error!!Total!!25 to 44 years,C06001
+C06001_006EA,string,Annotation of Estimate!!Total!!45 to 54 years,C06001
+C06001_006MA,string,Annotation of Margin of Error!!Total!!45 to 54 years,C06001
+C06001_007EA,string,Annotation of Estimate!!Total!!55 to 64 years,C06001
+C06001_007MA,string,Annotation of Margin of Error!!Total!!55 to 64 years,C06001
+C06001_008EA,string,Annotation of Estimate!!Total!!65 to 74 years,C06001
+C06001_008MA,string,Annotation of Margin of Error!!Total!!65 to 74 years,C06001
+C06001_009EA,string,Annotation of Estimate!!Total!!75 years and over,C06001
+C06001_009MA,string,Annotation of Margin of Error!!Total!!75 years and over,C06001
+C06001_010EA,string,Annotation of Estimate!!Total!!Born in state of residence,C06001
+C06001_010MA,string,Annotation of Margin of Error!!Total!!Born in state of residence,C06001
+C06001_011EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Under 5 years,C06001
+C06001_011MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Under 5 years,C06001
+C06001_012EA,string,Annotation of Estimate!!Total!!Born in state of residence!!5 to 17 years,C06001
+C06001_012MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!5 to 17 years,C06001
+C06001_013EA,string,Annotation of Estimate!!Total!!Born in state of residence!!18 to 24 years,C06001
+C06001_013MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!18 to 24 years,C06001
+C06001_014EA,string,Annotation of Estimate!!Total!!Born in state of residence!!25 to 44 years,C06001
+C06001_014MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!25 to 44 years,C06001
+C06001_015EA,string,Annotation of Estimate!!Total!!Born in state of residence!!45 to 54 years,C06001
+C06001_015MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!45 to 54 years,C06001
+C06001_016EA,string,Annotation of Estimate!!Total!!Born in state of residence!!55 to 64 years,C06001
+C06001_016MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!55 to 64 years,C06001
+C06001_017EA,string,Annotation of Estimate!!Total!!Born in state of residence!!65 to 74 years,C06001
+C06001_017MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!65 to 74 years,C06001
+C06001_018EA,string,Annotation of Estimate!!Total!!Born in state of residence!!75 years and over,C06001
+C06001_018MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!75 years and over,C06001
+C06001_019EA,string,Annotation of Estimate!!Total!!Born in other state in the United States,C06001
+C06001_019MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States,C06001
+C06001_020EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Under 5 years,C06001
+C06001_020MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Under 5 years,C06001
+C06001_021EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!5 to 17 years,C06001
+C06001_021MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!5 to 17 years,C06001
+C06001_022EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!18 to 24 years,C06001
+C06001_022MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!18 to 24 years,C06001
+C06001_023EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!25 to 44 years,C06001
+C06001_023MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!25 to 44 years,C06001
+C06001_024EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!45 to 54 years,C06001
+C06001_024MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!45 to 54 years,C06001
+C06001_025EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!55 to 64 years,C06001
+C06001_025MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!55 to 64 years,C06001
+C06001_026EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!65 to 74 years,C06001
+C06001_026MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!65 to 74 years,C06001
+C06001_027EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!75 years and over,C06001
+C06001_027MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!75 years and over,C06001
+C06001_028EA,string,Annotation of Estimate!!Total!!Native; born outside the United States,C06001
+C06001_028MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States,C06001
+C06001_029EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Under 5 years,C06001
+C06001_029MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Under 5 years,C06001
+C06001_030EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!5 to 17 years,C06001
+C06001_030MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!5 to 17 years,C06001
+C06001_031EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!18 to 24 years,C06001
+C06001_031MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!18 to 24 years,C06001
+C06001_032EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!25 to 44 years,C06001
+C06001_032MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!25 to 44 years,C06001
+C06001_033EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!45 to 54 years,C06001
+C06001_033MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!45 to 54 years,C06001
+C06001_034EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!55 to 64 years,C06001
+C06001_034MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!55 to 64 years,C06001
+C06001_035EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!65 to 74 years,C06001
+C06001_035MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!65 to 74 years,C06001
+C06001_036EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!75 years and over,C06001
+C06001_036MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!75 years and over,C06001
+C06001_037EA,string,Annotation of Estimate!!Total!!Foreign born,C06001
+C06001_037MA,string,Annotation of Margin of Error!!Total!!Foreign born,C06001
+C06001_038EA,string,Annotation of Estimate!!Total!!Foreign born!!Under 5 years,C06001
+C06001_038MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Under 5 years,C06001
+C06001_039EA,string,Annotation of Estimate!!Total!!Foreign born!!5 to 17 years,C06001
+C06001_039MA,string,Annotation of Margin of Error!!Total!!Foreign born!!5 to 17 years,C06001
+C06001_040EA,string,Annotation of Estimate!!Total!!Foreign born!!18 to 24 years,C06001
+C06001_040MA,string,Annotation of Margin of Error!!Total!!Foreign born!!18 to 24 years,C06001
+C06001_041EA,string,Annotation of Estimate!!Total!!Foreign born!!25 to 44 years,C06001
+C06001_041MA,string,Annotation of Margin of Error!!Total!!Foreign born!!25 to 44 years,C06001
+C06001_042EA,string,Annotation of Estimate!!Total!!Foreign born!!45 to 54 years,C06001
+C06001_042MA,string,Annotation of Margin of Error!!Total!!Foreign born!!45 to 54 years,C06001
+C06001_043EA,string,Annotation of Estimate!!Total!!Foreign born!!55 to 64 years,C06001
+C06001_043MA,string,Annotation of Margin of Error!!Total!!Foreign born!!55 to 64 years,C06001
+C06001_044EA,string,Annotation of Estimate!!Total!!Foreign born!!65 to 74 years,C06001
+C06001_044MA,string,Annotation of Margin of Error!!Total!!Foreign born!!65 to 74 years,C06001
+C06001_045EA,string,Annotation of Estimate!!Total!!Foreign born!!75 years and over,C06001
+C06001_045MA,string,Annotation of Margin of Error!!Total!!Foreign born!!75 years and over,C06001

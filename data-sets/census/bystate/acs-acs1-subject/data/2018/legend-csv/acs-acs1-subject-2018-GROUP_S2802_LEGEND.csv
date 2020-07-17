@@ -1,0 +1,617 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2802_C01_001E,int,Estimate!!Total!!Total population in households,S2802
+S2802_C01_002E,int,Estimate!!Total!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C01_003E,int,Estimate!!Total!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C01_004E,int,Estimate!!Total!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C01_005E,int,Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C01_006E,int,Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C01_007E,int,Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C01_008E,int,Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C01_009E,int,Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C01_010E,int,Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C01_011E,int,Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C01_012E,int,Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C01_013E,int,"Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C01_014E,int,Estimate!!Total!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C01_015E,int,Estimate!!Total!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C01_016E,int,"Estimate!!Total!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C01_017E,int,Estimate!!Total!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C01_018E,int,Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C01_019E,int,Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C01_020E,int,Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C01_021E,int,Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C01_022E,int,Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C02_001E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households,S2802
+S2802_C02_002E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C02_003E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C02_004E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C02_005E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C02_006E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C02_007E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C02_008E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C02_009E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C02_010E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C02_011E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C02_012E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C02_013E,int,"Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C02_014E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C02_015E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C02_016E,int,"Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C02_017E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C02_018E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C02_019E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C02_020E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C02_021E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C02_022E,int,Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C03_001E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households,S2802
+S2802_C03_002E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C03_003E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C03_004E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C03_005E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C03_006E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C03_007E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C03_008E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C03_009E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C03_010E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C03_011E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C03_012E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C03_013E,float,"Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C03_014E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C03_015E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C03_016E,float,"Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C03_017E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C03_018E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C03_019E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C03_020E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C03_021E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C03_022E,float,Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C04_001E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households,S2802
+S2802_C04_002E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C04_003E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C04_004E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C04_005E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C04_006E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C04_007E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C04_008E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C04_009E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C04_010E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C04_011E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C04_012E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C04_013E,int,"Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C04_014E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C04_015E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C04_016E,int,"Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C04_017E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C04_018E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C04_019E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C04_020E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C04_021E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C04_022E,int,Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C05_001E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households,S2802
+S2802_C05_002E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C05_003E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C05_004E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C05_005E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C05_006E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C05_007E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C05_008E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C05_009E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C05_010E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C05_011E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C05_012E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C05_013E,float,"Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C05_014E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C05_015E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C05_016E,float,"Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C05_017E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C05_018E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C05_019E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C05_020E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C05_021E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C05_022E,float,Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C06_001E,int,Estimate!!No computer in household!!Total population in households,S2802
+S2802_C06_002E,int,Estimate!!No computer in household!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C06_003E,int,Estimate!!No computer in household!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C06_004E,int,Estimate!!No computer in household!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C06_005E,int,Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C06_006E,int,Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C06_007E,int,Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C06_008E,int,Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C06_009E,int,Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C06_010E,int,Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C06_011E,int,Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C06_012E,int,Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C06_013E,int,"Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C06_014E,int,Estimate!!No computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C06_015E,int,Estimate!!No computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C06_016E,int,"Estimate!!No computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C06_017E,int,Estimate!!No computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C06_018E,int,Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C06_019E,int,Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C06_020E,int,Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C06_021E,int,Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C06_022E,int,Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C07_001E,float,Estimate!!Percent no computer in household!!Total population in households,S2802
+S2802_C07_002E,float,Estimate!!Percent no computer in household!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C07_003E,float,Estimate!!Percent no computer in household!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C07_004E,float,Estimate!!Percent no computer in household!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C07_005E,float,Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C07_006E,float,Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C07_007E,float,Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C07_008E,float,Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C07_009E,float,Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C07_010E,float,Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C07_011E,float,Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C07_012E,float,Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C07_013E,float,"Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C07_014E,float,Estimate!!Percent no computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C07_015E,float,Estimate!!Percent no computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C07_016E,float,"Estimate!!Percent no computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C07_017E,float,Estimate!!Percent no computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C07_018E,float,Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C07_019E,float,Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C07_020E,float,Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C07_021E,float,Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C07_022E,float,Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C01_001M,int,Margin of Error!!Total MOE!!Total population in households,S2802
+S2802_C01_002M,int,Margin of Error!!Total MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C01_003M,int,Margin of Error!!Total MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C01_004M,int,Margin of Error!!Total MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C01_005M,int,Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C01_006M,int,Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C01_007M,int,Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C01_008M,int,Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C01_009M,int,Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C01_010M,int,Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C01_011M,int,Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C01_012M,int,Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C01_013M,int,"Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C01_014M,int,Margin of Error!!Total MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C01_015M,int,Margin of Error!!Total MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C01_016M,int,"Margin of Error!!Total MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C01_017M,int,Margin of Error!!Total MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C01_018M,int,Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C01_019M,int,Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C01_020M,int,Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C01_021M,int,Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C01_022M,int,Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C02_001M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households,S2802
+S2802_C02_002M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C02_003M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C02_004M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C02_005M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C02_006M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C02_007M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C02_008M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C02_009M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C02_010M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C02_011M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C02_012M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C02_013M,int,"Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C02_014M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C02_015M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C02_016M,int,"Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C02_017M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C02_018M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C02_019M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C02_020M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C02_021M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C02_022M,int,Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C03_001M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households,S2802
+S2802_C03_002M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C03_003M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C03_004M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C03_005M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C03_006M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C03_007M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C03_008M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C03_009M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C03_010M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C03_011M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C03_012M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C03_013M,float,"Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C03_014M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C03_015M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C03_016M,float,"Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C03_017M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C03_018M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C03_019M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C03_020M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C03_021M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C03_022M,float,Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C04_001M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households,S2802
+S2802_C04_002M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C04_003M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C04_004M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C04_005M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C04_006M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C04_007M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C04_008M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C04_009M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C04_010M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C04_011M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C04_012M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C04_013M,int,"Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C04_014M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C04_015M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C04_016M,int,"Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C04_017M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C04_018M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C04_019M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C04_020M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C04_021M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C04_022M,int,Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C05_001M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households,S2802
+S2802_C05_002M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C05_003M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C05_004M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C05_005M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C05_006M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C05_007M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C05_008M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C05_009M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C05_010M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C05_011M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C05_012M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C05_013M,float,"Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C05_014M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C05_015M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C05_016M,float,"Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C05_017M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C05_018M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C05_019M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C05_020M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C05_021M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C05_022M,float,Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C06_001M,int,Margin of Error!!No computer in household MOE!!Total population in households,S2802
+S2802_C06_002M,int,Margin of Error!!No computer in household MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C06_003M,int,Margin of Error!!No computer in household MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C06_004M,int,Margin of Error!!No computer in household MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C06_005M,int,Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C06_006M,int,Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C06_007M,int,Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C06_008M,int,Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C06_009M,int,Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C06_010M,int,Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C06_011M,int,Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C06_012M,int,Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C06_013M,int,"Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C06_014M,int,Margin of Error!!No computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C06_015M,int,Margin of Error!!No computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C06_016M,int,"Margin of Error!!No computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C06_017M,int,Margin of Error!!No computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C06_018M,int,Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C06_019M,int,Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C06_020M,int,Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C06_021M,int,Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C06_022M,int,Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C07_001M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households,S2802
+S2802_C07_002M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C07_003M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C07_004M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C07_005M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C07_006M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C07_007M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C07_008M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C07_009M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C07_010M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C07_011M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C07_012M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C07_013M,float,"Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C07_014M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C07_015M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C07_016M,float,"Margin of Error!!Percent no computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C07_017M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C07_018M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C07_019M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C07_020M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C07_021M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C07_022M,float,Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C01_001EA,string,Annotation of Estimate!!Total!!Total population in households,S2802
+S2802_C01_001MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households,S2802
+S2802_C01_002EA,string,Annotation of Estimate!!Total!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C01_002MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C01_003EA,string,Annotation of Estimate!!Total!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C01_003MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C01_004EA,string,Annotation of Estimate!!Total!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C01_004MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C01_005EA,string,Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C01_005MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C01_006EA,string,Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C01_006MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C01_007EA,string,Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C01_007MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C01_008EA,string,Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C01_008MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C01_009EA,string,Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C01_009MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C01_010EA,string,Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C01_010MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C01_011EA,string,Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C01_011MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C01_012EA,string,Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C01_012MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C01_013EA,string,"Annotation of Estimate!!Total!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C01_013MA,string,"Annotation of Margin of Error!!Total MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C01_014EA,string,Annotation of Estimate!!Total!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C01_014MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C01_015EA,string,Annotation of Estimate!!Total!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C01_015MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C01_016EA,string,"Annotation of Estimate!!Total!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C01_016MA,string,"Annotation of Margin of Error!!Total MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C01_017EA,string,Annotation of Estimate!!Total!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C01_017MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C01_018EA,string,Annotation of Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C01_018MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C01_019EA,string,Annotation of Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C01_019MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C01_020EA,string,Annotation of Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C01_020MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C01_021EA,string,Annotation of Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C01_021MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C01_022EA,string,Annotation of Estimate!!Total!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C01_022MA,string,Annotation of Margin of Error!!Total MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C02_001EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households,S2802
+S2802_C02_001MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households,S2802
+S2802_C02_002EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C02_002MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C02_003EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C02_003MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C02_004EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C02_004MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C02_005EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C02_005MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C02_006EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C02_006MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C02_007EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C02_007MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C02_008EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C02_008MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C02_009EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C02_009MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C02_010EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C02_010MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C02_011EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C02_011MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C02_012EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C02_012MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C02_013EA,string,"Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C02_013MA,string,"Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C02_014EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C02_014MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C02_015EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C02_015MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C02_016EA,string,"Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C02_016MA,string,"Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C02_017EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C02_017MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C02_018EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C02_018MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C02_019EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C02_019MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C02_020EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C02_020MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C02_021EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C02_021MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C02_022EA,string,Annotation of Estimate!!With a computer!!Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C02_022MA,string,Annotation of Margin of Error!!With a computer!!Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C03_001EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households,S2802
+S2802_C03_001MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households,S2802
+S2802_C03_002EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C03_002MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C03_003EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C03_003MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C03_004EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C03_004MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C03_005EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C03_005MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C03_006EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C03_006MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C03_007EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C03_007MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C03_008EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C03_008MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C03_009EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C03_009MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C03_010EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C03_010MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C03_011EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C03_011MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C03_012EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C03_012MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C03_013EA,string,"Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C03_013MA,string,"Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C03_014EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C03_014MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C03_015EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C03_015MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C03_016EA,string,"Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C03_016MA,string,"Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C03_017EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C03_017MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C03_018EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C03_018MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C03_019EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C03_019MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C03_020EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C03_020MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C03_021EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C03_021MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C03_022EA,string,Annotation of Estimate!!With a computer!!Percent Broadband Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C03_022MA,string,Annotation of Margin of Error!!With a computer!!Percent Broadband Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C04_001EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households,S2802
+S2802_C04_001MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households,S2802
+S2802_C04_002EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C04_002MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C04_003EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C04_003MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C04_004EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C04_004MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C04_005EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C04_005MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C04_006EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C04_006MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C04_007EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C04_007MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C04_008EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C04_008MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C04_009EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C04_009MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C04_010EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C04_010MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C04_011EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C04_011MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C04_012EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C04_012MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C04_013EA,string,"Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C04_013MA,string,"Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C04_014EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C04_014MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C04_015EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C04_015MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C04_016EA,string,"Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C04_016MA,string,"Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C04_017EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C04_017MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C04_018EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C04_018MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C04_019EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C04_019MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C04_020EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C04_020MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C04_021EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C04_021MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C04_022EA,string,Annotation of Estimate!!With a computer!!Without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C04_022MA,string,Annotation of Margin of Error!!With a computer!!Without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C05_001EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households,S2802
+S2802_C05_001MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households,S2802
+S2802_C05_002EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C05_002MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C05_003EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C05_003MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C05_004EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C05_004MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C05_005EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C05_005MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C05_006EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C05_006MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C05_007EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C05_007MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C05_008EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C05_008MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C05_009EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C05_009MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C05_010EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C05_010MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C05_011EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C05_011MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C05_012EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C05_012MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C05_013EA,string,"Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C05_013MA,string,"Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C05_014EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C05_014MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C05_015EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C05_015MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C05_016EA,string,"Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C05_016MA,string,"Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C05_017EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C05_017MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C05_018EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C05_018MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C05_019EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C05_019MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C05_020EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C05_020MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C05_021EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C05_021MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C05_022EA,string,Annotation of Estimate!!With a computer!!Percent without an Internet Subscription!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C05_022MA,string,Annotation of Margin of Error!!With a computer!!Percent without an Internet Subscription MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C06_001EA,string,Annotation of Estimate!!No computer in household!!Total population in households,S2802
+S2802_C06_001MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households,S2802
+S2802_C06_002EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C06_002MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C06_003EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C06_003MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C06_004EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C06_004MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C06_005EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C06_005MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C06_006EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C06_006MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C06_007EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C06_007MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C06_008EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C06_008MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C06_009EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C06_009MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C06_010EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C06_010MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C06_011EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C06_011MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C06_012EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C06_012MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C06_013EA,string,"Annotation of Estimate!!No computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C06_013MA,string,"Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C06_014EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C06_014MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C06_015EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C06_015MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C06_016EA,string,"Annotation of Estimate!!No computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C06_016MA,string,"Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C06_017EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C06_017MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C06_018EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C06_018MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C06_019EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C06_019MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C06_020EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C06_020MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C06_021EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C06_021MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C06_022EA,string,Annotation of Estimate!!No computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C06_022MA,string,Annotation of Margin of Error!!No computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C07_001EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households,S2802
+S2802_C07_001MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households,S2802
+S2802_C07_002EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C07_002MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!AGE!!Under 18 years,S2802
+S2802_C07_003EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C07_003MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!AGE!!18 to 64 years,S2802
+S2802_C07_004EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C07_004MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!AGE!!65 years and over,S2802
+S2802_C07_005EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C07_005MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2802
+S2802_C07_006EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C07_006MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2802
+S2802_C07_007EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C07_007MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2802
+S2802_C07_008EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C07_008MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2802
+S2802_C07_009EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C07_009MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2802
+S2802_C07_010EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C07_010MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2802
+S2802_C07_011EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C07_011MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2802
+S2802_C07_012EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C07_012MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),S2802
+S2802_C07_013EA,string,"Annotation of Estimate!!Percent no computer in household!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C07_013MA,string,"Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",S2802
+S2802_C07_014EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C07_014MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over,S2802
+S2802_C07_015EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C07_015MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Less than high school graduate or equivalency,S2802
+S2802_C07_016EA,string,"Annotation of Estimate!!Percent no computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C07_016MA,string,"Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!High school graduate (includes equivalency), some college or associate's degree",S2802
+S2802_C07_017EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C07_017MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EDUCATIONAL ATTAINMENT!!Household population 25 years and over!!Bachelor's degree or higher,S2802
+S2802_C07_018EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C07_018MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S2802
+S2802_C07_019EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C07_019MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S2802
+S2802_C07_020EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C07_020MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S2802
+S2802_C07_021EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C07_021MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S2802
+S2802_C07_022EA,string,Annotation of Estimate!!Percent no computer in household!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802
+S2802_C07_022MA,string,Annotation of Margin of Error!!Percent no computer in household MOE!!Total population in households!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S2802

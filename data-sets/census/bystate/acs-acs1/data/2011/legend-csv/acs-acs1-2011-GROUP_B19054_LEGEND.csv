@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19054_001E,int,Estimate!!Total,B19054
+B19054_002E,int,"Estimate!!Total!!With interest, dividends, or net rental income",B19054
+B19054_003E,int,"Estimate!!Total!!No interest, dividends, or net rental income",B19054
+B19054_001M,int,Margin of Error!!Total,B19054
+B19054_002M,int,"Margin of Error!!Total!!With interest, dividends, or net rental income",B19054
+B19054_003M,int,"Margin of Error!!Total!!No interest, dividends, or net rental income",B19054
+B19054_001EA,string,Annotation of Estimate!!Total,B19054
+B19054_001MA,string,Annotation of Margin of Error!!Total,B19054
+B19054_002EA,string,"Annotation of Estimate!!Total!!With interest, dividends, or net rental income",B19054
+B19054_002MA,string,"Annotation of Margin of Error!!Total!!With interest, dividends, or net rental income",B19054
+B19054_003EA,string,"Annotation of Estimate!!Total!!No interest, dividends, or net rental income",B19054
+B19054_003MA,string,"Annotation of Margin of Error!!Total!!No interest, dividends, or net rental income",B19054

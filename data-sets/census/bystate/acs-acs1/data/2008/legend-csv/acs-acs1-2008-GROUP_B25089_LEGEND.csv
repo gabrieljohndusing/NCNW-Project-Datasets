@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25089_001E,int,Estimate!!Aggregate selected monthly owner costs (dollars),B25089
+B25089_002E,int,Estimate!!Aggregate selected monthly owner costs (dollars)!!Housing units with a mortgage (dollars),B25089
+B25089_003E,int,Estimate!!Aggregate selected monthly owner costs (dollars)!!Housing units without a mortgage (dollars),B25089
+B25089_001M,int,Margin of Error!!Aggregate selected monthly owner costs (dollars),B25089
+B25089_002M,int,Margin of Error!!Aggregate selected monthly owner costs (dollars)!!Housing units with a mortgage (dollars),B25089
+B25089_003M,int,Margin of Error!!Aggregate selected monthly owner costs (dollars)!!Housing units without a mortgage (dollars),B25089
+B25089_001EA,string,Annotation of Estimate!!Aggregate selected monthly owner costs (dollars),B25089
+B25089_001MA,string,Annotation of Margin of Error!!Aggregate selected monthly owner costs (dollars),B25089
+B25089_002EA,string,Annotation of Estimate!!Aggregate selected monthly owner costs (dollars)!!Housing units with a mortgage (dollars),B25089
+B25089_002MA,string,Annotation of Margin of Error!!Aggregate selected monthly owner costs (dollars)!!Housing units with a mortgage (dollars),B25089
+B25089_003EA,string,Annotation of Estimate!!Aggregate selected monthly owner costs (dollars)!!Housing units without a mortgage (dollars),B25089
+B25089_003MA,string,Annotation of Margin of Error!!Aggregate selected monthly owner costs (dollars)!!Housing units without a mortgage (dollars),B25089

@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+B29001_001E,int,Estimate!!Total,B29001
+B29001_002E,int,Estimate!!Total!!18 to 29 years,B29001
+B29001_003E,int,Estimate!!Total!!30 to 44 years,B29001
+B29001_004E,int,Estimate!!Total!!45 to 64 years,B29001
+B29001_005E,int,Estimate!!Total!!65 years and over,B29001
+B29001_001M,int,Margin of Error!!Total,B29001
+B29001_002M,int,Margin of Error!!Total!!18 to 29 years,B29001
+B29001_003M,int,Margin of Error!!Total!!30 to 44 years,B29001
+B29001_004M,int,Margin of Error!!Total!!45 to 64 years,B29001
+B29001_005M,int,Margin of Error!!Total!!65 years and over,B29001
+B29001_001EA,string,Annotation of Estimate!!Total,B29001
+B29001_001MA,string,Annotation of Margin of Error!!Total,B29001
+B29001_002EA,string,Annotation of Estimate!!Total!!18 to 29 years,B29001
+B29001_002MA,string,Annotation of Margin of Error!!Total!!18 to 29 years,B29001
+B29001_003EA,string,Annotation of Estimate!!Total!!30 to 44 years,B29001
+B29001_003MA,string,Annotation of Margin of Error!!Total!!30 to 44 years,B29001
+B29001_004EA,string,Annotation of Estimate!!Total!!45 to 64 years,B29001
+B29001_004MA,string,Annotation of Margin of Error!!Total!!45 to 64 years,B29001
+B29001_005EA,string,Annotation of Estimate!!Total!!65 years and over,B29001
+B29001_005MA,string,Annotation of Margin of Error!!Total!!65 years and over,B29001

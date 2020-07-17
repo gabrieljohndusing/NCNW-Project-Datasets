@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27021_001E,int,Estimate!!Total,C27021
+C27021_002E,int,Estimate!!Total!!In family households,C27021
+C27021_003E,int,Estimate!!Total!!In family households!!In married couple families,C27021
+C27021_004E,int,Estimate!!Total!!In family households!!In married couple families!!With health insurance coverage,C27021
+C27021_005E,int,Estimate!!Total!!In family households!!In married couple families!!No health insurance coverage,C27021
+C27021_006E,int,Estimate!!Total!!In family households!!In other families,C27021
+C27021_007E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present",C27021
+C27021_008E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!With health insurance coverage",C27021
+C27021_009E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!No health insurance coverage",C27021
+C27021_010E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present",C27021
+C27021_011E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!With health insurance coverage",C27021
+C27021_012E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!No health insurance coverage",C27021
+C27021_013E,int,Estimate!!Total!!In non-family households and other living arrangements,C27021
+C27021_014E,int,Estimate!!Total!!In non-family households and other living arrangements!!With health insurance coverage,C27021
+C27021_015E,int,Estimate!!Total!!In non-family households and other living arrangements!!No health insurance coverage,C27021
+C27021_001M,int,Margin of Error!!Total,C27021
+C27021_002M,int,Margin of Error!!Total!!In family households,C27021
+C27021_003M,int,Margin of Error!!Total!!In family households!!In married couple families,C27021
+C27021_004M,int,Margin of Error!!Total!!In family households!!In married couple families!!With health insurance coverage,C27021
+C27021_005M,int,Margin of Error!!Total!!In family households!!In married couple families!!No health insurance coverage,C27021
+C27021_006M,int,Margin of Error!!Total!!In family households!!In other families,C27021
+C27021_007M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present",C27021
+C27021_008M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!With health insurance coverage",C27021
+C27021_009M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!No health insurance coverage",C27021
+C27021_010M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present",C27021
+C27021_011M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!With health insurance coverage",C27021
+C27021_012M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!No health insurance coverage",C27021
+C27021_013M,int,Margin of Error!!Total!!In non-family households and other living arrangements,C27021
+C27021_014M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!With health insurance coverage,C27021
+C27021_015M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!No health insurance coverage,C27021
+C27021_001EA,string,Annotation of Estimate!!Total,C27021
+C27021_001MA,string,Annotation of Margin of Error!!Total,C27021
+C27021_002EA,string,Annotation of Estimate!!Total!!In family households,C27021
+C27021_002MA,string,Annotation of Margin of Error!!Total!!In family households,C27021
+C27021_003EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families,C27021
+C27021_003MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families,C27021
+C27021_004EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!With health insurance coverage,C27021
+C27021_004MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!With health insurance coverage,C27021
+C27021_005EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!No health insurance coverage,C27021
+C27021_005MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!No health insurance coverage,C27021
+C27021_006EA,string,Annotation of Estimate!!Total!!In family households!!In other families,C27021
+C27021_006MA,string,Annotation of Margin of Error!!Total!!In family households!!In other families,C27021
+C27021_007EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present",C27021
+C27021_007MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present",C27021
+C27021_008EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!With health insurance coverage",C27021
+C27021_008MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!With health insurance coverage",C27021
+C27021_009EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!No health insurance coverage",C27021
+C27021_009MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!No health insurance coverage",C27021
+C27021_010EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present",C27021
+C27021_010MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present",C27021
+C27021_011EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!With health insurance coverage",C27021
+C27021_011MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!With health insurance coverage",C27021
+C27021_012EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!No health insurance coverage",C27021
+C27021_012MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!No health insurance coverage",C27021
+C27021_013EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements,C27021
+C27021_013MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements,C27021
+C27021_014EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!With health insurance coverage,C27021
+C27021_014MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!With health insurance coverage,C27021
+C27021_015EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!No health insurance coverage,C27021
+C27021_015MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!No health insurance coverage,C27021

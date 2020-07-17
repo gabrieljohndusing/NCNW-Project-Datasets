@@ -1,0 +1,457 @@
+VARIABLE,TYPE,LABEL,GROUP
+B18131_001E,int,Estimate!!Total,B18131
+B18131_002E,int,Estimate!!Total!!Under 5 years,B18131
+B18131_003E,int,Estimate!!Total!!Under 5 years!!Under .50,B18131
+B18131_004E,int,Estimate!!Total!!Under 5 years!!Under .50!!With a disability,B18131
+B18131_005E,int,Estimate!!Total!!Under 5 years!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_006E,int,Estimate!!Total!!Under 5 years!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_007E,int,Estimate!!Total!!Under 5 years!!Under .50!!No disability,B18131
+B18131_008E,int,Estimate!!Total!!Under 5 years!!.50 to .99,B18131
+B18131_009E,int,Estimate!!Total!!Under 5 years!!.50 to .99!!With a disability,B18131
+B18131_010E,int,Estimate!!Total!!Under 5 years!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_011E,int,Estimate!!Total!!Under 5 years!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_012E,int,Estimate!!Total!!Under 5 years!!.50 to .99!!No disability,B18131
+B18131_013E,int,Estimate!!Total!!Under 5 years!!1.00 to 1.49,B18131
+B18131_014E,int,Estimate!!Total!!Under 5 years!!1.00 to 1.49!!With a disability,B18131
+B18131_015E,int,Estimate!!Total!!Under 5 years!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_016E,int,Estimate!!Total!!Under 5 years!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_017E,int,Estimate!!Total!!Under 5 years!!1.00 to 1.49!!No disability,B18131
+B18131_018E,int,Estimate!!Total!!Under 5 years!!1.50 to 1.99,B18131
+B18131_019E,int,Estimate!!Total!!Under 5 years!!1.50 to 1.99!!With a disability,B18131
+B18131_020E,int,Estimate!!Total!!Under 5 years!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_021E,int,Estimate!!Total!!Under 5 years!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_022E,int,Estimate!!Total!!Under 5 years!!1.50 to 1.99!!No disability,B18131
+B18131_023E,int,Estimate!!Total!!Under 5 years!!2.00 and over,B18131
+B18131_024E,int,Estimate!!Total!!Under 5 years!!2.00 and over!!With a disability,B18131
+B18131_025E,int,Estimate!!Total!!Under 5 years!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_026E,int,Estimate!!Total!!Under 5 years!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_027E,int,Estimate!!Total!!Under 5 years!!2.00 and over!!No disability,B18131
+B18131_028E,int,Estimate!!Total!!5 to 17 years,B18131
+B18131_029E,int,Estimate!!Total!!5 to 17 years!!Under .50,B18131
+B18131_030E,int,Estimate!!Total!!5 to 17 years!!Under .50!!With a disability,B18131
+B18131_031E,int,Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_032E,int,Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_033E,int,Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With a cognitive difficulty,B18131
+B18131_034E,int,Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With an ambulatory difficulty,B18131
+B18131_035E,int,Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With a self-care difficulty,B18131
+B18131_036E,int,Estimate!!Total!!5 to 17 years!!Under .50!!No disability,B18131
+B18131_037E,int,Estimate!!Total!!5 to 17 years!!.50 to .99,B18131
+B18131_038E,int,Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability,B18131
+B18131_039E,int,Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_040E,int,Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_041E,int,Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a cognitive difficulty,B18131
+B18131_042E,int,Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_043E,int,Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a self-care difficulty,B18131
+B18131_044E,int,Estimate!!Total!!5 to 17 years!!.50 to .99!!No disability,B18131
+B18131_045E,int,Estimate!!Total!!5 to 17 years!!1.00 to 1.49,B18131
+B18131_046E,int,Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability,B18131
+B18131_047E,int,Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_048E,int,Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_049E,int,Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a cognitive difficulty,B18131
+B18131_050E,int,Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With an ambulatory difficulty,B18131
+B18131_051E,int,Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a self-care difficulty,B18131
+B18131_052E,int,Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!No disability,B18131
+B18131_053E,int,Estimate!!Total!!5 to 17 years!!1.50 to 1.99,B18131
+B18131_054E,int,Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability,B18131
+B18131_055E,int,Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_056E,int,Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_057E,int,Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a cognitive difficulty,B18131
+B18131_058E,int,Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_059E,int,Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a self-care difficulty,B18131
+B18131_060E,int,Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!No disability,B18131
+B18131_061E,int,Estimate!!Total!!5 to 17 years!!2.00 and over,B18131
+B18131_062E,int,Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability,B18131
+B18131_063E,int,Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_064E,int,Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_065E,int,Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a cognitive difficulty,B18131
+B18131_066E,int,Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With an ambulatory difficulty,B18131
+B18131_067E,int,Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a self-care difficulty,B18131
+B18131_068E,int,Estimate!!Total!!5 to 17 years!!2.00 and over!!No disability,B18131
+B18131_069E,int,Estimate!!Total!!18 years and over,B18131
+B18131_070E,int,Estimate!!Total!!18 years and over!!Under .50,B18131
+B18131_071E,int,Estimate!!Total!!18 years and over!!Under .50!!With a disability,B18131
+B18131_072E,int,Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_073E,int,Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_074E,int,Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With a cognitive difficulty,B18131
+B18131_075E,int,Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With an ambulatory difficulty,B18131
+B18131_076E,int,Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With a self-care difficulty,B18131
+B18131_077E,int,Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With an independent living difficulty,B18131
+B18131_078E,int,Estimate!!Total!!18 years and over!!Under .50!!No disability,B18131
+B18131_079E,int,Estimate!!Total!!18 years and over!!.50 to .99,B18131
+B18131_080E,int,Estimate!!Total!!18 years and over!!.50 to .99!!With a disability,B18131
+B18131_081E,int,Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_082E,int,Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_083E,int,Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With a cognitive difficulty,B18131
+B18131_084E,int,Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_085E,int,Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With a self-care difficulty,B18131
+B18131_086E,int,Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With an independent living difficulty,B18131
+B18131_087E,int,Estimate!!Total!!18 years and over!!.50 to .99!!No disability,B18131
+B18131_088E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49,B18131
+B18131_089E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability,B18131
+B18131_090E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_091E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_092E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a cognitive difficulty,B18131
+B18131_093E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With an ambulatory difficulty,B18131
+B18131_094E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a self-care difficulty,B18131
+B18131_095E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With an independent living difficulty,B18131
+B18131_096E,int,Estimate!!Total!!18 years and over!!1.00 to 1.49!!No disability,B18131
+B18131_097E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99,B18131
+B18131_098E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability,B18131
+B18131_099E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_100E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_101E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a cognitive difficulty,B18131
+B18131_102E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_103E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a self-care difficulty,B18131
+B18131_104E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With an independent living difficulty,B18131
+B18131_105E,int,Estimate!!Total!!18 years and over!!1.50 to 1.99!!No disability,B18131
+B18131_106E,int,Estimate!!Total!!18 years and over!!2.00 and over,B18131
+B18131_107E,int,Estimate!!Total!!18 years and over!!2.00 and over!!With a disability,B18131
+B18131_108E,int,Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_109E,int,Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_110E,int,Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With a cognitive difficulty,B18131
+B18131_111E,int,Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With an ambulatory difficulty,B18131
+B18131_112E,int,Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With a self-care difficulty,B18131
+B18131_113E,int,Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With an independent living difficulty,B18131
+B18131_114E,int,Estimate!!Total!!18 years and over!!2.00 and over!!No disability,B18131
+B18131_001M,int,Margin of Error!!Total,B18131
+B18131_002M,int,Margin of Error!!Total!!Under 5 years,B18131
+B18131_003M,int,Margin of Error!!Total!!Under 5 years!!Under .50,B18131
+B18131_004M,int,Margin of Error!!Total!!Under 5 years!!Under .50!!With a disability,B18131
+B18131_005M,int,Margin of Error!!Total!!Under 5 years!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_006M,int,Margin of Error!!Total!!Under 5 years!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_007M,int,Margin of Error!!Total!!Under 5 years!!Under .50!!No disability,B18131
+B18131_008M,int,Margin of Error!!Total!!Under 5 years!!.50 to .99,B18131
+B18131_009M,int,Margin of Error!!Total!!Under 5 years!!.50 to .99!!With a disability,B18131
+B18131_010M,int,Margin of Error!!Total!!Under 5 years!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_011M,int,Margin of Error!!Total!!Under 5 years!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_012M,int,Margin of Error!!Total!!Under 5 years!!.50 to .99!!No disability,B18131
+B18131_013M,int,Margin of Error!!Total!!Under 5 years!!1.00 to 1.49,B18131
+B18131_014M,int,Margin of Error!!Total!!Under 5 years!!1.00 to 1.49!!With a disability,B18131
+B18131_015M,int,Margin of Error!!Total!!Under 5 years!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_016M,int,Margin of Error!!Total!!Under 5 years!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_017M,int,Margin of Error!!Total!!Under 5 years!!1.00 to 1.49!!No disability,B18131
+B18131_018M,int,Margin of Error!!Total!!Under 5 years!!1.50 to 1.99,B18131
+B18131_019M,int,Margin of Error!!Total!!Under 5 years!!1.50 to 1.99!!With a disability,B18131
+B18131_020M,int,Margin of Error!!Total!!Under 5 years!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_021M,int,Margin of Error!!Total!!Under 5 years!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_022M,int,Margin of Error!!Total!!Under 5 years!!1.50 to 1.99!!No disability,B18131
+B18131_023M,int,Margin of Error!!Total!!Under 5 years!!2.00 and over,B18131
+B18131_024M,int,Margin of Error!!Total!!Under 5 years!!2.00 and over!!With a disability,B18131
+B18131_025M,int,Margin of Error!!Total!!Under 5 years!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_026M,int,Margin of Error!!Total!!Under 5 years!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_027M,int,Margin of Error!!Total!!Under 5 years!!2.00 and over!!No disability,B18131
+B18131_028M,int,Margin of Error!!Total!!5 to 17 years,B18131
+B18131_029M,int,Margin of Error!!Total!!5 to 17 years!!Under .50,B18131
+B18131_030M,int,Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability,B18131
+B18131_031M,int,Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_032M,int,Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_033M,int,Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With a cognitive difficulty,B18131
+B18131_034M,int,Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With an ambulatory difficulty,B18131
+B18131_035M,int,Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With a self-care difficulty,B18131
+B18131_036M,int,Margin of Error!!Total!!5 to 17 years!!Under .50!!No disability,B18131
+B18131_037M,int,Margin of Error!!Total!!5 to 17 years!!.50 to .99,B18131
+B18131_038M,int,Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability,B18131
+B18131_039M,int,Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_040M,int,Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_041M,int,Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a cognitive difficulty,B18131
+B18131_042M,int,Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_043M,int,Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a self-care difficulty,B18131
+B18131_044M,int,Margin of Error!!Total!!5 to 17 years!!.50 to .99!!No disability,B18131
+B18131_045M,int,Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49,B18131
+B18131_046M,int,Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability,B18131
+B18131_047M,int,Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_048M,int,Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_049M,int,Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a cognitive difficulty,B18131
+B18131_050M,int,Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With an ambulatory difficulty,B18131
+B18131_051M,int,Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a self-care difficulty,B18131
+B18131_052M,int,Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!No disability,B18131
+B18131_053M,int,Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99,B18131
+B18131_054M,int,Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability,B18131
+B18131_055M,int,Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_056M,int,Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_057M,int,Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a cognitive difficulty,B18131
+B18131_058M,int,Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_059M,int,Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a self-care difficulty,B18131
+B18131_060M,int,Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!No disability,B18131
+B18131_061M,int,Margin of Error!!Total!!5 to 17 years!!2.00 and over,B18131
+B18131_062M,int,Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability,B18131
+B18131_063M,int,Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_064M,int,Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_065M,int,Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a cognitive difficulty,B18131
+B18131_066M,int,Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With an ambulatory difficulty,B18131
+B18131_067M,int,Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a self-care difficulty,B18131
+B18131_068M,int,Margin of Error!!Total!!5 to 17 years!!2.00 and over!!No disability,B18131
+B18131_069M,int,Margin of Error!!Total!!18 years and over,B18131
+B18131_070M,int,Margin of Error!!Total!!18 years and over!!Under .50,B18131
+B18131_071M,int,Margin of Error!!Total!!18 years and over!!Under .50!!With a disability,B18131
+B18131_072M,int,Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_073M,int,Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_074M,int,Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With a cognitive difficulty,B18131
+B18131_075M,int,Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With an ambulatory difficulty,B18131
+B18131_076M,int,Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With a self-care difficulty,B18131
+B18131_077M,int,Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With an independent living difficulty,B18131
+B18131_078M,int,Margin of Error!!Total!!18 years and over!!Under .50!!No disability,B18131
+B18131_079M,int,Margin of Error!!Total!!18 years and over!!.50 to .99,B18131
+B18131_080M,int,Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability,B18131
+B18131_081M,int,Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_082M,int,Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_083M,int,Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With a cognitive difficulty,B18131
+B18131_084M,int,Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_085M,int,Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With a self-care difficulty,B18131
+B18131_086M,int,Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With an independent living difficulty,B18131
+B18131_087M,int,Margin of Error!!Total!!18 years and over!!.50 to .99!!No disability,B18131
+B18131_088M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49,B18131
+B18131_089M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability,B18131
+B18131_090M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_091M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_092M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a cognitive difficulty,B18131
+B18131_093M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With an ambulatory difficulty,B18131
+B18131_094M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a self-care difficulty,B18131
+B18131_095M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With an independent living difficulty,B18131
+B18131_096M,int,Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!No disability,B18131
+B18131_097M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99,B18131
+B18131_098M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability,B18131
+B18131_099M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_100M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_101M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a cognitive difficulty,B18131
+B18131_102M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_103M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a self-care difficulty,B18131
+B18131_104M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With an independent living difficulty,B18131
+B18131_105M,int,Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!No disability,B18131
+B18131_106M,int,Margin of Error!!Total!!18 years and over!!2.00 and over,B18131
+B18131_107M,int,Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability,B18131
+B18131_108M,int,Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_109M,int,Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_110M,int,Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With a cognitive difficulty,B18131
+B18131_111M,int,Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With an ambulatory difficulty,B18131
+B18131_112M,int,Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With a self-care difficulty,B18131
+B18131_113M,int,Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With an independent living difficulty,B18131
+B18131_114M,int,Margin of Error!!Total!!18 years and over!!2.00 and over!!No disability,B18131
+B18131_001EA,string,Annotation of Estimate!!Total,B18131
+B18131_001MA,string,Annotation of Margin of Error!!Total,B18131
+B18131_002EA,string,Annotation of Estimate!!Total!!Under 5 years,B18131
+B18131_002MA,string,Annotation of Margin of Error!!Total!!Under 5 years,B18131
+B18131_003EA,string,Annotation of Estimate!!Total!!Under 5 years!!Under .50,B18131
+B18131_003MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!Under .50,B18131
+B18131_004EA,string,Annotation of Estimate!!Total!!Under 5 years!!Under .50!!With a disability,B18131
+B18131_004MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!Under .50!!With a disability,B18131
+B18131_005EA,string,Annotation of Estimate!!Total!!Under 5 years!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_005MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_006EA,string,Annotation of Estimate!!Total!!Under 5 years!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_006MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_007EA,string,Annotation of Estimate!!Total!!Under 5 years!!Under .50!!No disability,B18131
+B18131_007MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!Under .50!!No disability,B18131
+B18131_008EA,string,Annotation of Estimate!!Total!!Under 5 years!!.50 to .99,B18131
+B18131_008MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!.50 to .99,B18131
+B18131_009EA,string,Annotation of Estimate!!Total!!Under 5 years!!.50 to .99!!With a disability,B18131
+B18131_009MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!.50 to .99!!With a disability,B18131
+B18131_010EA,string,Annotation of Estimate!!Total!!Under 5 years!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_010MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_011EA,string,Annotation of Estimate!!Total!!Under 5 years!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_011MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_012EA,string,Annotation of Estimate!!Total!!Under 5 years!!.50 to .99!!No disability,B18131
+B18131_012MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!.50 to .99!!No disability,B18131
+B18131_013EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.00 to 1.49,B18131
+B18131_013MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.00 to 1.49,B18131
+B18131_014EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.00 to 1.49!!With a disability,B18131
+B18131_014MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.00 to 1.49!!With a disability,B18131
+B18131_015EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_015MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_016EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_016MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_017EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.00 to 1.49!!No disability,B18131
+B18131_017MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.00 to 1.49!!No disability,B18131
+B18131_018EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.50 to 1.99,B18131
+B18131_018MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.50 to 1.99,B18131
+B18131_019EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.50 to 1.99!!With a disability,B18131
+B18131_019MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.50 to 1.99!!With a disability,B18131
+B18131_020EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_020MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_021EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_021MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_022EA,string,Annotation of Estimate!!Total!!Under 5 years!!1.50 to 1.99!!No disability,B18131
+B18131_022MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!1.50 to 1.99!!No disability,B18131
+B18131_023EA,string,Annotation of Estimate!!Total!!Under 5 years!!2.00 and over,B18131
+B18131_023MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!2.00 and over,B18131
+B18131_024EA,string,Annotation of Estimate!!Total!!Under 5 years!!2.00 and over!!With a disability,B18131
+B18131_024MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!2.00 and over!!With a disability,B18131
+B18131_025EA,string,Annotation of Estimate!!Total!!Under 5 years!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_025MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_026EA,string,Annotation of Estimate!!Total!!Under 5 years!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_026MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_027EA,string,Annotation of Estimate!!Total!!Under 5 years!!2.00 and over!!No disability,B18131
+B18131_027MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!2.00 and over!!No disability,B18131
+B18131_028EA,string,Annotation of Estimate!!Total!!5 to 17 years,B18131
+B18131_028MA,string,Annotation of Margin of Error!!Total!!5 to 17 years,B18131
+B18131_029EA,string,Annotation of Estimate!!Total!!5 to 17 years!!Under .50,B18131
+B18131_029MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!Under .50,B18131
+B18131_030EA,string,Annotation of Estimate!!Total!!5 to 17 years!!Under .50!!With a disability,B18131
+B18131_030MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability,B18131
+B18131_031EA,string,Annotation of Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_031MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_032EA,string,Annotation of Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_032MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_033EA,string,Annotation of Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With a cognitive difficulty,B18131
+B18131_033MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With a cognitive difficulty,B18131
+B18131_034EA,string,Annotation of Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With an ambulatory difficulty,B18131
+B18131_034MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With an ambulatory difficulty,B18131
+B18131_035EA,string,Annotation of Estimate!!Total!!5 to 17 years!!Under .50!!With a disability!!With a self-care difficulty,B18131
+B18131_035MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!Under .50!!With a disability!!With a self-care difficulty,B18131
+B18131_036EA,string,Annotation of Estimate!!Total!!5 to 17 years!!Under .50!!No disability,B18131
+B18131_036MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!Under .50!!No disability,B18131
+B18131_037EA,string,Annotation of Estimate!!Total!!5 to 17 years!!.50 to .99,B18131
+B18131_037MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!.50 to .99,B18131
+B18131_038EA,string,Annotation of Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability,B18131
+B18131_038MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability,B18131
+B18131_039EA,string,Annotation of Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_039MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_040EA,string,Annotation of Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_040MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_041EA,string,Annotation of Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a cognitive difficulty,B18131
+B18131_041MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a cognitive difficulty,B18131
+B18131_042EA,string,Annotation of Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_042MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_043EA,string,Annotation of Estimate!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a self-care difficulty,B18131
+B18131_043MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!.50 to .99!!With a disability!!With a self-care difficulty,B18131
+B18131_044EA,string,Annotation of Estimate!!Total!!5 to 17 years!!.50 to .99!!No disability,B18131
+B18131_044MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!.50 to .99!!No disability,B18131
+B18131_045EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.00 to 1.49,B18131
+B18131_045MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49,B18131
+B18131_046EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability,B18131
+B18131_046MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability,B18131
+B18131_047EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_047MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_048EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_048MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_049EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a cognitive difficulty,B18131
+B18131_049MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a cognitive difficulty,B18131
+B18131_050EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With an ambulatory difficulty,B18131
+B18131_050MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With an ambulatory difficulty,B18131
+B18131_051EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a self-care difficulty,B18131
+B18131_051MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!With a disability!!With a self-care difficulty,B18131
+B18131_052EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.00 to 1.49!!No disability,B18131
+B18131_052MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.00 to 1.49!!No disability,B18131
+B18131_053EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.50 to 1.99,B18131
+B18131_053MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99,B18131
+B18131_054EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability,B18131
+B18131_054MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability,B18131
+B18131_055EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_055MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_056EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_056MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_057EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a cognitive difficulty,B18131
+B18131_057MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a cognitive difficulty,B18131
+B18131_058EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_058MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_059EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a self-care difficulty,B18131
+B18131_059MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!With a disability!!With a self-care difficulty,B18131
+B18131_060EA,string,Annotation of Estimate!!Total!!5 to 17 years!!1.50 to 1.99!!No disability,B18131
+B18131_060MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!1.50 to 1.99!!No disability,B18131
+B18131_061EA,string,Annotation of Estimate!!Total!!5 to 17 years!!2.00 and over,B18131
+B18131_061MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!2.00 and over,B18131
+B18131_062EA,string,Annotation of Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability,B18131
+B18131_062MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability,B18131
+B18131_063EA,string,Annotation of Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_063MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_064EA,string,Annotation of Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_064MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_065EA,string,Annotation of Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a cognitive difficulty,B18131
+B18131_065MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a cognitive difficulty,B18131
+B18131_066EA,string,Annotation of Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With an ambulatory difficulty,B18131
+B18131_066MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With an ambulatory difficulty,B18131
+B18131_067EA,string,Annotation of Estimate!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a self-care difficulty,B18131
+B18131_067MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!2.00 and over!!With a disability!!With a self-care difficulty,B18131
+B18131_068EA,string,Annotation of Estimate!!Total!!5 to 17 years!!2.00 and over!!No disability,B18131
+B18131_068MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!2.00 and over!!No disability,B18131
+B18131_069EA,string,Annotation of Estimate!!Total!!18 years and over,B18131
+B18131_069MA,string,Annotation of Margin of Error!!Total!!18 years and over,B18131
+B18131_070EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50,B18131
+B18131_070MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50,B18131
+B18131_071EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50!!With a disability,B18131
+B18131_071MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50!!With a disability,B18131
+B18131_072EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_072MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With a hearing difficulty,B18131
+B18131_073EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_073MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With a vision difficulty,B18131
+B18131_074EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With a cognitive difficulty,B18131
+B18131_074MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With a cognitive difficulty,B18131
+B18131_075EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With an ambulatory difficulty,B18131
+B18131_075MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With an ambulatory difficulty,B18131
+B18131_076EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With a self-care difficulty,B18131
+B18131_076MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With a self-care difficulty,B18131
+B18131_077EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50!!With a disability!!With an independent living difficulty,B18131
+B18131_077MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50!!With a disability!!With an independent living difficulty,B18131
+B18131_078EA,string,Annotation of Estimate!!Total!!18 years and over!!Under .50!!No disability,B18131
+B18131_078MA,string,Annotation of Margin of Error!!Total!!18 years and over!!Under .50!!No disability,B18131
+B18131_079EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99,B18131
+B18131_079MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99,B18131
+B18131_080EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99!!With a disability,B18131
+B18131_080MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability,B18131
+B18131_081EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_081MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With a hearing difficulty,B18131
+B18131_082EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_082MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With a vision difficulty,B18131
+B18131_083EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With a cognitive difficulty,B18131
+B18131_083MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With a cognitive difficulty,B18131
+B18131_084EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_084MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_085EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With a self-care difficulty,B18131
+B18131_085MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With a self-care difficulty,B18131
+B18131_086EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99!!With a disability!!With an independent living difficulty,B18131
+B18131_086MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99!!With a disability!!With an independent living difficulty,B18131
+B18131_087EA,string,Annotation of Estimate!!Total!!18 years and over!!.50 to .99!!No disability,B18131
+B18131_087MA,string,Annotation of Margin of Error!!Total!!18 years and over!!.50 to .99!!No disability,B18131
+B18131_088EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49,B18131
+B18131_088MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49,B18131
+B18131_089EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability,B18131
+B18131_089MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability,B18131
+B18131_090EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_090MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a hearing difficulty,B18131
+B18131_091EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_091MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a vision difficulty,B18131
+B18131_092EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a cognitive difficulty,B18131
+B18131_092MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a cognitive difficulty,B18131
+B18131_093EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With an ambulatory difficulty,B18131
+B18131_093MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With an ambulatory difficulty,B18131
+B18131_094EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a self-care difficulty,B18131
+B18131_094MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With a self-care difficulty,B18131
+B18131_095EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With an independent living difficulty,B18131
+B18131_095MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!With a disability!!With an independent living difficulty,B18131
+B18131_096EA,string,Annotation of Estimate!!Total!!18 years and over!!1.00 to 1.49!!No disability,B18131
+B18131_096MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.00 to 1.49!!No disability,B18131
+B18131_097EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99,B18131
+B18131_097MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99,B18131
+B18131_098EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability,B18131
+B18131_098MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability,B18131
+B18131_099EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_099MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a hearing difficulty,B18131
+B18131_100EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_100MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a vision difficulty,B18131
+B18131_101EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a cognitive difficulty,B18131
+B18131_101MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a cognitive difficulty,B18131
+B18131_102EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_102MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With an ambulatory difficulty,B18131
+B18131_103EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a self-care difficulty,B18131
+B18131_103MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With a self-care difficulty,B18131
+B18131_104EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With an independent living difficulty,B18131
+B18131_104MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!With a disability!!With an independent living difficulty,B18131
+B18131_105EA,string,Annotation of Estimate!!Total!!18 years and over!!1.50 to 1.99!!No disability,B18131
+B18131_105MA,string,Annotation of Margin of Error!!Total!!18 years and over!!1.50 to 1.99!!No disability,B18131
+B18131_106EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over,B18131
+B18131_106MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over,B18131
+B18131_107EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over!!With a disability,B18131
+B18131_107MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability,B18131
+B18131_108EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_108MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With a hearing difficulty,B18131
+B18131_109EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_109MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With a vision difficulty,B18131
+B18131_110EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With a cognitive difficulty,B18131
+B18131_110MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With a cognitive difficulty,B18131
+B18131_111EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With an ambulatory difficulty,B18131
+B18131_111MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With an ambulatory difficulty,B18131
+B18131_112EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With a self-care difficulty,B18131
+B18131_112MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With a self-care difficulty,B18131
+B18131_113EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over!!With a disability!!With an independent living difficulty,B18131
+B18131_113MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over!!With a disability!!With an independent living difficulty,B18131
+B18131_114EA,string,Annotation of Estimate!!Total!!18 years and over!!2.00 and over!!No disability,B18131
+B18131_114MA,string,Annotation of Margin of Error!!Total!!18 years and over!!2.00 and over!!No disability,B18131

@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B21003_001E,int,Estimate!!Total,B21003
+B21003_002E,int,Estimate!!Total!!Veteran,B21003
+B21003_003E,int,Estimate!!Total!!Veteran!!Less than high school graduate,B21003
+B21003_004E,int,Estimate!!Total!!Veteran!!High school graduate (includes equivalency),B21003
+B21003_005E,int,Estimate!!Total!!Veteran!!Some college or associate's degree,B21003
+B21003_006E,int,Estimate!!Total!!Veteran!!Bachelor's degree or higher,B21003
+B21003_007E,int,Estimate!!Total!!Nonveteran,B21003
+B21003_008E,int,Estimate!!Total!!Nonveteran!!Less than high school graduate,B21003
+B21003_009E,int,Estimate!!Total!!Nonveteran!!High school graduate (includes equivalency),B21003
+B21003_010E,int,Estimate!!Total!!Nonveteran!!Some college or associate's degree,B21003
+B21003_011E,int,Estimate!!Total!!Nonveteran!!Bachelor's degree or higher,B21003
+B21003_001M,int,Margin of Error!!Total,B21003
+B21003_002M,int,Margin of Error!!Total!!Veteran,B21003
+B21003_003M,int,Margin of Error!!Total!!Veteran!!Less than high school graduate,B21003
+B21003_004M,int,Margin of Error!!Total!!Veteran!!High school graduate (includes equivalency),B21003
+B21003_005M,int,Margin of Error!!Total!!Veteran!!Some college or associate's degree,B21003
+B21003_006M,int,Margin of Error!!Total!!Veteran!!Bachelor's degree or higher,B21003
+B21003_007M,int,Margin of Error!!Total!!Nonveteran,B21003
+B21003_008M,int,Margin of Error!!Total!!Nonveteran!!Less than high school graduate,B21003
+B21003_009M,int,Margin of Error!!Total!!Nonveteran!!High school graduate (includes equivalency),B21003
+B21003_010M,int,Margin of Error!!Total!!Nonveteran!!Some college or associate's degree,B21003
+B21003_011M,int,Margin of Error!!Total!!Nonveteran!!Bachelor's degree or higher,B21003
+B21003_001EA,string,Annotation of Estimate!!Total,B21003
+B21003_001MA,string,Annotation of Margin of Error!!Total,B21003
+B21003_002EA,string,Annotation of Estimate!!Total!!Veteran,B21003
+B21003_002MA,string,Annotation of Margin of Error!!Total!!Veteran,B21003
+B21003_003EA,string,Annotation of Estimate!!Total!!Veteran!!Less than high school graduate,B21003
+B21003_003MA,string,Annotation of Margin of Error!!Total!!Veteran!!Less than high school graduate,B21003
+B21003_004EA,string,Annotation of Estimate!!Total!!Veteran!!High school graduate (includes equivalency),B21003
+B21003_004MA,string,Annotation of Margin of Error!!Total!!Veteran!!High school graduate (includes equivalency),B21003
+B21003_005EA,string,Annotation of Estimate!!Total!!Veteran!!Some college or associate's degree,B21003
+B21003_005MA,string,Annotation of Margin of Error!!Total!!Veteran!!Some college or associate's degree,B21003
+B21003_006EA,string,Annotation of Estimate!!Total!!Veteran!!Bachelor's degree or higher,B21003
+B21003_006MA,string,Annotation of Margin of Error!!Total!!Veteran!!Bachelor's degree or higher,B21003
+B21003_007EA,string,Annotation of Estimate!!Total!!Nonveteran,B21003
+B21003_007MA,string,Annotation of Margin of Error!!Total!!Nonveteran,B21003
+B21003_008EA,string,Annotation of Estimate!!Total!!Nonveteran!!Less than high school graduate,B21003
+B21003_008MA,string,Annotation of Margin of Error!!Total!!Nonveteran!!Less than high school graduate,B21003
+B21003_009EA,string,Annotation of Estimate!!Total!!Nonveteran!!High school graduate (includes equivalency),B21003
+B21003_009MA,string,Annotation of Margin of Error!!Total!!Nonveteran!!High school graduate (includes equivalency),B21003
+B21003_010EA,string,Annotation of Estimate!!Total!!Nonveteran!!Some college or associate's degree,B21003
+B21003_010MA,string,Annotation of Margin of Error!!Total!!Nonveteran!!Some college or associate's degree,B21003
+B21003_011EA,string,Annotation of Estimate!!Total!!Nonveteran!!Bachelor's degree or higher,B21003
+B21003_011MA,string,Annotation of Margin of Error!!Total!!Nonveteran!!Bachelor's degree or higher,B21003

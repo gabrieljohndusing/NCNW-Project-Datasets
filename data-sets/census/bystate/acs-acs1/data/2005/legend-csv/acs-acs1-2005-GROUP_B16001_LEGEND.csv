@@ -1,0 +1,477 @@
+VARIABLE,TYPE,LABEL,GROUP
+B16001_001E,int,Estimate!!Total,B16001
+B16001_002E,int,Estimate!!Total!!Speak only English,B16001
+B16001_003E,int,Estimate!!Total!!Spanish or Spanish Creole,B16001
+B16001_004E,int,"Estimate!!Total!!Spanish or Spanish Creole!!Speak English ""very well""",B16001
+B16001_005E,int,"Estimate!!Total!!Spanish or Spanish Creole!!Speak English less than ""very well""",B16001
+B16001_006E,int,"Estimate!!Total!!French (incl. Patois, Cajun)",B16001
+B16001_007E,int,"Estimate!!Total!!French (incl. Patois, Cajun)!!Speak English ""very well""",B16001
+B16001_008E,int,"Estimate!!Total!!French (incl. Patois, Cajun)!!Speak English less than ""very well""",B16001
+B16001_009E,int,Estimate!!Total!!French Creole,B16001
+B16001_010E,int,"Estimate!!Total!!French Creole!!Speak English ""very well""",B16001
+B16001_011E,int,"Estimate!!Total!!French Creole!!Speak English less than ""very well""",B16001
+B16001_012E,int,Estimate!!Total!!Italian,B16001
+B16001_013E,int,"Estimate!!Total!!Italian!!Speak English ""very well""",B16001
+B16001_014E,int,"Estimate!!Total!!Italian!!Speak English less than ""very well""",B16001
+B16001_015E,int,Estimate!!Total!!Portuguese or Portuguese Creole,B16001
+B16001_016E,int,"Estimate!!Total!!Portuguese or Portuguese Creole!!Speak English ""very well""",B16001
+B16001_017E,int,"Estimate!!Total!!Portuguese or Portuguese Creole!!Speak English less than ""very well""",B16001
+B16001_018E,int,Estimate!!Total!!German,B16001
+B16001_019E,int,"Estimate!!Total!!German!!Speak English ""very well""",B16001
+B16001_020E,int,"Estimate!!Total!!German!!Speak English less than ""very well""",B16001
+B16001_021E,int,Estimate!!Total!!Yiddish,B16001
+B16001_022E,int,"Estimate!!Total!!Yiddish!!Speak English ""very well""",B16001
+B16001_023E,int,"Estimate!!Total!!Yiddish!!Speak English less than ""very well""",B16001
+B16001_024E,int,Estimate!!Total!!Other West Germanic languages,B16001
+B16001_025E,int,"Estimate!!Total!!Other West Germanic languages!!Speak English ""very well""",B16001
+B16001_026E,int,"Estimate!!Total!!Other West Germanic languages!!Speak English less than ""very well""",B16001
+B16001_027E,int,Estimate!!Total!!Scandinavian languages,B16001
+B16001_028E,int,"Estimate!!Total!!Scandinavian languages!!Speak English ""very well""",B16001
+B16001_029E,int,"Estimate!!Total!!Scandinavian languages!!Speak English less than ""very well""",B16001
+B16001_030E,int,Estimate!!Total!!Greek,B16001
+B16001_031E,int,"Estimate!!Total!!Greek!!Speak English ""very well""",B16001
+B16001_032E,int,"Estimate!!Total!!Greek!!Speak English less than ""very well""",B16001
+B16001_033E,int,Estimate!!Total!!Russian,B16001
+B16001_034E,int,"Estimate!!Total!!Russian!!Speak English ""very well""",B16001
+B16001_035E,int,"Estimate!!Total!!Russian!!Speak English less than ""very well""",B16001
+B16001_036E,int,Estimate!!Total!!Polish,B16001
+B16001_037E,int,"Estimate!!Total!!Polish!!Speak English ""very well""",B16001
+B16001_038E,int,"Estimate!!Total!!Polish!!Speak English less than ""very well""",B16001
+B16001_039E,int,Estimate!!Total!!Serbo-Croatian,B16001
+B16001_040E,int,"Estimate!!Total!!Serbo-Croatian!!Speak English ""very well""",B16001
+B16001_041E,int,"Estimate!!Total!!Serbo-Croatian!!Speak English less than ""very well""",B16001
+B16001_042E,int,Estimate!!Total!!Other Slavic languages,B16001
+B16001_043E,int,"Estimate!!Total!!Other Slavic languages!!Speak English ""very well""",B16001
+B16001_044E,int,"Estimate!!Total!!Other Slavic languages!!Speak English less than ""very well""",B16001
+B16001_045E,int,Estimate!!Total!!Armenian,B16001
+B16001_046E,int,"Estimate!!Total!!Armenian!!Speak English ""very well""",B16001
+B16001_047E,int,"Estimate!!Total!!Armenian!!Speak English less than ""very well""",B16001
+B16001_048E,int,Estimate!!Total!!Persian,B16001
+B16001_049E,int,"Estimate!!Total!!Persian!!Speak English ""very well""",B16001
+B16001_050E,int,"Estimate!!Total!!Persian!!Speak English less than ""very well""",B16001
+B16001_051E,int,Estimate!!Total!!Gujarathi,B16001
+B16001_052E,int,"Estimate!!Total!!Gujarathi!!Speak English ""very well""",B16001
+B16001_053E,int,"Estimate!!Total!!Gujarathi!!Speak English less than ""very well""",B16001
+B16001_054E,int,Estimate!!Total!!Hindi,B16001
+B16001_055E,int,"Estimate!!Total!!Hindi!!Speak English ""very well""",B16001
+B16001_056E,int,"Estimate!!Total!!Hindi!!Speak English less than ""very well""",B16001
+B16001_057E,int,Estimate!!Total!!Urdu,B16001
+B16001_058E,int,"Estimate!!Total!!Urdu!!Speak English ""very well""",B16001
+B16001_059E,int,"Estimate!!Total!!Urdu!!Speak English less than ""very well""",B16001
+B16001_060E,int,Estimate!!Total!!Other Indic languages,B16001
+B16001_061E,int,"Estimate!!Total!!Other Indic languages!!Speak English ""very well""",B16001
+B16001_062E,int,"Estimate!!Total!!Other Indic languages!!Speak English less than ""very well""",B16001
+B16001_063E,int,Estimate!!Total!!Other Indo-European languages,B16001
+B16001_064E,int,"Estimate!!Total!!Other Indo-European languages!!Speak English ""very well""",B16001
+B16001_065E,int,"Estimate!!Total!!Other Indo-European languages!!Speak English less than ""very well""",B16001
+B16001_066E,int,Estimate!!Total!!Chinese,B16001
+B16001_067E,int,"Estimate!!Total!!Chinese!!Speak English ""very well""",B16001
+B16001_068E,int,"Estimate!!Total!!Chinese!!Speak English less than ""very well""",B16001
+B16001_069E,int,Estimate!!Total!!Japanese,B16001
+B16001_070E,int,"Estimate!!Total!!Japanese!!Speak English ""very well""",B16001
+B16001_071E,int,"Estimate!!Total!!Japanese!!Speak English less than ""very well""",B16001
+B16001_072E,int,Estimate!!Total!!Korean,B16001
+B16001_073E,int,"Estimate!!Total!!Korean!!Speak English ""very well""",B16001
+B16001_074E,int,"Estimate!!Total!!Korean!!Speak English less than ""very well""",B16001
+B16001_075E,int,"Estimate!!Total!!Mon-Khmer, Cambodian",B16001
+B16001_076E,int,"Estimate!!Total!!Mon-Khmer, Cambodian!!Speak English ""very well""",B16001
+B16001_077E,int,"Estimate!!Total!!Mon-Khmer, Cambodian!!Speak English less than ""very well""",B16001
+B16001_078E,int,Estimate!!Total!!Hmong,B16001
+B16001_079E,int,"Estimate!!Total!!Hmong!!Speak English ""very well""",B16001
+B16001_080E,int,"Estimate!!Total!!Hmong!!Speak English less than ""very well""",B16001
+B16001_081E,int,Estimate!!Total!!Thai,B16001
+B16001_082E,int,"Estimate!!Total!!Thai!!Speak English ""very well""",B16001
+B16001_083E,int,"Estimate!!Total!!Thai!!Speak English less than ""very well""",B16001
+B16001_084E,int,Estimate!!Total!!Laotian,B16001
+B16001_085E,int,"Estimate!!Total!!Laotian!!Speak English ""very well""",B16001
+B16001_086E,int,"Estimate!!Total!!Laotian!!Speak English less than ""very well""",B16001
+B16001_087E,int,Estimate!!Total!!Vietnamese,B16001
+B16001_088E,int,"Estimate!!Total!!Vietnamese!!Speak English ""very well""",B16001
+B16001_089E,int,"Estimate!!Total!!Vietnamese!!Speak English less than ""very well""",B16001
+B16001_090E,int,Estimate!!Total!!Other Asian languages,B16001
+B16001_091E,int,"Estimate!!Total!!Other Asian languages!!Speak English ""very well""",B16001
+B16001_092E,int,"Estimate!!Total!!Other Asian languages!!Speak English less than ""very well""",B16001
+B16001_093E,int,Estimate!!Total!!Tagalog,B16001
+B16001_094E,int,"Estimate!!Total!!Tagalog!!Speak English ""very well""",B16001
+B16001_095E,int,"Estimate!!Total!!Tagalog!!Speak English less than ""very well""",B16001
+B16001_096E,int,Estimate!!Total!!Other Pacific Island languages,B16001
+B16001_097E,int,"Estimate!!Total!!Other Pacific Island languages!!Speak English ""very well""",B16001
+B16001_098E,int,"Estimate!!Total!!Other Pacific Island languages!!Speak English less than ""very well""",B16001
+B16001_099E,int,Estimate!!Total!!Navajo,B16001
+B16001_100E,int,"Estimate!!Total!!Navajo!!Speak English ""very well""",B16001
+B16001_101E,int,"Estimate!!Total!!Navajo!!Speak English less than ""very well""",B16001
+B16001_102E,int,Estimate!!Total!!Other Native North American languages,B16001
+B16001_103E,int,"Estimate!!Total!!Other Native North American languages!!Speak English ""very well""",B16001
+B16001_104E,int,"Estimate!!Total!!Other Native North American languages!!Speak English less than ""very well""",B16001
+B16001_105E,int,Estimate!!Total!!Hungarian,B16001
+B16001_106E,int,"Estimate!!Total!!Hungarian!!Speak English ""very well""",B16001
+B16001_107E,int,"Estimate!!Total!!Hungarian!!Speak English less than ""very well""",B16001
+B16001_108E,int,Estimate!!Total!!Arabic,B16001
+B16001_109E,int,"Estimate!!Total!!Arabic!!Speak English ""very well""",B16001
+B16001_110E,int,"Estimate!!Total!!Arabic!!Speak English less than ""very well""",B16001
+B16001_111E,int,Estimate!!Total!!Hebrew,B16001
+B16001_112E,int,"Estimate!!Total!!Hebrew!!Speak English ""very well""",B16001
+B16001_113E,int,"Estimate!!Total!!Hebrew!!Speak English less than ""very well""",B16001
+B16001_114E,int,Estimate!!Total!!African languages,B16001
+B16001_115E,int,"Estimate!!Total!!African languages!!Speak English ""very well""",B16001
+B16001_116E,int,"Estimate!!Total!!African languages!!Speak English less than ""very well""",B16001
+B16001_117E,int,Estimate!!Total!!Other and unspecified languages,B16001
+B16001_118E,int,"Estimate!!Total!!Other and unspecified languages!!Speak English ""very well""",B16001
+B16001_119E,int,"Estimate!!Total!!Other and unspecified languages!!Speak English less than ""very well""",B16001
+B16001_001M,int,Margin of Error!!Total,B16001
+B16001_002M,int,Margin of Error!!Total!!Speak only English,B16001
+B16001_003M,int,Margin of Error!!Total!!Spanish or Spanish Creole,B16001
+B16001_004M,int,"Margin of Error!!Total!!Spanish or Spanish Creole!!Speak English ""very well""",B16001
+B16001_005M,int,"Margin of Error!!Total!!Spanish or Spanish Creole!!Speak English less than ""very well""",B16001
+B16001_006M,int,"Margin of Error!!Total!!French (incl. Patois, Cajun)",B16001
+B16001_007M,int,"Margin of Error!!Total!!French (incl. Patois, Cajun)!!Speak English ""very well""",B16001
+B16001_008M,int,"Margin of Error!!Total!!French (incl. Patois, Cajun)!!Speak English less than ""very well""",B16001
+B16001_009M,int,Margin of Error!!Total!!French Creole,B16001
+B16001_010M,int,"Margin of Error!!Total!!French Creole!!Speak English ""very well""",B16001
+B16001_011M,int,"Margin of Error!!Total!!French Creole!!Speak English less than ""very well""",B16001
+B16001_012M,int,Margin of Error!!Total!!Italian,B16001
+B16001_013M,int,"Margin of Error!!Total!!Italian!!Speak English ""very well""",B16001
+B16001_014M,int,"Margin of Error!!Total!!Italian!!Speak English less than ""very well""",B16001
+B16001_015M,int,Margin of Error!!Total!!Portuguese or Portuguese Creole,B16001
+B16001_016M,int,"Margin of Error!!Total!!Portuguese or Portuguese Creole!!Speak English ""very well""",B16001
+B16001_017M,int,"Margin of Error!!Total!!Portuguese or Portuguese Creole!!Speak English less than ""very well""",B16001
+B16001_018M,int,Margin of Error!!Total!!German,B16001
+B16001_019M,int,"Margin of Error!!Total!!German!!Speak English ""very well""",B16001
+B16001_020M,int,"Margin of Error!!Total!!German!!Speak English less than ""very well""",B16001
+B16001_021M,int,Margin of Error!!Total!!Yiddish,B16001
+B16001_022M,int,"Margin of Error!!Total!!Yiddish!!Speak English ""very well""",B16001
+B16001_023M,int,"Margin of Error!!Total!!Yiddish!!Speak English less than ""very well""",B16001
+B16001_024M,int,Margin of Error!!Total!!Other West Germanic languages,B16001
+B16001_025M,int,"Margin of Error!!Total!!Other West Germanic languages!!Speak English ""very well""",B16001
+B16001_026M,int,"Margin of Error!!Total!!Other West Germanic languages!!Speak English less than ""very well""",B16001
+B16001_027M,int,Margin of Error!!Total!!Scandinavian languages,B16001
+B16001_028M,int,"Margin of Error!!Total!!Scandinavian languages!!Speak English ""very well""",B16001
+B16001_029M,int,"Margin of Error!!Total!!Scandinavian languages!!Speak English less than ""very well""",B16001
+B16001_030M,int,Margin of Error!!Total!!Greek,B16001
+B16001_031M,int,"Margin of Error!!Total!!Greek!!Speak English ""very well""",B16001
+B16001_032M,int,"Margin of Error!!Total!!Greek!!Speak English less than ""very well""",B16001
+B16001_033M,int,Margin of Error!!Total!!Russian,B16001
+B16001_034M,int,"Margin of Error!!Total!!Russian!!Speak English ""very well""",B16001
+B16001_035M,int,"Margin of Error!!Total!!Russian!!Speak English less than ""very well""",B16001
+B16001_036M,int,Margin of Error!!Total!!Polish,B16001
+B16001_037M,int,"Margin of Error!!Total!!Polish!!Speak English ""very well""",B16001
+B16001_038M,int,"Margin of Error!!Total!!Polish!!Speak English less than ""very well""",B16001
+B16001_039M,int,Margin of Error!!Total!!Serbo-Croatian,B16001
+B16001_040M,int,"Margin of Error!!Total!!Serbo-Croatian!!Speak English ""very well""",B16001
+B16001_041M,int,"Margin of Error!!Total!!Serbo-Croatian!!Speak English less than ""very well""",B16001
+B16001_042M,int,Margin of Error!!Total!!Other Slavic languages,B16001
+B16001_043M,int,"Margin of Error!!Total!!Other Slavic languages!!Speak English ""very well""",B16001
+B16001_044M,int,"Margin of Error!!Total!!Other Slavic languages!!Speak English less than ""very well""",B16001
+B16001_045M,int,Margin of Error!!Total!!Armenian,B16001
+B16001_046M,int,"Margin of Error!!Total!!Armenian!!Speak English ""very well""",B16001
+B16001_047M,int,"Margin of Error!!Total!!Armenian!!Speak English less than ""very well""",B16001
+B16001_048M,int,Margin of Error!!Total!!Persian,B16001
+B16001_049M,int,"Margin of Error!!Total!!Persian!!Speak English ""very well""",B16001
+B16001_050M,int,"Margin of Error!!Total!!Persian!!Speak English less than ""very well""",B16001
+B16001_051M,int,Margin of Error!!Total!!Gujarathi,B16001
+B16001_052M,int,"Margin of Error!!Total!!Gujarathi!!Speak English ""very well""",B16001
+B16001_053M,int,"Margin of Error!!Total!!Gujarathi!!Speak English less than ""very well""",B16001
+B16001_054M,int,Margin of Error!!Total!!Hindi,B16001
+B16001_055M,int,"Margin of Error!!Total!!Hindi!!Speak English ""very well""",B16001
+B16001_056M,int,"Margin of Error!!Total!!Hindi!!Speak English less than ""very well""",B16001
+B16001_057M,int,Margin of Error!!Total!!Urdu,B16001
+B16001_058M,int,"Margin of Error!!Total!!Urdu!!Speak English ""very well""",B16001
+B16001_059M,int,"Margin of Error!!Total!!Urdu!!Speak English less than ""very well""",B16001
+B16001_060M,int,Margin of Error!!Total!!Other Indic languages,B16001
+B16001_061M,int,"Margin of Error!!Total!!Other Indic languages!!Speak English ""very well""",B16001
+B16001_062M,int,"Margin of Error!!Total!!Other Indic languages!!Speak English less than ""very well""",B16001
+B16001_063M,int,Margin of Error!!Total!!Other Indo-European languages,B16001
+B16001_064M,int,"Margin of Error!!Total!!Other Indo-European languages!!Speak English ""very well""",B16001
+B16001_065M,int,"Margin of Error!!Total!!Other Indo-European languages!!Speak English less than ""very well""",B16001
+B16001_066M,int,Margin of Error!!Total!!Chinese,B16001
+B16001_067M,int,"Margin of Error!!Total!!Chinese!!Speak English ""very well""",B16001
+B16001_068M,int,"Margin of Error!!Total!!Chinese!!Speak English less than ""very well""",B16001
+B16001_069M,int,Margin of Error!!Total!!Japanese,B16001
+B16001_070M,int,"Margin of Error!!Total!!Japanese!!Speak English ""very well""",B16001
+B16001_071M,int,"Margin of Error!!Total!!Japanese!!Speak English less than ""very well""",B16001
+B16001_072M,int,Margin of Error!!Total!!Korean,B16001
+B16001_073M,int,"Margin of Error!!Total!!Korean!!Speak English ""very well""",B16001
+B16001_074M,int,"Margin of Error!!Total!!Korean!!Speak English less than ""very well""",B16001
+B16001_075M,int,"Margin of Error!!Total!!Mon-Khmer, Cambodian",B16001
+B16001_076M,int,"Margin of Error!!Total!!Mon-Khmer, Cambodian!!Speak English ""very well""",B16001
+B16001_077M,int,"Margin of Error!!Total!!Mon-Khmer, Cambodian!!Speak English less than ""very well""",B16001
+B16001_078M,int,Margin of Error!!Total!!Hmong,B16001
+B16001_079M,int,"Margin of Error!!Total!!Hmong!!Speak English ""very well""",B16001
+B16001_080M,int,"Margin of Error!!Total!!Hmong!!Speak English less than ""very well""",B16001
+B16001_081M,int,Margin of Error!!Total!!Thai,B16001
+B16001_082M,int,"Margin of Error!!Total!!Thai!!Speak English ""very well""",B16001
+B16001_083M,int,"Margin of Error!!Total!!Thai!!Speak English less than ""very well""",B16001
+B16001_084M,int,Margin of Error!!Total!!Laotian,B16001
+B16001_085M,int,"Margin of Error!!Total!!Laotian!!Speak English ""very well""",B16001
+B16001_086M,int,"Margin of Error!!Total!!Laotian!!Speak English less than ""very well""",B16001
+B16001_087M,int,Margin of Error!!Total!!Vietnamese,B16001
+B16001_088M,int,"Margin of Error!!Total!!Vietnamese!!Speak English ""very well""",B16001
+B16001_089M,int,"Margin of Error!!Total!!Vietnamese!!Speak English less than ""very well""",B16001
+B16001_090M,int,Margin of Error!!Total!!Other Asian languages,B16001
+B16001_091M,int,"Margin of Error!!Total!!Other Asian languages!!Speak English ""very well""",B16001
+B16001_092M,int,"Margin of Error!!Total!!Other Asian languages!!Speak English less than ""very well""",B16001
+B16001_093M,int,Margin of Error!!Total!!Tagalog,B16001
+B16001_094M,int,"Margin of Error!!Total!!Tagalog!!Speak English ""very well""",B16001
+B16001_095M,int,"Margin of Error!!Total!!Tagalog!!Speak English less than ""very well""",B16001
+B16001_096M,int,Margin of Error!!Total!!Other Pacific Island languages,B16001
+B16001_097M,int,"Margin of Error!!Total!!Other Pacific Island languages!!Speak English ""very well""",B16001
+B16001_098M,int,"Margin of Error!!Total!!Other Pacific Island languages!!Speak English less than ""very well""",B16001
+B16001_099M,int,Margin of Error!!Total!!Navajo,B16001
+B16001_100M,int,"Margin of Error!!Total!!Navajo!!Speak English ""very well""",B16001
+B16001_101M,int,"Margin of Error!!Total!!Navajo!!Speak English less than ""very well""",B16001
+B16001_102M,int,Margin of Error!!Total!!Other Native North American languages,B16001
+B16001_103M,int,"Margin of Error!!Total!!Other Native North American languages!!Speak English ""very well""",B16001
+B16001_104M,int,"Margin of Error!!Total!!Other Native North American languages!!Speak English less than ""very well""",B16001
+B16001_105M,int,Margin of Error!!Total!!Hungarian,B16001
+B16001_106M,int,"Margin of Error!!Total!!Hungarian!!Speak English ""very well""",B16001
+B16001_107M,int,"Margin of Error!!Total!!Hungarian!!Speak English less than ""very well""",B16001
+B16001_108M,int,Margin of Error!!Total!!Arabic,B16001
+B16001_109M,int,"Margin of Error!!Total!!Arabic!!Speak English ""very well""",B16001
+B16001_110M,int,"Margin of Error!!Total!!Arabic!!Speak English less than ""very well""",B16001
+B16001_111M,int,Margin of Error!!Total!!Hebrew,B16001
+B16001_112M,int,"Margin of Error!!Total!!Hebrew!!Speak English ""very well""",B16001
+B16001_113M,int,"Margin of Error!!Total!!Hebrew!!Speak English less than ""very well""",B16001
+B16001_114M,int,Margin of Error!!Total!!African languages,B16001
+B16001_115M,int,"Margin of Error!!Total!!African languages!!Speak English ""very well""",B16001
+B16001_116M,int,"Margin of Error!!Total!!African languages!!Speak English less than ""very well""",B16001
+B16001_117M,int,Margin of Error!!Total!!Other and unspecified languages,B16001
+B16001_118M,int,"Margin of Error!!Total!!Other and unspecified languages!!Speak English ""very well""",B16001
+B16001_119M,int,"Margin of Error!!Total!!Other and unspecified languages!!Speak English less than ""very well""",B16001
+B16001_001EA,string,Annotation of Estimate!!Total,B16001
+B16001_001MA,string,Annotation of Margin of Error!!Total,B16001
+B16001_002EA,string,Annotation of Estimate!!Total!!Speak only English,B16001
+B16001_002MA,string,Annotation of Margin of Error!!Total!!Speak only English,B16001
+B16001_003EA,string,Annotation of Estimate!!Total!!Spanish or Spanish Creole,B16001
+B16001_003MA,string,Annotation of Margin of Error!!Total!!Spanish or Spanish Creole,B16001
+B16001_004EA,string,"Annotation of Estimate!!Total!!Spanish or Spanish Creole!!Speak English ""very well""",B16001
+B16001_004MA,string,"Annotation of Margin of Error!!Total!!Spanish or Spanish Creole!!Speak English ""very well""",B16001
+B16001_005EA,string,"Annotation of Estimate!!Total!!Spanish or Spanish Creole!!Speak English less than ""very well""",B16001
+B16001_005MA,string,"Annotation of Margin of Error!!Total!!Spanish or Spanish Creole!!Speak English less than ""very well""",B16001
+B16001_006EA,string,"Annotation of Estimate!!Total!!French (incl. Patois, Cajun)",B16001
+B16001_006MA,string,"Annotation of Margin of Error!!Total!!French (incl. Patois, Cajun)",B16001
+B16001_007EA,string,"Annotation of Estimate!!Total!!French (incl. Patois, Cajun)!!Speak English ""very well""",B16001
+B16001_007MA,string,"Annotation of Margin of Error!!Total!!French (incl. Patois, Cajun)!!Speak English ""very well""",B16001
+B16001_008EA,string,"Annotation of Estimate!!Total!!French (incl. Patois, Cajun)!!Speak English less than ""very well""",B16001
+B16001_008MA,string,"Annotation of Margin of Error!!Total!!French (incl. Patois, Cajun)!!Speak English less than ""very well""",B16001
+B16001_009EA,string,Annotation of Estimate!!Total!!French Creole,B16001
+B16001_009MA,string,Annotation of Margin of Error!!Total!!French Creole,B16001
+B16001_010EA,string,"Annotation of Estimate!!Total!!French Creole!!Speak English ""very well""",B16001
+B16001_010MA,string,"Annotation of Margin of Error!!Total!!French Creole!!Speak English ""very well""",B16001
+B16001_011EA,string,"Annotation of Estimate!!Total!!French Creole!!Speak English less than ""very well""",B16001
+B16001_011MA,string,"Annotation of Margin of Error!!Total!!French Creole!!Speak English less than ""very well""",B16001
+B16001_012EA,string,Annotation of Estimate!!Total!!Italian,B16001
+B16001_012MA,string,Annotation of Margin of Error!!Total!!Italian,B16001
+B16001_013EA,string,"Annotation of Estimate!!Total!!Italian!!Speak English ""very well""",B16001
+B16001_013MA,string,"Annotation of Margin of Error!!Total!!Italian!!Speak English ""very well""",B16001
+B16001_014EA,string,"Annotation of Estimate!!Total!!Italian!!Speak English less than ""very well""",B16001
+B16001_014MA,string,"Annotation of Margin of Error!!Total!!Italian!!Speak English less than ""very well""",B16001
+B16001_015EA,string,Annotation of Estimate!!Total!!Portuguese or Portuguese Creole,B16001
+B16001_015MA,string,Annotation of Margin of Error!!Total!!Portuguese or Portuguese Creole,B16001
+B16001_016EA,string,"Annotation of Estimate!!Total!!Portuguese or Portuguese Creole!!Speak English ""very well""",B16001
+B16001_016MA,string,"Annotation of Margin of Error!!Total!!Portuguese or Portuguese Creole!!Speak English ""very well""",B16001
+B16001_017EA,string,"Annotation of Estimate!!Total!!Portuguese or Portuguese Creole!!Speak English less than ""very well""",B16001
+B16001_017MA,string,"Annotation of Margin of Error!!Total!!Portuguese or Portuguese Creole!!Speak English less than ""very well""",B16001
+B16001_018EA,string,Annotation of Estimate!!Total!!German,B16001
+B16001_018MA,string,Annotation of Margin of Error!!Total!!German,B16001
+B16001_019EA,string,"Annotation of Estimate!!Total!!German!!Speak English ""very well""",B16001
+B16001_019MA,string,"Annotation of Margin of Error!!Total!!German!!Speak English ""very well""",B16001
+B16001_020EA,string,"Annotation of Estimate!!Total!!German!!Speak English less than ""very well""",B16001
+B16001_020MA,string,"Annotation of Margin of Error!!Total!!German!!Speak English less than ""very well""",B16001
+B16001_021EA,string,Annotation of Estimate!!Total!!Yiddish,B16001
+B16001_021MA,string,Annotation of Margin of Error!!Total!!Yiddish,B16001
+B16001_022EA,string,"Annotation of Estimate!!Total!!Yiddish!!Speak English ""very well""",B16001
+B16001_022MA,string,"Annotation of Margin of Error!!Total!!Yiddish!!Speak English ""very well""",B16001
+B16001_023EA,string,"Annotation of Estimate!!Total!!Yiddish!!Speak English less than ""very well""",B16001
+B16001_023MA,string,"Annotation of Margin of Error!!Total!!Yiddish!!Speak English less than ""very well""",B16001
+B16001_024EA,string,Annotation of Estimate!!Total!!Other West Germanic languages,B16001
+B16001_024MA,string,Annotation of Margin of Error!!Total!!Other West Germanic languages,B16001
+B16001_025EA,string,"Annotation of Estimate!!Total!!Other West Germanic languages!!Speak English ""very well""",B16001
+B16001_025MA,string,"Annotation of Margin of Error!!Total!!Other West Germanic languages!!Speak English ""very well""",B16001
+B16001_026EA,string,"Annotation of Estimate!!Total!!Other West Germanic languages!!Speak English less than ""very well""",B16001
+B16001_026MA,string,"Annotation of Margin of Error!!Total!!Other West Germanic languages!!Speak English less than ""very well""",B16001
+B16001_027EA,string,Annotation of Estimate!!Total!!Scandinavian languages,B16001
+B16001_027MA,string,Annotation of Margin of Error!!Total!!Scandinavian languages,B16001
+B16001_028EA,string,"Annotation of Estimate!!Total!!Scandinavian languages!!Speak English ""very well""",B16001
+B16001_028MA,string,"Annotation of Margin of Error!!Total!!Scandinavian languages!!Speak English ""very well""",B16001
+B16001_029EA,string,"Annotation of Estimate!!Total!!Scandinavian languages!!Speak English less than ""very well""",B16001
+B16001_029MA,string,"Annotation of Margin of Error!!Total!!Scandinavian languages!!Speak English less than ""very well""",B16001
+B16001_030EA,string,Annotation of Estimate!!Total!!Greek,B16001
+B16001_030MA,string,Annotation of Margin of Error!!Total!!Greek,B16001
+B16001_031EA,string,"Annotation of Estimate!!Total!!Greek!!Speak English ""very well""",B16001
+B16001_031MA,string,"Annotation of Margin of Error!!Total!!Greek!!Speak English ""very well""",B16001
+B16001_032EA,string,"Annotation of Estimate!!Total!!Greek!!Speak English less than ""very well""",B16001
+B16001_032MA,string,"Annotation of Margin of Error!!Total!!Greek!!Speak English less than ""very well""",B16001
+B16001_033EA,string,Annotation of Estimate!!Total!!Russian,B16001
+B16001_033MA,string,Annotation of Margin of Error!!Total!!Russian,B16001
+B16001_034EA,string,"Annotation of Estimate!!Total!!Russian!!Speak English ""very well""",B16001
+B16001_034MA,string,"Annotation of Margin of Error!!Total!!Russian!!Speak English ""very well""",B16001
+B16001_035EA,string,"Annotation of Estimate!!Total!!Russian!!Speak English less than ""very well""",B16001
+B16001_035MA,string,"Annotation of Margin of Error!!Total!!Russian!!Speak English less than ""very well""",B16001
+B16001_036EA,string,Annotation of Estimate!!Total!!Polish,B16001
+B16001_036MA,string,Annotation of Margin of Error!!Total!!Polish,B16001
+B16001_037EA,string,"Annotation of Estimate!!Total!!Polish!!Speak English ""very well""",B16001
+B16001_037MA,string,"Annotation of Margin of Error!!Total!!Polish!!Speak English ""very well""",B16001
+B16001_038EA,string,"Annotation of Estimate!!Total!!Polish!!Speak English less than ""very well""",B16001
+B16001_038MA,string,"Annotation of Margin of Error!!Total!!Polish!!Speak English less than ""very well""",B16001
+B16001_039EA,string,Annotation of Estimate!!Total!!Serbo-Croatian,B16001
+B16001_039MA,string,Annotation of Margin of Error!!Total!!Serbo-Croatian,B16001
+B16001_040EA,string,"Annotation of Estimate!!Total!!Serbo-Croatian!!Speak English ""very well""",B16001
+B16001_040MA,string,"Annotation of Margin of Error!!Total!!Serbo-Croatian!!Speak English ""very well""",B16001
+B16001_041EA,string,"Annotation of Estimate!!Total!!Serbo-Croatian!!Speak English less than ""very well""",B16001
+B16001_041MA,string,"Annotation of Margin of Error!!Total!!Serbo-Croatian!!Speak English less than ""very well""",B16001
+B16001_042EA,string,Annotation of Estimate!!Total!!Other Slavic languages,B16001
+B16001_042MA,string,Annotation of Margin of Error!!Total!!Other Slavic languages,B16001
+B16001_043EA,string,"Annotation of Estimate!!Total!!Other Slavic languages!!Speak English ""very well""",B16001
+B16001_043MA,string,"Annotation of Margin of Error!!Total!!Other Slavic languages!!Speak English ""very well""",B16001
+B16001_044EA,string,"Annotation of Estimate!!Total!!Other Slavic languages!!Speak English less than ""very well""",B16001
+B16001_044MA,string,"Annotation of Margin of Error!!Total!!Other Slavic languages!!Speak English less than ""very well""",B16001
+B16001_045EA,string,Annotation of Estimate!!Total!!Armenian,B16001
+B16001_045MA,string,Annotation of Margin of Error!!Total!!Armenian,B16001
+B16001_046EA,string,"Annotation of Estimate!!Total!!Armenian!!Speak English ""very well""",B16001
+B16001_046MA,string,"Annotation of Margin of Error!!Total!!Armenian!!Speak English ""very well""",B16001
+B16001_047EA,string,"Annotation of Estimate!!Total!!Armenian!!Speak English less than ""very well""",B16001
+B16001_047MA,string,"Annotation of Margin of Error!!Total!!Armenian!!Speak English less than ""very well""",B16001
+B16001_048EA,string,Annotation of Estimate!!Total!!Persian,B16001
+B16001_048MA,string,Annotation of Margin of Error!!Total!!Persian,B16001
+B16001_049EA,string,"Annotation of Estimate!!Total!!Persian!!Speak English ""very well""",B16001
+B16001_049MA,string,"Annotation of Margin of Error!!Total!!Persian!!Speak English ""very well""",B16001
+B16001_050EA,string,"Annotation of Estimate!!Total!!Persian!!Speak English less than ""very well""",B16001
+B16001_050MA,string,"Annotation of Margin of Error!!Total!!Persian!!Speak English less than ""very well""",B16001
+B16001_051EA,string,Annotation of Estimate!!Total!!Gujarathi,B16001
+B16001_051MA,string,Annotation of Margin of Error!!Total!!Gujarathi,B16001
+B16001_052EA,string,"Annotation of Estimate!!Total!!Gujarathi!!Speak English ""very well""",B16001
+B16001_052MA,string,"Annotation of Margin of Error!!Total!!Gujarathi!!Speak English ""very well""",B16001
+B16001_053EA,string,"Annotation of Estimate!!Total!!Gujarathi!!Speak English less than ""very well""",B16001
+B16001_053MA,string,"Annotation of Margin of Error!!Total!!Gujarathi!!Speak English less than ""very well""",B16001
+B16001_054EA,string,Annotation of Estimate!!Total!!Hindi,B16001
+B16001_054MA,string,Annotation of Margin of Error!!Total!!Hindi,B16001
+B16001_055EA,string,"Annotation of Estimate!!Total!!Hindi!!Speak English ""very well""",B16001
+B16001_055MA,string,"Annotation of Margin of Error!!Total!!Hindi!!Speak English ""very well""",B16001
+B16001_056EA,string,"Annotation of Estimate!!Total!!Hindi!!Speak English less than ""very well""",B16001
+B16001_056MA,string,"Annotation of Margin of Error!!Total!!Hindi!!Speak English less than ""very well""",B16001
+B16001_057EA,string,Annotation of Estimate!!Total!!Urdu,B16001
+B16001_057MA,string,Annotation of Margin of Error!!Total!!Urdu,B16001
+B16001_058EA,string,"Annotation of Estimate!!Total!!Urdu!!Speak English ""very well""",B16001
+B16001_058MA,string,"Annotation of Margin of Error!!Total!!Urdu!!Speak English ""very well""",B16001
+B16001_059EA,string,"Annotation of Estimate!!Total!!Urdu!!Speak English less than ""very well""",B16001
+B16001_059MA,string,"Annotation of Margin of Error!!Total!!Urdu!!Speak English less than ""very well""",B16001
+B16001_060EA,string,Annotation of Estimate!!Total!!Other Indic languages,B16001
+B16001_060MA,string,Annotation of Margin of Error!!Total!!Other Indic languages,B16001
+B16001_061EA,string,"Annotation of Estimate!!Total!!Other Indic languages!!Speak English ""very well""",B16001
+B16001_061MA,string,"Annotation of Margin of Error!!Total!!Other Indic languages!!Speak English ""very well""",B16001
+B16001_062EA,string,"Annotation of Estimate!!Total!!Other Indic languages!!Speak English less than ""very well""",B16001
+B16001_062MA,string,"Annotation of Margin of Error!!Total!!Other Indic languages!!Speak English less than ""very well""",B16001
+B16001_063EA,string,Annotation of Estimate!!Total!!Other Indo-European languages,B16001
+B16001_063MA,string,Annotation of Margin of Error!!Total!!Other Indo-European languages,B16001
+B16001_064EA,string,"Annotation of Estimate!!Total!!Other Indo-European languages!!Speak English ""very well""",B16001
+B16001_064MA,string,"Annotation of Margin of Error!!Total!!Other Indo-European languages!!Speak English ""very well""",B16001
+B16001_065EA,string,"Annotation of Estimate!!Total!!Other Indo-European languages!!Speak English less than ""very well""",B16001
+B16001_065MA,string,"Annotation of Margin of Error!!Total!!Other Indo-European languages!!Speak English less than ""very well""",B16001
+B16001_066EA,string,Annotation of Estimate!!Total!!Chinese,B16001
+B16001_066MA,string,Annotation of Margin of Error!!Total!!Chinese,B16001
+B16001_067EA,string,"Annotation of Estimate!!Total!!Chinese!!Speak English ""very well""",B16001
+B16001_067MA,string,"Annotation of Margin of Error!!Total!!Chinese!!Speak English ""very well""",B16001
+B16001_068EA,string,"Annotation of Estimate!!Total!!Chinese!!Speak English less than ""very well""",B16001
+B16001_068MA,string,"Annotation of Margin of Error!!Total!!Chinese!!Speak English less than ""very well""",B16001
+B16001_069EA,string,Annotation of Estimate!!Total!!Japanese,B16001
+B16001_069MA,string,Annotation of Margin of Error!!Total!!Japanese,B16001
+B16001_070EA,string,"Annotation of Estimate!!Total!!Japanese!!Speak English ""very well""",B16001
+B16001_070MA,string,"Annotation of Margin of Error!!Total!!Japanese!!Speak English ""very well""",B16001
+B16001_071EA,string,"Annotation of Estimate!!Total!!Japanese!!Speak English less than ""very well""",B16001
+B16001_071MA,string,"Annotation of Margin of Error!!Total!!Japanese!!Speak English less than ""very well""",B16001
+B16001_072EA,string,Annotation of Estimate!!Total!!Korean,B16001
+B16001_072MA,string,Annotation of Margin of Error!!Total!!Korean,B16001
+B16001_073EA,string,"Annotation of Estimate!!Total!!Korean!!Speak English ""very well""",B16001
+B16001_073MA,string,"Annotation of Margin of Error!!Total!!Korean!!Speak English ""very well""",B16001
+B16001_074EA,string,"Annotation of Estimate!!Total!!Korean!!Speak English less than ""very well""",B16001
+B16001_074MA,string,"Annotation of Margin of Error!!Total!!Korean!!Speak English less than ""very well""",B16001
+B16001_075EA,string,"Annotation of Estimate!!Total!!Mon-Khmer, Cambodian",B16001
+B16001_075MA,string,"Annotation of Margin of Error!!Total!!Mon-Khmer, Cambodian",B16001
+B16001_076EA,string,"Annotation of Estimate!!Total!!Mon-Khmer, Cambodian!!Speak English ""very well""",B16001
+B16001_076MA,string,"Annotation of Margin of Error!!Total!!Mon-Khmer, Cambodian!!Speak English ""very well""",B16001
+B16001_077EA,string,"Annotation of Estimate!!Total!!Mon-Khmer, Cambodian!!Speak English less than ""very well""",B16001
+B16001_077MA,string,"Annotation of Margin of Error!!Total!!Mon-Khmer, Cambodian!!Speak English less than ""very well""",B16001
+B16001_078EA,string,Annotation of Estimate!!Total!!Hmong,B16001
+B16001_078MA,string,Annotation of Margin of Error!!Total!!Hmong,B16001
+B16001_079EA,string,"Annotation of Estimate!!Total!!Hmong!!Speak English ""very well""",B16001
+B16001_079MA,string,"Annotation of Margin of Error!!Total!!Hmong!!Speak English ""very well""",B16001
+B16001_080EA,string,"Annotation of Estimate!!Total!!Hmong!!Speak English less than ""very well""",B16001
+B16001_080MA,string,"Annotation of Margin of Error!!Total!!Hmong!!Speak English less than ""very well""",B16001
+B16001_081EA,string,Annotation of Estimate!!Total!!Thai,B16001
+B16001_081MA,string,Annotation of Margin of Error!!Total!!Thai,B16001
+B16001_082EA,string,"Annotation of Estimate!!Total!!Thai!!Speak English ""very well""",B16001
+B16001_082MA,string,"Annotation of Margin of Error!!Total!!Thai!!Speak English ""very well""",B16001
+B16001_083EA,string,"Annotation of Estimate!!Total!!Thai!!Speak English less than ""very well""",B16001
+B16001_083MA,string,"Annotation of Margin of Error!!Total!!Thai!!Speak English less than ""very well""",B16001
+B16001_084EA,string,Annotation of Estimate!!Total!!Laotian,B16001
+B16001_084MA,string,Annotation of Margin of Error!!Total!!Laotian,B16001
+B16001_085EA,string,"Annotation of Estimate!!Total!!Laotian!!Speak English ""very well""",B16001
+B16001_085MA,string,"Annotation of Margin of Error!!Total!!Laotian!!Speak English ""very well""",B16001
+B16001_086EA,string,"Annotation of Estimate!!Total!!Laotian!!Speak English less than ""very well""",B16001
+B16001_086MA,string,"Annotation of Margin of Error!!Total!!Laotian!!Speak English less than ""very well""",B16001
+B16001_087EA,string,Annotation of Estimate!!Total!!Vietnamese,B16001
+B16001_087MA,string,Annotation of Margin of Error!!Total!!Vietnamese,B16001
+B16001_088EA,string,"Annotation of Estimate!!Total!!Vietnamese!!Speak English ""very well""",B16001
+B16001_088MA,string,"Annotation of Margin of Error!!Total!!Vietnamese!!Speak English ""very well""",B16001
+B16001_089EA,string,"Annotation of Estimate!!Total!!Vietnamese!!Speak English less than ""very well""",B16001
+B16001_089MA,string,"Annotation of Margin of Error!!Total!!Vietnamese!!Speak English less than ""very well""",B16001
+B16001_090EA,string,Annotation of Estimate!!Total!!Other Asian languages,B16001
+B16001_090MA,string,Annotation of Margin of Error!!Total!!Other Asian languages,B16001
+B16001_091EA,string,"Annotation of Estimate!!Total!!Other Asian languages!!Speak English ""very well""",B16001
+B16001_091MA,string,"Annotation of Margin of Error!!Total!!Other Asian languages!!Speak English ""very well""",B16001
+B16001_092EA,string,"Annotation of Estimate!!Total!!Other Asian languages!!Speak English less than ""very well""",B16001
+B16001_092MA,string,"Annotation of Margin of Error!!Total!!Other Asian languages!!Speak English less than ""very well""",B16001
+B16001_093EA,string,Annotation of Estimate!!Total!!Tagalog,B16001
+B16001_093MA,string,Annotation of Margin of Error!!Total!!Tagalog,B16001
+B16001_094EA,string,"Annotation of Estimate!!Total!!Tagalog!!Speak English ""very well""",B16001
+B16001_094MA,string,"Annotation of Margin of Error!!Total!!Tagalog!!Speak English ""very well""",B16001
+B16001_095EA,string,"Annotation of Estimate!!Total!!Tagalog!!Speak English less than ""very well""",B16001
+B16001_095MA,string,"Annotation of Margin of Error!!Total!!Tagalog!!Speak English less than ""very well""",B16001
+B16001_096EA,string,Annotation of Estimate!!Total!!Other Pacific Island languages,B16001
+B16001_096MA,string,Annotation of Margin of Error!!Total!!Other Pacific Island languages,B16001
+B16001_097EA,string,"Annotation of Estimate!!Total!!Other Pacific Island languages!!Speak English ""very well""",B16001
+B16001_097MA,string,"Annotation of Margin of Error!!Total!!Other Pacific Island languages!!Speak English ""very well""",B16001
+B16001_098EA,string,"Annotation of Estimate!!Total!!Other Pacific Island languages!!Speak English less than ""very well""",B16001
+B16001_098MA,string,"Annotation of Margin of Error!!Total!!Other Pacific Island languages!!Speak English less than ""very well""",B16001
+B16001_099EA,string,Annotation of Estimate!!Total!!Navajo,B16001
+B16001_099MA,string,Annotation of Margin of Error!!Total!!Navajo,B16001
+B16001_100EA,string,"Annotation of Estimate!!Total!!Navajo!!Speak English ""very well""",B16001
+B16001_100MA,string,"Annotation of Margin of Error!!Total!!Navajo!!Speak English ""very well""",B16001
+B16001_101EA,string,"Annotation of Estimate!!Total!!Navajo!!Speak English less than ""very well""",B16001
+B16001_101MA,string,"Annotation of Margin of Error!!Total!!Navajo!!Speak English less than ""very well""",B16001
+B16001_102EA,string,Annotation of Estimate!!Total!!Other Native North American languages,B16001
+B16001_102MA,string,Annotation of Margin of Error!!Total!!Other Native North American languages,B16001
+B16001_103EA,string,"Annotation of Estimate!!Total!!Other Native North American languages!!Speak English ""very well""",B16001
+B16001_103MA,string,"Annotation of Margin of Error!!Total!!Other Native North American languages!!Speak English ""very well""",B16001
+B16001_104EA,string,"Annotation of Estimate!!Total!!Other Native North American languages!!Speak English less than ""very well""",B16001
+B16001_104MA,string,"Annotation of Margin of Error!!Total!!Other Native North American languages!!Speak English less than ""very well""",B16001
+B16001_105EA,string,Annotation of Estimate!!Total!!Hungarian,B16001
+B16001_105MA,string,Annotation of Margin of Error!!Total!!Hungarian,B16001
+B16001_106EA,string,"Annotation of Estimate!!Total!!Hungarian!!Speak English ""very well""",B16001
+B16001_106MA,string,"Annotation of Margin of Error!!Total!!Hungarian!!Speak English ""very well""",B16001
+B16001_107EA,string,"Annotation of Estimate!!Total!!Hungarian!!Speak English less than ""very well""",B16001
+B16001_107MA,string,"Annotation of Margin of Error!!Total!!Hungarian!!Speak English less than ""very well""",B16001
+B16001_108EA,string,Annotation of Estimate!!Total!!Arabic,B16001
+B16001_108MA,string,Annotation of Margin of Error!!Total!!Arabic,B16001
+B16001_109EA,string,"Annotation of Estimate!!Total!!Arabic!!Speak English ""very well""",B16001
+B16001_109MA,string,"Annotation of Margin of Error!!Total!!Arabic!!Speak English ""very well""",B16001
+B16001_110EA,string,"Annotation of Estimate!!Total!!Arabic!!Speak English less than ""very well""",B16001
+B16001_110MA,string,"Annotation of Margin of Error!!Total!!Arabic!!Speak English less than ""very well""",B16001
+B16001_111EA,string,Annotation of Estimate!!Total!!Hebrew,B16001
+B16001_111MA,string,Annotation of Margin of Error!!Total!!Hebrew,B16001
+B16001_112EA,string,"Annotation of Estimate!!Total!!Hebrew!!Speak English ""very well""",B16001
+B16001_112MA,string,"Annotation of Margin of Error!!Total!!Hebrew!!Speak English ""very well""",B16001
+B16001_113EA,string,"Annotation of Estimate!!Total!!Hebrew!!Speak English less than ""very well""",B16001
+B16001_113MA,string,"Annotation of Margin of Error!!Total!!Hebrew!!Speak English less than ""very well""",B16001
+B16001_114EA,string,Annotation of Estimate!!Total!!African languages,B16001
+B16001_114MA,string,Annotation of Margin of Error!!Total!!African languages,B16001
+B16001_115EA,string,"Annotation of Estimate!!Total!!African languages!!Speak English ""very well""",B16001
+B16001_115MA,string,"Annotation of Margin of Error!!Total!!African languages!!Speak English ""very well""",B16001
+B16001_116EA,string,"Annotation of Estimate!!Total!!African languages!!Speak English less than ""very well""",B16001
+B16001_116MA,string,"Annotation of Margin of Error!!Total!!African languages!!Speak English less than ""very well""",B16001
+B16001_117EA,string,Annotation of Estimate!!Total!!Other and unspecified languages,B16001
+B16001_117MA,string,Annotation of Margin of Error!!Total!!Other and unspecified languages,B16001
+B16001_118EA,string,"Annotation of Estimate!!Total!!Other and unspecified languages!!Speak English ""very well""",B16001
+B16001_118MA,string,"Annotation of Margin of Error!!Total!!Other and unspecified languages!!Speak English ""very well""",B16001
+B16001_119EA,string,"Annotation of Estimate!!Total!!Other and unspecified languages!!Speak English less than ""very well""",B16001
+B16001_119MA,string,"Annotation of Margin of Error!!Total!!Other and unspecified languages!!Speak English less than ""very well""",B16001

@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+B27023_001E,int,Estimate!!Total,B27023
+B27023_002E,int,Estimate!!Total!!Male,B27023
+B27023_003E,int,Estimate!!Total!!Male!!Enrolled in school,B27023
+B27023_004E,int,Estimate!!Total!!Male!!Enrolled in school!!With private health insurance coverage,B27023
+B27023_005E,int,Estimate!!Total!!Male!!Enrolled in school!!No private health insurance coverage,B27023
+B27023_006E,int,Estimate!!Total!!Male!!Not enrolled in school,B27023
+B27023_007E,int,Estimate!!Total!!Male!!Not enrolled in school!!With private health insurance coverage,B27023
+B27023_008E,int,Estimate!!Total!!Male!!Not enrolled in school!!No private health insurance coverage,B27023
+B27023_009E,int,Estimate!!Total!!Female,B27023
+B27023_010E,int,Estimate!!Total!!Female!!Enrolled in school,B27023
+B27023_011E,int,Estimate!!Total!!Female!!Enrolled in school!!With private health insurance coverage,B27023
+B27023_012E,int,Estimate!!Total!!Female!!Enrolled in school!!No private health insurance coverage,B27023
+B27023_013E,int,Estimate!!Total!!Female!!Not enrolled in school,B27023
+B27023_014E,int,Estimate!!Total!!Female!!Not enrolled in school!!With private health insurance coverage,B27023
+B27023_015E,int,Estimate!!Total!!Female!!Not enrolled in school!!No private health insurance coverage,B27023
+B27023_001M,int,Margin of Error!!Total,B27023
+B27023_002M,int,Margin of Error!!Total!!Male,B27023
+B27023_003M,int,Margin of Error!!Total!!Male!!Enrolled in school,B27023
+B27023_004M,int,Margin of Error!!Total!!Male!!Enrolled in school!!With private health insurance coverage,B27023
+B27023_005M,int,Margin of Error!!Total!!Male!!Enrolled in school!!No private health insurance coverage,B27023
+B27023_006M,int,Margin of Error!!Total!!Male!!Not enrolled in school,B27023
+B27023_007M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!With private health insurance coverage,B27023
+B27023_008M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!No private health insurance coverage,B27023
+B27023_009M,int,Margin of Error!!Total!!Female,B27023
+B27023_010M,int,Margin of Error!!Total!!Female!!Enrolled in school,B27023
+B27023_011M,int,Margin of Error!!Total!!Female!!Enrolled in school!!With private health insurance coverage,B27023
+B27023_012M,int,Margin of Error!!Total!!Female!!Enrolled in school!!No private health insurance coverage,B27023
+B27023_013M,int,Margin of Error!!Total!!Female!!Not enrolled in school,B27023
+B27023_014M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!With private health insurance coverage,B27023
+B27023_015M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!No private health insurance coverage,B27023
+B27023_001EA,string,Annotation of Estimate!!Total,B27023
+B27023_001MA,string,Annotation of Margin of Error!!Total,B27023
+B27023_002EA,string,Annotation of Estimate!!Total!!Male,B27023
+B27023_002MA,string,Annotation of Margin of Error!!Total!!Male,B27023
+B27023_003EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in school,B27023
+B27023_003MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in school,B27023
+B27023_004EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in school!!With private health insurance coverage,B27023
+B27023_004MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in school!!With private health insurance coverage,B27023
+B27023_005EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in school!!No private health insurance coverage,B27023
+B27023_005MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in school!!No private health insurance coverage,B27023
+B27023_006EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school,B27023
+B27023_006MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school,B27023
+B27023_007EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!With private health insurance coverage,B27023
+B27023_007MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!With private health insurance coverage,B27023
+B27023_008EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!No private health insurance coverage,B27023
+B27023_008MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!No private health insurance coverage,B27023
+B27023_009EA,string,Annotation of Estimate!!Total!!Female,B27023
+B27023_009MA,string,Annotation of Margin of Error!!Total!!Female,B27023
+B27023_010EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in school,B27023
+B27023_010MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in school,B27023
+B27023_011EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in school!!With private health insurance coverage,B27023
+B27023_011MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in school!!With private health insurance coverage,B27023
+B27023_012EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in school!!No private health insurance coverage,B27023
+B27023_012MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in school!!No private health insurance coverage,B27023
+B27023_013EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school,B27023
+B27023_013MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school,B27023
+B27023_014EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!With private health insurance coverage,B27023
+B27023_014MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!With private health insurance coverage,B27023
+B27023_015EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!No private health insurance coverage,B27023
+B27023_015MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!No private health insurance coverage,B27023

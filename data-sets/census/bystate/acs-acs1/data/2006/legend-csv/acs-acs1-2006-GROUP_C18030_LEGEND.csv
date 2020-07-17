@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18030_001E,int,Estimate!!Total,C18030
+C18030_002E,int,Estimate!!Total!!With a disability,C18030
+C18030_003E,int,Estimate!!Total!!With a disability!!Male,C18030
+C18030_004E,int,Estimate!!Total!!With a disability!!Male!!Income in the past 12 months below the poverty level,C18030
+C18030_005E,int,Estimate!!Total!!With a disability!!Male!!Income in the past 12 months at or above the poverty level,C18030
+C18030_006E,int,Estimate!!Total!!With a disability!!Female,C18030
+C18030_007E,int,Estimate!!Total!!With a disability!!Female!!Income in the past 12 months below the poverty level,C18030
+C18030_008E,int,Estimate!!Total!!With a disability!!Female!!Income in the past 12 months at or above the poverty level,C18030
+C18030_009E,int,Estimate!!Total!!No disability,C18030
+C18030_010E,int,Estimate!!Total!!No disability!!Male,C18030
+C18030_011E,int,Estimate!!Total!!No disability!!Male!!Income in the past 12 months below the poverty level,C18030
+C18030_012E,int,Estimate!!Total!!No disability!!Male!!Income in the past 12 months at or above the poverty level,C18030
+C18030_013E,int,Estimate!!Total!!No disability!!Female,C18030
+C18030_014E,int,Estimate!!Total!!No disability!!Female!!Income in the past 12 months below the poverty level,C18030
+C18030_015E,int,Estimate!!Total!!No disability!!Female!!Income in the past 12 months at or above the poverty level,C18030
+C18030_001M,int,Margin of Error!!Total,C18030
+C18030_002M,int,Margin of Error!!Total!!With a disability,C18030
+C18030_003M,int,Margin of Error!!Total!!With a disability!!Male,C18030
+C18030_004M,int,Margin of Error!!Total!!With a disability!!Male!!Income in the past 12 months below the poverty level,C18030
+C18030_005M,int,Margin of Error!!Total!!With a disability!!Male!!Income in the past 12 months at or above the poverty level,C18030
+C18030_006M,int,Margin of Error!!Total!!With a disability!!Female,C18030
+C18030_007M,int,Margin of Error!!Total!!With a disability!!Female!!Income in the past 12 months below the poverty level,C18030
+C18030_008M,int,Margin of Error!!Total!!With a disability!!Female!!Income in the past 12 months at or above the poverty level,C18030
+C18030_009M,int,Margin of Error!!Total!!No disability,C18030
+C18030_010M,int,Margin of Error!!Total!!No disability!!Male,C18030
+C18030_011M,int,Margin of Error!!Total!!No disability!!Male!!Income in the past 12 months below the poverty level,C18030
+C18030_012M,int,Margin of Error!!Total!!No disability!!Male!!Income in the past 12 months at or above the poverty level,C18030
+C18030_013M,int,Margin of Error!!Total!!No disability!!Female,C18030
+C18030_014M,int,Margin of Error!!Total!!No disability!!Female!!Income in the past 12 months below the poverty level,C18030
+C18030_015M,int,Margin of Error!!Total!!No disability!!Female!!Income in the past 12 months at or above the poverty level,C18030
+C18030_001EA,string,Annotation of Estimate!!Total,C18030
+C18030_001MA,string,Annotation of Margin of Error!!Total,C18030
+C18030_002EA,string,Annotation of Estimate!!Total!!With a disability,C18030
+C18030_002MA,string,Annotation of Margin of Error!!Total!!With a disability,C18030
+C18030_003EA,string,Annotation of Estimate!!Total!!With a disability!!Male,C18030
+C18030_003MA,string,Annotation of Margin of Error!!Total!!With a disability!!Male,C18030
+C18030_004EA,string,Annotation of Estimate!!Total!!With a disability!!Male!!Income in the past 12 months below the poverty level,C18030
+C18030_004MA,string,Annotation of Margin of Error!!Total!!With a disability!!Male!!Income in the past 12 months below the poverty level,C18030
+C18030_005EA,string,Annotation of Estimate!!Total!!With a disability!!Male!!Income in the past 12 months at or above the poverty level,C18030
+C18030_005MA,string,Annotation of Margin of Error!!Total!!With a disability!!Male!!Income in the past 12 months at or above the poverty level,C18030
+C18030_006EA,string,Annotation of Estimate!!Total!!With a disability!!Female,C18030
+C18030_006MA,string,Annotation of Margin of Error!!Total!!With a disability!!Female,C18030
+C18030_007EA,string,Annotation of Estimate!!Total!!With a disability!!Female!!Income in the past 12 months below the poverty level,C18030
+C18030_007MA,string,Annotation of Margin of Error!!Total!!With a disability!!Female!!Income in the past 12 months below the poverty level,C18030
+C18030_008EA,string,Annotation of Estimate!!Total!!With a disability!!Female!!Income in the past 12 months at or above the poverty level,C18030
+C18030_008MA,string,Annotation of Margin of Error!!Total!!With a disability!!Female!!Income in the past 12 months at or above the poverty level,C18030
+C18030_009EA,string,Annotation of Estimate!!Total!!No disability,C18030
+C18030_009MA,string,Annotation of Margin of Error!!Total!!No disability,C18030
+C18030_010EA,string,Annotation of Estimate!!Total!!No disability!!Male,C18030
+C18030_010MA,string,Annotation of Margin of Error!!Total!!No disability!!Male,C18030
+C18030_011EA,string,Annotation of Estimate!!Total!!No disability!!Male!!Income in the past 12 months below the poverty level,C18030
+C18030_011MA,string,Annotation of Margin of Error!!Total!!No disability!!Male!!Income in the past 12 months below the poverty level,C18030
+C18030_012EA,string,Annotation of Estimate!!Total!!No disability!!Male!!Income in the past 12 months at or above the poverty level,C18030
+C18030_012MA,string,Annotation of Margin of Error!!Total!!No disability!!Male!!Income in the past 12 months at or above the poverty level,C18030
+C18030_013EA,string,Annotation of Estimate!!Total!!No disability!!Female,C18030
+C18030_013MA,string,Annotation of Margin of Error!!Total!!No disability!!Female,C18030
+C18030_014EA,string,Annotation of Estimate!!Total!!No disability!!Female!!Income in the past 12 months below the poverty level,C18030
+C18030_014MA,string,Annotation of Margin of Error!!Total!!No disability!!Female!!Income in the past 12 months below the poverty level,C18030
+C18030_015EA,string,Annotation of Estimate!!Total!!No disability!!Female!!Income in the past 12 months at or above the poverty level,C18030
+C18030_015MA,string,Annotation of Margin of Error!!Total!!No disability!!Female!!Income in the past 12 months at or above the poverty level,C18030

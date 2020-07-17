@@ -1,0 +1,41 @@
+VARIABLE,TYPE,LABEL,GROUP
+B02001_001E,int,Estimate!!Total,B02001
+B02001_002E,int,Estimate!!Total!!White alone,B02001
+B02001_003E,int,Estimate!!Total!!Black or African American alone,B02001
+B02001_004E,int,Estimate!!Total!!American Indian and Alaska Native alone,B02001
+B02001_005E,int,Estimate!!Total!!Asian alone,B02001
+B02001_006E,int,Estimate!!Total!!Native Hawaiian and Other Pacific Islander alone,B02001
+B02001_007E,int,Estimate!!Total!!Some other race alone,B02001
+B02001_008E,int,Estimate!!Total!!Two or more races,B02001
+B02001_009E,int,Estimate!!Total!!Two or more races!!Two races including Some other race,B02001
+B02001_010E,int,"Estimate!!Total!!Two or more races!!Two races excluding Some other race, and three or more races",B02001
+B02001_001M,int,Margin of Error!!Total,B02001
+B02001_002M,int,Margin of Error!!Total!!White alone,B02001
+B02001_003M,int,Margin of Error!!Total!!Black or African American alone,B02001
+B02001_004M,int,Margin of Error!!Total!!American Indian and Alaska Native alone,B02001
+B02001_005M,int,Margin of Error!!Total!!Asian alone,B02001
+B02001_006M,int,Margin of Error!!Total!!Native Hawaiian and Other Pacific Islander alone,B02001
+B02001_007M,int,Margin of Error!!Total!!Some other race alone,B02001
+B02001_008M,int,Margin of Error!!Total!!Two or more races,B02001
+B02001_009M,int,Margin of Error!!Total!!Two or more races!!Two races including Some other race,B02001
+B02001_010M,int,"Margin of Error!!Total!!Two or more races!!Two races excluding Some other race, and three or more races",B02001
+B02001_001EA,string,Annotation of Estimate!!Total,B02001
+B02001_001MA,string,Annotation of Margin of Error!!Total,B02001
+B02001_002EA,string,Annotation of Estimate!!Total!!White alone,B02001
+B02001_002MA,string,Annotation of Margin of Error!!Total!!White alone,B02001
+B02001_003EA,string,Annotation of Estimate!!Total!!Black or African American alone,B02001
+B02001_003MA,string,Annotation of Margin of Error!!Total!!Black or African American alone,B02001
+B02001_004EA,string,Annotation of Estimate!!Total!!American Indian and Alaska Native alone,B02001
+B02001_004MA,string,Annotation of Margin of Error!!Total!!American Indian and Alaska Native alone,B02001
+B02001_005EA,string,Annotation of Estimate!!Total!!Asian alone,B02001
+B02001_005MA,string,Annotation of Margin of Error!!Total!!Asian alone,B02001
+B02001_006EA,string,Annotation of Estimate!!Total!!Native Hawaiian and Other Pacific Islander alone,B02001
+B02001_006MA,string,Annotation of Margin of Error!!Total!!Native Hawaiian and Other Pacific Islander alone,B02001
+B02001_007EA,string,Annotation of Estimate!!Total!!Some other race alone,B02001
+B02001_007MA,string,Annotation of Margin of Error!!Total!!Some other race alone,B02001
+B02001_008EA,string,Annotation of Estimate!!Total!!Two or more races,B02001
+B02001_008MA,string,Annotation of Margin of Error!!Total!!Two or more races,B02001
+B02001_009EA,string,Annotation of Estimate!!Total!!Two or more races!!Two races including Some other race,B02001
+B02001_009MA,string,Annotation of Margin of Error!!Total!!Two or more races!!Two races including Some other race,B02001
+B02001_010EA,string,"Annotation of Estimate!!Total!!Two or more races!!Two races excluding Some other race, and three or more races",B02001
+B02001_010MA,string,"Annotation of Margin of Error!!Total!!Two or more races!!Two races excluding Some other race, and three or more races",B02001

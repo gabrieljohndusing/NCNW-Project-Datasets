@@ -1,0 +1,113 @@
+VARIABLE,TYPE,LABEL,GROUP
+B09021_001E,int,Estimate!!Total,B09021
+B09021_002E,int,Estimate!!Total!!Lives alone,B09021
+B09021_003E,int,Estimate!!Total!!Householder living with spouse or spouse of householder,B09021
+B09021_004E,int,Estimate!!Total!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_005E,int,Estimate!!Total!!Child of householder,B09021
+B09021_006E,int,Estimate!!Total!!Other relatives,B09021
+B09021_007E,int,Estimate!!Total!!Other nonrelatives,B09021
+B09021_008E,int,Estimate!!Total!!18 to 34 years,B09021
+B09021_009E,int,Estimate!!Total!!18 to 34 years!!Lives alone,B09021
+B09021_010E,int,Estimate!!Total!!18 to 34 years!!Householder living with spouse or spouse of householder,B09021
+B09021_011E,int,Estimate!!Total!!18 to 34 years!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_012E,int,Estimate!!Total!!18 to 34 years!!Child of householder,B09021
+B09021_013E,int,Estimate!!Total!!18 to 34 years!!Other relatives,B09021
+B09021_014E,int,Estimate!!Total!!18 to 34 years!!Other nonrelatives,B09021
+B09021_015E,int,Estimate!!Total!!35 to 64 years,B09021
+B09021_016E,int,Estimate!!Total!!35 to 64 years!!Lives alone,B09021
+B09021_017E,int,Estimate!!Total!!35 to 64 years!!Householder living with spouse or spouse of householder,B09021
+B09021_018E,int,Estimate!!Total!!35 to 64 years!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_019E,int,Estimate!!Total!!35 to 64 years!!Child of householder,B09021
+B09021_020E,int,Estimate!!Total!!35 to 64 years!!Other relatives,B09021
+B09021_021E,int,Estimate!!Total!!35 to 64 years!!Other nonrelatives,B09021
+B09021_022E,int,Estimate!!Total!!65 years and over,B09021
+B09021_023E,int,Estimate!!Total!!65 years and over!!Lives alone,B09021
+B09021_024E,int,Estimate!!Total!!65 years and over!!Householder living with spouse or spouse of householder,B09021
+B09021_025E,int,Estimate!!Total!!65 years and over!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_026E,int,Estimate!!Total!!65 years and over!!Child of householder,B09021
+B09021_027E,int,Estimate!!Total!!65 years and over!!Other relatives,B09021
+B09021_028E,int,Estimate!!Total!!65 years and over!!Other nonrelatives,B09021
+B09021_001M,int,Margin of Error!!Total,B09021
+B09021_002M,int,Margin of Error!!Total!!Lives alone,B09021
+B09021_003M,int,Margin of Error!!Total!!Householder living with spouse or spouse of householder,B09021
+B09021_004M,int,Margin of Error!!Total!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_005M,int,Margin of Error!!Total!!Child of householder,B09021
+B09021_006M,int,Margin of Error!!Total!!Other relatives,B09021
+B09021_007M,int,Margin of Error!!Total!!Other nonrelatives,B09021
+B09021_008M,int,Margin of Error!!Total!!18 to 34 years,B09021
+B09021_009M,int,Margin of Error!!Total!!18 to 34 years!!Lives alone,B09021
+B09021_010M,int,Margin of Error!!Total!!18 to 34 years!!Householder living with spouse or spouse of householder,B09021
+B09021_011M,int,Margin of Error!!Total!!18 to 34 years!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_012M,int,Margin of Error!!Total!!18 to 34 years!!Child of householder,B09021
+B09021_013M,int,Margin of Error!!Total!!18 to 34 years!!Other relatives,B09021
+B09021_014M,int,Margin of Error!!Total!!18 to 34 years!!Other nonrelatives,B09021
+B09021_015M,int,Margin of Error!!Total!!35 to 64 years,B09021
+B09021_016M,int,Margin of Error!!Total!!35 to 64 years!!Lives alone,B09021
+B09021_017M,int,Margin of Error!!Total!!35 to 64 years!!Householder living with spouse or spouse of householder,B09021
+B09021_018M,int,Margin of Error!!Total!!35 to 64 years!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_019M,int,Margin of Error!!Total!!35 to 64 years!!Child of householder,B09021
+B09021_020M,int,Margin of Error!!Total!!35 to 64 years!!Other relatives,B09021
+B09021_021M,int,Margin of Error!!Total!!35 to 64 years!!Other nonrelatives,B09021
+B09021_022M,int,Margin of Error!!Total!!65 years and over,B09021
+B09021_023M,int,Margin of Error!!Total!!65 years and over!!Lives alone,B09021
+B09021_024M,int,Margin of Error!!Total!!65 years and over!!Householder living with spouse or spouse of householder,B09021
+B09021_025M,int,Margin of Error!!Total!!65 years and over!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_026M,int,Margin of Error!!Total!!65 years and over!!Child of householder,B09021
+B09021_027M,int,Margin of Error!!Total!!65 years and over!!Other relatives,B09021
+B09021_028M,int,Margin of Error!!Total!!65 years and over!!Other nonrelatives,B09021
+B09021_001EA,string,Annotation of Estimate!!Total,B09021
+B09021_001MA,string,Annotation of Margin of Error!!Total,B09021
+B09021_002EA,string,Annotation of Estimate!!Total!!Lives alone,B09021
+B09021_002MA,string,Annotation of Margin of Error!!Total!!Lives alone,B09021
+B09021_003EA,string,Annotation of Estimate!!Total!!Householder living with spouse or spouse of householder,B09021
+B09021_003MA,string,Annotation of Margin of Error!!Total!!Householder living with spouse or spouse of householder,B09021
+B09021_004EA,string,Annotation of Estimate!!Total!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_004MA,string,Annotation of Margin of Error!!Total!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_005EA,string,Annotation of Estimate!!Total!!Child of householder,B09021
+B09021_005MA,string,Annotation of Margin of Error!!Total!!Child of householder,B09021
+B09021_006EA,string,Annotation of Estimate!!Total!!Other relatives,B09021
+B09021_006MA,string,Annotation of Margin of Error!!Total!!Other relatives,B09021
+B09021_007EA,string,Annotation of Estimate!!Total!!Other nonrelatives,B09021
+B09021_007MA,string,Annotation of Margin of Error!!Total!!Other nonrelatives,B09021
+B09021_008EA,string,Annotation of Estimate!!Total!!18 to 34 years,B09021
+B09021_008MA,string,Annotation of Margin of Error!!Total!!18 to 34 years,B09021
+B09021_009EA,string,Annotation of Estimate!!Total!!18 to 34 years!!Lives alone,B09021
+B09021_009MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!Lives alone,B09021
+B09021_010EA,string,Annotation of Estimate!!Total!!18 to 34 years!!Householder living with spouse or spouse of householder,B09021
+B09021_010MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!Householder living with spouse or spouse of householder,B09021
+B09021_011EA,string,Annotation of Estimate!!Total!!18 to 34 years!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_011MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_012EA,string,Annotation of Estimate!!Total!!18 to 34 years!!Child of householder,B09021
+B09021_012MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!Child of householder,B09021
+B09021_013EA,string,Annotation of Estimate!!Total!!18 to 34 years!!Other relatives,B09021
+B09021_013MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!Other relatives,B09021
+B09021_014EA,string,Annotation of Estimate!!Total!!18 to 34 years!!Other nonrelatives,B09021
+B09021_014MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!Other nonrelatives,B09021
+B09021_015EA,string,Annotation of Estimate!!Total!!35 to 64 years,B09021
+B09021_015MA,string,Annotation of Margin of Error!!Total!!35 to 64 years,B09021
+B09021_016EA,string,Annotation of Estimate!!Total!!35 to 64 years!!Lives alone,B09021
+B09021_016MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!Lives alone,B09021
+B09021_017EA,string,Annotation of Estimate!!Total!!35 to 64 years!!Householder living with spouse or spouse of householder,B09021
+B09021_017MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!Householder living with spouse or spouse of householder,B09021
+B09021_018EA,string,Annotation of Estimate!!Total!!35 to 64 years!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_018MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_019EA,string,Annotation of Estimate!!Total!!35 to 64 years!!Child of householder,B09021
+B09021_019MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!Child of householder,B09021
+B09021_020EA,string,Annotation of Estimate!!Total!!35 to 64 years!!Other relatives,B09021
+B09021_020MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!Other relatives,B09021
+B09021_021EA,string,Annotation of Estimate!!Total!!35 to 64 years!!Other nonrelatives,B09021
+B09021_021MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!Other nonrelatives,B09021
+B09021_022EA,string,Annotation of Estimate!!Total!!65 years and over,B09021
+B09021_022MA,string,Annotation of Margin of Error!!Total!!65 years and over,B09021
+B09021_023EA,string,Annotation of Estimate!!Total!!65 years and over!!Lives alone,B09021
+B09021_023MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Lives alone,B09021
+B09021_024EA,string,Annotation of Estimate!!Total!!65 years and over!!Householder living with spouse or spouse of householder,B09021
+B09021_024MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Householder living with spouse or spouse of householder,B09021
+B09021_025EA,string,Annotation of Estimate!!Total!!65 years and over!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_025MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Householder living with unmarried partner or unmarried partner of householder,B09021
+B09021_026EA,string,Annotation of Estimate!!Total!!65 years and over!!Child of householder,B09021
+B09021_026MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Child of householder,B09021
+B09021_027EA,string,Annotation of Estimate!!Total!!65 years and over!!Other relatives,B09021
+B09021_027MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Other relatives,B09021
+B09021_028EA,string,Annotation of Estimate!!Total!!65 years and over!!Other nonrelatives,B09021
+B09021_028MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Other nonrelatives,B09021

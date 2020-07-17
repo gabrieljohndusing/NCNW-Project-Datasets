@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+B03002_001E,int,Estimate!!Total,B03002
+B03002_002E,int,Estimate!!Total!!Not Hispanic or Latino,B03002
+B03002_003E,int,Estimate!!Total!!Not Hispanic or Latino!!White alone,B03002
+B03002_004E,int,Estimate!!Total!!Not Hispanic or Latino!!Black or African American alone,B03002
+B03002_005E,int,Estimate!!Total!!Not Hispanic or Latino!!American Indian and Alaska Native alone,B03002
+B03002_006E,int,Estimate!!Total!!Not Hispanic or Latino!!Asian alone,B03002
+B03002_007E,int,Estimate!!Total!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,B03002
+B03002_008E,int,Estimate!!Total!!Not Hispanic or Latino!!Some other race alone,B03002
+B03002_009E,int,Estimate!!Total!!Not Hispanic or Latino!!Two or more races,B03002
+B03002_010E,int,Estimate!!Total!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,B03002
+B03002_011E,int,"Estimate!!Total!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and three or more races",B03002
+B03002_012E,int,Estimate!!Total!!Hispanic or Latino,B03002
+B03002_013E,int,Estimate!!Total!!Hispanic or Latino!!White alone,B03002
+B03002_014E,int,Estimate!!Total!!Hispanic or Latino!!Black or African American alone,B03002
+B03002_015E,int,Estimate!!Total!!Hispanic or Latino!!American Indian and Alaska Native alone,B03002
+B03002_016E,int,Estimate!!Total!!Hispanic or Latino!!Asian alone,B03002
+B03002_017E,int,Estimate!!Total!!Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,B03002
+B03002_018E,int,Estimate!!Total!!Hispanic or Latino!!Some other race alone,B03002
+B03002_019E,int,Estimate!!Total!!Hispanic or Latino!!Two or more races,B03002
+B03002_020E,int,Estimate!!Total!!Hispanic or Latino!!Two or more races!!Two races including Some other race,B03002
+B03002_021E,int,"Estimate!!Total!!Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and three or more races",B03002
+B03002_001M,int,Margin of Error!!Total,B03002
+B03002_002M,int,Margin of Error!!Total!!Not Hispanic or Latino,B03002
+B03002_003M,int,Margin of Error!!Total!!Not Hispanic or Latino!!White alone,B03002
+B03002_004M,int,Margin of Error!!Total!!Not Hispanic or Latino!!Black or African American alone,B03002
+B03002_005M,int,Margin of Error!!Total!!Not Hispanic or Latino!!American Indian and Alaska Native alone,B03002
+B03002_006M,int,Margin of Error!!Total!!Not Hispanic or Latino!!Asian alone,B03002
+B03002_007M,int,Margin of Error!!Total!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,B03002
+B03002_008M,int,Margin of Error!!Total!!Not Hispanic or Latino!!Some other race alone,B03002
+B03002_009M,int,Margin of Error!!Total!!Not Hispanic or Latino!!Two or more races,B03002
+B03002_010M,int,Margin of Error!!Total!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,B03002
+B03002_011M,int,"Margin of Error!!Total!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and three or more races",B03002
+B03002_012M,int,Margin of Error!!Total!!Hispanic or Latino,B03002
+B03002_013M,int,Margin of Error!!Total!!Hispanic or Latino!!White alone,B03002
+B03002_014M,int,Margin of Error!!Total!!Hispanic or Latino!!Black or African American alone,B03002
+B03002_015M,int,Margin of Error!!Total!!Hispanic or Latino!!American Indian and Alaska Native alone,B03002
+B03002_016M,int,Margin of Error!!Total!!Hispanic or Latino!!Asian alone,B03002
+B03002_017M,int,Margin of Error!!Total!!Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,B03002
+B03002_018M,int,Margin of Error!!Total!!Hispanic or Latino!!Some other race alone,B03002
+B03002_019M,int,Margin of Error!!Total!!Hispanic or Latino!!Two or more races,B03002
+B03002_020M,int,Margin of Error!!Total!!Hispanic or Latino!!Two or more races!!Two races including Some other race,B03002
+B03002_021M,int,"Margin of Error!!Total!!Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and three or more races",B03002
+B03002_001EA,string,Annotation of Estimate!!Total,B03002
+B03002_001MA,string,Annotation of Margin of Error!!Total,B03002
+B03002_002EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino,B03002
+B03002_002MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino,B03002
+B03002_003EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino!!White alone,B03002
+B03002_003MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!White alone,B03002
+B03002_004EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino!!Black or African American alone,B03002
+B03002_004MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!Black or African American alone,B03002
+B03002_005EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino!!American Indian and Alaska Native alone,B03002
+B03002_005MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!American Indian and Alaska Native alone,B03002
+B03002_006EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino!!Asian alone,B03002
+B03002_006MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!Asian alone,B03002
+B03002_007EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,B03002
+B03002_007MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,B03002
+B03002_008EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino!!Some other race alone,B03002
+B03002_008MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!Some other race alone,B03002
+B03002_009EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino!!Two or more races,B03002
+B03002_009MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!Two or more races,B03002
+B03002_010EA,string,Annotation of Estimate!!Total!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,B03002
+B03002_010MA,string,Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,B03002
+B03002_011EA,string,"Annotation of Estimate!!Total!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and three or more races",B03002
+B03002_011MA,string,"Annotation of Margin of Error!!Total!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and three or more races",B03002
+B03002_012EA,string,Annotation of Estimate!!Total!!Hispanic or Latino,B03002
+B03002_012MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino,B03002
+B03002_013EA,string,Annotation of Estimate!!Total!!Hispanic or Latino!!White alone,B03002
+B03002_013MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino!!White alone,B03002
+B03002_014EA,string,Annotation of Estimate!!Total!!Hispanic or Latino!!Black or African American alone,B03002
+B03002_014MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino!!Black or African American alone,B03002
+B03002_015EA,string,Annotation of Estimate!!Total!!Hispanic or Latino!!American Indian and Alaska Native alone,B03002
+B03002_015MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino!!American Indian and Alaska Native alone,B03002
+B03002_016EA,string,Annotation of Estimate!!Total!!Hispanic or Latino!!Asian alone,B03002
+B03002_016MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino!!Asian alone,B03002
+B03002_017EA,string,Annotation of Estimate!!Total!!Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,B03002
+B03002_017MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,B03002
+B03002_018EA,string,Annotation of Estimate!!Total!!Hispanic or Latino!!Some other race alone,B03002
+B03002_018MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino!!Some other race alone,B03002
+B03002_019EA,string,Annotation of Estimate!!Total!!Hispanic or Latino!!Two or more races,B03002
+B03002_019MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino!!Two or more races,B03002
+B03002_020EA,string,Annotation of Estimate!!Total!!Hispanic or Latino!!Two or more races!!Two races including Some other race,B03002
+B03002_020MA,string,Annotation of Margin of Error!!Total!!Hispanic or Latino!!Two or more races!!Two races including Some other race,B03002
+B03002_021EA,string,"Annotation of Estimate!!Total!!Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and three or more races",B03002
+B03002_021MA,string,"Annotation of Margin of Error!!Total!!Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and three or more races",B03002

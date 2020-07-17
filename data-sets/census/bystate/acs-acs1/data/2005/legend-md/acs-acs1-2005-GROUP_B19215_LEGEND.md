@@ -1,0 +1,77 @@
+# American Community Survey: 1-Year Estimates: Detailed Tables 1-Year
+
+## B19215
+
+### MEDIAN NONFAMILY HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2005 INFLATION-ADJUSTED DOLLARS) BY SEX OF HOUSEHOLDER BY LIVING ALONE BY AGE OF HOUSEHOLDER
+
+___
+
+| variable | label | type |
+| ----- | ----- | ----- |
+| B19215_001E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Total (dollars) | int |
+| B19215_002E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Total (dollars) | int |
+| B19215_003E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Total (dollars) | int |
+| B19215_004E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Householder 15 to 64 years (dollars) | int |
+| B19215_005E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Householder 65 years and over (dollars) | int |
+| B19215_006E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Total (dollars) | int |
+| B19215_007E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Householder 15 to 64 years (dollars) | int |
+| B19215_008E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Householder 65 years and over (dollars) | int |
+| B19215_009E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Total (dollars) | int |
+| B19215_010E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Total (dollars) | int |
+| B19215_011E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Householder 15 to 64 years (dollars) | int |
+| B19215_012E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Householder 65 years and over (dollars) | int |
+| B19215_013E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Total (dollars) | int |
+| B19215_014E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Householder 15 to 64 years (dollars) | int |
+| B19215_015E | Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Householder 65 years and over (dollars) | int |
+| B19215_001M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Total (dollars) | int |
+| B19215_002M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Total (dollars) | int |
+| B19215_003M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Total (dollars) | int |
+| B19215_004M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Householder 15 to 64 years (dollars) | int |
+| B19215_005M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Householder 65 years and over (dollars) | int |
+| B19215_006M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Total (dollars) | int |
+| B19215_007M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Householder 15 to 64 years (dollars) | int |
+| B19215_008M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Householder 65 years and over (dollars) | int |
+| B19215_009M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Total (dollars) | int |
+| B19215_010M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Total (dollars) | int |
+| B19215_011M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Householder 15 to 64 years (dollars) | int |
+| B19215_012M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Householder 65 years and over (dollars) | int |
+| B19215_013M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Total (dollars) | int |
+| B19215_014M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Householder 15 to 64 years (dollars) | int |
+| B19215_015M | Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Householder 65 years and over (dollars) | int |
+### 
+
+___
+
+| variable | label | type |
+| ----- | ----- | ----- |
+| B19215_001EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Total (dollars) | string |
+| B19215_001MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Total (dollars) | string |
+| B19215_002EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Total (dollars) | string |
+| B19215_002MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Total (dollars) | string |
+| B19215_003EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Total (dollars) | string |
+| B19215_003MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Total (dollars) | string |
+| B19215_004EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Householder 15 to 64 years (dollars) | string |
+| B19215_004MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Householder 15 to 64 years (dollars) | string |
+| B19215_005EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Householder 65 years and over (dollars) | string |
+| B19215_005MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Living alone !!<br>Householder 65 years and over (dollars) | string |
+| B19215_006EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Total (dollars) | string |
+| B19215_006MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Total (dollars) | string |
+| B19215_007EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Householder 15 to 64 years (dollars) | string |
+| B19215_007MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Householder 15 to 64 years (dollars) | string |
+| B19215_008EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Householder 65 years and over (dollars) | string |
+| B19215_008MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Male householder !!<br>Not living alone !!<br>Householder 65 years and over (dollars) | string |
+| B19215_009EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Total (dollars) | string |
+| B19215_009MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Total (dollars) | string |
+| B19215_010EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Total (dollars) | string |
+| B19215_010MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Total (dollars) | string |
+| B19215_011EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Householder 15 to 64 years (dollars) | string |
+| B19215_011MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Householder 15 to 64 years (dollars) | string |
+| B19215_012EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Householder 65 years and over (dollars) | string |
+| B19215_012MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Living alone !!<br>Householder 65 years and over (dollars) | string |
+| B19215_013EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Total (dollars) | string |
+| B19215_013MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Total (dollars) | string |
+| B19215_014EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Householder 15 to 64 years (dollars) | string |
+| B19215_014MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Householder 15 to 64 years (dollars) | string |
+| B19215_015EA | Annotation of Estimate !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Householder 65 years and over (dollars) | string |
+| B19215_015MA | Annotation of Margin of Error !!<br>Median nonfamily household income in the past 12 months (in 2005 inflation-adjusted dollars) !!<br>Female householder !!<br>Not living alone !!<br>Householder 65 years and over (dollars) | string |
+

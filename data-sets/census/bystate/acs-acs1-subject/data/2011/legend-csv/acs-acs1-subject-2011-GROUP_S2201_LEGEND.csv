@@ -1,0 +1,253 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2201_C01_001E,int,Total!!Estimate!!Households,S2201
+S2201_C01_002E,float,Total!!Estimate!!With one or more people 60 years and over,S2201
+S2201_C01_003E,float,Total!!Estimate!!With children under 18 years,S2201
+S2201_C01_004E,float,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C01_005E,float,Total!!Estimate!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C01_006E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C01_007E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C01_008E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C01_009E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C01_010E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C01_011E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C01_012E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C01_013E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C01_014E,float,Total!!Estimate!!Hispanic or Latino origin (of any race),S2201
+S2201_C01_015E,float,"Total!!Estimate!!White alone, not Hispanic or Latino",S2201
+S2201_C01_016E,int,Total!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C01_017E,int,Total!!Estimate!!WORK STATUS!!Families,S2201
+S2201_C01_018E,float,Total!!Estimate!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C01_019E,float,Total!!Estimate!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C01_020E,float,Total!!Estimate!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C01_021E,float,Total!!Estimate!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C02_001E,int,Households receiving food stamps!!Estimate!!Households,S2201
+S2201_C02_002E,float,Households receiving food stamps!!Estimate!!With one or more people 60 years and over,S2201
+S2201_C02_003E,float,Households receiving food stamps!!Estimate!!With children under 18 years,S2201
+S2201_C02_004E,float,Households receiving food stamps!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C02_005E,float,Households receiving food stamps!!Estimate!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C02_006E,float,Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C02_007E,float,Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C02_008E,float,Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C02_009E,float,Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C02_010E,float,Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C02_011E,float,Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C02_012E,float,Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C02_013E,float,Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C02_014E,float,Households receiving food stamps!!Estimate!!Hispanic or Latino origin (of any race),S2201
+S2201_C02_015E,float,"Households receiving food stamps!!Estimate!!White alone, not Hispanic or Latino",S2201
+S2201_C02_016E,int,Households receiving food stamps!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C02_017E,int,Households receiving food stamps!!Estimate!!WORK STATUS!!Families,S2201
+S2201_C02_018E,float,Households receiving food stamps!!Estimate!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C02_019E,float,Households receiving food stamps!!Estimate!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C02_020E,float,Households receiving food stamps!!Estimate!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C02_021E,int,Households receiving food stamps!!Estimate!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C03_001E,int,Households not receiving food stamps!!Estimate!!Households,S2201
+S2201_C03_002E,float,Households not receiving food stamps!!Estimate!!With one or more people 60 years and over,S2201
+S2201_C03_003E,float,Households not receiving food stamps!!Estimate!!With children under 18 years,S2201
+S2201_C03_004E,float,Households not receiving food stamps!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C03_005E,float,Households not receiving food stamps!!Estimate!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C03_006E,float,Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C03_007E,float,Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C03_008E,float,Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C03_009E,float,Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C03_010E,float,Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C03_011E,float,Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C03_012E,float,Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C03_013E,float,Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C03_014E,float,Households not receiving food stamps!!Estimate!!Hispanic or Latino origin (of any race),S2201
+S2201_C03_015E,float,"Households not receiving food stamps!!Estimate!!White alone, not Hispanic or Latino",S2201
+S2201_C03_016E,int,Households not receiving food stamps!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C03_017E,int,Households not receiving food stamps!!Estimate!!WORK STATUS!!Families,S2201
+S2201_C03_018E,float,Households not receiving food stamps!!Estimate!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C03_019E,float,Households not receiving food stamps!!Estimate!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C03_020E,float,Households not receiving food stamps!!Estimate!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C03_021E,int,Households not receiving food stamps!!Estimate!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C01_001M,int,Total!!Margin of Error!!Households,S2201
+S2201_C01_002M,float,Total!!Margin of Error!!With one or more people 60 years and over,S2201
+S2201_C01_003M,float,Total!!Margin of Error!!With children under 18 years,S2201
+S2201_C01_004M,float,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C01_005M,float,Total!!Margin of Error!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C01_006M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C01_007M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C01_008M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C01_009M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C01_010M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C01_011M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C01_012M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C01_013M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C01_014M,float,Total!!Margin of Error!!Hispanic or Latino origin (of any race),S2201
+S2201_C01_015M,float,"Total!!Margin of Error!!White alone, not Hispanic or Latino",S2201
+S2201_C01_016M,int,Total!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C01_017M,int,Total!!Margin of Error!!WORK STATUS!!Families,S2201
+S2201_C01_018M,float,Total!!Margin of Error!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C01_019M,float,Total!!Margin of Error!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C01_020M,float,Total!!Margin of Error!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C01_021M,float,Total!!Margin of Error!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C02_001M,int,Households receiving food stamps!!Margin of Error!!Households,S2201
+S2201_C02_002M,float,Households receiving food stamps!!Margin of Error!!With one or more people 60 years and over,S2201
+S2201_C02_003M,float,Households receiving food stamps!!Margin of Error!!With children under 18 years,S2201
+S2201_C02_004M,float,Households receiving food stamps!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C02_005M,float,Households receiving food stamps!!Margin of Error!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C02_006M,float,Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C02_007M,float,Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C02_008M,float,Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C02_009M,float,Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C02_010M,float,Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C02_011M,float,Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C02_012M,float,Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C02_013M,float,Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C02_014M,float,Households receiving food stamps!!Margin of Error!!Hispanic or Latino origin (of any race),S2201
+S2201_C02_015M,float,"Households receiving food stamps!!Margin of Error!!White alone, not Hispanic or Latino",S2201
+S2201_C02_016M,int,Households receiving food stamps!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C02_017M,int,Households receiving food stamps!!Margin of Error!!WORK STATUS!!Families,S2201
+S2201_C02_018M,float,Households receiving food stamps!!Margin of Error!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C02_019M,float,Households receiving food stamps!!Margin of Error!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C02_020M,float,Households receiving food stamps!!Margin of Error!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C02_021M,int,Households receiving food stamps!!Margin of Error!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C03_001M,int,Households not receiving food stamps!!Margin of Error!!Households,S2201
+S2201_C03_002M,float,Households not receiving food stamps!!Margin of Error!!With one or more people 60 years and over,S2201
+S2201_C03_003M,float,Households not receiving food stamps!!Margin of Error!!With children under 18 years,S2201
+S2201_C03_004M,float,Households not receiving food stamps!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C03_005M,float,Households not receiving food stamps!!Margin of Error!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C03_006M,float,Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C03_007M,float,Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C03_008M,float,Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C03_009M,float,Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C03_010M,float,Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C03_011M,float,Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C03_012M,float,Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C03_013M,float,Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C03_014M,float,Households not receiving food stamps!!Margin of Error!!Hispanic or Latino origin (of any race),S2201
+S2201_C03_015M,float,"Households not receiving food stamps!!Margin of Error!!White alone, not Hispanic or Latino",S2201
+S2201_C03_016M,int,Households not receiving food stamps!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C03_017M,int,Households not receiving food stamps!!Margin of Error!!WORK STATUS!!Families,S2201
+S2201_C03_018M,float,Households not receiving food stamps!!Margin of Error!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C03_019M,float,Households not receiving food stamps!!Margin of Error!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C03_020M,float,Households not receiving food stamps!!Margin of Error!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C03_021M,int,Households not receiving food stamps!!Margin of Error!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C01_001EA,string,Annotation of Total!!Estimate!!Households,S2201
+S2201_C01_001MA,string,Annotation of Total!!Margin of Error!!Households,S2201
+S2201_C01_002EA,string,Annotation of Total!!Estimate!!With one or more people 60 years and over,S2201
+S2201_C01_002MA,string,Annotation of Total!!Margin of Error!!With one or more people 60 years and over,S2201
+S2201_C01_003EA,string,Annotation of Total!!Estimate!!With children under 18 years,S2201
+S2201_C01_003MA,string,Annotation of Total!!Margin of Error!!With children under 18 years,S2201
+S2201_C01_004EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C01_004MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C01_005EA,string,Annotation of Total!!Estimate!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C01_005MA,string,Annotation of Total!!Margin of Error!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C01_006EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C01_006MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C01_007EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C01_007MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C01_008EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C01_008MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C01_009EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C01_009MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C01_010EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C01_010MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C01_011EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C01_011MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C01_012EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C01_012MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C01_013EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C01_013MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C01_014EA,string,Annotation of Total!!Estimate!!Hispanic or Latino origin (of any race),S2201
+S2201_C01_014MA,string,Annotation of Total!!Margin of Error!!Hispanic or Latino origin (of any race),S2201
+S2201_C01_015EA,string,"Annotation of Total!!Estimate!!White alone, not Hispanic or Latino",S2201
+S2201_C01_015MA,string,"Annotation of Total!!Margin of Error!!White alone, not Hispanic or Latino",S2201
+S2201_C01_016EA,string,Annotation of Total!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C01_016MA,string,Annotation of Total!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C01_017EA,string,Annotation of Total!!Estimate!!WORK STATUS!!Families,S2201
+S2201_C01_017MA,string,Annotation of Total!!Margin of Error!!WORK STATUS!!Families,S2201
+S2201_C01_018EA,string,Annotation of Total!!Estimate!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C01_018MA,string,Annotation of Total!!Margin of Error!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C01_019EA,string,Annotation of Total!!Estimate!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C01_019MA,string,Annotation of Total!!Margin of Error!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C01_020EA,string,Annotation of Total!!Estimate!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C01_020MA,string,Annotation of Total!!Margin of Error!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C01_021EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C01_021MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C02_001EA,string,Annotation of Households receiving food stamps!!Estimate!!Households,S2201
+S2201_C02_001MA,string,Annotation of Households receiving food stamps!!Margin of Error!!Households,S2201
+S2201_C02_002EA,string,Annotation of Households receiving food stamps!!Estimate!!With one or more people 60 years and over,S2201
+S2201_C02_002MA,string,Annotation of Households receiving food stamps!!Margin of Error!!With one or more people 60 years and over,S2201
+S2201_C02_003EA,string,Annotation of Households receiving food stamps!!Estimate!!With children under 18 years,S2201
+S2201_C02_003MA,string,Annotation of Households receiving food stamps!!Margin of Error!!With children under 18 years,S2201
+S2201_C02_004EA,string,Annotation of Households receiving food stamps!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C02_004MA,string,Annotation of Households receiving food stamps!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C02_005EA,string,Annotation of Households receiving food stamps!!Estimate!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C02_005MA,string,Annotation of Households receiving food stamps!!Margin of Error!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C02_006EA,string,Annotation of Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C02_006MA,string,Annotation of Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C02_007EA,string,Annotation of Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C02_007MA,string,Annotation of Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C02_008EA,string,Annotation of Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C02_008MA,string,Annotation of Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C02_009EA,string,Annotation of Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C02_009MA,string,Annotation of Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C02_010EA,string,Annotation of Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C02_010MA,string,Annotation of Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C02_011EA,string,Annotation of Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C02_011MA,string,Annotation of Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C02_012EA,string,Annotation of Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C02_012MA,string,Annotation of Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C02_013EA,string,Annotation of Households receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C02_013MA,string,Annotation of Households receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C02_014EA,string,Annotation of Households receiving food stamps!!Estimate!!Hispanic or Latino origin (of any race),S2201
+S2201_C02_014MA,string,Annotation of Households receiving food stamps!!Margin of Error!!Hispanic or Latino origin (of any race),S2201
+S2201_C02_015EA,string,"Annotation of Households receiving food stamps!!Estimate!!White alone, not Hispanic or Latino",S2201
+S2201_C02_015MA,string,"Annotation of Households receiving food stamps!!Margin of Error!!White alone, not Hispanic or Latino",S2201
+S2201_C02_016EA,string,Annotation of Households receiving food stamps!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C02_016MA,string,Annotation of Households receiving food stamps!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C02_017EA,string,Annotation of Households receiving food stamps!!Estimate!!WORK STATUS!!Families,S2201
+S2201_C02_017MA,string,Annotation of Households receiving food stamps!!Margin of Error!!WORK STATUS!!Families,S2201
+S2201_C02_018EA,string,Annotation of Households receiving food stamps!!Estimate!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C02_018MA,string,Annotation of Households receiving food stamps!!Margin of Error!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C02_019EA,string,Annotation of Households receiving food stamps!!Estimate!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C02_019MA,string,Annotation of Households receiving food stamps!!Margin of Error!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C02_020EA,string,Annotation of Households receiving food stamps!!Estimate!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C02_020MA,string,Annotation of Households receiving food stamps!!Margin of Error!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C02_021EA,string,Annotation of Households receiving food stamps!!Estimate!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C02_021MA,string,Annotation of Households receiving food stamps!!Margin of Error!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C03_001EA,string,Annotation of Households not receiving food stamps!!Estimate!!Households,S2201
+S2201_C03_001MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!Households,S2201
+S2201_C03_002EA,string,Annotation of Households not receiving food stamps!!Estimate!!With one or more people 60 years and over,S2201
+S2201_C03_002MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!With one or more people 60 years and over,S2201
+S2201_C03_003EA,string,Annotation of Households not receiving food stamps!!Estimate!!With children under 18 years,S2201
+S2201_C03_003MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!With children under 18 years,S2201
+S2201_C03_004EA,string,Annotation of Households not receiving food stamps!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C03_004MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Below poverty level,S2201
+S2201_C03_005EA,string,Annotation of Households not receiving food stamps!!Estimate!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C03_005MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!DISABILITY STATUS!!With one or more people with a disability,S2201
+S2201_C03_006EA,string,Annotation of Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C03_006MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race,S2201
+S2201_C03_007EA,string,Annotation of Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C03_007MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!White,S2201
+S2201_C03_008EA,string,Annotation of Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C03_008MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Black or African American,S2201
+S2201_C03_009EA,string,Annotation of Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C03_009MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!American Indian and Alaska Native,S2201
+S2201_C03_010EA,string,Annotation of Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C03_010MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Asian,S2201
+S2201_C03_011EA,string,Annotation of Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C03_011MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Native Hawaiian and Other Pacific Islander,S2201
+S2201_C03_012EA,string,Annotation of Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C03_012MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!One race!!Some other race,S2201
+S2201_C03_013EA,string,Annotation of Households not receiving food stamps!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C03_013MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER!!Two or more races,S2201
+S2201_C03_014EA,string,Annotation of Households not receiving food stamps!!Estimate!!Hispanic or Latino origin (of any race),S2201
+S2201_C03_014MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!Hispanic or Latino origin (of any race),S2201
+S2201_C03_015EA,string,"Annotation of Households not receiving food stamps!!Estimate!!White alone, not Hispanic or Latino",S2201
+S2201_C03_015MA,string,"Annotation of Households not receiving food stamps!!Margin of Error!!White alone, not Hispanic or Latino",S2201
+S2201_C03_016EA,string,Annotation of Households not receiving food stamps!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C03_016MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS)!!Median income (dollars),S2201
+S2201_C03_017EA,string,Annotation of Households not receiving food stamps!!Estimate!!WORK STATUS!!Families,S2201
+S2201_C03_017MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!WORK STATUS!!Families,S2201
+S2201_C03_018EA,string,Annotation of Households not receiving food stamps!!Estimate!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C03_018MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!WORK STATUS!!No workers in past 12 months,S2201
+S2201_C03_019EA,string,Annotation of Households not receiving food stamps!!Estimate!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C03_019MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!WORK STATUS!!1 worker in past 12 months,S2201
+S2201_C03_020EA,string,Annotation of Households not receiving food stamps!!Estimate!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C03_020MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!WORK STATUS!!2 or more workers in past 12 months,S2201
+S2201_C03_021EA,string,Annotation of Households not receiving food stamps!!Estimate!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201
+S2201_C03_021MA,string,Annotation of Households not receiving food stamps!!Margin of Error!!PERCENT IMPUTED!!Food stamp/SNAP recipiency,S2201

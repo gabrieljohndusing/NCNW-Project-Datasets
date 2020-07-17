@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27006_001E,int,Estimate!!Total,C27006
+C27006_002E,int,Estimate!!Total!!Male,C27006
+C27006_003E,int,Estimate!!Total!!Male!!Under 19 years,C27006
+C27006_004E,int,Estimate!!Total!!Male!!Under 19 years!!With Medicare coverage,C27006
+C27006_005E,int,Estimate!!Total!!Male!!Under 19 years!!No Medicare coverage,C27006
+C27006_006E,int,Estimate!!Total!!Male!!19 to 64 years,C27006
+C27006_007E,int,Estimate!!Total!!Male!!19 to 64 years!!With Medicare coverage,C27006
+C27006_008E,int,Estimate!!Total!!Male!!19 to 64 years!!No Medicare coverage,C27006
+C27006_009E,int,Estimate!!Total!!Male!!65 years and over,C27006
+C27006_010E,int,Estimate!!Total!!Male!!65 years and over!!With Medicare coverage,C27006
+C27006_011E,int,Estimate!!Total!!Male!!65 years and over!!No Medicare coverage,C27006
+C27006_012E,int,Estimate!!Total!!Female,C27006
+C27006_013E,int,Estimate!!Total!!Female!!Under 19 years,C27006
+C27006_014E,int,Estimate!!Total!!Female!!Under 19 years!!With Medicare coverage,C27006
+C27006_015E,int,Estimate!!Total!!Female!!Under 19 years!!No Medicare coverage,C27006
+C27006_016E,int,Estimate!!Total!!Female!!19 to 64 years,C27006
+C27006_017E,int,Estimate!!Total!!Female!!19 to 64 years!!With Medicare coverage,C27006
+C27006_018E,int,Estimate!!Total!!Female!!19 to 64 years!!No Medicare coverage,C27006
+C27006_019E,int,Estimate!!Total!!Female!!65 years and over,C27006
+C27006_020E,int,Estimate!!Total!!Female!!65 years and over!!With Medicare coverage,C27006
+C27006_021E,int,Estimate!!Total!!Female!!65 years and over!!No Medicare coverage,C27006
+C27006_001M,int,Margin of Error!!Total,C27006
+C27006_002M,int,Margin of Error!!Total!!Male,C27006
+C27006_003M,int,Margin of Error!!Total!!Male!!Under 19 years,C27006
+C27006_004M,int,Margin of Error!!Total!!Male!!Under 19 years!!With Medicare coverage,C27006
+C27006_005M,int,Margin of Error!!Total!!Male!!Under 19 years!!No Medicare coverage,C27006
+C27006_006M,int,Margin of Error!!Total!!Male!!19 to 64 years,C27006
+C27006_007M,int,Margin of Error!!Total!!Male!!19 to 64 years!!With Medicare coverage,C27006
+C27006_008M,int,Margin of Error!!Total!!Male!!19 to 64 years!!No Medicare coverage,C27006
+C27006_009M,int,Margin of Error!!Total!!Male!!65 years and over,C27006
+C27006_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With Medicare coverage,C27006
+C27006_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No Medicare coverage,C27006
+C27006_012M,int,Margin of Error!!Total!!Female,C27006
+C27006_013M,int,Margin of Error!!Total!!Female!!Under 19 years,C27006
+C27006_014M,int,Margin of Error!!Total!!Female!!Under 19 years!!With Medicare coverage,C27006
+C27006_015M,int,Margin of Error!!Total!!Female!!Under 19 years!!No Medicare coverage,C27006
+C27006_016M,int,Margin of Error!!Total!!Female!!19 to 64 years,C27006
+C27006_017M,int,Margin of Error!!Total!!Female!!19 to 64 years!!With Medicare coverage,C27006
+C27006_018M,int,Margin of Error!!Total!!Female!!19 to 64 years!!No Medicare coverage,C27006
+C27006_019M,int,Margin of Error!!Total!!Female!!65 years and over,C27006
+C27006_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With Medicare coverage,C27006
+C27006_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No Medicare coverage,C27006
+C27006_001EA,string,Annotation of Estimate!!Total,C27006
+C27006_001MA,string,Annotation of Margin of Error!!Total,C27006
+C27006_002EA,string,Annotation of Estimate!!Total!!Male,C27006
+C27006_002MA,string,Annotation of Margin of Error!!Total!!Male,C27006
+C27006_003EA,string,Annotation of Estimate!!Total!!Male!!Under 19 years,C27006
+C27006_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 19 years,C27006
+C27006_004EA,string,Annotation of Estimate!!Total!!Male!!Under 19 years!!With Medicare coverage,C27006
+C27006_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 19 years!!With Medicare coverage,C27006
+C27006_005EA,string,Annotation of Estimate!!Total!!Male!!Under 19 years!!No Medicare coverage,C27006
+C27006_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 19 years!!No Medicare coverage,C27006
+C27006_006EA,string,Annotation of Estimate!!Total!!Male!!19 to 64 years,C27006
+C27006_006MA,string,Annotation of Margin of Error!!Total!!Male!!19 to 64 years,C27006
+C27006_007EA,string,Annotation of Estimate!!Total!!Male!!19 to 64 years!!With Medicare coverage,C27006
+C27006_007MA,string,Annotation of Margin of Error!!Total!!Male!!19 to 64 years!!With Medicare coverage,C27006
+C27006_008EA,string,Annotation of Estimate!!Total!!Male!!19 to 64 years!!No Medicare coverage,C27006
+C27006_008MA,string,Annotation of Margin of Error!!Total!!Male!!19 to 64 years!!No Medicare coverage,C27006
+C27006_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C27006
+C27006_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C27006
+C27006_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With Medicare coverage,C27006
+C27006_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With Medicare coverage,C27006
+C27006_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No Medicare coverage,C27006
+C27006_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No Medicare coverage,C27006
+C27006_012EA,string,Annotation of Estimate!!Total!!Female,C27006
+C27006_012MA,string,Annotation of Margin of Error!!Total!!Female,C27006
+C27006_013EA,string,Annotation of Estimate!!Total!!Female!!Under 19 years,C27006
+C27006_013MA,string,Annotation of Margin of Error!!Total!!Female!!Under 19 years,C27006
+C27006_014EA,string,Annotation of Estimate!!Total!!Female!!Under 19 years!!With Medicare coverage,C27006
+C27006_014MA,string,Annotation of Margin of Error!!Total!!Female!!Under 19 years!!With Medicare coverage,C27006
+C27006_015EA,string,Annotation of Estimate!!Total!!Female!!Under 19 years!!No Medicare coverage,C27006
+C27006_015MA,string,Annotation of Margin of Error!!Total!!Female!!Under 19 years!!No Medicare coverage,C27006
+C27006_016EA,string,Annotation of Estimate!!Total!!Female!!19 to 64 years,C27006
+C27006_016MA,string,Annotation of Margin of Error!!Total!!Female!!19 to 64 years,C27006
+C27006_017EA,string,Annotation of Estimate!!Total!!Female!!19 to 64 years!!With Medicare coverage,C27006
+C27006_017MA,string,Annotation of Margin of Error!!Total!!Female!!19 to 64 years!!With Medicare coverage,C27006
+C27006_018EA,string,Annotation of Estimate!!Total!!Female!!19 to 64 years!!No Medicare coverage,C27006
+C27006_018MA,string,Annotation of Margin of Error!!Total!!Female!!19 to 64 years!!No Medicare coverage,C27006
+C27006_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C27006
+C27006_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C27006
+C27006_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With Medicare coverage,C27006
+C27006_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With Medicare coverage,C27006
+C27006_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No Medicare coverage,C27006
+C27006_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No Medicare coverage,C27006

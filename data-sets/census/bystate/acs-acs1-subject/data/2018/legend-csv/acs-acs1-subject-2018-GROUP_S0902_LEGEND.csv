@@ -1,0 +1,289 @@
+VARIABLE,TYPE,LABEL,GROUP
+S0902_C01_001E,int,Estimate!!Total!!Population 15 to 19 years,S0902
+S0902_C01_002E,int,Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C01_003E,float,Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C01_004E,float,Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C01_005E,int,Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C01_006E,int,Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C01_007E,float,Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C01_008E,int,Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C01_009E,float,Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C01_010E,float,Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C01_011E,int,Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C01_012E,float,Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C01_013E,float,"Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C01_014E,float,"Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C01_015E,float,Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C01_016E,int,Estimate!!Total!!Population 16 to 19 years,S0902
+S0902_C01_017E,float,Estimate!!Total!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C01_018E,float,Estimate!!Total!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C02_001E,int,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years",S0902
+S0902_C02_002E,int,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school",S0902
+S0902_C02_003E,float,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public",S0902
+S0902_C02_004E,float,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private",S0902
+S0902_C02_005E,int,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school",S0902
+S0902_C02_006E,int,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male",S0902
+S0902_C02_007E,float,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married",S0902
+S0902_C02_008E,int,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female",S0902
+S0902_C02_009E,float,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married",S0902
+S0902_C02_010E,float,"Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months",S0902
+S0902_C02_011E,int,"Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households",S0902
+S0902_C02_012E,float,"Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households",S0902
+S0902_C02_013E,float,"Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C02_014E,float,"Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C02_015E,float,"Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households",S0902
+S0902_C02_016E,int,"Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years",S0902
+S0902_C02_017E,float,"Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force",S0902
+S0902_C02_018E,float,"Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force",S0902
+S0902_C03_001E,int,Estimate!!Black or African American!!Population 15 to 19 years,S0902
+S0902_C03_002E,int,Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C03_003E,float,Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C03_004E,float,Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C03_005E,int,Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C03_006E,int,Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C03_007E,float,Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C03_008E,int,Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C03_009E,float,Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C03_010E,float,Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C03_011E,int,Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C03_012E,float,Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C03_013E,float,"Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C03_014E,float,"Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C03_015E,float,Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C03_016E,int,Estimate!!Black or African American!!Population 16 to 19 years,S0902
+S0902_C03_017E,float,Estimate!!Black or African American!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C03_018E,float,Estimate!!Black or African American!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C04_001E,int,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years,S0902
+S0902_C04_002E,int,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C04_003E,float,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C04_004E,float,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C04_005E,int,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C04_006E,int,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C04_007E,float,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C04_008E,int,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C04_009E,float,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C04_010E,float,Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C04_011E,int,Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C04_012E,float,Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C04_013E,float,"Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C04_014E,float,"Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C04_015E,float,Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C04_016E,int,Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years,S0902
+S0902_C04_017E,float,Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C04_018E,float,Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C01_001M,int,Margin of Error!!Total MOE!!Population 15 to 19 years,S0902
+S0902_C01_002M,int,Margin of Error!!Total MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C01_003M,float,Margin of Error!!Total MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C01_004M,float,Margin of Error!!Total MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C01_005M,int,Margin of Error!!Total MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C01_006M,int,Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C01_007M,float,Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C01_008M,int,Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C01_009M,float,Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C01_010M,float,Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C01_011M,int,Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C01_012M,float,Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C01_013M,float,"Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C01_014M,float,"Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C01_015M,float,Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C01_016M,int,Margin of Error!!Total MOE!!Population 16 to 19 years,S0902
+S0902_C01_017M,float,Margin of Error!!Total MOE!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C01_018M,float,Margin of Error!!Total MOE!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C02_001M,int,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years",S0902
+S0902_C02_002M,int,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school",S0902
+S0902_C02_003M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public",S0902
+S0902_C02_004M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private",S0902
+S0902_C02_005M,int,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school",S0902
+S0902_C02_006M,int,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male",S0902
+S0902_C02_007M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married",S0902
+S0902_C02_008M,int,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female",S0902
+S0902_C02_009M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married",S0902
+S0902_C02_010M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months",S0902
+S0902_C02_011M,int,"Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households",S0902
+S0902_C02_012M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households",S0902
+S0902_C02_013M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C02_014M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C02_015M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households",S0902
+S0902_C02_016M,int,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 16 to 19 years",S0902
+S0902_C02_017M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force",S0902
+S0902_C02_018M,float,"Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force",S0902
+S0902_C03_001M,int,Margin of Error!!Black or African American MOE!!Population 15 to 19 years,S0902
+S0902_C03_002M,int,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C03_003M,float,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C03_004M,float,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C03_005M,int,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C03_006M,int,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C03_007M,float,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C03_008M,int,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C03_009M,float,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C03_010M,float,Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C03_011M,int,Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C03_012M,float,Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C03_013M,float,"Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C03_014M,float,"Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C03_015M,float,Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C03_016M,int,Margin of Error!!Black or African American MOE!!Population 16 to 19 years,S0902
+S0902_C03_017M,float,Margin of Error!!Black or African American MOE!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C03_018M,float,Margin of Error!!Black or African American MOE!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C04_001M,int,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years,S0902
+S0902_C04_002M,int,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C04_003M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C04_004M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C04_005M,int,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C04_006M,int,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C04_007M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C04_008M,int,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C04_009M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C04_010M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C04_011M,int,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C04_012M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C04_013M,float,"Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C04_014M,float,"Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C04_015M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C04_016M,int,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 16 to 19 years,S0902
+S0902_C04_017M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C04_018M,float,Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C01_001EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years,S0902
+S0902_C01_001MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years,S0902
+S0902_C01_002EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C01_002MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C01_003EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C01_003MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C01_004EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C01_004MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C01_005EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C01_005MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C01_006EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C01_006MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C01_007EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C01_007MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C01_008EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C01_008MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C01_009EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C01_009MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C01_010EA,string,Annotation of Estimate!!Total!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C01_010MA,string,Annotation of Margin of Error!!Total MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C01_011EA,string,Annotation of Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C01_011MA,string,Annotation of Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C01_012EA,string,Annotation of Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C01_012MA,string,Annotation of Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C01_013EA,string,"Annotation of Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C01_013MA,string,"Annotation of Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C01_014EA,string,"Annotation of Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C01_014MA,string,"Annotation of Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C01_015EA,string,Annotation of Estimate!!Total!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C01_015MA,string,Annotation of Margin of Error!!Total MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C01_016EA,string,Annotation of Estimate!!Total!!Population 16 to 19 years,S0902
+S0902_C01_016MA,string,Annotation of Margin of Error!!Total MOE!!Population 16 to 19 years,S0902
+S0902_C01_017EA,string,Annotation of Estimate!!Total!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C01_017MA,string,Annotation of Margin of Error!!Total MOE!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C01_018EA,string,Annotation of Estimate!!Total!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C01_018MA,string,Annotation of Margin of Error!!Total MOE!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C02_001EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years",S0902
+S0902_C02_001MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years",S0902
+S0902_C02_002EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school",S0902
+S0902_C02_002MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school",S0902
+S0902_C02_003EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public",S0902
+S0902_C02_003MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public",S0902
+S0902_C02_004EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private",S0902
+S0902_C02_004MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private",S0902
+S0902_C02_005EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school",S0902
+S0902_C02_005MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school",S0902
+S0902_C02_006EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male",S0902
+S0902_C02_006MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male",S0902
+S0902_C02_007EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married",S0902
+S0902_C02_007MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married",S0902
+S0902_C02_008EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female",S0902
+S0902_C02_008MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female",S0902
+S0902_C02_009EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married",S0902
+S0902_C02_009MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married",S0902
+S0902_C02_010EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months",S0902
+S0902_C02_010MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months",S0902
+S0902_C02_011EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households",S0902
+S0902_C02_011MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households",S0902
+S0902_C02_012EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households",S0902
+S0902_C02_012MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households",S0902
+S0902_C02_013EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C02_013MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C02_014EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C02_014MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C02_015EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households",S0902
+S0902_C02_015MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households",S0902
+S0902_C02_016EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years",S0902
+S0902_C02_016MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 16 to 19 years",S0902
+S0902_C02_017EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force",S0902
+S0902_C02_017MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force",S0902
+S0902_C02_018EA,string,"Annotation of Estimate!!White alone, not Hispanic or Latino!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force",S0902
+S0902_C02_018MA,string,"Annotation of Margin of Error!!White alone, not Hispanic or Latino MOE!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force",S0902
+S0902_C03_001EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years,S0902
+S0902_C03_001MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years,S0902
+S0902_C03_002EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C03_002MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C03_003EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C03_003MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C03_004EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C03_004MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C03_005EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C03_005MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C03_006EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C03_006MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C03_007EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C03_007MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C03_008EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C03_008MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C03_009EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C03_009MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C03_010EA,string,Annotation of Estimate!!Black or African American!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C03_010MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C03_011EA,string,Annotation of Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C03_011MA,string,Annotation of Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C03_012EA,string,Annotation of Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C03_012MA,string,Annotation of Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C03_013EA,string,"Annotation of Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C03_013MA,string,"Annotation of Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C03_014EA,string,"Annotation of Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C03_014MA,string,"Annotation of Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C03_015EA,string,Annotation of Estimate!!Black or African American!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C03_015MA,string,Annotation of Margin of Error!!Black or African American MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C03_016EA,string,Annotation of Estimate!!Black or African American!!Population 16 to 19 years,S0902
+S0902_C03_016MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 16 to 19 years,S0902
+S0902_C03_017EA,string,Annotation of Estimate!!Black or African American!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C03_017MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C03_018EA,string,Annotation of Estimate!!Black or African American!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C03_018MA,string,Annotation of Margin of Error!!Black or African American MOE!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C04_001EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years,S0902
+S0902_C04_001MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years,S0902
+S0902_C04_002EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C04_002MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school,S0902
+S0902_C04_003EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C04_003MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Public,S0902
+S0902_C04_004EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C04_004MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Enrolled in school!!Private,S0902
+S0902_C04_005EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C04_005MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!SCHOOL ENROLLMENT!!Not enrolled in school,S0902
+S0902_C04_006EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C04_006MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male,S0902
+S0902_C04_007EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C04_007MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Male!!Ever married,S0902
+S0902_C04_008EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C04_008MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female,S0902
+S0902_C04_009EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C04_009MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Ever married,S0902
+S0902_C04_010EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C04_010MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 15 to 19 years!!MARITAL STATUS AND FERTILITY!!Female!!Female with a birth in the past 12 months,S0902
+S0902_C04_011EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C04_011MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households,S0902
+S0902_C04_012EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C04_012MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In married-couple family households,S0902
+S0902_C04_013EA,string,"Annotation of Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C04_013MA,string,"Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In male householder, no wife present, family households",S0902
+S0902_C04_014EA,string,"Annotation of Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C04_014MA,string,"Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In female householder, no husband present, family households",S0902
+S0902_C04_015EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C04_015MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!HOUSEHOLD TYPE!!Population 15 to 19 years in households!!In nonfamily households,S0902
+S0902_C04_016EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years,S0902
+S0902_C04_016MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 16 to 19 years,S0902
+S0902_C04_017EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C04_017MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 16 to 19 years!!IDLENESS!!Not enrolled in school and not in the labor force,S0902
+S0902_C04_018EA,string,Annotation of Estimate!!Hispanic or Latino origin (of any race)!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902
+S0902_C04_018MA,string,Annotation of Margin of Error!!Hispanic or Latino origin (of any race) MOE!!Population 16 to 19 years!!LABOR FORCE STATUS!!In the labor force,S0902

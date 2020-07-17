@@ -1,0 +1,257 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1901_C01_001E,int,Households!!Estimate!!Total,S1901
+S1901_C01_002E,int,"Households!!Estimate!!Less than $10,000",S1901
+S1901_C01_003E,int,"Households!!Estimate!!$10,000 to $14,999",S1901
+S1901_C01_004E,int,"Households!!Estimate!!$15,000 to $24,999",S1901
+S1901_C01_005E,int,"Households!!Estimate!!$25,000 to $34,999",S1901
+S1901_C01_006E,int,"Households!!Estimate!!$35,000 to $49,999",S1901
+S1901_C01_007E,int,"Households!!Estimate!!$50,000 to $74,999",S1901
+S1901_C01_008E,int,"Households!!Estimate!!$75,000 to $99,999",S1901
+S1901_C01_009E,int,"Households!!Estimate!!$100,000 to $149,999",S1901
+S1901_C01_010E,int,"Households!!Estimate!!$150,000 to $199,999",S1901
+S1901_C01_011E,int,"Households!!Estimate!!$200,000 or more",S1901
+S1901_C01_012E,int,Households!!Estimate!!Median income (dollars),S1901
+S1901_C01_013E,int,Households!!Estimate!!Mean income (dollars),S1901
+S1901_C01_014E,int,Households!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C01_015E,int,Households!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C01_016E,int,Households!!Estimate!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C02_001E,int,Families!!Estimate!!Total,S1901
+S1901_C02_002E,int,"Families!!Estimate!!Less than $10,000",S1901
+S1901_C02_003E,int,"Families!!Estimate!!$10,000 to $14,999",S1901
+S1901_C02_004E,int,"Families!!Estimate!!$15,000 to $24,999",S1901
+S1901_C02_005E,int,"Families!!Estimate!!$25,000 to $34,999",S1901
+S1901_C02_006E,int,"Families!!Estimate!!$35,000 to $49,999",S1901
+S1901_C02_007E,int,"Families!!Estimate!!$50,000 to $74,999",S1901
+S1901_C02_008E,int,"Families!!Estimate!!$75,000 to $99,999",S1901
+S1901_C02_009E,int,"Families!!Estimate!!$100,000 to $149,999",S1901
+S1901_C02_010E,int,"Families!!Estimate!!$150,000 to $199,999",S1901
+S1901_C02_011E,int,"Families!!Estimate!!$200,000 or more",S1901
+S1901_C02_012E,int,Families!!Estimate!!Median income (dollars),S1901
+S1901_C02_013E,int,Families!!Estimate!!Mean income (dollars),S1901
+S1901_C02_014E,int,Families!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C02_015E,int,Families!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C02_016E,int,Families!!Estimate!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C03_001E,int,Married-couple families!!Estimate!!Total,S1901
+S1901_C03_002E,int,"Married-couple families!!Estimate!!Less than $10,000",S1901
+S1901_C03_003E,int,"Married-couple families!!Estimate!!$10,000 to $14,999",S1901
+S1901_C03_004E,int,"Married-couple families!!Estimate!!$15,000 to $24,999",S1901
+S1901_C03_005E,int,"Married-couple families!!Estimate!!$25,000 to $34,999",S1901
+S1901_C03_006E,int,"Married-couple families!!Estimate!!$35,000 to $49,999",S1901
+S1901_C03_007E,int,"Married-couple families!!Estimate!!$50,000 to $74,999",S1901
+S1901_C03_008E,int,"Married-couple families!!Estimate!!$75,000 to $99,999",S1901
+S1901_C03_009E,int,"Married-couple families!!Estimate!!$100,000 to $149,999",S1901
+S1901_C03_010E,int,"Married-couple families!!Estimate!!$150,000 to $199,999",S1901
+S1901_C03_011E,int,"Married-couple families!!Estimate!!$200,000 or more",S1901
+S1901_C03_012E,int,Married-couple families!!Estimate!!Median income (dollars),S1901
+S1901_C03_013E,int,Married-couple families!!Estimate!!Mean income (dollars),S1901
+S1901_C03_014E,int,Married-couple families!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C03_015E,int,Married-couple families!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C03_016E,int,Married-couple families!!Estimate!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C04_001E,int,Nonfamily households!!Estimate!!Total,S1901
+S1901_C04_002E,int,"Nonfamily households!!Estimate!!Less than $10,000",S1901
+S1901_C04_003E,int,"Nonfamily households!!Estimate!!$10,000 to $14,999",S1901
+S1901_C04_004E,int,"Nonfamily households!!Estimate!!$15,000 to $24,999",S1901
+S1901_C04_005E,int,"Nonfamily households!!Estimate!!$25,000 to $34,999",S1901
+S1901_C04_006E,int,"Nonfamily households!!Estimate!!$35,000 to $49,999",S1901
+S1901_C04_007E,int,"Nonfamily households!!Estimate!!$50,000 to $74,999",S1901
+S1901_C04_008E,int,"Nonfamily households!!Estimate!!$75,000 to $99,999",S1901
+S1901_C04_009E,int,"Nonfamily households!!Estimate!!$100,000 to $149,999",S1901
+S1901_C04_010E,int,"Nonfamily households!!Estimate!!$150,000 to $199,999",S1901
+S1901_C04_011E,int,"Nonfamily households!!Estimate!!$200,000 or more",S1901
+S1901_C04_012E,int,Nonfamily households!!Estimate!!Median income (dollars),S1901
+S1901_C04_013E,int,Nonfamily households!!Estimate!!Mean income (dollars),S1901
+S1901_C04_014E,int,Nonfamily households!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C04_015E,int,Nonfamily households!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C04_016E,int,Nonfamily households!!Estimate!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C01_001M,int,Households!!Margin of Error!!Total,S1901
+S1901_C01_002M,int,"Households!!Margin of Error!!Less than $10,000",S1901
+S1901_C01_003M,int,"Households!!Margin of Error!!$10,000 to $14,999",S1901
+S1901_C01_004M,int,"Households!!Margin of Error!!$15,000 to $24,999",S1901
+S1901_C01_005M,int,"Households!!Margin of Error!!$25,000 to $34,999",S1901
+S1901_C01_006M,int,"Households!!Margin of Error!!$35,000 to $49,999",S1901
+S1901_C01_007M,int,"Households!!Margin of Error!!$50,000 to $74,999",S1901
+S1901_C01_008M,int,"Households!!Margin of Error!!$75,000 to $99,999",S1901
+S1901_C01_009M,int,"Households!!Margin of Error!!$100,000 to $149,999",S1901
+S1901_C01_010M,int,"Households!!Margin of Error!!$150,000 to $199,999",S1901
+S1901_C01_011M,int,"Households!!Margin of Error!!$200,000 or more",S1901
+S1901_C01_012M,int,Households!!Margin of Error!!Median income (dollars),S1901
+S1901_C01_013M,int,Households!!Margin of Error!!Mean income (dollars),S1901
+S1901_C01_014M,int,Households!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C01_015M,int,Households!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C01_016M,int,Households!!Margin of Error!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C02_001M,int,Families!!Margin of Error!!Total,S1901
+S1901_C02_002M,int,"Families!!Margin of Error!!Less than $10,000",S1901
+S1901_C02_003M,int,"Families!!Margin of Error!!$10,000 to $14,999",S1901
+S1901_C02_004M,int,"Families!!Margin of Error!!$15,000 to $24,999",S1901
+S1901_C02_005M,int,"Families!!Margin of Error!!$25,000 to $34,999",S1901
+S1901_C02_006M,int,"Families!!Margin of Error!!$35,000 to $49,999",S1901
+S1901_C02_007M,int,"Families!!Margin of Error!!$50,000 to $74,999",S1901
+S1901_C02_008M,int,"Families!!Margin of Error!!$75,000 to $99,999",S1901
+S1901_C02_009M,int,"Families!!Margin of Error!!$100,000 to $149,999",S1901
+S1901_C02_010M,int,"Families!!Margin of Error!!$150,000 to $199,999",S1901
+S1901_C02_011M,int,"Families!!Margin of Error!!$200,000 or more",S1901
+S1901_C02_012M,int,Families!!Margin of Error!!Median income (dollars),S1901
+S1901_C02_013M,int,Families!!Margin of Error!!Mean income (dollars),S1901
+S1901_C02_014M,int,Families!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C02_015M,int,Families!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C02_016M,int,Families!!Margin of Error!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C03_001M,int,Married-couple families!!Margin of Error!!Total,S1901
+S1901_C03_002M,int,"Married-couple families!!Margin of Error!!Less than $10,000",S1901
+S1901_C03_003M,int,"Married-couple families!!Margin of Error!!$10,000 to $14,999",S1901
+S1901_C03_004M,int,"Married-couple families!!Margin of Error!!$15,000 to $24,999",S1901
+S1901_C03_005M,int,"Married-couple families!!Margin of Error!!$25,000 to $34,999",S1901
+S1901_C03_006M,int,"Married-couple families!!Margin of Error!!$35,000 to $49,999",S1901
+S1901_C03_007M,int,"Married-couple families!!Margin of Error!!$50,000 to $74,999",S1901
+S1901_C03_008M,int,"Married-couple families!!Margin of Error!!$75,000 to $99,999",S1901
+S1901_C03_009M,int,"Married-couple families!!Margin of Error!!$100,000 to $149,999",S1901
+S1901_C03_010M,int,"Married-couple families!!Margin of Error!!$150,000 to $199,999",S1901
+S1901_C03_011M,int,"Married-couple families!!Margin of Error!!$200,000 or more",S1901
+S1901_C03_012M,int,Married-couple families!!Margin of Error!!Median income (dollars),S1901
+S1901_C03_013M,int,Married-couple families!!Margin of Error!!Mean income (dollars),S1901
+S1901_C03_014M,int,Married-couple families!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C03_015M,int,Married-couple families!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C03_016M,int,Married-couple families!!Margin of Error!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C04_001M,int,Nonfamily households!!Margin of Error!!Total,S1901
+S1901_C04_002M,int,"Nonfamily households!!Margin of Error!!Less than $10,000",S1901
+S1901_C04_003M,int,"Nonfamily households!!Margin of Error!!$10,000 to $14,999",S1901
+S1901_C04_004M,int,"Nonfamily households!!Margin of Error!!$15,000 to $24,999",S1901
+S1901_C04_005M,int,"Nonfamily households!!Margin of Error!!$25,000 to $34,999",S1901
+S1901_C04_006M,int,"Nonfamily households!!Margin of Error!!$35,000 to $49,999",S1901
+S1901_C04_007M,int,"Nonfamily households!!Margin of Error!!$50,000 to $74,999",S1901
+S1901_C04_008M,int,"Nonfamily households!!Margin of Error!!$75,000 to $99,999",S1901
+S1901_C04_009M,int,"Nonfamily households!!Margin of Error!!$100,000 to $149,999",S1901
+S1901_C04_010M,int,"Nonfamily households!!Margin of Error!!$150,000 to $199,999",S1901
+S1901_C04_011M,int,"Nonfamily households!!Margin of Error!!$200,000 or more",S1901
+S1901_C04_012M,int,Nonfamily households!!Margin of Error!!Median income (dollars),S1901
+S1901_C04_013M,int,Nonfamily households!!Margin of Error!!Mean income (dollars),S1901
+S1901_C04_014M,int,Nonfamily households!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C04_015M,int,Nonfamily households!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C04_016M,int,Nonfamily households!!Margin of Error!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C01_001EA,string,Annotation of Households!!Estimate!!Total,S1901
+S1901_C01_001MA,string,Annotation of Households!!Margin of Error!!Total,S1901
+S1901_C01_002EA,string,"Annotation of Households!!Estimate!!Less than $10,000",S1901
+S1901_C01_002MA,string,"Annotation of Households!!Margin of Error!!Less than $10,000",S1901
+S1901_C01_003EA,string,"Annotation of Households!!Estimate!!$10,000 to $14,999",S1901
+S1901_C01_003MA,string,"Annotation of Households!!Margin of Error!!$10,000 to $14,999",S1901
+S1901_C01_004EA,string,"Annotation of Households!!Estimate!!$15,000 to $24,999",S1901
+S1901_C01_004MA,string,"Annotation of Households!!Margin of Error!!$15,000 to $24,999",S1901
+S1901_C01_005EA,string,"Annotation of Households!!Estimate!!$25,000 to $34,999",S1901
+S1901_C01_005MA,string,"Annotation of Households!!Margin of Error!!$25,000 to $34,999",S1901
+S1901_C01_006EA,string,"Annotation of Households!!Estimate!!$35,000 to $49,999",S1901
+S1901_C01_006MA,string,"Annotation of Households!!Margin of Error!!$35,000 to $49,999",S1901
+S1901_C01_007EA,string,"Annotation of Households!!Estimate!!$50,000 to $74,999",S1901
+S1901_C01_007MA,string,"Annotation of Households!!Margin of Error!!$50,000 to $74,999",S1901
+S1901_C01_008EA,string,"Annotation of Households!!Estimate!!$75,000 to $99,999",S1901
+S1901_C01_008MA,string,"Annotation of Households!!Margin of Error!!$75,000 to $99,999",S1901
+S1901_C01_009EA,string,"Annotation of Households!!Estimate!!$100,000 to $149,999",S1901
+S1901_C01_009MA,string,"Annotation of Households!!Margin of Error!!$100,000 to $149,999",S1901
+S1901_C01_010EA,string,"Annotation of Households!!Estimate!!$150,000 to $199,999",S1901
+S1901_C01_010MA,string,"Annotation of Households!!Margin of Error!!$150,000 to $199,999",S1901
+S1901_C01_011EA,string,"Annotation of Households!!Estimate!!$200,000 or more",S1901
+S1901_C01_011MA,string,"Annotation of Households!!Margin of Error!!$200,000 or more",S1901
+S1901_C01_012EA,string,Annotation of Households!!Estimate!!Median income (dollars),S1901
+S1901_C01_012MA,string,Annotation of Households!!Margin of Error!!Median income (dollars),S1901
+S1901_C01_013EA,string,Annotation of Households!!Estimate!!Mean income (dollars),S1901
+S1901_C01_013MA,string,Annotation of Households!!Margin of Error!!Mean income (dollars),S1901
+S1901_C01_014EA,string,Annotation of Households!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C01_014MA,string,Annotation of Households!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C01_015EA,string,Annotation of Households!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C01_015MA,string,Annotation of Households!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C01_016EA,string,Annotation of Households!!Estimate!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C01_016MA,string,Annotation of Households!!Margin of Error!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C02_001EA,string,Annotation of Families!!Estimate!!Total,S1901
+S1901_C02_001MA,string,Annotation of Families!!Margin of Error!!Total,S1901
+S1901_C02_002EA,string,"Annotation of Families!!Estimate!!Less than $10,000",S1901
+S1901_C02_002MA,string,"Annotation of Families!!Margin of Error!!Less than $10,000",S1901
+S1901_C02_003EA,string,"Annotation of Families!!Estimate!!$10,000 to $14,999",S1901
+S1901_C02_003MA,string,"Annotation of Families!!Margin of Error!!$10,000 to $14,999",S1901
+S1901_C02_004EA,string,"Annotation of Families!!Estimate!!$15,000 to $24,999",S1901
+S1901_C02_004MA,string,"Annotation of Families!!Margin of Error!!$15,000 to $24,999",S1901
+S1901_C02_005EA,string,"Annotation of Families!!Estimate!!$25,000 to $34,999",S1901
+S1901_C02_005MA,string,"Annotation of Families!!Margin of Error!!$25,000 to $34,999",S1901
+S1901_C02_006EA,string,"Annotation of Families!!Estimate!!$35,000 to $49,999",S1901
+S1901_C02_006MA,string,"Annotation of Families!!Margin of Error!!$35,000 to $49,999",S1901
+S1901_C02_007EA,string,"Annotation of Families!!Estimate!!$50,000 to $74,999",S1901
+S1901_C02_007MA,string,"Annotation of Families!!Margin of Error!!$50,000 to $74,999",S1901
+S1901_C02_008EA,string,"Annotation of Families!!Estimate!!$75,000 to $99,999",S1901
+S1901_C02_008MA,string,"Annotation of Families!!Margin of Error!!$75,000 to $99,999",S1901
+S1901_C02_009EA,string,"Annotation of Families!!Estimate!!$100,000 to $149,999",S1901
+S1901_C02_009MA,string,"Annotation of Families!!Margin of Error!!$100,000 to $149,999",S1901
+S1901_C02_010EA,string,"Annotation of Families!!Estimate!!$150,000 to $199,999",S1901
+S1901_C02_010MA,string,"Annotation of Families!!Margin of Error!!$150,000 to $199,999",S1901
+S1901_C02_011EA,string,"Annotation of Families!!Estimate!!$200,000 or more",S1901
+S1901_C02_011MA,string,"Annotation of Families!!Margin of Error!!$200,000 or more",S1901
+S1901_C02_012EA,string,Annotation of Families!!Estimate!!Median income (dollars),S1901
+S1901_C02_012MA,string,Annotation of Families!!Margin of Error!!Median income (dollars),S1901
+S1901_C02_013EA,string,Annotation of Families!!Estimate!!Mean income (dollars),S1901
+S1901_C02_013MA,string,Annotation of Families!!Margin of Error!!Mean income (dollars),S1901
+S1901_C02_014EA,string,Annotation of Families!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C02_014MA,string,Annotation of Families!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C02_015EA,string,Annotation of Families!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C02_015MA,string,Annotation of Families!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C02_016EA,string,Annotation of Families!!Estimate!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C02_016MA,string,Annotation of Families!!Margin of Error!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C03_001EA,string,Annotation of Married-couple families!!Estimate!!Total,S1901
+S1901_C03_001MA,string,Annotation of Married-couple families!!Margin of Error!!Total,S1901
+S1901_C03_002EA,string,"Annotation of Married-couple families!!Estimate!!Less than $10,000",S1901
+S1901_C03_002MA,string,"Annotation of Married-couple families!!Margin of Error!!Less than $10,000",S1901
+S1901_C03_003EA,string,"Annotation of Married-couple families!!Estimate!!$10,000 to $14,999",S1901
+S1901_C03_003MA,string,"Annotation of Married-couple families!!Margin of Error!!$10,000 to $14,999",S1901
+S1901_C03_004EA,string,"Annotation of Married-couple families!!Estimate!!$15,000 to $24,999",S1901
+S1901_C03_004MA,string,"Annotation of Married-couple families!!Margin of Error!!$15,000 to $24,999",S1901
+S1901_C03_005EA,string,"Annotation of Married-couple families!!Estimate!!$25,000 to $34,999",S1901
+S1901_C03_005MA,string,"Annotation of Married-couple families!!Margin of Error!!$25,000 to $34,999",S1901
+S1901_C03_006EA,string,"Annotation of Married-couple families!!Estimate!!$35,000 to $49,999",S1901
+S1901_C03_006MA,string,"Annotation of Married-couple families!!Margin of Error!!$35,000 to $49,999",S1901
+S1901_C03_007EA,string,"Annotation of Married-couple families!!Estimate!!$50,000 to $74,999",S1901
+S1901_C03_007MA,string,"Annotation of Married-couple families!!Margin of Error!!$50,000 to $74,999",S1901
+S1901_C03_008EA,string,"Annotation of Married-couple families!!Estimate!!$75,000 to $99,999",S1901
+S1901_C03_008MA,string,"Annotation of Married-couple families!!Margin of Error!!$75,000 to $99,999",S1901
+S1901_C03_009EA,string,"Annotation of Married-couple families!!Estimate!!$100,000 to $149,999",S1901
+S1901_C03_009MA,string,"Annotation of Married-couple families!!Margin of Error!!$100,000 to $149,999",S1901
+S1901_C03_010EA,string,"Annotation of Married-couple families!!Estimate!!$150,000 to $199,999",S1901
+S1901_C03_010MA,string,"Annotation of Married-couple families!!Margin of Error!!$150,000 to $199,999",S1901
+S1901_C03_011EA,string,"Annotation of Married-couple families!!Estimate!!$200,000 or more",S1901
+S1901_C03_011MA,string,"Annotation of Married-couple families!!Margin of Error!!$200,000 or more",S1901
+S1901_C03_012EA,string,Annotation of Married-couple families!!Estimate!!Median income (dollars),S1901
+S1901_C03_012MA,string,Annotation of Married-couple families!!Margin of Error!!Median income (dollars),S1901
+S1901_C03_013EA,string,Annotation of Married-couple families!!Estimate!!Mean income (dollars),S1901
+S1901_C03_013MA,string,Annotation of Married-couple families!!Margin of Error!!Mean income (dollars),S1901
+S1901_C03_014EA,string,Annotation of Married-couple families!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C03_014MA,string,Annotation of Married-couple families!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C03_015EA,string,Annotation of Married-couple families!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C03_015MA,string,Annotation of Married-couple families!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C03_016EA,string,Annotation of Married-couple families!!Estimate!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C03_016MA,string,Annotation of Married-couple families!!Margin of Error!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C04_001EA,string,Annotation of Nonfamily households!!Estimate!!Total,S1901
+S1901_C04_001MA,string,Annotation of Nonfamily households!!Margin of Error!!Total,S1901
+S1901_C04_002EA,string,"Annotation of Nonfamily households!!Estimate!!Less than $10,000",S1901
+S1901_C04_002MA,string,"Annotation of Nonfamily households!!Margin of Error!!Less than $10,000",S1901
+S1901_C04_003EA,string,"Annotation of Nonfamily households!!Estimate!!$10,000 to $14,999",S1901
+S1901_C04_003MA,string,"Annotation of Nonfamily households!!Margin of Error!!$10,000 to $14,999",S1901
+S1901_C04_004EA,string,"Annotation of Nonfamily households!!Estimate!!$15,000 to $24,999",S1901
+S1901_C04_004MA,string,"Annotation of Nonfamily households!!Margin of Error!!$15,000 to $24,999",S1901
+S1901_C04_005EA,string,"Annotation of Nonfamily households!!Estimate!!$25,000 to $34,999",S1901
+S1901_C04_005MA,string,"Annotation of Nonfamily households!!Margin of Error!!$25,000 to $34,999",S1901
+S1901_C04_006EA,string,"Annotation of Nonfamily households!!Estimate!!$35,000 to $49,999",S1901
+S1901_C04_006MA,string,"Annotation of Nonfamily households!!Margin of Error!!$35,000 to $49,999",S1901
+S1901_C04_007EA,string,"Annotation of Nonfamily households!!Estimate!!$50,000 to $74,999",S1901
+S1901_C04_007MA,string,"Annotation of Nonfamily households!!Margin of Error!!$50,000 to $74,999",S1901
+S1901_C04_008EA,string,"Annotation of Nonfamily households!!Estimate!!$75,000 to $99,999",S1901
+S1901_C04_008MA,string,"Annotation of Nonfamily households!!Margin of Error!!$75,000 to $99,999",S1901
+S1901_C04_009EA,string,"Annotation of Nonfamily households!!Estimate!!$100,000 to $149,999",S1901
+S1901_C04_009MA,string,"Annotation of Nonfamily households!!Margin of Error!!$100,000 to $149,999",S1901
+S1901_C04_010EA,string,"Annotation of Nonfamily households!!Estimate!!$150,000 to $199,999",S1901
+S1901_C04_010MA,string,"Annotation of Nonfamily households!!Margin of Error!!$150,000 to $199,999",S1901
+S1901_C04_011EA,string,"Annotation of Nonfamily households!!Estimate!!$200,000 or more",S1901
+S1901_C04_011MA,string,"Annotation of Nonfamily households!!Margin of Error!!$200,000 or more",S1901
+S1901_C04_012EA,string,Annotation of Nonfamily households!!Estimate!!Median income (dollars),S1901
+S1901_C04_012MA,string,Annotation of Nonfamily households!!Margin of Error!!Median income (dollars),S1901
+S1901_C04_013EA,string,Annotation of Nonfamily households!!Estimate!!Mean income (dollars),S1901
+S1901_C04_013MA,string,Annotation of Nonfamily households!!Margin of Error!!Mean income (dollars),S1901
+S1901_C04_014EA,string,Annotation of Nonfamily households!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C04_014MA,string,Annotation of Nonfamily households!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1901
+S1901_C04_015EA,string,Annotation of Nonfamily households!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C04_015MA,string,Annotation of Nonfamily households!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1901
+S1901_C04_016EA,string,Annotation of Nonfamily households!!Estimate!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901
+S1901_C04_016MA,string,Annotation of Nonfamily households!!Margin of Error!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months,S1901

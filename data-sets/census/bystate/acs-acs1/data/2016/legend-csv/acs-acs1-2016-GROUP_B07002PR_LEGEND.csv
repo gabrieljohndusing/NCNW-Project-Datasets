@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07002PR_001E,int,Estimate!!Median age!!Total,B07002PR
+B07002PR_002E,int,Estimate!!Median age!!Total!!Same house 1 year ago,B07002PR
+B07002PR_003E,int,Estimate!!Median age!!Total!!Moved within same municipio,B07002PR
+B07002PR_004E,int,Estimate!!Median age!!Total!!Moved from different municipio,B07002PR
+B07002PR_005E,int,Estimate!!Median age!!Total!!Moved from the United States,B07002PR
+B07002PR_006E,int,Estimate!!Median age!!Total!!Moved from elsewhere,B07002PR
+B07002PR_001M,int,Margin of Error!!Median age!!Total,B07002PR
+B07002PR_002M,int,Margin of Error!!Median age!!Total!!Same house 1 year ago,B07002PR
+B07002PR_003M,int,Margin of Error!!Median age!!Total!!Moved within same municipio,B07002PR
+B07002PR_004M,int,Margin of Error!!Median age!!Total!!Moved from different municipio,B07002PR
+B07002PR_005M,int,Margin of Error!!Median age!!Total!!Moved from the United States,B07002PR
+B07002PR_006M,int,Margin of Error!!Median age!!Total!!Moved from elsewhere,B07002PR
+B07002PR_001EA,string,Annotation of Estimate!!Median age!!Total,B07002PR
+B07002PR_001MA,string,Annotation of Margin of Error!!Median age!!Total,B07002PR
+B07002PR_002EA,string,Annotation of Estimate!!Median age!!Total!!Same house 1 year ago,B07002PR
+B07002PR_002MA,string,Annotation of Margin of Error!!Median age!!Total!!Same house 1 year ago,B07002PR
+B07002PR_003EA,string,Annotation of Estimate!!Median age!!Total!!Moved within same municipio,B07002PR
+B07002PR_003MA,string,Annotation of Margin of Error!!Median age!!Total!!Moved within same municipio,B07002PR
+B07002PR_004EA,string,Annotation of Estimate!!Median age!!Total!!Moved from different municipio,B07002PR
+B07002PR_004MA,string,Annotation of Margin of Error!!Median age!!Total!!Moved from different municipio,B07002PR
+B07002PR_005EA,string,Annotation of Estimate!!Median age!!Total!!Moved from the United States,B07002PR
+B07002PR_005MA,string,Annotation of Margin of Error!!Median age!!Total!!Moved from the United States,B07002PR
+B07002PR_006EA,string,Annotation of Estimate!!Median age!!Total!!Moved from elsewhere,B07002PR
+B07002PR_006MA,string,Annotation of Margin of Error!!Median age!!Total!!Moved from elsewhere,B07002PR

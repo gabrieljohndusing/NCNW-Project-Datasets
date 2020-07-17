@@ -1,0 +1,145 @@
+VARIABLE,TYPE,LABEL,GROUP
+B24021_001E,int,Estimate!!Total,B24021
+B24021_002E,int,"Estimate!!Total!!Management, business, science, and arts occupations",B24021
+B24021_003E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations",B24021
+B24021_004E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations!!Management occupations",B24021
+B24021_005E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24021
+B24021_006E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations",B24021
+B24021_007E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Computer and mathematical occupations",B24021
+B24021_008E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Architecture and engineering occupations",B24021
+B24021_009E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Life, physical, and social science occupations",B24021
+B24021_010E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations",B24021
+B24021_011E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Community and social service occupations",B24021
+B24021_012E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Legal occupations",B24021
+B24021_013E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Educational instruction, and library occupations",B24021
+B24021_014E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Arts, design, entertainment, sports, and media occupations",B24021
+B24021_015E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations",B24021
+B24021_016E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations!!Health diagnosing and treating practitioners and other technical occupations",B24021
+B24021_017E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations!!Health technologists and technicians",B24021
+B24021_018E,int,Estimate!!Total!!Service occupations,B24021
+B24021_019E,int,Estimate!!Total!!Service occupations!!Healthcare support occupations,B24021
+B24021_020E,int,Estimate!!Total!!Service occupations!!Protective service occupations,B24021
+B24021_021E,int,"Estimate!!Total!!Service occupations!!Protective service occupations!!Firefighting and prevention, and other protective service workers including supervisors",B24021
+B24021_022E,int,Estimate!!Total!!Service occupations!!Protective service occupations!!Law enforcement workers including supervisors,B24021
+B24021_023E,int,Estimate!!Total!!Service occupations!!Food preparation and serving related occupations,B24021
+B24021_024E,int,Estimate!!Total!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24021
+B24021_025E,int,Estimate!!Total!!Service occupations!!Personal care and service occupations,B24021
+B24021_026E,int,Estimate!!Total!!Sales and office occupations,B24021
+B24021_027E,int,Estimate!!Total!!Sales and office occupations!!Sales and related occupations,B24021
+B24021_028E,int,Estimate!!Total!!Sales and office occupations!!Office and administrative support occupations,B24021
+B24021_029E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations",B24021
+B24021_030E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Farming, fishing, and forestry occupations",B24021
+B24021_031E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Construction and extraction occupations",B24021
+B24021_032E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Installation, maintenance, and repair occupations",B24021
+B24021_033E,int,"Estimate!!Total!!Production, transportation, and material moving occupations",B24021
+B24021_034E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Production occupations",B24021
+B24021_035E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation occupations",B24021
+B24021_036E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Material moving occupations",B24021
+B24021_001M,int,Margin of Error!!Total,B24021
+B24021_002M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations",B24021
+B24021_003M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations",B24021
+B24021_004M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations!!Management occupations",B24021
+B24021_005M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24021
+B24021_006M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations",B24021
+B24021_007M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Computer and mathematical occupations",B24021
+B24021_008M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Architecture and engineering occupations",B24021
+B24021_009M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Life, physical, and social science occupations",B24021
+B24021_010M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations",B24021
+B24021_011M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Community and social service occupations",B24021
+B24021_012M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Legal occupations",B24021
+B24021_013M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Educational instruction, and library occupations",B24021
+B24021_014M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Arts, design, entertainment, sports, and media occupations",B24021
+B24021_015M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations",B24021
+B24021_016M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations!!Health diagnosing and treating practitioners and other technical occupations",B24021
+B24021_017M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations!!Health technologists and technicians",B24021
+B24021_018M,int,Margin of Error!!Total!!Service occupations,B24021
+B24021_019M,int,Margin of Error!!Total!!Service occupations!!Healthcare support occupations,B24021
+B24021_020M,int,Margin of Error!!Total!!Service occupations!!Protective service occupations,B24021
+B24021_021M,int,"Margin of Error!!Total!!Service occupations!!Protective service occupations!!Firefighting and prevention, and other protective service workers including supervisors",B24021
+B24021_022M,int,Margin of Error!!Total!!Service occupations!!Protective service occupations!!Law enforcement workers including supervisors,B24021
+B24021_023M,int,Margin of Error!!Total!!Service occupations!!Food preparation and serving related occupations,B24021
+B24021_024M,int,Margin of Error!!Total!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24021
+B24021_025M,int,Margin of Error!!Total!!Service occupations!!Personal care and service occupations,B24021
+B24021_026M,int,Margin of Error!!Total!!Sales and office occupations,B24021
+B24021_027M,int,Margin of Error!!Total!!Sales and office occupations!!Sales and related occupations,B24021
+B24021_028M,int,Margin of Error!!Total!!Sales and office occupations!!Office and administrative support occupations,B24021
+B24021_029M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations",B24021
+B24021_030M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Farming, fishing, and forestry occupations",B24021
+B24021_031M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Construction and extraction occupations",B24021
+B24021_032M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Installation, maintenance, and repair occupations",B24021
+B24021_033M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations",B24021
+B24021_034M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Production occupations",B24021
+B24021_035M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation occupations",B24021
+B24021_036M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Material moving occupations",B24021
+B24021_001EA,string,Annotation of Estimate!!Total,B24021
+B24021_001MA,string,Annotation of Margin of Error!!Total,B24021
+B24021_002EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations",B24021
+B24021_002MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations",B24021
+B24021_003EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations",B24021
+B24021_003MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations",B24021
+B24021_004EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations!!Management occupations",B24021
+B24021_004MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations!!Management occupations",B24021
+B24021_005EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24021
+B24021_005MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24021
+B24021_006EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations",B24021
+B24021_006MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations",B24021
+B24021_007EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Computer and mathematical occupations",B24021
+B24021_007MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Computer and mathematical occupations",B24021
+B24021_008EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Architecture and engineering occupations",B24021
+B24021_008MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Architecture and engineering occupations",B24021
+B24021_009EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Life, physical, and social science occupations",B24021
+B24021_009MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Computer, engineering, and science occupations!!Life, physical, and social science occupations",B24021
+B24021_010EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations",B24021
+B24021_010MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations",B24021
+B24021_011EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Community and social service occupations",B24021
+B24021_011MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Community and social service occupations",B24021
+B24021_012EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Legal occupations",B24021
+B24021_012MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Legal occupations",B24021
+B24021_013EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Educational instruction, and library occupations",B24021
+B24021_013MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Educational instruction, and library occupations",B24021
+B24021_014EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Arts, design, entertainment, sports, and media occupations",B24021
+B24021_014MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Education, legal, community service, arts, and media occupations!!Arts, design, entertainment, sports, and media occupations",B24021
+B24021_015EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations",B24021
+B24021_015MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations",B24021
+B24021_016EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations!!Health diagnosing and treating practitioners and other technical occupations",B24021
+B24021_016MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations!!Health diagnosing and treating practitioners and other technical occupations",B24021
+B24021_017EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations!!Health technologists and technicians",B24021
+B24021_017MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Healthcare practitioners and technical occupations!!Health technologists and technicians",B24021
+B24021_018EA,string,Annotation of Estimate!!Total!!Service occupations,B24021
+B24021_018MA,string,Annotation of Margin of Error!!Total!!Service occupations,B24021
+B24021_019EA,string,Annotation of Estimate!!Total!!Service occupations!!Healthcare support occupations,B24021
+B24021_019MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Healthcare support occupations,B24021
+B24021_020EA,string,Annotation of Estimate!!Total!!Service occupations!!Protective service occupations,B24021
+B24021_020MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Protective service occupations,B24021
+B24021_021EA,string,"Annotation of Estimate!!Total!!Service occupations!!Protective service occupations!!Firefighting and prevention, and other protective service workers including supervisors",B24021
+B24021_021MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Protective service occupations!!Firefighting and prevention, and other protective service workers including supervisors",B24021
+B24021_022EA,string,Annotation of Estimate!!Total!!Service occupations!!Protective service occupations!!Law enforcement workers including supervisors,B24021
+B24021_022MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Protective service occupations!!Law enforcement workers including supervisors,B24021
+B24021_023EA,string,Annotation of Estimate!!Total!!Service occupations!!Food preparation and serving related occupations,B24021
+B24021_023MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Food preparation and serving related occupations,B24021
+B24021_024EA,string,Annotation of Estimate!!Total!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24021
+B24021_024MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24021
+B24021_025EA,string,Annotation of Estimate!!Total!!Service occupations!!Personal care and service occupations,B24021
+B24021_025MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Personal care and service occupations,B24021
+B24021_026EA,string,Annotation of Estimate!!Total!!Sales and office occupations,B24021
+B24021_026MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations,B24021
+B24021_027EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Sales and related occupations,B24021
+B24021_027MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Sales and related occupations,B24021
+B24021_028EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Office and administrative support occupations,B24021
+B24021_028MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Office and administrative support occupations,B24021
+B24021_029EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations",B24021
+B24021_029MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations",B24021
+B24021_030EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Farming, fishing, and forestry occupations",B24021
+B24021_030MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Farming, fishing, and forestry occupations",B24021
+B24021_031EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Construction and extraction occupations",B24021
+B24021_031MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Construction and extraction occupations",B24021
+B24021_032EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Installation, maintenance, and repair occupations",B24021
+B24021_032MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Installation, maintenance, and repair occupations",B24021
+B24021_033EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations",B24021
+B24021_033MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations",B24021
+B24021_034EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Production occupations",B24021
+B24021_034MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Production occupations",B24021
+B24021_035EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation occupations",B24021
+B24021_035MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation occupations",B24021
+B24021_036EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Material moving occupations",B24021
+B24021_036MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Material moving occupations",B24021

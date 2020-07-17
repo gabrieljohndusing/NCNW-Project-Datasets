@@ -1,0 +1,81 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1602_C01_001E,int,Estimate!!Total!!All households,S1602
+S1602_C01_002E,int,Estimate!!Total!!All households!!Households speaking --!!Spanish,S1602
+S1602_C01_003E,int,Estimate!!Total!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C01_004E,int,Estimate!!Total!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C01_005E,int,Estimate!!Total!!All households!!Households speaking --!!Other languages,S1602
+S1602_C02_001E,float,Estimate!!Percent!!All households,S1602
+S1602_C02_002E,float,Estimate!!Percent!!All households!!Households speaking --!!Spanish,S1602
+S1602_C02_003E,float,Estimate!!Percent!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C02_004E,float,Estimate!!Percent!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C02_005E,float,Estimate!!Percent!!All households!!Households speaking --!!Other languages,S1602
+S1602_C03_001E,int,Estimate!!Limited English-speaking households!!All households,S1602
+S1602_C03_002E,int,Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Spanish,S1602
+S1602_C03_003E,int,Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C03_004E,int,Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C03_005E,int,Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Other languages,S1602
+S1602_C04_001E,float,Estimate!!Percent limited English-speaking households!!All households,S1602
+S1602_C04_002E,float,Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Spanish,S1602
+S1602_C04_003E,float,Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C04_004E,float,Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C04_005E,float,Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Other languages,S1602
+S1602_C01_001M,int,Margin of Error!!Total MOE!!All households,S1602
+S1602_C01_002M,int,Margin of Error!!Total MOE!!All households!!Households speaking --!!Spanish,S1602
+S1602_C01_003M,int,Margin of Error!!Total MOE!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C01_004M,int,Margin of Error!!Total MOE!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C01_005M,int,Margin of Error!!Total MOE!!All households!!Households speaking --!!Other languages,S1602
+S1602_C02_001M,float,Margin of Error!!Percent MOE!!All households,S1602
+S1602_C02_002M,float,Margin of Error!!Percent MOE!!All households!!Households speaking --!!Spanish,S1602
+S1602_C02_003M,float,Margin of Error!!Percent MOE!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C02_004M,float,Margin of Error!!Percent MOE!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C02_005M,float,Margin of Error!!Percent MOE!!All households!!Households speaking --!!Other languages,S1602
+S1602_C03_001M,int,Margin of Error!!Limited English-speaking households MOE!!All households,S1602
+S1602_C03_002M,int,Margin of Error!!Limited English-speaking households MOE!!All households!!Households speaking --!!Spanish,S1602
+S1602_C03_003M,int,Margin of Error!!Limited English-speaking households MOE!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C03_004M,int,Margin of Error!!Limited English-speaking households MOE!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C03_005M,int,Margin of Error!!Limited English-speaking households MOE!!All households!!Households speaking --!!Other languages,S1602
+S1602_C04_001M,float,Margin of Error!!Percent limited English-speaking households MOE!!All households,S1602
+S1602_C04_002M,float,Margin of Error!!Percent limited English-speaking households MOE!!All households!!Households speaking --!!Spanish,S1602
+S1602_C04_003M,float,Margin of Error!!Percent limited English-speaking households MOE!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C04_004M,float,Margin of Error!!Percent limited English-speaking households MOE!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C04_005M,float,Margin of Error!!Percent limited English-speaking households MOE!!All households!!Households speaking --!!Other languages,S1602
+S1602_C01_001EA,string,Annotation of Estimate!!Total!!All households,S1602
+S1602_C01_001MA,string,Annotation of Margin of Error!!Total MOE!!All households,S1602
+S1602_C01_002EA,string,Annotation of Estimate!!Total!!All households!!Households speaking --!!Spanish,S1602
+S1602_C01_002MA,string,Annotation of Margin of Error!!Total MOE!!All households!!Households speaking --!!Spanish,S1602
+S1602_C01_003EA,string,Annotation of Estimate!!Total!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C01_003MA,string,Annotation of Margin of Error!!Total MOE!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C01_004EA,string,Annotation of Estimate!!Total!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C01_004MA,string,Annotation of Margin of Error!!Total MOE!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C01_005EA,string,Annotation of Estimate!!Total!!All households!!Households speaking --!!Other languages,S1602
+S1602_C01_005MA,string,Annotation of Margin of Error!!Total MOE!!All households!!Households speaking --!!Other languages,S1602
+S1602_C02_001EA,string,Annotation of Estimate!!Percent!!All households,S1602
+S1602_C02_001MA,string,Annotation of Margin of Error!!Percent MOE!!All households,S1602
+S1602_C02_002EA,string,Annotation of Estimate!!Percent!!All households!!Households speaking --!!Spanish,S1602
+S1602_C02_002MA,string,Annotation of Margin of Error!!Percent MOE!!All households!!Households speaking --!!Spanish,S1602
+S1602_C02_003EA,string,Annotation of Estimate!!Percent!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C02_003MA,string,Annotation of Margin of Error!!Percent MOE!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C02_004EA,string,Annotation of Estimate!!Percent!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C02_004MA,string,Annotation of Margin of Error!!Percent MOE!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C02_005EA,string,Annotation of Estimate!!Percent!!All households!!Households speaking --!!Other languages,S1602
+S1602_C02_005MA,string,Annotation of Margin of Error!!Percent MOE!!All households!!Households speaking --!!Other languages,S1602
+S1602_C03_001EA,string,Annotation of Estimate!!Limited English-speaking households!!All households,S1602
+S1602_C03_001MA,string,Annotation of Margin of Error!!Limited English-speaking households MOE!!All households,S1602
+S1602_C03_002EA,string,Annotation of Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Spanish,S1602
+S1602_C03_002MA,string,Annotation of Margin of Error!!Limited English-speaking households MOE!!All households!!Households speaking --!!Spanish,S1602
+S1602_C03_003EA,string,Annotation of Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C03_003MA,string,Annotation of Margin of Error!!Limited English-speaking households MOE!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C03_004EA,string,Annotation of Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C03_004MA,string,Annotation of Margin of Error!!Limited English-speaking households MOE!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C03_005EA,string,Annotation of Estimate!!Limited English-speaking households!!All households!!Households speaking --!!Other languages,S1602
+S1602_C03_005MA,string,Annotation of Margin of Error!!Limited English-speaking households MOE!!All households!!Households speaking --!!Other languages,S1602
+S1602_C04_001EA,string,Annotation of Estimate!!Percent limited English-speaking households!!All households,S1602
+S1602_C04_001MA,string,Annotation of Margin of Error!!Percent limited English-speaking households MOE!!All households,S1602
+S1602_C04_002EA,string,Annotation of Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Spanish,S1602
+S1602_C04_002MA,string,Annotation of Margin of Error!!Percent limited English-speaking households MOE!!All households!!Households speaking --!!Spanish,S1602
+S1602_C04_003EA,string,Annotation of Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C04_003MA,string,Annotation of Margin of Error!!Percent limited English-speaking households MOE!!All households!!Households speaking --!!Other Indo-European languages,S1602
+S1602_C04_004EA,string,Annotation of Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C04_004MA,string,Annotation of Margin of Error!!Percent limited English-speaking households MOE!!All households!!Households speaking --!!Asian and Pacific Island languages,S1602
+S1602_C04_005EA,string,Annotation of Estimate!!Percent limited English-speaking households!!All households!!Households speaking --!!Other languages,S1602
+S1602_C04_005MA,string,Annotation of Margin of Error!!Percent limited English-speaking households MOE!!All households!!Households speaking --!!Other languages,S1602

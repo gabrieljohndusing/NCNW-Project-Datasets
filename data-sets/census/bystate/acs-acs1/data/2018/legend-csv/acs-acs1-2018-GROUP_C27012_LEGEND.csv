@@ -1,0 +1,89 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27012_001E,int,Estimate!!Total,C27012
+C27012_002E,int,"Estimate!!Total!!Worked full-time, year-round",C27012
+C27012_003E,int,"Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage",C27012
+C27012_004E,int,"Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage!!With employer-based health insurance",C27012
+C27012_005E,int,"Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage!!With direct-purchase health insurance",C27012
+C27012_006E,int,"Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage!!With Medicare coverage",C27012
+C27012_007E,int,"Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage!!With Medicaid/means-tested public coverage",C27012
+C27012_008E,int,"Estimate!!Total!!Worked full-time, year-round!!No health insurance coverage",C27012
+C27012_009E,int,"Estimate!!Total!!Worked less than full-time, year-round",C27012
+C27012_010E,int,"Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage",C27012
+C27012_011E,int,"Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With employer-based health insurance",C27012
+C27012_012E,int,"Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With direct-purchase health insurance",C27012
+C27012_013E,int,"Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With Medicare coverage",C27012
+C27012_014E,int,"Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With Medicaid/means-tested public coverage",C27012
+C27012_015E,int,"Estimate!!Total!!Worked less than full-time, year-round!!No health insurance coverage",C27012
+C27012_016E,int,Estimate!!Total!!Did not work,C27012
+C27012_017E,int,Estimate!!Total!!Did not work!!With health insurance coverage,C27012
+C27012_018E,int,Estimate!!Total!!Did not work!!With health insurance coverage!!With employer-based health insurance,C27012
+C27012_019E,int,Estimate!!Total!!Did not work!!With health insurance coverage!!With direct-purchase health insurance,C27012
+C27012_020E,int,Estimate!!Total!!Did not work!!With health insurance coverage!!With Medicare coverage,C27012
+C27012_021E,int,Estimate!!Total!!Did not work!!With health insurance coverage!!With Medicaid/means-tested public coverage,C27012
+C27012_022E,int,Estimate!!Total!!Did not work!!No health insurance coverage,C27012
+C27012_001M,int,Margin of Error!!Total,C27012
+C27012_002M,int,"Margin of Error!!Total!!Worked full-time, year-round",C27012
+C27012_003M,int,"Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage",C27012
+C27012_004M,int,"Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage!!With employer-based health insurance",C27012
+C27012_005M,int,"Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage!!With direct-purchase health insurance",C27012
+C27012_006M,int,"Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage!!With Medicare coverage",C27012
+C27012_007M,int,"Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage!!With Medicaid/means-tested public coverage",C27012
+C27012_008M,int,"Margin of Error!!Total!!Worked full-time, year-round!!No health insurance coverage",C27012
+C27012_009M,int,"Margin of Error!!Total!!Worked less than full-time, year-round",C27012
+C27012_010M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage",C27012
+C27012_011M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With employer-based health insurance",C27012
+C27012_012M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With direct-purchase health insurance",C27012
+C27012_013M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With Medicare coverage",C27012
+C27012_014M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With Medicaid/means-tested public coverage",C27012
+C27012_015M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!No health insurance coverage",C27012
+C27012_016M,int,Margin of Error!!Total!!Did not work,C27012
+C27012_017M,int,Margin of Error!!Total!!Did not work!!With health insurance coverage,C27012
+C27012_018M,int,Margin of Error!!Total!!Did not work!!With health insurance coverage!!With employer-based health insurance,C27012
+C27012_019M,int,Margin of Error!!Total!!Did not work!!With health insurance coverage!!With direct-purchase health insurance,C27012
+C27012_020M,int,Margin of Error!!Total!!Did not work!!With health insurance coverage!!With Medicare coverage,C27012
+C27012_021M,int,Margin of Error!!Total!!Did not work!!With health insurance coverage!!With Medicaid/means-tested public coverage,C27012
+C27012_022M,int,Margin of Error!!Total!!Did not work!!No health insurance coverage,C27012
+C27012_001EA,string,Annotation of Estimate!!Total,C27012
+C27012_001MA,string,Annotation of Margin of Error!!Total,C27012
+C27012_002EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round",C27012
+C27012_002MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round",C27012
+C27012_003EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage",C27012
+C27012_003MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage",C27012
+C27012_004EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage!!With employer-based health insurance",C27012
+C27012_004MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage!!With employer-based health insurance",C27012
+C27012_005EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage!!With direct-purchase health insurance",C27012
+C27012_005MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage!!With direct-purchase health insurance",C27012
+C27012_006EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage!!With Medicare coverage",C27012
+C27012_006MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage!!With Medicare coverage",C27012
+C27012_007EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!With health insurance coverage!!With Medicaid/means-tested public coverage",C27012
+C27012_007MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!With health insurance coverage!!With Medicaid/means-tested public coverage",C27012
+C27012_008EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!No health insurance coverage",C27012
+C27012_008MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!No health insurance coverage",C27012
+C27012_009EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round",C27012
+C27012_009MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round",C27012
+C27012_010EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage",C27012
+C27012_010MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage",C27012
+C27012_011EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With employer-based health insurance",C27012
+C27012_011MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With employer-based health insurance",C27012
+C27012_012EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With direct-purchase health insurance",C27012
+C27012_012MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With direct-purchase health insurance",C27012
+C27012_013EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With Medicare coverage",C27012
+C27012_013MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With Medicare coverage",C27012
+C27012_014EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With Medicaid/means-tested public coverage",C27012
+C27012_014MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!With health insurance coverage!!With Medicaid/means-tested public coverage",C27012
+C27012_015EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!No health insurance coverage",C27012
+C27012_015MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!No health insurance coverage",C27012
+C27012_016EA,string,Annotation of Estimate!!Total!!Did not work,C27012
+C27012_016MA,string,Annotation of Margin of Error!!Total!!Did not work,C27012
+C27012_017EA,string,Annotation of Estimate!!Total!!Did not work!!With health insurance coverage,C27012
+C27012_017MA,string,Annotation of Margin of Error!!Total!!Did not work!!With health insurance coverage,C27012
+C27012_018EA,string,Annotation of Estimate!!Total!!Did not work!!With health insurance coverage!!With employer-based health insurance,C27012
+C27012_018MA,string,Annotation of Margin of Error!!Total!!Did not work!!With health insurance coverage!!With employer-based health insurance,C27012
+C27012_019EA,string,Annotation of Estimate!!Total!!Did not work!!With health insurance coverage!!With direct-purchase health insurance,C27012
+C27012_019MA,string,Annotation of Margin of Error!!Total!!Did not work!!With health insurance coverage!!With direct-purchase health insurance,C27012
+C27012_020EA,string,Annotation of Estimate!!Total!!Did not work!!With health insurance coverage!!With Medicare coverage,C27012
+C27012_020MA,string,Annotation of Margin of Error!!Total!!Did not work!!With health insurance coverage!!With Medicare coverage,C27012
+C27012_021EA,string,Annotation of Estimate!!Total!!Did not work!!With health insurance coverage!!With Medicaid/means-tested public coverage,C27012
+C27012_021MA,string,Annotation of Margin of Error!!Total!!Did not work!!With health insurance coverage!!With Medicaid/means-tested public coverage,C27012
+C27012_022EA,string,Annotation of Estimate!!Total!!Did not work!!No health insurance coverage,C27012
+C27012_022MA,string,Annotation of Margin of Error!!Total!!Did not work!!No health insurance coverage,C27012

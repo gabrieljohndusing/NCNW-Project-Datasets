@@ -1,0 +1,53 @@
+VARIABLE,TYPE,LABEL,GROUP
+C24010F_001E,int,Estimate!!Total,C24010F
+C24010F_002E,int,Estimate!!Total!!Male,C24010F
+C24010F_003E,int,"Estimate!!Total!!Male!!Management, business, science, and arts occupations",C24010F
+C24010F_004E,int,Estimate!!Total!!Male!!Service occupations,C24010F
+C24010F_005E,int,Estimate!!Total!!Male!!Sales and office occupations,C24010F
+C24010F_006E,int,"Estimate!!Total!!Male!!Natural resources, construction, and maintenance occupations",C24010F
+C24010F_007E,int,"Estimate!!Total!!Male!!Production, transportation, and material moving occupations",C24010F
+C24010F_008E,int,Estimate!!Total!!Female,C24010F
+C24010F_009E,int,"Estimate!!Total!!Female!!Management, business, science, and arts occupations",C24010F
+C24010F_010E,int,Estimate!!Total!!Female!!Service occupations,C24010F
+C24010F_011E,int,Estimate!!Total!!Female!!Sales and office occupations,C24010F
+C24010F_012E,int,"Estimate!!Total!!Female!!Natural resources, construction, and maintenance occupations",C24010F
+C24010F_013E,int,"Estimate!!Total!!Female!!Production, transportation, and material moving occupations",C24010F
+C24010F_001M,int,Margin of Error!!Total,C24010F
+C24010F_002M,int,Margin of Error!!Total!!Male,C24010F
+C24010F_003M,int,"Margin of Error!!Total!!Male!!Management, business, science, and arts occupations",C24010F
+C24010F_004M,int,Margin of Error!!Total!!Male!!Service occupations,C24010F
+C24010F_005M,int,Margin of Error!!Total!!Male!!Sales and office occupations,C24010F
+C24010F_006M,int,"Margin of Error!!Total!!Male!!Natural resources, construction, and maintenance occupations",C24010F
+C24010F_007M,int,"Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations",C24010F
+C24010F_008M,int,Margin of Error!!Total!!Female,C24010F
+C24010F_009M,int,"Margin of Error!!Total!!Female!!Management, business, science, and arts occupations",C24010F
+C24010F_010M,int,Margin of Error!!Total!!Female!!Service occupations,C24010F
+C24010F_011M,int,Margin of Error!!Total!!Female!!Sales and office occupations,C24010F
+C24010F_012M,int,"Margin of Error!!Total!!Female!!Natural resources, construction, and maintenance occupations",C24010F
+C24010F_013M,int,"Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations",C24010F
+C24010F_001EA,string,Annotation of Estimate!!Total,C24010F
+C24010F_001MA,string,Annotation of Margin of Error!!Total,C24010F
+C24010F_002EA,string,Annotation of Estimate!!Total!!Male,C24010F
+C24010F_002MA,string,Annotation of Margin of Error!!Total!!Male,C24010F
+C24010F_003EA,string,"Annotation of Estimate!!Total!!Male!!Management, business, science, and arts occupations",C24010F
+C24010F_003MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, business, science, and arts occupations",C24010F
+C24010F_004EA,string,Annotation of Estimate!!Total!!Male!!Service occupations,C24010F
+C24010F_004MA,string,Annotation of Margin of Error!!Total!!Male!!Service occupations,C24010F
+C24010F_005EA,string,Annotation of Estimate!!Total!!Male!!Sales and office occupations,C24010F
+C24010F_005MA,string,Annotation of Margin of Error!!Total!!Male!!Sales and office occupations,C24010F
+C24010F_006EA,string,"Annotation of Estimate!!Total!!Male!!Natural resources, construction, and maintenance occupations",C24010F
+C24010F_006MA,string,"Annotation of Margin of Error!!Total!!Male!!Natural resources, construction, and maintenance occupations",C24010F
+C24010F_007EA,string,"Annotation of Estimate!!Total!!Male!!Production, transportation, and material moving occupations",C24010F
+C24010F_007MA,string,"Annotation of Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations",C24010F
+C24010F_008EA,string,Annotation of Estimate!!Total!!Female,C24010F
+C24010F_008MA,string,Annotation of Margin of Error!!Total!!Female,C24010F
+C24010F_009EA,string,"Annotation of Estimate!!Total!!Female!!Management, business, science, and arts occupations",C24010F
+C24010F_009MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, business, science, and arts occupations",C24010F
+C24010F_010EA,string,Annotation of Estimate!!Total!!Female!!Service occupations,C24010F
+C24010F_010MA,string,Annotation of Margin of Error!!Total!!Female!!Service occupations,C24010F
+C24010F_011EA,string,Annotation of Estimate!!Total!!Female!!Sales and office occupations,C24010F
+C24010F_011MA,string,Annotation of Margin of Error!!Total!!Female!!Sales and office occupations,C24010F
+C24010F_012EA,string,"Annotation of Estimate!!Total!!Female!!Natural resources, construction, and maintenance occupations",C24010F
+C24010F_012MA,string,"Annotation of Margin of Error!!Total!!Female!!Natural resources, construction, and maintenance occupations",C24010F
+C24010F_013EA,string,"Annotation of Estimate!!Total!!Female!!Production, transportation, and material moving occupations",C24010F
+C24010F_013MA,string,"Annotation of Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations",C24010F

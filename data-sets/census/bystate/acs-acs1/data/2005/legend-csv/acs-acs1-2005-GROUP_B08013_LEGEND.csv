@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08013_001E,int,Estimate!!Aggregate travel time to work (in minutes),B08013
+B08013_002E,int,Estimate!!Aggregate travel time to work (in minutes)!!Male,B08013
+B08013_003E,int,Estimate!!Aggregate travel time to work (in minutes)!!Female,B08013
+B08013_001M,int,Margin of Error!!Aggregate travel time to work (in minutes),B08013
+B08013_002M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Male,B08013
+B08013_003M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Female,B08013
+B08013_001EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes),B08013
+B08013_001MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes),B08013
+B08013_002EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Male,B08013
+B08013_002MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Male,B08013
+B08013_003EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Female,B08013
+B08013_003MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Female,B08013

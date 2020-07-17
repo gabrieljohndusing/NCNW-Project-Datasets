@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19126_001E,int,Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Total,B19126
+B19126_002E,int,Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!Total,B19126
+B19126_003E,int,Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!With own children of the householder under 18 years,B19126
+B19126_004E,int,Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!No own children of the householder under 18 years,B19126
+B19126_005E,int,Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Total,B19126
+B19126_006E,int,"Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!Total",B19126
+B19126_007E,int,"Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!With own children of the householder under 18 years",B19126
+B19126_008E,int,"Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!No own children of the householder under 18 years",B19126
+B19126_009E,int,"Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!Total",B19126
+B19126_010E,int,"Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!With own children of the householder under 18 years",B19126
+B19126_011E,int,"Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!No own children of the householder under 18 years",B19126
+B19126_001M,int,Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Total,B19126
+B19126_002M,int,Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!Total,B19126
+B19126_003M,int,Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!With own children of the householder under 18 years,B19126
+B19126_004M,int,Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!No own children of the householder under 18 years,B19126
+B19126_005M,int,Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Total,B19126
+B19126_006M,int,"Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!Total",B19126
+B19126_007M,int,"Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!With own children of the householder under 18 years",B19126
+B19126_008M,int,"Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!No own children of the householder under 18 years",B19126
+B19126_009M,int,"Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!Total",B19126
+B19126_010M,int,"Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!With own children of the householder under 18 years",B19126
+B19126_011M,int,"Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!No own children of the householder under 18 years",B19126
+B19126_001EA,string,Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Total,B19126
+B19126_001MA,string,Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Total,B19126
+B19126_002EA,string,Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!Total,B19126
+B19126_002MA,string,Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!Total,B19126
+B19126_003EA,string,Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!With own children of the householder under 18 years,B19126
+B19126_003MA,string,Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!With own children of the householder under 18 years,B19126
+B19126_004EA,string,Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!No own children of the householder under 18 years,B19126
+B19126_004MA,string,Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Married-couple family --!!No own children of the householder under 18 years,B19126
+B19126_005EA,string,Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Total,B19126
+B19126_005MA,string,Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Total,B19126
+B19126_006EA,string,"Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!Total",B19126
+B19126_006MA,string,"Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!Total",B19126
+B19126_007EA,string,"Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!With own children of the householder under 18 years",B19126
+B19126_007MA,string,"Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!With own children of the householder under 18 years",B19126
+B19126_008EA,string,"Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!No own children of the householder under 18 years",B19126
+B19126_008MA,string,"Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Male householder, no wife present --!!No own children of the householder under 18 years",B19126
+B19126_009EA,string,"Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!Total",B19126
+B19126_009MA,string,"Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!Total",B19126
+B19126_010EA,string,"Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!With own children of the householder under 18 years",B19126
+B19126_010MA,string,"Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!With own children of the householder under 18 years",B19126
+B19126_011EA,string,"Annotation of Estimate!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!No own children of the householder under 18 years",B19126
+B19126_011MA,string,"Annotation of Margin of Error!!Median family income in the past 12 months (in 2018 inflation-adjusted dollars) --!!Other family --!!Female householder, no husband present --!!No own children of the householder under 18 years",B19126

@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08118_001E,int,Estimate!!Aggregate travel time to work (in minutes),B08118
+B08118_002E,int,Estimate!!Aggregate travel time to work (in minutes)!!Less than high school graduate,B08118
+B08118_003E,int,Estimate!!Aggregate travel time to work (in minutes)!!High school graduate (includes equivalency),B08118
+B08118_004E,int,Estimate!!Aggregate travel time to work (in minutes)!!Some college or associate's degree,B08118
+B08118_005E,int,Estimate!!Aggregate travel time to work (in minutes)!!Bachelor's degree,B08118
+B08118_006E,int,Estimate!!Aggregate travel time to work (in minutes)!!Graduate or professional degree,B08118
+B08118_001M,int,Margin of Error!!Aggregate travel time to work (in minutes),B08118
+B08118_002M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Less than high school graduate,B08118
+B08118_003M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!High school graduate (includes equivalency),B08118
+B08118_004M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Some college or associate's degree,B08118
+B08118_005M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Bachelor's degree,B08118
+B08118_006M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Graduate or professional degree,B08118
+B08118_001EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes),B08118
+B08118_001MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes),B08118
+B08118_002EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Less than high school graduate,B08118
+B08118_002MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Less than high school graduate,B08118
+B08118_003EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!High school graduate (includes equivalency),B08118
+B08118_003MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!High school graduate (includes equivalency),B08118
+B08118_004EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Some college or associate's degree,B08118
+B08118_004MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Some college or associate's degree,B08118
+B08118_005EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Bachelor's degree,B08118
+B08118_005MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Bachelor's degree,B08118
+B08118_006EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Graduate or professional degree,B08118
+B08118_006MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Graduate or professional degree,B08118

@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+C10056_001E,int,Estimate!!Total,C10056
+C10056_002E,int,Estimate!!Total!!Male,C10056
+C10056_003E,int,Estimate!!Total!!Male!!Grandparent responsible for own grandchildren under 18 years,C10056
+C10056_004E,int,Estimate!!Total!!Male!!Grandparent not responsible for own grandchildren under 18 years,C10056
+C10056_005E,int,Estimate!!Total!!Female,C10056
+C10056_006E,int,Estimate!!Total!!Female!!Grandparent responsible for own grandchildren under 18 years,C10056
+C10056_007E,int,Estimate!!Total!!Female!!Grandparent not responsible for own grandchildren under 18 years,C10056
+C10056_001M,int,Margin of Error!!Total,C10056
+C10056_002M,int,Margin of Error!!Total!!Male,C10056
+C10056_003M,int,Margin of Error!!Total!!Male!!Grandparent responsible for own grandchildren under 18 years,C10056
+C10056_004M,int,Margin of Error!!Total!!Male!!Grandparent not responsible for own grandchildren under 18 years,C10056
+C10056_005M,int,Margin of Error!!Total!!Female,C10056
+C10056_006M,int,Margin of Error!!Total!!Female!!Grandparent responsible for own grandchildren under 18 years,C10056
+C10056_007M,int,Margin of Error!!Total!!Female!!Grandparent not responsible for own grandchildren under 18 years,C10056
+C10056_001EA,string,Annotation of Estimate!!Total,C10056
+C10056_001MA,string,Annotation of Margin of Error!!Total,C10056
+C10056_002EA,string,Annotation of Estimate!!Total!!Male,C10056
+C10056_002MA,string,Annotation of Margin of Error!!Total!!Male,C10056
+C10056_003EA,string,Annotation of Estimate!!Total!!Male!!Grandparent responsible for own grandchildren under 18 years,C10056
+C10056_003MA,string,Annotation of Margin of Error!!Total!!Male!!Grandparent responsible for own grandchildren under 18 years,C10056
+C10056_004EA,string,Annotation of Estimate!!Total!!Male!!Grandparent not responsible for own grandchildren under 18 years,C10056
+C10056_004MA,string,Annotation of Margin of Error!!Total!!Male!!Grandparent not responsible for own grandchildren under 18 years,C10056
+C10056_005EA,string,Annotation of Estimate!!Total!!Female,C10056
+C10056_005MA,string,Annotation of Margin of Error!!Total!!Female,C10056
+C10056_006EA,string,Annotation of Estimate!!Total!!Female!!Grandparent responsible for own grandchildren under 18 years,C10056
+C10056_006MA,string,Annotation of Margin of Error!!Total!!Female!!Grandparent responsible for own grandchildren under 18 years,C10056
+C10056_007EA,string,Annotation of Estimate!!Total!!Female!!Grandparent not responsible for own grandchildren under 18 years,C10056
+C10056_007MA,string,Annotation of Margin of Error!!Total!!Female!!Grandparent not responsible for own grandchildren under 18 years,C10056

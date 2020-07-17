@@ -1,0 +1,413 @@
+VARIABLE,TYPE,LABEL,GROUP
+DP01_0001E,null,Estimate!!Total population,DP01
+DP01_0002E,int,Estimate!!Total population!!SEX AND AGE!!Male,DP01
+DP01_0003E,int,Estimate!!Total population!!SEX AND AGE!!Female,DP01
+DP01_0004E,int,Estimate!!Total population!!SEX AND AGE!!Under 5 years,DP01
+DP01_0005E,int,Estimate!!Total population!!SEX AND AGE!!5 to 9 years,DP01
+DP01_0006E,int,Estimate!!Total population!!SEX AND AGE!!10 to 14 years,DP01
+DP01_0007E,int,Estimate!!Total population!!SEX AND AGE!!15 to 19 years,DP01
+DP01_0008E,int,Estimate!!Total population!!SEX AND AGE!!20 to 24 years,DP01
+DP01_0009E,int,Estimate!!Total population!!SEX AND AGE!!25 to 34 years,DP01
+DP01_0010E,int,Estimate!!Total population!!SEX AND AGE!!35 to 44 years,DP01
+DP01_0011E,int,Estimate!!Total population!!SEX AND AGE!!45 to 54 years,DP01
+DP01_0012E,int,Estimate!!Total population!!SEX AND AGE!!55 to 59 years,DP01
+DP01_0013E,int,Estimate!!Total population!!SEX AND AGE!!60 to 64 years,DP01
+DP01_0014E,int,Estimate!!Total population!!SEX AND AGE!!65 to 74 years,DP01
+DP01_0015E,int,Estimate!!Total population!!SEX AND AGE!!75 to 84 years,DP01
+DP01_0016E,int,Estimate!!Total population!!SEX AND AGE!!85 years and over,DP01
+DP01_0017E,float,Estimate!!Total population!!SEX AND AGE!!Median age (years),DP01
+DP01_0018E,int,Estimate!!Total population!!SEX AND AGE!!18 years and over,DP01
+DP01_0019E,int,Estimate!!Total population!!SEX AND AGE!!21 years and over,DP01
+DP01_0020E,int,Estimate!!Total population!!SEX AND AGE!!62 years and over,DP01
+DP01_0021E,int,Estimate!!Total population!!SEX AND AGE!!65 years and over,DP01
+DP01_0022E,int,Estimate!!Total population!!SEX AND AGE!!18 years and over,DP01
+DP01_0023E,int,Estimate!!Total population!!SEX AND AGE!!18 years and over!!Male,DP01
+DP01_0024E,int,Estimate!!Total population!!SEX AND AGE!!18 years and over!!Female,DP01
+DP01_0025E,int,Estimate!!Total population!!SEX AND AGE!!65 years and over,DP01
+DP01_0026E,int,Estimate!!Total population!!SEX AND AGE!!65 years and over!!Male,DP01
+DP01_0027E,int,Estimate!!Total population!!SEX AND AGE!!65 years and over!!Female,DP01
+DP01_0028E,int,Estimate!!Total population!!RACE!!One race,DP01
+DP01_0029E,int,Estimate!!Total population!!RACE!!Two or more races,DP01
+DP01_0030E,int,Estimate!!Total population,DP01
+DP01_0031E,int,Estimate!!Total population!!One race,DP01
+DP01_0032E,int,Estimate!!Total population!!One race!!White,DP01
+DP01_0033E,int,Estimate!!Total population!!One race!!Black or African American,DP01
+DP01_0034E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native,DP01
+DP01_0035E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,DP01
+DP01_0036E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,DP01
+DP01_0037E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,DP01
+DP01_0038E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,DP01
+DP01_0039E,int,Estimate!!Total population!!One race!!Asian,DP01
+DP01_0040E,int,Estimate!!Total population!!One race!!Asian!!Asian Indian,DP01
+DP01_0041E,int,Estimate!!Total population!!One race!!Asian!!Chinese,DP01
+DP01_0042E,int,Estimate!!Total population!!One race!!Asian!!Filipino,DP01
+DP01_0043E,int,Estimate!!Total population!!One race!!Asian!!Japanese,DP01
+DP01_0044E,int,Estimate!!Total population!!One race!!Asian!!Korean,DP01
+DP01_0045E,int,Estimate!!Total population!!One race!!Asian!!Vietnamese,DP01
+DP01_0046E,int,Estimate!!Total population!!One race!!Asian!!Other Asian,DP01
+DP01_0047E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,DP01
+DP01_0048E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,DP01
+DP01_0049E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,DP01
+DP01_0050E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,DP01
+DP01_0051E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,DP01
+DP01_0052E,int,Estimate!!Total population!!One race!!Some other race,DP01
+DP01_0053E,int,Estimate!!Total population!!Two or more races,DP01
+DP01_0054E,int,Estimate!!Total population!!Two or more races!!White and Black or African American,DP01
+DP01_0055E,int,Estimate!!Total population!!Two or more races!!White and American Indian and Alaska Native,DP01
+DP01_0056E,int,Estimate!!Total population!!Two or more races!!White and Asian,DP01
+DP01_0057E,int,Estimate!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,DP01
+DP01_0058E,int,Estimate!!Race alone or in combination with one or more other races!!Total population,DP01
+DP01_0059E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!White,DP01
+DP01_0060E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!Black or African American,DP01
+DP01_0061E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,DP01
+DP01_0062E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!Asian,DP01
+DP01_0063E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,DP01
+DP01_0064E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!Some other race,DP01
+DP01_0065E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population,DP01
+DP01_0066E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),DP01
+DP01_0067E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,DP01
+DP01_0068E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,DP01
+DP01_0069E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,DP01
+DP01_0070E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,DP01
+DP01_0071E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,DP01
+DP01_0072E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,DP01
+DP01_0073E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,DP01
+DP01_0074E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,DP01
+DP01_0075E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,DP01
+DP01_0076E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,DP01
+DP01_0077E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,DP01
+DP01_0078E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,DP01
+DP01_0079E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,DP01
+DP01_0080E,int,"Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races",DP01
+DP01_0081E,int,Estimate!!RELATIONSHIP!!Household population,DP01
+DP01_0082E,int,Estimate!!RELATIONSHIP!!Household population!!Householder,DP01
+DP01_0083E,int,Estimate!!RELATIONSHIP!!Household population!!Spouse,DP01
+DP01_0084E,int,Estimate!!RELATIONSHIP!!Household population!!Child,DP01
+DP01_0085E,int,Estimate!!RELATIONSHIP!!Household population!!Other relatives,DP01
+DP01_0086E,int,Estimate!!RELATIONSHIP!!Household population!!Nonrelatives,DP01
+DP01_0087E,int,Estimate!!RELATIONSHIP!!Household population!!Nonrelatives!!Unmarried partner,DP01
+DP01_0088E,int,Estimate!!HOUSEHOLDS BY TYPE!!Total households,DP01
+DP01_0089E,int,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),DP01
+DP01_0090E,int,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children under 18 years,DP01
+DP01_0091E,int,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple families,DP01
+DP01_0092E,int,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple families!!With own children under 18 years,DP01
+DP01_0093E,int,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present",DP01
+DP01_0094E,int,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present!!With own children under 18 years",DP01
+DP01_0095E,int,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present",DP01
+DP01_0096E,int,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present!!With own children under 18 years",DP01
+DP01_0097E,int,Estimate!!HOUSEHOLDS BY TYPE!!Nonfamily households,DP01
+DP01_0098E,int,Estimate!!HOUSEHOLDS BY TYPE!!Nonfamily households!!Householder living alone,DP01
+DP01_0099E,int,Estimate!!HOUSEHOLDS BY TYPE!!Nonfamily households!!Householder living alone!!65 years and over,DP01
+DP01_0100E,int,Estimate!!HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,DP01
+DP01_0101E,int,Estimate!!HOUSEHOLDS BY TYPE!!Households with one or more people 65 years and over,DP01
+DP01_0102E,float,Estimate!!HOUSEHOLDS BY TYPE!!Average household size,DP01
+DP01_0103E,float,Estimate!!HOUSEHOLDS BY TYPE!!Average family size,DP01
+DP01_0001M,int,Margin of Error!!Total population,DP01
+DP01_0002M,int,Margin of Error!!Total population!!SEX AND AGE!!Male,DP01
+DP01_0003M,int,Margin of Error!!Total population!!SEX AND AGE!!Female,DP01
+DP01_0004M,int,Margin of Error!!Total population!!SEX AND AGE!!Under 5 years,DP01
+DP01_0005M,int,Margin of Error!!Total population!!SEX AND AGE!!5 to 9 years,DP01
+DP01_0006M,int,Margin of Error!!Total population!!SEX AND AGE!!10 to 14 years,DP01
+DP01_0007M,int,Margin of Error!!Total population!!SEX AND AGE!!15 to 19 years,DP01
+DP01_0008M,int,Margin of Error!!Total population!!SEX AND AGE!!20 to 24 years,DP01
+DP01_0009M,int,Margin of Error!!Total population!!SEX AND AGE!!25 to 34 years,DP01
+DP01_0010M,int,Margin of Error!!Total population!!SEX AND AGE!!35 to 44 years,DP01
+DP01_0011M,int,Margin of Error!!Total population!!SEX AND AGE!!45 to 54 years,DP01
+DP01_0012M,int,Margin of Error!!Total population!!SEX AND AGE!!55 to 59 years,DP01
+DP01_0013M,int,Margin of Error!!Total population!!SEX AND AGE!!60 to 64 years,DP01
+DP01_0014M,int,Margin of Error!!Total population!!SEX AND AGE!!65 to 74 years,DP01
+DP01_0015M,int,Margin of Error!!Total population!!SEX AND AGE!!75 to 84 years,DP01
+DP01_0016M,int,Margin of Error!!Total population!!SEX AND AGE!!85 years and over,DP01
+DP01_0017M,float,Margin of Error!!Total population!!SEX AND AGE!!Median age (years),DP01
+DP01_0018M,int,Margin of Error!!Total population!!SEX AND AGE!!18 years and over,DP01
+DP01_0019M,int,Margin of Error!!Total population!!SEX AND AGE!!21 years and over,DP01
+DP01_0020M,int,Margin of Error!!Total population!!SEX AND AGE!!62 years and over,DP01
+DP01_0021M,int,Margin of Error!!Total population!!SEX AND AGE!!65 years and over,DP01
+DP01_0022M,int,Margin of Error!!Total population!!SEX AND AGE!!18 years and over,DP01
+DP01_0023M,int,Margin of Error!!Total population!!SEX AND AGE!!18 years and over!!Male,DP01
+DP01_0024M,int,Margin of Error!!Total population!!SEX AND AGE!!18 years and over!!Female,DP01
+DP01_0025M,int,Margin of Error!!Total population!!SEX AND AGE!!65 years and over,DP01
+DP01_0026M,int,Margin of Error!!Total population!!SEX AND AGE!!65 years and over!!Male,DP01
+DP01_0027M,int,Margin of Error!!Total population!!SEX AND AGE!!65 years and over!!Female,DP01
+DP01_0028M,int,Margin of Error!!Total population!!RACE!!One race,DP01
+DP01_0029M,int,Margin of Error!!Total population!!RACE!!Two or more races,DP01
+DP01_0030M,int,Margin of Error!!Total population,DP01
+DP01_0031M,int,Margin of Error!!Total population!!One race,DP01
+DP01_0032M,int,Margin of Error!!Total population!!One race!!White,DP01
+DP01_0033M,int,Margin of Error!!Total population!!One race!!Black or African American,DP01
+DP01_0034M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native,DP01
+DP01_0035M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,DP01
+DP01_0036M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,DP01
+DP01_0037M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,DP01
+DP01_0038M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,DP01
+DP01_0039M,int,Margin of Error!!Total population!!One race!!Asian,DP01
+DP01_0040M,int,Margin of Error!!Total population!!One race!!Asian!!Asian Indian,DP01
+DP01_0041M,int,Margin of Error!!Total population!!One race!!Asian!!Chinese,DP01
+DP01_0042M,int,Margin of Error!!Total population!!One race!!Asian!!Filipino,DP01
+DP01_0043M,int,Margin of Error!!Total population!!One race!!Asian!!Japanese,DP01
+DP01_0044M,int,Margin of Error!!Total population!!One race!!Asian!!Korean,DP01
+DP01_0045M,int,Margin of Error!!Total population!!One race!!Asian!!Vietnamese,DP01
+DP01_0046M,int,Margin of Error!!Total population!!One race!!Asian!!Other Asian,DP01
+DP01_0047M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,DP01
+DP01_0048M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,DP01
+DP01_0049M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,DP01
+DP01_0050M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,DP01
+DP01_0051M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,DP01
+DP01_0052M,int,Margin of Error!!Total population!!One race!!Some other race,DP01
+DP01_0053M,int,Margin of Error!!Total population!!Two or more races,DP01
+DP01_0054M,int,Margin of Error!!Total population!!Two or more races!!White and Black or African American,DP01
+DP01_0055M,int,Margin of Error!!Total population!!Two or more races!!White and American Indian and Alaska Native,DP01
+DP01_0056M,int,Margin of Error!!Total population!!Two or more races!!White and Asian,DP01
+DP01_0057M,int,Margin of Error!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,DP01
+DP01_0058M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population,DP01
+DP01_0059M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!White,DP01
+DP01_0060M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Black or African American,DP01
+DP01_0061M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,DP01
+DP01_0062M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Asian,DP01
+DP01_0063M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,DP01
+DP01_0064M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Some other race,DP01
+DP01_0065M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population,DP01
+DP01_0066M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),DP01
+DP01_0067M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,DP01
+DP01_0068M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,DP01
+DP01_0069M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,DP01
+DP01_0070M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,DP01
+DP01_0071M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,DP01
+DP01_0072M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,DP01
+DP01_0073M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,DP01
+DP01_0074M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,DP01
+DP01_0075M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,DP01
+DP01_0076M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,DP01
+DP01_0077M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,DP01
+DP01_0078M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,DP01
+DP01_0079M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,DP01
+DP01_0080M,int,"Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races",DP01
+DP01_0081M,int,Margin of Error!!RELATIONSHIP!!Household population,DP01
+DP01_0082M,int,Margin of Error!!RELATIONSHIP!!Household population!!Householder,DP01
+DP01_0083M,int,Margin of Error!!RELATIONSHIP!!Household population!!Spouse,DP01
+DP01_0084M,int,Margin of Error!!RELATIONSHIP!!Household population!!Child,DP01
+DP01_0085M,int,Margin of Error!!RELATIONSHIP!!Household population!!Other relatives,DP01
+DP01_0086M,int,Margin of Error!!RELATIONSHIP!!Household population!!Nonrelatives,DP01
+DP01_0087M,int,Margin of Error!!RELATIONSHIP!!Household population!!Nonrelatives!!Unmarried partner,DP01
+DP01_0088M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households,DP01
+DP01_0089M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),DP01
+DP01_0090M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children under 18 years,DP01
+DP01_0091M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple families,DP01
+DP01_0092M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple families!!With own children under 18 years,DP01
+DP01_0093M,int,"Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present",DP01
+DP01_0094M,int,"Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present!!With own children under 18 years",DP01
+DP01_0095M,int,"Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present",DP01
+DP01_0096M,int,"Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present!!With own children under 18 years",DP01
+DP01_0097M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Nonfamily households,DP01
+DP01_0098M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Nonfamily households!!Householder living alone,DP01
+DP01_0099M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Nonfamily households!!Householder living alone!!65 years and over,DP01
+DP01_0100M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,DP01
+DP01_0101M,int,Margin of Error!!HOUSEHOLDS BY TYPE!!Households with one or more people 65 years and over,DP01
+DP01_0102M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Average household size,DP01
+DP01_0103M,float,Margin of Error!!HOUSEHOLDS BY TYPE!!Average family size,DP01
+DP01_0001EA,string,Annotation of Estimate!!Total population,DP01
+DP01_0001MA,string,Annotation of Margin of Error!!Total population,DP01
+DP01_0002EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!Male,DP01
+DP01_0002MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!Male,DP01
+DP01_0003EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!Female,DP01
+DP01_0003MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!Female,DP01
+DP01_0004EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!Under 5 years,DP01
+DP01_0004MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!Under 5 years,DP01
+DP01_0005EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!5 to 9 years,DP01
+DP01_0005MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!5 to 9 years,DP01
+DP01_0006EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!10 to 14 years,DP01
+DP01_0006MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!10 to 14 years,DP01
+DP01_0007EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!15 to 19 years,DP01
+DP01_0007MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!15 to 19 years,DP01
+DP01_0008EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!20 to 24 years,DP01
+DP01_0008MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!20 to 24 years,DP01
+DP01_0009EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!25 to 34 years,DP01
+DP01_0009MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!25 to 34 years,DP01
+DP01_0010EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!35 to 44 years,DP01
+DP01_0010MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!35 to 44 years,DP01
+DP01_0011EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!45 to 54 years,DP01
+DP01_0011MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!45 to 54 years,DP01
+DP01_0012EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!55 to 59 years,DP01
+DP01_0012MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!55 to 59 years,DP01
+DP01_0013EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!60 to 64 years,DP01
+DP01_0013MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!60 to 64 years,DP01
+DP01_0014EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 to 74 years,DP01
+DP01_0014MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 to 74 years,DP01
+DP01_0015EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!75 to 84 years,DP01
+DP01_0015MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!75 to 84 years,DP01
+DP01_0016EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!85 years and over,DP01
+DP01_0016MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!85 years and over,DP01
+DP01_0017EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!Median age (years),DP01
+DP01_0017MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!Median age (years),DP01
+DP01_0018EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!18 years and over,DP01
+DP01_0018MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!18 years and over,DP01
+DP01_0019EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!21 years and over,DP01
+DP01_0019MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!21 years and over,DP01
+DP01_0020EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!62 years and over,DP01
+DP01_0020MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!62 years and over,DP01
+DP01_0021EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 years and over,DP01
+DP01_0021MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 years and over,DP01
+DP01_0022EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!18 years and over,DP01
+DP01_0022MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!18 years and over,DP01
+DP01_0023EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!18 years and over!!Male,DP01
+DP01_0023MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!18 years and over!!Male,DP01
+DP01_0024EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!18 years and over!!Female,DP01
+DP01_0024MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!18 years and over!!Female,DP01
+DP01_0025EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 years and over,DP01
+DP01_0025MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 years and over,DP01
+DP01_0026EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 years and over!!Male,DP01
+DP01_0026MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 years and over!!Male,DP01
+DP01_0027EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 years and over!!Female,DP01
+DP01_0027MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 years and over!!Female,DP01
+DP01_0028EA,string,Annotation of Estimate!!Total population!!RACE!!One race,DP01
+DP01_0028MA,string,Annotation of Margin of Error!!Total population!!RACE!!One race,DP01
+DP01_0029EA,string,Annotation of Estimate!!Total population!!RACE!!Two or more races,DP01
+DP01_0029MA,string,Annotation of Margin of Error!!Total population!!RACE!!Two or more races,DP01
+DP01_0030EA,string,Annotation of Estimate!!Total population,DP01
+DP01_0030MA,string,Annotation of Margin of Error!!Total population,DP01
+DP01_0031EA,string,Annotation of Estimate!!Total population!!One race,DP01
+DP01_0031MA,string,Annotation of Margin of Error!!Total population!!One race,DP01
+DP01_0032EA,string,Annotation of Estimate!!Total population!!One race!!White,DP01
+DP01_0032MA,string,Annotation of Margin of Error!!Total population!!One race!!White,DP01
+DP01_0033EA,string,Annotation of Estimate!!Total population!!One race!!Black or African American,DP01
+DP01_0033MA,string,Annotation of Margin of Error!!Total population!!One race!!Black or African American,DP01
+DP01_0034EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native,DP01
+DP01_0034MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native,DP01
+DP01_0035EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,DP01
+DP01_0035MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,DP01
+DP01_0036EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,DP01
+DP01_0036MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,DP01
+DP01_0037EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,DP01
+DP01_0037MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,DP01
+DP01_0038EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,DP01
+DP01_0038MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,DP01
+DP01_0039EA,string,Annotation of Estimate!!Total population!!One race!!Asian,DP01
+DP01_0039MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian,DP01
+DP01_0040EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Asian Indian,DP01
+DP01_0040MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Asian Indian,DP01
+DP01_0041EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Chinese,DP01
+DP01_0041MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Chinese,DP01
+DP01_0042EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Filipino,DP01
+DP01_0042MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Filipino,DP01
+DP01_0043EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Japanese,DP01
+DP01_0043MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Japanese,DP01
+DP01_0044EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Korean,DP01
+DP01_0044MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Korean,DP01
+DP01_0045EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Vietnamese,DP01
+DP01_0045MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Vietnamese,DP01
+DP01_0046EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Other Asian,DP01
+DP01_0046MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Other Asian,DP01
+DP01_0047EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,DP01
+DP01_0047MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,DP01
+DP01_0048EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,DP01
+DP01_0048MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,DP01
+DP01_0049EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,DP01
+DP01_0049MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,DP01
+DP01_0050EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,DP01
+DP01_0050MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,DP01
+DP01_0051EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,DP01
+DP01_0051MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,DP01
+DP01_0052EA,string,Annotation of Estimate!!Total population!!One race!!Some other race,DP01
+DP01_0052MA,string,Annotation of Margin of Error!!Total population!!One race!!Some other race,DP01
+DP01_0053EA,string,Annotation of Estimate!!Total population!!Two or more races,DP01
+DP01_0053MA,string,Annotation of Margin of Error!!Total population!!Two or more races,DP01
+DP01_0054EA,string,Annotation of Estimate!!Total population!!Two or more races!!White and Black or African American,DP01
+DP01_0054MA,string,Annotation of Margin of Error!!Total population!!Two or more races!!White and Black or African American,DP01
+DP01_0055EA,string,Annotation of Estimate!!Total population!!Two or more races!!White and American Indian and Alaska Native,DP01
+DP01_0055MA,string,Annotation of Margin of Error!!Total population!!Two or more races!!White and American Indian and Alaska Native,DP01
+DP01_0056EA,string,Annotation of Estimate!!Total population!!Two or more races!!White and Asian,DP01
+DP01_0056MA,string,Annotation of Margin of Error!!Total population!!Two or more races!!White and Asian,DP01
+DP01_0057EA,string,Annotation of Estimate!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,DP01
+DP01_0057MA,string,Annotation of Margin of Error!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,DP01
+DP01_0058EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population,DP01
+DP01_0058MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population,DP01
+DP01_0059EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!White,DP01
+DP01_0059MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!White,DP01
+DP01_0060EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!Black or African American,DP01
+DP01_0060MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Black or African American,DP01
+DP01_0061EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,DP01
+DP01_0061MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,DP01
+DP01_0062EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!Asian,DP01
+DP01_0062MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Asian,DP01
+DP01_0063EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,DP01
+DP01_0063MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,DP01
+DP01_0064EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!Some other race,DP01
+DP01_0064MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Some other race,DP01
+DP01_0065EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population,DP01
+DP01_0065MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population,DP01
+DP01_0066EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),DP01
+DP01_0066MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),DP01
+DP01_0067EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,DP01
+DP01_0067MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,DP01
+DP01_0068EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,DP01
+DP01_0068MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,DP01
+DP01_0069EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,DP01
+DP01_0069MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,DP01
+DP01_0070EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,DP01
+DP01_0070MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,DP01
+DP01_0071EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,DP01
+DP01_0071MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,DP01
+DP01_0072EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,DP01
+DP01_0072MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,DP01
+DP01_0073EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,DP01
+DP01_0073MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,DP01
+DP01_0074EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,DP01
+DP01_0074MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,DP01
+DP01_0075EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,DP01
+DP01_0075MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,DP01
+DP01_0076EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,DP01
+DP01_0076MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,DP01
+DP01_0077EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,DP01
+DP01_0077MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,DP01
+DP01_0078EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,DP01
+DP01_0078MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,DP01
+DP01_0079EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,DP01
+DP01_0079MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,DP01
+DP01_0080EA,string,"Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races",DP01
+DP01_0080MA,string,"Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races",DP01
+DP01_0081EA,string,Annotation of Estimate!!RELATIONSHIP!!Household population,DP01
+DP01_0081MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Household population,DP01
+DP01_0082EA,string,Annotation of Estimate!!RELATIONSHIP!!Household population!!Householder,DP01
+DP01_0082MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Household population!!Householder,DP01
+DP01_0083EA,string,Annotation of Estimate!!RELATIONSHIP!!Household population!!Spouse,DP01
+DP01_0083MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Household population!!Spouse,DP01
+DP01_0084EA,string,Annotation of Estimate!!RELATIONSHIP!!Household population!!Child,DP01
+DP01_0084MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Household population!!Child,DP01
+DP01_0085EA,string,Annotation of Estimate!!RELATIONSHIP!!Household population!!Other relatives,DP01
+DP01_0085MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Household population!!Other relatives,DP01
+DP01_0086EA,string,Annotation of Estimate!!RELATIONSHIP!!Household population!!Nonrelatives,DP01
+DP01_0086MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Household population!!Nonrelatives,DP01
+DP01_0087EA,string,Annotation of Estimate!!RELATIONSHIP!!Household population!!Nonrelatives!!Unmarried partner,DP01
+DP01_0087MA,string,Annotation of Margin of Error!!RELATIONSHIP!!Household population!!Nonrelatives!!Unmarried partner,DP01
+DP01_0088EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households,DP01
+DP01_0088MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households,DP01
+DP01_0089EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),DP01
+DP01_0089MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),DP01
+DP01_0090EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children under 18 years,DP01
+DP01_0090MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children under 18 years,DP01
+DP01_0091EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple families,DP01
+DP01_0091MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple families,DP01
+DP01_0092EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple families!!With own children under 18 years,DP01
+DP01_0092MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple families!!With own children under 18 years,DP01
+DP01_0093EA,string,"Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present",DP01
+DP01_0093MA,string,"Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present",DP01
+DP01_0094EA,string,"Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present!!With own children under 18 years",DP01
+DP01_0094MA,string,"Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present!!With own children under 18 years",DP01
+DP01_0095EA,string,"Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present",DP01
+DP01_0095MA,string,"Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present",DP01
+DP01_0096EA,string,"Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present!!With own children under 18 years",DP01
+DP01_0096MA,string,"Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present!!With own children under 18 years",DP01
+DP01_0097EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Nonfamily households,DP01
+DP01_0097MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Nonfamily households,DP01
+DP01_0098EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Nonfamily households!!Householder living alone,DP01
+DP01_0098MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Nonfamily households!!Householder living alone,DP01
+DP01_0099EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Nonfamily households!!Householder living alone!!65 years and over,DP01
+DP01_0099MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Nonfamily households!!Householder living alone!!65 years and over,DP01
+DP01_0100EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,DP01
+DP01_0100MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,DP01
+DP01_0101EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Households with one or more people 65 years and over,DP01
+DP01_0101MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Households with one or more people 65 years and over,DP01
+DP01_0102EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Average household size,DP01
+DP01_0102MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Average household size,DP01
+DP01_0103EA,string,Annotation of Estimate!!HOUSEHOLDS BY TYPE!!Average family size,DP01
+DP01_0103MA,string,Annotation of Margin of Error!!HOUSEHOLDS BY TYPE!!Average family size,DP01

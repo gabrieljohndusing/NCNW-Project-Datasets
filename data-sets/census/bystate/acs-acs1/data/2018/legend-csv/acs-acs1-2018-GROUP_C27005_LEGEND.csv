@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27005_001E,int,Estimate!!Total,C27005
+C27005_002E,int,Estimate!!Total!!Male,C27005
+C27005_003E,int,Estimate!!Total!!Male!!Under 19 years,C27005
+C27005_004E,int,Estimate!!Total!!Male!!Under 19 years!!With direct-purchase health insurance,C27005
+C27005_005E,int,Estimate!!Total!!Male!!Under 19 years!!No direct-purchase health insurance,C27005
+C27005_006E,int,Estimate!!Total!!Male!!19 to 64 years,C27005
+C27005_007E,int,Estimate!!Total!!Male!!19 to 64 years!!With direct-purchase health insurance,C27005
+C27005_008E,int,Estimate!!Total!!Male!!19 to 64 years!!No direct-purchase health insurance,C27005
+C27005_009E,int,Estimate!!Total!!Male!!65 years and over,C27005
+C27005_010E,int,Estimate!!Total!!Male!!65 years and over!!With direct-purchase health insurance,C27005
+C27005_011E,int,Estimate!!Total!!Male!!65 years and over!!No direct-purchase health insurance,C27005
+C27005_012E,int,Estimate!!Total!!Female,C27005
+C27005_013E,int,Estimate!!Total!!Female!!Under 19 years,C27005
+C27005_014E,int,Estimate!!Total!!Female!!Under 19 years!!With direct-purchase health insurance,C27005
+C27005_015E,int,Estimate!!Total!!Female!!Under 19 years!!No direct-purchase health insurance,C27005
+C27005_016E,int,Estimate!!Total!!Female!!19 to 64 years,C27005
+C27005_017E,int,Estimate!!Total!!Female!!19 to 64 years!!With direct-purchase health insurance,C27005
+C27005_018E,int,Estimate!!Total!!Female!!19 to 64 years!!No direct-purchase health insurance,C27005
+C27005_019E,int,Estimate!!Total!!Female!!65 years and over,C27005
+C27005_020E,int,Estimate!!Total!!Female!!65 years and over!!With direct-purchase health insurance,C27005
+C27005_021E,int,Estimate!!Total!!Female!!65 years and over!!No direct-purchase health insurance,C27005
+C27005_001M,int,Margin of Error!!Total,C27005
+C27005_002M,int,Margin of Error!!Total!!Male,C27005
+C27005_003M,int,Margin of Error!!Total!!Male!!Under 19 years,C27005
+C27005_004M,int,Margin of Error!!Total!!Male!!Under 19 years!!With direct-purchase health insurance,C27005
+C27005_005M,int,Margin of Error!!Total!!Male!!Under 19 years!!No direct-purchase health insurance,C27005
+C27005_006M,int,Margin of Error!!Total!!Male!!19 to 64 years,C27005
+C27005_007M,int,Margin of Error!!Total!!Male!!19 to 64 years!!With direct-purchase health insurance,C27005
+C27005_008M,int,Margin of Error!!Total!!Male!!19 to 64 years!!No direct-purchase health insurance,C27005
+C27005_009M,int,Margin of Error!!Total!!Male!!65 years and over,C27005
+C27005_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With direct-purchase health insurance,C27005
+C27005_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No direct-purchase health insurance,C27005
+C27005_012M,int,Margin of Error!!Total!!Female,C27005
+C27005_013M,int,Margin of Error!!Total!!Female!!Under 19 years,C27005
+C27005_014M,int,Margin of Error!!Total!!Female!!Under 19 years!!With direct-purchase health insurance,C27005
+C27005_015M,int,Margin of Error!!Total!!Female!!Under 19 years!!No direct-purchase health insurance,C27005
+C27005_016M,int,Margin of Error!!Total!!Female!!19 to 64 years,C27005
+C27005_017M,int,Margin of Error!!Total!!Female!!19 to 64 years!!With direct-purchase health insurance,C27005
+C27005_018M,int,Margin of Error!!Total!!Female!!19 to 64 years!!No direct-purchase health insurance,C27005
+C27005_019M,int,Margin of Error!!Total!!Female!!65 years and over,C27005
+C27005_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With direct-purchase health insurance,C27005
+C27005_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No direct-purchase health insurance,C27005
+C27005_001EA,string,Annotation of Estimate!!Total,C27005
+C27005_001MA,string,Annotation of Margin of Error!!Total,C27005
+C27005_002EA,string,Annotation of Estimate!!Total!!Male,C27005
+C27005_002MA,string,Annotation of Margin of Error!!Total!!Male,C27005
+C27005_003EA,string,Annotation of Estimate!!Total!!Male!!Under 19 years,C27005
+C27005_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 19 years,C27005
+C27005_004EA,string,Annotation of Estimate!!Total!!Male!!Under 19 years!!With direct-purchase health insurance,C27005
+C27005_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 19 years!!With direct-purchase health insurance,C27005
+C27005_005EA,string,Annotation of Estimate!!Total!!Male!!Under 19 years!!No direct-purchase health insurance,C27005
+C27005_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 19 years!!No direct-purchase health insurance,C27005
+C27005_006EA,string,Annotation of Estimate!!Total!!Male!!19 to 64 years,C27005
+C27005_006MA,string,Annotation of Margin of Error!!Total!!Male!!19 to 64 years,C27005
+C27005_007EA,string,Annotation of Estimate!!Total!!Male!!19 to 64 years!!With direct-purchase health insurance,C27005
+C27005_007MA,string,Annotation of Margin of Error!!Total!!Male!!19 to 64 years!!With direct-purchase health insurance,C27005
+C27005_008EA,string,Annotation of Estimate!!Total!!Male!!19 to 64 years!!No direct-purchase health insurance,C27005
+C27005_008MA,string,Annotation of Margin of Error!!Total!!Male!!19 to 64 years!!No direct-purchase health insurance,C27005
+C27005_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C27005
+C27005_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C27005
+C27005_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With direct-purchase health insurance,C27005
+C27005_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With direct-purchase health insurance,C27005
+C27005_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No direct-purchase health insurance,C27005
+C27005_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No direct-purchase health insurance,C27005
+C27005_012EA,string,Annotation of Estimate!!Total!!Female,C27005
+C27005_012MA,string,Annotation of Margin of Error!!Total!!Female,C27005
+C27005_013EA,string,Annotation of Estimate!!Total!!Female!!Under 19 years,C27005
+C27005_013MA,string,Annotation of Margin of Error!!Total!!Female!!Under 19 years,C27005
+C27005_014EA,string,Annotation of Estimate!!Total!!Female!!Under 19 years!!With direct-purchase health insurance,C27005
+C27005_014MA,string,Annotation of Margin of Error!!Total!!Female!!Under 19 years!!With direct-purchase health insurance,C27005
+C27005_015EA,string,Annotation of Estimate!!Total!!Female!!Under 19 years!!No direct-purchase health insurance,C27005
+C27005_015MA,string,Annotation of Margin of Error!!Total!!Female!!Under 19 years!!No direct-purchase health insurance,C27005
+C27005_016EA,string,Annotation of Estimate!!Total!!Female!!19 to 64 years,C27005
+C27005_016MA,string,Annotation of Margin of Error!!Total!!Female!!19 to 64 years,C27005
+C27005_017EA,string,Annotation of Estimate!!Total!!Female!!19 to 64 years!!With direct-purchase health insurance,C27005
+C27005_017MA,string,Annotation of Margin of Error!!Total!!Female!!19 to 64 years!!With direct-purchase health insurance,C27005
+C27005_018EA,string,Annotation of Estimate!!Total!!Female!!19 to 64 years!!No direct-purchase health insurance,C27005
+C27005_018MA,string,Annotation of Margin of Error!!Total!!Female!!19 to 64 years!!No direct-purchase health insurance,C27005
+C27005_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C27005
+C27005_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C27005
+C27005_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With direct-purchase health insurance,C27005
+C27005_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With direct-purchase health insurance,C27005
+C27005_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No direct-purchase health insurance,C27005
+C27005_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No direct-purchase health insurance,C27005

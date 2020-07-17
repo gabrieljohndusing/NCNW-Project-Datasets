@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25048F_001E,int,Estimate!!Total,B25048F
+B25048F_002E,int,Estimate!!Total!!Complete plumbing facilities,B25048F
+B25048F_003E,int,Estimate!!Total!!Lacking complete plumbing facilities,B25048F
+B25048F_001M,int,Margin of Error!!Total,B25048F
+B25048F_002M,int,Margin of Error!!Total!!Complete plumbing facilities,B25048F
+B25048F_003M,int,Margin of Error!!Total!!Lacking complete plumbing facilities,B25048F
+B25048F_001EA,string,Annotation of Estimate!!Total,B25048F
+B25048F_001MA,string,Annotation of Margin of Error!!Total,B25048F
+B25048F_002EA,string,Annotation of Estimate!!Total!!Complete plumbing facilities,B25048F
+B25048F_002MA,string,Annotation of Margin of Error!!Total!!Complete plumbing facilities,B25048F
+B25048F_003EA,string,Annotation of Estimate!!Total!!Lacking complete plumbing facilities,B25048F
+B25048F_003MA,string,Annotation of Margin of Error!!Total!!Lacking complete plumbing facilities,B25048F

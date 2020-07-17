@@ -1,0 +1,733 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1701_C01_001E,int,Total!!Estimate!!Population for whom poverty status is determined,S1701
+S1701_C01_002E,int,Total!!Estimate!!AGE!!Under 18 years,S1701
+S1701_C01_003E,int,Total!!Estimate!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C01_004E,int,Total!!Estimate!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C01_005E,int,Total!!Estimate!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C01_006E,int,Total!!Estimate!!AGE!!18 to 64 years,S1701
+S1701_C01_007E,int,Total!!Estimate!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C01_008E,int,Total!!Estimate!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C01_009E,int,Total!!Estimate!!AGE!!60 years and over,S1701
+S1701_C01_010E,int,Total!!Estimate!!AGE!!65 years and over,S1701
+S1701_C01_011E,int,Total!!Estimate!!SEX!!Male,S1701
+S1701_C01_012E,int,Total!!Estimate!!SEX!!Female,S1701
+S1701_C01_013E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C01_014E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C01_015E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C01_016E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C01_017E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C01_018E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C01_019E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C01_020E,int,Total!!Estimate!!Hispanic or Latino origin (of any race),S1701
+S1701_C01_021E,int,"Total!!Estimate!!White alone, not Hispanic or Latino",S1701
+S1701_C01_022E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C01_023E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C01_024E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C01_025E,int,"Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C01_026E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C01_027E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C01_028E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C01_029E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C01_030E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C01_031E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C01_032E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C01_033E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C01_034E,int,Total!!Estimate!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C01_035E,int,"Total!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C01_036E,int,Total!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C01_037E,int,Total!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C01_038E,int,Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C01_039E,int,Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C01_040E,int,Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C01_041E,int,Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C01_042E,int,Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C01_043E,int,Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C01_044E,int,Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C01_045E,int,Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C01_046E,int,Total!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C01_047E,int,Total!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C01_048E,int,Total!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C01_049E,int,Total!!Estimate!!15 years,S1701
+S1701_C01_050E,int,Total!!Estimate!!16 to 17 years,S1701
+S1701_C01_051E,int,Total!!Estimate!!18 to 24 years,S1701
+S1701_C01_052E,int,Total!!Estimate!!25 to 34 years,S1701
+S1701_C01_053E,int,Total!!Estimate!!35 to 44 years,S1701
+S1701_C01_054E,int,Total!!Estimate!!45 to 54 years,S1701
+S1701_C01_055E,int,Total!!Estimate!!55 to 64 years,S1701
+S1701_C01_056E,int,Total!!Estimate!!65 to 74 years,S1701
+S1701_C01_057E,int,Total!!Estimate!!75 years and over,S1701
+S1701_C01_058E,int,Total!!Estimate!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C01_059E,int,"Total!!Estimate!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C01_060E,int,"Total!!Estimate!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C01_061E,int,Total!!Estimate!!Did not work,S1701
+S1701_C02_001E,int,Below poverty level!!Estimate!!Population for whom poverty status is determined,S1701
+S1701_C02_002E,int,Below poverty level!!Estimate!!AGE!!Under 18 years,S1701
+S1701_C02_003E,int,Below poverty level!!Estimate!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C02_004E,int,Below poverty level!!Estimate!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C02_005E,int,Below poverty level!!Estimate!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C02_006E,int,Below poverty level!!Estimate!!AGE!!18 to 64 years,S1701
+S1701_C02_007E,int,Below poverty level!!Estimate!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C02_008E,int,Below poverty level!!Estimate!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C02_009E,int,Below poverty level!!Estimate!!AGE!!60 years and over,S1701
+S1701_C02_010E,int,Below poverty level!!Estimate!!AGE!!65 years and over,S1701
+S1701_C02_011E,int,Below poverty level!!Estimate!!SEX!!Male,S1701
+S1701_C02_012E,int,Below poverty level!!Estimate!!SEX!!Female,S1701
+S1701_C02_013E,int,Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C02_014E,int,Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C02_015E,int,Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C02_016E,int,Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C02_017E,int,Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C02_018E,int,Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C02_019E,int,Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C02_020E,int,Below poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1701
+S1701_C02_021E,int,"Below poverty level!!Estimate!!White alone, not Hispanic or Latino",S1701
+S1701_C02_022E,int,Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C02_023E,int,Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C02_024E,int,Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C02_025E,int,"Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C02_026E,int,Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C02_027E,int,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C02_028E,int,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C02_029E,int,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C02_030E,int,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C02_031E,int,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C02_032E,int,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C02_033E,int,Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C02_034E,int,Below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C02_035E,int,"Below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C02_036E,int,Below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C02_037E,int,Below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C02_038E,int,Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C02_039E,int,Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C02_040E,int,Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C02_041E,int,Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C02_042E,int,Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C02_043E,int,Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C02_044E,int,Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C02_045E,int,Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C02_046E,int,Below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C02_047E,int,Below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C02_048E,int,Below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C02_049E,int,Below poverty level!!Estimate!!15 years,S1701
+S1701_C02_050E,int,Below poverty level!!Estimate!!16 to 17 years,S1701
+S1701_C02_051E,int,Below poverty level!!Estimate!!18 to 24 years,S1701
+S1701_C02_052E,int,Below poverty level!!Estimate!!25 to 34 years,S1701
+S1701_C02_053E,int,Below poverty level!!Estimate!!35 to 44 years,S1701
+S1701_C02_054E,int,Below poverty level!!Estimate!!45 to 54 years,S1701
+S1701_C02_055E,int,Below poverty level!!Estimate!!55 to 64 years,S1701
+S1701_C02_056E,int,Below poverty level!!Estimate!!65 to 74 years,S1701
+S1701_C02_057E,int,Below poverty level!!Estimate!!75 years and over,S1701
+S1701_C02_058E,int,Below poverty level!!Estimate!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C02_059E,int,"Below poverty level!!Estimate!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C02_060E,int,"Below poverty level!!Estimate!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C02_061E,int,Below poverty level!!Estimate!!Did not work,S1701
+S1701_C03_001E,float,Percent below poverty level!!Estimate!!Population for whom poverty status is determined,S1701
+S1701_C03_002E,float,Percent below poverty level!!Estimate!!AGE!!Under 18 years,S1701
+S1701_C03_003E,float,Percent below poverty level!!Estimate!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C03_004E,float,Percent below poverty level!!Estimate!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C03_005E,float,Percent below poverty level!!Estimate!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C03_006E,float,Percent below poverty level!!Estimate!!AGE!!18 to 64 years,S1701
+S1701_C03_007E,float,Percent below poverty level!!Estimate!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C03_008E,float,Percent below poverty level!!Estimate!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C03_009E,float,Percent below poverty level!!Estimate!!AGE!!60 years and over,S1701
+S1701_C03_010E,float,Percent below poverty level!!Estimate!!AGE!!65 years and over,S1701
+S1701_C03_011E,float,Percent below poverty level!!Estimate!!SEX!!Male,S1701
+S1701_C03_012E,float,Percent below poverty level!!Estimate!!SEX!!Female,S1701
+S1701_C03_013E,float,Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C03_014E,float,Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C03_015E,float,Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C03_016E,float,Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C03_017E,float,Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C03_018E,float,Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C03_019E,float,Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C03_020E,float,Percent below poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1701
+S1701_C03_021E,float,"Percent below poverty level!!Estimate!!White alone, not Hispanic or Latino",S1701
+S1701_C03_022E,float,Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C03_023E,float,Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C03_024E,float,Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C03_025E,float,"Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C03_026E,float,Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C03_027E,float,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C03_028E,float,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C03_029E,float,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C03_030E,float,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C03_031E,float,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C03_032E,float,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C03_033E,float,Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C03_034E,float,Percent below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C03_035E,float,"Percent below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C03_036E,float,Percent below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C03_037E,float,Percent below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C03_038E,float,Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C03_039E,float,Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C03_040E,float,Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C03_041E,float,Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C03_042E,float,Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C03_043E,float,Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C03_044E,float,Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C03_045E,float,Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C03_046E,float,Percent below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C03_047E,float,Percent below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C03_048E,float,Percent below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C03_049E,float,Percent below poverty level!!Estimate!!15 years,S1701
+S1701_C03_050E,float,Percent below poverty level!!Estimate!!16 to 17 years,S1701
+S1701_C03_051E,float,Percent below poverty level!!Estimate!!18 to 24 years,S1701
+S1701_C03_052E,float,Percent below poverty level!!Estimate!!25 to 34 years,S1701
+S1701_C03_053E,float,Percent below poverty level!!Estimate!!35 to 44 years,S1701
+S1701_C03_054E,float,Percent below poverty level!!Estimate!!45 to 54 years,S1701
+S1701_C03_055E,float,Percent below poverty level!!Estimate!!55 to 64 years,S1701
+S1701_C03_056E,float,Percent below poverty level!!Estimate!!65 to 74 years,S1701
+S1701_C03_057E,float,Percent below poverty level!!Estimate!!75 years and over,S1701
+S1701_C03_058E,int,Percent below poverty level!!Estimate!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C03_059E,float,"Percent below poverty level!!Estimate!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C03_060E,float,"Percent below poverty level!!Estimate!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C03_061E,float,Percent below poverty level!!Estimate!!Did not work,S1701
+S1701_C01_001M,int,Total!!Margin of Error!!Population for whom poverty status is determined,S1701
+S1701_C01_002M,int,Total!!Margin of Error!!AGE!!Under 18 years,S1701
+S1701_C01_003M,int,Total!!Margin of Error!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C01_004M,int,Total!!Margin of Error!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C01_005M,int,Total!!Margin of Error!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C01_006M,int,Total!!Margin of Error!!AGE!!18 to 64 years,S1701
+S1701_C01_007M,int,Total!!Margin of Error!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C01_008M,int,Total!!Margin of Error!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C01_009M,int,Total!!Margin of Error!!AGE!!60 years and over,S1701
+S1701_C01_010M,int,Total!!Margin of Error!!AGE!!65 years and over,S1701
+S1701_C01_011M,int,Total!!Margin of Error!!SEX!!Male,S1701
+S1701_C01_012M,int,Total!!Margin of Error!!SEX!!Female,S1701
+S1701_C01_013M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C01_014M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C01_015M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C01_016M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C01_017M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C01_018M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C01_019M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C01_020M,int,Total!!Margin of Error!!Hispanic or Latino origin (of any race),S1701
+S1701_C01_021M,int,"Total!!Margin of Error!!White alone, not Hispanic or Latino",S1701
+S1701_C01_022M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C01_023M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C01_024M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C01_025M,int,"Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C01_026M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C01_027M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C01_028M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C01_029M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C01_030M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C01_031M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C01_032M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C01_033M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C01_034M,int,Total!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C01_035M,int,"Total!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C01_036M,int,Total!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C01_037M,int,Total!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C01_038M,int,Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C01_039M,int,Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C01_040M,int,Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C01_041M,int,Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C01_042M,int,Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C01_043M,int,Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C01_044M,int,Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C01_045M,int,Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C01_046M,int,Total!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C01_047M,int,Total!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C01_048M,int,Total!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C01_049M,int,Total!!Margin of Error!!15 years,S1701
+S1701_C01_050M,int,Total!!Margin of Error!!16 to 17 years,S1701
+S1701_C01_051M,int,Total!!Margin of Error!!18 to 24 years,S1701
+S1701_C01_052M,int,Total!!Margin of Error!!25 to 34 years,S1701
+S1701_C01_053M,int,Total!!Margin of Error!!35 to 44 years,S1701
+S1701_C01_054M,int,Total!!Margin of Error!!45 to 54 years,S1701
+S1701_C01_055M,int,Total!!Margin of Error!!55 to 64 years,S1701
+S1701_C01_056M,int,Total!!Margin of Error!!65 to 74 years,S1701
+S1701_C01_057M,int,Total!!Margin of Error!!75 years and over,S1701
+S1701_C01_058M,int,Total!!Margin of Error!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C01_059M,int,"Total!!Margin of Error!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C01_060M,int,"Total!!Margin of Error!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C01_061M,int,Total!!Margin of Error!!Did not work,S1701
+S1701_C02_001M,int,Below poverty level!!Margin of Error!!Population for whom poverty status is determined,S1701
+S1701_C02_002M,int,Below poverty level!!Margin of Error!!AGE!!Under 18 years,S1701
+S1701_C02_003M,int,Below poverty level!!Margin of Error!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C02_004M,int,Below poverty level!!Margin of Error!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C02_005M,int,Below poverty level!!Margin of Error!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C02_006M,int,Below poverty level!!Margin of Error!!AGE!!18 to 64 years,S1701
+S1701_C02_007M,int,Below poverty level!!Margin of Error!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C02_008M,int,Below poverty level!!Margin of Error!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C02_009M,int,Below poverty level!!Margin of Error!!AGE!!60 years and over,S1701
+S1701_C02_010M,int,Below poverty level!!Margin of Error!!AGE!!65 years and over,S1701
+S1701_C02_011M,int,Below poverty level!!Margin of Error!!SEX!!Male,S1701
+S1701_C02_012M,int,Below poverty level!!Margin of Error!!SEX!!Female,S1701
+S1701_C02_013M,int,Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C02_014M,int,Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C02_015M,int,Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C02_016M,int,Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C02_017M,int,Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C02_018M,int,Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C02_019M,int,Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C02_020M,int,Below poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1701
+S1701_C02_021M,int,"Below poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1701
+S1701_C02_022M,int,Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C02_023M,int,Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C02_024M,int,Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C02_025M,int,"Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C02_026M,int,Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C02_027M,int,Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C02_028M,int,Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C02_029M,int,Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C02_030M,int,Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C02_031M,int,Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C02_032M,int,Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C02_033M,int,Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C02_034M,int,Below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C02_035M,int,"Below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C02_036M,int,Below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C02_037M,int,Below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C02_038M,int,Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C02_039M,int,Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C02_040M,int,Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C02_041M,int,Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C02_042M,int,Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C02_043M,int,Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C02_044M,int,Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C02_045M,int,Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C02_046M,int,Below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C02_047M,int,Below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C02_048M,int,Below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C02_049M,int,Below poverty level!!Margin of Error!!15 years,S1701
+S1701_C02_050M,int,Below poverty level!!Margin of Error!!16 to 17 years,S1701
+S1701_C02_051M,int,Below poverty level!!Margin of Error!!18 to 24 years,S1701
+S1701_C02_052M,int,Below poverty level!!Margin of Error!!25 to 34 years,S1701
+S1701_C02_053M,int,Below poverty level!!Margin of Error!!35 to 44 years,S1701
+S1701_C02_054M,int,Below poverty level!!Margin of Error!!45 to 54 years,S1701
+S1701_C02_055M,int,Below poverty level!!Margin of Error!!55 to 64 years,S1701
+S1701_C02_056M,int,Below poverty level!!Margin of Error!!65 to 74 years,S1701
+S1701_C02_057M,int,Below poverty level!!Margin of Error!!75 years and over,S1701
+S1701_C02_058M,int,Below poverty level!!Margin of Error!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C02_059M,int,"Below poverty level!!Margin of Error!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C02_060M,int,"Below poverty level!!Margin of Error!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C02_061M,int,Below poverty level!!Margin of Error!!Did not work,S1701
+S1701_C03_001M,float,Percent below poverty level!!Margin of Error!!Population for whom poverty status is determined,S1701
+S1701_C03_002M,float,Percent below poverty level!!Margin of Error!!AGE!!Under 18 years,S1701
+S1701_C03_003M,float,Percent below poverty level!!Margin of Error!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C03_004M,float,Percent below poverty level!!Margin of Error!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C03_005M,float,Percent below poverty level!!Margin of Error!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C03_006M,float,Percent below poverty level!!Margin of Error!!AGE!!18 to 64 years,S1701
+S1701_C03_007M,float,Percent below poverty level!!Margin of Error!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C03_008M,float,Percent below poverty level!!Margin of Error!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C03_009M,float,Percent below poverty level!!Margin of Error!!AGE!!60 years and over,S1701
+S1701_C03_010M,float,Percent below poverty level!!Margin of Error!!AGE!!65 years and over,S1701
+S1701_C03_011M,float,Percent below poverty level!!Margin of Error!!SEX!!Male,S1701
+S1701_C03_012M,float,Percent below poverty level!!Margin of Error!!SEX!!Female,S1701
+S1701_C03_013M,float,Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C03_014M,float,Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C03_015M,float,Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C03_016M,float,Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C03_017M,float,Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C03_018M,float,Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C03_019M,float,Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C03_020M,float,Percent below poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1701
+S1701_C03_021M,float,"Percent below poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1701
+S1701_C03_022M,float,Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C03_023M,float,Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C03_024M,float,Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C03_025M,float,"Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C03_026M,float,Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C03_027M,float,Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C03_028M,float,Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C03_029M,float,Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C03_030M,float,Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C03_031M,float,Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C03_032M,float,Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C03_033M,float,Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C03_034M,float,Percent below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C03_035M,float,"Percent below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C03_036M,float,Percent below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C03_037M,float,Percent below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C03_038M,float,Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C03_039M,float,Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C03_040M,float,Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C03_041M,float,Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C03_042M,float,Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C03_043M,float,Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C03_044M,float,Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C03_045M,float,Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C03_046M,float,Percent below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C03_047M,float,Percent below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C03_048M,float,Percent below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C03_049M,float,Percent below poverty level!!Margin of Error!!15 years,S1701
+S1701_C03_050M,float,Percent below poverty level!!Margin of Error!!16 to 17 years,S1701
+S1701_C03_051M,float,Percent below poverty level!!Margin of Error!!18 to 24 years,S1701
+S1701_C03_052M,float,Percent below poverty level!!Margin of Error!!25 to 34 years,S1701
+S1701_C03_053M,float,Percent below poverty level!!Margin of Error!!35 to 44 years,S1701
+S1701_C03_054M,float,Percent below poverty level!!Margin of Error!!45 to 54 years,S1701
+S1701_C03_055M,float,Percent below poverty level!!Margin of Error!!55 to 64 years,S1701
+S1701_C03_056M,float,Percent below poverty level!!Margin of Error!!65 to 74 years,S1701
+S1701_C03_057M,float,Percent below poverty level!!Margin of Error!!75 years and over,S1701
+S1701_C03_058M,int,Percent below poverty level!!Margin of Error!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C03_059M,float,"Percent below poverty level!!Margin of Error!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C03_060M,float,"Percent below poverty level!!Margin of Error!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C03_061M,float,Percent below poverty level!!Margin of Error!!Did not work,S1701
+S1701_C01_001EA,string,Annotation of Total!!Estimate!!Population for whom poverty status is determined,S1701
+S1701_C01_001MA,string,Annotation of Total!!Margin of Error!!Population for whom poverty status is determined,S1701
+S1701_C01_002EA,string,Annotation of Total!!Estimate!!AGE!!Under 18 years,S1701
+S1701_C01_002MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 18 years,S1701
+S1701_C01_003EA,string,Annotation of Total!!Estimate!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C01_003MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C01_004EA,string,Annotation of Total!!Estimate!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C01_004MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C01_005EA,string,Annotation of Total!!Estimate!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C01_005MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C01_006EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years,S1701
+S1701_C01_006MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years,S1701
+S1701_C01_007EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C01_007MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C01_008EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C01_008MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C01_009EA,string,Annotation of Total!!Estimate!!AGE!!60 years and over,S1701
+S1701_C01_009MA,string,Annotation of Total!!Margin of Error!!AGE!!60 years and over,S1701
+S1701_C01_010EA,string,Annotation of Total!!Estimate!!AGE!!65 years and over,S1701
+S1701_C01_010MA,string,Annotation of Total!!Margin of Error!!AGE!!65 years and over,S1701
+S1701_C01_011EA,string,Annotation of Total!!Estimate!!SEX!!Male,S1701
+S1701_C01_011MA,string,Annotation of Total!!Margin of Error!!SEX!!Male,S1701
+S1701_C01_012EA,string,Annotation of Total!!Estimate!!SEX!!Female,S1701
+S1701_C01_012MA,string,Annotation of Total!!Margin of Error!!SEX!!Female,S1701
+S1701_C01_013EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C01_013MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C01_014EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C01_014MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C01_015EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C01_015MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C01_016EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C01_016MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C01_017EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C01_017MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C01_018EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C01_018MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C01_019EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C01_019MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C01_020EA,string,Annotation of Total!!Estimate!!Hispanic or Latino origin (of any race),S1701
+S1701_C01_020MA,string,Annotation of Total!!Margin of Error!!Hispanic or Latino origin (of any race),S1701
+S1701_C01_021EA,string,"Annotation of Total!!Estimate!!White alone, not Hispanic or Latino",S1701
+S1701_C01_021MA,string,"Annotation of Total!!Margin of Error!!White alone, not Hispanic or Latino",S1701
+S1701_C01_022EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C01_022MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C01_023EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C01_023MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C01_024EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C01_024MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C01_025EA,string,"Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C01_025MA,string,"Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C01_026EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C01_026MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C01_027EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C01_027MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C01_028EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C01_028MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C01_029EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C01_029MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C01_030EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C01_030MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C01_031EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C01_031MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C01_032EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C01_032MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C01_033EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C01_033MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C01_034EA,string,Annotation of Total!!Estimate!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C01_034MA,string,Annotation of Total!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C01_035EA,string,"Annotation of Total!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C01_035MA,string,"Annotation of Total!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C01_036EA,string,Annotation of Total!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C01_036MA,string,Annotation of Total!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C01_037EA,string,Annotation of Total!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C01_037MA,string,Annotation of Total!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C01_038EA,string,Annotation of Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C01_038MA,string,Annotation of Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C01_039EA,string,Annotation of Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C01_039MA,string,Annotation of Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C01_040EA,string,Annotation of Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C01_040MA,string,Annotation of Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C01_041EA,string,Annotation of Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C01_041MA,string,Annotation of Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C01_042EA,string,Annotation of Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C01_042MA,string,Annotation of Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C01_043EA,string,Annotation of Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C01_043MA,string,Annotation of Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C01_044EA,string,Annotation of Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C01_044MA,string,Annotation of Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C01_045EA,string,Annotation of Total!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C01_045MA,string,Annotation of Total!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C01_046EA,string,Annotation of Total!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C01_046MA,string,Annotation of Total!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C01_047EA,string,Annotation of Total!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C01_047MA,string,Annotation of Total!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C01_048EA,string,Annotation of Total!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C01_048MA,string,Annotation of Total!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C01_049EA,string,Annotation of Total!!Estimate!!15 years,S1701
+S1701_C01_049MA,string,Annotation of Total!!Margin of Error!!15 years,S1701
+S1701_C01_050EA,string,Annotation of Total!!Estimate!!16 to 17 years,S1701
+S1701_C01_050MA,string,Annotation of Total!!Margin of Error!!16 to 17 years,S1701
+S1701_C01_051EA,string,Annotation of Total!!Estimate!!18 to 24 years,S1701
+S1701_C01_051MA,string,Annotation of Total!!Margin of Error!!18 to 24 years,S1701
+S1701_C01_052EA,string,Annotation of Total!!Estimate!!25 to 34 years,S1701
+S1701_C01_052MA,string,Annotation of Total!!Margin of Error!!25 to 34 years,S1701
+S1701_C01_053EA,string,Annotation of Total!!Estimate!!35 to 44 years,S1701
+S1701_C01_053MA,string,Annotation of Total!!Margin of Error!!35 to 44 years,S1701
+S1701_C01_054EA,string,Annotation of Total!!Estimate!!45 to 54 years,S1701
+S1701_C01_054MA,string,Annotation of Total!!Margin of Error!!45 to 54 years,S1701
+S1701_C01_055EA,string,Annotation of Total!!Estimate!!55 to 64 years,S1701
+S1701_C01_055MA,string,Annotation of Total!!Margin of Error!!55 to 64 years,S1701
+S1701_C01_056EA,string,Annotation of Total!!Estimate!!65 to 74 years,S1701
+S1701_C01_056MA,string,Annotation of Total!!Margin of Error!!65 to 74 years,S1701
+S1701_C01_057EA,string,Annotation of Total!!Estimate!!75 years and over,S1701
+S1701_C01_057MA,string,Annotation of Total!!Margin of Error!!75 years and over,S1701
+S1701_C01_058EA,string,Annotation of Total!!Estimate!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C01_058MA,string,Annotation of Total!!Margin of Error!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C01_059EA,string,"Annotation of Total!!Estimate!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C01_059MA,string,"Annotation of Total!!Margin of Error!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C01_060EA,string,"Annotation of Total!!Estimate!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C01_060MA,string,"Annotation of Total!!Margin of Error!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C01_061EA,string,Annotation of Total!!Estimate!!Did not work,S1701
+S1701_C01_061MA,string,Annotation of Total!!Margin of Error!!Did not work,S1701
+S1701_C02_001EA,string,Annotation of Below poverty level!!Estimate!!Population for whom poverty status is determined,S1701
+S1701_C02_001MA,string,Annotation of Below poverty level!!Margin of Error!!Population for whom poverty status is determined,S1701
+S1701_C02_002EA,string,Annotation of Below poverty level!!Estimate!!AGE!!Under 18 years,S1701
+S1701_C02_002MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!Under 18 years,S1701
+S1701_C02_003EA,string,Annotation of Below poverty level!!Estimate!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C02_003MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C02_004EA,string,Annotation of Below poverty level!!Estimate!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C02_004MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C02_005EA,string,Annotation of Below poverty level!!Estimate!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C02_005MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C02_006EA,string,Annotation of Below poverty level!!Estimate!!AGE!!18 to 64 years,S1701
+S1701_C02_006MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!18 to 64 years,S1701
+S1701_C02_007EA,string,Annotation of Below poverty level!!Estimate!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C02_007MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C02_008EA,string,Annotation of Below poverty level!!Estimate!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C02_008MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C02_009EA,string,Annotation of Below poverty level!!Estimate!!AGE!!60 years and over,S1701
+S1701_C02_009MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!60 years and over,S1701
+S1701_C02_010EA,string,Annotation of Below poverty level!!Estimate!!AGE!!65 years and over,S1701
+S1701_C02_010MA,string,Annotation of Below poverty level!!Margin of Error!!AGE!!65 years and over,S1701
+S1701_C02_011EA,string,Annotation of Below poverty level!!Estimate!!SEX!!Male,S1701
+S1701_C02_011MA,string,Annotation of Below poverty level!!Margin of Error!!SEX!!Male,S1701
+S1701_C02_012EA,string,Annotation of Below poverty level!!Estimate!!SEX!!Female,S1701
+S1701_C02_012MA,string,Annotation of Below poverty level!!Margin of Error!!SEX!!Female,S1701
+S1701_C02_013EA,string,Annotation of Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C02_013MA,string,Annotation of Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C02_014EA,string,Annotation of Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C02_014MA,string,Annotation of Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C02_015EA,string,Annotation of Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C02_015MA,string,Annotation of Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C02_016EA,string,Annotation of Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C02_016MA,string,Annotation of Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C02_017EA,string,Annotation of Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C02_017MA,string,Annotation of Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C02_018EA,string,Annotation of Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C02_018MA,string,Annotation of Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C02_019EA,string,Annotation of Below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C02_019MA,string,Annotation of Below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C02_020EA,string,Annotation of Below poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1701
+S1701_C02_020MA,string,Annotation of Below poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1701
+S1701_C02_021EA,string,"Annotation of Below poverty level!!Estimate!!White alone, not Hispanic or Latino",S1701
+S1701_C02_021MA,string,"Annotation of Below poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1701
+S1701_C02_022EA,string,Annotation of Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C02_022MA,string,Annotation of Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C02_023EA,string,Annotation of Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C02_023MA,string,Annotation of Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C02_024EA,string,Annotation of Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C02_024MA,string,Annotation of Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C02_025EA,string,"Annotation of Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C02_025MA,string,"Annotation of Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C02_026EA,string,Annotation of Below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C02_026MA,string,Annotation of Below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C02_027EA,string,Annotation of Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C02_027MA,string,Annotation of Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C02_028EA,string,Annotation of Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C02_028MA,string,Annotation of Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C02_029EA,string,Annotation of Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C02_029MA,string,Annotation of Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C02_030EA,string,Annotation of Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C02_030MA,string,Annotation of Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C02_031EA,string,Annotation of Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C02_031MA,string,Annotation of Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C02_032EA,string,Annotation of Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C02_032MA,string,Annotation of Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C02_033EA,string,Annotation of Below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C02_033MA,string,Annotation of Below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C02_034EA,string,Annotation of Below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C02_034MA,string,Annotation of Below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C02_035EA,string,"Annotation of Below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C02_035MA,string,"Annotation of Below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C02_036EA,string,Annotation of Below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C02_036MA,string,Annotation of Below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C02_037EA,string,Annotation of Below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C02_037MA,string,Annotation of Below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C02_038EA,string,Annotation of Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C02_038MA,string,Annotation of Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C02_039EA,string,Annotation of Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C02_039MA,string,Annotation of Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C02_040EA,string,Annotation of Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C02_040MA,string,Annotation of Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C02_041EA,string,Annotation of Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C02_041MA,string,Annotation of Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C02_042EA,string,Annotation of Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C02_042MA,string,Annotation of Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C02_043EA,string,Annotation of Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C02_043MA,string,Annotation of Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C02_044EA,string,Annotation of Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C02_044MA,string,Annotation of Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C02_045EA,string,Annotation of Below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C02_045MA,string,Annotation of Below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C02_046EA,string,Annotation of Below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C02_046MA,string,Annotation of Below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C02_047EA,string,Annotation of Below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C02_047MA,string,Annotation of Below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C02_048EA,string,Annotation of Below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C02_048MA,string,Annotation of Below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C02_049EA,string,Annotation of Below poverty level!!Estimate!!15 years,S1701
+S1701_C02_049MA,string,Annotation of Below poverty level!!Margin of Error!!15 years,S1701
+S1701_C02_050EA,string,Annotation of Below poverty level!!Estimate!!16 to 17 years,S1701
+S1701_C02_050MA,string,Annotation of Below poverty level!!Margin of Error!!16 to 17 years,S1701
+S1701_C02_051EA,string,Annotation of Below poverty level!!Estimate!!18 to 24 years,S1701
+S1701_C02_051MA,string,Annotation of Below poverty level!!Margin of Error!!18 to 24 years,S1701
+S1701_C02_052EA,string,Annotation of Below poverty level!!Estimate!!25 to 34 years,S1701
+S1701_C02_052MA,string,Annotation of Below poverty level!!Margin of Error!!25 to 34 years,S1701
+S1701_C02_053EA,string,Annotation of Below poverty level!!Estimate!!35 to 44 years,S1701
+S1701_C02_053MA,string,Annotation of Below poverty level!!Margin of Error!!35 to 44 years,S1701
+S1701_C02_054EA,string,Annotation of Below poverty level!!Estimate!!45 to 54 years,S1701
+S1701_C02_054MA,string,Annotation of Below poverty level!!Margin of Error!!45 to 54 years,S1701
+S1701_C02_055EA,string,Annotation of Below poverty level!!Estimate!!55 to 64 years,S1701
+S1701_C02_055MA,string,Annotation of Below poverty level!!Margin of Error!!55 to 64 years,S1701
+S1701_C02_056EA,string,Annotation of Below poverty level!!Estimate!!65 to 74 years,S1701
+S1701_C02_056MA,string,Annotation of Below poverty level!!Margin of Error!!65 to 74 years,S1701
+S1701_C02_057EA,string,Annotation of Below poverty level!!Estimate!!75 years and over,S1701
+S1701_C02_057MA,string,Annotation of Below poverty level!!Margin of Error!!75 years and over,S1701
+S1701_C02_058EA,string,Annotation of Below poverty level!!Estimate!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C02_058MA,string,Annotation of Below poverty level!!Margin of Error!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C02_059EA,string,"Annotation of Below poverty level!!Estimate!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C02_059MA,string,"Annotation of Below poverty level!!Margin of Error!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C02_060EA,string,"Annotation of Below poverty level!!Estimate!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C02_060MA,string,"Annotation of Below poverty level!!Margin of Error!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C02_061EA,string,Annotation of Below poverty level!!Estimate!!Did not work,S1701
+S1701_C02_061MA,string,Annotation of Below poverty level!!Margin of Error!!Did not work,S1701
+S1701_C03_001EA,string,Annotation of Percent below poverty level!!Estimate!!Population for whom poverty status is determined,S1701
+S1701_C03_001MA,string,Annotation of Percent below poverty level!!Margin of Error!!Population for whom poverty status is determined,S1701
+S1701_C03_002EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!Under 18 years,S1701
+S1701_C03_002MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!Under 18 years,S1701
+S1701_C03_003EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C03_003MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!Under 18 years!!Under 5 years,S1701
+S1701_C03_004EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C03_004MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!Under 18 years!!5 to 17 years,S1701
+S1701_C03_005EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C03_005MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!Under 18 years!!Related children of householder under 18 years,S1701
+S1701_C03_006EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!18 to 64 years,S1701
+S1701_C03_006MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!18 to 64 years,S1701
+S1701_C03_007EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C03_007MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!18 to 64 years!!18 to 34 years,S1701
+S1701_C03_008EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C03_008MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!18 to 64 years!!35 to 64 years,S1701
+S1701_C03_009EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!60 years and over,S1701
+S1701_C03_009MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!60 years and over,S1701
+S1701_C03_010EA,string,Annotation of Percent below poverty level!!Estimate!!AGE!!65 years and over,S1701
+S1701_C03_010MA,string,Annotation of Percent below poverty level!!Margin of Error!!AGE!!65 years and over,S1701
+S1701_C03_011EA,string,Annotation of Percent below poverty level!!Estimate!!SEX!!Male,S1701
+S1701_C03_011MA,string,Annotation of Percent below poverty level!!Margin of Error!!SEX!!Male,S1701
+S1701_C03_012EA,string,Annotation of Percent below poverty level!!Estimate!!SEX!!Female,S1701
+S1701_C03_012MA,string,Annotation of Percent below poverty level!!Margin of Error!!SEX!!Female,S1701
+S1701_C03_013EA,string,Annotation of Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C03_013MA,string,Annotation of Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S1701
+S1701_C03_014EA,string,Annotation of Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C03_014MA,string,Annotation of Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S1701
+S1701_C03_015EA,string,Annotation of Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C03_015MA,string,Annotation of Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S1701
+S1701_C03_016EA,string,Annotation of Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C03_016MA,string,Annotation of Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S1701
+S1701_C03_017EA,string,Annotation of Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C03_017MA,string,Annotation of Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S1701
+S1701_C03_018EA,string,Annotation of Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C03_018MA,string,Annotation of Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S1701
+S1701_C03_019EA,string,Annotation of Percent below poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C03_019MA,string,Annotation of Percent below poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1701
+S1701_C03_020EA,string,Annotation of Percent below poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1701
+S1701_C03_020MA,string,Annotation of Percent below poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1701
+S1701_C03_021EA,string,"Annotation of Percent below poverty level!!Estimate!!White alone, not Hispanic or Latino",S1701
+S1701_C03_021MA,string,"Annotation of Percent below poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1701
+S1701_C03_022EA,string,Annotation of Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C03_022MA,string,Annotation of Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1701
+S1701_C03_023EA,string,Annotation of Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C03_023MA,string,Annotation of Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S1701
+S1701_C03_024EA,string,Annotation of Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C03_024MA,string,Annotation of Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S1701
+S1701_C03_025EA,string,"Annotation of Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C03_025MA,string,"Annotation of Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, associate's degree",S1701
+S1701_C03_026EA,string,Annotation of Percent below poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C03_026MA,string,Annotation of Percent below poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S1701
+S1701_C03_027EA,string,Annotation of Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C03_027MA,string,Annotation of Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over,S1701
+S1701_C03_028EA,string,Annotation of Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C03_028MA,string,Annotation of Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed,S1701
+S1701_C03_029EA,string,Annotation of Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C03_029MA,string,Annotation of Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Male,S1701
+S1701_C03_030EA,string,Annotation of Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C03_030MA,string,Annotation of Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Employed!!Female,S1701
+S1701_C03_031EA,string,Annotation of Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C03_031MA,string,Annotation of Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed,S1701
+S1701_C03_032EA,string,Annotation of Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C03_032MA,string,Annotation of Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Male,S1701
+S1701_C03_033EA,string,Annotation of Percent below poverty level!!Estimate!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C03_033MA,string,Annotation of Percent below poverty level!!Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force 16 years and over!!Unemployed!!Female,S1701
+S1701_C03_034EA,string,Annotation of Percent below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C03_034MA,string,Annotation of Percent below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over,S1701
+S1701_C03_035EA,string,"Annotation of Percent below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C03_035MA,string,"Annotation of Percent below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C03_036EA,string,Annotation of Percent below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C03_036MA,string,Annotation of Percent below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Worked part-time or part-year in the past 12 months,S1701
+S1701_C03_037EA,string,Annotation of Percent below poverty level!!Estimate!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C03_037MA,string,Annotation of Percent below poverty level!!Margin of Error!!WORK EXPERIENCE!!Population 16 years and over!!Did not work,S1701
+S1701_C03_038EA,string,Annotation of Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C03_038MA,string,Annotation of Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!50 percent of poverty level,S1701
+S1701_C03_039EA,string,Annotation of Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C03_039MA,string,Annotation of Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!125 percent of poverty level,S1701
+S1701_C03_040EA,string,Annotation of Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C03_040MA,string,Annotation of Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!150 percent of poverty level,S1701
+S1701_C03_041EA,string,Annotation of Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C03_041MA,string,Annotation of Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!185 percent of poverty level,S1701
+S1701_C03_042EA,string,Annotation of Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C03_042MA,string,Annotation of Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!200 percent of poverty level,S1701
+S1701_C03_043EA,string,Annotation of Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C03_043MA,string,Annotation of Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!300 percent of poverty level,S1701
+S1701_C03_044EA,string,Annotation of Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C03_044MA,string,Annotation of Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!400 percent of poverty level,S1701
+S1701_C03_045EA,string,Annotation of Percent below poverty level!!Estimate!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C03_045MA,string,Annotation of Percent below poverty level!!Margin of Error!!ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS!!500 percent of poverty level,S1701
+S1701_C03_046EA,string,Annotation of Percent below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C03_046MA,string,Annotation of Percent below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,S1701
+S1701_C03_047EA,string,Annotation of Percent below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C03_047MA,string,Annotation of Percent below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Male,S1701
+S1701_C03_048EA,string,Annotation of Percent below poverty level!!Estimate!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C03_048MA,string,Annotation of Percent below poverty level!!Margin of Error!!UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED!!Female,S1701
+S1701_C03_049EA,string,Annotation of Percent below poverty level!!Estimate!!15 years,S1701
+S1701_C03_049MA,string,Annotation of Percent below poverty level!!Margin of Error!!15 years,S1701
+S1701_C03_050EA,string,Annotation of Percent below poverty level!!Estimate!!16 to 17 years,S1701
+S1701_C03_050MA,string,Annotation of Percent below poverty level!!Margin of Error!!16 to 17 years,S1701
+S1701_C03_051EA,string,Annotation of Percent below poverty level!!Estimate!!18 to 24 years,S1701
+S1701_C03_051MA,string,Annotation of Percent below poverty level!!Margin of Error!!18 to 24 years,S1701
+S1701_C03_052EA,string,Annotation of Percent below poverty level!!Estimate!!25 to 34 years,S1701
+S1701_C03_052MA,string,Annotation of Percent below poverty level!!Margin of Error!!25 to 34 years,S1701
+S1701_C03_053EA,string,Annotation of Percent below poverty level!!Estimate!!35 to 44 years,S1701
+S1701_C03_053MA,string,Annotation of Percent below poverty level!!Margin of Error!!35 to 44 years,S1701
+S1701_C03_054EA,string,Annotation of Percent below poverty level!!Estimate!!45 to 54 years,S1701
+S1701_C03_054MA,string,Annotation of Percent below poverty level!!Margin of Error!!45 to 54 years,S1701
+S1701_C03_055EA,string,Annotation of Percent below poverty level!!Estimate!!55 to 64 years,S1701
+S1701_C03_055MA,string,Annotation of Percent below poverty level!!Margin of Error!!55 to 64 years,S1701
+S1701_C03_056EA,string,Annotation of Percent below poverty level!!Estimate!!65 to 74 years,S1701
+S1701_C03_056MA,string,Annotation of Percent below poverty level!!Margin of Error!!65 to 74 years,S1701
+S1701_C03_057EA,string,Annotation of Percent below poverty level!!Estimate!!75 years and over,S1701
+S1701_C03_057MA,string,Annotation of Percent below poverty level!!Margin of Error!!75 years and over,S1701
+S1701_C03_058EA,string,Annotation of Percent below poverty level!!Estimate!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C03_058MA,string,Annotation of Percent below poverty level!!Margin of Error!!Mean income deficit for unrelated individuals (dollars),S1701
+S1701_C03_059EA,string,"Annotation of Percent below poverty level!!Estimate!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C03_059MA,string,"Annotation of Percent below poverty level!!Margin of Error!!Worked full-time, year-round in the past 12 months",S1701
+S1701_C03_060EA,string,"Annotation of Percent below poverty level!!Estimate!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C03_060MA,string,"Annotation of Percent below poverty level!!Margin of Error!!Worked less than full-time, year-round in the past 12 months",S1701
+S1701_C03_061EA,string,Annotation of Percent below poverty level!!Estimate!!Did not work,S1701
+S1701_C03_061MA,string,Annotation of Percent below poverty level!!Margin of Error!!Did not work,S1701

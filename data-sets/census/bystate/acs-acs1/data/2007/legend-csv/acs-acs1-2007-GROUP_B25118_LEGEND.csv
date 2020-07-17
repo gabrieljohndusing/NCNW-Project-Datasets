@@ -1,0 +1,101 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25118_001E,int,Estimate!!Total,B25118
+B25118_002E,int,Estimate!!Total!!Owner occupied,B25118
+B25118_003E,int,"Estimate!!Total!!Owner occupied!!Less than $5,000",B25118
+B25118_004E,int,"Estimate!!Total!!Owner occupied!!$5,000 to $9,999",B25118
+B25118_005E,int,"Estimate!!Total!!Owner occupied!!$10,000 to $14,999",B25118
+B25118_006E,int,"Estimate!!Total!!Owner occupied!!$15,000 to $19,999",B25118
+B25118_007E,int,"Estimate!!Total!!Owner occupied!!$20,000 to $24,999",B25118
+B25118_008E,int,"Estimate!!Total!!Owner occupied!!$25,000 to $34,999",B25118
+B25118_009E,int,"Estimate!!Total!!Owner occupied!!$35,000 to $49,999",B25118
+B25118_010E,int,"Estimate!!Total!!Owner occupied!!$50,000 to $74,999",B25118
+B25118_011E,int,"Estimate!!Total!!Owner occupied!!$75,000 to $99,999",B25118
+B25118_012E,int,"Estimate!!Total!!Owner occupied!!$100,000 to $149,999",B25118
+B25118_013E,int,"Estimate!!Total!!Owner occupied!!$150,000 or more",B25118
+B25118_014E,int,Estimate!!Total!!Renter occupied,B25118
+B25118_015E,int,"Estimate!!Total!!Renter occupied!!Less than $5,000",B25118
+B25118_016E,int,"Estimate!!Total!!Renter occupied!!$5,000 to $9,999",B25118
+B25118_017E,int,"Estimate!!Total!!Renter occupied!!$10,000 to $14,999",B25118
+B25118_018E,int,"Estimate!!Total!!Renter occupied!!$15,000 to $19,999",B25118
+B25118_019E,int,"Estimate!!Total!!Renter occupied!!$20,000 to $24,999",B25118
+B25118_020E,int,"Estimate!!Total!!Renter occupied!!$25,000 to $34,999",B25118
+B25118_021E,int,"Estimate!!Total!!Renter occupied!!$35,000 to $49,999",B25118
+B25118_022E,int,"Estimate!!Total!!Renter occupied!!$50,000 to $74,999",B25118
+B25118_023E,int,"Estimate!!Total!!Renter occupied!!$75,000 to $99,999",B25118
+B25118_024E,int,"Estimate!!Total!!Renter occupied!!$100,000 to $149,999",B25118
+B25118_025E,int,"Estimate!!Total!!Renter occupied!!$150,000 or more",B25118
+B25118_001M,int,Margin of Error!!Total,B25118
+B25118_002M,int,Margin of Error!!Total!!Owner occupied,B25118
+B25118_003M,int,"Margin of Error!!Total!!Owner occupied!!Less than $5,000",B25118
+B25118_004M,int,"Margin of Error!!Total!!Owner occupied!!$5,000 to $9,999",B25118
+B25118_005M,int,"Margin of Error!!Total!!Owner occupied!!$10,000 to $14,999",B25118
+B25118_006M,int,"Margin of Error!!Total!!Owner occupied!!$15,000 to $19,999",B25118
+B25118_007M,int,"Margin of Error!!Total!!Owner occupied!!$20,000 to $24,999",B25118
+B25118_008M,int,"Margin of Error!!Total!!Owner occupied!!$25,000 to $34,999",B25118
+B25118_009M,int,"Margin of Error!!Total!!Owner occupied!!$35,000 to $49,999",B25118
+B25118_010M,int,"Margin of Error!!Total!!Owner occupied!!$50,000 to $74,999",B25118
+B25118_011M,int,"Margin of Error!!Total!!Owner occupied!!$75,000 to $99,999",B25118
+B25118_012M,int,"Margin of Error!!Total!!Owner occupied!!$100,000 to $149,999",B25118
+B25118_013M,int,"Margin of Error!!Total!!Owner occupied!!$150,000 or more",B25118
+B25118_014M,int,Margin of Error!!Total!!Renter occupied,B25118
+B25118_015M,int,"Margin of Error!!Total!!Renter occupied!!Less than $5,000",B25118
+B25118_016M,int,"Margin of Error!!Total!!Renter occupied!!$5,000 to $9,999",B25118
+B25118_017M,int,"Margin of Error!!Total!!Renter occupied!!$10,000 to $14,999",B25118
+B25118_018M,int,"Margin of Error!!Total!!Renter occupied!!$15,000 to $19,999",B25118
+B25118_019M,int,"Margin of Error!!Total!!Renter occupied!!$20,000 to $24,999",B25118
+B25118_020M,int,"Margin of Error!!Total!!Renter occupied!!$25,000 to $34,999",B25118
+B25118_021M,int,"Margin of Error!!Total!!Renter occupied!!$35,000 to $49,999",B25118
+B25118_022M,int,"Margin of Error!!Total!!Renter occupied!!$50,000 to $74,999",B25118
+B25118_023M,int,"Margin of Error!!Total!!Renter occupied!!$75,000 to $99,999",B25118
+B25118_024M,int,"Margin of Error!!Total!!Renter occupied!!$100,000 to $149,999",B25118
+B25118_025M,int,"Margin of Error!!Total!!Renter occupied!!$150,000 or more",B25118
+B25118_001EA,string,Annotation of Estimate!!Total,B25118
+B25118_001MA,string,Annotation of Margin of Error!!Total,B25118
+B25118_002EA,string,Annotation of Estimate!!Total!!Owner occupied,B25118
+B25118_002MA,string,Annotation of Margin of Error!!Total!!Owner occupied,B25118
+B25118_003EA,string,"Annotation of Estimate!!Total!!Owner occupied!!Less than $5,000",B25118
+B25118_003MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!Less than $5,000",B25118
+B25118_004EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$5,000 to $9,999",B25118
+B25118_004MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$5,000 to $9,999",B25118
+B25118_005EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$10,000 to $14,999",B25118
+B25118_005MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$10,000 to $14,999",B25118
+B25118_006EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$15,000 to $19,999",B25118
+B25118_006MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$15,000 to $19,999",B25118
+B25118_007EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$20,000 to $24,999",B25118
+B25118_007MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$20,000 to $24,999",B25118
+B25118_008EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$25,000 to $34,999",B25118
+B25118_008MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$25,000 to $34,999",B25118
+B25118_009EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$35,000 to $49,999",B25118
+B25118_009MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$35,000 to $49,999",B25118
+B25118_010EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$50,000 to $74,999",B25118
+B25118_010MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$50,000 to $74,999",B25118
+B25118_011EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$75,000 to $99,999",B25118
+B25118_011MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$75,000 to $99,999",B25118
+B25118_012EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$100,000 to $149,999",B25118
+B25118_012MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$100,000 to $149,999",B25118
+B25118_013EA,string,"Annotation of Estimate!!Total!!Owner occupied!!$150,000 or more",B25118
+B25118_013MA,string,"Annotation of Margin of Error!!Total!!Owner occupied!!$150,000 or more",B25118
+B25118_014EA,string,Annotation of Estimate!!Total!!Renter occupied,B25118
+B25118_014MA,string,Annotation of Margin of Error!!Total!!Renter occupied,B25118
+B25118_015EA,string,"Annotation of Estimate!!Total!!Renter occupied!!Less than $5,000",B25118
+B25118_015MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!Less than $5,000",B25118
+B25118_016EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$5,000 to $9,999",B25118
+B25118_016MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$5,000 to $9,999",B25118
+B25118_017EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$10,000 to $14,999",B25118
+B25118_017MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$10,000 to $14,999",B25118
+B25118_018EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$15,000 to $19,999",B25118
+B25118_018MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$15,000 to $19,999",B25118
+B25118_019EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$20,000 to $24,999",B25118
+B25118_019MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$20,000 to $24,999",B25118
+B25118_020EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$25,000 to $34,999",B25118
+B25118_020MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$25,000 to $34,999",B25118
+B25118_021EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$35,000 to $49,999",B25118
+B25118_021MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$35,000 to $49,999",B25118
+B25118_022EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$50,000 to $74,999",B25118
+B25118_022MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$50,000 to $74,999",B25118
+B25118_023EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$75,000 to $99,999",B25118
+B25118_023MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$75,000 to $99,999",B25118
+B25118_024EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$100,000 to $149,999",B25118
+B25118_024MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$100,000 to $149,999",B25118
+B25118_025EA,string,"Annotation of Estimate!!Total!!Renter occupied!!$150,000 or more",B25118
+B25118_025MA,string,"Annotation of Margin of Error!!Total!!Renter occupied!!$150,000 or more",B25118

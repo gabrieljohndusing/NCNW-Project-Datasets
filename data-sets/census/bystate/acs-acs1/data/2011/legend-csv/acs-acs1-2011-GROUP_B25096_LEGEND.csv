@@ -1,0 +1,69 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25096_001E,int,Estimate!!Total,B25096
+B25096_002E,int,Estimate!!Total!!With a mortgage,B25096
+B25096_003E,int,"Estimate!!Total!!With a mortgage!!Less than $50,000",B25096
+B25096_004E,int,"Estimate!!Total!!With a mortgage!!$50,000 to $99,999",B25096
+B25096_005E,int,"Estimate!!Total!!With a mortgage!!$100,000 to $149,999",B25096
+B25096_006E,int,"Estimate!!Total!!With a mortgage!!$150,000 to $199,999",B25096
+B25096_007E,int,"Estimate!!Total!!With a mortgage!!$200,000 to $299,999",B25096
+B25096_008E,int,"Estimate!!Total!!With a mortgage!!$300,000 to $499,999",B25096
+B25096_009E,int,"Estimate!!Total!!With a mortgage!!$500,000 or more",B25096
+B25096_010E,int,Estimate!!Total!!Not mortgaged,B25096
+B25096_011E,int,"Estimate!!Total!!Not mortgaged!!Less than $50,000",B25096
+B25096_012E,int,"Estimate!!Total!!Not mortgaged!!$50,000 to $99,999",B25096
+B25096_013E,int,"Estimate!!Total!!Not mortgaged!!$100,000 to $149,999",B25096
+B25096_014E,int,"Estimate!!Total!!Not mortgaged!!$150,000 to $199,999",B25096
+B25096_015E,int,"Estimate!!Total!!Not mortgaged!!$200,000 to $299,999",B25096
+B25096_016E,int,"Estimate!!Total!!Not mortgaged!!$300,000 to $499,999",B25096
+B25096_017E,int,"Estimate!!Total!!Not mortgaged!!$500,000 or more",B25096
+B25096_001M,int,Margin of Error!!Total,B25096
+B25096_002M,int,Margin of Error!!Total!!With a mortgage,B25096
+B25096_003M,int,"Margin of Error!!Total!!With a mortgage!!Less than $50,000",B25096
+B25096_004M,int,"Margin of Error!!Total!!With a mortgage!!$50,000 to $99,999",B25096
+B25096_005M,int,"Margin of Error!!Total!!With a mortgage!!$100,000 to $149,999",B25096
+B25096_006M,int,"Margin of Error!!Total!!With a mortgage!!$150,000 to $199,999",B25096
+B25096_007M,int,"Margin of Error!!Total!!With a mortgage!!$200,000 to $299,999",B25096
+B25096_008M,int,"Margin of Error!!Total!!With a mortgage!!$300,000 to $499,999",B25096
+B25096_009M,int,"Margin of Error!!Total!!With a mortgage!!$500,000 or more",B25096
+B25096_010M,int,Margin of Error!!Total!!Not mortgaged,B25096
+B25096_011M,int,"Margin of Error!!Total!!Not mortgaged!!Less than $50,000",B25096
+B25096_012M,int,"Margin of Error!!Total!!Not mortgaged!!$50,000 to $99,999",B25096
+B25096_013M,int,"Margin of Error!!Total!!Not mortgaged!!$100,000 to $149,999",B25096
+B25096_014M,int,"Margin of Error!!Total!!Not mortgaged!!$150,000 to $199,999",B25096
+B25096_015M,int,"Margin of Error!!Total!!Not mortgaged!!$200,000 to $299,999",B25096
+B25096_016M,int,"Margin of Error!!Total!!Not mortgaged!!$300,000 to $499,999",B25096
+B25096_017M,int,"Margin of Error!!Total!!Not mortgaged!!$500,000 or more",B25096
+B25096_001EA,string,Annotation of Estimate!!Total,B25096
+B25096_001MA,string,Annotation of Margin of Error!!Total,B25096
+B25096_002EA,string,Annotation of Estimate!!Total!!With a mortgage,B25096
+B25096_002MA,string,Annotation of Margin of Error!!Total!!With a mortgage,B25096
+B25096_003EA,string,"Annotation of Estimate!!Total!!With a mortgage!!Less than $50,000",B25096
+B25096_003MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!Less than $50,000",B25096
+B25096_004EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$50,000 to $99,999",B25096
+B25096_004MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$50,000 to $99,999",B25096
+B25096_005EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$100,000 to $149,999",B25096
+B25096_005MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$100,000 to $149,999",B25096
+B25096_006EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$150,000 to $199,999",B25096
+B25096_006MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$150,000 to $199,999",B25096
+B25096_007EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$200,000 to $299,999",B25096
+B25096_007MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$200,000 to $299,999",B25096
+B25096_008EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$300,000 to $499,999",B25096
+B25096_008MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$300,000 to $499,999",B25096
+B25096_009EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$500,000 or more",B25096
+B25096_009MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$500,000 or more",B25096
+B25096_010EA,string,Annotation of Estimate!!Total!!Not mortgaged,B25096
+B25096_010MA,string,Annotation of Margin of Error!!Total!!Not mortgaged,B25096
+B25096_011EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!Less than $50,000",B25096
+B25096_011MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!Less than $50,000",B25096
+B25096_012EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$50,000 to $99,999",B25096
+B25096_012MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$50,000 to $99,999",B25096
+B25096_013EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$100,000 to $149,999",B25096
+B25096_013MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$100,000 to $149,999",B25096
+B25096_014EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$150,000 to $199,999",B25096
+B25096_014MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$150,000 to $199,999",B25096
+B25096_015EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$200,000 to $299,999",B25096
+B25096_015MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$200,000 to $299,999",B25096
+B25096_016EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$300,000 to $499,999",B25096
+B25096_016MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$300,000 to $499,999",B25096
+B25096_017EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$500,000 or more",B25096
+B25096_017MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$500,000 or more",B25096

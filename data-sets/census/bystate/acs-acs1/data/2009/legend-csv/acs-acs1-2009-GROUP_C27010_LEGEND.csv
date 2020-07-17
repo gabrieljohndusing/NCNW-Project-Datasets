@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27010_001E,int,Estimate!!Total,C27010
+C27010_002E,int,Estimate!!Total!!Under 18 years,C27010
+C27010_003E,int,Estimate!!Total!!Under 18 years!!With private health insurance coverage only,C27010
+C27010_004E,int,Estimate!!Total!!Under 18 years!!With public health coverage only,C27010
+C27010_005E,int,Estimate!!Total!!Under 18 years!!With both private and public health coverage,C27010
+C27010_006E,int,Estimate!!Total!!Under 18 years!!No health insurance coverage,C27010
+C27010_007E,int,Estimate!!Total!!18 to 34 years,C27010
+C27010_008E,int,Estimate!!Total!!18 to 34 years!!With private health insurance coverage only,C27010
+C27010_009E,int,Estimate!!Total!!18 to 34 years!!With public health coverage only,C27010
+C27010_010E,int,Estimate!!Total!!18 to 34 years!!With both private and public health coverage,C27010
+C27010_011E,int,Estimate!!Total!!18 to 34 years!!No health insurance coverage,C27010
+C27010_012E,int,Estimate!!Total!!35 to 64 years,C27010
+C27010_013E,int,Estimate!!Total!!35 to 64 years!!With private health insurance coverage only,C27010
+C27010_014E,int,Estimate!!Total!!35 to 64 years!!With public health coverage only,C27010
+C27010_015E,int,Estimate!!Total!!35 to 64 years!!With both private and public health coverage,C27010
+C27010_016E,int,Estimate!!Total!!35 to 64 years!!No health insurance coverage,C27010
+C27010_017E,int,Estimate!!Total!!65 years and over,C27010
+C27010_018E,int,Estimate!!Total!!65 years and over!!With private health insurance coverage only,C27010
+C27010_019E,int,Estimate!!Total!!65 years and over!!With public health coverage only,C27010
+C27010_020E,int,Estimate!!Total!!65 years and over!!With both private and public health coverage,C27010
+C27010_021E,int,Estimate!!Total!!65 years and over!!No health insurance coverage,C27010
+C27010_001M,int,Margin of Error!!Total,C27010
+C27010_002M,int,Margin of Error!!Total!!Under 18 years,C27010
+C27010_003M,int,Margin of Error!!Total!!Under 18 years!!With private health insurance coverage only,C27010
+C27010_004M,int,Margin of Error!!Total!!Under 18 years!!With public health coverage only,C27010
+C27010_005M,int,Margin of Error!!Total!!Under 18 years!!With both private and public health coverage,C27010
+C27010_006M,int,Margin of Error!!Total!!Under 18 years!!No health insurance coverage,C27010
+C27010_007M,int,Margin of Error!!Total!!18 to 34 years,C27010
+C27010_008M,int,Margin of Error!!Total!!18 to 34 years!!With private health insurance coverage only,C27010
+C27010_009M,int,Margin of Error!!Total!!18 to 34 years!!With public health coverage only,C27010
+C27010_010M,int,Margin of Error!!Total!!18 to 34 years!!With both private and public health coverage,C27010
+C27010_011M,int,Margin of Error!!Total!!18 to 34 years!!No health insurance coverage,C27010
+C27010_012M,int,Margin of Error!!Total!!35 to 64 years,C27010
+C27010_013M,int,Margin of Error!!Total!!35 to 64 years!!With private health insurance coverage only,C27010
+C27010_014M,int,Margin of Error!!Total!!35 to 64 years!!With public health coverage only,C27010
+C27010_015M,int,Margin of Error!!Total!!35 to 64 years!!With both private and public health coverage,C27010
+C27010_016M,int,Margin of Error!!Total!!35 to 64 years!!No health insurance coverage,C27010
+C27010_017M,int,Margin of Error!!Total!!65 years and over,C27010
+C27010_018M,int,Margin of Error!!Total!!65 years and over!!With private health insurance coverage only,C27010
+C27010_019M,int,Margin of Error!!Total!!65 years and over!!With public health coverage only,C27010
+C27010_020M,int,Margin of Error!!Total!!65 years and over!!With both private and public health coverage,C27010
+C27010_021M,int,Margin of Error!!Total!!65 years and over!!No health insurance coverage,C27010
+C27010_001EA,string,Annotation of Estimate!!Total,C27010
+C27010_001MA,string,Annotation of Margin of Error!!Total,C27010
+C27010_002EA,string,Annotation of Estimate!!Total!!Under 18 years,C27010
+C27010_002MA,string,Annotation of Margin of Error!!Total!!Under 18 years,C27010
+C27010_003EA,string,Annotation of Estimate!!Total!!Under 18 years!!With private health insurance coverage only,C27010
+C27010_003MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With private health insurance coverage only,C27010
+C27010_004EA,string,Annotation of Estimate!!Total!!Under 18 years!!With public health coverage only,C27010
+C27010_004MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With public health coverage only,C27010
+C27010_005EA,string,Annotation of Estimate!!Total!!Under 18 years!!With both private and public health coverage,C27010
+C27010_005MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With both private and public health coverage,C27010
+C27010_006EA,string,Annotation of Estimate!!Total!!Under 18 years!!No health insurance coverage,C27010
+C27010_006MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!No health insurance coverage,C27010
+C27010_007EA,string,Annotation of Estimate!!Total!!18 to 34 years,C27010
+C27010_007MA,string,Annotation of Margin of Error!!Total!!18 to 34 years,C27010
+C27010_008EA,string,Annotation of Estimate!!Total!!18 to 34 years!!With private health insurance coverage only,C27010
+C27010_008MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!With private health insurance coverage only,C27010
+C27010_009EA,string,Annotation of Estimate!!Total!!18 to 34 years!!With public health coverage only,C27010
+C27010_009MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!With public health coverage only,C27010
+C27010_010EA,string,Annotation of Estimate!!Total!!18 to 34 years!!With both private and public health coverage,C27010
+C27010_010MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!With both private and public health coverage,C27010
+C27010_011EA,string,Annotation of Estimate!!Total!!18 to 34 years!!No health insurance coverage,C27010
+C27010_011MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!No health insurance coverage,C27010
+C27010_012EA,string,Annotation of Estimate!!Total!!35 to 64 years,C27010
+C27010_012MA,string,Annotation of Margin of Error!!Total!!35 to 64 years,C27010
+C27010_013EA,string,Annotation of Estimate!!Total!!35 to 64 years!!With private health insurance coverage only,C27010
+C27010_013MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!With private health insurance coverage only,C27010
+C27010_014EA,string,Annotation of Estimate!!Total!!35 to 64 years!!With public health coverage only,C27010
+C27010_014MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!With public health coverage only,C27010
+C27010_015EA,string,Annotation of Estimate!!Total!!35 to 64 years!!With both private and public health coverage,C27010
+C27010_015MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!With both private and public health coverage,C27010
+C27010_016EA,string,Annotation of Estimate!!Total!!35 to 64 years!!No health insurance coverage,C27010
+C27010_016MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!No health insurance coverage,C27010
+C27010_017EA,string,Annotation of Estimate!!Total!!65 years and over,C27010
+C27010_017MA,string,Annotation of Margin of Error!!Total!!65 years and over,C27010
+C27010_018EA,string,Annotation of Estimate!!Total!!65 years and over!!With private health insurance coverage only,C27010
+C27010_018MA,string,Annotation of Margin of Error!!Total!!65 years and over!!With private health insurance coverage only,C27010
+C27010_019EA,string,Annotation of Estimate!!Total!!65 years and over!!With public health coverage only,C27010
+C27010_019MA,string,Annotation of Margin of Error!!Total!!65 years and over!!With public health coverage only,C27010
+C27010_020EA,string,Annotation of Estimate!!Total!!65 years and over!!With both private and public health coverage,C27010
+C27010_020MA,string,Annotation of Margin of Error!!Total!!65 years and over!!With both private and public health coverage,C27010
+C27010_021EA,string,Annotation of Estimate!!Total!!65 years and over!!No health insurance coverage,C27010
+C27010_021MA,string,Annotation of Margin of Error!!Total!!65 years and over!!No health insurance coverage,C27010

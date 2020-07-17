@@ -1,0 +1,253 @@
+VARIABLE,TYPE,LABEL,GROUP
+B24010E_001E,int,Estimate!!Total,B24010E
+B24010E_002E,int,Estimate!!Total!!Male,B24010E
+B24010E_003E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations",B24010E
+B24010E_004E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations",B24010E
+B24010E_005E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations except farmers and farm managers",B24010E
+B24010E_006E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Farmers and farm managers",B24010E
+B24010E_007E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24010E
+B24010E_008E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations",B24010E
+B24010E_009E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24010E
+B24010E_010E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24010E
+B24010E_011E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24010E
+B24010E_012E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24010E
+B24010E_013E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24010E
+B24010E_014E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24010E
+B24010E_015E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24010E
+B24010E_016E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24010E
+B24010E_017E,int,Estimate!!Total!!Male!!Service occupations,B24010E
+B24010E_018E,int,Estimate!!Total!!Male!!Service occupations!!Healthcare support occupations,B24010E
+B24010E_019E,int,Estimate!!Total!!Male!!Service occupations!!Protective service occupations,B24010E
+B24010E_020E,int,Estimate!!Total!!Male!!Service occupations!!Food preparation and serving related occupations,B24010E
+B24010E_021E,int,Estimate!!Total!!Male!!Service occupations!!Building and grounds cleaning and maintenance occupation,B24010E
+B24010E_022E,int,Estimate!!Total!!Male!!Service occupations!!Personal care and service occupations,B24010E
+B24010E_023E,int,Estimate!!Total!!Male!!Sales and office occupations,B24010E
+B24010E_024E,int,Estimate!!Total!!Male!!Sales and office occupations!!Sales and related occupations,B24010E
+B24010E_025E,int,Estimate!!Total!!Male!!Sales and office occupations!!Office and administrative support occupations,B24010E
+B24010E_026E,int,"Estimate!!Total!!Male!!Farming, fishing, and forestry occupations",B24010E
+B24010E_027E,int,"Estimate!!Total!!Male!!Construction, extraction, maintenance, and repair occupations",B24010E
+B24010E_028E,int,"Estimate!!Total!!Male!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24010E
+B24010E_029E,int,"Estimate!!Total!!Male!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24010E
+B24010E_030E,int,"Estimate!!Total!!Male!!Production, transportation, and material moving occupations",B24010E
+B24010E_031E,int,"Estimate!!Total!!Male!!Production, transportation, and material moving occupations!!Production occupations",B24010E
+B24010E_032E,int,"Estimate!!Total!!Male!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24010E
+B24010E_033E,int,Estimate!!Total!!Female,B24010E
+B24010E_034E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations",B24010E
+B24010E_035E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations",B24010E
+B24010E_036E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations except farmers and farm managers",B24010E
+B24010E_037E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Farmers and farm managers",B24010E
+B24010E_038E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24010E
+B24010E_039E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations",B24010E
+B24010E_040E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24010E
+B24010E_041E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24010E
+B24010E_042E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24010E
+B24010E_043E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24010E
+B24010E_044E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24010E
+B24010E_045E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24010E
+B24010E_046E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24010E
+B24010E_047E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24010E
+B24010E_048E,int,Estimate!!Total!!Female!!Service occupations,B24010E
+B24010E_049E,int,Estimate!!Total!!Female!!Service occupations!!Healthcare support occupations,B24010E
+B24010E_050E,int,Estimate!!Total!!Female!!Service occupations!!Protective service occupations,B24010E
+B24010E_051E,int,Estimate!!Total!!Female!!Service occupations!!Food preparation and serving related occupations,B24010E
+B24010E_052E,int,Estimate!!Total!!Female!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24010E
+B24010E_053E,int,Estimate!!Total!!Female!!Service occupations!!Personal care and service occupations,B24010E
+B24010E_054E,int,Estimate!!Total!!Female!!Sales and office occupations,B24010E
+B24010E_055E,int,Estimate!!Total!!Female!!Sales and office occupations!!Sales and related occupations,B24010E
+B24010E_056E,int,Estimate!!Total!!Female!!Sales and office occupations!!Office and administrative support occupations,B24010E
+B24010E_057E,int,"Estimate!!Total!!Female!!Farming, fishing, and forestry occupations",B24010E
+B24010E_058E,int,"Estimate!!Total!!Female!!Construction, extraction, maintenance, and repair occupations",B24010E
+B24010E_059E,int,"Estimate!!Total!!Female!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24010E
+B24010E_060E,int,"Estimate!!Total!!Female!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24010E
+B24010E_061E,int,"Estimate!!Total!!Female!!Production, transportation, and material moving occupations",B24010E
+B24010E_062E,int,"Estimate!!Total!!Female!!Production, transportation, and material moving occupations!!Production occupations",B24010E
+B24010E_063E,int,"Estimate!!Total!!Female!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24010E
+B24010E_001M,int,Margin of Error!!Total,B24010E
+B24010E_002M,int,Margin of Error!!Total!!Male,B24010E
+B24010E_003M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations",B24010E
+B24010E_004M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations",B24010E
+B24010E_005M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations except farmers and farm managers",B24010E
+B24010E_006M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Farmers and farm managers",B24010E
+B24010E_007M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24010E
+B24010E_008M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations",B24010E
+B24010E_009M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24010E
+B24010E_010M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24010E
+B24010E_011M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24010E
+B24010E_012M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24010E
+B24010E_013M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24010E
+B24010E_014M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24010E
+B24010E_015M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24010E
+B24010E_016M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24010E
+B24010E_017M,int,Margin of Error!!Total!!Male!!Service occupations,B24010E
+B24010E_018M,int,Margin of Error!!Total!!Male!!Service occupations!!Healthcare support occupations,B24010E
+B24010E_019M,int,Margin of Error!!Total!!Male!!Service occupations!!Protective service occupations,B24010E
+B24010E_020M,int,Margin of Error!!Total!!Male!!Service occupations!!Food preparation and serving related occupations,B24010E
+B24010E_021M,int,Margin of Error!!Total!!Male!!Service occupations!!Building and grounds cleaning and maintenance occupation,B24010E
+B24010E_022M,int,Margin of Error!!Total!!Male!!Service occupations!!Personal care and service occupations,B24010E
+B24010E_023M,int,Margin of Error!!Total!!Male!!Sales and office occupations,B24010E
+B24010E_024M,int,Margin of Error!!Total!!Male!!Sales and office occupations!!Sales and related occupations,B24010E
+B24010E_025M,int,Margin of Error!!Total!!Male!!Sales and office occupations!!Office and administrative support occupations,B24010E
+B24010E_026M,int,"Margin of Error!!Total!!Male!!Farming, fishing, and forestry occupations",B24010E
+B24010E_027M,int,"Margin of Error!!Total!!Male!!Construction, extraction, maintenance, and repair occupations",B24010E
+B24010E_028M,int,"Margin of Error!!Total!!Male!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24010E
+B24010E_029M,int,"Margin of Error!!Total!!Male!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24010E
+B24010E_030M,int,"Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations",B24010E
+B24010E_031M,int,"Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations!!Production occupations",B24010E
+B24010E_032M,int,"Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24010E
+B24010E_033M,int,Margin of Error!!Total!!Female,B24010E
+B24010E_034M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations",B24010E
+B24010E_035M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations",B24010E
+B24010E_036M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations except farmers and farm managers",B24010E
+B24010E_037M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Farmers and farm managers",B24010E
+B24010E_038M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24010E
+B24010E_039M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations",B24010E
+B24010E_040M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24010E
+B24010E_041M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24010E
+B24010E_042M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24010E
+B24010E_043M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24010E
+B24010E_044M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24010E
+B24010E_045M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24010E
+B24010E_046M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24010E
+B24010E_047M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24010E
+B24010E_048M,int,Margin of Error!!Total!!Female!!Service occupations,B24010E
+B24010E_049M,int,Margin of Error!!Total!!Female!!Service occupations!!Healthcare support occupations,B24010E
+B24010E_050M,int,Margin of Error!!Total!!Female!!Service occupations!!Protective service occupations,B24010E
+B24010E_051M,int,Margin of Error!!Total!!Female!!Service occupations!!Food preparation and serving related occupations,B24010E
+B24010E_052M,int,Margin of Error!!Total!!Female!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24010E
+B24010E_053M,int,Margin of Error!!Total!!Female!!Service occupations!!Personal care and service occupations,B24010E
+B24010E_054M,int,Margin of Error!!Total!!Female!!Sales and office occupations,B24010E
+B24010E_055M,int,Margin of Error!!Total!!Female!!Sales and office occupations!!Sales and related occupations,B24010E
+B24010E_056M,int,Margin of Error!!Total!!Female!!Sales and office occupations!!Office and administrative support occupations,B24010E
+B24010E_057M,int,"Margin of Error!!Total!!Female!!Farming, fishing, and forestry occupations",B24010E
+B24010E_058M,int,"Margin of Error!!Total!!Female!!Construction, extraction, maintenance, and repair occupations",B24010E
+B24010E_059M,int,"Margin of Error!!Total!!Female!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24010E
+B24010E_060M,int,"Margin of Error!!Total!!Female!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24010E
+B24010E_061M,int,"Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations",B24010E
+B24010E_062M,int,"Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations!!Production occupations",B24010E
+B24010E_063M,int,"Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24010E
+B24010E_001EA,string,Annotation of Estimate!!Total,B24010E
+B24010E_001MA,string,Annotation of Margin of Error!!Total,B24010E
+B24010E_002EA,string,Annotation of Estimate!!Total!!Male,B24010E
+B24010E_002MA,string,Annotation of Margin of Error!!Total!!Male,B24010E
+B24010E_003EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations",B24010E
+B24010E_003MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations",B24010E
+B24010E_004EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations",B24010E
+B24010E_004MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations",B24010E
+B24010E_005EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations except farmers and farm managers",B24010E
+B24010E_005MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations except farmers and farm managers",B24010E
+B24010E_006EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Farmers and farm managers",B24010E
+B24010E_006MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Farmers and farm managers",B24010E
+B24010E_007EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24010E
+B24010E_007MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24010E
+B24010E_008EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations",B24010E
+B24010E_008MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations",B24010E
+B24010E_009EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24010E
+B24010E_009MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24010E
+B24010E_010EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24010E
+B24010E_010MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24010E
+B24010E_011EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24010E
+B24010E_011MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24010E
+B24010E_012EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24010E
+B24010E_012MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24010E
+B24010E_013EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24010E
+B24010E_013MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24010E
+B24010E_014EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24010E
+B24010E_014MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24010E
+B24010E_015EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24010E
+B24010E_015MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24010E
+B24010E_016EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24010E
+B24010E_016MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24010E
+B24010E_017EA,string,Annotation of Estimate!!Total!!Male!!Service occupations,B24010E
+B24010E_017MA,string,Annotation of Margin of Error!!Total!!Male!!Service occupations,B24010E
+B24010E_018EA,string,Annotation of Estimate!!Total!!Male!!Service occupations!!Healthcare support occupations,B24010E
+B24010E_018MA,string,Annotation of Margin of Error!!Total!!Male!!Service occupations!!Healthcare support occupations,B24010E
+B24010E_019EA,string,Annotation of Estimate!!Total!!Male!!Service occupations!!Protective service occupations,B24010E
+B24010E_019MA,string,Annotation of Margin of Error!!Total!!Male!!Service occupations!!Protective service occupations,B24010E
+B24010E_020EA,string,Annotation of Estimate!!Total!!Male!!Service occupations!!Food preparation and serving related occupations,B24010E
+B24010E_020MA,string,Annotation of Margin of Error!!Total!!Male!!Service occupations!!Food preparation and serving related occupations,B24010E
+B24010E_021EA,string,Annotation of Estimate!!Total!!Male!!Service occupations!!Building and grounds cleaning and maintenance occupation,B24010E
+B24010E_021MA,string,Annotation of Margin of Error!!Total!!Male!!Service occupations!!Building and grounds cleaning and maintenance occupation,B24010E
+B24010E_022EA,string,Annotation of Estimate!!Total!!Male!!Service occupations!!Personal care and service occupations,B24010E
+B24010E_022MA,string,Annotation of Margin of Error!!Total!!Male!!Service occupations!!Personal care and service occupations,B24010E
+B24010E_023EA,string,Annotation of Estimate!!Total!!Male!!Sales and office occupations,B24010E
+B24010E_023MA,string,Annotation of Margin of Error!!Total!!Male!!Sales and office occupations,B24010E
+B24010E_024EA,string,Annotation of Estimate!!Total!!Male!!Sales and office occupations!!Sales and related occupations,B24010E
+B24010E_024MA,string,Annotation of Margin of Error!!Total!!Male!!Sales and office occupations!!Sales and related occupations,B24010E
+B24010E_025EA,string,Annotation of Estimate!!Total!!Male!!Sales and office occupations!!Office and administrative support occupations,B24010E
+B24010E_025MA,string,Annotation of Margin of Error!!Total!!Male!!Sales and office occupations!!Office and administrative support occupations,B24010E
+B24010E_026EA,string,"Annotation of Estimate!!Total!!Male!!Farming, fishing, and forestry occupations",B24010E
+B24010E_026MA,string,"Annotation of Margin of Error!!Total!!Male!!Farming, fishing, and forestry occupations",B24010E
+B24010E_027EA,string,"Annotation of Estimate!!Total!!Male!!Construction, extraction, maintenance, and repair occupations",B24010E
+B24010E_027MA,string,"Annotation of Margin of Error!!Total!!Male!!Construction, extraction, maintenance, and repair occupations",B24010E
+B24010E_028EA,string,"Annotation of Estimate!!Total!!Male!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24010E
+B24010E_028MA,string,"Annotation of Margin of Error!!Total!!Male!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24010E
+B24010E_029EA,string,"Annotation of Estimate!!Total!!Male!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24010E
+B24010E_029MA,string,"Annotation of Margin of Error!!Total!!Male!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24010E
+B24010E_030EA,string,"Annotation of Estimate!!Total!!Male!!Production, transportation, and material moving occupations",B24010E
+B24010E_030MA,string,"Annotation of Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations",B24010E
+B24010E_031EA,string,"Annotation of Estimate!!Total!!Male!!Production, transportation, and material moving occupations!!Production occupations",B24010E
+B24010E_031MA,string,"Annotation of Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations!!Production occupations",B24010E
+B24010E_032EA,string,"Annotation of Estimate!!Total!!Male!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24010E
+B24010E_032MA,string,"Annotation of Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24010E
+B24010E_033EA,string,Annotation of Estimate!!Total!!Female,B24010E
+B24010E_033MA,string,Annotation of Margin of Error!!Total!!Female,B24010E
+B24010E_034EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations",B24010E
+B24010E_034MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations",B24010E
+B24010E_035EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations",B24010E
+B24010E_035MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations",B24010E
+B24010E_036EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations except farmers and farm managers",B24010E
+B24010E_036MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Management occupations except farmers and farm managers",B24010E
+B24010E_037EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Farmers and farm managers",B24010E
+B24010E_037MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Farmers and farm managers",B24010E
+B24010E_038EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24010E
+B24010E_038MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Management, business, and financial occupations!!Business and financial operations occupations",B24010E
+B24010E_039EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations",B24010E
+B24010E_039MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations",B24010E
+B24010E_040EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24010E
+B24010E_040MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Computer and mathematical occupations",B24010E
+B24010E_041EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24010E
+B24010E_041MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Architecture and engineering occupations",B24010E
+B24010E_042EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24010E
+B24010E_042MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Life, physical, and social science occupations",B24010E
+B24010E_043EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24010E
+B24010E_043MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Community and social services occupations",B24010E
+B24010E_044EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24010E
+B24010E_044MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Legal occupations",B24010E
+B24010E_045EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24010E
+B24010E_045MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Education, training, and library occupations",B24010E
+B24010E_046EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24010E
+B24010E_046MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Arts, design, entertainment, sports, and media occupations",B24010E
+B24010E_047EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24010E
+B24010E_047MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations!!Professional and related occupations!!Healthcare practitioner and technical occupations",B24010E
+B24010E_048EA,string,Annotation of Estimate!!Total!!Female!!Service occupations,B24010E
+B24010E_048MA,string,Annotation of Margin of Error!!Total!!Female!!Service occupations,B24010E
+B24010E_049EA,string,Annotation of Estimate!!Total!!Female!!Service occupations!!Healthcare support occupations,B24010E
+B24010E_049MA,string,Annotation of Margin of Error!!Total!!Female!!Service occupations!!Healthcare support occupations,B24010E
+B24010E_050EA,string,Annotation of Estimate!!Total!!Female!!Service occupations!!Protective service occupations,B24010E
+B24010E_050MA,string,Annotation of Margin of Error!!Total!!Female!!Service occupations!!Protective service occupations,B24010E
+B24010E_051EA,string,Annotation of Estimate!!Total!!Female!!Service occupations!!Food preparation and serving related occupations,B24010E
+B24010E_051MA,string,Annotation of Margin of Error!!Total!!Female!!Service occupations!!Food preparation and serving related occupations,B24010E
+B24010E_052EA,string,Annotation of Estimate!!Total!!Female!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24010E
+B24010E_052MA,string,Annotation of Margin of Error!!Total!!Female!!Service occupations!!Building and grounds cleaning and maintenance occupations,B24010E
+B24010E_053EA,string,Annotation of Estimate!!Total!!Female!!Service occupations!!Personal care and service occupations,B24010E
+B24010E_053MA,string,Annotation of Margin of Error!!Total!!Female!!Service occupations!!Personal care and service occupations,B24010E
+B24010E_054EA,string,Annotation of Estimate!!Total!!Female!!Sales and office occupations,B24010E
+B24010E_054MA,string,Annotation of Margin of Error!!Total!!Female!!Sales and office occupations,B24010E
+B24010E_055EA,string,Annotation of Estimate!!Total!!Female!!Sales and office occupations!!Sales and related occupations,B24010E
+B24010E_055MA,string,Annotation of Margin of Error!!Total!!Female!!Sales and office occupations!!Sales and related occupations,B24010E
+B24010E_056EA,string,Annotation of Estimate!!Total!!Female!!Sales and office occupations!!Office and administrative support occupations,B24010E
+B24010E_056MA,string,Annotation of Margin of Error!!Total!!Female!!Sales and office occupations!!Office and administrative support occupations,B24010E
+B24010E_057EA,string,"Annotation of Estimate!!Total!!Female!!Farming, fishing, and forestry occupations",B24010E
+B24010E_057MA,string,"Annotation of Margin of Error!!Total!!Female!!Farming, fishing, and forestry occupations",B24010E
+B24010E_058EA,string,"Annotation of Estimate!!Total!!Female!!Construction, extraction, maintenance, and repair occupations",B24010E
+B24010E_058MA,string,"Annotation of Margin of Error!!Total!!Female!!Construction, extraction, maintenance, and repair occupations",B24010E
+B24010E_059EA,string,"Annotation of Estimate!!Total!!Female!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24010E
+B24010E_059MA,string,"Annotation of Margin of Error!!Total!!Female!!Construction, extraction, maintenance, and repair occupations!!Construction and extraction occupations",B24010E
+B24010E_060EA,string,"Annotation of Estimate!!Total!!Female!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24010E
+B24010E_060MA,string,"Annotation of Margin of Error!!Total!!Female!!Construction, extraction, maintenance, and repair occupations!!Installation, maintenance, and repair occupations",B24010E
+B24010E_061EA,string,"Annotation of Estimate!!Total!!Female!!Production, transportation, and material moving occupations",B24010E
+B24010E_061MA,string,"Annotation of Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations",B24010E
+B24010E_062EA,string,"Annotation of Estimate!!Total!!Female!!Production, transportation, and material moving occupations!!Production occupations",B24010E
+B24010E_062MA,string,"Annotation of Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations!!Production occupations",B24010E
+B24010E_063EA,string,"Annotation of Estimate!!Total!!Female!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24010E
+B24010E_063MA,string,"Annotation of Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations!!Transportation and material moving occupations",B24010E

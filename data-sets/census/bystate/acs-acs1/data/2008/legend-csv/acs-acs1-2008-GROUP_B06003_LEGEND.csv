@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+B06003_001E,int,Estimate!!Total,B06003
+B06003_002E,int,Estimate!!Total!!Male,B06003
+B06003_003E,int,Estimate!!Total!!Female,B06003
+B06003_004E,int,Estimate!!Total!!Born in state of residence,B06003
+B06003_005E,int,Estimate!!Total!!Born in state of residence!!Male,B06003
+B06003_006E,int,Estimate!!Total!!Born in state of residence!!Female,B06003
+B06003_007E,int,Estimate!!Total!!Born in other state in the United States,B06003
+B06003_008E,int,Estimate!!Total!!Born in other state in the United States!!Male,B06003
+B06003_009E,int,Estimate!!Total!!Born in other state in the United States!!Female,B06003
+B06003_010E,int,Estimate!!Total!!Native; born outside the United States,B06003
+B06003_011E,int,Estimate!!Total!!Native; born outside the United States!!Male,B06003
+B06003_012E,int,Estimate!!Total!!Native; born outside the United States!!Female,B06003
+B06003_013E,int,Estimate!!Total!!Foreign born,B06003
+B06003_014E,int,Estimate!!Total!!Foreign born!!Male,B06003
+B06003_015E,int,Estimate!!Total!!Foreign born!!Female,B06003
+B06003_001M,int,Margin of Error!!Total,B06003
+B06003_002M,int,Margin of Error!!Total!!Male,B06003
+B06003_003M,int,Margin of Error!!Total!!Female,B06003
+B06003_004M,int,Margin of Error!!Total!!Born in state of residence,B06003
+B06003_005M,int,Margin of Error!!Total!!Born in state of residence!!Male,B06003
+B06003_006M,int,Margin of Error!!Total!!Born in state of residence!!Female,B06003
+B06003_007M,int,Margin of Error!!Total!!Born in other state in the United States,B06003
+B06003_008M,int,Margin of Error!!Total!!Born in other state in the United States!!Male,B06003
+B06003_009M,int,Margin of Error!!Total!!Born in other state in the United States!!Female,B06003
+B06003_010M,int,Margin of Error!!Total!!Native; born outside the United States,B06003
+B06003_011M,int,Margin of Error!!Total!!Native; born outside the United States!!Male,B06003
+B06003_012M,int,Margin of Error!!Total!!Native; born outside the United States!!Female,B06003
+B06003_013M,int,Margin of Error!!Total!!Foreign born,B06003
+B06003_014M,int,Margin of Error!!Total!!Foreign born!!Male,B06003
+B06003_015M,int,Margin of Error!!Total!!Foreign born!!Female,B06003
+B06003_001EA,string,Annotation of Estimate!!Total,B06003
+B06003_001MA,string,Annotation of Margin of Error!!Total,B06003
+B06003_002EA,string,Annotation of Estimate!!Total!!Male,B06003
+B06003_002MA,string,Annotation of Margin of Error!!Total!!Male,B06003
+B06003_003EA,string,Annotation of Estimate!!Total!!Female,B06003
+B06003_003MA,string,Annotation of Margin of Error!!Total!!Female,B06003
+B06003_004EA,string,Annotation of Estimate!!Total!!Born in state of residence,B06003
+B06003_004MA,string,Annotation of Margin of Error!!Total!!Born in state of residence,B06003
+B06003_005EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Male,B06003
+B06003_005MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Male,B06003
+B06003_006EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Female,B06003
+B06003_006MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Female,B06003
+B06003_007EA,string,Annotation of Estimate!!Total!!Born in other state in the United States,B06003
+B06003_007MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States,B06003
+B06003_008EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Male,B06003
+B06003_008MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Male,B06003
+B06003_009EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Female,B06003
+B06003_009MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Female,B06003
+B06003_010EA,string,Annotation of Estimate!!Total!!Native; born outside the United States,B06003
+B06003_010MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States,B06003
+B06003_011EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Male,B06003
+B06003_011MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Male,B06003
+B06003_012EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Female,B06003
+B06003_012MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Female,B06003
+B06003_013EA,string,Annotation of Estimate!!Total!!Foreign born,B06003
+B06003_013MA,string,Annotation of Margin of Error!!Total!!Foreign born,B06003
+B06003_014EA,string,Annotation of Estimate!!Total!!Foreign born!!Male,B06003
+B06003_014MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Male,B06003
+B06003_015EA,string,Annotation of Estimate!!Total!!Foreign born!!Female,B06003
+B06003_015MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Female,B06003

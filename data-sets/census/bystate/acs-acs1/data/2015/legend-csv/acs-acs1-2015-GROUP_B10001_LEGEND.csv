@@ -1,0 +1,17 @@
+VARIABLE,TYPE,LABEL,GROUP
+B10001_001E,int,Estimate!!Total,B10001
+B10001_002E,int,Estimate!!Total!!Grandchildren under 6 years,B10001
+B10001_003E,int,Estimate!!Total!!Grandchildren 6 to 11 years,B10001
+B10001_004E,int,Estimate!!Total!!Grandchildren 12 to 17 years,B10001
+B10001_001M,int,Margin of Error!!Total,B10001
+B10001_002M,int,Margin of Error!!Total!!Grandchildren under 6 years,B10001
+B10001_003M,int,Margin of Error!!Total!!Grandchildren 6 to 11 years,B10001
+B10001_004M,int,Margin of Error!!Total!!Grandchildren 12 to 17 years,B10001
+B10001_001EA,string,Annotation of Estimate!!Total,B10001
+B10001_001MA,string,Annotation of Margin of Error!!Total,B10001
+B10001_002EA,string,Annotation of Estimate!!Total!!Grandchildren under 6 years,B10001
+B10001_002MA,string,Annotation of Margin of Error!!Total!!Grandchildren under 6 years,B10001
+B10001_003EA,string,Annotation of Estimate!!Total!!Grandchildren 6 to 11 years,B10001
+B10001_003MA,string,Annotation of Margin of Error!!Total!!Grandchildren 6 to 11 years,B10001
+B10001_004EA,string,Annotation of Estimate!!Total!!Grandchildren 12 to 17 years,B10001
+B10001_004MA,string,Annotation of Margin of Error!!Total!!Grandchildren 12 to 17 years,B10001

@@ -1,0 +1,93 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17023_001E,int,Estimate!!Total,C17023
+C17023_002E,int,Estimate!!Total!!Income in the past 12 months below poverty level,C17023
+C17023_003E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family,C17023
+C17023_004E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!No own child,C17023
+C17023_005E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!With own children,C17023
+C17023_006E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Other families,C17023
+C17023_007E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present",C17023
+C17023_008E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present!!No own child",C17023
+C17023_009E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present!!With own children",C17023
+C17023_010E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present",C17023
+C17023_011E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present!!No own child",C17023
+C17023_012E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present!!With own children",C17023
+C17023_013E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level,C17023
+C17023_014E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family,C17023
+C17023_015E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!No own child,C17023
+C17023_016E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!With own children,C17023
+C17023_017E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families,C17023
+C17023_018E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present",C17023
+C17023_019E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present!!No own child",C17023
+C17023_020E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present!!With own children",C17023
+C17023_021E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present",C17023
+C17023_022E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present!!No own child",C17023
+C17023_023E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present!!With own children",C17023
+C17023_001M,int,Margin of Error!!Total,C17023
+C17023_002M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level,C17023
+C17023_003M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family,C17023
+C17023_004M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!No own child,C17023
+C17023_005M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!With own children,C17023
+C17023_006M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families,C17023
+C17023_007M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present",C17023
+C17023_008M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present!!No own child",C17023
+C17023_009M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present!!With own children",C17023
+C17023_010M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present",C17023
+C17023_011M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present!!No own child",C17023
+C17023_012M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present!!With own children",C17023
+C17023_013M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17023
+C17023_014M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family,C17023
+C17023_015M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!No own child,C17023
+C17023_016M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!With own children,C17023
+C17023_017M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families,C17023
+C17023_018M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present",C17023
+C17023_019M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present!!No own child",C17023
+C17023_020M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present!!With own children",C17023
+C17023_021M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present",C17023
+C17023_022M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present!!No own child",C17023
+C17023_023M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present!!With own children",C17023
+C17023_001EA,string,Annotation of Estimate!!Total,C17023
+C17023_001MA,string,Annotation of Margin of Error!!Total,C17023
+C17023_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level,C17023
+C17023_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level,C17023
+C17023_003EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family,C17023
+C17023_003MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family,C17023
+C17023_004EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!No own child,C17023
+C17023_004MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!No own child,C17023
+C17023_005EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!With own children,C17023
+C17023_005MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!With own children,C17023
+C17023_006EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other families,C17023
+C17023_006MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families,C17023
+C17023_007EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present",C17023
+C17023_007MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present",C17023
+C17023_008EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present!!No own child",C17023
+C17023_008MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present!!No own child",C17023
+C17023_009EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present!!With own children",C17023
+C17023_009MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Male householder, no wife present!!With own children",C17023
+C17023_010EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present",C17023
+C17023_010MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present",C17023
+C17023_011EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present!!No own child",C17023
+C17023_011MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present!!No own child",C17023
+C17023_012EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present!!With own children",C17023
+C17023_012MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other families!!Female householder, no husband present!!With own children",C17023
+C17023_013EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level,C17023
+C17023_013MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17023
+C17023_014EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family,C17023
+C17023_014MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family,C17023
+C17023_015EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!No own child,C17023
+C17023_015MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!No own child,C17023
+C17023_016EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!With own children,C17023
+C17023_016MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!With own children,C17023
+C17023_017EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families,C17023
+C17023_017MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families,C17023
+C17023_018EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present",C17023
+C17023_018MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present",C17023
+C17023_019EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present!!No own child",C17023
+C17023_019MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present!!No own child",C17023
+C17023_020EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present!!With own children",C17023
+C17023_020MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Male householder, no wife present!!With own children",C17023
+C17023_021EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present",C17023
+C17023_021MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present",C17023
+C17023_022EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present!!No own child",C17023
+C17023_022MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present!!No own child",C17023
+C17023_023EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present!!With own children",C17023
+C17023_023MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other families!!Female householder, no husband present!!With own children",C17023

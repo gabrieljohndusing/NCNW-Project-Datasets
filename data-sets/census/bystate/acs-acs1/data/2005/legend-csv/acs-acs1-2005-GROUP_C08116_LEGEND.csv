@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+C08116_001E,int,Estimate!!Aggregate travel time to work (in minutes),C08116
+C08116_002E,int,Estimate!!Aggregate travel time to work (in minutes)!!Never married,C08116
+C08116_003E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Now married, except separated",C08116
+C08116_004E,int,Estimate!!Aggregate travel time to work (in minutes)!!Divorced or separated,C08116
+C08116_005E,int,Estimate!!Aggregate travel time to work (in minutes)!!Widowed,C08116
+C08116_001M,int,Margin of Error!!Aggregate travel time to work (in minutes),C08116
+C08116_002M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Never married,C08116
+C08116_003M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Now married, except separated",C08116
+C08116_004M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Divorced or separated,C08116
+C08116_005M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Widowed,C08116
+C08116_001EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes),C08116
+C08116_001MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes),C08116
+C08116_002EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Never married,C08116
+C08116_002MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Never married,C08116
+C08116_003EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Now married, except separated",C08116
+C08116_003MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Now married, except separated",C08116
+C08116_004EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Divorced or separated,C08116
+C08116_004MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Divorced or separated,C08116
+C08116_005EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Widowed,C08116
+C08116_005MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Widowed,C08116

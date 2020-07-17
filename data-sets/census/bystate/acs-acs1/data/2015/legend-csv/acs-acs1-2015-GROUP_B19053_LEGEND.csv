@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19053_001E,int,Estimate!!Total,B19053
+B19053_002E,int,Estimate!!Total!!With self-employment income,B19053
+B19053_003E,int,Estimate!!Total!!No self-employment income,B19053
+B19053_001M,int,Margin of Error!!Total,B19053
+B19053_002M,int,Margin of Error!!Total!!With self-employment income,B19053
+B19053_003M,int,Margin of Error!!Total!!No self-employment income,B19053
+B19053_001EA,string,Annotation of Estimate!!Total,B19053
+B19053_001MA,string,Annotation of Margin of Error!!Total,B19053
+B19053_002EA,string,Annotation of Estimate!!Total!!With self-employment income,B19053
+B19053_002MA,string,Annotation of Margin of Error!!Total!!With self-employment income,B19053
+B19053_003EA,string,Annotation of Estimate!!Total!!No self-employment income,B19053
+B19053_003MA,string,Annotation of Margin of Error!!Total!!No self-employment income,B19053

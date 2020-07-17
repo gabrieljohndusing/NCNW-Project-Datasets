@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+C08505F_001E,int,Estimate!!Total,C08505F
+C08505F_002E,int,"Estimate!!Total!!Car, truck, or van - drove alone",C08505F
+C08505F_003E,int,"Estimate!!Total!!Car, truck, or van - carpooled",C08505F
+C08505F_004E,int,Estimate!!Total!!Public transportation (excluding taxicab),C08505F
+C08505F_005E,int,"Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means",C08505F
+C08505F_006E,int,Estimate!!Total!!Worked at home,C08505F
+C08505F_001M,int,Margin of Error!!Total,C08505F
+C08505F_002M,int,"Margin of Error!!Total!!Car, truck, or van - drove alone",C08505F
+C08505F_003M,int,"Margin of Error!!Total!!Car, truck, or van - carpooled",C08505F
+C08505F_004M,int,Margin of Error!!Total!!Public transportation (excluding taxicab),C08505F
+C08505F_005M,int,"Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means",C08505F
+C08505F_006M,int,Margin of Error!!Total!!Worked at home,C08505F
+C08505F_001EA,string,Annotation of Estimate!!Total,C08505F
+C08505F_001MA,string,Annotation of Margin of Error!!Total,C08505F
+C08505F_002EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - drove alone",C08505F
+C08505F_002MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - drove alone",C08505F
+C08505F_003EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - carpooled",C08505F
+C08505F_003MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - carpooled",C08505F
+C08505F_004EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab),C08505F
+C08505F_004MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab),C08505F
+C08505F_005EA,string,"Annotation of Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means",C08505F
+C08505F_005MA,string,"Annotation of Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means",C08505F
+C08505F_006EA,string,Annotation of Estimate!!Total!!Worked at home,C08505F
+C08505F_006MA,string,Annotation of Margin of Error!!Total!!Worked at home,C08505F

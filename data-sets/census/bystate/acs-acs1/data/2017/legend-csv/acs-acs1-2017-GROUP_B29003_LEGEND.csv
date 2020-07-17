@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B29003_001E,int,Estimate!!Total,B29003
+B29003_002E,int,Estimate!!Total!!Income in the past 12 months below poverty level,B29003
+B29003_003E,int,Estimate!!Total!!Income in the past 12 months at or above the poverty level,B29003
+B29003_001M,int,Margin of Error!!Total,B29003
+B29003_002M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level,B29003
+B29003_003M,int,Margin of Error!!Total!!Income in the past 12 months at or above the poverty level,B29003
+B29003_001EA,string,Annotation of Estimate!!Total,B29003
+B29003_001MA,string,Annotation of Margin of Error!!Total,B29003
+B29003_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level,B29003
+B29003_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level,B29003
+B29003_003EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level,B29003
+B29003_003MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level,B29003

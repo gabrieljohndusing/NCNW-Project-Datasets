@@ -1,0 +1,105 @@
+VARIABLE,TYPE,LABEL,GROUP
+B27015_001E,int,Estimate!!Total,B27015
+B27015_002E,int,"Estimate!!Total!!Under $25,000",B27015
+B27015_003E,int,"Estimate!!Total!!Under $25,000!!With health insurance coverage",B27015
+B27015_004E,int,"Estimate!!Total!!Under $25,000!!With health insurance coverage!!With private health insurance",B27015
+B27015_005E,int,"Estimate!!Total!!Under $25,000!!With health insurance coverage!!With public coverage",B27015
+B27015_006E,int,"Estimate!!Total!!Under $25,000!!No health insurance coverage",B27015
+B27015_007E,int,"Estimate!!Total!!$25,000 to $49,999",B27015
+B27015_008E,int,"Estimate!!Total!!$25,000 to $49,999!!With health insurance coverage",B27015
+B27015_009E,int,"Estimate!!Total!!$25,000 to $49,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_010E,int,"Estimate!!Total!!$25,000 to $49,999!!With health insurance coverage!!With public coverage",B27015
+B27015_011E,int,"Estimate!!Total!!$25,000 to $49,999!!No health insurance coverage",B27015
+B27015_012E,int,"Estimate!!Total!!$50,000 to $74,999",B27015
+B27015_013E,int,"Estimate!!Total!!$50,000 to $74,999!!With health insurance coverage",B27015
+B27015_014E,int,"Estimate!!Total!!$50,000 to $74,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_015E,int,"Estimate!!Total!!$50,000 to $74,999!!With health insurance coverage!!With public coverage",B27015
+B27015_016E,int,"Estimate!!Total!!$50,000 to $74,999!!No health insurance coverage",B27015
+B27015_017E,int,"Estimate!!Total!!$75,000 to $99,999",B27015
+B27015_018E,int,"Estimate!!Total!!$75,000 to $99,999!!With health insurance coverage",B27015
+B27015_019E,int,"Estimate!!Total!!$75,000 to $99,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_020E,int,"Estimate!!Total!!$75,000 to $99,999!!With health insurance coverage!!With public coverage",B27015
+B27015_021E,int,"Estimate!!Total!!$75,000 to $99,999!!No health insurance coverage",B27015
+B27015_022E,int,"Estimate!!Total!!$100,000 or more",B27015
+B27015_023E,int,"Estimate!!Total!!$100,000 or more!!With health insurance coverage",B27015
+B27015_024E,int,"Estimate!!Total!!$100,000 or more!!With health insurance coverage!!With private health insurance",B27015
+B27015_025E,int,"Estimate!!Total!!$100,000 or more!!With health insurance coverage!!With public coverage",B27015
+B27015_026E,int,"Estimate!!Total!!$100,000 or more!!No health insurance coverage",B27015
+B27015_001M,int,Margin of Error!!Total,B27015
+B27015_002M,int,"Margin of Error!!Total!!Under $25,000",B27015
+B27015_003M,int,"Margin of Error!!Total!!Under $25,000!!With health insurance coverage",B27015
+B27015_004M,int,"Margin of Error!!Total!!Under $25,000!!With health insurance coverage!!With private health insurance",B27015
+B27015_005M,int,"Margin of Error!!Total!!Under $25,000!!With health insurance coverage!!With public coverage",B27015
+B27015_006M,int,"Margin of Error!!Total!!Under $25,000!!No health insurance coverage",B27015
+B27015_007M,int,"Margin of Error!!Total!!$25,000 to $49,999",B27015
+B27015_008M,int,"Margin of Error!!Total!!$25,000 to $49,999!!With health insurance coverage",B27015
+B27015_009M,int,"Margin of Error!!Total!!$25,000 to $49,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_010M,int,"Margin of Error!!Total!!$25,000 to $49,999!!With health insurance coverage!!With public coverage",B27015
+B27015_011M,int,"Margin of Error!!Total!!$25,000 to $49,999!!No health insurance coverage",B27015
+B27015_012M,int,"Margin of Error!!Total!!$50,000 to $74,999",B27015
+B27015_013M,int,"Margin of Error!!Total!!$50,000 to $74,999!!With health insurance coverage",B27015
+B27015_014M,int,"Margin of Error!!Total!!$50,000 to $74,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_015M,int,"Margin of Error!!Total!!$50,000 to $74,999!!With health insurance coverage!!With public coverage",B27015
+B27015_016M,int,"Margin of Error!!Total!!$50,000 to $74,999!!No health insurance coverage",B27015
+B27015_017M,int,"Margin of Error!!Total!!$75,000 to $99,999",B27015
+B27015_018M,int,"Margin of Error!!Total!!$75,000 to $99,999!!With health insurance coverage",B27015
+B27015_019M,int,"Margin of Error!!Total!!$75,000 to $99,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_020M,int,"Margin of Error!!Total!!$75,000 to $99,999!!With health insurance coverage!!With public coverage",B27015
+B27015_021M,int,"Margin of Error!!Total!!$75,000 to $99,999!!No health insurance coverage",B27015
+B27015_022M,int,"Margin of Error!!Total!!$100,000 or more",B27015
+B27015_023M,int,"Margin of Error!!Total!!$100,000 or more!!With health insurance coverage",B27015
+B27015_024M,int,"Margin of Error!!Total!!$100,000 or more!!With health insurance coverage!!With private health insurance",B27015
+B27015_025M,int,"Margin of Error!!Total!!$100,000 or more!!With health insurance coverage!!With public coverage",B27015
+B27015_026M,int,"Margin of Error!!Total!!$100,000 or more!!No health insurance coverage",B27015
+B27015_001EA,string,Annotation of Estimate!!Total,B27015
+B27015_001MA,string,Annotation of Margin of Error!!Total,B27015
+B27015_002EA,string,"Annotation of Estimate!!Total!!Under $25,000",B27015
+B27015_002MA,string,"Annotation of Margin of Error!!Total!!Under $25,000",B27015
+B27015_003EA,string,"Annotation of Estimate!!Total!!Under $25,000!!With health insurance coverage",B27015
+B27015_003MA,string,"Annotation of Margin of Error!!Total!!Under $25,000!!With health insurance coverage",B27015
+B27015_004EA,string,"Annotation of Estimate!!Total!!Under $25,000!!With health insurance coverage!!With private health insurance",B27015
+B27015_004MA,string,"Annotation of Margin of Error!!Total!!Under $25,000!!With health insurance coverage!!With private health insurance",B27015
+B27015_005EA,string,"Annotation of Estimate!!Total!!Under $25,000!!With health insurance coverage!!With public coverage",B27015
+B27015_005MA,string,"Annotation of Margin of Error!!Total!!Under $25,000!!With health insurance coverage!!With public coverage",B27015
+B27015_006EA,string,"Annotation of Estimate!!Total!!Under $25,000!!No health insurance coverage",B27015
+B27015_006MA,string,"Annotation of Margin of Error!!Total!!Under $25,000!!No health insurance coverage",B27015
+B27015_007EA,string,"Annotation of Estimate!!Total!!$25,000 to $49,999",B27015
+B27015_007MA,string,"Annotation of Margin of Error!!Total!!$25,000 to $49,999",B27015
+B27015_008EA,string,"Annotation of Estimate!!Total!!$25,000 to $49,999!!With health insurance coverage",B27015
+B27015_008MA,string,"Annotation of Margin of Error!!Total!!$25,000 to $49,999!!With health insurance coverage",B27015
+B27015_009EA,string,"Annotation of Estimate!!Total!!$25,000 to $49,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_009MA,string,"Annotation of Margin of Error!!Total!!$25,000 to $49,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_010EA,string,"Annotation of Estimate!!Total!!$25,000 to $49,999!!With health insurance coverage!!With public coverage",B27015
+B27015_010MA,string,"Annotation of Margin of Error!!Total!!$25,000 to $49,999!!With health insurance coverage!!With public coverage",B27015
+B27015_011EA,string,"Annotation of Estimate!!Total!!$25,000 to $49,999!!No health insurance coverage",B27015
+B27015_011MA,string,"Annotation of Margin of Error!!Total!!$25,000 to $49,999!!No health insurance coverage",B27015
+B27015_012EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999",B27015
+B27015_012MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999",B27015
+B27015_013EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!With health insurance coverage",B27015
+B27015_013MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!With health insurance coverage",B27015
+B27015_014EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_014MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_015EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!With health insurance coverage!!With public coverage",B27015
+B27015_015MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!With health insurance coverage!!With public coverage",B27015
+B27015_016EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!No health insurance coverage",B27015
+B27015_016MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!No health insurance coverage",B27015
+B27015_017EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999",B27015
+B27015_017MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999",B27015
+B27015_018EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!With health insurance coverage",B27015
+B27015_018MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!With health insurance coverage",B27015
+B27015_019EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_019MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!With health insurance coverage!!With private health insurance",B27015
+B27015_020EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!With health insurance coverage!!With public coverage",B27015
+B27015_020MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!With health insurance coverage!!With public coverage",B27015
+B27015_021EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!No health insurance coverage",B27015
+B27015_021MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!No health insurance coverage",B27015
+B27015_022EA,string,"Annotation of Estimate!!Total!!$100,000 or more",B27015
+B27015_022MA,string,"Annotation of Margin of Error!!Total!!$100,000 or more",B27015
+B27015_023EA,string,"Annotation of Estimate!!Total!!$100,000 or more!!With health insurance coverage",B27015
+B27015_023MA,string,"Annotation of Margin of Error!!Total!!$100,000 or more!!With health insurance coverage",B27015
+B27015_024EA,string,"Annotation of Estimate!!Total!!$100,000 or more!!With health insurance coverage!!With private health insurance",B27015
+B27015_024MA,string,"Annotation of Margin of Error!!Total!!$100,000 or more!!With health insurance coverage!!With private health insurance",B27015
+B27015_025EA,string,"Annotation of Estimate!!Total!!$100,000 or more!!With health insurance coverage!!With public coverage",B27015
+B27015_025MA,string,"Annotation of Margin of Error!!Total!!$100,000 or more!!With health insurance coverage!!With public coverage",B27015
+B27015_026EA,string,"Annotation of Estimate!!Total!!$100,000 or more!!No health insurance coverage",B27015
+B27015_026MA,string,"Annotation of Margin of Error!!Total!!$100,000 or more!!No health insurance coverage",B27015

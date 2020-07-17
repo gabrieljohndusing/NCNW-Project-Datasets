@@ -1,0 +1,685 @@
+VARIABLE,TYPE,LABEL,GROUP
+S0801_C01_001E,int,Total!!Estimate!!Workers 16 years and over,S0801
+S0801_C01_002E,int,"Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C01_003E,int,"Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C01_004E,int,"Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C01_005E,int,"Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C01_006E,int,"Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C01_007E,int,"Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C01_008E,int,"Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C01_009E,int,Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C01_010E,int,Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C01_011E,int,Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C01_012E,int,"Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C01_013E,int,Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C01_014E,int,Total!!Estimate!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C01_015E,int,Total!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C01_016E,int,Total!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C01_017E,int,Total!!Estimate!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C01_018E,int,Total!!Estimate!!Living in a place,S0801
+S0801_C01_019E,int,Total!!Estimate!!Living in a place!!Worked in place of residence,S0801
+S0801_C01_020E,int,Total!!Estimate!!Living in a place!!Worked outside place of residence,S0801
+S0801_C01_021E,int,Total!!Estimate!!Not living in a place,S0801
+S0801_C01_022E,int,Total!!Estimate!!Living in 12 selected states,S0801
+S0801_C01_023E,int,Total!!Estimate!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C01_024E,int,Total!!Estimate!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C01_025E,int,Total!!Estimate!!Not living in 12 selected states,S0801
+S0801_C01_026E,int,Total!!Estimate!!Workers 16 years and over who did not work at home,S0801
+S0801_C01_027E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C01_028E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C01_029E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C01_030E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C01_031E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C01_032E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C01_033E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C01_034E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C01_035E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C01_036E,int,Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C01_037E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C01_038E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C01_039E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C01_040E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C01_041E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C01_042E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C01_043E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C01_044E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C01_045E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C01_046E,int,Total!!Estimate!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C01_047E,int,Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C01_048E,int,Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C01_049E,int,Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C01_050E,int,Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C01_051E,int,Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C01_052E,int,Total!!Estimate!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C01_053E,int,Total!!Estimate!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C01_054E,int,Total!!Estimate!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C01_055E,int,Total!!Estimate!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C01_056E,int,Total!!Estimate!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C01_057E,int,Total!!Estimate!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C02_001E,int,Male!!Estimate!!Workers 16 years and over,S0801
+S0801_C02_002E,int,"Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C02_003E,int,"Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C02_004E,int,"Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C02_005E,int,"Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C02_006E,int,"Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C02_007E,int,"Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C02_008E,int,"Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C02_009E,int,Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C02_010E,int,Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C02_011E,int,Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C02_012E,int,"Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C02_013E,int,Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C02_014E,int,Male!!Estimate!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C02_015E,int,Male!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C02_016E,int,Male!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C02_017E,int,Male!!Estimate!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C02_018E,int,Male!!Estimate!!Living in a place,S0801
+S0801_C02_019E,int,Male!!Estimate!!Living in a place!!Worked in place of residence,S0801
+S0801_C02_020E,int,Male!!Estimate!!Living in a place!!Worked outside place of residence,S0801
+S0801_C02_021E,int,Male!!Estimate!!Not living in a place,S0801
+S0801_C02_022E,int,Male!!Estimate!!Living in 12 selected states,S0801
+S0801_C02_023E,int,Male!!Estimate!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C02_024E,int,Male!!Estimate!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C02_025E,int,Male!!Estimate!!Not living in 12 selected states,S0801
+S0801_C02_026E,int,Male!!Estimate!!Workers 16 years and over who did not work at home,S0801
+S0801_C02_027E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C02_028E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C02_029E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C02_030E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C02_031E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C02_032E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C02_033E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C02_034E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C02_035E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C02_036E,int,Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C02_037E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C02_038E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C02_039E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C02_040E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C02_041E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C02_042E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C02_043E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C02_044E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C02_045E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C02_046E,int,Male!!Estimate!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C02_047E,int,Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C02_048E,int,Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C02_049E,int,Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C02_050E,int,Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C02_051E,int,Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C02_052E,int,Male!!Estimate!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C02_053E,int,Male!!Estimate!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C02_054E,int,Male!!Estimate!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C02_055E,int,Male!!Estimate!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C02_056E,int,Male!!Estimate!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C02_057E,int,Male!!Estimate!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C03_001E,int,Female!!Estimate!!Workers 16 years and over,S0801
+S0801_C03_002E,int,"Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C03_003E,int,"Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C03_004E,int,"Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C03_005E,int,"Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C03_006E,int,"Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C03_007E,int,"Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C03_008E,int,"Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C03_009E,int,Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C03_010E,int,Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C03_011E,int,Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C03_012E,int,"Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C03_013E,int,Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C03_014E,int,Female!!Estimate!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C03_015E,int,Female!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C03_016E,int,Female!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C03_017E,int,Female!!Estimate!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C03_018E,int,Female!!Estimate!!Living in a place,S0801
+S0801_C03_019E,int,Female!!Estimate!!Living in a place!!Worked in place of residence,S0801
+S0801_C03_020E,int,Female!!Estimate!!Living in a place!!Worked outside place of residence,S0801
+S0801_C03_021E,int,Female!!Estimate!!Not living in a place,S0801
+S0801_C03_022E,int,Female!!Estimate!!Living in 12 selected states,S0801
+S0801_C03_023E,int,Female!!Estimate!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C03_024E,int,Female!!Estimate!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C03_025E,int,Female!!Estimate!!Not living in 12 selected states,S0801
+S0801_C03_026E,int,Female!!Estimate!!Workers 16 years and over who did not work at home,S0801
+S0801_C03_027E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C03_028E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C03_029E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C03_030E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C03_031E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C03_032E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C03_033E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C03_034E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C03_035E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C03_036E,int,Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C03_037E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C03_038E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C03_039E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C03_040E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C03_041E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C03_042E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C03_043E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C03_044E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C03_045E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C03_046E,int,Female!!Estimate!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C03_047E,int,Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C03_048E,int,Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C03_049E,int,Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C03_050E,int,Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C03_051E,int,Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C03_052E,int,Female!!Estimate!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C03_053E,int,Female!!Estimate!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C03_054E,int,Female!!Estimate!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C03_055E,int,Female!!Estimate!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C03_056E,int,Female!!Estimate!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C03_057E,int,Female!!Estimate!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C01_001M,int,Total!!Margin of Error!!Workers 16 years and over,S0801
+S0801_C01_002M,int,"Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C01_003M,int,"Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C01_004M,int,"Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C01_005M,int,"Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C01_006M,int,"Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C01_007M,int,"Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C01_008M,int,"Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C01_009M,int,Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C01_010M,int,Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C01_011M,int,Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C01_012M,int,"Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C01_013M,int,Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C01_014M,int,Total!!Margin of Error!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C01_015M,int,Total!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C01_016M,int,Total!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C01_017M,int,Total!!Margin of Error!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C01_018M,int,Total!!Margin of Error!!Living in a place,S0801
+S0801_C01_019M,int,Total!!Margin of Error!!Living in a place!!Worked in place of residence,S0801
+S0801_C01_020M,int,Total!!Margin of Error!!Living in a place!!Worked outside place of residence,S0801
+S0801_C01_021M,int,Total!!Margin of Error!!Not living in a place,S0801
+S0801_C01_022M,int,Total!!Margin of Error!!Living in 12 selected states,S0801
+S0801_C01_023M,int,Total!!Margin of Error!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C01_024M,int,Total!!Margin of Error!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C01_025M,int,Total!!Margin of Error!!Not living in 12 selected states,S0801
+S0801_C01_026M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home,S0801
+S0801_C01_027M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C01_028M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C01_029M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C01_030M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C01_031M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C01_032M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C01_033M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C01_034M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C01_035M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C01_036M,int,Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C01_037M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C01_038M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C01_039M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C01_040M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C01_041M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C01_042M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C01_043M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C01_044M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C01_045M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C01_046M,int,Total!!Margin of Error!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C01_047M,int,Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C01_048M,int,Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C01_049M,int,Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C01_050M,int,Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C01_051M,int,Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C01_052M,int,Total!!Margin of Error!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C01_053M,int,Total!!Margin of Error!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C01_054M,int,Total!!Margin of Error!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C01_055M,int,Total!!Margin of Error!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C01_056M,int,Total!!Margin of Error!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C01_057M,int,Total!!Margin of Error!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C02_001M,int,Male!!Margin of Error!!Workers 16 years and over,S0801
+S0801_C02_002M,int,"Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C02_003M,int,"Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C02_004M,int,"Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C02_005M,int,"Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C02_006M,int,"Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C02_007M,int,"Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C02_008M,int,"Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C02_009M,int,Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C02_010M,int,Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C02_011M,int,Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C02_012M,int,"Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C02_013M,int,Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C02_014M,int,Male!!Margin of Error!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C02_015M,int,Male!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C02_016M,int,Male!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C02_017M,int,Male!!Margin of Error!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C02_018M,int,Male!!Margin of Error!!Living in a place,S0801
+S0801_C02_019M,int,Male!!Margin of Error!!Living in a place!!Worked in place of residence,S0801
+S0801_C02_020M,int,Male!!Margin of Error!!Living in a place!!Worked outside place of residence,S0801
+S0801_C02_021M,int,Male!!Margin of Error!!Not living in a place,S0801
+S0801_C02_022M,int,Male!!Margin of Error!!Living in 12 selected states,S0801
+S0801_C02_023M,int,Male!!Margin of Error!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C02_024M,int,Male!!Margin of Error!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C02_025M,int,Male!!Margin of Error!!Not living in 12 selected states,S0801
+S0801_C02_026M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home,S0801
+S0801_C02_027M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C02_028M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C02_029M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C02_030M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C02_031M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C02_032M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C02_033M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C02_034M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C02_035M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C02_036M,int,Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C02_037M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C02_038M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C02_039M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C02_040M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C02_041M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C02_042M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C02_043M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C02_044M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C02_045M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C02_046M,int,Male!!Margin of Error!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C02_047M,int,Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C02_048M,int,Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C02_049M,int,Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C02_050M,int,Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C02_051M,int,Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C02_052M,int,Male!!Margin of Error!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C02_053M,int,Male!!Margin of Error!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C02_054M,int,Male!!Margin of Error!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C02_055M,int,Male!!Margin of Error!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C02_056M,int,Male!!Margin of Error!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C02_057M,int,Male!!Margin of Error!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C03_001M,int,Female!!Margin of Error!!Workers 16 years and over,S0801
+S0801_C03_002M,int,"Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C03_003M,int,"Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C03_004M,int,"Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C03_005M,int,"Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C03_006M,int,"Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C03_007M,int,"Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C03_008M,int,"Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C03_009M,int,Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C03_010M,int,Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C03_011M,int,Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C03_012M,int,"Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C03_013M,int,Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C03_014M,int,Female!!Margin of Error!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C03_015M,int,Female!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C03_016M,int,Female!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C03_017M,int,Female!!Margin of Error!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C03_018M,int,Female!!Margin of Error!!Living in a place,S0801
+S0801_C03_019M,int,Female!!Margin of Error!!Living in a place!!Worked in place of residence,S0801
+S0801_C03_020M,int,Female!!Margin of Error!!Living in a place!!Worked outside place of residence,S0801
+S0801_C03_021M,int,Female!!Margin of Error!!Not living in a place,S0801
+S0801_C03_022M,int,Female!!Margin of Error!!Living in 12 selected states,S0801
+S0801_C03_023M,int,Female!!Margin of Error!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C03_024M,int,Female!!Margin of Error!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C03_025M,int,Female!!Margin of Error!!Not living in 12 selected states,S0801
+S0801_C03_026M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home,S0801
+S0801_C03_027M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C03_028M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C03_029M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C03_030M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C03_031M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C03_032M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C03_033M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C03_034M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C03_035M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C03_036M,int,Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C03_037M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C03_038M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C03_039M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C03_040M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C03_041M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C03_042M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C03_043M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C03_044M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C03_045M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C03_046M,int,Female!!Margin of Error!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C03_047M,int,Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C03_048M,int,Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C03_049M,int,Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C03_050M,int,Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C03_051M,int,Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C03_052M,int,Female!!Margin of Error!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C03_053M,int,Female!!Margin of Error!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C03_054M,int,Female!!Margin of Error!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C03_055M,int,Female!!Margin of Error!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C03_056M,int,Female!!Margin of Error!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C03_057M,int,Female!!Margin of Error!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C01_001EA,string,Annotation of Total!!Estimate!!Workers 16 years and over,S0801
+S0801_C01_001MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over,S0801
+S0801_C01_002EA,string,"Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C01_002MA,string,"Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C01_003EA,string,"Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C01_003MA,string,"Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C01_004EA,string,"Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C01_004MA,string,"Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C01_005EA,string,"Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C01_005MA,string,"Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C01_006EA,string,"Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C01_006MA,string,"Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C01_007EA,string,"Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C01_007MA,string,"Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C01_008EA,string,"Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C01_008MA,string,"Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C01_009EA,string,Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C01_009MA,string,Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C01_010EA,string,Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C01_010MA,string,Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C01_011EA,string,Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C01_011MA,string,Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C01_012EA,string,"Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C01_012MA,string,"Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C01_013EA,string,Annotation of Total!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C01_013MA,string,Annotation of Total!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C01_014EA,string,Annotation of Total!!Estimate!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C01_014MA,string,Annotation of Total!!Margin of Error!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C01_015EA,string,Annotation of Total!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C01_015MA,string,Annotation of Total!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C01_016EA,string,Annotation of Total!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C01_016MA,string,Annotation of Total!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C01_017EA,string,Annotation of Total!!Estimate!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C01_017MA,string,Annotation of Total!!Margin of Error!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C01_018EA,string,Annotation of Total!!Estimate!!Living in a place,S0801
+S0801_C01_018MA,string,Annotation of Total!!Margin of Error!!Living in a place,S0801
+S0801_C01_019EA,string,Annotation of Total!!Estimate!!Living in a place!!Worked in place of residence,S0801
+S0801_C01_019MA,string,Annotation of Total!!Margin of Error!!Living in a place!!Worked in place of residence,S0801
+S0801_C01_020EA,string,Annotation of Total!!Estimate!!Living in a place!!Worked outside place of residence,S0801
+S0801_C01_020MA,string,Annotation of Total!!Margin of Error!!Living in a place!!Worked outside place of residence,S0801
+S0801_C01_021EA,string,Annotation of Total!!Estimate!!Not living in a place,S0801
+S0801_C01_021MA,string,Annotation of Total!!Margin of Error!!Not living in a place,S0801
+S0801_C01_022EA,string,Annotation of Total!!Estimate!!Living in 12 selected states,S0801
+S0801_C01_022MA,string,Annotation of Total!!Margin of Error!!Living in 12 selected states,S0801
+S0801_C01_023EA,string,Annotation of Total!!Estimate!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C01_023MA,string,Annotation of Total!!Margin of Error!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C01_024EA,string,Annotation of Total!!Estimate!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C01_024MA,string,Annotation of Total!!Margin of Error!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C01_025EA,string,Annotation of Total!!Estimate!!Not living in 12 selected states,S0801
+S0801_C01_025MA,string,Annotation of Total!!Margin of Error!!Not living in 12 selected states,S0801
+S0801_C01_026EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home,S0801
+S0801_C01_026MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home,S0801
+S0801_C01_027EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C01_027MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C01_028EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C01_028MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C01_029EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C01_029MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C01_030EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C01_030MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C01_031EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C01_031MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C01_032EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C01_032MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C01_033EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C01_033MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C01_034EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C01_034MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C01_035EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C01_035MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C01_036EA,string,Annotation of Total!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C01_036MA,string,Annotation of Total!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C01_037EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C01_037MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C01_038EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C01_038MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C01_039EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C01_039MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C01_040EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C01_040MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C01_041EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C01_041MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C01_042EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C01_042MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C01_043EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C01_043MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C01_044EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C01_044MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C01_045EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C01_045MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C01_046EA,string,Annotation of Total!!Estimate!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C01_046MA,string,Annotation of Total!!Margin of Error!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C01_047EA,string,Annotation of Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C01_047MA,string,Annotation of Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C01_048EA,string,Annotation of Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C01_048MA,string,Annotation of Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C01_049EA,string,Annotation of Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C01_049MA,string,Annotation of Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C01_050EA,string,Annotation of Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C01_050MA,string,Annotation of Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C01_051EA,string,Annotation of Total!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C01_051MA,string,Annotation of Total!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C01_052EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C01_052MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C01_053EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C01_053MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C01_054EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C01_054MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C01_055EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C01_055MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C01_056EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C01_056MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C01_057EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C01_057MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C02_001EA,string,Annotation of Male!!Estimate!!Workers 16 years and over,S0801
+S0801_C02_001MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over,S0801
+S0801_C02_002EA,string,"Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C02_002MA,string,"Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C02_003EA,string,"Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C02_003MA,string,"Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C02_004EA,string,"Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C02_004MA,string,"Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C02_005EA,string,"Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C02_005MA,string,"Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C02_006EA,string,"Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C02_006MA,string,"Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C02_007EA,string,"Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C02_007MA,string,"Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C02_008EA,string,"Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C02_008MA,string,"Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C02_009EA,string,Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C02_009MA,string,Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C02_010EA,string,Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C02_010MA,string,Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C02_011EA,string,Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C02_011MA,string,Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C02_012EA,string,"Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C02_012MA,string,"Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C02_013EA,string,Annotation of Male!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C02_013MA,string,Annotation of Male!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C02_014EA,string,Annotation of Male!!Estimate!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C02_014MA,string,Annotation of Male!!Margin of Error!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C02_015EA,string,Annotation of Male!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C02_015MA,string,Annotation of Male!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C02_016EA,string,Annotation of Male!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C02_016MA,string,Annotation of Male!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C02_017EA,string,Annotation of Male!!Estimate!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C02_017MA,string,Annotation of Male!!Margin of Error!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C02_018EA,string,Annotation of Male!!Estimate!!Living in a place,S0801
+S0801_C02_018MA,string,Annotation of Male!!Margin of Error!!Living in a place,S0801
+S0801_C02_019EA,string,Annotation of Male!!Estimate!!Living in a place!!Worked in place of residence,S0801
+S0801_C02_019MA,string,Annotation of Male!!Margin of Error!!Living in a place!!Worked in place of residence,S0801
+S0801_C02_020EA,string,Annotation of Male!!Estimate!!Living in a place!!Worked outside place of residence,S0801
+S0801_C02_020MA,string,Annotation of Male!!Margin of Error!!Living in a place!!Worked outside place of residence,S0801
+S0801_C02_021EA,string,Annotation of Male!!Estimate!!Not living in a place,S0801
+S0801_C02_021MA,string,Annotation of Male!!Margin of Error!!Not living in a place,S0801
+S0801_C02_022EA,string,Annotation of Male!!Estimate!!Living in 12 selected states,S0801
+S0801_C02_022MA,string,Annotation of Male!!Margin of Error!!Living in 12 selected states,S0801
+S0801_C02_023EA,string,Annotation of Male!!Estimate!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C02_023MA,string,Annotation of Male!!Margin of Error!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C02_024EA,string,Annotation of Male!!Estimate!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C02_024MA,string,Annotation of Male!!Margin of Error!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C02_025EA,string,Annotation of Male!!Estimate!!Not living in 12 selected states,S0801
+S0801_C02_025MA,string,Annotation of Male!!Margin of Error!!Not living in 12 selected states,S0801
+S0801_C02_026EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home,S0801
+S0801_C02_026MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home,S0801
+S0801_C02_027EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C02_027MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C02_028EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C02_028MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C02_029EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C02_029MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C02_030EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C02_030MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C02_031EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C02_031MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C02_032EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C02_032MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C02_033EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C02_033MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C02_034EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C02_034MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C02_035EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C02_035MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C02_036EA,string,Annotation of Male!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C02_036MA,string,Annotation of Male!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C02_037EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C02_037MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C02_038EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C02_038MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C02_039EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C02_039MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C02_040EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C02_040MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C02_041EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C02_041MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C02_042EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C02_042MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C02_043EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C02_043MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C02_044EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C02_044MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C02_045EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C02_045MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C02_046EA,string,Annotation of Male!!Estimate!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C02_046MA,string,Annotation of Male!!Margin of Error!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C02_047EA,string,Annotation of Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C02_047MA,string,Annotation of Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C02_048EA,string,Annotation of Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C02_048MA,string,Annotation of Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C02_049EA,string,Annotation of Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C02_049MA,string,Annotation of Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C02_050EA,string,Annotation of Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C02_050MA,string,Annotation of Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C02_051EA,string,Annotation of Male!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C02_051MA,string,Annotation of Male!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C02_052EA,string,Annotation of Male!!Estimate!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C02_052MA,string,Annotation of Male!!Margin of Error!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C02_053EA,string,Annotation of Male!!Estimate!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C02_053MA,string,Annotation of Male!!Margin of Error!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C02_054EA,string,Annotation of Male!!Estimate!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C02_054MA,string,Annotation of Male!!Margin of Error!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C02_055EA,string,Annotation of Male!!Estimate!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C02_055MA,string,Annotation of Male!!Margin of Error!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C02_056EA,string,Annotation of Male!!Estimate!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C02_056MA,string,Annotation of Male!!Margin of Error!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C02_057EA,string,Annotation of Male!!Estimate!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C02_057MA,string,Annotation of Male!!Margin of Error!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C03_001EA,string,Annotation of Female!!Estimate!!Workers 16 years and over,S0801
+S0801_C03_001MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over,S0801
+S0801_C03_002EA,string,"Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C03_002MA,string,"Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van",S0801
+S0801_C03_003EA,string,"Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C03_003MA,string,"Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Drove alone",S0801
+S0801_C03_004EA,string,"Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C03_004MA,string,"Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled",S0801
+S0801_C03_005EA,string,"Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C03_005MA,string,"Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 2-person carpool",S0801
+S0801_C03_006EA,string,"Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C03_006MA,string,"Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 3-person carpool",S0801
+S0801_C03_007EA,string,"Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C03_007MA,string,"Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Carpooled!!In 4-or-more person carpool",S0801
+S0801_C03_008EA,string,"Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C03_008MA,string,"Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Car, truck, or van!!Workers per car, truck, or van",S0801
+S0801_C03_009EA,string,Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C03_009MA,string,Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Public transportation (excluding taxicab),S0801
+S0801_C03_010EA,string,Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C03_010MA,string,Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Walked,S0801
+S0801_C03_011EA,string,Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C03_011MA,string,Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Bicycle,S0801
+S0801_C03_012EA,string,"Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C03_012MA,string,"Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Taxicab, motorcycle, or other means",S0801
+S0801_C03_013EA,string,Annotation of Female!!Estimate!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C03_013MA,string,Annotation of Female!!Margin of Error!!MEANS OF TRANSPORTATION TO WORK!!Worked at home,S0801
+S0801_C03_014EA,string,Annotation of Female!!Estimate!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C03_014MA,string,Annotation of Female!!Margin of Error!!PLACE OF WORK!!Worked in state of residence,S0801
+S0801_C03_015EA,string,Annotation of Female!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C03_015MA,string,Annotation of Female!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked in county of residence,S0801
+S0801_C03_016EA,string,Annotation of Female!!Estimate!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C03_016MA,string,Annotation of Female!!Margin of Error!!PLACE OF WORK!!Worked in state of residence!!Worked outside county of residence,S0801
+S0801_C03_017EA,string,Annotation of Female!!Estimate!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C03_017MA,string,Annotation of Female!!Margin of Error!!PLACE OF WORK!!Worked outside state of residence,S0801
+S0801_C03_018EA,string,Annotation of Female!!Estimate!!Living in a place,S0801
+S0801_C03_018MA,string,Annotation of Female!!Margin of Error!!Living in a place,S0801
+S0801_C03_019EA,string,Annotation of Female!!Estimate!!Living in a place!!Worked in place of residence,S0801
+S0801_C03_019MA,string,Annotation of Female!!Margin of Error!!Living in a place!!Worked in place of residence,S0801
+S0801_C03_020EA,string,Annotation of Female!!Estimate!!Living in a place!!Worked outside place of residence,S0801
+S0801_C03_020MA,string,Annotation of Female!!Margin of Error!!Living in a place!!Worked outside place of residence,S0801
+S0801_C03_021EA,string,Annotation of Female!!Estimate!!Not living in a place,S0801
+S0801_C03_021MA,string,Annotation of Female!!Margin of Error!!Not living in a place,S0801
+S0801_C03_022EA,string,Annotation of Female!!Estimate!!Living in 12 selected states,S0801
+S0801_C03_022MA,string,Annotation of Female!!Margin of Error!!Living in 12 selected states,S0801
+S0801_C03_023EA,string,Annotation of Female!!Estimate!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C03_023MA,string,Annotation of Female!!Margin of Error!!Living in 12 selected states!!Worked in minor civil division of residence,S0801
+S0801_C03_024EA,string,Annotation of Female!!Estimate!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C03_024MA,string,Annotation of Female!!Margin of Error!!Living in 12 selected states!!Worked outside minor civil division of residence,S0801
+S0801_C03_025EA,string,Annotation of Female!!Estimate!!Not living in 12 selected states,S0801
+S0801_C03_025MA,string,Annotation of Female!!Margin of Error!!Not living in 12 selected states,S0801
+S0801_C03_026EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home,S0801
+S0801_C03_026MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home,S0801
+S0801_C03_027EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C03_027MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!12:00 a.m. to 4:59 a.m.,S0801
+S0801_C03_028EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C03_028MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:00 a.m. to 5:29 a.m.,S0801
+S0801_C03_029EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C03_029MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!5:30 a.m. to 5:59 a.m.,S0801
+S0801_C03_030EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C03_030MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:00 a.m. to 6:29 a.m.,S0801
+S0801_C03_031EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C03_031MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!6:30 a.m. to 6:59 a.m.,S0801
+S0801_C03_032EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C03_032MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:00 a.m. to 7:29 a.m.,S0801
+S0801_C03_033EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C03_033MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!7:30 a.m. to 7:59 a.m.,S0801
+S0801_C03_034EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C03_034MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:00 a.m. to 8:29 a.m.,S0801
+S0801_C03_035EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C03_035MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!8:30 a.m. to 8:59 a.m.,S0801
+S0801_C03_036EA,string,Annotation of Female!!Estimate!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C03_036MA,string,Annotation of Female!!Margin of Error!!Workers 16 years and over who did not work at home!!TIME LEAVING HOME TO GO TO WORK!!9:00 a.m. to 11:59 p.m.,S0801
+S0801_C03_037EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C03_037MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!Less than 10 minutes,S0801
+S0801_C03_038EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C03_038MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!10 to 14 minutes,S0801
+S0801_C03_039EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C03_039MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!15 to 19 minutes,S0801
+S0801_C03_040EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C03_040MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!20 to 24 minutes,S0801
+S0801_C03_041EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C03_041MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!25 to 29 minutes,S0801
+S0801_C03_042EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C03_042MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!30 to 34 minutes,S0801
+S0801_C03_043EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C03_043MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!35 to 44 minutes,S0801
+S0801_C03_044EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C03_044MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!45 to 59 minutes,S0801
+S0801_C03_045EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C03_045MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!60 or more minutes,S0801
+S0801_C03_046EA,string,Annotation of Female!!Estimate!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C03_046MA,string,Annotation of Female!!Margin of Error!!TRAVEL TIME TO WORK!!Mean travel time to work (minutes),S0801
+S0801_C03_047EA,string,Annotation of Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C03_047MA,string,Annotation of Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households,S0801
+S0801_C03_048EA,string,Annotation of Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C03_048MA,string,Annotation of Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!No vehicle available,S0801
+S0801_C03_049EA,string,Annotation of Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C03_049MA,string,Annotation of Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!1 vehicle available,S0801
+S0801_C03_050EA,string,Annotation of Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C03_050MA,string,Annotation of Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!2 vehicles available,S0801
+S0801_C03_051EA,string,Annotation of Female!!Estimate!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C03_051MA,string,Annotation of Female!!Margin of Error!!VEHICLES AVAILABLE!!Workers 16 years and over in households!!3 or more vehicles available,S0801
+S0801_C03_052EA,string,Annotation of Female!!Estimate!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C03_052MA,string,Annotation of Female!!Margin of Error!!PERCENT IMPUTED!!Means of transportation to work,S0801
+S0801_C03_053EA,string,Annotation of Female!!Estimate!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C03_053MA,string,Annotation of Female!!Margin of Error!!PERCENT IMPUTED!!Private vehicle occupancy,S0801
+S0801_C03_054EA,string,Annotation of Female!!Estimate!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C03_054MA,string,Annotation of Female!!Margin of Error!!PERCENT IMPUTED!!Place of work,S0801
+S0801_C03_055EA,string,Annotation of Female!!Estimate!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C03_055MA,string,Annotation of Female!!Margin of Error!!PERCENT IMPUTED!!Time leaving home to go to work,S0801
+S0801_C03_056EA,string,Annotation of Female!!Estimate!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C03_056MA,string,Annotation of Female!!Margin of Error!!PERCENT IMPUTED!!Travel time to work,S0801
+S0801_C03_057EA,string,Annotation of Female!!Estimate!!PERCENT IMPUTED!!Vehicles available,S0801
+S0801_C03_057MA,string,Annotation of Female!!Margin of Error!!PERCENT IMPUTED!!Vehicles available,S0801

@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B22005I_001E,int,Estimate!!Total,B22005I
+B22005I_002E,int,Estimate!!Total!!Household received Food Stamps in the past 12 months,B22005I
+B22005I_003E,int,Estimate!!Total!!Household did not receive Food Stamps in the past 12 months,B22005I
+B22005I_001M,int,Margin of Error!!Total,B22005I
+B22005I_002M,int,Margin of Error!!Total!!Household received Food Stamps in the past 12 months,B22005I
+B22005I_003M,int,Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months,B22005I
+B22005I_001EA,string,Annotation of Estimate!!Total,B22005I
+B22005I_001MA,string,Annotation of Margin of Error!!Total,B22005I
+B22005I_002EA,string,Annotation of Estimate!!Total!!Household received Food Stamps in the past 12 months,B22005I
+B22005I_002MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps in the past 12 months,B22005I
+B22005I_003EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps in the past 12 months,B22005I
+B22005I_003MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months,B22005I

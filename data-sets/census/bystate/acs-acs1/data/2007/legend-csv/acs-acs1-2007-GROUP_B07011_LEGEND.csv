@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07011_001E,int,Estimate!!Median income in the past 12 months!!Total,B07011
+B07011_002E,int,Estimate!!Median income in the past 12 months!!Total!!Same house 1 year ago,B07011
+B07011_003E,int,Estimate!!Median income in the past 12 months!!Total!!Moved within same county,B07011
+B07011_004E,int,Estimate!!Median income in the past 12 months!!Total!!Moved from different county within same state,B07011
+B07011_005E,int,Estimate!!Median income in the past 12 months!!Total!!Moved from different state,B07011
+B07011_006E,int,Estimate!!Median income in the past 12 months!!Total!!Moved from abroad,B07011
+B07011_001M,int,Margin of Error!!Median income in the past 12 months!!Total,B07011
+B07011_002M,int,Margin of Error!!Median income in the past 12 months!!Total!!Same house 1 year ago,B07011
+B07011_003M,int,Margin of Error!!Median income in the past 12 months!!Total!!Moved within same county,B07011
+B07011_004M,int,Margin of Error!!Median income in the past 12 months!!Total!!Moved from different county within same state,B07011
+B07011_005M,int,Margin of Error!!Median income in the past 12 months!!Total!!Moved from different state,B07011
+B07011_006M,int,Margin of Error!!Median income in the past 12 months!!Total!!Moved from abroad,B07011
+B07011_001EA,string,Annotation of Estimate!!Median income in the past 12 months!!Total,B07011
+B07011_001MA,string,Annotation of Margin of Error!!Median income in the past 12 months!!Total,B07011
+B07011_002EA,string,Annotation of Estimate!!Median income in the past 12 months!!Total!!Same house 1 year ago,B07011
+B07011_002MA,string,Annotation of Margin of Error!!Median income in the past 12 months!!Total!!Same house 1 year ago,B07011
+B07011_003EA,string,Annotation of Estimate!!Median income in the past 12 months!!Total!!Moved within same county,B07011
+B07011_003MA,string,Annotation of Margin of Error!!Median income in the past 12 months!!Total!!Moved within same county,B07011
+B07011_004EA,string,Annotation of Estimate!!Median income in the past 12 months!!Total!!Moved from different county within same state,B07011
+B07011_004MA,string,Annotation of Margin of Error!!Median income in the past 12 months!!Total!!Moved from different county within same state,B07011
+B07011_005EA,string,Annotation of Estimate!!Median income in the past 12 months!!Total!!Moved from different state,B07011
+B07011_005MA,string,Annotation of Margin of Error!!Median income in the past 12 months!!Total!!Moved from different state,B07011
+B07011_006EA,string,Annotation of Estimate!!Median income in the past 12 months!!Total!!Moved from abroad,B07011
+B07011_006MA,string,Annotation of Margin of Error!!Median income in the past 12 months!!Total!!Moved from abroad,B07011

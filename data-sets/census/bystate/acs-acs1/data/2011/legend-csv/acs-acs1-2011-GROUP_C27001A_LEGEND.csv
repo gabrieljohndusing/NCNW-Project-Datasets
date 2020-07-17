@@ -1,0 +1,41 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27001A_001E,int,Estimate!!Total,C27001A
+C27001A_002E,int,Estimate!!Total!!Under 18 years,C27001A
+C27001A_003E,int,Estimate!!Total!!Under 18 years!!With health insurance coverage,C27001A
+C27001A_004E,int,Estimate!!Total!!Under 18 years!!No health insurance coverage,C27001A
+C27001A_005E,int,Estimate!!Total!!18 to 64 years,C27001A
+C27001A_006E,int,Estimate!!Total!!18 to 64 years!!With health insurance coverage,C27001A
+C27001A_007E,int,Estimate!!Total!!18 to 64 years!!No health insurance coverage,C27001A
+C27001A_008E,int,Estimate!!Total!!65 years and over,C27001A
+C27001A_009E,int,Estimate!!Total!!65 years and over!!With health insurance coverage,C27001A
+C27001A_010E,int,Estimate!!Total!!65 years and over!!No health insurance coverage,C27001A
+C27001A_001M,int,Margin of Error!!Total,C27001A
+C27001A_002M,int,Margin of Error!!Total!!Under 18 years,C27001A
+C27001A_003M,int,Margin of Error!!Total!!Under 18 years!!With health insurance coverage,C27001A
+C27001A_004M,int,Margin of Error!!Total!!Under 18 years!!No health insurance coverage,C27001A
+C27001A_005M,int,Margin of Error!!Total!!18 to 64 years,C27001A
+C27001A_006M,int,Margin of Error!!Total!!18 to 64 years!!With health insurance coverage,C27001A
+C27001A_007M,int,Margin of Error!!Total!!18 to 64 years!!No health insurance coverage,C27001A
+C27001A_008M,int,Margin of Error!!Total!!65 years and over,C27001A
+C27001A_009M,int,Margin of Error!!Total!!65 years and over!!With health insurance coverage,C27001A
+C27001A_010M,int,Margin of Error!!Total!!65 years and over!!No health insurance coverage,C27001A
+C27001A_001EA,string,Annotation of Estimate!!Total,C27001A
+C27001A_001MA,string,Annotation of Margin of Error!!Total,C27001A
+C27001A_002EA,string,Annotation of Estimate!!Total!!Under 18 years,C27001A
+C27001A_002MA,string,Annotation of Margin of Error!!Total!!Under 18 years,C27001A
+C27001A_003EA,string,Annotation of Estimate!!Total!!Under 18 years!!With health insurance coverage,C27001A
+C27001A_003MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With health insurance coverage,C27001A
+C27001A_004EA,string,Annotation of Estimate!!Total!!Under 18 years!!No health insurance coverage,C27001A
+C27001A_004MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!No health insurance coverage,C27001A
+C27001A_005EA,string,Annotation of Estimate!!Total!!18 to 64 years,C27001A
+C27001A_005MA,string,Annotation of Margin of Error!!Total!!18 to 64 years,C27001A
+C27001A_006EA,string,Annotation of Estimate!!Total!!18 to 64 years!!With health insurance coverage,C27001A
+C27001A_006MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!With health insurance coverage,C27001A
+C27001A_007EA,string,Annotation of Estimate!!Total!!18 to 64 years!!No health insurance coverage,C27001A
+C27001A_007MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!No health insurance coverage,C27001A
+C27001A_008EA,string,Annotation of Estimate!!Total!!65 years and over,C27001A
+C27001A_008MA,string,Annotation of Margin of Error!!Total!!65 years and over,C27001A
+C27001A_009EA,string,Annotation of Estimate!!Total!!65 years and over!!With health insurance coverage,C27001A
+C27001A_009MA,string,Annotation of Margin of Error!!Total!!65 years and over!!With health insurance coverage,C27001A
+C27001A_010EA,string,Annotation of Estimate!!Total!!65 years and over!!No health insurance coverage,C27001A
+C27001A_010MA,string,Annotation of Margin of Error!!Total!!65 years and over!!No health insurance coverage,C27001A

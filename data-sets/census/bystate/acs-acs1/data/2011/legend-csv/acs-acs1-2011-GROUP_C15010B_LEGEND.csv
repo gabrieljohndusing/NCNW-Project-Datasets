@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+C15010B_001E,int,Estimate!!Total,C15010B
+C15010B_002E,int,Estimate!!Total!!Science and Engineering,C15010B
+C15010B_003E,int,Estimate!!Total!!Science and Engineering Related Fields,C15010B
+C15010B_004E,int,Estimate!!Total!!Business,C15010B
+C15010B_005E,int,Estimate!!Total!!Education,C15010B
+C15010B_006E,int,"Estimate!!Total!!Arts, Humanities and Other",C15010B
+C15010B_001M,int,Margin of Error!!Total,C15010B
+C15010B_002M,int,Margin of Error!!Total!!Science and Engineering,C15010B
+C15010B_003M,int,Margin of Error!!Total!!Science and Engineering Related Fields,C15010B
+C15010B_004M,int,Margin of Error!!Total!!Business,C15010B
+C15010B_005M,int,Margin of Error!!Total!!Education,C15010B
+C15010B_006M,int,"Margin of Error!!Total!!Arts, Humanities and Other",C15010B
+C15010B_001EA,string,Annotation of Estimate!!Total,C15010B
+C15010B_001MA,string,Annotation of Margin of Error!!Total,C15010B
+C15010B_002EA,string,Annotation of Estimate!!Total!!Science and Engineering,C15010B
+C15010B_002MA,string,Annotation of Margin of Error!!Total!!Science and Engineering,C15010B
+C15010B_003EA,string,Annotation of Estimate!!Total!!Science and Engineering Related Fields,C15010B
+C15010B_003MA,string,Annotation of Margin of Error!!Total!!Science and Engineering Related Fields,C15010B
+C15010B_004EA,string,Annotation of Estimate!!Total!!Business,C15010B
+C15010B_004MA,string,Annotation of Margin of Error!!Total!!Business,C15010B
+C15010B_005EA,string,Annotation of Estimate!!Total!!Education,C15010B
+C15010B_005MA,string,Annotation of Margin of Error!!Total!!Education,C15010B
+C15010B_006EA,string,"Annotation of Estimate!!Total!!Arts, Humanities and Other",C15010B
+C15010B_006MA,string,"Annotation of Margin of Error!!Total!!Arts, Humanities and Other",C15010B

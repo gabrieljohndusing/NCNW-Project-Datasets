@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19055_001E,int,Estimate!!Total,B19055
+B19055_002E,int,Estimate!!Total!!With Social Security income,B19055
+B19055_003E,int,Estimate!!Total!!No Social Security income,B19055
+B19055_001M,int,Margin of Error!!Total,B19055
+B19055_002M,int,Margin of Error!!Total!!With Social Security income,B19055
+B19055_003M,int,Margin of Error!!Total!!No Social Security income,B19055
+B19055_001EA,string,Annotation of Estimate!!Total,B19055
+B19055_001MA,string,Annotation of Margin of Error!!Total,B19055
+B19055_002EA,string,Annotation of Estimate!!Total!!With Social Security income,B19055
+B19055_002MA,string,Annotation of Margin of Error!!Total!!With Social Security income,B19055
+B19055_003EA,string,Annotation of Estimate!!Total!!No Social Security income,B19055
+B19055_003MA,string,Annotation of Margin of Error!!Total!!No Social Security income,B19055

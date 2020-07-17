@@ -1,0 +1,181 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25101_001E,int,Estimate!!Total,B25101
+B25101_002E,int,Estimate!!Total!!With a mortgage,B25101
+B25101_003E,int,"Estimate!!Total!!With a mortgage!!Less than $20,000",B25101
+B25101_004E,int,"Estimate!!Total!!With a mortgage!!Less than $20,000!!Less than 20 percent",B25101
+B25101_005E,int,"Estimate!!Total!!With a mortgage!!Less than $20,000!!20 to 29 percent",B25101
+B25101_006E,int,"Estimate!!Total!!With a mortgage!!Less than $20,000!!30 percent or more",B25101
+B25101_007E,int,"Estimate!!Total!!With a mortgage!!$20,000 to $34,999",B25101
+B25101_008E,int,"Estimate!!Total!!With a mortgage!!$20,000 to $34,999!!Less than 20 percent",B25101
+B25101_009E,int,"Estimate!!Total!!With a mortgage!!$20,000 to $34,999!!20 to 29 percent",B25101
+B25101_010E,int,"Estimate!!Total!!With a mortgage!!$20,000 to $34,999!!30 percent or more",B25101
+B25101_011E,int,"Estimate!!Total!!With a mortgage!!$35,000 to $49,999",B25101
+B25101_012E,int,"Estimate!!Total!!With a mortgage!!$35,000 to $49,999!!Less than 20 percent",B25101
+B25101_013E,int,"Estimate!!Total!!With a mortgage!!$35,000 to $49,999!!20 to 29 percent",B25101
+B25101_014E,int,"Estimate!!Total!!With a mortgage!!$35,000 to $49,999!!30 percent or more",B25101
+B25101_015E,int,"Estimate!!Total!!With a mortgage!!$50,000 to $74,999",B25101
+B25101_016E,int,"Estimate!!Total!!With a mortgage!!$50,000 to $74,999!!Less than 20 percent",B25101
+B25101_017E,int,"Estimate!!Total!!With a mortgage!!$50,000 to $74,999!!20 to 29 percent",B25101
+B25101_018E,int,"Estimate!!Total!!With a mortgage!!$50,000 to $74,999!!30 percent or more",B25101
+B25101_019E,int,"Estimate!!Total!!With a mortgage!!$75,000 or more",B25101
+B25101_020E,int,"Estimate!!Total!!With a mortgage!!$75,000 or more!!Less than 20 percent",B25101
+B25101_021E,int,"Estimate!!Total!!With a mortgage!!$75,000 or more!!20 to 29 percent",B25101
+B25101_022E,int,"Estimate!!Total!!With a mortgage!!$75,000 or more!!30 percent or more",B25101
+B25101_023E,int,Estimate!!Total!!With a mortgage!!Zero or negative income,B25101
+B25101_024E,int,Estimate!!Total!!Not mortgaged,B25101
+B25101_025E,int,"Estimate!!Total!!Not mortgaged!!Less than $20,000",B25101
+B25101_026E,int,"Estimate!!Total!!Not mortgaged!!Less than $20,000!!Less than 20 percent",B25101
+B25101_027E,int,"Estimate!!Total!!Not mortgaged!!Less than $20,000!!20 to 29 percent",B25101
+B25101_028E,int,"Estimate!!Total!!Not mortgaged!!Less than $20,000!!30 percent or more",B25101
+B25101_029E,int,"Estimate!!Total!!Not mortgaged!!$20,000 to $34,999",B25101
+B25101_030E,int,"Estimate!!Total!!Not mortgaged!!$20,000 to $34,999!!Less than 20 percent",B25101
+B25101_031E,int,"Estimate!!Total!!Not mortgaged!!$20,000 to $34,999!!20 to 29 percent",B25101
+B25101_032E,int,"Estimate!!Total!!Not mortgaged!!$20,000 to $34,999!!30 percent or more",B25101
+B25101_033E,int,"Estimate!!Total!!Not mortgaged!!$35,000 to $49,999",B25101
+B25101_034E,int,"Estimate!!Total!!Not mortgaged!!$35,000 to $49,999!!Less than 20 percent",B25101
+B25101_035E,int,"Estimate!!Total!!Not mortgaged!!$35,000 to $49,999!!20 to 29 percent",B25101
+B25101_036E,int,"Estimate!!Total!!Not mortgaged!!$35,000 to $49,999!!30 percent or more",B25101
+B25101_037E,int,"Estimate!!Total!!Not mortgaged!!$50,000 to $74,999",B25101
+B25101_038E,int,"Estimate!!Total!!Not mortgaged!!$50,000 to $74,999!!Less than 20 percent",B25101
+B25101_039E,int,"Estimate!!Total!!Not mortgaged!!$50,000 to $74,999!!20 to 29 percent",B25101
+B25101_040E,int,"Estimate!!Total!!Not mortgaged!!$50,000 to $74,999!!30 percent or more",B25101
+B25101_041E,int,"Estimate!!Total!!Not mortgaged!!$75,000 or more",B25101
+B25101_042E,int,"Estimate!!Total!!Not mortgaged!!$75,000 or more!!Less than 20 percent",B25101
+B25101_043E,int,"Estimate!!Total!!Not mortgaged!!$75,000 or more!!20 to 29 percent",B25101
+B25101_044E,int,"Estimate!!Total!!Not mortgaged!!$75,000 or more!!30 percent or more",B25101
+B25101_045E,int,Estimate!!Total!!Not mortgaged!!Zero or negative income,B25101
+B25101_001M,int,Margin of Error!!Total,B25101
+B25101_002M,int,Margin of Error!!Total!!With a mortgage,B25101
+B25101_003M,int,"Margin of Error!!Total!!With a mortgage!!Less than $20,000",B25101
+B25101_004M,int,"Margin of Error!!Total!!With a mortgage!!Less than $20,000!!Less than 20 percent",B25101
+B25101_005M,int,"Margin of Error!!Total!!With a mortgage!!Less than $20,000!!20 to 29 percent",B25101
+B25101_006M,int,"Margin of Error!!Total!!With a mortgage!!Less than $20,000!!30 percent or more",B25101
+B25101_007M,int,"Margin of Error!!Total!!With a mortgage!!$20,000 to $34,999",B25101
+B25101_008M,int,"Margin of Error!!Total!!With a mortgage!!$20,000 to $34,999!!Less than 20 percent",B25101
+B25101_009M,int,"Margin of Error!!Total!!With a mortgage!!$20,000 to $34,999!!20 to 29 percent",B25101
+B25101_010M,int,"Margin of Error!!Total!!With a mortgage!!$20,000 to $34,999!!30 percent or more",B25101
+B25101_011M,int,"Margin of Error!!Total!!With a mortgage!!$35,000 to $49,999",B25101
+B25101_012M,int,"Margin of Error!!Total!!With a mortgage!!$35,000 to $49,999!!Less than 20 percent",B25101
+B25101_013M,int,"Margin of Error!!Total!!With a mortgage!!$35,000 to $49,999!!20 to 29 percent",B25101
+B25101_014M,int,"Margin of Error!!Total!!With a mortgage!!$35,000 to $49,999!!30 percent or more",B25101
+B25101_015M,int,"Margin of Error!!Total!!With a mortgage!!$50,000 to $74,999",B25101
+B25101_016M,int,"Margin of Error!!Total!!With a mortgage!!$50,000 to $74,999!!Less than 20 percent",B25101
+B25101_017M,int,"Margin of Error!!Total!!With a mortgage!!$50,000 to $74,999!!20 to 29 percent",B25101
+B25101_018M,int,"Margin of Error!!Total!!With a mortgage!!$50,000 to $74,999!!30 percent or more",B25101
+B25101_019M,int,"Margin of Error!!Total!!With a mortgage!!$75,000 or more",B25101
+B25101_020M,int,"Margin of Error!!Total!!With a mortgage!!$75,000 or more!!Less than 20 percent",B25101
+B25101_021M,int,"Margin of Error!!Total!!With a mortgage!!$75,000 or more!!20 to 29 percent",B25101
+B25101_022M,int,"Margin of Error!!Total!!With a mortgage!!$75,000 or more!!30 percent or more",B25101
+B25101_023M,int,Margin of Error!!Total!!With a mortgage!!Zero or negative income,B25101
+B25101_024M,int,Margin of Error!!Total!!Not mortgaged,B25101
+B25101_025M,int,"Margin of Error!!Total!!Not mortgaged!!Less than $20,000",B25101
+B25101_026M,int,"Margin of Error!!Total!!Not mortgaged!!Less than $20,000!!Less than 20 percent",B25101
+B25101_027M,int,"Margin of Error!!Total!!Not mortgaged!!Less than $20,000!!20 to 29 percent",B25101
+B25101_028M,int,"Margin of Error!!Total!!Not mortgaged!!Less than $20,000!!30 percent or more",B25101
+B25101_029M,int,"Margin of Error!!Total!!Not mortgaged!!$20,000 to $34,999",B25101
+B25101_030M,int,"Margin of Error!!Total!!Not mortgaged!!$20,000 to $34,999!!Less than 20 percent",B25101
+B25101_031M,int,"Margin of Error!!Total!!Not mortgaged!!$20,000 to $34,999!!20 to 29 percent",B25101
+B25101_032M,int,"Margin of Error!!Total!!Not mortgaged!!$20,000 to $34,999!!30 percent or more",B25101
+B25101_033M,int,"Margin of Error!!Total!!Not mortgaged!!$35,000 to $49,999",B25101
+B25101_034M,int,"Margin of Error!!Total!!Not mortgaged!!$35,000 to $49,999!!Less than 20 percent",B25101
+B25101_035M,int,"Margin of Error!!Total!!Not mortgaged!!$35,000 to $49,999!!20 to 29 percent",B25101
+B25101_036M,int,"Margin of Error!!Total!!Not mortgaged!!$35,000 to $49,999!!30 percent or more",B25101
+B25101_037M,int,"Margin of Error!!Total!!Not mortgaged!!$50,000 to $74,999",B25101
+B25101_038M,int,"Margin of Error!!Total!!Not mortgaged!!$50,000 to $74,999!!Less than 20 percent",B25101
+B25101_039M,int,"Margin of Error!!Total!!Not mortgaged!!$50,000 to $74,999!!20 to 29 percent",B25101
+B25101_040M,int,"Margin of Error!!Total!!Not mortgaged!!$50,000 to $74,999!!30 percent or more",B25101
+B25101_041M,int,"Margin of Error!!Total!!Not mortgaged!!$75,000 or more",B25101
+B25101_042M,int,"Margin of Error!!Total!!Not mortgaged!!$75,000 or more!!Less than 20 percent",B25101
+B25101_043M,int,"Margin of Error!!Total!!Not mortgaged!!$75,000 or more!!20 to 29 percent",B25101
+B25101_044M,int,"Margin of Error!!Total!!Not mortgaged!!$75,000 or more!!30 percent or more",B25101
+B25101_045M,int,Margin of Error!!Total!!Not mortgaged!!Zero or negative income,B25101
+B25101_001EA,string,Annotation of Estimate!!Total,B25101
+B25101_001MA,string,Annotation of Margin of Error!!Total,B25101
+B25101_002EA,string,Annotation of Estimate!!Total!!With a mortgage,B25101
+B25101_002MA,string,Annotation of Margin of Error!!Total!!With a mortgage,B25101
+B25101_003EA,string,"Annotation of Estimate!!Total!!With a mortgage!!Less than $20,000",B25101
+B25101_003MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!Less than $20,000",B25101
+B25101_004EA,string,"Annotation of Estimate!!Total!!With a mortgage!!Less than $20,000!!Less than 20 percent",B25101
+B25101_004MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!Less than $20,000!!Less than 20 percent",B25101
+B25101_005EA,string,"Annotation of Estimate!!Total!!With a mortgage!!Less than $20,000!!20 to 29 percent",B25101
+B25101_005MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!Less than $20,000!!20 to 29 percent",B25101
+B25101_006EA,string,"Annotation of Estimate!!Total!!With a mortgage!!Less than $20,000!!30 percent or more",B25101
+B25101_006MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!Less than $20,000!!30 percent or more",B25101
+B25101_007EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$20,000 to $34,999",B25101
+B25101_007MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$20,000 to $34,999",B25101
+B25101_008EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$20,000 to $34,999!!Less than 20 percent",B25101
+B25101_008MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$20,000 to $34,999!!Less than 20 percent",B25101
+B25101_009EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$20,000 to $34,999!!20 to 29 percent",B25101
+B25101_009MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$20,000 to $34,999!!20 to 29 percent",B25101
+B25101_010EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$20,000 to $34,999!!30 percent or more",B25101
+B25101_010MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$20,000 to $34,999!!30 percent or more",B25101
+B25101_011EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$35,000 to $49,999",B25101
+B25101_011MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$35,000 to $49,999",B25101
+B25101_012EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$35,000 to $49,999!!Less than 20 percent",B25101
+B25101_012MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$35,000 to $49,999!!Less than 20 percent",B25101
+B25101_013EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$35,000 to $49,999!!20 to 29 percent",B25101
+B25101_013MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$35,000 to $49,999!!20 to 29 percent",B25101
+B25101_014EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$35,000 to $49,999!!30 percent or more",B25101
+B25101_014MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$35,000 to $49,999!!30 percent or more",B25101
+B25101_015EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$50,000 to $74,999",B25101
+B25101_015MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$50,000 to $74,999",B25101
+B25101_016EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$50,000 to $74,999!!Less than 20 percent",B25101
+B25101_016MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$50,000 to $74,999!!Less than 20 percent",B25101
+B25101_017EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$50,000 to $74,999!!20 to 29 percent",B25101
+B25101_017MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$50,000 to $74,999!!20 to 29 percent",B25101
+B25101_018EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$50,000 to $74,999!!30 percent or more",B25101
+B25101_018MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$50,000 to $74,999!!30 percent or more",B25101
+B25101_019EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$75,000 or more",B25101
+B25101_019MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$75,000 or more",B25101
+B25101_020EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$75,000 or more!!Less than 20 percent",B25101
+B25101_020MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$75,000 or more!!Less than 20 percent",B25101
+B25101_021EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$75,000 or more!!20 to 29 percent",B25101
+B25101_021MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$75,000 or more!!20 to 29 percent",B25101
+B25101_022EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$75,000 or more!!30 percent or more",B25101
+B25101_022MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$75,000 or more!!30 percent or more",B25101
+B25101_023EA,string,Annotation of Estimate!!Total!!With a mortgage!!Zero or negative income,B25101
+B25101_023MA,string,Annotation of Margin of Error!!Total!!With a mortgage!!Zero or negative income,B25101
+B25101_024EA,string,Annotation of Estimate!!Total!!Not mortgaged,B25101
+B25101_024MA,string,Annotation of Margin of Error!!Total!!Not mortgaged,B25101
+B25101_025EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!Less than $20,000",B25101
+B25101_025MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!Less than $20,000",B25101
+B25101_026EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!Less than $20,000!!Less than 20 percent",B25101
+B25101_026MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!Less than $20,000!!Less than 20 percent",B25101
+B25101_027EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!Less than $20,000!!20 to 29 percent",B25101
+B25101_027MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!Less than $20,000!!20 to 29 percent",B25101
+B25101_028EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!Less than $20,000!!30 percent or more",B25101
+B25101_028MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!Less than $20,000!!30 percent or more",B25101
+B25101_029EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$20,000 to $34,999",B25101
+B25101_029MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$20,000 to $34,999",B25101
+B25101_030EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$20,000 to $34,999!!Less than 20 percent",B25101
+B25101_030MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$20,000 to $34,999!!Less than 20 percent",B25101
+B25101_031EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$20,000 to $34,999!!20 to 29 percent",B25101
+B25101_031MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$20,000 to $34,999!!20 to 29 percent",B25101
+B25101_032EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$20,000 to $34,999!!30 percent or more",B25101
+B25101_032MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$20,000 to $34,999!!30 percent or more",B25101
+B25101_033EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$35,000 to $49,999",B25101
+B25101_033MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$35,000 to $49,999",B25101
+B25101_034EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$35,000 to $49,999!!Less than 20 percent",B25101
+B25101_034MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$35,000 to $49,999!!Less than 20 percent",B25101
+B25101_035EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$35,000 to $49,999!!20 to 29 percent",B25101
+B25101_035MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$35,000 to $49,999!!20 to 29 percent",B25101
+B25101_036EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$35,000 to $49,999!!30 percent or more",B25101
+B25101_036MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$35,000 to $49,999!!30 percent or more",B25101
+B25101_037EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$50,000 to $74,999",B25101
+B25101_037MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$50,000 to $74,999",B25101
+B25101_038EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$50,000 to $74,999!!Less than 20 percent",B25101
+B25101_038MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$50,000 to $74,999!!Less than 20 percent",B25101
+B25101_039EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$50,000 to $74,999!!20 to 29 percent",B25101
+B25101_039MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$50,000 to $74,999!!20 to 29 percent",B25101
+B25101_040EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$50,000 to $74,999!!30 percent or more",B25101
+B25101_040MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$50,000 to $74,999!!30 percent or more",B25101
+B25101_041EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$75,000 or more",B25101
+B25101_041MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$75,000 or more",B25101
+B25101_042EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$75,000 or more!!Less than 20 percent",B25101
+B25101_042MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$75,000 or more!!Less than 20 percent",B25101
+B25101_043EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$75,000 or more!!20 to 29 percent",B25101
+B25101_043MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$75,000 or more!!20 to 29 percent",B25101
+B25101_044EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$75,000 or more!!30 percent or more",B25101
+B25101_044MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$75,000 or more!!30 percent or more",B25101
+B25101_045EA,string,Annotation of Estimate!!Total!!Not mortgaged!!Zero or negative income,B25101
+B25101_045MA,string,Annotation of Margin of Error!!Total!!Not mortgaged!!Zero or negative income,B25101

@@ -1,0 +1,81 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1602_C01_001E,int,Total!!Estimate!!All households,S1602
+S1602_C01_002E,int,Total!!Estimate!!Households speaking!!Spanish,S1602
+S1602_C01_003E,int,Total!!Estimate!!Households speaking!!Other Indo-European languages,S1602
+S1602_C01_004E,int,Total!!Estimate!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C01_005E,int,Total!!Estimate!!Households speaking!!Other languages,S1602
+S1602_C02_001E,int,Percent!!Estimate!!All households,S1602
+S1602_C02_002E,int,Percent!!Estimate!!Households speaking!!Spanish,S1602
+S1602_C02_003E,int,Percent!!Estimate!!Households speaking!!Other Indo-European languages,S1602
+S1602_C02_004E,int,Percent!!Estimate!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C02_005E,int,Percent!!Estimate!!Households speaking!!Other languages,S1602
+S1602_C03_001E,int,Limited English-speaking households!!Estimate!!All households,S1602
+S1602_C03_002E,int,Limited English-speaking households!!Estimate!!Households speaking!!Spanish,S1602
+S1602_C03_003E,int,Limited English-speaking households!!Estimate!!Households speaking!!Other Indo-European languages,S1602
+S1602_C03_004E,int,Limited English-speaking households!!Estimate!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C03_005E,int,Limited English-speaking households!!Estimate!!Households speaking!!Other languages,S1602
+S1602_C04_001E,int,Percent limited English-speaking households!!Estimate!!All households,S1602
+S1602_C04_002E,int,Percent limited English-speaking households!!Estimate!!Households speaking!!Spanish,S1602
+S1602_C04_003E,int,Percent limited English-speaking households!!Estimate!!Households speaking!!Other Indo-European languages,S1602
+S1602_C04_004E,int,Percent limited English-speaking households!!Estimate!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C04_005E,int,Percent limited English-speaking households!!Estimate!!Households speaking!!Other languages,S1602
+S1602_C01_001M,int,Total!!Margin of Error!!All households,S1602
+S1602_C01_002M,int,Total!!Margin of Error!!Households speaking!!Spanish,S1602
+S1602_C01_003M,int,Total!!Margin of Error!!Households speaking!!Other Indo-European languages,S1602
+S1602_C01_004M,int,Total!!Margin of Error!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C01_005M,int,Total!!Margin of Error!!Households speaking!!Other languages,S1602
+S1602_C02_001M,int,Percent!!Margin of Error!!All households,S1602
+S1602_C02_002M,int,Percent!!Margin of Error!!Households speaking!!Spanish,S1602
+S1602_C02_003M,int,Percent!!Margin of Error!!Households speaking!!Other Indo-European languages,S1602
+S1602_C02_004M,int,Percent!!Margin of Error!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C02_005M,int,Percent!!Margin of Error!!Households speaking!!Other languages,S1602
+S1602_C03_001M,int,Limited English-speaking households!!Margin of Error!!All households,S1602
+S1602_C03_002M,int,Limited English-speaking households!!Margin of Error!!Households speaking!!Spanish,S1602
+S1602_C03_003M,int,Limited English-speaking households!!Margin of Error!!Households speaking!!Other Indo-European languages,S1602
+S1602_C03_004M,int,Limited English-speaking households!!Margin of Error!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C03_005M,int,Limited English-speaking households!!Margin of Error!!Households speaking!!Other languages,S1602
+S1602_C04_001M,int,Percent limited English-speaking households!!Margin of Error!!All households,S1602
+S1602_C04_002M,int,Percent limited English-speaking households!!Margin of Error!!Households speaking!!Spanish,S1602
+S1602_C04_003M,int,Percent limited English-speaking households!!Margin of Error!!Households speaking!!Other Indo-European languages,S1602
+S1602_C04_004M,int,Percent limited English-speaking households!!Margin of Error!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C04_005M,int,Percent limited English-speaking households!!Margin of Error!!Households speaking!!Other languages,S1602
+S1602_C01_001EA,string,Annotation of Total!!Estimate!!All households,S1602
+S1602_C01_001MA,string,Annotation of Total!!Margin of Error!!All households,S1602
+S1602_C01_002EA,string,Annotation of Total!!Estimate!!Households speaking!!Spanish,S1602
+S1602_C01_002MA,string,Annotation of Total!!Margin of Error!!Households speaking!!Spanish,S1602
+S1602_C01_003EA,string,Annotation of Total!!Estimate!!Households speaking!!Other Indo-European languages,S1602
+S1602_C01_003MA,string,Annotation of Total!!Margin of Error!!Households speaking!!Other Indo-European languages,S1602
+S1602_C01_004EA,string,Annotation of Total!!Estimate!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C01_004MA,string,Annotation of Total!!Margin of Error!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C01_005EA,string,Annotation of Total!!Estimate!!Households speaking!!Other languages,S1602
+S1602_C01_005MA,string,Annotation of Total!!Margin of Error!!Households speaking!!Other languages,S1602
+S1602_C02_001EA,string,Annotation of Percent!!Estimate!!All households,S1602
+S1602_C02_001MA,string,Annotation of Percent!!Margin of Error!!All households,S1602
+S1602_C02_002EA,string,Annotation of Percent!!Estimate!!Households speaking!!Spanish,S1602
+S1602_C02_002MA,string,Annotation of Percent!!Margin of Error!!Households speaking!!Spanish,S1602
+S1602_C02_003EA,string,Annotation of Percent!!Estimate!!Households speaking!!Other Indo-European languages,S1602
+S1602_C02_003MA,string,Annotation of Percent!!Margin of Error!!Households speaking!!Other Indo-European languages,S1602
+S1602_C02_004EA,string,Annotation of Percent!!Estimate!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C02_004MA,string,Annotation of Percent!!Margin of Error!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C02_005EA,string,Annotation of Percent!!Estimate!!Households speaking!!Other languages,S1602
+S1602_C02_005MA,string,Annotation of Percent!!Margin of Error!!Households speaking!!Other languages,S1602
+S1602_C03_001EA,string,Annotation of Limited English-speaking households!!Estimate!!All households,S1602
+S1602_C03_001MA,string,Annotation of Limited English-speaking households!!Margin of Error!!All households,S1602
+S1602_C03_002EA,string,Annotation of Limited English-speaking households!!Estimate!!Households speaking!!Spanish,S1602
+S1602_C03_002MA,string,Annotation of Limited English-speaking households!!Margin of Error!!Households speaking!!Spanish,S1602
+S1602_C03_003EA,string,Annotation of Limited English-speaking households!!Estimate!!Households speaking!!Other Indo-European languages,S1602
+S1602_C03_003MA,string,Annotation of Limited English-speaking households!!Margin of Error!!Households speaking!!Other Indo-European languages,S1602
+S1602_C03_004EA,string,Annotation of Limited English-speaking households!!Estimate!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C03_004MA,string,Annotation of Limited English-speaking households!!Margin of Error!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C03_005EA,string,Annotation of Limited English-speaking households!!Estimate!!Households speaking!!Other languages,S1602
+S1602_C03_005MA,string,Annotation of Limited English-speaking households!!Margin of Error!!Households speaking!!Other languages,S1602
+S1602_C04_001EA,string,Annotation of Percent limited English-speaking households!!Estimate!!All households,S1602
+S1602_C04_001MA,string,Annotation of Percent limited English-speaking households!!Margin of Error!!All households,S1602
+S1602_C04_002EA,string,Annotation of Percent limited English-speaking households!!Estimate!!Households speaking!!Spanish,S1602
+S1602_C04_002MA,string,Annotation of Percent limited English-speaking households!!Margin of Error!!Households speaking!!Spanish,S1602
+S1602_C04_003EA,string,Annotation of Percent limited English-speaking households!!Estimate!!Households speaking!!Other Indo-European languages,S1602
+S1602_C04_003MA,string,Annotation of Percent limited English-speaking households!!Margin of Error!!Households speaking!!Other Indo-European languages,S1602
+S1602_C04_004EA,string,Annotation of Percent limited English-speaking households!!Estimate!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C04_004MA,string,Annotation of Percent limited English-speaking households!!Margin of Error!!Households speaking!!Asian and Pacific Island languages,S1602
+S1602_C04_005EA,string,Annotation of Percent limited English-speaking households!!Estimate!!Households speaking!!Other languages,S1602
+S1602_C04_005MA,string,Annotation of Percent limited English-speaking households!!Margin of Error!!Households speaking!!Other languages,S1602

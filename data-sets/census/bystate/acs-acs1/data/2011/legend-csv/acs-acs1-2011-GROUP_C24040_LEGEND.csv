@@ -1,0 +1,221 @@
+VARIABLE,TYPE,LABEL,GROUP
+C24040_001E,int,Estimate!!Total,C24040
+C24040_002E,int,Estimate!!Total!!Male,C24040
+C24040_003E,int,"Estimate!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining",C24040
+C24040_004E,int,"Estimate!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",C24040
+C24040_005E,int,"Estimate!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",C24040
+C24040_006E,int,Estimate!!Total!!Male!!Construction,C24040
+C24040_007E,int,Estimate!!Total!!Male!!Manufacturing,C24040
+C24040_008E,int,Estimate!!Total!!Male!!Wholesale trade,C24040
+C24040_009E,int,Estimate!!Total!!Male!!Retail trade,C24040
+C24040_010E,int,"Estimate!!Total!!Male!!Transportation and warehousing, and utilities",C24040
+C24040_011E,int,"Estimate!!Total!!Male!!Transportation and warehousing, and utilities!!Transportation and warehousing",C24040
+C24040_012E,int,"Estimate!!Total!!Male!!Transportation and warehousing, and utilities!!Utilities",C24040
+C24040_013E,int,Estimate!!Total!!Male!!Information,C24040
+C24040_014E,int,"Estimate!!Total!!Male!!Finance and insurance, and real estate and rental and leasing",C24040
+C24040_015E,int,"Estimate!!Total!!Male!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",C24040
+C24040_016E,int,"Estimate!!Total!!Male!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",C24040
+C24040_017E,int,"Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services",C24040
+C24040_018E,int,"Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",C24040
+C24040_019E,int,"Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",C24040
+C24040_020E,int,"Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",C24040
+C24040_021E,int,"Estimate!!Total!!Male!!Educational services, and health care and social assistance",C24040
+C24040_022E,int,"Estimate!!Total!!Male!!Educational services, and health care and social assistance!!Educational services",C24040
+C24040_023E,int,"Estimate!!Total!!Male!!Educational services, and health care and social assistance!!Health care and social assistance",C24040
+C24040_024E,int,"Estimate!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services",C24040
+C24040_025E,int,"Estimate!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",C24040
+C24040_026E,int,"Estimate!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",C24040
+C24040_027E,int,"Estimate!!Total!!Male!!Other services, except public administration",C24040
+C24040_028E,int,Estimate!!Total!!Male!!Public administration,C24040
+C24040_029E,int,Estimate!!Total!!Female,C24040
+C24040_030E,int,"Estimate!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining",C24040
+C24040_031E,int,"Estimate!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",C24040
+C24040_032E,int,"Estimate!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",C24040
+C24040_033E,int,Estimate!!Total!!Female!!Construction,C24040
+C24040_034E,int,Estimate!!Total!!Female!!Manufacturing,C24040
+C24040_035E,int,Estimate!!Total!!Female!!Wholesale trade,C24040
+C24040_036E,int,Estimate!!Total!!Female!!Retail trade,C24040
+C24040_037E,int,"Estimate!!Total!!Female!!Transportation and warehousing, and utilities",C24040
+C24040_038E,int,"Estimate!!Total!!Female!!Transportation and warehousing, and utilities!!Transportation and warehousing",C24040
+C24040_039E,int,"Estimate!!Total!!Female!!Transportation and warehousing, and utilities!!Utilities",C24040
+C24040_040E,int,Estimate!!Total!!Female!!Information,C24040
+C24040_041E,int,"Estimate!!Total!!Female!!Finance and insurance, and real estate and rental and leasing",C24040
+C24040_042E,int,"Estimate!!Total!!Female!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",C24040
+C24040_043E,int,"Estimate!!Total!!Female!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",C24040
+C24040_044E,int,"Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services",C24040
+C24040_045E,int,"Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",C24040
+C24040_046E,int,"Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",C24040
+C24040_047E,int,"Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",C24040
+C24040_048E,int,"Estimate!!Total!!Female!!Educational services, and health care and social assistance",C24040
+C24040_049E,int,"Estimate!!Total!!Female!!Educational services, and health care and social assistance!!Educational services",C24040
+C24040_050E,int,"Estimate!!Total!!Female!!Educational services, and health care and social assistance!!Health care and social assistance",C24040
+C24040_051E,int,"Estimate!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services",C24040
+C24040_052E,int,"Estimate!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",C24040
+C24040_053E,int,"Estimate!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",C24040
+C24040_054E,int,"Estimate!!Total!!Female!!Other services, except public administration",C24040
+C24040_055E,int,Estimate!!Total!!Female!!Public administration,C24040
+C24040_001M,int,Margin of Error!!Total,C24040
+C24040_002M,int,Margin of Error!!Total!!Male,C24040
+C24040_003M,int,"Margin of Error!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining",C24040
+C24040_004M,int,"Margin of Error!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",C24040
+C24040_005M,int,"Margin of Error!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",C24040
+C24040_006M,int,Margin of Error!!Total!!Male!!Construction,C24040
+C24040_007M,int,Margin of Error!!Total!!Male!!Manufacturing,C24040
+C24040_008M,int,Margin of Error!!Total!!Male!!Wholesale trade,C24040
+C24040_009M,int,Margin of Error!!Total!!Male!!Retail trade,C24040
+C24040_010M,int,"Margin of Error!!Total!!Male!!Transportation and warehousing, and utilities",C24040
+C24040_011M,int,"Margin of Error!!Total!!Male!!Transportation and warehousing, and utilities!!Transportation and warehousing",C24040
+C24040_012M,int,"Margin of Error!!Total!!Male!!Transportation and warehousing, and utilities!!Utilities",C24040
+C24040_013M,int,Margin of Error!!Total!!Male!!Information,C24040
+C24040_014M,int,"Margin of Error!!Total!!Male!!Finance and insurance, and real estate and rental and leasing",C24040
+C24040_015M,int,"Margin of Error!!Total!!Male!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",C24040
+C24040_016M,int,"Margin of Error!!Total!!Male!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",C24040
+C24040_017M,int,"Margin of Error!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services",C24040
+C24040_018M,int,"Margin of Error!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",C24040
+C24040_019M,int,"Margin of Error!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",C24040
+C24040_020M,int,"Margin of Error!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",C24040
+C24040_021M,int,"Margin of Error!!Total!!Male!!Educational services, and health care and social assistance",C24040
+C24040_022M,int,"Margin of Error!!Total!!Male!!Educational services, and health care and social assistance!!Educational services",C24040
+C24040_023M,int,"Margin of Error!!Total!!Male!!Educational services, and health care and social assistance!!Health care and social assistance",C24040
+C24040_024M,int,"Margin of Error!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services",C24040
+C24040_025M,int,"Margin of Error!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",C24040
+C24040_026M,int,"Margin of Error!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",C24040
+C24040_027M,int,"Margin of Error!!Total!!Male!!Other services, except public administration",C24040
+C24040_028M,int,Margin of Error!!Total!!Male!!Public administration,C24040
+C24040_029M,int,Margin of Error!!Total!!Female,C24040
+C24040_030M,int,"Margin of Error!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining",C24040
+C24040_031M,int,"Margin of Error!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",C24040
+C24040_032M,int,"Margin of Error!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",C24040
+C24040_033M,int,Margin of Error!!Total!!Female!!Construction,C24040
+C24040_034M,int,Margin of Error!!Total!!Female!!Manufacturing,C24040
+C24040_035M,int,Margin of Error!!Total!!Female!!Wholesale trade,C24040
+C24040_036M,int,Margin of Error!!Total!!Female!!Retail trade,C24040
+C24040_037M,int,"Margin of Error!!Total!!Female!!Transportation and warehousing, and utilities",C24040
+C24040_038M,int,"Margin of Error!!Total!!Female!!Transportation and warehousing, and utilities!!Transportation and warehousing",C24040
+C24040_039M,int,"Margin of Error!!Total!!Female!!Transportation and warehousing, and utilities!!Utilities",C24040
+C24040_040M,int,Margin of Error!!Total!!Female!!Information,C24040
+C24040_041M,int,"Margin of Error!!Total!!Female!!Finance and insurance, and real estate and rental and leasing",C24040
+C24040_042M,int,"Margin of Error!!Total!!Female!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",C24040
+C24040_043M,int,"Margin of Error!!Total!!Female!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",C24040
+C24040_044M,int,"Margin of Error!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services",C24040
+C24040_045M,int,"Margin of Error!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",C24040
+C24040_046M,int,"Margin of Error!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",C24040
+C24040_047M,int,"Margin of Error!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",C24040
+C24040_048M,int,"Margin of Error!!Total!!Female!!Educational services, and health care and social assistance",C24040
+C24040_049M,int,"Margin of Error!!Total!!Female!!Educational services, and health care and social assistance!!Educational services",C24040
+C24040_050M,int,"Margin of Error!!Total!!Female!!Educational services, and health care and social assistance!!Health care and social assistance",C24040
+C24040_051M,int,"Margin of Error!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services",C24040
+C24040_052M,int,"Margin of Error!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",C24040
+C24040_053M,int,"Margin of Error!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",C24040
+C24040_054M,int,"Margin of Error!!Total!!Female!!Other services, except public administration",C24040
+C24040_055M,int,Margin of Error!!Total!!Female!!Public administration,C24040
+C24040_001EA,string,Annotation of Estimate!!Total,C24040
+C24040_001MA,string,Annotation of Margin of Error!!Total,C24040
+C24040_002EA,string,Annotation of Estimate!!Total!!Male,C24040
+C24040_002MA,string,Annotation of Margin of Error!!Total!!Male,C24040
+C24040_003EA,string,"Annotation of Estimate!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining",C24040
+C24040_003MA,string,"Annotation of Margin of Error!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining",C24040
+C24040_004EA,string,"Annotation of Estimate!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",C24040
+C24040_004MA,string,"Annotation of Margin of Error!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",C24040
+C24040_005EA,string,"Annotation of Estimate!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",C24040
+C24040_005MA,string,"Annotation of Margin of Error!!Total!!Male!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",C24040
+C24040_006EA,string,Annotation of Estimate!!Total!!Male!!Construction,C24040
+C24040_006MA,string,Annotation of Margin of Error!!Total!!Male!!Construction,C24040
+C24040_007EA,string,Annotation of Estimate!!Total!!Male!!Manufacturing,C24040
+C24040_007MA,string,Annotation of Margin of Error!!Total!!Male!!Manufacturing,C24040
+C24040_008EA,string,Annotation of Estimate!!Total!!Male!!Wholesale trade,C24040
+C24040_008MA,string,Annotation of Margin of Error!!Total!!Male!!Wholesale trade,C24040
+C24040_009EA,string,Annotation of Estimate!!Total!!Male!!Retail trade,C24040
+C24040_009MA,string,Annotation of Margin of Error!!Total!!Male!!Retail trade,C24040
+C24040_010EA,string,"Annotation of Estimate!!Total!!Male!!Transportation and warehousing, and utilities",C24040
+C24040_010MA,string,"Annotation of Margin of Error!!Total!!Male!!Transportation and warehousing, and utilities",C24040
+C24040_011EA,string,"Annotation of Estimate!!Total!!Male!!Transportation and warehousing, and utilities!!Transportation and warehousing",C24040
+C24040_011MA,string,"Annotation of Margin of Error!!Total!!Male!!Transportation and warehousing, and utilities!!Transportation and warehousing",C24040
+C24040_012EA,string,"Annotation of Estimate!!Total!!Male!!Transportation and warehousing, and utilities!!Utilities",C24040
+C24040_012MA,string,"Annotation of Margin of Error!!Total!!Male!!Transportation and warehousing, and utilities!!Utilities",C24040
+C24040_013EA,string,Annotation of Estimate!!Total!!Male!!Information,C24040
+C24040_013MA,string,Annotation of Margin of Error!!Total!!Male!!Information,C24040
+C24040_014EA,string,"Annotation of Estimate!!Total!!Male!!Finance and insurance, and real estate and rental and leasing",C24040
+C24040_014MA,string,"Annotation of Margin of Error!!Total!!Male!!Finance and insurance, and real estate and rental and leasing",C24040
+C24040_015EA,string,"Annotation of Estimate!!Total!!Male!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",C24040
+C24040_015MA,string,"Annotation of Margin of Error!!Total!!Male!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",C24040
+C24040_016EA,string,"Annotation of Estimate!!Total!!Male!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",C24040
+C24040_016MA,string,"Annotation of Margin of Error!!Total!!Male!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",C24040
+C24040_017EA,string,"Annotation of Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services",C24040
+C24040_017MA,string,"Annotation of Margin of Error!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services",C24040
+C24040_018EA,string,"Annotation of Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",C24040
+C24040_018MA,string,"Annotation of Margin of Error!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",C24040
+C24040_019EA,string,"Annotation of Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",C24040
+C24040_019MA,string,"Annotation of Margin of Error!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",C24040
+C24040_020EA,string,"Annotation of Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",C24040
+C24040_020MA,string,"Annotation of Margin of Error!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",C24040
+C24040_021EA,string,"Annotation of Estimate!!Total!!Male!!Educational services, and health care and social assistance",C24040
+C24040_021MA,string,"Annotation of Margin of Error!!Total!!Male!!Educational services, and health care and social assistance",C24040
+C24040_022EA,string,"Annotation of Estimate!!Total!!Male!!Educational services, and health care and social assistance!!Educational services",C24040
+C24040_022MA,string,"Annotation of Margin of Error!!Total!!Male!!Educational services, and health care and social assistance!!Educational services",C24040
+C24040_023EA,string,"Annotation of Estimate!!Total!!Male!!Educational services, and health care and social assistance!!Health care and social assistance",C24040
+C24040_023MA,string,"Annotation of Margin of Error!!Total!!Male!!Educational services, and health care and social assistance!!Health care and social assistance",C24040
+C24040_024EA,string,"Annotation of Estimate!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services",C24040
+C24040_024MA,string,"Annotation of Margin of Error!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services",C24040
+C24040_025EA,string,"Annotation of Estimate!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",C24040
+C24040_025MA,string,"Annotation of Margin of Error!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",C24040
+C24040_026EA,string,"Annotation of Estimate!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",C24040
+C24040_026MA,string,"Annotation of Margin of Error!!Total!!Male!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",C24040
+C24040_027EA,string,"Annotation of Estimate!!Total!!Male!!Other services, except public administration",C24040
+C24040_027MA,string,"Annotation of Margin of Error!!Total!!Male!!Other services, except public administration",C24040
+C24040_028EA,string,Annotation of Estimate!!Total!!Male!!Public administration,C24040
+C24040_028MA,string,Annotation of Margin of Error!!Total!!Male!!Public administration,C24040
+C24040_029EA,string,Annotation of Estimate!!Total!!Female,C24040
+C24040_029MA,string,Annotation of Margin of Error!!Total!!Female,C24040
+C24040_030EA,string,"Annotation of Estimate!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining",C24040
+C24040_030MA,string,"Annotation of Margin of Error!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining",C24040
+C24040_031EA,string,"Annotation of Estimate!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",C24040
+C24040_031MA,string,"Annotation of Margin of Error!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",C24040
+C24040_032EA,string,"Annotation of Estimate!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",C24040
+C24040_032MA,string,"Annotation of Margin of Error!!Total!!Female!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",C24040
+C24040_033EA,string,Annotation of Estimate!!Total!!Female!!Construction,C24040
+C24040_033MA,string,Annotation of Margin of Error!!Total!!Female!!Construction,C24040
+C24040_034EA,string,Annotation of Estimate!!Total!!Female!!Manufacturing,C24040
+C24040_034MA,string,Annotation of Margin of Error!!Total!!Female!!Manufacturing,C24040
+C24040_035EA,string,Annotation of Estimate!!Total!!Female!!Wholesale trade,C24040
+C24040_035MA,string,Annotation of Margin of Error!!Total!!Female!!Wholesale trade,C24040
+C24040_036EA,string,Annotation of Estimate!!Total!!Female!!Retail trade,C24040
+C24040_036MA,string,Annotation of Margin of Error!!Total!!Female!!Retail trade,C24040
+C24040_037EA,string,"Annotation of Estimate!!Total!!Female!!Transportation and warehousing, and utilities",C24040
+C24040_037MA,string,"Annotation of Margin of Error!!Total!!Female!!Transportation and warehousing, and utilities",C24040
+C24040_038EA,string,"Annotation of Estimate!!Total!!Female!!Transportation and warehousing, and utilities!!Transportation and warehousing",C24040
+C24040_038MA,string,"Annotation of Margin of Error!!Total!!Female!!Transportation and warehousing, and utilities!!Transportation and warehousing",C24040
+C24040_039EA,string,"Annotation of Estimate!!Total!!Female!!Transportation and warehousing, and utilities!!Utilities",C24040
+C24040_039MA,string,"Annotation of Margin of Error!!Total!!Female!!Transportation and warehousing, and utilities!!Utilities",C24040
+C24040_040EA,string,Annotation of Estimate!!Total!!Female!!Information,C24040
+C24040_040MA,string,Annotation of Margin of Error!!Total!!Female!!Information,C24040
+C24040_041EA,string,"Annotation of Estimate!!Total!!Female!!Finance and insurance, and real estate and rental and leasing",C24040
+C24040_041MA,string,"Annotation of Margin of Error!!Total!!Female!!Finance and insurance, and real estate and rental and leasing",C24040
+C24040_042EA,string,"Annotation of Estimate!!Total!!Female!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",C24040
+C24040_042MA,string,"Annotation of Margin of Error!!Total!!Female!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",C24040
+C24040_043EA,string,"Annotation of Estimate!!Total!!Female!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",C24040
+C24040_043MA,string,"Annotation of Margin of Error!!Total!!Female!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",C24040
+C24040_044EA,string,"Annotation of Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services",C24040
+C24040_044MA,string,"Annotation of Margin of Error!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services",C24040
+C24040_045EA,string,"Annotation of Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",C24040
+C24040_045MA,string,"Annotation of Margin of Error!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",C24040
+C24040_046EA,string,"Annotation of Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",C24040
+C24040_046MA,string,"Annotation of Margin of Error!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",C24040
+C24040_047EA,string,"Annotation of Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",C24040
+C24040_047MA,string,"Annotation of Margin of Error!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",C24040
+C24040_048EA,string,"Annotation of Estimate!!Total!!Female!!Educational services, and health care and social assistance",C24040
+C24040_048MA,string,"Annotation of Margin of Error!!Total!!Female!!Educational services, and health care and social assistance",C24040
+C24040_049EA,string,"Annotation of Estimate!!Total!!Female!!Educational services, and health care and social assistance!!Educational services",C24040
+C24040_049MA,string,"Annotation of Margin of Error!!Total!!Female!!Educational services, and health care and social assistance!!Educational services",C24040
+C24040_050EA,string,"Annotation of Estimate!!Total!!Female!!Educational services, and health care and social assistance!!Health care and social assistance",C24040
+C24040_050MA,string,"Annotation of Margin of Error!!Total!!Female!!Educational services, and health care and social assistance!!Health care and social assistance",C24040
+C24040_051EA,string,"Annotation of Estimate!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services",C24040
+C24040_051MA,string,"Annotation of Margin of Error!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services",C24040
+C24040_052EA,string,"Annotation of Estimate!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",C24040
+C24040_052MA,string,"Annotation of Margin of Error!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",C24040
+C24040_053EA,string,"Annotation of Estimate!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",C24040
+C24040_053MA,string,"Annotation of Margin of Error!!Total!!Female!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",C24040
+C24040_054EA,string,"Annotation of Estimate!!Total!!Female!!Other services, except public administration",C24040
+C24040_054MA,string,"Annotation of Margin of Error!!Total!!Female!!Other services, except public administration",C24040
+C24040_055EA,string,Annotation of Estimate!!Total!!Female!!Public administration,C24040
+C24040_055MA,string,Annotation of Margin of Error!!Total!!Female!!Public administration,C24040

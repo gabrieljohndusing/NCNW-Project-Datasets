@@ -1,0 +1,69 @@
+VARIABLE,TYPE,LABEL,GROUP
+B17020B_001E,int,Estimate!!Total,B17020B
+B17020B_002E,int,Estimate!!Total!!Income in the past 12 months below poverty level,B17020B
+B17020B_003E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Under 6 years,B17020B
+B17020B_004E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!6 to 11 years,B17020B
+B17020B_005E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!12 to 17 years,B17020B
+B17020B_006E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!18 to 59 years,B17020B
+B17020B_007E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!60 to 74 years,B17020B
+B17020B_008E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!75 to 84 years,B17020B
+B17020B_009E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!85 years and over,B17020B
+B17020B_010E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level,B17020B
+B17020B_011E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Under 6 years,B17020B
+B17020B_012E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!6 to 11 years,B17020B
+B17020B_013E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!12 to 17 years,B17020B
+B17020B_014E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!18 to 59 years,B17020B
+B17020B_015E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!60 to 74 years,B17020B
+B17020B_016E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!75 to 84 years,B17020B
+B17020B_017E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!85 years and over,B17020B
+B17020B_001M,int,Margin of Error!!Total,B17020B
+B17020B_002M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level,B17020B
+B17020B_003M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Under 6 years,B17020B
+B17020B_004M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!6 to 11 years,B17020B
+B17020B_005M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!12 to 17 years,B17020B
+B17020B_006M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!18 to 59 years,B17020B
+B17020B_007M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!60 to 74 years,B17020B
+B17020B_008M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!75 to 84 years,B17020B
+B17020B_009M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!85 years and over,B17020B
+B17020B_010M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level,B17020B
+B17020B_011M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Under 6 years,B17020B
+B17020B_012M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!6 to 11 years,B17020B
+B17020B_013M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!12 to 17 years,B17020B
+B17020B_014M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!18 to 59 years,B17020B
+B17020B_015M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!60 to 74 years,B17020B
+B17020B_016M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!75 to 84 years,B17020B
+B17020B_017M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!85 years and over,B17020B
+B17020B_001EA,string,Annotation of Estimate!!Total,B17020B
+B17020B_001MA,string,Annotation of Margin of Error!!Total,B17020B
+B17020B_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level,B17020B
+B17020B_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level,B17020B
+B17020B_003EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Under 6 years,B17020B
+B17020B_003MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Under 6 years,B17020B
+B17020B_004EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!6 to 11 years,B17020B
+B17020B_004MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!6 to 11 years,B17020B
+B17020B_005EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!12 to 17 years,B17020B
+B17020B_005MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!12 to 17 years,B17020B
+B17020B_006EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!18 to 59 years,B17020B
+B17020B_006MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!18 to 59 years,B17020B
+B17020B_007EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!60 to 74 years,B17020B
+B17020B_007MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!60 to 74 years,B17020B
+B17020B_008EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!75 to 84 years,B17020B
+B17020B_008MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!75 to 84 years,B17020B
+B17020B_009EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!85 years and over,B17020B
+B17020B_009MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!85 years and over,B17020B
+B17020B_010EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level,B17020B
+B17020B_010MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level,B17020B
+B17020B_011EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Under 6 years,B17020B
+B17020B_011MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Under 6 years,B17020B
+B17020B_012EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!6 to 11 years,B17020B
+B17020B_012MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!6 to 11 years,B17020B
+B17020B_013EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!12 to 17 years,B17020B
+B17020B_013MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!12 to 17 years,B17020B
+B17020B_014EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!18 to 59 years,B17020B
+B17020B_014MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!18 to 59 years,B17020B
+B17020B_015EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!60 to 74 years,B17020B
+B17020B_015MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!60 to 74 years,B17020B
+B17020B_016EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!75 to 84 years,B17020B
+B17020B_016MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!75 to 84 years,B17020B
+B17020B_017EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!85 years and over,B17020B
+B17020B_017MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!85 years and over,B17020B

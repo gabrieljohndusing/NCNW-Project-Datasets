@@ -1,0 +1,101 @@
+VARIABLE,TYPE,LABEL,GROUP
+B28004_001E,int,Estimate!!Total,B28004
+B28004_002E,int,"Estimate!!Total!!Less than $10,000",B28004
+B28004_003E,int,"Estimate!!Total!!Less than $10,000!!With dial-up Internet subscription alone",B28004
+B28004_004E,int,"Estimate!!Total!!Less than $10,000!!With a broadband Internet subscription",B28004
+B28004_005E,int,"Estimate!!Total!!Less than $10,000!!Without an Internet subscription",B28004
+B28004_006E,int,"Estimate!!Total!!$10,000 to $19,999",B28004
+B28004_007E,int,"Estimate!!Total!!$10,000 to $19,999!!With dial-up Internet subscription alone",B28004
+B28004_008E,int,"Estimate!!Total!!$10,000 to $19,999!!With a broadband Internet subscription",B28004
+B28004_009E,int,"Estimate!!Total!!$10,000 to $19,999!!Without an Internet subscription",B28004
+B28004_010E,int,"Estimate!!Total!!$20,000 to $34,999",B28004
+B28004_011E,int,"Estimate!!Total!!$20,000 to $34,999!!With dial-up Internet subscription alone",B28004
+B28004_012E,int,"Estimate!!Total!!$20,000 to $34,999!!With a broadband Internet subscription",B28004
+B28004_013E,int,"Estimate!!Total!!$20,000 to $34,999!!Without an Internet subscription",B28004
+B28004_014E,int,"Estimate!!Total!!$35,000 to $49,999",B28004
+B28004_015E,int,"Estimate!!Total!!$35,000 to $49,999!!With dial-up Internet subscription alone",B28004
+B28004_016E,int,"Estimate!!Total!!$35,000 to $49,999!!With a broadband Internet subscription",B28004
+B28004_017E,int,"Estimate!!Total!!$35,000 to $49,999!!Without an Internet subscription",B28004
+B28004_018E,int,"Estimate!!Total!!$50,000 to $74,999",B28004
+B28004_019E,int,"Estimate!!Total!!$50,000 to $74,999!!With dial-up Internet subscription alone",B28004
+B28004_020E,int,"Estimate!!Total!!$50,000 to $74,999!!With a broadband Internet subscription",B28004
+B28004_021E,int,"Estimate!!Total!!$50,000 to $74,999!!Without an Internet subscription",B28004
+B28004_022E,int,"Estimate!!Total!!$75,000 or more",B28004
+B28004_023E,int,"Estimate!!Total!!$75,000 or more!!With dial-up Internet subscription alone",B28004
+B28004_024E,int,"Estimate!!Total!!$75,000 or more!!With a broadband Internet subscription",B28004
+B28004_025E,int,"Estimate!!Total!!$75,000 or more!!Without an Internet subscription",B28004
+B28004_001M,int,Margin of Error!!Total,B28004
+B28004_002M,int,"Margin of Error!!Total!!Less than $10,000",B28004
+B28004_003M,int,"Margin of Error!!Total!!Less than $10,000!!With dial-up Internet subscription alone",B28004
+B28004_004M,int,"Margin of Error!!Total!!Less than $10,000!!With a broadband Internet subscription",B28004
+B28004_005M,int,"Margin of Error!!Total!!Less than $10,000!!Without an Internet subscription",B28004
+B28004_006M,int,"Margin of Error!!Total!!$10,000 to $19,999",B28004
+B28004_007M,int,"Margin of Error!!Total!!$10,000 to $19,999!!With dial-up Internet subscription alone",B28004
+B28004_008M,int,"Margin of Error!!Total!!$10,000 to $19,999!!With a broadband Internet subscription",B28004
+B28004_009M,int,"Margin of Error!!Total!!$10,000 to $19,999!!Without an Internet subscription",B28004
+B28004_010M,int,"Margin of Error!!Total!!$20,000 to $34,999",B28004
+B28004_011M,int,"Margin of Error!!Total!!$20,000 to $34,999!!With dial-up Internet subscription alone",B28004
+B28004_012M,int,"Margin of Error!!Total!!$20,000 to $34,999!!With a broadband Internet subscription",B28004
+B28004_013M,int,"Margin of Error!!Total!!$20,000 to $34,999!!Without an Internet subscription",B28004
+B28004_014M,int,"Margin of Error!!Total!!$35,000 to $49,999",B28004
+B28004_015M,int,"Margin of Error!!Total!!$35,000 to $49,999!!With dial-up Internet subscription alone",B28004
+B28004_016M,int,"Margin of Error!!Total!!$35,000 to $49,999!!With a broadband Internet subscription",B28004
+B28004_017M,int,"Margin of Error!!Total!!$35,000 to $49,999!!Without an Internet subscription",B28004
+B28004_018M,int,"Margin of Error!!Total!!$50,000 to $74,999",B28004
+B28004_019M,int,"Margin of Error!!Total!!$50,000 to $74,999!!With dial-up Internet subscription alone",B28004
+B28004_020M,int,"Margin of Error!!Total!!$50,000 to $74,999!!With a broadband Internet subscription",B28004
+B28004_021M,int,"Margin of Error!!Total!!$50,000 to $74,999!!Without an Internet subscription",B28004
+B28004_022M,int,"Margin of Error!!Total!!$75,000 or more",B28004
+B28004_023M,int,"Margin of Error!!Total!!$75,000 or more!!With dial-up Internet subscription alone",B28004
+B28004_024M,int,"Margin of Error!!Total!!$75,000 or more!!With a broadband Internet subscription",B28004
+B28004_025M,int,"Margin of Error!!Total!!$75,000 or more!!Without an Internet subscription",B28004
+B28004_001EA,string,Annotation of Estimate!!Total,B28004
+B28004_001MA,string,Annotation of Margin of Error!!Total,B28004
+B28004_002EA,string,"Annotation of Estimate!!Total!!Less than $10,000",B28004
+B28004_002MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000",B28004
+B28004_003EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!With dial-up Internet subscription alone",B28004
+B28004_003MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!With dial-up Internet subscription alone",B28004
+B28004_004EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!With a broadband Internet subscription",B28004
+B28004_004MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!With a broadband Internet subscription",B28004
+B28004_005EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!Without an Internet subscription",B28004
+B28004_005MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!Without an Internet subscription",B28004
+B28004_006EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999",B28004
+B28004_006MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999",B28004
+B28004_007EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!With dial-up Internet subscription alone",B28004
+B28004_007MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!With dial-up Internet subscription alone",B28004
+B28004_008EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!With a broadband Internet subscription",B28004
+B28004_008MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!With a broadband Internet subscription",B28004
+B28004_009EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!Without an Internet subscription",B28004
+B28004_009MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!Without an Internet subscription",B28004
+B28004_010EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999",B28004
+B28004_010MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999",B28004
+B28004_011EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!With dial-up Internet subscription alone",B28004
+B28004_011MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!With dial-up Internet subscription alone",B28004
+B28004_012EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!With a broadband Internet subscription",B28004
+B28004_012MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!With a broadband Internet subscription",B28004
+B28004_013EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!Without an Internet subscription",B28004
+B28004_013MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!Without an Internet subscription",B28004
+B28004_014EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999",B28004
+B28004_014MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999",B28004
+B28004_015EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!With dial-up Internet subscription alone",B28004
+B28004_015MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!With dial-up Internet subscription alone",B28004
+B28004_016EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!With a broadband Internet subscription",B28004
+B28004_016MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!With a broadband Internet subscription",B28004
+B28004_017EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!Without an Internet subscription",B28004
+B28004_017MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!Without an Internet subscription",B28004
+B28004_018EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999",B28004
+B28004_018MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999",B28004
+B28004_019EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!With dial-up Internet subscription alone",B28004
+B28004_019MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!With dial-up Internet subscription alone",B28004
+B28004_020EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!With a broadband Internet subscription",B28004
+B28004_020MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!With a broadband Internet subscription",B28004
+B28004_021EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!Without an Internet subscription",B28004
+B28004_021MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!Without an Internet subscription",B28004
+B28004_022EA,string,"Annotation of Estimate!!Total!!$75,000 or more",B28004
+B28004_022MA,string,"Annotation of Margin of Error!!Total!!$75,000 or more",B28004
+B28004_023EA,string,"Annotation of Estimate!!Total!!$75,000 or more!!With dial-up Internet subscription alone",B28004
+B28004_023MA,string,"Annotation of Margin of Error!!Total!!$75,000 or more!!With dial-up Internet subscription alone",B28004
+B28004_024EA,string,"Annotation of Estimate!!Total!!$75,000 or more!!With a broadband Internet subscription",B28004
+B28004_024MA,string,"Annotation of Margin of Error!!Total!!$75,000 or more!!With a broadband Internet subscription",B28004
+B28004_025EA,string,"Annotation of Estimate!!Total!!$75,000 or more!!Without an Internet subscription",B28004
+B28004_025MA,string,"Annotation of Margin of Error!!Total!!$75,000 or more!!Without an Internet subscription",B28004

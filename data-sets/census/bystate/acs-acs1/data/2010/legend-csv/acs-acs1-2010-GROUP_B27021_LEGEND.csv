@@ -1,0 +1,213 @@
+VARIABLE,TYPE,LABEL,GROUP
+B27021_001E,int,Estimate!!Total,B27021
+B27021_002E,int,Estimate!!Total!!In family households,B27021
+B27021_003E,int,Estimate!!Total!!In family households!!In married couple families,B27021
+B27021_004E,int,Estimate!!Total!!In family households!!In married couple families!!All relatives,B27021
+B27021_005E,int,Estimate!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage,B27021
+B27021_006E,int,Estimate!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage!!With private health insurance,B27021
+B27021_007E,int,Estimate!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage!!With public coverage,B27021
+B27021_008E,int,Estimate!!Total!!In family households!!In married couple families!!All relatives!!No health insurance coverage,B27021
+B27021_009E,int,Estimate!!Total!!In family households!!In married couple families!!Non-relatives,B27021
+B27021_010E,int,Estimate!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage,B27021
+B27021_011E,int,Estimate!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage!!With private health insurance,B27021
+B27021_012E,int,Estimate!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage!!With public coverage,B27021
+B27021_013E,int,Estimate!!Total!!In family households!!In married couple families!!Non-relatives!!No health insurance coverage,B27021
+B27021_014E,int,Estimate!!Total!!In family households!!In other families,B27021
+B27021_015E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present",B27021
+B27021_016E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives",B27021
+B27021_017E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage",B27021
+B27021_018E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_019E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_020E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!No health insurance coverage",B27021
+B27021_021E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives",B27021
+B27021_022E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage",B27021
+B27021_023E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_024E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_025E,int,"Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!No health insurance coverage",B27021
+B27021_026E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present",B27021
+B27021_027E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives",B27021
+B27021_028E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage",B27021
+B27021_029E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_030E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_031E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!No health insurance coverage",B27021
+B27021_032E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives",B27021
+B27021_033E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage",B27021
+B27021_034E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_035E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_036E,int,"Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!No health insurance coverage",B27021
+B27021_037E,int,Estimate!!Total!!In non-family households and other living arrangements,B27021
+B27021_038E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder,B27021
+B27021_039E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone,B27021
+B27021_040E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage,B27021
+B27021_041E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage!!With private health insurance,B27021
+B27021_042E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage!!With public coverage,B27021
+B27021_043E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!No health insurance coverage,B27021
+B27021_044E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone,B27021
+B27021_045E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage,B27021
+B27021_046E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage!!With private health insurance,B27021
+B27021_047E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage!!With public coverage,B27021
+B27021_048E,int,Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!No health insurance coverage,B27021
+B27021_049E,int,Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements,B27021
+B27021_050E,int,Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage,B27021
+B27021_051E,int,Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage!!With private health insurance,B27021
+B27021_052E,int,Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage!!With public coverage,B27021
+B27021_053E,int,Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements!!No health insurance coverage,B27021
+B27021_001M,int,Margin of Error!!Total,B27021
+B27021_002M,int,Margin of Error!!Total!!In family households,B27021
+B27021_003M,int,Margin of Error!!Total!!In family households!!In married couple families,B27021
+B27021_004M,int,Margin of Error!!Total!!In family households!!In married couple families!!All relatives,B27021
+B27021_005M,int,Margin of Error!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage,B27021
+B27021_006M,int,Margin of Error!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage!!With private health insurance,B27021
+B27021_007M,int,Margin of Error!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage!!With public coverage,B27021
+B27021_008M,int,Margin of Error!!Total!!In family households!!In married couple families!!All relatives!!No health insurance coverage,B27021
+B27021_009M,int,Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives,B27021
+B27021_010M,int,Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage,B27021
+B27021_011M,int,Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage!!With private health insurance,B27021
+B27021_012M,int,Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage!!With public coverage,B27021
+B27021_013M,int,Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives!!No health insurance coverage,B27021
+B27021_014M,int,Margin of Error!!Total!!In family households!!In other families,B27021
+B27021_015M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present",B27021
+B27021_016M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives",B27021
+B27021_017M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage",B27021
+B27021_018M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_019M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_020M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!No health insurance coverage",B27021
+B27021_021M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives",B27021
+B27021_022M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage",B27021
+B27021_023M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_024M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_025M,int,"Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!No health insurance coverage",B27021
+B27021_026M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present",B27021
+B27021_027M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives",B27021
+B27021_028M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage",B27021
+B27021_029M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_030M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_031M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!No health insurance coverage",B27021
+B27021_032M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives",B27021
+B27021_033M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage",B27021
+B27021_034M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_035M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_036M,int,"Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!No health insurance coverage",B27021
+B27021_037M,int,Margin of Error!!Total!!In non-family households and other living arrangements,B27021
+B27021_038M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder,B27021
+B27021_039M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone,B27021
+B27021_040M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage,B27021
+B27021_041M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage!!With private health insurance,B27021
+B27021_042M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage!!With public coverage,B27021
+B27021_043M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!No health insurance coverage,B27021
+B27021_044M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone,B27021
+B27021_045M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage,B27021
+B27021_046M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage!!With private health insurance,B27021
+B27021_047M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage!!With public coverage,B27021
+B27021_048M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!No health insurance coverage,B27021
+B27021_049M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements,B27021
+B27021_050M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage,B27021
+B27021_051M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage!!With private health insurance,B27021
+B27021_052M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage!!With public coverage,B27021
+B27021_053M,int,Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements!!No health insurance coverage,B27021
+B27021_001EA,string,Annotation of Estimate!!Total,B27021
+B27021_001MA,string,Annotation of Margin of Error!!Total,B27021
+B27021_002EA,string,Annotation of Estimate!!Total!!In family households,B27021
+B27021_002MA,string,Annotation of Margin of Error!!Total!!In family households,B27021
+B27021_003EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families,B27021
+B27021_003MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families,B27021
+B27021_004EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!All relatives,B27021
+B27021_004MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!All relatives,B27021
+B27021_005EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage,B27021
+B27021_005MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage,B27021
+B27021_006EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage!!With private health insurance,B27021
+B27021_006MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage!!With private health insurance,B27021
+B27021_007EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage!!With public coverage,B27021
+B27021_007MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!All relatives!!With health insurance coverage!!With public coverage,B27021
+B27021_008EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!All relatives!!No health insurance coverage,B27021
+B27021_008MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!All relatives!!No health insurance coverage,B27021
+B27021_009EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!Non-relatives,B27021
+B27021_009MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives,B27021
+B27021_010EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage,B27021
+B27021_010MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage,B27021
+B27021_011EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage!!With private health insurance,B27021
+B27021_011MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage!!With private health insurance,B27021
+B27021_012EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage!!With public coverage,B27021
+B27021_012MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives!!With health insurance coverage!!With public coverage,B27021
+B27021_013EA,string,Annotation of Estimate!!Total!!In family households!!In married couple families!!Non-relatives!!No health insurance coverage,B27021
+B27021_013MA,string,Annotation of Margin of Error!!Total!!In family households!!In married couple families!!Non-relatives!!No health insurance coverage,B27021
+B27021_014EA,string,Annotation of Estimate!!Total!!In family households!!In other families,B27021
+B27021_014MA,string,Annotation of Margin of Error!!Total!!In family households!!In other families,B27021
+B27021_015EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present",B27021
+B27021_015MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present",B27021
+B27021_016EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives",B27021
+B27021_016MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives",B27021
+B27021_017EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage",B27021
+B27021_017MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage",B27021
+B27021_018EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_018MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_019EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_019MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_020EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!No health insurance coverage",B27021
+B27021_020MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!All relatives!!No health insurance coverage",B27021
+B27021_021EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives",B27021
+B27021_021MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives",B27021
+B27021_022EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage",B27021
+B27021_022MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage",B27021
+B27021_023EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_023MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_024EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_024MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_025EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!No health insurance coverage",B27021
+B27021_025MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Male householder, no wife present!!Non-relatives!!No health insurance coverage",B27021
+B27021_026EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present",B27021
+B27021_026MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present",B27021
+B27021_027EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives",B27021
+B27021_027MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives",B27021
+B27021_028EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage",B27021
+B27021_028MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage",B27021
+B27021_029EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_029MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_030EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_030MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_031EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!No health insurance coverage",B27021
+B27021_031MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!All relatives!!No health insurance coverage",B27021
+B27021_032EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives",B27021
+B27021_032MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives",B27021
+B27021_033EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage",B27021
+B27021_033MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage",B27021
+B27021_034EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_034MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage!!With private health insurance",B27021
+B27021_035EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_035MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!With health insurance coverage!!With public coverage",B27021
+B27021_036EA,string,"Annotation of Estimate!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!No health insurance coverage",B27021
+B27021_036MA,string,"Annotation of Margin of Error!!Total!!In family households!!In other families!!Female householder, no husband present!!Non-relatives!!No health insurance coverage",B27021
+B27021_037EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements,B27021
+B27021_037MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements,B27021
+B27021_038EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder,B27021
+B27021_038MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder,B27021
+B27021_039EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone,B27021
+B27021_039MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone,B27021
+B27021_040EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage,B27021
+B27021_040MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage,B27021
+B27021_041EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage!!With private health insurance,B27021
+B27021_041MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage!!With private health insurance,B27021
+B27021_042EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage!!With public coverage,B27021
+B27021_042MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!With health insurance coverage!!With public coverage,B27021
+B27021_043EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!No health insurance coverage,B27021
+B27021_043MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Living alone!!No health insurance coverage,B27021
+B27021_044EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone,B27021
+B27021_044MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone,B27021
+B27021_045EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage,B27021
+B27021_045MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage,B27021
+B27021_046EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage!!With private health insurance,B27021
+B27021_046MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage!!With private health insurance,B27021
+B27021_047EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage!!With public coverage,B27021
+B27021_047MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!With health insurance coverage!!With public coverage,B27021
+B27021_048EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!No health insurance coverage,B27021
+B27021_048MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Householder!!Not living alone!!No health insurance coverage,B27021
+B27021_049EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements,B27021
+B27021_049MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements,B27021
+B27021_050EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage,B27021
+B27021_050MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage,B27021
+B27021_051EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage!!With private health insurance,B27021
+B27021_051MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage!!With private health insurance,B27021
+B27021_052EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage!!With public coverage,B27021
+B27021_052MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements!!With health insurance coverage!!With public coverage,B27021
+B27021_053EA,string,Annotation of Estimate!!Total!!In non-family households and other living arrangements!!Other living arrangements!!No health insurance coverage,B27021
+B27021_053MA,string,Annotation of Margin of Error!!Total!!In non-family households and other living arrangements!!Other living arrangements!!No health insurance coverage,B27021

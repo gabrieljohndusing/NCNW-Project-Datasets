@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B23019_001E,int,Estimate!!Aggregate weeks,B23019
+B23019_002E,int,Estimate!!Aggregate weeks!!Male,B23019
+B23019_003E,int,Estimate!!Aggregate weeks!!Female,B23019
+B23019_001M,int,Margin of Error!!Aggregate weeks,B23019
+B23019_002M,int,Margin of Error!!Aggregate weeks!!Male,B23019
+B23019_003M,int,Margin of Error!!Aggregate weeks!!Female,B23019
+B23019_001EA,string,Annotation of Estimate!!Aggregate weeks,B23019
+B23019_001MA,string,Annotation of Margin of Error!!Aggregate weeks,B23019
+B23019_002EA,string,Annotation of Estimate!!Aggregate weeks!!Male,B23019
+B23019_002MA,string,Annotation of Margin of Error!!Aggregate weeks!!Male,B23019
+B23019_003EA,string,Annotation of Estimate!!Aggregate weeks!!Female,B23019
+B23019_003MA,string,Annotation of Margin of Error!!Aggregate weeks!!Female,B23019

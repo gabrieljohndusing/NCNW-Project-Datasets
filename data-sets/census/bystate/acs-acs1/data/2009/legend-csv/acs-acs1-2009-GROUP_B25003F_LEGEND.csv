@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25003F_001E,int,Estimate!!Total,B25003F
+B25003F_002E,int,Estimate!!Total!!Owner occupied,B25003F
+B25003F_003E,int,Estimate!!Total!!Renter occupied,B25003F
+B25003F_001M,int,Margin of Error!!Total,B25003F
+B25003F_002M,int,Margin of Error!!Total!!Owner occupied,B25003F
+B25003F_003M,int,Margin of Error!!Total!!Renter occupied,B25003F
+B25003F_001EA,string,Annotation of Estimate!!Total,B25003F
+B25003F_001MA,string,Annotation of Margin of Error!!Total,B25003F
+B25003F_002EA,string,Annotation of Estimate!!Total!!Owner occupied,B25003F
+B25003F_002MA,string,Annotation of Margin of Error!!Total!!Owner occupied,B25003F
+B25003F_003EA,string,Annotation of Estimate!!Total!!Renter occupied,B25003F
+B25003F_003MA,string,Annotation of Margin of Error!!Total!!Renter occupied,B25003F

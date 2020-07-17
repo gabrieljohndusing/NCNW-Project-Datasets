@@ -1,0 +1,33 @@
+VARIABLE,TYPE,LABEL,GROUP
+B26103F_001E,int,Estimate!!Total,B26103F
+B26103F_002E,int,Estimate!!Total!!Group quarters population,B26103F
+B26103F_003E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26103F
+B26103F_004E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26103F
+B26103F_005E,int,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26103F
+B26103F_006E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26103F
+B26103F_007E,int,Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26103F
+B26103F_008E,int,Estimate!!Total!!Household population,B26103F
+B26103F_001M,int,Margin of Error!!Total,B26103F
+B26103F_002M,int,Margin of Error!!Total!!Group quarters population,B26103F
+B26103F_003M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26103F
+B26103F_004M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26103F
+B26103F_005M,int,Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26103F
+B26103F_006M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26103F
+B26103F_007M,int,Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26103F
+B26103F_008M,int,Margin of Error!!Total!!Household population,B26103F
+B26103F_001EA,string,Annotation of Estimate!!Total,B26103F
+B26103F_001MA,string,Annotation of Margin of Error!!Total,B26103F
+B26103F_002EA,string,Annotation of Estimate!!Total!!Group quarters population,B26103F
+B26103F_002MA,string,Annotation of Margin of Error!!Total!!Group quarters population,B26103F
+B26103F_003EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population,B26103F
+B26103F_003MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population,B26103F
+B26103F_004EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26103F
+B26103F_004MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,B26103F
+B26103F_005EA,string,Annotation of Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26103F
+B26103F_005MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Institutionalized group quarters population!!Nursing facilities/skilled nursing facilities,B26103F
+B26103F_006EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26103F
+B26103F_006MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population,B26103F
+B26103F_007EA,string,Annotation of Estimate!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26103F
+B26103F_007MA,string,Annotation of Margin of Error!!Total!!Group quarters population!!Noninstitutionalized group quarters population!!College/university student housing,B26103F
+B26103F_008EA,string,Annotation of Estimate!!Total!!Household population,B26103F
+B26103F_008MA,string,Annotation of Margin of Error!!Total!!Household population,B26103F

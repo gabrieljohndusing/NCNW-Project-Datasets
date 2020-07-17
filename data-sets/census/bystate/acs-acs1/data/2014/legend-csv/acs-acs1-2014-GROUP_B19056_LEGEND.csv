@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19056_001E,int,Estimate!!Total,B19056
+B19056_002E,int,Estimate!!Total!!With Supplemental Security Income (SSI),B19056
+B19056_003E,int,Estimate!!Total!!No Supplemental Security Income (SSI),B19056
+B19056_001M,int,Margin of Error!!Total,B19056
+B19056_002M,int,Margin of Error!!Total!!With Supplemental Security Income (SSI),B19056
+B19056_003M,int,Margin of Error!!Total!!No Supplemental Security Income (SSI),B19056
+B19056_001EA,string,Annotation of Estimate!!Total,B19056
+B19056_001MA,string,Annotation of Margin of Error!!Total,B19056
+B19056_002EA,string,Annotation of Estimate!!Total!!With Supplemental Security Income (SSI),B19056
+B19056_002MA,string,Annotation of Margin of Error!!Total!!With Supplemental Security Income (SSI),B19056
+B19056_003EA,string,Annotation of Estimate!!Total!!No Supplemental Security Income (SSI),B19056
+B19056_003MA,string,Annotation of Margin of Error!!Total!!No Supplemental Security Income (SSI),B19056

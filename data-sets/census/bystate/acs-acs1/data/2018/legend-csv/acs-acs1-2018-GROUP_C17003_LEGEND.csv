@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17003_001E,int,Estimate!!Total,C17003
+C17003_002E,int,Estimate!!Total!!Income in the past 12 months below poverty level,C17003
+C17003_003E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Less than high school graduate,C17003
+C17003_004E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!High school graduate (includes equivalency),C17003
+C17003_005E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Some college, associate's degree",C17003
+C17003_006E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Bachelor's degree or higher,C17003
+C17003_007E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level,C17003
+C17003_008E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Less than high school graduate,C17003
+C17003_009E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!High school graduate (includes equivalency),C17003
+C17003_010E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Some college, associate's degree",C17003
+C17003_011E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Bachelor's degree or higher,C17003
+C17003_001M,int,Margin of Error!!Total,C17003
+C17003_002M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level,C17003
+C17003_003M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Less than high school graduate,C17003
+C17003_004M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!High school graduate (includes equivalency),C17003
+C17003_005M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Some college, associate's degree",C17003
+C17003_006M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Bachelor's degree or higher,C17003
+C17003_007M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17003
+C17003_008M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Less than high school graduate,C17003
+C17003_009M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!High school graduate (includes equivalency),C17003
+C17003_010M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Some college, associate's degree",C17003
+C17003_011M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Bachelor's degree or higher,C17003
+C17003_001EA,string,Annotation of Estimate!!Total,C17003
+C17003_001MA,string,Annotation of Margin of Error!!Total,C17003
+C17003_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level,C17003
+C17003_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level,C17003
+C17003_003EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Less than high school graduate,C17003
+C17003_003MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Less than high school graduate,C17003
+C17003_004EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!High school graduate (includes equivalency),C17003
+C17003_004MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!High school graduate (includes equivalency),C17003
+C17003_005EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Some college, associate's degree",C17003
+C17003_005MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Some college, associate's degree",C17003
+C17003_006EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Bachelor's degree or higher,C17003
+C17003_006MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Bachelor's degree or higher,C17003
+C17003_007EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level,C17003
+C17003_007MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17003
+C17003_008EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Less than high school graduate,C17003
+C17003_008MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Less than high school graduate,C17003
+C17003_009EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!High school graduate (includes equivalency),C17003
+C17003_009MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!High school graduate (includes equivalency),C17003
+C17003_010EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Some college, associate's degree",C17003
+C17003_010MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Some college, associate's degree",C17003
+C17003_011EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Bachelor's degree or higher,C17003
+C17003_011MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Bachelor's degree or higher,C17003

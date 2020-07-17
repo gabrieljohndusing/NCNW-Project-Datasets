@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+C24010I_001E,int,Estimate!!Total,C24010I
+C24010I_002E,int,Estimate!!Total!!Male,C24010I
+C24010I_003E,int,"Estimate!!Total!!Male!!Management, professional, and related occupations",C24010I
+C24010I_004E,int,Estimate!!Total!!Male!!Service occupations,C24010I
+C24010I_005E,int,Estimate!!Total!!Male!!Sales and office occupations,C24010I
+C24010I_006E,int,"Estimate!!Total!!Male!!Farming, fishing, and forestry occupations",C24010I
+C24010I_007E,int,"Estimate!!Total!!Male!!Construction, extraction, maintenance, and repair occupations",C24010I
+C24010I_008E,int,"Estimate!!Total!!Male!!Production, transportation, and material moving occupations",C24010I
+C24010I_009E,int,Estimate!!Total!!Female,C24010I
+C24010I_010E,int,"Estimate!!Total!!Female!!Management, professional, and related occupations",C24010I
+C24010I_011E,int,Estimate!!Total!!Female!!Service occupations,C24010I
+C24010I_012E,int,Estimate!!Total!!Female!!Sales and office occupations,C24010I
+C24010I_013E,int,"Estimate!!Total!!Female!!Farming, fishing, and forestry occupations",C24010I
+C24010I_014E,int,"Estimate!!Total!!Female!!Construction, extraction, maintenance, and repair occupations",C24010I
+C24010I_015E,int,"Estimate!!Total!!Female!!Production, transportation, and material moving occupations",C24010I
+C24010I_001M,int,Margin of Error!!Total,C24010I
+C24010I_002M,int,Margin of Error!!Total!!Male,C24010I
+C24010I_003M,int,"Margin of Error!!Total!!Male!!Management, professional, and related occupations",C24010I
+C24010I_004M,int,Margin of Error!!Total!!Male!!Service occupations,C24010I
+C24010I_005M,int,Margin of Error!!Total!!Male!!Sales and office occupations,C24010I
+C24010I_006M,int,"Margin of Error!!Total!!Male!!Farming, fishing, and forestry occupations",C24010I
+C24010I_007M,int,"Margin of Error!!Total!!Male!!Construction, extraction, maintenance, and repair occupations",C24010I
+C24010I_008M,int,"Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations",C24010I
+C24010I_009M,int,Margin of Error!!Total!!Female,C24010I
+C24010I_010M,int,"Margin of Error!!Total!!Female!!Management, professional, and related occupations",C24010I
+C24010I_011M,int,Margin of Error!!Total!!Female!!Service occupations,C24010I
+C24010I_012M,int,Margin of Error!!Total!!Female!!Sales and office occupations,C24010I
+C24010I_013M,int,"Margin of Error!!Total!!Female!!Farming, fishing, and forestry occupations",C24010I
+C24010I_014M,int,"Margin of Error!!Total!!Female!!Construction, extraction, maintenance, and repair occupations",C24010I
+C24010I_015M,int,"Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations",C24010I
+C24010I_001EA,string,Annotation of Estimate!!Total,C24010I
+C24010I_001MA,string,Annotation of Margin of Error!!Total,C24010I
+C24010I_002EA,string,Annotation of Estimate!!Total!!Male,C24010I
+C24010I_002MA,string,Annotation of Margin of Error!!Total!!Male,C24010I
+C24010I_003EA,string,"Annotation of Estimate!!Total!!Male!!Management, professional, and related occupations",C24010I
+C24010I_003MA,string,"Annotation of Margin of Error!!Total!!Male!!Management, professional, and related occupations",C24010I
+C24010I_004EA,string,Annotation of Estimate!!Total!!Male!!Service occupations,C24010I
+C24010I_004MA,string,Annotation of Margin of Error!!Total!!Male!!Service occupations,C24010I
+C24010I_005EA,string,Annotation of Estimate!!Total!!Male!!Sales and office occupations,C24010I
+C24010I_005MA,string,Annotation of Margin of Error!!Total!!Male!!Sales and office occupations,C24010I
+C24010I_006EA,string,"Annotation of Estimate!!Total!!Male!!Farming, fishing, and forestry occupations",C24010I
+C24010I_006MA,string,"Annotation of Margin of Error!!Total!!Male!!Farming, fishing, and forestry occupations",C24010I
+C24010I_007EA,string,"Annotation of Estimate!!Total!!Male!!Construction, extraction, maintenance, and repair occupations",C24010I
+C24010I_007MA,string,"Annotation of Margin of Error!!Total!!Male!!Construction, extraction, maintenance, and repair occupations",C24010I
+C24010I_008EA,string,"Annotation of Estimate!!Total!!Male!!Production, transportation, and material moving occupations",C24010I
+C24010I_008MA,string,"Annotation of Margin of Error!!Total!!Male!!Production, transportation, and material moving occupations",C24010I
+C24010I_009EA,string,Annotation of Estimate!!Total!!Female,C24010I
+C24010I_009MA,string,Annotation of Margin of Error!!Total!!Female,C24010I
+C24010I_010EA,string,"Annotation of Estimate!!Total!!Female!!Management, professional, and related occupations",C24010I
+C24010I_010MA,string,"Annotation of Margin of Error!!Total!!Female!!Management, professional, and related occupations",C24010I
+C24010I_011EA,string,Annotation of Estimate!!Total!!Female!!Service occupations,C24010I
+C24010I_011MA,string,Annotation of Margin of Error!!Total!!Female!!Service occupations,C24010I
+C24010I_012EA,string,Annotation of Estimate!!Total!!Female!!Sales and office occupations,C24010I
+C24010I_012MA,string,Annotation of Margin of Error!!Total!!Female!!Sales and office occupations,C24010I
+C24010I_013EA,string,"Annotation of Estimate!!Total!!Female!!Farming, fishing, and forestry occupations",C24010I
+C24010I_013MA,string,"Annotation of Margin of Error!!Total!!Female!!Farming, fishing, and forestry occupations",C24010I
+C24010I_014EA,string,"Annotation of Estimate!!Total!!Female!!Construction, extraction, maintenance, and repair occupations",C24010I
+C24010I_014MA,string,"Annotation of Margin of Error!!Total!!Female!!Construction, extraction, maintenance, and repair occupations",C24010I
+C24010I_015EA,string,"Annotation of Estimate!!Total!!Female!!Production, transportation, and material moving occupations",C24010I
+C24010I_015MA,string,"Annotation of Margin of Error!!Total!!Female!!Production, transportation, and material moving occupations",C24010I

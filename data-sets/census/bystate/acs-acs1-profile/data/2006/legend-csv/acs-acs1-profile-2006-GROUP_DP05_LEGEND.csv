@@ -1,0 +1,325 @@
+VARIABLE,TYPE,LABEL,GROUP
+DP05_0001E,int,Estimate!!Total population,DP05
+DP05_0002E,int,Estimate!!Total population!!SEX AND AGE!!Male,DP05
+DP05_0003E,int,Estimate!!Total population!!SEX AND AGE!!Female,DP05
+DP05_0004E,int,Estimate!!Total population!!SEX AND AGE!!Under 5 years,DP05
+DP05_0005E,int,Estimate!!Total population!!SEX AND AGE!!5 to 9 years,DP05
+DP05_0006E,int,Estimate!!Total population!!SEX AND AGE!!10 to 14 years,DP05
+DP05_0007E,int,Estimate!!Total population!!SEX AND AGE!!15 to 19 years,DP05
+DP05_0008E,int,Estimate!!Total population!!SEX AND AGE!!20 to 24 years,DP05
+DP05_0009E,int,Estimate!!Total population!!SEX AND AGE!!25 to 34 years,DP05
+DP05_0010E,int,Estimate!!Total population!!SEX AND AGE!!35 to 44 years,DP05
+DP05_0011E,int,Estimate!!Total population!!SEX AND AGE!!45 to 54 years,DP05
+DP05_0012E,int,Estimate!!Total population!!SEX AND AGE!!55 to 59 years,DP05
+DP05_0013E,int,Estimate!!Total population!!SEX AND AGE!!60 to 64 years,DP05
+DP05_0014E,int,Estimate!!Total population!!SEX AND AGE!!65 to 74 years,DP05
+DP05_0015E,int,Estimate!!Total population!!SEX AND AGE!!75 to 84 years,DP05
+DP05_0016E,int,Estimate!!Total population!!SEX AND AGE!!85 years and over,DP05
+DP05_0017E,float,Estimate!!Total population!!SEX AND AGE!!Median age (years),DP05
+DP05_0018E,int,Estimate!!Total population!!SEX AND AGE!!18 years and over,DP05
+DP05_0019E,int,Estimate!!Total population!!SEX AND AGE!!21 years and over,DP05
+DP05_0020E,int,Estimate!!Total population!!SEX AND AGE!!62 years and over,DP05
+DP05_0021E,int,Estimate!!Total population!!SEX AND AGE!!65 years and over,DP05
+DP05_0022E,int,Estimate!!Total population!!SEX AND AGE!!18 years and over,DP05
+DP05_0023E,int,Estimate!!Total population!!SEX AND AGE!!18 years and over!!Male,DP05
+DP05_0024E,int,Estimate!!Total population!!SEX AND AGE!!18 years and over!!Female,DP05
+DP05_0025E,int,Estimate!!Total population!!SEX AND AGE!!65 years and over,DP05
+DP05_0026E,int,Estimate!!Total population!!SEX AND AGE!!65 years and over!!Male,DP05
+DP05_0027E,int,Estimate!!Total population!!SEX AND AGE!!65 years and over!!Female,DP05
+DP05_0028E,int,Estimate!!Total population!!RACE!!One race,DP05
+DP05_0029E,int,Estimate!!Total population!!RACE!!Two or more races,DP05
+DP05_0030E,int,Estimate!!Total population,DP05
+DP05_0031E,int,Estimate!!Total population!!One race,DP05
+DP05_0032E,int,Estimate!!Total population!!One race!!White,DP05
+DP05_0033E,int,Estimate!!Total population!!One race!!Black or African American,DP05
+DP05_0034E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native,DP05
+DP05_0035E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,DP05
+DP05_0036E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,DP05
+DP05_0037E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,DP05
+DP05_0038E,int,Estimate!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,DP05
+DP05_0039E,int,Estimate!!Total population!!One race!!Asian,DP05
+DP05_0040E,int,Estimate!!Total population!!One race!!Asian!!Asian Indian,DP05
+DP05_0041E,int,Estimate!!Total population!!One race!!Asian!!Chinese,DP05
+DP05_0042E,int,Estimate!!Total population!!One race!!Asian!!Filipino,DP05
+DP05_0043E,int,Estimate!!Total population!!One race!!Asian!!Japanese,DP05
+DP05_0044E,int,Estimate!!Total population!!One race!!Asian!!Korean,DP05
+DP05_0045E,int,Estimate!!Total population!!One race!!Asian!!Vietnamese,DP05
+DP05_0046E,int,Estimate!!Total population!!One race!!Asian!!Other Asian,DP05
+DP05_0047E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,DP05
+DP05_0048E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,DP05
+DP05_0049E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,DP05
+DP05_0050E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,DP05
+DP05_0051E,int,Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,DP05
+DP05_0052E,int,Estimate!!Total population!!One race!!Some other race,DP05
+DP05_0053E,int,Estimate!!Total population!!Two or more races,DP05
+DP05_0054E,int,Estimate!!Total population!!Two or more races!!White and Black or African American,DP05
+DP05_0055E,int,Estimate!!Total population!!Two or more races!!White and American Indian and Alaska Native,DP05
+DP05_0056E,int,Estimate!!Total population!!Two or more races!!White and Asian,DP05
+DP05_0057E,int,Estimate!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,DP05
+DP05_0058E,int,Estimate!!Race alone or in combination with one or more other races!!Total population,DP05
+DP05_0059E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!White,DP05
+DP05_0060E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!Black or African American,DP05
+DP05_0061E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,DP05
+DP05_0062E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!Asian,DP05
+DP05_0063E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,DP05
+DP05_0064E,int,Estimate!!Race alone or in combination with one or more other races!!Total population!!Some other race,DP05
+DP05_0065E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population,DP05
+DP05_0066E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),DP05
+DP05_0067E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,DP05
+DP05_0068E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,DP05
+DP05_0069E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,DP05
+DP05_0070E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,DP05
+DP05_0071E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,DP05
+DP05_0072E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,DP05
+DP05_0073E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,DP05
+DP05_0074E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,DP05
+DP05_0075E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,DP05
+DP05_0076E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,DP05
+DP05_0077E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,DP05
+DP05_0078E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,DP05
+DP05_0079E,int,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,DP05
+DP05_0080E,int,"Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races",DP05
+DP05_0081E,int,Estimate!!Total housing units,DP05
+DP05_0001M,int,Margin of Error!!Total population,DP05
+DP05_0002M,int,Margin of Error!!Total population!!SEX AND AGE!!Male,DP05
+DP05_0003M,int,Margin of Error!!Total population!!SEX AND AGE!!Female,DP05
+DP05_0004M,int,Margin of Error!!Total population!!SEX AND AGE!!Under 5 years,DP05
+DP05_0005M,int,Margin of Error!!Total population!!SEX AND AGE!!5 to 9 years,DP05
+DP05_0006M,int,Margin of Error!!Total population!!SEX AND AGE!!10 to 14 years,DP05
+DP05_0007M,int,Margin of Error!!Total population!!SEX AND AGE!!15 to 19 years,DP05
+DP05_0008M,int,Margin of Error!!Total population!!SEX AND AGE!!20 to 24 years,DP05
+DP05_0009M,int,Margin of Error!!Total population!!SEX AND AGE!!25 to 34 years,DP05
+DP05_0010M,int,Margin of Error!!Total population!!SEX AND AGE!!35 to 44 years,DP05
+DP05_0011M,int,Margin of Error!!Total population!!SEX AND AGE!!45 to 54 years,DP05
+DP05_0012M,int,Margin of Error!!Total population!!SEX AND AGE!!55 to 59 years,DP05
+DP05_0013M,int,Margin of Error!!Total population!!SEX AND AGE!!60 to 64 years,DP05
+DP05_0014M,int,Margin of Error!!Total population!!SEX AND AGE!!65 to 74 years,DP05
+DP05_0015M,int,Margin of Error!!Total population!!SEX AND AGE!!75 to 84 years,DP05
+DP05_0016M,int,Margin of Error!!Total population!!SEX AND AGE!!85 years and over,DP05
+DP05_0017M,float,Margin of Error!!Total population!!SEX AND AGE!!Median age (years),DP05
+DP05_0018M,int,Margin of Error!!Total population!!SEX AND AGE!!18 years and over,DP05
+DP05_0019M,int,Margin of Error!!Total population!!SEX AND AGE!!21 years and over,DP05
+DP05_0020M,int,Margin of Error!!Total population!!SEX AND AGE!!62 years and over,DP05
+DP05_0021M,int,Margin of Error!!Total population!!SEX AND AGE!!65 years and over,DP05
+DP05_0022M,int,Margin of Error!!Total population!!SEX AND AGE!!18 years and over,DP05
+DP05_0023M,int,Margin of Error!!Total population!!SEX AND AGE!!18 years and over!!Male,DP05
+DP05_0024M,int,Margin of Error!!Total population!!SEX AND AGE!!18 years and over!!Female,DP05
+DP05_0025M,int,Margin of Error!!Total population!!SEX AND AGE!!65 years and over,DP05
+DP05_0026M,int,Margin of Error!!Total population!!SEX AND AGE!!65 years and over!!Male,DP05
+DP05_0027M,int,Margin of Error!!Total population!!SEX AND AGE!!65 years and over!!Female,DP05
+DP05_0028M,int,Margin of Error!!Total population!!RACE!!One race,DP05
+DP05_0029M,int,Margin of Error!!Total population!!RACE!!Two or more races,DP05
+DP05_0030M,int,Margin of Error!!Total population,DP05
+DP05_0031M,int,Margin of Error!!Total population!!One race,DP05
+DP05_0032M,int,Margin of Error!!Total population!!One race!!White,DP05
+DP05_0033M,int,Margin of Error!!Total population!!One race!!Black or African American,DP05
+DP05_0034M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native,DP05
+DP05_0035M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,DP05
+DP05_0036M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,DP05
+DP05_0037M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,DP05
+DP05_0038M,int,Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,DP05
+DP05_0039M,int,Margin of Error!!Total population!!One race!!Asian,DP05
+DP05_0040M,int,Margin of Error!!Total population!!One race!!Asian!!Asian Indian,DP05
+DP05_0041M,int,Margin of Error!!Total population!!One race!!Asian!!Chinese,DP05
+DP05_0042M,int,Margin of Error!!Total population!!One race!!Asian!!Filipino,DP05
+DP05_0043M,int,Margin of Error!!Total population!!One race!!Asian!!Japanese,DP05
+DP05_0044M,int,Margin of Error!!Total population!!One race!!Asian!!Korean,DP05
+DP05_0045M,int,Margin of Error!!Total population!!One race!!Asian!!Vietnamese,DP05
+DP05_0046M,int,Margin of Error!!Total population!!One race!!Asian!!Other Asian,DP05
+DP05_0047M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,DP05
+DP05_0048M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,DP05
+DP05_0049M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,DP05
+DP05_0050M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,DP05
+DP05_0051M,int,Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,DP05
+DP05_0052M,int,Margin of Error!!Total population!!One race!!Some other race,DP05
+DP05_0053M,int,Margin of Error!!Total population!!Two or more races,DP05
+DP05_0054M,int,Margin of Error!!Total population!!Two or more races!!White and Black or African American,DP05
+DP05_0055M,int,Margin of Error!!Total population!!Two or more races!!White and American Indian and Alaska Native,DP05
+DP05_0056M,int,Margin of Error!!Total population!!Two or more races!!White and Asian,DP05
+DP05_0057M,int,Margin of Error!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,DP05
+DP05_0058M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population,DP05
+DP05_0059M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!White,DP05
+DP05_0060M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Black or African American,DP05
+DP05_0061M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,DP05
+DP05_0062M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Asian,DP05
+DP05_0063M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,DP05
+DP05_0064M,int,Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Some other race,DP05
+DP05_0065M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population,DP05
+DP05_0066M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),DP05
+DP05_0067M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,DP05
+DP05_0068M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,DP05
+DP05_0069M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,DP05
+DP05_0070M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,DP05
+DP05_0071M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,DP05
+DP05_0072M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,DP05
+DP05_0073M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,DP05
+DP05_0074M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,DP05
+DP05_0075M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,DP05
+DP05_0076M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,DP05
+DP05_0077M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,DP05
+DP05_0078M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,DP05
+DP05_0079M,int,Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,DP05
+DP05_0080M,int,"Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races",DP05
+DP05_0081M,int,Margin of Error!!Total housing units,DP05
+DP05_0001EA,string,Annotation of Estimate!!Total population,DP05
+DP05_0001MA,string,Annotation of Margin of Error!!Total population,DP05
+DP05_0002EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!Male,DP05
+DP05_0002MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!Male,DP05
+DP05_0003EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!Female,DP05
+DP05_0003MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!Female,DP05
+DP05_0004EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!Under 5 years,DP05
+DP05_0004MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!Under 5 years,DP05
+DP05_0005EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!5 to 9 years,DP05
+DP05_0005MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!5 to 9 years,DP05
+DP05_0006EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!10 to 14 years,DP05
+DP05_0006MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!10 to 14 years,DP05
+DP05_0007EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!15 to 19 years,DP05
+DP05_0007MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!15 to 19 years,DP05
+DP05_0008EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!20 to 24 years,DP05
+DP05_0008MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!20 to 24 years,DP05
+DP05_0009EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!25 to 34 years,DP05
+DP05_0009MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!25 to 34 years,DP05
+DP05_0010EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!35 to 44 years,DP05
+DP05_0010MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!35 to 44 years,DP05
+DP05_0011EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!45 to 54 years,DP05
+DP05_0011MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!45 to 54 years,DP05
+DP05_0012EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!55 to 59 years,DP05
+DP05_0012MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!55 to 59 years,DP05
+DP05_0013EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!60 to 64 years,DP05
+DP05_0013MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!60 to 64 years,DP05
+DP05_0014EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 to 74 years,DP05
+DP05_0014MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 to 74 years,DP05
+DP05_0015EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!75 to 84 years,DP05
+DP05_0015MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!75 to 84 years,DP05
+DP05_0016EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!85 years and over,DP05
+DP05_0016MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!85 years and over,DP05
+DP05_0017EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!Median age (years),DP05
+DP05_0017MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!Median age (years),DP05
+DP05_0018EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!18 years and over,DP05
+DP05_0018MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!18 years and over,DP05
+DP05_0019EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!21 years and over,DP05
+DP05_0019MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!21 years and over,DP05
+DP05_0020EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!62 years and over,DP05
+DP05_0020MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!62 years and over,DP05
+DP05_0021EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 years and over,DP05
+DP05_0021MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 years and over,DP05
+DP05_0022EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!18 years and over,DP05
+DP05_0022MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!18 years and over,DP05
+DP05_0023EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!18 years and over!!Male,DP05
+DP05_0023MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!18 years and over!!Male,DP05
+DP05_0024EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!18 years and over!!Female,DP05
+DP05_0024MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!18 years and over!!Female,DP05
+DP05_0025EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 years and over,DP05
+DP05_0025MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 years and over,DP05
+DP05_0026EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 years and over!!Male,DP05
+DP05_0026MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 years and over!!Male,DP05
+DP05_0027EA,string,Annotation of Estimate!!Total population!!SEX AND AGE!!65 years and over!!Female,DP05
+DP05_0027MA,string,Annotation of Margin of Error!!Total population!!SEX AND AGE!!65 years and over!!Female,DP05
+DP05_0028EA,string,Annotation of Estimate!!Total population!!RACE!!One race,DP05
+DP05_0028MA,string,Annotation of Margin of Error!!Total population!!RACE!!One race,DP05
+DP05_0029EA,string,Annotation of Estimate!!Total population!!RACE!!Two or more races,DP05
+DP05_0029MA,string,Annotation of Margin of Error!!Total population!!RACE!!Two or more races,DP05
+DP05_0030EA,string,Annotation of Estimate!!Total population,DP05
+DP05_0030MA,string,Annotation of Margin of Error!!Total population,DP05
+DP05_0031EA,string,Annotation of Estimate!!Total population!!One race,DP05
+DP05_0031MA,string,Annotation of Margin of Error!!Total population!!One race,DP05
+DP05_0032EA,string,Annotation of Estimate!!Total population!!One race!!White,DP05
+DP05_0032MA,string,Annotation of Margin of Error!!Total population!!One race!!White,DP05
+DP05_0033EA,string,Annotation of Estimate!!Total population!!One race!!Black or African American,DP05
+DP05_0033MA,string,Annotation of Margin of Error!!Total population!!One race!!Black or African American,DP05
+DP05_0034EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native,DP05
+DP05_0034MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native,DP05
+DP05_0035EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,DP05
+DP05_0035MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,DP05
+DP05_0036EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,DP05
+DP05_0036MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,DP05
+DP05_0037EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,DP05
+DP05_0037MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,DP05
+DP05_0038EA,string,Annotation of Estimate!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,DP05
+DP05_0038MA,string,Annotation of Margin of Error!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,DP05
+DP05_0039EA,string,Annotation of Estimate!!Total population!!One race!!Asian,DP05
+DP05_0039MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian,DP05
+DP05_0040EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Asian Indian,DP05
+DP05_0040MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Asian Indian,DP05
+DP05_0041EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Chinese,DP05
+DP05_0041MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Chinese,DP05
+DP05_0042EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Filipino,DP05
+DP05_0042MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Filipino,DP05
+DP05_0043EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Japanese,DP05
+DP05_0043MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Japanese,DP05
+DP05_0044EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Korean,DP05
+DP05_0044MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Korean,DP05
+DP05_0045EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Vietnamese,DP05
+DP05_0045MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Vietnamese,DP05
+DP05_0046EA,string,Annotation of Estimate!!Total population!!One race!!Asian!!Other Asian,DP05
+DP05_0046MA,string,Annotation of Margin of Error!!Total population!!One race!!Asian!!Other Asian,DP05
+DP05_0047EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,DP05
+DP05_0047MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,DP05
+DP05_0048EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,DP05
+DP05_0048MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,DP05
+DP05_0049EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,DP05
+DP05_0049MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,DP05
+DP05_0050EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,DP05
+DP05_0050MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,DP05
+DP05_0051EA,string,Annotation of Estimate!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,DP05
+DP05_0051MA,string,Annotation of Margin of Error!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,DP05
+DP05_0052EA,string,Annotation of Estimate!!Total population!!One race!!Some other race,DP05
+DP05_0052MA,string,Annotation of Margin of Error!!Total population!!One race!!Some other race,DP05
+DP05_0053EA,string,Annotation of Estimate!!Total population!!Two or more races,DP05
+DP05_0053MA,string,Annotation of Margin of Error!!Total population!!Two or more races,DP05
+DP05_0054EA,string,Annotation of Estimate!!Total population!!Two or more races!!White and Black or African American,DP05
+DP05_0054MA,string,Annotation of Margin of Error!!Total population!!Two or more races!!White and Black or African American,DP05
+DP05_0055EA,string,Annotation of Estimate!!Total population!!Two or more races!!White and American Indian and Alaska Native,DP05
+DP05_0055MA,string,Annotation of Margin of Error!!Total population!!Two or more races!!White and American Indian and Alaska Native,DP05
+DP05_0056EA,string,Annotation of Estimate!!Total population!!Two or more races!!White and Asian,DP05
+DP05_0056MA,string,Annotation of Margin of Error!!Total population!!Two or more races!!White and Asian,DP05
+DP05_0057EA,string,Annotation of Estimate!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,DP05
+DP05_0057MA,string,Annotation of Margin of Error!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,DP05
+DP05_0058EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population,DP05
+DP05_0058MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population,DP05
+DP05_0059EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!White,DP05
+DP05_0059MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!White,DP05
+DP05_0060EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!Black or African American,DP05
+DP05_0060MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Black or African American,DP05
+DP05_0061EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,DP05
+DP05_0061MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,DP05
+DP05_0062EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!Asian,DP05
+DP05_0062MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Asian,DP05
+DP05_0063EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,DP05
+DP05_0063MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,DP05
+DP05_0064EA,string,Annotation of Estimate!!Race alone or in combination with one or more other races!!Total population!!Some other race,DP05
+DP05_0064MA,string,Annotation of Margin of Error!!Race alone or in combination with one or more other races!!Total population!!Some other race,DP05
+DP05_0065EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population,DP05
+DP05_0065MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population,DP05
+DP05_0066EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),DP05
+DP05_0066MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),DP05
+DP05_0067EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,DP05
+DP05_0067MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,DP05
+DP05_0068EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,DP05
+DP05_0068MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,DP05
+DP05_0069EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,DP05
+DP05_0069MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,DP05
+DP05_0070EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,DP05
+DP05_0070MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,DP05
+DP05_0071EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,DP05
+DP05_0071MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,DP05
+DP05_0072EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,DP05
+DP05_0072MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,DP05
+DP05_0073EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,DP05
+DP05_0073MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,DP05
+DP05_0074EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,DP05
+DP05_0074MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,DP05
+DP05_0075EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,DP05
+DP05_0075MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,DP05
+DP05_0076EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,DP05
+DP05_0076MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,DP05
+DP05_0077EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,DP05
+DP05_0077MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,DP05
+DP05_0078EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,DP05
+DP05_0078MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,DP05
+DP05_0079EA,string,Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,DP05
+DP05_0079MA,string,Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,DP05
+DP05_0080EA,string,"Annotation of Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races",DP05
+DP05_0080MA,string,"Annotation of Margin of Error!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races",DP05
+DP05_0081EA,string,Annotation of Estimate!!Total housing units,DP05
+DP05_0081MA,string,Annotation of Margin of Error!!Total housing units,DP05

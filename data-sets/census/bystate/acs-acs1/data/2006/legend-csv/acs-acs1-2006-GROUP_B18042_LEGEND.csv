@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B18042_001E,int,Estimate!!Total,B18042
+B18042_002E,int,Estimate!!Total!!With a physical disability,B18042
+B18042_003E,int,Estimate!!Total!!With a physical disability!!Male,B18042
+B18042_004E,int,Estimate!!Total!!With a physical disability!!Female,B18042
+B18042_005E,int,Estimate!!Total!!No physical disability,B18042
+B18042_006E,int,Estimate!!Total!!No physical disability!!Male,B18042
+B18042_007E,int,Estimate!!Total!!No physical disability!!Female,B18042
+B18042_001M,int,Margin of Error!!Total,B18042
+B18042_002M,int,Margin of Error!!Total!!With a physical disability,B18042
+B18042_003M,int,Margin of Error!!Total!!With a physical disability!!Male,B18042
+B18042_004M,int,Margin of Error!!Total!!With a physical disability!!Female,B18042
+B18042_005M,int,Margin of Error!!Total!!No physical disability,B18042
+B18042_006M,int,Margin of Error!!Total!!No physical disability!!Male,B18042
+B18042_007M,int,Margin of Error!!Total!!No physical disability!!Female,B18042
+B18042_001EA,string,Annotation of Estimate!!Total,B18042
+B18042_001MA,string,Annotation of Margin of Error!!Total,B18042
+B18042_002EA,string,Annotation of Estimate!!Total!!With a physical disability,B18042
+B18042_002MA,string,Annotation of Margin of Error!!Total!!With a physical disability,B18042
+B18042_003EA,string,Annotation of Estimate!!Total!!With a physical disability!!Male,B18042
+B18042_003MA,string,Annotation of Margin of Error!!Total!!With a physical disability!!Male,B18042
+B18042_004EA,string,Annotation of Estimate!!Total!!With a physical disability!!Female,B18042
+B18042_004MA,string,Annotation of Margin of Error!!Total!!With a physical disability!!Female,B18042
+B18042_005EA,string,Annotation of Estimate!!Total!!No physical disability,B18042
+B18042_005MA,string,Annotation of Margin of Error!!Total!!No physical disability,B18042
+B18042_006EA,string,Annotation of Estimate!!Total!!No physical disability!!Male,B18042
+B18042_006MA,string,Annotation of Margin of Error!!Total!!No physical disability!!Male,B18042
+B18042_007EA,string,Annotation of Estimate!!Total!!No physical disability!!Female,B18042
+B18042_007MA,string,Annotation of Margin of Error!!Total!!No physical disability!!Female,B18042

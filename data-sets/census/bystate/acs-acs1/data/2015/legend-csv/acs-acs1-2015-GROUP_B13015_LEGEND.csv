@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+B13015_001E,int,Estimate!!Total,B13015
+B13015_002E,int,Estimate!!Total!!Women who had a birth in the past 12 months,B13015
+B13015_003E,int,Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13015
+B13015_004E,int,Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent)!!Received public assistance income,B13015
+B13015_005E,int,Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent)!!Did not receive public assistance income,B13015
+B13015_006E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13015
+B13015_007E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Received public assistance income",B13015
+B13015_008E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Did not receive public assistance income",B13015
+B13015_009E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months,B13015
+B13015_010E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13015
+B13015_011E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent)!!Received public assistance income,B13015
+B13015_012E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent)!!Did not receive public assistance income,B13015
+B13015_013E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13015
+B13015_014E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Received public assistance income",B13015
+B13015_015E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Did not receive public assistance income",B13015
+B13015_001M,int,Margin of Error!!Total,B13015
+B13015_002M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months,B13015
+B13015_003M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13015
+B13015_004M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent)!!Received public assistance income,B13015
+B13015_005M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent)!!Did not receive public assistance income,B13015
+B13015_006M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13015
+B13015_007M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Received public assistance income",B13015
+B13015_008M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Did not receive public assistance income",B13015
+B13015_009M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months,B13015
+B13015_010M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13015
+B13015_011M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent)!!Received public assistance income,B13015
+B13015_012M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent)!!Did not receive public assistance income,B13015
+B13015_013M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13015
+B13015_014M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Received public assistance income",B13015
+B13015_015M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Did not receive public assistance income",B13015
+B13015_001EA,string,Annotation of Estimate!!Total,B13015
+B13015_001MA,string,Annotation of Margin of Error!!Total,B13015
+B13015_002EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months,B13015
+B13015_002MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months,B13015
+B13015_003EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13015
+B13015_003MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13015
+B13015_004EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent)!!Received public assistance income,B13015
+B13015_004MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent)!!Received public assistance income,B13015
+B13015_005EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent)!!Did not receive public assistance income,B13015
+B13015_005MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent)!!Did not receive public assistance income,B13015
+B13015_006EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13015
+B13015_006MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13015
+B13015_007EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Received public assistance income",B13015
+B13015_007MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Received public assistance income",B13015
+B13015_008EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Did not receive public assistance income",B13015
+B13015_008MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Did not receive public assistance income",B13015
+B13015_009EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months,B13015
+B13015_009MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months,B13015
+B13015_010EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13015
+B13015_010MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13015
+B13015_011EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent)!!Received public assistance income,B13015
+B13015_011MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent)!!Received public assistance income,B13015
+B13015_012EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent)!!Did not receive public assistance income,B13015
+B13015_012MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent)!!Did not receive public assistance income,B13015
+B13015_013EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13015
+B13015_013MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13015
+B13015_014EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Received public assistance income",B13015
+B13015_014MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Received public assistance income",B13015
+B13015_015EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Did not receive public assistance income",B13015
+B13015_015MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Did not receive public assistance income",B13015

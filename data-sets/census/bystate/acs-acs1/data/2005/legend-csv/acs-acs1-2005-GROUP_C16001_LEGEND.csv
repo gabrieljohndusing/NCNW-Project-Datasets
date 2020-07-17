@@ -1,0 +1,165 @@
+VARIABLE,TYPE,LABEL,GROUP
+C16001_001E,int,Estimate!!Total,C16001
+C16001_002E,int,Estimate!!Total!!Speak only English,C16001
+C16001_003E,int,Estimate!!Total!!Spanish or Spanish Creole,C16001
+C16001_004E,int,"Estimate!!Total!!French (including Patois, Cajun)",C16001
+C16001_005E,int,Estimate!!Total!!French Creole,C16001
+C16001_006E,int,Estimate!!Total!!Italian,C16001
+C16001_007E,int,Estimate!!Total!!Portuguese or Portuguese Creole,C16001
+C16001_008E,int,Estimate!!Total!!German,C16001
+C16001_009E,int,Estimate!!Total!!Yiddish,C16001
+C16001_010E,int,Estimate!!Total!!Other West Germanic languages,C16001
+C16001_011E,int,Estimate!!Total!!Scandinavian languages,C16001
+C16001_012E,int,Estimate!!Total!!Greek,C16001
+C16001_013E,int,Estimate!!Total!!Russian,C16001
+C16001_014E,int,Estimate!!Total!!Polish,C16001
+C16001_015E,int,Estimate!!Total!!Serbo-Croatian,C16001
+C16001_016E,int,Estimate!!Total!!Other Slavic languages,C16001
+C16001_017E,int,Estimate!!Total!!Armenian,C16001
+C16001_018E,int,Estimate!!Total!!Persian,C16001
+C16001_019E,int,Estimate!!Total!!Gujarathi,C16001
+C16001_020E,int,Estimate!!Total!!Hindi,C16001
+C16001_021E,int,Estimate!!Total!!Urdu,C16001
+C16001_022E,int,Estimate!!Total!!Other Indic languages,C16001
+C16001_023E,int,Estimate!!Total!!Other Indo-European languages,C16001
+C16001_024E,int,Estimate!!Total!!Chinese,C16001
+C16001_025E,int,Estimate!!Total!!Japanese,C16001
+C16001_026E,int,Estimate!!Total!!Korean,C16001
+C16001_027E,int,"Estimate!!Total!!Mon-Khmer, Cambodian",C16001
+C16001_028E,int,Estimate!!Total!!Hmong,C16001
+C16001_029E,int,Estimate!!Total!!Thai,C16001
+C16001_030E,int,Estimate!!Total!!Laotian,C16001
+C16001_031E,int,Estimate!!Total!!Vietnamese,C16001
+C16001_032E,int,Estimate!!Total!!Other Asian languages,C16001
+C16001_033E,int,Estimate!!Total!!Tagalog,C16001
+C16001_034E,int,Estimate!!Total!!Other Pacific Island languages,C16001
+C16001_035E,int,Estimate!!Total!!Navajo,C16001
+C16001_036E,int,Estimate!!Total!!Other Native North American languages,C16001
+C16001_037E,int,Estimate!!Total!!Hungarian,C16001
+C16001_038E,int,Estimate!!Total!!Arabic,C16001
+C16001_039E,int,Estimate!!Total!!Hebrew,C16001
+C16001_040E,int,Estimate!!Total!!African languages,C16001
+C16001_041E,int,Estimate!!Total!!Other and unspecified languages,C16001
+C16001_001M,int,Margin of Error!!Total,C16001
+C16001_002M,int,Margin of Error!!Total!!Speak only English,C16001
+C16001_003M,int,Margin of Error!!Total!!Spanish or Spanish Creole,C16001
+C16001_004M,int,"Margin of Error!!Total!!French (including Patois, Cajun)",C16001
+C16001_005M,int,Margin of Error!!Total!!French Creole,C16001
+C16001_006M,int,Margin of Error!!Total!!Italian,C16001
+C16001_007M,int,Margin of Error!!Total!!Portuguese or Portuguese Creole,C16001
+C16001_008M,int,Margin of Error!!Total!!German,C16001
+C16001_009M,int,Margin of Error!!Total!!Yiddish,C16001
+C16001_010M,int,Margin of Error!!Total!!Other West Germanic languages,C16001
+C16001_011M,int,Margin of Error!!Total!!Scandinavian languages,C16001
+C16001_012M,int,Margin of Error!!Total!!Greek,C16001
+C16001_013M,int,Margin of Error!!Total!!Russian,C16001
+C16001_014M,int,Margin of Error!!Total!!Polish,C16001
+C16001_015M,int,Margin of Error!!Total!!Serbo-Croatian,C16001
+C16001_016M,int,Margin of Error!!Total!!Other Slavic languages,C16001
+C16001_017M,int,Margin of Error!!Total!!Armenian,C16001
+C16001_018M,int,Margin of Error!!Total!!Persian,C16001
+C16001_019M,int,Margin of Error!!Total!!Gujarathi,C16001
+C16001_020M,int,Margin of Error!!Total!!Hindi,C16001
+C16001_021M,int,Margin of Error!!Total!!Urdu,C16001
+C16001_022M,int,Margin of Error!!Total!!Other Indic languages,C16001
+C16001_023M,int,Margin of Error!!Total!!Other Indo-European languages,C16001
+C16001_024M,int,Margin of Error!!Total!!Chinese,C16001
+C16001_025M,int,Margin of Error!!Total!!Japanese,C16001
+C16001_026M,int,Margin of Error!!Total!!Korean,C16001
+C16001_027M,int,"Margin of Error!!Total!!Mon-Khmer, Cambodian",C16001
+C16001_028M,int,Margin of Error!!Total!!Hmong,C16001
+C16001_029M,int,Margin of Error!!Total!!Thai,C16001
+C16001_030M,int,Margin of Error!!Total!!Laotian,C16001
+C16001_031M,int,Margin of Error!!Total!!Vietnamese,C16001
+C16001_032M,int,Margin of Error!!Total!!Other Asian languages,C16001
+C16001_033M,int,Margin of Error!!Total!!Tagalog,C16001
+C16001_034M,int,Margin of Error!!Total!!Other Pacific Island languages,C16001
+C16001_035M,int,Margin of Error!!Total!!Navajo,C16001
+C16001_036M,int,Margin of Error!!Total!!Other Native North American languages,C16001
+C16001_037M,int,Margin of Error!!Total!!Hungarian,C16001
+C16001_038M,int,Margin of Error!!Total!!Arabic,C16001
+C16001_039M,int,Margin of Error!!Total!!Hebrew,C16001
+C16001_040M,int,Margin of Error!!Total!!African languages,C16001
+C16001_041M,int,Margin of Error!!Total!!Other and unspecified languages,C16001
+C16001_001EA,string,Annotation of Estimate!!Total,C16001
+C16001_001MA,string,Annotation of Margin of Error!!Total,C16001
+C16001_002EA,string,Annotation of Estimate!!Total!!Speak only English,C16001
+C16001_002MA,string,Annotation of Margin of Error!!Total!!Speak only English,C16001
+C16001_003EA,string,Annotation of Estimate!!Total!!Spanish or Spanish Creole,C16001
+C16001_003MA,string,Annotation of Margin of Error!!Total!!Spanish or Spanish Creole,C16001
+C16001_004EA,string,"Annotation of Estimate!!Total!!French (including Patois, Cajun)",C16001
+C16001_004MA,string,"Annotation of Margin of Error!!Total!!French (including Patois, Cajun)",C16001
+C16001_005EA,string,Annotation of Estimate!!Total!!French Creole,C16001
+C16001_005MA,string,Annotation of Margin of Error!!Total!!French Creole,C16001
+C16001_006EA,string,Annotation of Estimate!!Total!!Italian,C16001
+C16001_006MA,string,Annotation of Margin of Error!!Total!!Italian,C16001
+C16001_007EA,string,Annotation of Estimate!!Total!!Portuguese or Portuguese Creole,C16001
+C16001_007MA,string,Annotation of Margin of Error!!Total!!Portuguese or Portuguese Creole,C16001
+C16001_008EA,string,Annotation of Estimate!!Total!!German,C16001
+C16001_008MA,string,Annotation of Margin of Error!!Total!!German,C16001
+C16001_009EA,string,Annotation of Estimate!!Total!!Yiddish,C16001
+C16001_009MA,string,Annotation of Margin of Error!!Total!!Yiddish,C16001
+C16001_010EA,string,Annotation of Estimate!!Total!!Other West Germanic languages,C16001
+C16001_010MA,string,Annotation of Margin of Error!!Total!!Other West Germanic languages,C16001
+C16001_011EA,string,Annotation of Estimate!!Total!!Scandinavian languages,C16001
+C16001_011MA,string,Annotation of Margin of Error!!Total!!Scandinavian languages,C16001
+C16001_012EA,string,Annotation of Estimate!!Total!!Greek,C16001
+C16001_012MA,string,Annotation of Margin of Error!!Total!!Greek,C16001
+C16001_013EA,string,Annotation of Estimate!!Total!!Russian,C16001
+C16001_013MA,string,Annotation of Margin of Error!!Total!!Russian,C16001
+C16001_014EA,string,Annotation of Estimate!!Total!!Polish,C16001
+C16001_014MA,string,Annotation of Margin of Error!!Total!!Polish,C16001
+C16001_015EA,string,Annotation of Estimate!!Total!!Serbo-Croatian,C16001
+C16001_015MA,string,Annotation of Margin of Error!!Total!!Serbo-Croatian,C16001
+C16001_016EA,string,Annotation of Estimate!!Total!!Other Slavic languages,C16001
+C16001_016MA,string,Annotation of Margin of Error!!Total!!Other Slavic languages,C16001
+C16001_017EA,string,Annotation of Estimate!!Total!!Armenian,C16001
+C16001_017MA,string,Annotation of Margin of Error!!Total!!Armenian,C16001
+C16001_018EA,string,Annotation of Estimate!!Total!!Persian,C16001
+C16001_018MA,string,Annotation of Margin of Error!!Total!!Persian,C16001
+C16001_019EA,string,Annotation of Estimate!!Total!!Gujarathi,C16001
+C16001_019MA,string,Annotation of Margin of Error!!Total!!Gujarathi,C16001
+C16001_020EA,string,Annotation of Estimate!!Total!!Hindi,C16001
+C16001_020MA,string,Annotation of Margin of Error!!Total!!Hindi,C16001
+C16001_021EA,string,Annotation of Estimate!!Total!!Urdu,C16001
+C16001_021MA,string,Annotation of Margin of Error!!Total!!Urdu,C16001
+C16001_022EA,string,Annotation of Estimate!!Total!!Other Indic languages,C16001
+C16001_022MA,string,Annotation of Margin of Error!!Total!!Other Indic languages,C16001
+C16001_023EA,string,Annotation of Estimate!!Total!!Other Indo-European languages,C16001
+C16001_023MA,string,Annotation of Margin of Error!!Total!!Other Indo-European languages,C16001
+C16001_024EA,string,Annotation of Estimate!!Total!!Chinese,C16001
+C16001_024MA,string,Annotation of Margin of Error!!Total!!Chinese,C16001
+C16001_025EA,string,Annotation of Estimate!!Total!!Japanese,C16001
+C16001_025MA,string,Annotation of Margin of Error!!Total!!Japanese,C16001
+C16001_026EA,string,Annotation of Estimate!!Total!!Korean,C16001
+C16001_026MA,string,Annotation of Margin of Error!!Total!!Korean,C16001
+C16001_027EA,string,"Annotation of Estimate!!Total!!Mon-Khmer, Cambodian",C16001
+C16001_027MA,string,"Annotation of Margin of Error!!Total!!Mon-Khmer, Cambodian",C16001
+C16001_028EA,string,Annotation of Estimate!!Total!!Hmong,C16001
+C16001_028MA,string,Annotation of Margin of Error!!Total!!Hmong,C16001
+C16001_029EA,string,Annotation of Estimate!!Total!!Thai,C16001
+C16001_029MA,string,Annotation of Margin of Error!!Total!!Thai,C16001
+C16001_030EA,string,Annotation of Estimate!!Total!!Laotian,C16001
+C16001_030MA,string,Annotation of Margin of Error!!Total!!Laotian,C16001
+C16001_031EA,string,Annotation of Estimate!!Total!!Vietnamese,C16001
+C16001_031MA,string,Annotation of Margin of Error!!Total!!Vietnamese,C16001
+C16001_032EA,string,Annotation of Estimate!!Total!!Other Asian languages,C16001
+C16001_032MA,string,Annotation of Margin of Error!!Total!!Other Asian languages,C16001
+C16001_033EA,string,Annotation of Estimate!!Total!!Tagalog,C16001
+C16001_033MA,string,Annotation of Margin of Error!!Total!!Tagalog,C16001
+C16001_034EA,string,Annotation of Estimate!!Total!!Other Pacific Island languages,C16001
+C16001_034MA,string,Annotation of Margin of Error!!Total!!Other Pacific Island languages,C16001
+C16001_035EA,string,Annotation of Estimate!!Total!!Navajo,C16001
+C16001_035MA,string,Annotation of Margin of Error!!Total!!Navajo,C16001
+C16001_036EA,string,Annotation of Estimate!!Total!!Other Native North American languages,C16001
+C16001_036MA,string,Annotation of Margin of Error!!Total!!Other Native North American languages,C16001
+C16001_037EA,string,Annotation of Estimate!!Total!!Hungarian,C16001
+C16001_037MA,string,Annotation of Margin of Error!!Total!!Hungarian,C16001
+C16001_038EA,string,Annotation of Estimate!!Total!!Arabic,C16001
+C16001_038MA,string,Annotation of Margin of Error!!Total!!Arabic,C16001
+C16001_039EA,string,Annotation of Estimate!!Total!!Hebrew,C16001
+C16001_039MA,string,Annotation of Margin of Error!!Total!!Hebrew,C16001
+C16001_040EA,string,Annotation of Estimate!!Total!!African languages,C16001
+C16001_040MA,string,Annotation of Margin of Error!!Total!!African languages,C16001
+C16001_041EA,string,Annotation of Estimate!!Total!!Other and unspecified languages,C16001
+C16001_041MA,string,Annotation of Margin of Error!!Total!!Other and unspecified languages,C16001

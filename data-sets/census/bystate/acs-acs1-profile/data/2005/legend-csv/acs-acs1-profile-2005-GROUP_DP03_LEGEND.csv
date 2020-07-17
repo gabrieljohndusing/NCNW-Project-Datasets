@@ -1,0 +1,449 @@
+VARIABLE,TYPE,LABEL,GROUP
+DP03_0001E,int,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,DP03
+DP03_0002E,int,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,DP03
+DP03_0003E,int,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,DP03
+DP03_0004E,int,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,DP03
+DP03_0005E,int,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,DP03
+DP03_0006E,int,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,DP03
+DP03_0007E,int,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,DP03
+DP03_0008E,int,Estimate!!EMPLOYMENT STATUS!!Civilian labor force,DP03
+DP03_0009E,float,Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployed,DP03
+DP03_0010E,int,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over,DP03
+DP03_0011E,int,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,DP03
+DP03_0012E,int,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,DP03
+DP03_0013E,int,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,DP03
+DP03_0014E,int,Estimate!!EMPLOYMENT STATUS!!Own children under 6 years,DP03
+DP03_0015E,int,Estimate!!EMPLOYMENT STATUS!!Own children under 6 years!!All parents in family in labor force,DP03
+DP03_0016E,int,Estimate!!EMPLOYMENT STATUS!!Own children 6 to 17 years,DP03
+DP03_0017E,int,Estimate!!EMPLOYMENT STATUS!!Own children 6 to 17 years!!All parents in family in labor force,DP03
+DP03_0018E,int,Estimate!!COMMUTING TO WORK!!Workers 16 years and over,DP03
+DP03_0019E,int,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",DP03
+DP03_0020E,int,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",DP03
+DP03_0021E,int,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),DP03
+DP03_0022E,int,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,DP03
+DP03_0023E,int,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,DP03
+DP03_0024E,int,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,DP03
+DP03_0025E,float,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),DP03
+DP03_0026E,int,Estimate!!Civilian employed population 16 years and over,DP03
+DP03_0027E,int,"Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Management, professional, and related occupations",DP03
+DP03_0028E,int,Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Service occupations,DP03
+DP03_0029E,int,Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Sales and office occupations,DP03
+DP03_0030E,int,"Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Farming, fishing, and forestry occupations",DP03
+DP03_0031E,int,"Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Construction, extraction, maintenance and repair occupations",DP03
+DP03_0032E,int,"Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Production, transportation, and material moving occupations",DP03
+DP03_0033E,int,"Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining",DP03
+DP03_0034E,int,Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Construction,DP03
+DP03_0035E,int,Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Manufacturing,DP03
+DP03_0036E,int,Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Wholesale trade,DP03
+DP03_0037E,int,Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Retail trade,DP03
+DP03_0038E,int,"Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Transportation and warehousing, and utilities",DP03
+DP03_0039E,int,Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Information,DP03
+DP03_0040E,int,"Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing",DP03
+DP03_0041E,int,"Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services",DP03
+DP03_0042E,int,"Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Educational services, and health care, and social assistance",DP03
+DP03_0043E,int,"Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation, and food services",DP03
+DP03_0044E,int,"Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Other services, except public administration",DP03
+DP03_0045E,int,Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Public administration,DP03
+DP03_0046E,int,Estimate!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Private wage and salary workers,DP03
+DP03_0047E,int,Estimate!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Government workers,DP03
+DP03_0048E,int,Estimate!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Self-employed workers in own not incorporated business,DP03
+DP03_0049E,int,Estimate!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Unpaid family workers,DP03
+DP03_0050E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households,DP03
+DP03_0051E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",DP03
+DP03_0052E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",DP03
+DP03_0053E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",DP03
+DP03_0054E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",DP03
+DP03_0055E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",DP03
+DP03_0056E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",DP03
+DP03_0057E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",DP03
+DP03_0058E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",DP03
+DP03_0059E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",DP03
+DP03_0060E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",DP03
+DP03_0061E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),DP03
+DP03_0062E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),DP03
+DP03_0063E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,DP03
+DP03_0064E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),DP03
+DP03_0065E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,DP03
+DP03_0066E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),DP03
+DP03_0067E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,DP03
+DP03_0068E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),DP03
+DP03_0069E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,DP03
+DP03_0070E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),DP03
+DP03_0071E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,DP03
+DP03_0072E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),DP03
+DP03_0073E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp benefits in the past 12 months,DP03
+DP03_0074E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families,DP03
+DP03_0075E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",DP03
+DP03_0076E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",DP03
+DP03_0077E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",DP03
+DP03_0078E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",DP03
+DP03_0079E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",DP03
+DP03_0080E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",DP03
+DP03_0081E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",DP03
+DP03_0082E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",DP03
+DP03_0083E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",DP03
+DP03_0084E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",DP03
+DP03_0085E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),DP03
+DP03_0086E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),DP03
+DP03_0087E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Per capita income (dollars),DP03
+DP03_0088E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,DP03
+DP03_0089E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),DP03
+DP03_0090E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),DP03
+DP03_0091E,int,Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for workers (dollars),DP03
+DP03_0092E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for male full-time, year-round workers (dollars)",DP03
+DP03_0093E,int,"Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for female full-time, year-round workers (dollars)",DP03
+DP03_0094E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,DP03
+DP03_0095E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children under 18 years,DP03
+DP03_0096E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children under 18 years!!With related children under 5 years only,DP03
+DP03_0097E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families,DP03
+DP03_0098E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children under 18 years,DP03
+DP03_0099E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children under 18 years!!With related children under 5 years only,DP03
+DP03_0100E,float,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present",DP03
+DP03_0101E,float,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children under 18 years",DP03
+DP03_0102E,float,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children under 18 years!!With related children under 5 years only",DP03
+DP03_0103E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,DP03
+DP03_0104E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years,DP03
+DP03_0105E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years,DP03
+DP03_0106E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years!!Related children under 5 years,DP03
+DP03_0107E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years!!Related children 5 to 17 years,DP03
+DP03_0108E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 years and over,DP03
+DP03_0109E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 to 64 years,DP03
+DP03_0110E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!65 years and over,DP03
+DP03_0111E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!People in families,DP03
+DP03_0112E,float,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Unrelated individuals 15 years and over,DP03
+DP03_0001M,int,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,DP03
+DP03_0002M,int,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,DP03
+DP03_0003M,int,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,DP03
+DP03_0004M,int,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,DP03
+DP03_0005M,int,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,DP03
+DP03_0006M,int,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,DP03
+DP03_0007M,int,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,DP03
+DP03_0008M,int,Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force,DP03
+DP03_0009M,float,Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployed,DP03
+DP03_0010M,int,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over,DP03
+DP03_0011M,int,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,DP03
+DP03_0012M,int,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,DP03
+DP03_0013M,int,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,DP03
+DP03_0014M,int,Margin of Error!!EMPLOYMENT STATUS!!Own children under 6 years,DP03
+DP03_0015M,int,Margin of Error!!EMPLOYMENT STATUS!!Own children under 6 years!!All parents in family in labor force,DP03
+DP03_0016M,int,Margin of Error!!EMPLOYMENT STATUS!!Own children 6 to 17 years,DP03
+DP03_0017M,int,Margin of Error!!EMPLOYMENT STATUS!!Own children 6 to 17 years!!All parents in family in labor force,DP03
+DP03_0018M,int,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over,DP03
+DP03_0019M,int,"Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",DP03
+DP03_0020M,int,"Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",DP03
+DP03_0021M,int,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),DP03
+DP03_0022M,int,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,DP03
+DP03_0023M,int,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,DP03
+DP03_0024M,int,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,DP03
+DP03_0025M,float,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),DP03
+DP03_0026M,int,Margin of Error!!Civilian employed population 16 years and over,DP03
+DP03_0027M,int,"Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Management, professional, and related occupations",DP03
+DP03_0028M,int,Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Service occupations,DP03
+DP03_0029M,int,Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Sales and office occupations,DP03
+DP03_0030M,int,"Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Farming, fishing, and forestry occupations",DP03
+DP03_0031M,int,"Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Construction, extraction, maintenance and repair occupations",DP03
+DP03_0032M,int,"Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Production, transportation, and material moving occupations",DP03
+DP03_0033M,int,"Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining",DP03
+DP03_0034M,int,Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Construction,DP03
+DP03_0035M,int,Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Manufacturing,DP03
+DP03_0036M,int,Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Wholesale trade,DP03
+DP03_0037M,int,Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Retail trade,DP03
+DP03_0038M,int,"Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Transportation and warehousing, and utilities",DP03
+DP03_0039M,int,Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Information,DP03
+DP03_0040M,int,"Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing",DP03
+DP03_0041M,int,"Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services",DP03
+DP03_0042M,int,"Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Educational services, and health care, and social assistance",DP03
+DP03_0043M,int,"Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation, and food services",DP03
+DP03_0044M,int,"Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Other services, except public administration",DP03
+DP03_0045M,int,Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Public administration,DP03
+DP03_0046M,int,Margin of Error!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Private wage and salary workers,DP03
+DP03_0047M,int,Margin of Error!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Government workers,DP03
+DP03_0048M,int,Margin of Error!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Self-employed workers in own not incorporated business,DP03
+DP03_0049M,int,Margin of Error!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Unpaid family workers,DP03
+DP03_0050M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households,DP03
+DP03_0051M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",DP03
+DP03_0052M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",DP03
+DP03_0053M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",DP03
+DP03_0054M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",DP03
+DP03_0055M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",DP03
+DP03_0056M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",DP03
+DP03_0057M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",DP03
+DP03_0058M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",DP03
+DP03_0059M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",DP03
+DP03_0060M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",DP03
+DP03_0061M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),DP03
+DP03_0062M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),DP03
+DP03_0063M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,DP03
+DP03_0064M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),DP03
+DP03_0065M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,DP03
+DP03_0066M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),DP03
+DP03_0067M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,DP03
+DP03_0068M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),DP03
+DP03_0069M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,DP03
+DP03_0070M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),DP03
+DP03_0071M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,DP03
+DP03_0072M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),DP03
+DP03_0073M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp benefits in the past 12 months,DP03
+DP03_0074M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families,DP03
+DP03_0075M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",DP03
+DP03_0076M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",DP03
+DP03_0077M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",DP03
+DP03_0078M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",DP03
+DP03_0079M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",DP03
+DP03_0080M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",DP03
+DP03_0081M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",DP03
+DP03_0082M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",DP03
+DP03_0083M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",DP03
+DP03_0084M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",DP03
+DP03_0085M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),DP03
+DP03_0086M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),DP03
+DP03_0087M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Per capita income (dollars),DP03
+DP03_0088M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,DP03
+DP03_0089M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),DP03
+DP03_0090M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),DP03
+DP03_0091M,int,Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for workers (dollars),DP03
+DP03_0092M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for male full-time, year-round workers (dollars)",DP03
+DP03_0093M,int,"Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for female full-time, year-round workers (dollars)",DP03
+DP03_0094M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,DP03
+DP03_0095M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children under 18 years,DP03
+DP03_0096M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children under 18 years!!With related children under 5 years only,DP03
+DP03_0097M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families,DP03
+DP03_0098M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children under 18 years,DP03
+DP03_0099M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children under 18 years!!With related children under 5 years only,DP03
+DP03_0100M,float,"Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present",DP03
+DP03_0101M,float,"Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children under 18 years",DP03
+DP03_0102M,float,"Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children under 18 years!!With related children under 5 years only",DP03
+DP03_0103M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,DP03
+DP03_0104M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years,DP03
+DP03_0105M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years,DP03
+DP03_0106M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years!!Related children under 5 years,DP03
+DP03_0107M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years!!Related children 5 to 17 years,DP03
+DP03_0108M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 years and over,DP03
+DP03_0109M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 to 64 years,DP03
+DP03_0110M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!65 years and over,DP03
+DP03_0111M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!People in families,DP03
+DP03_0112M,float,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Unrelated individuals 15 years and over,DP03
+DP03_0001EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,DP03
+DP03_0001MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,DP03
+DP03_0002EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,DP03
+DP03_0002MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,DP03
+DP03_0003EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,DP03
+DP03_0003MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,DP03
+DP03_0004EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,DP03
+DP03_0004MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,DP03
+DP03_0005EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,DP03
+DP03_0005MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,DP03
+DP03_0006EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,DP03
+DP03_0006MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,DP03
+DP03_0007EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,DP03
+DP03_0007MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,DP03
+DP03_0008EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Civilian labor force,DP03
+DP03_0008MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force,DP03
+DP03_0009EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployed,DP03
+DP03_0009MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployed,DP03
+DP03_0010EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over,DP03
+DP03_0010MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over,DP03
+DP03_0011EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,DP03
+DP03_0011MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,DP03
+DP03_0012EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,DP03
+DP03_0012MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,DP03
+DP03_0013EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,DP03
+DP03_0013MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,DP03
+DP03_0014EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Own children under 6 years,DP03
+DP03_0014MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Own children under 6 years,DP03
+DP03_0015EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Own children under 6 years!!All parents in family in labor force,DP03
+DP03_0015MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Own children under 6 years!!All parents in family in labor force,DP03
+DP03_0016EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Own children 6 to 17 years,DP03
+DP03_0016MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Own children 6 to 17 years,DP03
+DP03_0017EA,string,Annotation of Estimate!!EMPLOYMENT STATUS!!Own children 6 to 17 years!!All parents in family in labor force,DP03
+DP03_0017MA,string,Annotation of Margin of Error!!EMPLOYMENT STATUS!!Own children 6 to 17 years!!All parents in family in labor force,DP03
+DP03_0018EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over,DP03
+DP03_0018MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over,DP03
+DP03_0019EA,string,"Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",DP03
+DP03_0019MA,string,"Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",DP03
+DP03_0020EA,string,"Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",DP03
+DP03_0020MA,string,"Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",DP03
+DP03_0021EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),DP03
+DP03_0021MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),DP03
+DP03_0022EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,DP03
+DP03_0022MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,DP03
+DP03_0023EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,DP03
+DP03_0023MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,DP03
+DP03_0024EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,DP03
+DP03_0024MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,DP03
+DP03_0025EA,string,Annotation of Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),DP03
+DP03_0025MA,string,Annotation of Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),DP03
+DP03_0026EA,string,Annotation of Estimate!!Civilian employed population 16 years and over,DP03
+DP03_0026MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over,DP03
+DP03_0027EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Management, professional, and related occupations",DP03
+DP03_0027MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Management, professional, and related occupations",DP03
+DP03_0028EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Service occupations,DP03
+DP03_0028MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Service occupations,DP03
+DP03_0029EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Sales and office occupations,DP03
+DP03_0029MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Sales and office occupations,DP03
+DP03_0030EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Farming, fishing, and forestry occupations",DP03
+DP03_0030MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Farming, fishing, and forestry occupations",DP03
+DP03_0031EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Construction, extraction, maintenance and repair occupations",DP03
+DP03_0031MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Construction, extraction, maintenance and repair occupations",DP03
+DP03_0032EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!OCCUPATION!!Production, transportation, and material moving occupations",DP03
+DP03_0032MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!OCCUPATION!!Production, transportation, and material moving occupations",DP03
+DP03_0033EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining",DP03
+DP03_0033MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining",DP03
+DP03_0034EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Construction,DP03
+DP03_0034MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Construction,DP03
+DP03_0035EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Manufacturing,DP03
+DP03_0035MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Manufacturing,DP03
+DP03_0036EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Wholesale trade,DP03
+DP03_0036MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Wholesale trade,DP03
+DP03_0037EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Retail trade,DP03
+DP03_0037MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Retail trade,DP03
+DP03_0038EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Transportation and warehousing, and utilities",DP03
+DP03_0038MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Transportation and warehousing, and utilities",DP03
+DP03_0039EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Information,DP03
+DP03_0039MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Information,DP03
+DP03_0040EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing",DP03
+DP03_0040MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing",DP03
+DP03_0041EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services",DP03
+DP03_0041MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services",DP03
+DP03_0042EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Educational services, and health care, and social assistance",DP03
+DP03_0042MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Educational services, and health care, and social assistance",DP03
+DP03_0043EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation, and food services",DP03
+DP03_0043MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation, and food services",DP03
+DP03_0044EA,string,"Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Other services, except public administration",DP03
+DP03_0044MA,string,"Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Other services, except public administration",DP03
+DP03_0045EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!INDUSTRY!!Public administration,DP03
+DP03_0045MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!INDUSTRY!!Public administration,DP03
+DP03_0046EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Private wage and salary workers,DP03
+DP03_0046MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Private wage and salary workers,DP03
+DP03_0047EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Government workers,DP03
+DP03_0047MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Government workers,DP03
+DP03_0048EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Self-employed workers in own not incorporated business,DP03
+DP03_0048MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Self-employed workers in own not incorporated business,DP03
+DP03_0049EA,string,Annotation of Estimate!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Unpaid family workers,DP03
+DP03_0049MA,string,Annotation of Margin of Error!!Civilian employed population 16 years and over!!CLASS OF WORKER!!Unpaid family workers,DP03
+DP03_0050EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households,DP03
+DP03_0050MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households,DP03
+DP03_0051EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",DP03
+DP03_0051MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",DP03
+DP03_0052EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",DP03
+DP03_0052MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",DP03
+DP03_0053EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",DP03
+DP03_0053MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",DP03
+DP03_0054EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",DP03
+DP03_0054MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",DP03
+DP03_0055EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",DP03
+DP03_0055MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",DP03
+DP03_0056EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",DP03
+DP03_0056MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",DP03
+DP03_0057EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",DP03
+DP03_0057MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",DP03
+DP03_0058EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",DP03
+DP03_0058MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",DP03
+DP03_0059EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",DP03
+DP03_0059MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",DP03
+DP03_0060EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",DP03
+DP03_0060MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",DP03
+DP03_0061EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),DP03
+DP03_0061MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),DP03
+DP03_0062EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),DP03
+DP03_0062MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),DP03
+DP03_0063EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,DP03
+DP03_0063MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,DP03
+DP03_0064EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),DP03
+DP03_0064MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),DP03
+DP03_0065EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,DP03
+DP03_0065MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,DP03
+DP03_0066EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),DP03
+DP03_0066MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),DP03
+DP03_0067EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,DP03
+DP03_0067MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,DP03
+DP03_0068EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),DP03
+DP03_0068MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),DP03
+DP03_0069EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,DP03
+DP03_0069MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,DP03
+DP03_0070EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),DP03
+DP03_0070MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),DP03
+DP03_0071EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,DP03
+DP03_0071MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,DP03
+DP03_0072EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),DP03
+DP03_0072MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),DP03
+DP03_0073EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp benefits in the past 12 months,DP03
+DP03_0073MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp benefits in the past 12 months,DP03
+DP03_0074EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families,DP03
+DP03_0074MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families,DP03
+DP03_0075EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",DP03
+DP03_0075MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",DP03
+DP03_0076EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",DP03
+DP03_0076MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",DP03
+DP03_0077EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",DP03
+DP03_0077MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",DP03
+DP03_0078EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",DP03
+DP03_0078MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",DP03
+DP03_0079EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",DP03
+DP03_0079MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",DP03
+DP03_0080EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",DP03
+DP03_0080MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",DP03
+DP03_0081EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",DP03
+DP03_0081MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",DP03
+DP03_0082EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",DP03
+DP03_0082MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",DP03
+DP03_0083EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",DP03
+DP03_0083MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",DP03
+DP03_0084EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",DP03
+DP03_0084MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",DP03
+DP03_0085EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),DP03
+DP03_0085MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),DP03
+DP03_0086EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),DP03
+DP03_0086MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),DP03
+DP03_0087EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Per capita income (dollars),DP03
+DP03_0087MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families!!Per capita income (dollars),DP03
+DP03_0088EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,DP03
+DP03_0088MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,DP03
+DP03_0089EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),DP03
+DP03_0089MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),DP03
+DP03_0090EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),DP03
+DP03_0090MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),DP03
+DP03_0091EA,string,Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for workers (dollars),DP03
+DP03_0091MA,string,Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for workers (dollars),DP03
+DP03_0092EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for male full-time, year-round workers (dollars)",DP03
+DP03_0092MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for male full-time, year-round workers (dollars)",DP03
+DP03_0093EA,string,"Annotation of Estimate!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for female full-time, year-round workers (dollars)",DP03
+DP03_0093MA,string,"Annotation of Margin of Error!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median earnings for female full-time, year-round workers (dollars)",DP03
+DP03_0094EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,DP03
+DP03_0094MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,DP03
+DP03_0095EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children under 18 years,DP03
+DP03_0095MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children under 18 years,DP03
+DP03_0096EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children under 18 years!!With related children under 5 years only,DP03
+DP03_0096MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children under 18 years!!With related children under 5 years only,DP03
+DP03_0097EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families,DP03
+DP03_0097MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families,DP03
+DP03_0098EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children under 18 years,DP03
+DP03_0098MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children under 18 years,DP03
+DP03_0099EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children under 18 years!!With related children under 5 years only,DP03
+DP03_0099MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children under 18 years!!With related children under 5 years only,DP03
+DP03_0100EA,string,"Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present",DP03
+DP03_0100MA,string,"Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present",DP03
+DP03_0101EA,string,"Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children under 18 years",DP03
+DP03_0101MA,string,"Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children under 18 years",DP03
+DP03_0102EA,string,"Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children under 18 years!!With related children under 5 years only",DP03
+DP03_0102MA,string,"Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children under 18 years!!With related children under 5 years only",DP03
+DP03_0103EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,DP03
+DP03_0103MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,DP03
+DP03_0104EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years,DP03
+DP03_0104MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years,DP03
+DP03_0105EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years,DP03
+DP03_0105MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years,DP03
+DP03_0106EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years!!Related children under 5 years,DP03
+DP03_0106MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years!!Related children under 5 years,DP03
+DP03_0107EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years!!Related children 5 to 17 years,DP03
+DP03_0107MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years!!Related children under 18 years!!Related children 5 to 17 years,DP03
+DP03_0108EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 years and over,DP03
+DP03_0108MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 years and over,DP03
+DP03_0109EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 to 64 years,DP03
+DP03_0109MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 to 64 years,DP03
+DP03_0110EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!65 years and over,DP03
+DP03_0110MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!65 years and over,DP03
+DP03_0111EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!People in families,DP03
+DP03_0111MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!People in families,DP03
+DP03_0112EA,string,Annotation of Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Unrelated individuals 15 years and over,DP03
+DP03_0112MA,string,Annotation of Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Unrelated individuals 15 years and over,DP03

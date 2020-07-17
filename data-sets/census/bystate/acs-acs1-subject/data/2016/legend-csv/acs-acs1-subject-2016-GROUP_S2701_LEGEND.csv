@@ -1,0 +1,1241 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2701_C01_001E,int,Total!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C01_002E,int,Total!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C01_003E,int,Total!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C01_004E,int,Total!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C01_005E,int,Total!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C01_006E,int,Total!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C01_007E,int,Total!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C01_008E,int,Total!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C01_009E,int,Total!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C01_010E,int,Total!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C01_011E,int,Total!!Estimate!!AGE!!65 years and older,S2701
+S2701_C01_012E,int,Total!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C01_013E,int,Total!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C01_014E,int,Total!!Estimate!!19 to 25 years,S2701
+S2701_C01_015E,int,Total!!Estimate!!SEX!!Male,S2701
+S2701_C01_016E,int,Total!!Estimate!!SEX!!Female,S2701
+S2701_C01_017E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C01_018E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C01_019E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C01_020E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C01_021E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C01_022E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C01_023E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C01_024E,int,Total!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C01_025E,int,"Total!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C01_026E,int,Total!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C01_027E,int,Total!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C01_028E,int,Total!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C01_029E,int,"Total!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C01_030E,int,"Total!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C01_031E,int,Total!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C01_032E,int,Total!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C01_033E,int,Total!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C01_034E,int,Total!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C01_035E,int,Total!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C01_036E,int,Total!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C01_037E,int,Total!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C01_038E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C01_039E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C01_040E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C01_041E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C01_042E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C01_043E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C01_044E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C01_045E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C01_046E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C01_047E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C01_048E,int,Total!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C01_049E,int,"Total!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C01_050E,int,"Total!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C01_051E,int,Total!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C01_052E,int,Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C01_053E,int,"Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C01_054E,int,"Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C01_055E,int,"Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C01_056E,int,"Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C01_057E,int,"Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C01_058E,int,Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C01_059E,int,Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C01_060E,int,Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C01_061E,int,Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C01_062E,int,Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C02_001E,int,Insured!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C02_002E,int,Insured!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C02_003E,int,Insured!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C02_004E,int,Insured!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C02_005E,int,Insured!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C02_006E,int,Insured!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C02_007E,int,Insured!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C02_008E,int,Insured!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C02_009E,int,Insured!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C02_010E,int,Insured!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C02_011E,int,Insured!!Estimate!!AGE!!65 years and older,S2701
+S2701_C02_012E,int,Insured!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C02_013E,int,Insured!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C02_014E,int,Insured!!Estimate!!19 to 25 years,S2701
+S2701_C02_015E,int,Insured!!Estimate!!SEX!!Male,S2701
+S2701_C02_016E,int,Insured!!Estimate!!SEX!!Female,S2701
+S2701_C02_017E,int,Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C02_018E,int,Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C02_019E,int,Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C02_020E,int,Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C02_021E,int,Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C02_022E,int,Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C02_023E,int,Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C02_024E,int,Insured!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C02_025E,int,"Insured!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C02_026E,int,Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C02_027E,int,Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C02_028E,int,Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C02_029E,int,"Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C02_030E,int,"Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C02_031E,int,Insured!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C02_032E,int,Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C02_033E,int,Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C02_034E,int,Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C02_035E,int,Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C02_036E,int,Insured!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C02_037E,int,Insured!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C02_038E,int,Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C02_039E,int,Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C02_040E,int,Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C02_041E,int,Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C02_042E,int,Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C02_043E,int,Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C02_044E,int,Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C02_045E,int,Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C02_046E,int,Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C02_047E,int,Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C02_048E,int,Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C02_049E,int,"Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C02_050E,int,"Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C02_051E,int,Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C02_052E,int,Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C02_053E,int,"Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C02_054E,int,"Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C02_055E,int,"Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C02_056E,int,"Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C02_057E,int,"Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C02_058E,int,Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C02_059E,int,Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C02_060E,int,Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C02_061E,int,Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C02_062E,int,Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C03_001E,int,Percent Insured!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C03_002E,int,Percent Insured!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C03_003E,int,Percent Insured!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C03_004E,int,Percent Insured!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C03_005E,int,Percent Insured!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C03_006E,int,Percent Insured!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C03_007E,int,Percent Insured!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C03_008E,int,Percent Insured!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C03_009E,int,Percent Insured!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C03_010E,int,Percent Insured!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C03_011E,int,Percent Insured!!Estimate!!AGE!!65 years and older,S2701
+S2701_C03_012E,int,Percent Insured!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C03_013E,int,Percent Insured!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C03_014E,int,Percent Insured!!Estimate!!19 to 25 years,S2701
+S2701_C03_015E,int,Percent Insured!!Estimate!!SEX!!Male,S2701
+S2701_C03_016E,int,Percent Insured!!Estimate!!SEX!!Female,S2701
+S2701_C03_017E,int,Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C03_018E,int,Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C03_019E,int,Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C03_020E,int,Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C03_021E,int,Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C03_022E,int,Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C03_023E,int,Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C03_024E,int,Percent Insured!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C03_025E,int,"Percent Insured!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C03_026E,int,Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C03_027E,int,Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C03_028E,int,Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C03_029E,int,"Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C03_030E,int,"Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C03_031E,int,Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C03_032E,int,Percent Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C03_033E,int,Percent Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C03_034E,int,Percent Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C03_035E,int,Percent Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C03_036E,int,Percent Insured!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C03_037E,int,Percent Insured!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C03_038E,int,Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C03_039E,int,Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C03_040E,int,Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C03_041E,int,Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C03_042E,int,Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C03_043E,int,Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C03_044E,int,Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C03_045E,int,Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C03_046E,int,Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C03_047E,int,Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C03_048E,int,Percent Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C03_049E,int,"Percent Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C03_050E,int,"Percent Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C03_051E,int,Percent Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C03_052E,int,Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C03_053E,int,"Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C03_054E,int,"Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C03_055E,int,"Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C03_056E,int,"Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C03_057E,int,"Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C03_058E,int,Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C03_059E,int,Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C03_060E,int,Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C03_061E,int,Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C03_062E,int,Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C04_001E,int,Uninsured!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C04_002E,int,Uninsured!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C04_003E,int,Uninsured!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C04_004E,int,Uninsured!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C04_005E,int,Uninsured!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C04_006E,int,Uninsured!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C04_007E,int,Uninsured!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C04_008E,int,Uninsured!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C04_009E,int,Uninsured!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C04_010E,int,Uninsured!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C04_011E,int,Uninsured!!Estimate!!AGE!!65 years and older,S2701
+S2701_C04_012E,int,Uninsured!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C04_013E,int,Uninsured!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C04_014E,int,Uninsured!!Estimate!!19 to 25 years,S2701
+S2701_C04_015E,int,Uninsured!!Estimate!!SEX!!Male,S2701
+S2701_C04_016E,int,Uninsured!!Estimate!!SEX!!Female,S2701
+S2701_C04_017E,int,Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C04_018E,int,Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C04_019E,int,Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C04_020E,int,Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C04_021E,int,Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C04_022E,int,Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C04_023E,int,Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C04_024E,int,Uninsured!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C04_025E,int,"Uninsured!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C04_026E,int,Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C04_027E,int,Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C04_028E,int,Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C04_029E,int,"Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C04_030E,int,"Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C04_031E,int,Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C04_032E,int,Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C04_033E,int,Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C04_034E,int,Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C04_035E,int,Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C04_036E,int,Uninsured!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C04_037E,int,Uninsured!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C04_038E,int,Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C04_039E,int,Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C04_040E,int,Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C04_041E,int,Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C04_042E,int,Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C04_043E,int,Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C04_044E,int,Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C04_045E,int,Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C04_046E,int,Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C04_047E,int,Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C04_048E,int,Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C04_049E,int,"Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C04_050E,int,"Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C04_051E,int,Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C04_052E,int,Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C04_053E,int,"Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C04_054E,int,"Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C04_055E,int,"Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C04_056E,int,"Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C04_057E,int,"Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C04_058E,int,Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C04_059E,int,Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C04_060E,int,Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C04_061E,int,Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C04_062E,int,Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C05_001E,int,Percent Uninsured!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C05_002E,int,Percent Uninsured!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C05_003E,int,Percent Uninsured!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C05_004E,int,Percent Uninsured!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C05_005E,int,Percent Uninsured!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C05_006E,int,Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C05_007E,int,Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C05_008E,int,Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C05_009E,int,Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C05_010E,int,Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C05_011E,int,Percent Uninsured!!Estimate!!AGE!!65 years and older,S2701
+S2701_C05_012E,int,Percent Uninsured!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C05_013E,int,Percent Uninsured!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C05_014E,int,Percent Uninsured!!Estimate!!19 to 25 years,S2701
+S2701_C05_015E,int,Percent Uninsured!!Estimate!!SEX!!Male,S2701
+S2701_C05_016E,int,Percent Uninsured!!Estimate!!SEX!!Female,S2701
+S2701_C05_017E,int,Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C05_018E,int,Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C05_019E,int,Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C05_020E,int,Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C05_021E,int,Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C05_022E,int,Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C05_023E,int,Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C05_024E,int,Percent Uninsured!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C05_025E,int,"Percent Uninsured!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C05_026E,int,Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C05_027E,int,Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C05_028E,int,Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C05_029E,int,"Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C05_030E,int,"Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C05_031E,int,Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C05_032E,int,Percent Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C05_033E,int,Percent Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C05_034E,int,Percent Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C05_035E,int,Percent Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C05_036E,int,Percent Uninsured!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C05_037E,int,Percent Uninsured!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C05_038E,int,Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C05_039E,int,Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C05_040E,int,Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C05_041E,int,Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C05_042E,int,Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C05_043E,int,Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C05_044E,int,Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C05_045E,int,Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C05_046E,int,Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C05_047E,int,Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C05_048E,int,Percent Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C05_049E,int,"Percent Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C05_050E,int,"Percent Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C05_051E,int,Percent Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C05_052E,int,Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C05_053E,int,"Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C05_054E,int,"Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C05_055E,int,"Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C05_056E,int,"Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C05_057E,int,"Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C05_058E,int,Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C05_059E,int,Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C05_060E,int,Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C05_061E,int,Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C05_062E,int,Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C01_001M,int,Total!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C01_002M,int,Total!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C01_003M,int,Total!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C01_004M,int,Total!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C01_005M,int,Total!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C01_006M,int,Total!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C01_007M,int,Total!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C01_008M,int,Total!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C01_009M,int,Total!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C01_010M,int,Total!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C01_011M,int,Total!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C01_012M,int,Total!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C01_013M,int,Total!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C01_014M,int,Total!!Margin of Error!!19 to 25 years,S2701
+S2701_C01_015M,int,Total!!Margin of Error!!SEX!!Male,S2701
+S2701_C01_016M,int,Total!!Margin of Error!!SEX!!Female,S2701
+S2701_C01_017M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C01_018M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C01_019M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C01_020M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C01_021M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C01_022M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C01_023M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C01_024M,int,Total!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C01_025M,int,"Total!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C01_026M,int,Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C01_027M,int,Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C01_028M,int,Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C01_029M,int,"Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C01_030M,int,"Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C01_031M,int,Total!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C01_032M,int,Total!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C01_033M,int,Total!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C01_034M,int,Total!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C01_035M,int,Total!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C01_036M,int,Total!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C01_037M,int,Total!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C01_038M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C01_039M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C01_040M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C01_041M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C01_042M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C01_043M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C01_044M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C01_045M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C01_046M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C01_047M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C01_048M,int,Total!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C01_049M,int,"Total!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C01_050M,int,"Total!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C01_051M,int,Total!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C01_052M,int,Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C01_053M,int,"Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C01_054M,int,"Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C01_055M,int,"Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C01_056M,int,"Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C01_057M,int,"Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C01_058M,int,Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C01_059M,int,Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C01_060M,int,Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C01_061M,int,Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C01_062M,int,Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C02_001M,int,Insured!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C02_002M,int,Insured!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C02_003M,int,Insured!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C02_004M,int,Insured!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C02_005M,int,Insured!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C02_006M,int,Insured!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C02_007M,int,Insured!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C02_008M,int,Insured!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C02_009M,int,Insured!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C02_010M,int,Insured!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C02_011M,int,Insured!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C02_012M,int,Insured!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C02_013M,int,Insured!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C02_014M,int,Insured!!Margin of Error!!19 to 25 years,S2701
+S2701_C02_015M,int,Insured!!Margin of Error!!SEX!!Male,S2701
+S2701_C02_016M,int,Insured!!Margin of Error!!SEX!!Female,S2701
+S2701_C02_017M,int,Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C02_018M,int,Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C02_019M,int,Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C02_020M,int,Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C02_021M,int,Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C02_022M,int,Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C02_023M,int,Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C02_024M,int,Insured!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C02_025M,int,"Insured!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C02_026M,int,Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C02_027M,int,Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C02_028M,int,Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C02_029M,int,"Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C02_030M,int,"Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C02_031M,int,Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C02_032M,int,Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C02_033M,int,Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C02_034M,int,Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C02_035M,int,Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C02_036M,int,Insured!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C02_037M,int,Insured!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C02_038M,int,Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C02_039M,int,Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C02_040M,int,Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C02_041M,int,Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C02_042M,int,Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C02_043M,int,Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C02_044M,int,Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C02_045M,int,Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C02_046M,int,Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C02_047M,int,Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C02_048M,int,Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C02_049M,int,"Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C02_050M,int,"Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C02_051M,int,Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C02_052M,int,Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C02_053M,int,"Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C02_054M,int,"Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C02_055M,int,"Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C02_056M,int,"Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C02_057M,int,"Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C02_058M,int,Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C02_059M,int,Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C02_060M,int,Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C02_061M,int,Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C02_062M,int,Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C03_001M,int,Percent Insured!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C03_002M,int,Percent Insured!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C03_003M,int,Percent Insured!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C03_004M,int,Percent Insured!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C03_005M,int,Percent Insured!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C03_006M,int,Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C03_007M,int,Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C03_008M,int,Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C03_009M,int,Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C03_010M,int,Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C03_011M,int,Percent Insured!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C03_012M,int,Percent Insured!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C03_013M,int,Percent Insured!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C03_014M,int,Percent Insured!!Margin of Error!!19 to 25 years,S2701
+S2701_C03_015M,int,Percent Insured!!Margin of Error!!SEX!!Male,S2701
+S2701_C03_016M,int,Percent Insured!!Margin of Error!!SEX!!Female,S2701
+S2701_C03_017M,int,Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C03_018M,int,Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C03_019M,int,Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C03_020M,int,Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C03_021M,int,Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C03_022M,int,Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C03_023M,int,Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C03_024M,int,Percent Insured!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C03_025M,int,"Percent Insured!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C03_026M,int,Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C03_027M,int,Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C03_028M,int,Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C03_029M,int,"Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C03_030M,int,"Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C03_031M,int,Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C03_032M,int,Percent Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C03_033M,int,Percent Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C03_034M,int,Percent Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C03_035M,int,Percent Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C03_036M,int,Percent Insured!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C03_037M,int,Percent Insured!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C03_038M,int,Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C03_039M,int,Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C03_040M,int,Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C03_041M,int,Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C03_042M,int,Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C03_043M,int,Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C03_044M,int,Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C03_045M,int,Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C03_046M,int,Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C03_047M,int,Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C03_048M,int,Percent Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C03_049M,int,"Percent Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C03_050M,int,"Percent Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C03_051M,int,Percent Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C03_052M,int,Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C03_053M,int,"Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C03_054M,int,"Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C03_055M,int,"Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C03_056M,int,"Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C03_057M,int,"Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C03_058M,int,Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C03_059M,int,Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C03_060M,int,Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C03_061M,int,Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C03_062M,int,Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C04_001M,int,Uninsured!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C04_002M,int,Uninsured!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C04_003M,int,Uninsured!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C04_004M,int,Uninsured!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C04_005M,int,Uninsured!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C04_006M,int,Uninsured!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C04_007M,int,Uninsured!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C04_008M,int,Uninsured!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C04_009M,int,Uninsured!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C04_010M,int,Uninsured!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C04_011M,int,Uninsured!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C04_012M,int,Uninsured!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C04_013M,int,Uninsured!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C04_014M,int,Uninsured!!Margin of Error!!19 to 25 years,S2701
+S2701_C04_015M,int,Uninsured!!Margin of Error!!SEX!!Male,S2701
+S2701_C04_016M,int,Uninsured!!Margin of Error!!SEX!!Female,S2701
+S2701_C04_017M,int,Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C04_018M,int,Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C04_019M,int,Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C04_020M,int,Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C04_021M,int,Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C04_022M,int,Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C04_023M,int,Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C04_024M,int,Uninsured!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C04_025M,int,"Uninsured!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C04_026M,int,Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C04_027M,int,Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C04_028M,int,Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C04_029M,int,"Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C04_030M,int,"Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C04_031M,int,Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C04_032M,int,Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C04_033M,int,Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C04_034M,int,Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C04_035M,int,Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C04_036M,int,Uninsured!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C04_037M,int,Uninsured!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C04_038M,int,Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C04_039M,int,Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C04_040M,int,Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C04_041M,int,Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C04_042M,int,Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C04_043M,int,Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C04_044M,int,Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C04_045M,int,Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C04_046M,int,Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C04_047M,int,Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C04_048M,int,Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C04_049M,int,"Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C04_050M,int,"Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C04_051M,int,Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C04_052M,int,Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C04_053M,int,"Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C04_054M,int,"Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C04_055M,int,"Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C04_056M,int,"Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C04_057M,int,"Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C04_058M,int,Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C04_059M,int,Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C04_060M,int,Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C04_061M,int,Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C04_062M,int,Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C05_001M,int,Percent Uninsured!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C05_002M,int,Percent Uninsured!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C05_003M,int,Percent Uninsured!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C05_004M,int,Percent Uninsured!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C05_005M,int,Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C05_006M,int,Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C05_007M,int,Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C05_008M,int,Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C05_009M,int,Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C05_010M,int,Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C05_011M,int,Percent Uninsured!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C05_012M,int,Percent Uninsured!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C05_013M,int,Percent Uninsured!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C05_014M,int,Percent Uninsured!!Margin of Error!!19 to 25 years,S2701
+S2701_C05_015M,int,Percent Uninsured!!Margin of Error!!SEX!!Male,S2701
+S2701_C05_016M,int,Percent Uninsured!!Margin of Error!!SEX!!Female,S2701
+S2701_C05_017M,int,Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C05_018M,int,Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C05_019M,int,Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C05_020M,int,Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C05_021M,int,Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C05_022M,int,Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C05_023M,int,Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C05_024M,int,Percent Uninsured!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C05_025M,int,"Percent Uninsured!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C05_026M,int,Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C05_027M,int,Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C05_028M,int,Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C05_029M,int,"Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C05_030M,int,"Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C05_031M,int,Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C05_032M,int,Percent Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C05_033M,int,Percent Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C05_034M,int,Percent Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C05_035M,int,Percent Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C05_036M,int,Percent Uninsured!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C05_037M,int,Percent Uninsured!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C05_038M,int,Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C05_039M,int,Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C05_040M,int,Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C05_041M,int,Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C05_042M,int,Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C05_043M,int,Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C05_044M,int,Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C05_045M,int,Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C05_046M,int,Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C05_047M,int,Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C05_048M,int,Percent Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C05_049M,int,"Percent Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C05_050M,int,"Percent Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C05_051M,int,Percent Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C05_052M,int,Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C05_053M,int,"Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C05_054M,int,"Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C05_055M,int,"Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C05_056M,int,"Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C05_057M,int,"Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C05_058M,int,Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C05_059M,int,Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C05_060M,int,Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C05_061M,int,Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C05_062M,int,Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C01_001EA,string,Annotation of Total!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C01_001MA,string,Annotation of Total!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C01_002EA,string,Annotation of Total!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C01_002MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C01_003EA,string,Annotation of Total!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C01_003MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C01_004EA,string,Annotation of Total!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C01_004MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C01_005EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C01_005MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C01_006EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C01_006MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C01_007EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C01_007MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C01_008EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C01_008MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C01_009EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C01_009MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C01_010EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C01_010MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C01_011EA,string,Annotation of Total!!Estimate!!AGE!!65 years and older,S2701
+S2701_C01_011MA,string,Annotation of Total!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C01_012EA,string,Annotation of Total!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C01_012MA,string,Annotation of Total!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C01_013EA,string,Annotation of Total!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C01_013MA,string,Annotation of Total!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C01_014EA,string,Annotation of Total!!Estimate!!19 to 25 years,S2701
+S2701_C01_014MA,string,Annotation of Total!!Margin of Error!!19 to 25 years,S2701
+S2701_C01_015EA,string,Annotation of Total!!Estimate!!SEX!!Male,S2701
+S2701_C01_015MA,string,Annotation of Total!!Margin of Error!!SEX!!Male,S2701
+S2701_C01_016EA,string,Annotation of Total!!Estimate!!SEX!!Female,S2701
+S2701_C01_016MA,string,Annotation of Total!!Margin of Error!!SEX!!Female,S2701
+S2701_C01_017EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C01_017MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C01_018EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C01_018MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C01_019EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C01_019MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C01_020EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C01_020MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C01_021EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C01_021MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C01_022EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C01_022MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C01_023EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C01_023MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C01_024EA,string,Annotation of Total!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C01_024MA,string,Annotation of Total!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C01_025EA,string,"Annotation of Total!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C01_025MA,string,"Annotation of Total!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C01_026EA,string,Annotation of Total!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C01_026MA,string,Annotation of Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C01_027EA,string,Annotation of Total!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C01_027MA,string,Annotation of Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C01_028EA,string,Annotation of Total!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C01_028MA,string,Annotation of Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C01_029EA,string,"Annotation of Total!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C01_029MA,string,"Annotation of Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C01_030EA,string,"Annotation of Total!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C01_030MA,string,"Annotation of Total!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C01_031EA,string,Annotation of Total!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C01_031MA,string,Annotation of Total!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C01_032EA,string,Annotation of Total!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C01_032MA,string,Annotation of Total!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C01_033EA,string,Annotation of Total!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C01_033MA,string,Annotation of Total!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C01_034EA,string,Annotation of Total!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C01_034MA,string,Annotation of Total!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C01_035EA,string,Annotation of Total!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C01_035MA,string,Annotation of Total!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C01_036EA,string,Annotation of Total!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C01_036MA,string,Annotation of Total!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C01_037EA,string,Annotation of Total!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C01_037MA,string,Annotation of Total!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C01_038EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C01_038MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C01_039EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C01_039MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C01_040EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C01_040MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C01_041EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C01_041MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C01_042EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C01_042MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C01_043EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C01_043MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C01_044EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C01_044MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C01_045EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C01_045MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C01_046EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C01_046MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C01_047EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C01_047MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C01_048EA,string,Annotation of Total!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C01_048MA,string,Annotation of Total!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C01_049EA,string,"Annotation of Total!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C01_049MA,string,"Annotation of Total!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C01_050EA,string,"Annotation of Total!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C01_050MA,string,"Annotation of Total!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C01_051EA,string,Annotation of Total!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C01_051MA,string,Annotation of Total!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C01_052EA,string,Annotation of Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C01_052MA,string,Annotation of Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C01_053EA,string,"Annotation of Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C01_053MA,string,"Annotation of Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C01_054EA,string,"Annotation of Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C01_054MA,string,"Annotation of Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C01_055EA,string,"Annotation of Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C01_055MA,string,"Annotation of Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C01_056EA,string,"Annotation of Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C01_056MA,string,"Annotation of Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C01_057EA,string,"Annotation of Total!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C01_057MA,string,"Annotation of Total!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C01_058EA,string,Annotation of Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C01_058MA,string,Annotation of Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C01_059EA,string,Annotation of Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C01_059MA,string,Annotation of Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C01_060EA,string,Annotation of Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C01_060MA,string,Annotation of Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C01_061EA,string,Annotation of Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C01_061MA,string,Annotation of Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C01_062EA,string,Annotation of Total!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C01_062MA,string,Annotation of Total!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C02_001EA,string,Annotation of Insured!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C02_001MA,string,Annotation of Insured!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C02_002EA,string,Annotation of Insured!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C02_002MA,string,Annotation of Insured!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C02_003EA,string,Annotation of Insured!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C02_003MA,string,Annotation of Insured!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C02_004EA,string,Annotation of Insured!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C02_004MA,string,Annotation of Insured!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C02_005EA,string,Annotation of Insured!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C02_005MA,string,Annotation of Insured!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C02_006EA,string,Annotation of Insured!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C02_006MA,string,Annotation of Insured!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C02_007EA,string,Annotation of Insured!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C02_007MA,string,Annotation of Insured!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C02_008EA,string,Annotation of Insured!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C02_008MA,string,Annotation of Insured!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C02_009EA,string,Annotation of Insured!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C02_009MA,string,Annotation of Insured!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C02_010EA,string,Annotation of Insured!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C02_010MA,string,Annotation of Insured!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C02_011EA,string,Annotation of Insured!!Estimate!!AGE!!65 years and older,S2701
+S2701_C02_011MA,string,Annotation of Insured!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C02_012EA,string,Annotation of Insured!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C02_012MA,string,Annotation of Insured!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C02_013EA,string,Annotation of Insured!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C02_013MA,string,Annotation of Insured!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C02_014EA,string,Annotation of Insured!!Estimate!!19 to 25 years,S2701
+S2701_C02_014MA,string,Annotation of Insured!!Margin of Error!!19 to 25 years,S2701
+S2701_C02_015EA,string,Annotation of Insured!!Estimate!!SEX!!Male,S2701
+S2701_C02_015MA,string,Annotation of Insured!!Margin of Error!!SEX!!Male,S2701
+S2701_C02_016EA,string,Annotation of Insured!!Estimate!!SEX!!Female,S2701
+S2701_C02_016MA,string,Annotation of Insured!!Margin of Error!!SEX!!Female,S2701
+S2701_C02_017EA,string,Annotation of Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C02_017MA,string,Annotation of Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C02_018EA,string,Annotation of Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C02_018MA,string,Annotation of Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C02_019EA,string,Annotation of Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C02_019MA,string,Annotation of Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C02_020EA,string,Annotation of Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C02_020MA,string,Annotation of Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C02_021EA,string,Annotation of Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C02_021MA,string,Annotation of Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C02_022EA,string,Annotation of Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C02_022MA,string,Annotation of Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C02_023EA,string,Annotation of Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C02_023MA,string,Annotation of Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C02_024EA,string,Annotation of Insured!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C02_024MA,string,Annotation of Insured!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C02_025EA,string,"Annotation of Insured!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C02_025MA,string,"Annotation of Insured!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C02_026EA,string,Annotation of Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C02_026MA,string,Annotation of Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C02_027EA,string,Annotation of Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C02_027MA,string,Annotation of Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C02_028EA,string,Annotation of Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C02_028MA,string,Annotation of Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C02_029EA,string,"Annotation of Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C02_029MA,string,"Annotation of Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C02_030EA,string,"Annotation of Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C02_030MA,string,"Annotation of Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C02_031EA,string,Annotation of Insured!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C02_031MA,string,Annotation of Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C02_032EA,string,Annotation of Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C02_032MA,string,Annotation of Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C02_033EA,string,Annotation of Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C02_033MA,string,Annotation of Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C02_034EA,string,Annotation of Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C02_034MA,string,Annotation of Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C02_035EA,string,Annotation of Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C02_035MA,string,Annotation of Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C02_036EA,string,Annotation of Insured!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C02_036MA,string,Annotation of Insured!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C02_037EA,string,Annotation of Insured!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C02_037MA,string,Annotation of Insured!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C02_038EA,string,Annotation of Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C02_038MA,string,Annotation of Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C02_039EA,string,Annotation of Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C02_039MA,string,Annotation of Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C02_040EA,string,Annotation of Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C02_040MA,string,Annotation of Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C02_041EA,string,Annotation of Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C02_041MA,string,Annotation of Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C02_042EA,string,Annotation of Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C02_042MA,string,Annotation of Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C02_043EA,string,Annotation of Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C02_043MA,string,Annotation of Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C02_044EA,string,Annotation of Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C02_044MA,string,Annotation of Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C02_045EA,string,Annotation of Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C02_045MA,string,Annotation of Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C02_046EA,string,Annotation of Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C02_046MA,string,Annotation of Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C02_047EA,string,Annotation of Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C02_047MA,string,Annotation of Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C02_048EA,string,Annotation of Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C02_048MA,string,Annotation of Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C02_049EA,string,"Annotation of Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C02_049MA,string,"Annotation of Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C02_050EA,string,"Annotation of Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C02_050MA,string,"Annotation of Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C02_051EA,string,Annotation of Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C02_051MA,string,Annotation of Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C02_052EA,string,Annotation of Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C02_052MA,string,Annotation of Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C02_053EA,string,"Annotation of Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C02_053MA,string,"Annotation of Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C02_054EA,string,"Annotation of Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C02_054MA,string,"Annotation of Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C02_055EA,string,"Annotation of Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C02_055MA,string,"Annotation of Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C02_056EA,string,"Annotation of Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C02_056MA,string,"Annotation of Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C02_057EA,string,"Annotation of Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C02_057MA,string,"Annotation of Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C02_058EA,string,Annotation of Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C02_058MA,string,Annotation of Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C02_059EA,string,Annotation of Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C02_059MA,string,Annotation of Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C02_060EA,string,Annotation of Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C02_060MA,string,Annotation of Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C02_061EA,string,Annotation of Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C02_061MA,string,Annotation of Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C02_062EA,string,Annotation of Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C02_062MA,string,Annotation of Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C03_001EA,string,Annotation of Percent Insured!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C03_001MA,string,Annotation of Percent Insured!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C03_002EA,string,Annotation of Percent Insured!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C03_002MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C03_003EA,string,Annotation of Percent Insured!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C03_003MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C03_004EA,string,Annotation of Percent Insured!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C03_004MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C03_005EA,string,Annotation of Percent Insured!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C03_005MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C03_006EA,string,Annotation of Percent Insured!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C03_006MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C03_007EA,string,Annotation of Percent Insured!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C03_007MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C03_008EA,string,Annotation of Percent Insured!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C03_008MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C03_009EA,string,Annotation of Percent Insured!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C03_009MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C03_010EA,string,Annotation of Percent Insured!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C03_010MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C03_011EA,string,Annotation of Percent Insured!!Estimate!!AGE!!65 years and older,S2701
+S2701_C03_011MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C03_012EA,string,Annotation of Percent Insured!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C03_012MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C03_013EA,string,Annotation of Percent Insured!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C03_013MA,string,Annotation of Percent Insured!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C03_014EA,string,Annotation of Percent Insured!!Estimate!!19 to 25 years,S2701
+S2701_C03_014MA,string,Annotation of Percent Insured!!Margin of Error!!19 to 25 years,S2701
+S2701_C03_015EA,string,Annotation of Percent Insured!!Estimate!!SEX!!Male,S2701
+S2701_C03_015MA,string,Annotation of Percent Insured!!Margin of Error!!SEX!!Male,S2701
+S2701_C03_016EA,string,Annotation of Percent Insured!!Estimate!!SEX!!Female,S2701
+S2701_C03_016MA,string,Annotation of Percent Insured!!Margin of Error!!SEX!!Female,S2701
+S2701_C03_017EA,string,Annotation of Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C03_017MA,string,Annotation of Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C03_018EA,string,Annotation of Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C03_018MA,string,Annotation of Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C03_019EA,string,Annotation of Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C03_019MA,string,Annotation of Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C03_020EA,string,Annotation of Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C03_020MA,string,Annotation of Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C03_021EA,string,Annotation of Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C03_021MA,string,Annotation of Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C03_022EA,string,Annotation of Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C03_022MA,string,Annotation of Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C03_023EA,string,Annotation of Percent Insured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C03_023MA,string,Annotation of Percent Insured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C03_024EA,string,Annotation of Percent Insured!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C03_024MA,string,Annotation of Percent Insured!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C03_025EA,string,"Annotation of Percent Insured!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C03_025MA,string,"Annotation of Percent Insured!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C03_026EA,string,Annotation of Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C03_026MA,string,Annotation of Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C03_027EA,string,Annotation of Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C03_027MA,string,Annotation of Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C03_028EA,string,Annotation of Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C03_028MA,string,Annotation of Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C03_029EA,string,"Annotation of Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C03_029MA,string,"Annotation of Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C03_030EA,string,"Annotation of Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C03_030MA,string,"Annotation of Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C03_031EA,string,Annotation of Percent Insured!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C03_031MA,string,Annotation of Percent Insured!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C03_032EA,string,Annotation of Percent Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C03_032MA,string,Annotation of Percent Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C03_033EA,string,Annotation of Percent Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C03_033MA,string,Annotation of Percent Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C03_034EA,string,Annotation of Percent Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C03_034MA,string,Annotation of Percent Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C03_035EA,string,Annotation of Percent Insured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C03_035MA,string,Annotation of Percent Insured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C03_036EA,string,Annotation of Percent Insured!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C03_036MA,string,Annotation of Percent Insured!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C03_037EA,string,Annotation of Percent Insured!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C03_037MA,string,Annotation of Percent Insured!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C03_038EA,string,Annotation of Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C03_038MA,string,Annotation of Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C03_039EA,string,Annotation of Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C03_039MA,string,Annotation of Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C03_040EA,string,Annotation of Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C03_040MA,string,Annotation of Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C03_041EA,string,Annotation of Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C03_041MA,string,Annotation of Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C03_042EA,string,Annotation of Percent Insured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C03_042MA,string,Annotation of Percent Insured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C03_043EA,string,Annotation of Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C03_043MA,string,Annotation of Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C03_044EA,string,Annotation of Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C03_044MA,string,Annotation of Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C03_045EA,string,Annotation of Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C03_045MA,string,Annotation of Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C03_046EA,string,Annotation of Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C03_046MA,string,Annotation of Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C03_047EA,string,Annotation of Percent Insured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C03_047MA,string,Annotation of Percent Insured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C03_048EA,string,Annotation of Percent Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C03_048MA,string,Annotation of Percent Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C03_049EA,string,"Annotation of Percent Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C03_049MA,string,"Annotation of Percent Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C03_050EA,string,"Annotation of Percent Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C03_050MA,string,"Annotation of Percent Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C03_051EA,string,Annotation of Percent Insured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C03_051MA,string,Annotation of Percent Insured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C03_052EA,string,Annotation of Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C03_052MA,string,Annotation of Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C03_053EA,string,"Annotation of Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C03_053MA,string,"Annotation of Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C03_054EA,string,"Annotation of Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C03_054MA,string,"Annotation of Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C03_055EA,string,"Annotation of Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C03_055MA,string,"Annotation of Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C03_056EA,string,"Annotation of Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C03_056MA,string,"Annotation of Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C03_057EA,string,"Annotation of Percent Insured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C03_057MA,string,"Annotation of Percent Insured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C03_058EA,string,Annotation of Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C03_058MA,string,Annotation of Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C03_059EA,string,Annotation of Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C03_059MA,string,Annotation of Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C03_060EA,string,Annotation of Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C03_060MA,string,Annotation of Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C03_061EA,string,Annotation of Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C03_061MA,string,Annotation of Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C03_062EA,string,Annotation of Percent Insured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C03_062MA,string,Annotation of Percent Insured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C04_001EA,string,Annotation of Uninsured!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C04_001MA,string,Annotation of Uninsured!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C04_002EA,string,Annotation of Uninsured!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C04_002MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C04_003EA,string,Annotation of Uninsured!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C04_003MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C04_004EA,string,Annotation of Uninsured!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C04_004MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C04_005EA,string,Annotation of Uninsured!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C04_005MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C04_006EA,string,Annotation of Uninsured!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C04_006MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C04_007EA,string,Annotation of Uninsured!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C04_007MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C04_008EA,string,Annotation of Uninsured!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C04_008MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C04_009EA,string,Annotation of Uninsured!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C04_009MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C04_010EA,string,Annotation of Uninsured!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C04_010MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C04_011EA,string,Annotation of Uninsured!!Estimate!!AGE!!65 years and older,S2701
+S2701_C04_011MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C04_012EA,string,Annotation of Uninsured!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C04_012MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C04_013EA,string,Annotation of Uninsured!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C04_013MA,string,Annotation of Uninsured!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C04_014EA,string,Annotation of Uninsured!!Estimate!!19 to 25 years,S2701
+S2701_C04_014MA,string,Annotation of Uninsured!!Margin of Error!!19 to 25 years,S2701
+S2701_C04_015EA,string,Annotation of Uninsured!!Estimate!!SEX!!Male,S2701
+S2701_C04_015MA,string,Annotation of Uninsured!!Margin of Error!!SEX!!Male,S2701
+S2701_C04_016EA,string,Annotation of Uninsured!!Estimate!!SEX!!Female,S2701
+S2701_C04_016MA,string,Annotation of Uninsured!!Margin of Error!!SEX!!Female,S2701
+S2701_C04_017EA,string,Annotation of Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C04_017MA,string,Annotation of Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C04_018EA,string,Annotation of Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C04_018MA,string,Annotation of Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C04_019EA,string,Annotation of Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C04_019MA,string,Annotation of Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C04_020EA,string,Annotation of Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C04_020MA,string,Annotation of Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C04_021EA,string,Annotation of Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C04_021MA,string,Annotation of Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C04_022EA,string,Annotation of Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C04_022MA,string,Annotation of Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C04_023EA,string,Annotation of Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C04_023MA,string,Annotation of Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C04_024EA,string,Annotation of Uninsured!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C04_024MA,string,Annotation of Uninsured!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C04_025EA,string,"Annotation of Uninsured!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C04_025MA,string,"Annotation of Uninsured!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C04_026EA,string,Annotation of Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C04_026MA,string,Annotation of Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C04_027EA,string,Annotation of Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C04_027MA,string,Annotation of Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C04_028EA,string,Annotation of Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C04_028MA,string,Annotation of Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C04_029EA,string,"Annotation of Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C04_029MA,string,"Annotation of Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C04_030EA,string,"Annotation of Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C04_030MA,string,"Annotation of Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C04_031EA,string,Annotation of Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C04_031MA,string,Annotation of Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C04_032EA,string,Annotation of Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C04_032MA,string,Annotation of Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C04_033EA,string,Annotation of Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C04_033MA,string,Annotation of Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C04_034EA,string,Annotation of Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C04_034MA,string,Annotation of Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C04_035EA,string,Annotation of Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C04_035MA,string,Annotation of Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C04_036EA,string,Annotation of Uninsured!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C04_036MA,string,Annotation of Uninsured!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C04_037EA,string,Annotation of Uninsured!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C04_037MA,string,Annotation of Uninsured!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C04_038EA,string,Annotation of Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C04_038MA,string,Annotation of Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C04_039EA,string,Annotation of Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C04_039MA,string,Annotation of Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C04_040EA,string,Annotation of Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C04_040MA,string,Annotation of Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C04_041EA,string,Annotation of Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C04_041MA,string,Annotation of Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C04_042EA,string,Annotation of Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C04_042MA,string,Annotation of Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C04_043EA,string,Annotation of Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C04_043MA,string,Annotation of Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C04_044EA,string,Annotation of Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C04_044MA,string,Annotation of Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C04_045EA,string,Annotation of Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C04_045MA,string,Annotation of Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C04_046EA,string,Annotation of Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C04_046MA,string,Annotation of Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C04_047EA,string,Annotation of Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C04_047MA,string,Annotation of Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C04_048EA,string,Annotation of Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C04_048MA,string,Annotation of Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C04_049EA,string,"Annotation of Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C04_049MA,string,"Annotation of Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C04_050EA,string,"Annotation of Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C04_050MA,string,"Annotation of Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C04_051EA,string,Annotation of Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C04_051MA,string,Annotation of Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C04_052EA,string,Annotation of Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C04_052MA,string,Annotation of Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C04_053EA,string,"Annotation of Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C04_053MA,string,"Annotation of Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C04_054EA,string,"Annotation of Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C04_054MA,string,"Annotation of Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C04_055EA,string,"Annotation of Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C04_055MA,string,"Annotation of Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C04_056EA,string,"Annotation of Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C04_056MA,string,"Annotation of Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C04_057EA,string,"Annotation of Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C04_057MA,string,"Annotation of Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C04_058EA,string,Annotation of Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C04_058MA,string,Annotation of Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C04_059EA,string,Annotation of Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C04_059MA,string,Annotation of Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C04_060EA,string,Annotation of Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C04_060MA,string,Annotation of Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C04_061EA,string,Annotation of Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C04_061MA,string,Annotation of Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C04_062EA,string,Annotation of Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C04_062MA,string,Annotation of Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C05_001EA,string,Annotation of Percent Uninsured!!Estimate!!Civilian noninstitutionalized population,S2701
+S2701_C05_001MA,string,Annotation of Percent Uninsured!!Margin of Error!!Civilian noninstitutionalized population,S2701
+S2701_C05_002EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!Under 18 years,S2701
+S2701_C05_002MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!Under 18 years,S2701
+S2701_C05_003EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C05_003MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!Under 18 years!!Under 6 years,S2701
+S2701_C05_004EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C05_004MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!Under 18 years!!6 to 17 years,S2701
+S2701_C05_005EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!18 to 64 years,S2701
+S2701_C05_005MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years,S2701
+S2701_C05_006EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C05_006MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!18 to 24 years,S2701
+S2701_C05_007EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C05_007MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!25 to 34 years,S2701
+S2701_C05_008EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C05_008MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!35 to 44 years,S2701
+S2701_C05_009EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C05_009MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!45 to 54 years,S2701
+S2701_C05_010EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C05_010MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!18 to 64 years!!55 to 64 years,S2701
+S2701_C05_011EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!65 years and older,S2701
+S2701_C05_011MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!65 years and older,S2701
+S2701_C05_012EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C05_012MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!65 years and older!!65 to 74 years,S2701
+S2701_C05_013EA,string,Annotation of Percent Uninsured!!Estimate!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C05_013MA,string,Annotation of Percent Uninsured!!Margin of Error!!AGE!!65 years and older!!75 years and older,S2701
+S2701_C05_014EA,string,Annotation of Percent Uninsured!!Estimate!!19 to 25 years,S2701
+S2701_C05_014MA,string,Annotation of Percent Uninsured!!Margin of Error!!19 to 25 years,S2701
+S2701_C05_015EA,string,Annotation of Percent Uninsured!!Estimate!!SEX!!Male,S2701
+S2701_C05_015MA,string,Annotation of Percent Uninsured!!Margin of Error!!SEX!!Male,S2701
+S2701_C05_016EA,string,Annotation of Percent Uninsured!!Estimate!!SEX!!Female,S2701
+S2701_C05_016MA,string,Annotation of Percent Uninsured!!Margin of Error!!SEX!!Female,S2701
+S2701_C05_017EA,string,Annotation of Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C05_017MA,string,Annotation of Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,S2701
+S2701_C05_018EA,string,Annotation of Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C05_018MA,string,Annotation of Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,S2701
+S2701_C05_019EA,string,Annotation of Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C05_019MA,string,Annotation of Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,S2701
+S2701_C05_020EA,string,Annotation of Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C05_020MA,string,Annotation of Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,S2701
+S2701_C05_021EA,string,Annotation of Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C05_021MA,string,Annotation of Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,S2701
+S2701_C05_022EA,string,Annotation of Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C05_022MA,string,Annotation of Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,S2701
+S2701_C05_023EA,string,Annotation of Percent Uninsured!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C05_023MA,string,Annotation of Percent Uninsured!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S2701
+S2701_C05_024EA,string,Annotation of Percent Uninsured!!Estimate!!Hispanic or Latino (of any race),S2701
+S2701_C05_024MA,string,Annotation of Percent Uninsured!!Margin of Error!!Hispanic or Latino (of any race),S2701
+S2701_C05_025EA,string,"Annotation of Percent Uninsured!!Estimate!!White alone, not Hispanic or Latino",S2701
+S2701_C05_025MA,string,"Annotation of Percent Uninsured!!Margin of Error!!White alone, not Hispanic or Latino",S2701
+S2701_C05_026EA,string,Annotation of Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C05_026MA,string,Annotation of Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households,S2701
+S2701_C05_027EA,string,Annotation of Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C05_027MA,string,Annotation of Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In married couple families,S2701
+S2701_C05_028EA,string,Annotation of Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C05_028MA,string,Annotation of Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families,S2701
+S2701_C05_029EA,string,"Annotation of Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C05_029MA,string,"Annotation of Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Male householder, no wife present",S2701
+S2701_C05_030EA,string,"Annotation of Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C05_030MA,string,"Annotation of Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In family households!!In other families!!Female householder, no husband present",S2701
+S2701_C05_031EA,string,Annotation of Percent Uninsured!!Estimate!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C05_031MA,string,Annotation of Percent Uninsured!!Margin of Error!!LIVING ARRANGEMENTS!!In non-family households and other living arrangements,S2701
+S2701_C05_032EA,string,Annotation of Percent Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C05_032MA,string,Annotation of Percent Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Native born,S2701
+S2701_C05_033EA,string,Annotation of Percent Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C05_033MA,string,Annotation of Percent Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born,S2701
+S2701_C05_034EA,string,Annotation of Percent Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C05_034MA,string,Annotation of Percent Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Naturalized,S2701
+S2701_C05_035EA,string,Annotation of Percent Uninsured!!Estimate!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C05_035MA,string,Annotation of Percent Uninsured!!Margin of Error!!NATIVITY AND U.S. CITIZENSHIP STATUS!!Foreign born!!Not a citizen,S2701
+S2701_C05_036EA,string,Annotation of Percent Uninsured!!Estimate!!DISABILITY STATUS!!With a disability,S2701
+S2701_C05_036MA,string,Annotation of Percent Uninsured!!Margin of Error!!DISABILITY STATUS!!With a disability,S2701
+S2701_C05_037EA,string,Annotation of Percent Uninsured!!Estimate!!DISABILITY STATUS!!No disability,S2701
+S2701_C05_037MA,string,Annotation of Percent Uninsured!!Margin of Error!!DISABILITY STATUS!!No disability,S2701
+S2701_C05_038EA,string,Annotation of Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C05_038MA,string,Annotation of Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over,S2701
+S2701_C05_039EA,string,Annotation of Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C05_039MA,string,Annotation of Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Less than high school graduate,S2701
+S2701_C05_040EA,string,Annotation of Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C05_040MA,string,Annotation of Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!High school graduate (includes equivalency),S2701
+S2701_C05_041EA,string,Annotation of Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C05_041MA,string,Annotation of Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Some college or associate's degree,S2701
+S2701_C05_042EA,string,Annotation of Percent Uninsured!!Estimate!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C05_042MA,string,Annotation of Percent Uninsured!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Civilian noninstitutionalized population 25 years and over!!Bachelor's degree or higher,S2701
+S2701_C05_043EA,string,Annotation of Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C05_043MA,string,Annotation of Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over,S2701
+S2701_C05_044EA,string,Annotation of Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C05_044MA,string,Annotation of Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force,S2701
+S2701_C05_045EA,string,Annotation of Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C05_045MA,string,Annotation of Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Employed,S2701
+S2701_C05_046EA,string,Annotation of Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C05_046MA,string,Annotation of Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!In labor force!!Unemployed,S2701
+S2701_C05_047EA,string,Annotation of Percent Uninsured!!Estimate!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C05_047MA,string,Annotation of Percent Uninsured!!Margin of Error!!EMPLOYMENT STATUS!!Civilian noninstitutionalized population 18 years and over!!Not in labor force,S2701
+S2701_C05_048EA,string,Annotation of Percent Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C05_048MA,string,Annotation of Percent Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years,S2701
+S2701_C05_049EA,string,"Annotation of Percent Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C05_049MA,string,"Annotation of Percent Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked full-time, year round in the past 12 months",S2701
+S2701_C05_050EA,string,"Annotation of Percent Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C05_050MA,string,"Annotation of Percent Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Worked less than full-time, year round in the past 12 months",S2701
+S2701_C05_051EA,string,Annotation of Percent Uninsured!!Estimate!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C05_051MA,string,Annotation of Percent Uninsured!!Margin of Error!!WORK EXPERIENCE!!Civilian noninstitutionalized population 18 to 64 years!!Did not work,S2701
+S2701_C05_052EA,string,Annotation of Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C05_052MA,string,Annotation of Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population,S2701
+S2701_C05_053EA,string,"Annotation of Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C05_053MA,string,"Annotation of Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!Under $25,000",S2701
+S2701_C05_054EA,string,"Annotation of Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C05_054MA,string,"Annotation of Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$25,000 to $49,999",S2701
+S2701_C05_055EA,string,"Annotation of Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C05_055MA,string,"Annotation of Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$50,000 to $74,999",S2701
+S2701_C05_056EA,string,"Annotation of Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C05_056MA,string,"Annotation of Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$75,000 to $99,999",S2701
+S2701_C05_057EA,string,"Annotation of Percent Uninsured!!Estimate!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C05_057MA,string,"Annotation of Percent Uninsured!!Margin of Error!!HOUSEHOLD INCOME (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total household population!!$100,000 and over",S2701
+S2701_C05_058EA,string,Annotation of Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C05_058MA,string,Annotation of Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined,S2701
+S2701_C05_059EA,string,Annotation of Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C05_059MA,string,Annotation of Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!Below 138 percent of the poverty threshold,S2701
+S2701_C05_060EA,string,Annotation of Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C05_060MA,string,Annotation of Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!138 to 199 percent of the poverty threshold,S2701
+S2701_C05_061EA,string,Annotation of Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C05_061MA,string,Annotation of Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!200 to 399 percent of the poverty threshold,S2701
+S2701_C05_062EA,string,Annotation of Percent Uninsured!!Estimate!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701
+S2701_C05_062MA,string,Annotation of Percent Uninsured!!Margin of Error!!RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS!!Civilian noninstitutionalized population for whom poverty status is determined!!At or above 400 percent of the poverty threshold,S2701

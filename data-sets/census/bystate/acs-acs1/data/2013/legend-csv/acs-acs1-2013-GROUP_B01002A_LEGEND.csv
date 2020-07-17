@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B01002A_001E,float,Estimate!!Median age!!Total,B01002A
+B01002A_002E,float,Estimate!!Median age!!Male,B01002A
+B01002A_003E,float,Estimate!!Median age!!Female,B01002A
+B01002A_001M,float,Margin of Error!!Median age!!Total,B01002A
+B01002A_002M,float,Margin of Error!!Median age!!Male,B01002A
+B01002A_003M,float,Margin of Error!!Median age!!Female,B01002A
+B01002A_001EA,string,Annotation of Estimate!!Median age!!Total,B01002A
+B01002A_001MA,string,Annotation of Margin of Error!!Median age!!Total,B01002A
+B01002A_002EA,string,Annotation of Estimate!!Median age!!Male,B01002A
+B01002A_002MA,string,Annotation of Margin of Error!!Median age!!Male,B01002A
+B01002A_003EA,string,Annotation of Estimate!!Median age!!Female,B01002A
+B01002A_003MA,string,Annotation of Margin of Error!!Median age!!Female,B01002A

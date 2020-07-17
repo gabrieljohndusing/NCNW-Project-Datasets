@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17025_001E,int,Estimate!!Total,C17025
+C17025_002E,int,Estimate!!Total!!Income in the past 12 months below poverty level,C17025
+C17025_003E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Native,C17025
+C17025_004E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Foreign born,C17025
+C17025_005E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Foreign born!!Naturalized citizen,C17025
+C17025_006E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Foreign born!!Not a citizen,C17025
+C17025_007E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level,C17025
+C17025_008E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Native,C17025
+C17025_009E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Foreign born,C17025
+C17025_010E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Foreign born!!Naturalized citizen,C17025
+C17025_011E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Foreign born!!Not a citizen,C17025
+C17025_001M,int,Margin of Error!!Total,C17025
+C17025_002M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level,C17025
+C17025_003M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Native,C17025
+C17025_004M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Foreign born,C17025
+C17025_005M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Foreign born!!Naturalized citizen,C17025
+C17025_006M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Foreign born!!Not a citizen,C17025
+C17025_007M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17025
+C17025_008M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Native,C17025
+C17025_009M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Foreign born,C17025
+C17025_010M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Foreign born!!Naturalized citizen,C17025
+C17025_011M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Foreign born!!Not a citizen,C17025
+C17025_001EA,string,Annotation of Estimate!!Total,C17025
+C17025_001MA,string,Annotation of Margin of Error!!Total,C17025
+C17025_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level,C17025
+C17025_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level,C17025
+C17025_003EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Native,C17025
+C17025_003MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Native,C17025
+C17025_004EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Foreign born,C17025
+C17025_004MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Foreign born,C17025
+C17025_005EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Foreign born!!Naturalized citizen,C17025
+C17025_005MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Foreign born!!Naturalized citizen,C17025
+C17025_006EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Foreign born!!Not a citizen,C17025
+C17025_006MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Foreign born!!Not a citizen,C17025
+C17025_007EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level,C17025
+C17025_007MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17025
+C17025_008EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Native,C17025
+C17025_008MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Native,C17025
+C17025_009EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Foreign born,C17025
+C17025_009MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Foreign born,C17025
+C17025_010EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Foreign born!!Naturalized citizen,C17025
+C17025_010MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Foreign born!!Naturalized citizen,C17025
+C17025_011EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Foreign born!!Not a citizen,C17025
+C17025_011MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Foreign born!!Not a citizen,C17025

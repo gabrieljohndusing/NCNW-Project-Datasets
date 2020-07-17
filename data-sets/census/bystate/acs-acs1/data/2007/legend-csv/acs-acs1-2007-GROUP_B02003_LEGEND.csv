@@ -1,0 +1,285 @@
+VARIABLE,TYPE,LABEL,GROUP
+B02003_001E,int,Estimate!!Total,B02003
+B02003_002E,int,Estimate!!Total!!Population of one race,B02003
+B02003_003E,int,Estimate!!Total!!Population of one race!!White alone,B02003
+B02003_004E,int,Estimate!!Total!!Population of one race!!Black or African American alone,B02003
+B02003_005E,int,Estimate!!Total!!Population of one race!!American Indian and Alaska Native alone,B02003
+B02003_006E,int,Estimate!!Total!!Population of one race!!Asian alone,B02003
+B02003_007E,int,Estimate!!Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,B02003
+B02003_008E,int,Estimate!!Total!!Population of one race!!Some other race alone,B02003
+B02003_009E,int,Estimate!!Total!!Population of two or more races,B02003
+B02003_010E,int,Estimate!!Total!!Population of two or more races!!Population of two races,B02003
+B02003_011E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!White; Black or African American,B02003
+B02003_012E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!White; American Indian and Alaska Native,B02003
+B02003_013E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!White; Asian,B02003
+B02003_014E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,B02003
+B02003_015E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!White; Some other race,B02003
+B02003_016E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!Black or African American; American Indian and Alaska Native,B02003
+B02003_017E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!Black or African American; Asian,B02003
+B02003_018E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,B02003
+B02003_019E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!Black or African American; Some other race,B02003
+B02003_020E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Asian,B02003
+B02003_021E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_022E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Some other race,B02003
+B02003_023E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_024E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!Asian; Some other race,B02003
+B02003_025E,int,Estimate!!Total!!Population of two or more races!!Population of two races!!Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_026E,int,Estimate!!Total!!Population of two or more races!!Population of three races,B02003
+B02003_027E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; American Indian and Alaska Native,B02003
+B02003_028E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Asian,B02003
+B02003_029E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Native Hawaiian and Other Pacific Islander,B02003
+B02003_030E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Some other race,B02003
+B02003_031E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Asian,B02003
+B02003_032E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_033E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Some other race,B02003
+B02003_034E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_035E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; Asian; Some other race,B02003
+B02003_036E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_037E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Asian,B02003
+B02003_038E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_039E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Some other race,B02003
+B02003_040E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_041E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; Asian; Some other race,B02003
+B02003_042E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_043E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_044E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_045E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_046E,int,Estimate!!Total!!Population of two or more races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_047E,int,Estimate!!Total!!Population of two or more races!!Population of four races,B02003
+B02003_048E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Asian,B02003
+B02003_049E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_050E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Some other race,B02003
+B02003_051E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_052E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Asian; Some other race,B02003
+B02003_053E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_054E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_055E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_056E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_057E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_058E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_059E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_060E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_061E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_062E,int,Estimate!!Total!!Population of two or more races!!Population of four races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_063E,int,Estimate!!Total!!Population of two or more races!!Population of five races,B02003
+B02003_064E,int,Estimate!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_065E,int,Estimate!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_066E,int,Estimate!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_067E,int,Estimate!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_068E,int,Estimate!!Total!!Population of two or more races!!Population of five races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_069E,int,Estimate!!Total!!Population of two or more races!!Population of five races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_070E,int,Estimate!!Total!!Population of two or more races!!Population of six races,B02003
+B02003_071E,int,Estimate!!Total!!Population of two or more races!!Population of six races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_001M,int,Margin of Error!!Total,B02003
+B02003_002M,int,Margin of Error!!Total!!Population of one race,B02003
+B02003_003M,int,Margin of Error!!Total!!Population of one race!!White alone,B02003
+B02003_004M,int,Margin of Error!!Total!!Population of one race!!Black or African American alone,B02003
+B02003_005M,int,Margin of Error!!Total!!Population of one race!!American Indian and Alaska Native alone,B02003
+B02003_006M,int,Margin of Error!!Total!!Population of one race!!Asian alone,B02003
+B02003_007M,int,Margin of Error!!Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,B02003
+B02003_008M,int,Margin of Error!!Total!!Population of one race!!Some other race alone,B02003
+B02003_009M,int,Margin of Error!!Total!!Population of two or more races,B02003
+B02003_010M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races,B02003
+B02003_011M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; Black or African American,B02003
+B02003_012M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; American Indian and Alaska Native,B02003
+B02003_013M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; Asian,B02003
+B02003_014M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,B02003
+B02003_015M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; Some other race,B02003
+B02003_016M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!Black or African American; American Indian and Alaska Native,B02003
+B02003_017M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!Black or African American; Asian,B02003
+B02003_018M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,B02003
+B02003_019M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!Black or African American; Some other race,B02003
+B02003_020M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Asian,B02003
+B02003_021M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_022M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Some other race,B02003
+B02003_023M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_024M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!Asian; Some other race,B02003
+B02003_025M,int,Margin of Error!!Total!!Population of two or more races!!Population of two races!!Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_026M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races,B02003
+B02003_027M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; American Indian and Alaska Native,B02003
+B02003_028M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Asian,B02003
+B02003_029M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Native Hawaiian and Other Pacific Islander,B02003
+B02003_030M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Some other race,B02003
+B02003_031M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Asian,B02003
+B02003_032M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_033M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Some other race,B02003
+B02003_034M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_035M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Asian; Some other race,B02003
+B02003_036M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_037M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Asian,B02003
+B02003_038M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_039M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Some other race,B02003
+B02003_040M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_041M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; Asian; Some other race,B02003
+B02003_042M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_043M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_044M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_045M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_046M,int,Margin of Error!!Total!!Population of two or more races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_047M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races,B02003
+B02003_048M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Asian,B02003
+B02003_049M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_050M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Some other race,B02003
+B02003_051M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_052M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Asian; Some other race,B02003
+B02003_053M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_054M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_055M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_056M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_057M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_058M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_059M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_060M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_061M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_062M,int,Margin of Error!!Total!!Population of two or more races!!Population of four races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_063M,int,Margin of Error!!Total!!Population of two or more races!!Population of five races,B02003
+B02003_064M,int,Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_065M,int,Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_066M,int,Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_067M,int,Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_068M,int,Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_069M,int,Margin of Error!!Total!!Population of two or more races!!Population of five races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_070M,int,Margin of Error!!Total!!Population of two or more races!!Population of six races,B02003
+B02003_071M,int,Margin of Error!!Total!!Population of two or more races!!Population of six races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_001EA,string,Annotation of Estimate!!Total,B02003
+B02003_001MA,string,Annotation of Margin of Error!!Total,B02003
+B02003_002EA,string,Annotation of Estimate!!Total!!Population of one race,B02003
+B02003_002MA,string,Annotation of Margin of Error!!Total!!Population of one race,B02003
+B02003_003EA,string,Annotation of Estimate!!Total!!Population of one race!!White alone,B02003
+B02003_003MA,string,Annotation of Margin of Error!!Total!!Population of one race!!White alone,B02003
+B02003_004EA,string,Annotation of Estimate!!Total!!Population of one race!!Black or African American alone,B02003
+B02003_004MA,string,Annotation of Margin of Error!!Total!!Population of one race!!Black or African American alone,B02003
+B02003_005EA,string,Annotation of Estimate!!Total!!Population of one race!!American Indian and Alaska Native alone,B02003
+B02003_005MA,string,Annotation of Margin of Error!!Total!!Population of one race!!American Indian and Alaska Native alone,B02003
+B02003_006EA,string,Annotation of Estimate!!Total!!Population of one race!!Asian alone,B02003
+B02003_006MA,string,Annotation of Margin of Error!!Total!!Population of one race!!Asian alone,B02003
+B02003_007EA,string,Annotation of Estimate!!Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,B02003
+B02003_007MA,string,Annotation of Margin of Error!!Total!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,B02003
+B02003_008EA,string,Annotation of Estimate!!Total!!Population of one race!!Some other race alone,B02003
+B02003_008MA,string,Annotation of Margin of Error!!Total!!Population of one race!!Some other race alone,B02003
+B02003_009EA,string,Annotation of Estimate!!Total!!Population of two or more races,B02003
+B02003_009MA,string,Annotation of Margin of Error!!Total!!Population of two or more races,B02003
+B02003_010EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races,B02003
+B02003_010MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races,B02003
+B02003_011EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!White; Black or African American,B02003
+B02003_011MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; Black or African American,B02003
+B02003_012EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!White; American Indian and Alaska Native,B02003
+B02003_012MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; American Indian and Alaska Native,B02003
+B02003_013EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!White; Asian,B02003
+B02003_013MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; Asian,B02003
+B02003_014EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,B02003
+B02003_014MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,B02003
+B02003_015EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!White; Some other race,B02003
+B02003_015MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!White; Some other race,B02003
+B02003_016EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!Black or African American; American Indian and Alaska Native,B02003
+B02003_016MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!Black or African American; American Indian and Alaska Native,B02003
+B02003_017EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!Black or African American; Asian,B02003
+B02003_017MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!Black or African American; Asian,B02003
+B02003_018EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,B02003
+B02003_018MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,B02003
+B02003_019EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!Black or African American; Some other race,B02003
+B02003_019MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!Black or African American; Some other race,B02003
+B02003_020EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Asian,B02003
+B02003_020MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Asian,B02003
+B02003_021EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_021MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_022EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Some other race,B02003
+B02003_022MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!American Indian and Alaska Native; Some other race,B02003
+B02003_023EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_023MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_024EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!Asian; Some other race,B02003
+B02003_024MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!Asian; Some other race,B02003
+B02003_025EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of two races!!Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_025MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of two races!!Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_026EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races,B02003
+B02003_026MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races,B02003
+B02003_027EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; American Indian and Alaska Native,B02003
+B02003_027MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; American Indian and Alaska Native,B02003
+B02003_028EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Asian,B02003
+B02003_028MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Asian,B02003
+B02003_029EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Native Hawaiian and Other Pacific Islander,B02003
+B02003_029MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Native Hawaiian and Other Pacific Islander,B02003
+B02003_030EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Some other race,B02003
+B02003_030MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Black or African American; Some other race,B02003
+B02003_031EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Asian,B02003
+B02003_031MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Asian,B02003
+B02003_032EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_032MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_033EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Some other race,B02003
+B02003_033MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; American Indian and Alaska Native; Some other race,B02003
+B02003_034EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_034MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_035EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; Asian; Some other race,B02003
+B02003_035MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Asian; Some other race,B02003
+B02003_036EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_036MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_037EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Asian,B02003
+B02003_037MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Asian,B02003
+B02003_038EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_038MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_039EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Some other race,B02003
+B02003_039MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; American Indian and Alaska Native; Some other race,B02003
+B02003_040EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_040MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_041EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; Asian; Some other race,B02003
+B02003_041MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; Asian; Some other race,B02003
+B02003_042EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_042MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_043EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_043MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_044EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_044MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_045EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_045MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_046EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_046MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_047EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races,B02003
+B02003_047MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races,B02003
+B02003_048EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Asian,B02003
+B02003_048MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Asian,B02003
+B02003_049EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_049MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,B02003
+B02003_050EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Some other race,B02003
+B02003_050MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Some other race,B02003
+B02003_051EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_051MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_052EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Asian; Some other race,B02003
+B02003_052MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Asian; Some other race,B02003
+B02003_053EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_053MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_054EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_054MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_055EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_055MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_056EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_056MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_057EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_057MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_058EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_058MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_059EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_059MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_060EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_060MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_061EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_061MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_062EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of four races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_062MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of four races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_063EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of five races,B02003
+B02003_063MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of five races,B02003
+B02003_064EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_064MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,B02003
+B02003_065EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_065MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Some other race,B02003
+B02003_066EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_066MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_067EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_067MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_068EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of five races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_068MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of five races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_069EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of five races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_069MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of five races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_070EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of six races,B02003
+B02003_070MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of six races,B02003
+B02003_071EA,string,Annotation of Estimate!!Total!!Population of two or more races!!Population of six races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003
+B02003_071MA,string,Annotation of Margin of Error!!Total!!Population of two or more races!!Population of six races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,B02003

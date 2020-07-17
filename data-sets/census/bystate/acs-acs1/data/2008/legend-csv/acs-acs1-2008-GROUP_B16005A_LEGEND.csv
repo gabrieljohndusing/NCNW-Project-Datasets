@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B16005A_001E,int,Estimate!!Total,B16005A
+B16005A_002E,int,Estimate!!Total!!Native,B16005A
+B16005A_003E,int,Estimate!!Total!!Native!!Speak only English,B16005A
+B16005A_004E,int,Estimate!!Total!!Native!!Speak another language,B16005A
+B16005A_005E,int,"Estimate!!Total!!Native!!Speak another language!!Speak English ""very well""",B16005A
+B16005A_006E,int,"Estimate!!Total!!Native!!Speak another language!!Speak English ""less than well""",B16005A
+B16005A_007E,int,Estimate!!Total!!Foreign born,B16005A
+B16005A_008E,int,Estimate!!Total!!Foreign born!!Speak only English,B16005A
+B16005A_009E,int,Estimate!!Total!!Foreign born!!Speak another language,B16005A
+B16005A_010E,int,"Estimate!!Total!!Foreign born!!Speak another language!!Speak English ""very well""",B16005A
+B16005A_011E,int,"Estimate!!Total!!Foreign born!!Speak another language!!Speak English ""less than well""",B16005A
+B16005A_001M,int,Margin of Error!!Total,B16005A
+B16005A_002M,int,Margin of Error!!Total!!Native,B16005A
+B16005A_003M,int,Margin of Error!!Total!!Native!!Speak only English,B16005A
+B16005A_004M,int,Margin of Error!!Total!!Native!!Speak another language,B16005A
+B16005A_005M,int,"Margin of Error!!Total!!Native!!Speak another language!!Speak English ""very well""",B16005A
+B16005A_006M,int,"Margin of Error!!Total!!Native!!Speak another language!!Speak English ""less than well""",B16005A
+B16005A_007M,int,Margin of Error!!Total!!Foreign born,B16005A
+B16005A_008M,int,Margin of Error!!Total!!Foreign born!!Speak only English,B16005A
+B16005A_009M,int,Margin of Error!!Total!!Foreign born!!Speak another language,B16005A
+B16005A_010M,int,"Margin of Error!!Total!!Foreign born!!Speak another language!!Speak English ""very well""",B16005A
+B16005A_011M,int,"Margin of Error!!Total!!Foreign born!!Speak another language!!Speak English ""less than well""",B16005A
+B16005A_001EA,string,Annotation of Estimate!!Total,B16005A
+B16005A_001MA,string,Annotation of Margin of Error!!Total,B16005A
+B16005A_002EA,string,Annotation of Estimate!!Total!!Native,B16005A
+B16005A_002MA,string,Annotation of Margin of Error!!Total!!Native,B16005A
+B16005A_003EA,string,Annotation of Estimate!!Total!!Native!!Speak only English,B16005A
+B16005A_003MA,string,Annotation of Margin of Error!!Total!!Native!!Speak only English,B16005A
+B16005A_004EA,string,Annotation of Estimate!!Total!!Native!!Speak another language,B16005A
+B16005A_004MA,string,Annotation of Margin of Error!!Total!!Native!!Speak another language,B16005A
+B16005A_005EA,string,"Annotation of Estimate!!Total!!Native!!Speak another language!!Speak English ""very well""",B16005A
+B16005A_005MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak another language!!Speak English ""very well""",B16005A
+B16005A_006EA,string,"Annotation of Estimate!!Total!!Native!!Speak another language!!Speak English ""less than well""",B16005A
+B16005A_006MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak another language!!Speak English ""less than well""",B16005A
+B16005A_007EA,string,Annotation of Estimate!!Total!!Foreign born,B16005A
+B16005A_007MA,string,Annotation of Margin of Error!!Total!!Foreign born,B16005A
+B16005A_008EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak only English,B16005A
+B16005A_008MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak only English,B16005A
+B16005A_009EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak another language,B16005A
+B16005A_009MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak another language,B16005A
+B16005A_010EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak another language!!Speak English ""very well""",B16005A
+B16005A_010MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak another language!!Speak English ""very well""",B16005A
+B16005A_011EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak another language!!Speak English ""less than well""",B16005A
+B16005A_011MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak another language!!Speak English ""less than well""",B16005A

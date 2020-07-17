@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19081_001E,int,Estimate!!Quintile Means!!Lowest Quintile,B19081
+B19081_002E,int,Estimate!!Quintile Means!!Second Quintile,B19081
+B19081_003E,int,Estimate!!Quintile Means!!Third Quintile,B19081
+B19081_004E,int,Estimate!!Quintile Means!!Fourth Quintile,B19081
+B19081_005E,int,Estimate!!Quintile Means!!Highest Quintile,B19081
+B19081_006E,int,Estimate!!Top 5 Percent,B19081
+B19081_001M,int,Margin of Error!!Quintile Means!!Lowest Quintile,B19081
+B19081_002M,int,Margin of Error!!Quintile Means!!Second Quintile,B19081
+B19081_003M,int,Margin of Error!!Quintile Means!!Third Quintile,B19081
+B19081_004M,int,Margin of Error!!Quintile Means!!Fourth Quintile,B19081
+B19081_005M,int,Margin of Error!!Quintile Means!!Highest Quintile,B19081
+B19081_006M,int,Margin of Error!!Top 5 Percent,B19081
+B19081_001EA,string,Annotation of Estimate!!Quintile Means!!Lowest Quintile,B19081
+B19081_001MA,string,Annotation of Margin of Error!!Quintile Means!!Lowest Quintile,B19081
+B19081_002EA,string,Annotation of Estimate!!Quintile Means!!Second Quintile,B19081
+B19081_002MA,string,Annotation of Margin of Error!!Quintile Means!!Second Quintile,B19081
+B19081_003EA,string,Annotation of Estimate!!Quintile Means!!Third Quintile,B19081
+B19081_003MA,string,Annotation of Margin of Error!!Quintile Means!!Third Quintile,B19081
+B19081_004EA,string,Annotation of Estimate!!Quintile Means!!Fourth Quintile,B19081
+B19081_004MA,string,Annotation of Margin of Error!!Quintile Means!!Fourth Quintile,B19081
+B19081_005EA,string,Annotation of Estimate!!Quintile Means!!Highest Quintile,B19081
+B19081_005MA,string,Annotation of Margin of Error!!Quintile Means!!Highest Quintile,B19081
+B19081_006EA,string,Annotation of Estimate!!Top 5 Percent,B19081
+B19081_006MA,string,Annotation of Margin of Error!!Top 5 Percent,B19081

@@ -1,0 +1,121 @@
+VARIABLE,TYPE,LABEL,GROUP
+C08515_001E,int,Estimate!!Total,C08515
+C08515_002E,int,Estimate!!Total!!Never married,C08515
+C08515_003E,int,"Estimate!!Total!!Now married, except separated",C08515
+C08515_004E,int,Estimate!!Total!!Divorced or separated,C08515
+C08515_005E,int,Estimate!!Total!!Widowed,C08515
+C08515_006E,int,"Estimate!!Total!!Car, truck, or van - drove alone",C08515
+C08515_007E,int,"Estimate!!Total!!Car, truck, or van - drove alone!!Never married",C08515
+C08515_008E,int,"Estimate!!Total!!Car, truck, or van - drove alone!!Now married, except separated",C08515
+C08515_009E,int,"Estimate!!Total!!Car, truck, or van - drove alone!!Divorced or separated",C08515
+C08515_010E,int,"Estimate!!Total!!Car, truck, or van - drove alone!!Widowed",C08515
+C08515_011E,int,"Estimate!!Total!!Car, truck, or van - carpooled",C08515
+C08515_012E,int,"Estimate!!Total!!Car, truck, or van - carpooled!!Never married",C08515
+C08515_013E,int,"Estimate!!Total!!Car, truck, or van - carpooled!!Now married, except separated",C08515
+C08515_014E,int,"Estimate!!Total!!Car, truck, or van - carpooled!!Divorced or separated",C08515
+C08515_015E,int,"Estimate!!Total!!Car, truck, or van - carpooled!!Widowed",C08515
+C08515_016E,int,Estimate!!Total!!Public transportation (excluding taxicab),C08515
+C08515_017E,int,Estimate!!Total!!Public transportation (excluding taxicab)!!Never married,C08515
+C08515_018E,int,"Estimate!!Total!!Public transportation (excluding taxicab)!!Now married, except separated",C08515
+C08515_019E,int,Estimate!!Total!!Public transportation (excluding taxicab)!!Divorced or separated,C08515
+C08515_020E,int,Estimate!!Total!!Public transportation (excluding taxicab)!!Widowed,C08515
+C08515_021E,int,"Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means",C08515
+C08515_022E,int,"Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Never married",C08515
+C08515_023E,int,"Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Now married, except separated",C08515
+C08515_024E,int,"Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Divorced or separated",C08515
+C08515_025E,int,"Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Widowed",C08515
+C08515_026E,int,Estimate!!Total!!Worked at home,C08515
+C08515_027E,int,Estimate!!Total!!Worked at home!!Never married,C08515
+C08515_028E,int,"Estimate!!Total!!Worked at home!!Now married, except separated",C08515
+C08515_029E,int,Estimate!!Total!!Worked at home!!Divorced or separated,C08515
+C08515_030E,int,Estimate!!Total!!Worked at home!!Widowed,C08515
+C08515_001M,int,Margin of Error!!Total,C08515
+C08515_002M,int,Margin of Error!!Total!!Never married,C08515
+C08515_003M,int,"Margin of Error!!Total!!Now married, except separated",C08515
+C08515_004M,int,Margin of Error!!Total!!Divorced or separated,C08515
+C08515_005M,int,Margin of Error!!Total!!Widowed,C08515
+C08515_006M,int,"Margin of Error!!Total!!Car, truck, or van - drove alone",C08515
+C08515_007M,int,"Margin of Error!!Total!!Car, truck, or van - drove alone!!Never married",C08515
+C08515_008M,int,"Margin of Error!!Total!!Car, truck, or van - drove alone!!Now married, except separated",C08515
+C08515_009M,int,"Margin of Error!!Total!!Car, truck, or van - drove alone!!Divorced or separated",C08515
+C08515_010M,int,"Margin of Error!!Total!!Car, truck, or van - drove alone!!Widowed",C08515
+C08515_011M,int,"Margin of Error!!Total!!Car, truck, or van - carpooled",C08515
+C08515_012M,int,"Margin of Error!!Total!!Car, truck, or van - carpooled!!Never married",C08515
+C08515_013M,int,"Margin of Error!!Total!!Car, truck, or van - carpooled!!Now married, except separated",C08515
+C08515_014M,int,"Margin of Error!!Total!!Car, truck, or van - carpooled!!Divorced or separated",C08515
+C08515_015M,int,"Margin of Error!!Total!!Car, truck, or van - carpooled!!Widowed",C08515
+C08515_016M,int,Margin of Error!!Total!!Public transportation (excluding taxicab),C08515
+C08515_017M,int,Margin of Error!!Total!!Public transportation (excluding taxicab)!!Never married,C08515
+C08515_018M,int,"Margin of Error!!Total!!Public transportation (excluding taxicab)!!Now married, except separated",C08515
+C08515_019M,int,Margin of Error!!Total!!Public transportation (excluding taxicab)!!Divorced or separated,C08515
+C08515_020M,int,Margin of Error!!Total!!Public transportation (excluding taxicab)!!Widowed,C08515
+C08515_021M,int,"Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means",C08515
+C08515_022M,int,"Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Never married",C08515
+C08515_023M,int,"Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Now married, except separated",C08515
+C08515_024M,int,"Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Divorced or separated",C08515
+C08515_025M,int,"Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Widowed",C08515
+C08515_026M,int,Margin of Error!!Total!!Worked at home,C08515
+C08515_027M,int,Margin of Error!!Total!!Worked at home!!Never married,C08515
+C08515_028M,int,"Margin of Error!!Total!!Worked at home!!Now married, except separated",C08515
+C08515_029M,int,Margin of Error!!Total!!Worked at home!!Divorced or separated,C08515
+C08515_030M,int,Margin of Error!!Total!!Worked at home!!Widowed,C08515
+C08515_001EA,string,Annotation of Estimate!!Total,C08515
+C08515_001MA,string,Annotation of Margin of Error!!Total,C08515
+C08515_002EA,string,Annotation of Estimate!!Total!!Never married,C08515
+C08515_002MA,string,Annotation of Margin of Error!!Total!!Never married,C08515
+C08515_003EA,string,"Annotation of Estimate!!Total!!Now married, except separated",C08515
+C08515_003MA,string,"Annotation of Margin of Error!!Total!!Now married, except separated",C08515
+C08515_004EA,string,Annotation of Estimate!!Total!!Divorced or separated,C08515
+C08515_004MA,string,Annotation of Margin of Error!!Total!!Divorced or separated,C08515
+C08515_005EA,string,Annotation of Estimate!!Total!!Widowed,C08515
+C08515_005MA,string,Annotation of Margin of Error!!Total!!Widowed,C08515
+C08515_006EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - drove alone",C08515
+C08515_006MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - drove alone",C08515
+C08515_007EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - drove alone!!Never married",C08515
+C08515_007MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - drove alone!!Never married",C08515
+C08515_008EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - drove alone!!Now married, except separated",C08515
+C08515_008MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - drove alone!!Now married, except separated",C08515
+C08515_009EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - drove alone!!Divorced or separated",C08515
+C08515_009MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - drove alone!!Divorced or separated",C08515
+C08515_010EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - drove alone!!Widowed",C08515
+C08515_010MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - drove alone!!Widowed",C08515
+C08515_011EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - carpooled",C08515
+C08515_011MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - carpooled",C08515
+C08515_012EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - carpooled!!Never married",C08515
+C08515_012MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - carpooled!!Never married",C08515
+C08515_013EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - carpooled!!Now married, except separated",C08515
+C08515_013MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - carpooled!!Now married, except separated",C08515
+C08515_014EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - carpooled!!Divorced or separated",C08515
+C08515_014MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - carpooled!!Divorced or separated",C08515
+C08515_015EA,string,"Annotation of Estimate!!Total!!Car, truck, or van - carpooled!!Widowed",C08515
+C08515_015MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van - carpooled!!Widowed",C08515
+C08515_016EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab),C08515
+C08515_016MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab),C08515
+C08515_017EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Never married,C08515
+C08515_017MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Never married,C08515
+C08515_018EA,string,"Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Now married, except separated",C08515
+C08515_018MA,string,"Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Now married, except separated",C08515
+C08515_019EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Divorced or separated,C08515
+C08515_019MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Divorced or separated,C08515
+C08515_020EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Widowed,C08515
+C08515_020MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Widowed,C08515
+C08515_021EA,string,"Annotation of Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means",C08515
+C08515_021MA,string,"Annotation of Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means",C08515
+C08515_022EA,string,"Annotation of Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Never married",C08515
+C08515_022MA,string,"Annotation of Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Never married",C08515
+C08515_023EA,string,"Annotation of Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Now married, except separated",C08515
+C08515_023MA,string,"Annotation of Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Now married, except separated",C08515
+C08515_024EA,string,"Annotation of Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Divorced or separated",C08515
+C08515_024MA,string,"Annotation of Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Divorced or separated",C08515
+C08515_025EA,string,"Annotation of Estimate!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Widowed",C08515
+C08515_025MA,string,"Annotation of Margin of Error!!Total!!Taxicab, motorcycle, bicycle, walked, or other means!!Widowed",C08515
+C08515_026EA,string,Annotation of Estimate!!Total!!Worked at home,C08515
+C08515_026MA,string,Annotation of Margin of Error!!Total!!Worked at home,C08515
+C08515_027EA,string,Annotation of Estimate!!Total!!Worked at home!!Never married,C08515
+C08515_027MA,string,Annotation of Margin of Error!!Total!!Worked at home!!Never married,C08515
+C08515_028EA,string,"Annotation of Estimate!!Total!!Worked at home!!Now married, except separated",C08515
+C08515_028MA,string,"Annotation of Margin of Error!!Total!!Worked at home!!Now married, except separated",C08515
+C08515_029EA,string,Annotation of Estimate!!Total!!Worked at home!!Divorced or separated,C08515
+C08515_029MA,string,Annotation of Margin of Error!!Total!!Worked at home!!Divorced or separated,C08515
+C08515_030EA,string,Annotation of Estimate!!Total!!Worked at home!!Widowed,C08515
+C08515_030MA,string,Annotation of Margin of Error!!Total!!Worked at home!!Widowed,C08515

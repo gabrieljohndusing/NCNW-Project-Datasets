@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25103_001E,int,Estimate!!Median real estate taxes paid!!Total,B25103
+B25103_002E,int,Estimate!!Median real estate taxes paid!!Total!!Median real estate taxes paid for units with a mortgage,B25103
+B25103_003E,int,Estimate!!Median real estate taxes paid!!Total!!Median real estate taxes paid for units without a mortgage,B25103
+B25103_001M,int,Margin of Error!!Median real estate taxes paid!!Total,B25103
+B25103_002M,int,Margin of Error!!Median real estate taxes paid!!Total!!Median real estate taxes paid for units with a mortgage,B25103
+B25103_003M,int,Margin of Error!!Median real estate taxes paid!!Total!!Median real estate taxes paid for units without a mortgage,B25103
+B25103_001EA,string,Annotation of Estimate!!Median real estate taxes paid!!Total,B25103
+B25103_001MA,string,Annotation of Margin of Error!!Median real estate taxes paid!!Total,B25103
+B25103_002EA,string,Annotation of Estimate!!Median real estate taxes paid!!Total!!Median real estate taxes paid for units with a mortgage,B25103
+B25103_002MA,string,Annotation of Margin of Error!!Median real estate taxes paid!!Total!!Median real estate taxes paid for units with a mortgage,B25103
+B25103_003EA,string,Annotation of Estimate!!Median real estate taxes paid!!Total!!Median real estate taxes paid for units without a mortgage,B25103
+B25103_003MA,string,Annotation of Margin of Error!!Median real estate taxes paid!!Total!!Median real estate taxes paid for units without a mortgage,B25103

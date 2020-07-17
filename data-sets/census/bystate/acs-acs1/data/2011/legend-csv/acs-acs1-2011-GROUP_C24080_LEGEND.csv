@@ -1,0 +1,77 @@
+VARIABLE,TYPE,LABEL,GROUP
+C24080_001E,int,Estimate!!Total,C24080
+C24080_002E,int,Estimate!!Total!!Male,C24080
+C24080_003E,int,Estimate!!Total!!Male!!Private for-profit wage and salary workers,C24080
+C24080_004E,int,Estimate!!Total!!Male!!Private for-profit wage and salary workers!!Employee of private company workers,C24080
+C24080_005E,int,Estimate!!Total!!Male!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers,C24080
+C24080_006E,int,Estimate!!Total!!Male!!Private not-for-profit wage and salary workers,C24080
+C24080_007E,int,Estimate!!Total!!Male!!Local government workers,C24080
+C24080_008E,int,Estimate!!Total!!Male!!State government workers,C24080
+C24080_009E,int,Estimate!!Total!!Male!!Federal government workers,C24080
+C24080_010E,int,Estimate!!Total!!Male!!Self-employed in own not incorporated business workers and unpaid family workers,C24080
+C24080_011E,int,Estimate!!Total!!Female,C24080
+C24080_012E,int,Estimate!!Total!!Female!!Private for-profit wage and salary workers,C24080
+C24080_013E,int,Estimate!!Total!!Female!!Private for-profit wage and salary workers!!Employee of private company workers,C24080
+C24080_014E,int,Estimate!!Total!!Female!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers,C24080
+C24080_015E,int,Estimate!!Total!!Female!!Private not-for-profit wage and salary workers,C24080
+C24080_016E,int,Estimate!!Total!!Female!!Local government workers,C24080
+C24080_017E,int,Estimate!!Total!!Female!!State government workers,C24080
+C24080_018E,int,Estimate!!Total!!Female!!Federal government workers,C24080
+C24080_019E,int,Estimate!!Total!!Female!!Self-employed in own not incorporated business workers and unpaid family workers,C24080
+C24080_001M,int,Margin of Error!!Total,C24080
+C24080_002M,int,Margin of Error!!Total!!Male,C24080
+C24080_003M,int,Margin of Error!!Total!!Male!!Private for-profit wage and salary workers,C24080
+C24080_004M,int,Margin of Error!!Total!!Male!!Private for-profit wage and salary workers!!Employee of private company workers,C24080
+C24080_005M,int,Margin of Error!!Total!!Male!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers,C24080
+C24080_006M,int,Margin of Error!!Total!!Male!!Private not-for-profit wage and salary workers,C24080
+C24080_007M,int,Margin of Error!!Total!!Male!!Local government workers,C24080
+C24080_008M,int,Margin of Error!!Total!!Male!!State government workers,C24080
+C24080_009M,int,Margin of Error!!Total!!Male!!Federal government workers,C24080
+C24080_010M,int,Margin of Error!!Total!!Male!!Self-employed in own not incorporated business workers and unpaid family workers,C24080
+C24080_011M,int,Margin of Error!!Total!!Female,C24080
+C24080_012M,int,Margin of Error!!Total!!Female!!Private for-profit wage and salary workers,C24080
+C24080_013M,int,Margin of Error!!Total!!Female!!Private for-profit wage and salary workers!!Employee of private company workers,C24080
+C24080_014M,int,Margin of Error!!Total!!Female!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers,C24080
+C24080_015M,int,Margin of Error!!Total!!Female!!Private not-for-profit wage and salary workers,C24080
+C24080_016M,int,Margin of Error!!Total!!Female!!Local government workers,C24080
+C24080_017M,int,Margin of Error!!Total!!Female!!State government workers,C24080
+C24080_018M,int,Margin of Error!!Total!!Female!!Federal government workers,C24080
+C24080_019M,int,Margin of Error!!Total!!Female!!Self-employed in own not incorporated business workers and unpaid family workers,C24080
+C24080_001EA,string,Annotation of Estimate!!Total,C24080
+C24080_001MA,string,Annotation of Margin of Error!!Total,C24080
+C24080_002EA,string,Annotation of Estimate!!Total!!Male,C24080
+C24080_002MA,string,Annotation of Margin of Error!!Total!!Male,C24080
+C24080_003EA,string,Annotation of Estimate!!Total!!Male!!Private for-profit wage and salary workers,C24080
+C24080_003MA,string,Annotation of Margin of Error!!Total!!Male!!Private for-profit wage and salary workers,C24080
+C24080_004EA,string,Annotation of Estimate!!Total!!Male!!Private for-profit wage and salary workers!!Employee of private company workers,C24080
+C24080_004MA,string,Annotation of Margin of Error!!Total!!Male!!Private for-profit wage and salary workers!!Employee of private company workers,C24080
+C24080_005EA,string,Annotation of Estimate!!Total!!Male!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers,C24080
+C24080_005MA,string,Annotation of Margin of Error!!Total!!Male!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers,C24080
+C24080_006EA,string,Annotation of Estimate!!Total!!Male!!Private not-for-profit wage and salary workers,C24080
+C24080_006MA,string,Annotation of Margin of Error!!Total!!Male!!Private not-for-profit wage and salary workers,C24080
+C24080_007EA,string,Annotation of Estimate!!Total!!Male!!Local government workers,C24080
+C24080_007MA,string,Annotation of Margin of Error!!Total!!Male!!Local government workers,C24080
+C24080_008EA,string,Annotation of Estimate!!Total!!Male!!State government workers,C24080
+C24080_008MA,string,Annotation of Margin of Error!!Total!!Male!!State government workers,C24080
+C24080_009EA,string,Annotation of Estimate!!Total!!Male!!Federal government workers,C24080
+C24080_009MA,string,Annotation of Margin of Error!!Total!!Male!!Federal government workers,C24080
+C24080_010EA,string,Annotation of Estimate!!Total!!Male!!Self-employed in own not incorporated business workers and unpaid family workers,C24080
+C24080_010MA,string,Annotation of Margin of Error!!Total!!Male!!Self-employed in own not incorporated business workers and unpaid family workers,C24080
+C24080_011EA,string,Annotation of Estimate!!Total!!Female,C24080
+C24080_011MA,string,Annotation of Margin of Error!!Total!!Female,C24080
+C24080_012EA,string,Annotation of Estimate!!Total!!Female!!Private for-profit wage and salary workers,C24080
+C24080_012MA,string,Annotation of Margin of Error!!Total!!Female!!Private for-profit wage and salary workers,C24080
+C24080_013EA,string,Annotation of Estimate!!Total!!Female!!Private for-profit wage and salary workers!!Employee of private company workers,C24080
+C24080_013MA,string,Annotation of Margin of Error!!Total!!Female!!Private for-profit wage and salary workers!!Employee of private company workers,C24080
+C24080_014EA,string,Annotation of Estimate!!Total!!Female!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers,C24080
+C24080_014MA,string,Annotation of Margin of Error!!Total!!Female!!Private for-profit wage and salary workers!!Self-employed in own incorporated business workers,C24080
+C24080_015EA,string,Annotation of Estimate!!Total!!Female!!Private not-for-profit wage and salary workers,C24080
+C24080_015MA,string,Annotation of Margin of Error!!Total!!Female!!Private not-for-profit wage and salary workers,C24080
+C24080_016EA,string,Annotation of Estimate!!Total!!Female!!Local government workers,C24080
+C24080_016MA,string,Annotation of Margin of Error!!Total!!Female!!Local government workers,C24080
+C24080_017EA,string,Annotation of Estimate!!Total!!Female!!State government workers,C24080
+C24080_017MA,string,Annotation of Margin of Error!!Total!!Female!!State government workers,C24080
+C24080_018EA,string,Annotation of Estimate!!Total!!Female!!Federal government workers,C24080
+C24080_018MA,string,Annotation of Margin of Error!!Total!!Female!!Federal government workers,C24080
+C24080_019EA,string,Annotation of Estimate!!Total!!Female!!Self-employed in own not incorporated business workers and unpaid family workers,C24080
+C24080_019MA,string,Annotation of Margin of Error!!Total!!Female!!Self-employed in own not incorporated business workers and unpaid family workers,C24080

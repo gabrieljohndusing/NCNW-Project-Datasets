@@ -1,0 +1,57 @@
+VARIABLE,TYPE,LABEL,GROUP
+B10001_001E,int,Estimate!!Total,B10001
+B10001_002E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years,B10001
+B10001_003E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present,B10001
+B10001_004E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!Under 6 years,B10001
+B10001_005E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!6 to 11 years,B10001
+B10001_006E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!12 to 17 years,B10001
+B10001_007E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present,B10001
+B10001_008E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!Under 6 years,B10001
+B10001_009E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!6 to 11 years,B10001
+B10001_010E,int,Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!12 to 17 years,B10001
+B10001_011E,int,Estimate!!Total!!Grandparent householder not responsible for own grandchildren under 18 years,B10001
+B10001_012E,int,Estimate!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!Under 6 years,B10001
+B10001_013E,int,Estimate!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!6 to 11 years,B10001
+B10001_014E,int,Estimate!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!12 to 17 years,B10001
+B10001_001M,int,Margin of Error!!Total,B10001
+B10001_002M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years,B10001
+B10001_003M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present,B10001
+B10001_004M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!Under 6 years,B10001
+B10001_005M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!6 to 11 years,B10001
+B10001_006M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!12 to 17 years,B10001
+B10001_007M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present,B10001
+B10001_008M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!Under 6 years,B10001
+B10001_009M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!6 to 11 years,B10001
+B10001_010M,int,Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!12 to 17 years,B10001
+B10001_011M,int,Margin of Error!!Total!!Grandparent householder not responsible for own grandchildren under 18 years,B10001
+B10001_012M,int,Margin of Error!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!Under 6 years,B10001
+B10001_013M,int,Margin of Error!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!6 to 11 years,B10001
+B10001_014M,int,Margin of Error!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!12 to 17 years,B10001
+B10001_001EA,string,Annotation of Estimate!!Total,B10001
+B10001_001MA,string,Annotation of Margin of Error!!Total,B10001
+B10001_002EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years,B10001
+B10001_002MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years,B10001
+B10001_003EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present,B10001
+B10001_003MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present,B10001
+B10001_004EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!Under 6 years,B10001
+B10001_004MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!Under 6 years,B10001
+B10001_005EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!6 to 11 years,B10001
+B10001_005MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!6 to 11 years,B10001
+B10001_006EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!12 to 17 years,B10001
+B10001_006MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!Parent present!!12 to 17 years,B10001
+B10001_007EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present,B10001
+B10001_007MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present,B10001
+B10001_008EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!Under 6 years,B10001
+B10001_008MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!Under 6 years,B10001
+B10001_009EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!6 to 11 years,B10001
+B10001_009MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!6 to 11 years,B10001
+B10001_010EA,string,Annotation of Estimate!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!12 to 17 years,B10001
+B10001_010MA,string,Annotation of Margin of Error!!Total!!Grandparent householder responsible for own grandchildren under 18 years!!No parent present!!12 to 17 years,B10001
+B10001_011EA,string,Annotation of Estimate!!Total!!Grandparent householder not responsible for own grandchildren under 18 years,B10001
+B10001_011MA,string,Annotation of Margin of Error!!Total!!Grandparent householder not responsible for own grandchildren under 18 years,B10001
+B10001_012EA,string,Annotation of Estimate!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!Under 6 years,B10001
+B10001_012MA,string,Annotation of Margin of Error!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!Under 6 years,B10001
+B10001_013EA,string,Annotation of Estimate!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!6 to 11 years,B10001
+B10001_013MA,string,Annotation of Margin of Error!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!6 to 11 years,B10001
+B10001_014EA,string,Annotation of Estimate!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!12 to 17 years,B10001
+B10001_014MA,string,Annotation of Margin of Error!!Total!!Grandparent householder not responsible for own grandchildren under 18 years!!12 to 17 years,B10001

@@ -1,0 +1,385 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07001PR_001E,int,Estimate!!Total,B07001PR
+B07001PR_002E,int,Estimate!!Total!!1 to 4 years,B07001PR
+B07001PR_003E,int,Estimate!!Total!!5 to 17 years,B07001PR
+B07001PR_004E,int,Estimate!!Total!!18 and 19 years,B07001PR
+B07001PR_005E,int,Estimate!!Total!!20 to 24 years,B07001PR
+B07001PR_006E,int,Estimate!!Total!!25 to 29 years,B07001PR
+B07001PR_007E,int,Estimate!!Total!!30 to 34 years,B07001PR
+B07001PR_008E,int,Estimate!!Total!!35 to 39 years,B07001PR
+B07001PR_009E,int,Estimate!!Total!!40 to 44 years,B07001PR
+B07001PR_010E,int,Estimate!!Total!!45 to 49 years,B07001PR
+B07001PR_011E,int,Estimate!!Total!!50 to 54 years,B07001PR
+B07001PR_012E,int,Estimate!!Total!!55 to 59 years,B07001PR
+B07001PR_013E,int,Estimate!!Total!!60 to 64 years,B07001PR
+B07001PR_014E,int,Estimate!!Total!!65 to 69 years,B07001PR
+B07001PR_015E,int,Estimate!!Total!!70 to 74 years,B07001PR
+B07001PR_016E,int,Estimate!!Total!!75 years and over,B07001PR
+B07001PR_017E,int,Estimate!!Total!!Same house 1 year ago,B07001PR
+B07001PR_018E,int,Estimate!!Total!!Same house 1 year ago!!1 to 4 years,B07001PR
+B07001PR_019E,int,Estimate!!Total!!Same house 1 year ago!!5 to 17 years,B07001PR
+B07001PR_020E,int,Estimate!!Total!!Same house 1 year ago!!18 and 19 years,B07001PR
+B07001PR_021E,int,Estimate!!Total!!Same house 1 year ago!!20 to 24 years,B07001PR
+B07001PR_022E,int,Estimate!!Total!!Same house 1 year ago!!25 to 29 years,B07001PR
+B07001PR_023E,int,Estimate!!Total!!Same house 1 year ago!!30 to 34 years,B07001PR
+B07001PR_024E,int,Estimate!!Total!!Same house 1 year ago!!35 to 39 years,B07001PR
+B07001PR_025E,int,Estimate!!Total!!Same house 1 year ago!!40 to 44 years,B07001PR
+B07001PR_026E,int,Estimate!!Total!!Same house 1 year ago!!45 to 49 years,B07001PR
+B07001PR_027E,int,Estimate!!Total!!Same house 1 year ago!!50 to 54 years,B07001PR
+B07001PR_028E,int,Estimate!!Total!!Same house 1 year ago!!55 to 59 years,B07001PR
+B07001PR_029E,int,Estimate!!Total!!Same house 1 year ago!!60 to 64 years,B07001PR
+B07001PR_030E,int,Estimate!!Total!!Same house 1 year ago!!65 to 69 years,B07001PR
+B07001PR_031E,int,Estimate!!Total!!Same house 1 year ago!!70 to 74 years,B07001PR
+B07001PR_032E,int,Estimate!!Total!!Same house 1 year ago!!75 years and over,B07001PR
+B07001PR_033E,int,Estimate!!Total!!Moved within same municipio,B07001PR
+B07001PR_034E,int,Estimate!!Total!!Moved within same municipio!!1 to 4 years,B07001PR
+B07001PR_035E,int,Estimate!!Total!!Moved within same municipio!!5 to 17 years,B07001PR
+B07001PR_036E,int,Estimate!!Total!!Moved within same municipio!!18 and 19 years,B07001PR
+B07001PR_037E,int,Estimate!!Total!!Moved within same municipio!!20 to 24 years,B07001PR
+B07001PR_038E,int,Estimate!!Total!!Moved within same municipio!!25 to 29 years,B07001PR
+B07001PR_039E,int,Estimate!!Total!!Moved within same municipio!!30 to 34 years,B07001PR
+B07001PR_040E,int,Estimate!!Total!!Moved within same municipio!!35 to 39 years,B07001PR
+B07001PR_041E,int,Estimate!!Total!!Moved within same municipio!!40 to 44 years,B07001PR
+B07001PR_042E,int,Estimate!!Total!!Moved within same municipio!!45 to 49 years,B07001PR
+B07001PR_043E,int,Estimate!!Total!!Moved within same municipio!!50 to 54 years,B07001PR
+B07001PR_044E,int,Estimate!!Total!!Moved within same municipio!!55 to 59 years,B07001PR
+B07001PR_045E,int,Estimate!!Total!!Moved within same municipio!!60 to 64 years,B07001PR
+B07001PR_046E,int,Estimate!!Total!!Moved within same municipio!!65 to 69 years,B07001PR
+B07001PR_047E,int,Estimate!!Total!!Moved within same municipio!!70 to 74 years,B07001PR
+B07001PR_048E,int,Estimate!!Total!!Moved within same municipio!!75 years and over,B07001PR
+B07001PR_049E,int,Estimate!!Total!!Moved from different municipio,B07001PR
+B07001PR_050E,int,Estimate!!Total!!Moved from different municipio!!1 to 4 years,B07001PR
+B07001PR_051E,int,Estimate!!Total!!Moved from different municipio!!5 to 17 years,B07001PR
+B07001PR_052E,int,Estimate!!Total!!Moved from different municipio!!18 and 19 years,B07001PR
+B07001PR_053E,int,Estimate!!Total!!Moved from different municipio!!20 to 24 years,B07001PR
+B07001PR_054E,int,Estimate!!Total!!Moved from different municipio!!25 to 29 years,B07001PR
+B07001PR_055E,int,Estimate!!Total!!Moved from different municipio!!30 to 34 years,B07001PR
+B07001PR_056E,int,Estimate!!Total!!Moved from different municipio!!35 to 39 years,B07001PR
+B07001PR_057E,int,Estimate!!Total!!Moved from different municipio!!40 to 44 years,B07001PR
+B07001PR_058E,int,Estimate!!Total!!Moved from different municipio!!45 to 49 years,B07001PR
+B07001PR_059E,int,Estimate!!Total!!Moved from different municipio!!50 to 54 years,B07001PR
+B07001PR_060E,int,Estimate!!Total!!Moved from different municipio!!55 to 59 years,B07001PR
+B07001PR_061E,int,Estimate!!Total!!Moved from different municipio!!60 to 64 years,B07001PR
+B07001PR_062E,int,Estimate!!Total!!Moved from different municipio!!65 to 69 years,B07001PR
+B07001PR_063E,int,Estimate!!Total!!Moved from different municipio!!70 to 74 years,B07001PR
+B07001PR_064E,int,Estimate!!Total!!Moved from different municipio!!75 years and over,B07001PR
+B07001PR_065E,int,Estimate!!Total!!Moved from the United States,B07001PR
+B07001PR_066E,int,Estimate!!Total!!Moved from the United States!!1 to 4 years,B07001PR
+B07001PR_067E,int,Estimate!!Total!!Moved from the United States!!5 to 17 years,B07001PR
+B07001PR_068E,int,Estimate!!Total!!Moved from the United States!!18 and 19 years,B07001PR
+B07001PR_069E,int,Estimate!!Total!!Moved from the United States!!20 to 24 years,B07001PR
+B07001PR_070E,int,Estimate!!Total!!Moved from the United States!!25 to 29 years,B07001PR
+B07001PR_071E,int,Estimate!!Total!!Moved from the United States!!30 to 34 years,B07001PR
+B07001PR_072E,int,Estimate!!Total!!Moved from the United States!!35 to 39 years,B07001PR
+B07001PR_073E,int,Estimate!!Total!!Moved from the United States!!40 to 44 years,B07001PR
+B07001PR_074E,int,Estimate!!Total!!Moved from the United States!!45 to 49 years,B07001PR
+B07001PR_075E,int,Estimate!!Total!!Moved from the United States!!50 to 54 years,B07001PR
+B07001PR_076E,int,Estimate!!Total!!Moved from the United States!!55 to 59 years,B07001PR
+B07001PR_077E,int,Estimate!!Total!!Moved from the United States!!60 to 64 years,B07001PR
+B07001PR_078E,int,Estimate!!Total!!Moved from the United States!!65 to 69 years,B07001PR
+B07001PR_079E,int,Estimate!!Total!!Moved from the United States!!70 to 74 years,B07001PR
+B07001PR_080E,int,Estimate!!Total!!Moved from the United States!!75 years and over,B07001PR
+B07001PR_081E,int,Estimate!!Total!!Moved from elsewhere,B07001PR
+B07001PR_082E,int,Estimate!!Total!!Moved from elsewhere!!1 to 4 years,B07001PR
+B07001PR_083E,int,Estimate!!Total!!Moved from elsewhere!!5 to 17 years,B07001PR
+B07001PR_084E,int,Estimate!!Total!!Moved from elsewhere!!18 and 19 years,B07001PR
+B07001PR_085E,int,Estimate!!Total!!Moved from elsewhere!!20 to 24 years,B07001PR
+B07001PR_086E,int,Estimate!!Total!!Moved from elsewhere!!25 to 29 years,B07001PR
+B07001PR_087E,int,Estimate!!Total!!Moved from elsewhere!!30 to 34 years,B07001PR
+B07001PR_088E,int,Estimate!!Total!!Moved from elsewhere!!35 to 39 years,B07001PR
+B07001PR_089E,int,Estimate!!Total!!Moved from elsewhere!!40 to 44 years,B07001PR
+B07001PR_090E,int,Estimate!!Total!!Moved from elsewhere!!45 to 49 years,B07001PR
+B07001PR_091E,int,Estimate!!Total!!Moved from elsewhere!!50 to 54 years,B07001PR
+B07001PR_092E,int,Estimate!!Total!!Moved from elsewhere!!55 to 59 years,B07001PR
+B07001PR_093E,int,Estimate!!Total!!Moved from elsewhere!!60 to 64 years,B07001PR
+B07001PR_094E,int,Estimate!!Total!!Moved from elsewhere!!65 to 69 years,B07001PR
+B07001PR_095E,int,Estimate!!Total!!Moved from elsewhere!!70 to 74 years,B07001PR
+B07001PR_096E,int,Estimate!!Total!!Moved from elsewhere!!75 years and over,B07001PR
+B07001PR_001M,int,Margin of Error!!Total,B07001PR
+B07001PR_002M,int,Margin of Error!!Total!!1 to 4 years,B07001PR
+B07001PR_003M,int,Margin of Error!!Total!!5 to 17 years,B07001PR
+B07001PR_004M,int,Margin of Error!!Total!!18 and 19 years,B07001PR
+B07001PR_005M,int,Margin of Error!!Total!!20 to 24 years,B07001PR
+B07001PR_006M,int,Margin of Error!!Total!!25 to 29 years,B07001PR
+B07001PR_007M,int,Margin of Error!!Total!!30 to 34 years,B07001PR
+B07001PR_008M,int,Margin of Error!!Total!!35 to 39 years,B07001PR
+B07001PR_009M,int,Margin of Error!!Total!!40 to 44 years,B07001PR
+B07001PR_010M,int,Margin of Error!!Total!!45 to 49 years,B07001PR
+B07001PR_011M,int,Margin of Error!!Total!!50 to 54 years,B07001PR
+B07001PR_012M,int,Margin of Error!!Total!!55 to 59 years,B07001PR
+B07001PR_013M,int,Margin of Error!!Total!!60 to 64 years,B07001PR
+B07001PR_014M,int,Margin of Error!!Total!!65 to 69 years,B07001PR
+B07001PR_015M,int,Margin of Error!!Total!!70 to 74 years,B07001PR
+B07001PR_016M,int,Margin of Error!!Total!!75 years and over,B07001PR
+B07001PR_017M,int,Margin of Error!!Total!!Same house 1 year ago,B07001PR
+B07001PR_018M,int,Margin of Error!!Total!!Same house 1 year ago!!1 to 4 years,B07001PR
+B07001PR_019M,int,Margin of Error!!Total!!Same house 1 year ago!!5 to 17 years,B07001PR
+B07001PR_020M,int,Margin of Error!!Total!!Same house 1 year ago!!18 and 19 years,B07001PR
+B07001PR_021M,int,Margin of Error!!Total!!Same house 1 year ago!!20 to 24 years,B07001PR
+B07001PR_022M,int,Margin of Error!!Total!!Same house 1 year ago!!25 to 29 years,B07001PR
+B07001PR_023M,int,Margin of Error!!Total!!Same house 1 year ago!!30 to 34 years,B07001PR
+B07001PR_024M,int,Margin of Error!!Total!!Same house 1 year ago!!35 to 39 years,B07001PR
+B07001PR_025M,int,Margin of Error!!Total!!Same house 1 year ago!!40 to 44 years,B07001PR
+B07001PR_026M,int,Margin of Error!!Total!!Same house 1 year ago!!45 to 49 years,B07001PR
+B07001PR_027M,int,Margin of Error!!Total!!Same house 1 year ago!!50 to 54 years,B07001PR
+B07001PR_028M,int,Margin of Error!!Total!!Same house 1 year ago!!55 to 59 years,B07001PR
+B07001PR_029M,int,Margin of Error!!Total!!Same house 1 year ago!!60 to 64 years,B07001PR
+B07001PR_030M,int,Margin of Error!!Total!!Same house 1 year ago!!65 to 69 years,B07001PR
+B07001PR_031M,int,Margin of Error!!Total!!Same house 1 year ago!!70 to 74 years,B07001PR
+B07001PR_032M,int,Margin of Error!!Total!!Same house 1 year ago!!75 years and over,B07001PR
+B07001PR_033M,int,Margin of Error!!Total!!Moved within same municipio,B07001PR
+B07001PR_034M,int,Margin of Error!!Total!!Moved within same municipio!!1 to 4 years,B07001PR
+B07001PR_035M,int,Margin of Error!!Total!!Moved within same municipio!!5 to 17 years,B07001PR
+B07001PR_036M,int,Margin of Error!!Total!!Moved within same municipio!!18 and 19 years,B07001PR
+B07001PR_037M,int,Margin of Error!!Total!!Moved within same municipio!!20 to 24 years,B07001PR
+B07001PR_038M,int,Margin of Error!!Total!!Moved within same municipio!!25 to 29 years,B07001PR
+B07001PR_039M,int,Margin of Error!!Total!!Moved within same municipio!!30 to 34 years,B07001PR
+B07001PR_040M,int,Margin of Error!!Total!!Moved within same municipio!!35 to 39 years,B07001PR
+B07001PR_041M,int,Margin of Error!!Total!!Moved within same municipio!!40 to 44 years,B07001PR
+B07001PR_042M,int,Margin of Error!!Total!!Moved within same municipio!!45 to 49 years,B07001PR
+B07001PR_043M,int,Margin of Error!!Total!!Moved within same municipio!!50 to 54 years,B07001PR
+B07001PR_044M,int,Margin of Error!!Total!!Moved within same municipio!!55 to 59 years,B07001PR
+B07001PR_045M,int,Margin of Error!!Total!!Moved within same municipio!!60 to 64 years,B07001PR
+B07001PR_046M,int,Margin of Error!!Total!!Moved within same municipio!!65 to 69 years,B07001PR
+B07001PR_047M,int,Margin of Error!!Total!!Moved within same municipio!!70 to 74 years,B07001PR
+B07001PR_048M,int,Margin of Error!!Total!!Moved within same municipio!!75 years and over,B07001PR
+B07001PR_049M,int,Margin of Error!!Total!!Moved from different municipio,B07001PR
+B07001PR_050M,int,Margin of Error!!Total!!Moved from different municipio!!1 to 4 years,B07001PR
+B07001PR_051M,int,Margin of Error!!Total!!Moved from different municipio!!5 to 17 years,B07001PR
+B07001PR_052M,int,Margin of Error!!Total!!Moved from different municipio!!18 and 19 years,B07001PR
+B07001PR_053M,int,Margin of Error!!Total!!Moved from different municipio!!20 to 24 years,B07001PR
+B07001PR_054M,int,Margin of Error!!Total!!Moved from different municipio!!25 to 29 years,B07001PR
+B07001PR_055M,int,Margin of Error!!Total!!Moved from different municipio!!30 to 34 years,B07001PR
+B07001PR_056M,int,Margin of Error!!Total!!Moved from different municipio!!35 to 39 years,B07001PR
+B07001PR_057M,int,Margin of Error!!Total!!Moved from different municipio!!40 to 44 years,B07001PR
+B07001PR_058M,int,Margin of Error!!Total!!Moved from different municipio!!45 to 49 years,B07001PR
+B07001PR_059M,int,Margin of Error!!Total!!Moved from different municipio!!50 to 54 years,B07001PR
+B07001PR_060M,int,Margin of Error!!Total!!Moved from different municipio!!55 to 59 years,B07001PR
+B07001PR_061M,int,Margin of Error!!Total!!Moved from different municipio!!60 to 64 years,B07001PR
+B07001PR_062M,int,Margin of Error!!Total!!Moved from different municipio!!65 to 69 years,B07001PR
+B07001PR_063M,int,Margin of Error!!Total!!Moved from different municipio!!70 to 74 years,B07001PR
+B07001PR_064M,int,Margin of Error!!Total!!Moved from different municipio!!75 years and over,B07001PR
+B07001PR_065M,int,Margin of Error!!Total!!Moved from the United States,B07001PR
+B07001PR_066M,int,Margin of Error!!Total!!Moved from the United States!!1 to 4 years,B07001PR
+B07001PR_067M,int,Margin of Error!!Total!!Moved from the United States!!5 to 17 years,B07001PR
+B07001PR_068M,int,Margin of Error!!Total!!Moved from the United States!!18 and 19 years,B07001PR
+B07001PR_069M,int,Margin of Error!!Total!!Moved from the United States!!20 to 24 years,B07001PR
+B07001PR_070M,int,Margin of Error!!Total!!Moved from the United States!!25 to 29 years,B07001PR
+B07001PR_071M,int,Margin of Error!!Total!!Moved from the United States!!30 to 34 years,B07001PR
+B07001PR_072M,int,Margin of Error!!Total!!Moved from the United States!!35 to 39 years,B07001PR
+B07001PR_073M,int,Margin of Error!!Total!!Moved from the United States!!40 to 44 years,B07001PR
+B07001PR_074M,int,Margin of Error!!Total!!Moved from the United States!!45 to 49 years,B07001PR
+B07001PR_075M,int,Margin of Error!!Total!!Moved from the United States!!50 to 54 years,B07001PR
+B07001PR_076M,int,Margin of Error!!Total!!Moved from the United States!!55 to 59 years,B07001PR
+B07001PR_077M,int,Margin of Error!!Total!!Moved from the United States!!60 to 64 years,B07001PR
+B07001PR_078M,int,Margin of Error!!Total!!Moved from the United States!!65 to 69 years,B07001PR
+B07001PR_079M,int,Margin of Error!!Total!!Moved from the United States!!70 to 74 years,B07001PR
+B07001PR_080M,int,Margin of Error!!Total!!Moved from the United States!!75 years and over,B07001PR
+B07001PR_081M,int,Margin of Error!!Total!!Moved from elsewhere,B07001PR
+B07001PR_082M,int,Margin of Error!!Total!!Moved from elsewhere!!1 to 4 years,B07001PR
+B07001PR_083M,int,Margin of Error!!Total!!Moved from elsewhere!!5 to 17 years,B07001PR
+B07001PR_084M,int,Margin of Error!!Total!!Moved from elsewhere!!18 and 19 years,B07001PR
+B07001PR_085M,int,Margin of Error!!Total!!Moved from elsewhere!!20 to 24 years,B07001PR
+B07001PR_086M,int,Margin of Error!!Total!!Moved from elsewhere!!25 to 29 years,B07001PR
+B07001PR_087M,int,Margin of Error!!Total!!Moved from elsewhere!!30 to 34 years,B07001PR
+B07001PR_088M,int,Margin of Error!!Total!!Moved from elsewhere!!35 to 39 years,B07001PR
+B07001PR_089M,int,Margin of Error!!Total!!Moved from elsewhere!!40 to 44 years,B07001PR
+B07001PR_090M,int,Margin of Error!!Total!!Moved from elsewhere!!45 to 49 years,B07001PR
+B07001PR_091M,int,Margin of Error!!Total!!Moved from elsewhere!!50 to 54 years,B07001PR
+B07001PR_092M,int,Margin of Error!!Total!!Moved from elsewhere!!55 to 59 years,B07001PR
+B07001PR_093M,int,Margin of Error!!Total!!Moved from elsewhere!!60 to 64 years,B07001PR
+B07001PR_094M,int,Margin of Error!!Total!!Moved from elsewhere!!65 to 69 years,B07001PR
+B07001PR_095M,int,Margin of Error!!Total!!Moved from elsewhere!!70 to 74 years,B07001PR
+B07001PR_096M,int,Margin of Error!!Total!!Moved from elsewhere!!75 years and over,B07001PR
+B07001PR_001EA,string,Annotation of Estimate!!Total,B07001PR
+B07001PR_001MA,string,Annotation of Margin of Error!!Total,B07001PR
+B07001PR_002EA,string,Annotation of Estimate!!Total!!1 to 4 years,B07001PR
+B07001PR_002MA,string,Annotation of Margin of Error!!Total!!1 to 4 years,B07001PR
+B07001PR_003EA,string,Annotation of Estimate!!Total!!5 to 17 years,B07001PR
+B07001PR_003MA,string,Annotation of Margin of Error!!Total!!5 to 17 years,B07001PR
+B07001PR_004EA,string,Annotation of Estimate!!Total!!18 and 19 years,B07001PR
+B07001PR_004MA,string,Annotation of Margin of Error!!Total!!18 and 19 years,B07001PR
+B07001PR_005EA,string,Annotation of Estimate!!Total!!20 to 24 years,B07001PR
+B07001PR_005MA,string,Annotation of Margin of Error!!Total!!20 to 24 years,B07001PR
+B07001PR_006EA,string,Annotation of Estimate!!Total!!25 to 29 years,B07001PR
+B07001PR_006MA,string,Annotation of Margin of Error!!Total!!25 to 29 years,B07001PR
+B07001PR_007EA,string,Annotation of Estimate!!Total!!30 to 34 years,B07001PR
+B07001PR_007MA,string,Annotation of Margin of Error!!Total!!30 to 34 years,B07001PR
+B07001PR_008EA,string,Annotation of Estimate!!Total!!35 to 39 years,B07001PR
+B07001PR_008MA,string,Annotation of Margin of Error!!Total!!35 to 39 years,B07001PR
+B07001PR_009EA,string,Annotation of Estimate!!Total!!40 to 44 years,B07001PR
+B07001PR_009MA,string,Annotation of Margin of Error!!Total!!40 to 44 years,B07001PR
+B07001PR_010EA,string,Annotation of Estimate!!Total!!45 to 49 years,B07001PR
+B07001PR_010MA,string,Annotation of Margin of Error!!Total!!45 to 49 years,B07001PR
+B07001PR_011EA,string,Annotation of Estimate!!Total!!50 to 54 years,B07001PR
+B07001PR_011MA,string,Annotation of Margin of Error!!Total!!50 to 54 years,B07001PR
+B07001PR_012EA,string,Annotation of Estimate!!Total!!55 to 59 years,B07001PR
+B07001PR_012MA,string,Annotation of Margin of Error!!Total!!55 to 59 years,B07001PR
+B07001PR_013EA,string,Annotation of Estimate!!Total!!60 to 64 years,B07001PR
+B07001PR_013MA,string,Annotation of Margin of Error!!Total!!60 to 64 years,B07001PR
+B07001PR_014EA,string,Annotation of Estimate!!Total!!65 to 69 years,B07001PR
+B07001PR_014MA,string,Annotation of Margin of Error!!Total!!65 to 69 years,B07001PR
+B07001PR_015EA,string,Annotation of Estimate!!Total!!70 to 74 years,B07001PR
+B07001PR_015MA,string,Annotation of Margin of Error!!Total!!70 to 74 years,B07001PR
+B07001PR_016EA,string,Annotation of Estimate!!Total!!75 years and over,B07001PR
+B07001PR_016MA,string,Annotation of Margin of Error!!Total!!75 years and over,B07001PR
+B07001PR_017EA,string,Annotation of Estimate!!Total!!Same house 1 year ago,B07001PR
+B07001PR_017MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago,B07001PR
+B07001PR_018EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!1 to 4 years,B07001PR
+B07001PR_018MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!1 to 4 years,B07001PR
+B07001PR_019EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!5 to 17 years,B07001PR
+B07001PR_019MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!5 to 17 years,B07001PR
+B07001PR_020EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!18 and 19 years,B07001PR
+B07001PR_020MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!18 and 19 years,B07001PR
+B07001PR_021EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!20 to 24 years,B07001PR
+B07001PR_021MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!20 to 24 years,B07001PR
+B07001PR_022EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!25 to 29 years,B07001PR
+B07001PR_022MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!25 to 29 years,B07001PR
+B07001PR_023EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!30 to 34 years,B07001PR
+B07001PR_023MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!30 to 34 years,B07001PR
+B07001PR_024EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!35 to 39 years,B07001PR
+B07001PR_024MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!35 to 39 years,B07001PR
+B07001PR_025EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!40 to 44 years,B07001PR
+B07001PR_025MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!40 to 44 years,B07001PR
+B07001PR_026EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!45 to 49 years,B07001PR
+B07001PR_026MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!45 to 49 years,B07001PR
+B07001PR_027EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!50 to 54 years,B07001PR
+B07001PR_027MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!50 to 54 years,B07001PR
+B07001PR_028EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!55 to 59 years,B07001PR
+B07001PR_028MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!55 to 59 years,B07001PR
+B07001PR_029EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!60 to 64 years,B07001PR
+B07001PR_029MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!60 to 64 years,B07001PR
+B07001PR_030EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!65 to 69 years,B07001PR
+B07001PR_030MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!65 to 69 years,B07001PR
+B07001PR_031EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!70 to 74 years,B07001PR
+B07001PR_031MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!70 to 74 years,B07001PR
+B07001PR_032EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!75 years and over,B07001PR
+B07001PR_032MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!75 years and over,B07001PR
+B07001PR_033EA,string,Annotation of Estimate!!Total!!Moved within same municipio,B07001PR
+B07001PR_033MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio,B07001PR
+B07001PR_034EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!1 to 4 years,B07001PR
+B07001PR_034MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!1 to 4 years,B07001PR
+B07001PR_035EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!5 to 17 years,B07001PR
+B07001PR_035MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!5 to 17 years,B07001PR
+B07001PR_036EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!18 and 19 years,B07001PR
+B07001PR_036MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!18 and 19 years,B07001PR
+B07001PR_037EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!20 to 24 years,B07001PR
+B07001PR_037MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!20 to 24 years,B07001PR
+B07001PR_038EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!25 to 29 years,B07001PR
+B07001PR_038MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!25 to 29 years,B07001PR
+B07001PR_039EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!30 to 34 years,B07001PR
+B07001PR_039MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!30 to 34 years,B07001PR
+B07001PR_040EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!35 to 39 years,B07001PR
+B07001PR_040MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!35 to 39 years,B07001PR
+B07001PR_041EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!40 to 44 years,B07001PR
+B07001PR_041MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!40 to 44 years,B07001PR
+B07001PR_042EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!45 to 49 years,B07001PR
+B07001PR_042MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!45 to 49 years,B07001PR
+B07001PR_043EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!50 to 54 years,B07001PR
+B07001PR_043MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!50 to 54 years,B07001PR
+B07001PR_044EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!55 to 59 years,B07001PR
+B07001PR_044MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!55 to 59 years,B07001PR
+B07001PR_045EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!60 to 64 years,B07001PR
+B07001PR_045MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!60 to 64 years,B07001PR
+B07001PR_046EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!65 to 69 years,B07001PR
+B07001PR_046MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!65 to 69 years,B07001PR
+B07001PR_047EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!70 to 74 years,B07001PR
+B07001PR_047MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!70 to 74 years,B07001PR
+B07001PR_048EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!75 years and over,B07001PR
+B07001PR_048MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!75 years and over,B07001PR
+B07001PR_049EA,string,Annotation of Estimate!!Total!!Moved from different municipio,B07001PR
+B07001PR_049MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio,B07001PR
+B07001PR_050EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!1 to 4 years,B07001PR
+B07001PR_050MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!1 to 4 years,B07001PR
+B07001PR_051EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!5 to 17 years,B07001PR
+B07001PR_051MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!5 to 17 years,B07001PR
+B07001PR_052EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!18 and 19 years,B07001PR
+B07001PR_052MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!18 and 19 years,B07001PR
+B07001PR_053EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!20 to 24 years,B07001PR
+B07001PR_053MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!20 to 24 years,B07001PR
+B07001PR_054EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!25 to 29 years,B07001PR
+B07001PR_054MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!25 to 29 years,B07001PR
+B07001PR_055EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!30 to 34 years,B07001PR
+B07001PR_055MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!30 to 34 years,B07001PR
+B07001PR_056EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!35 to 39 years,B07001PR
+B07001PR_056MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!35 to 39 years,B07001PR
+B07001PR_057EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!40 to 44 years,B07001PR
+B07001PR_057MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!40 to 44 years,B07001PR
+B07001PR_058EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!45 to 49 years,B07001PR
+B07001PR_058MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!45 to 49 years,B07001PR
+B07001PR_059EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!50 to 54 years,B07001PR
+B07001PR_059MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!50 to 54 years,B07001PR
+B07001PR_060EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!55 to 59 years,B07001PR
+B07001PR_060MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!55 to 59 years,B07001PR
+B07001PR_061EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!60 to 64 years,B07001PR
+B07001PR_061MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!60 to 64 years,B07001PR
+B07001PR_062EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!65 to 69 years,B07001PR
+B07001PR_062MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!65 to 69 years,B07001PR
+B07001PR_063EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!70 to 74 years,B07001PR
+B07001PR_063MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!70 to 74 years,B07001PR
+B07001PR_064EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!75 years and over,B07001PR
+B07001PR_064MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!75 years and over,B07001PR
+B07001PR_065EA,string,Annotation of Estimate!!Total!!Moved from the United States,B07001PR
+B07001PR_065MA,string,Annotation of Margin of Error!!Total!!Moved from the United States,B07001PR
+B07001PR_066EA,string,Annotation of Estimate!!Total!!Moved from the United States!!1 to 4 years,B07001PR
+B07001PR_066MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!1 to 4 years,B07001PR
+B07001PR_067EA,string,Annotation of Estimate!!Total!!Moved from the United States!!5 to 17 years,B07001PR
+B07001PR_067MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!5 to 17 years,B07001PR
+B07001PR_068EA,string,Annotation of Estimate!!Total!!Moved from the United States!!18 and 19 years,B07001PR
+B07001PR_068MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!18 and 19 years,B07001PR
+B07001PR_069EA,string,Annotation of Estimate!!Total!!Moved from the United States!!20 to 24 years,B07001PR
+B07001PR_069MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!20 to 24 years,B07001PR
+B07001PR_070EA,string,Annotation of Estimate!!Total!!Moved from the United States!!25 to 29 years,B07001PR
+B07001PR_070MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!25 to 29 years,B07001PR
+B07001PR_071EA,string,Annotation of Estimate!!Total!!Moved from the United States!!30 to 34 years,B07001PR
+B07001PR_071MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!30 to 34 years,B07001PR
+B07001PR_072EA,string,Annotation of Estimate!!Total!!Moved from the United States!!35 to 39 years,B07001PR
+B07001PR_072MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!35 to 39 years,B07001PR
+B07001PR_073EA,string,Annotation of Estimate!!Total!!Moved from the United States!!40 to 44 years,B07001PR
+B07001PR_073MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!40 to 44 years,B07001PR
+B07001PR_074EA,string,Annotation of Estimate!!Total!!Moved from the United States!!45 to 49 years,B07001PR
+B07001PR_074MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!45 to 49 years,B07001PR
+B07001PR_075EA,string,Annotation of Estimate!!Total!!Moved from the United States!!50 to 54 years,B07001PR
+B07001PR_075MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!50 to 54 years,B07001PR
+B07001PR_076EA,string,Annotation of Estimate!!Total!!Moved from the United States!!55 to 59 years,B07001PR
+B07001PR_076MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!55 to 59 years,B07001PR
+B07001PR_077EA,string,Annotation of Estimate!!Total!!Moved from the United States!!60 to 64 years,B07001PR
+B07001PR_077MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!60 to 64 years,B07001PR
+B07001PR_078EA,string,Annotation of Estimate!!Total!!Moved from the United States!!65 to 69 years,B07001PR
+B07001PR_078MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!65 to 69 years,B07001PR
+B07001PR_079EA,string,Annotation of Estimate!!Total!!Moved from the United States!!70 to 74 years,B07001PR
+B07001PR_079MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!70 to 74 years,B07001PR
+B07001PR_080EA,string,Annotation of Estimate!!Total!!Moved from the United States!!75 years and over,B07001PR
+B07001PR_080MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!75 years and over,B07001PR
+B07001PR_081EA,string,Annotation of Estimate!!Total!!Moved from elsewhere,B07001PR
+B07001PR_081MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere,B07001PR
+B07001PR_082EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!1 to 4 years,B07001PR
+B07001PR_082MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!1 to 4 years,B07001PR
+B07001PR_083EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!5 to 17 years,B07001PR
+B07001PR_083MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!5 to 17 years,B07001PR
+B07001PR_084EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!18 and 19 years,B07001PR
+B07001PR_084MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!18 and 19 years,B07001PR
+B07001PR_085EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!20 to 24 years,B07001PR
+B07001PR_085MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!20 to 24 years,B07001PR
+B07001PR_086EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!25 to 29 years,B07001PR
+B07001PR_086MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!25 to 29 years,B07001PR
+B07001PR_087EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!30 to 34 years,B07001PR
+B07001PR_087MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!30 to 34 years,B07001PR
+B07001PR_088EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!35 to 39 years,B07001PR
+B07001PR_088MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!35 to 39 years,B07001PR
+B07001PR_089EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!40 to 44 years,B07001PR
+B07001PR_089MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!40 to 44 years,B07001PR
+B07001PR_090EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!45 to 49 years,B07001PR
+B07001PR_090MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!45 to 49 years,B07001PR
+B07001PR_091EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!50 to 54 years,B07001PR
+B07001PR_091MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!50 to 54 years,B07001PR
+B07001PR_092EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!55 to 59 years,B07001PR
+B07001PR_092MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!55 to 59 years,B07001PR
+B07001PR_093EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!60 to 64 years,B07001PR
+B07001PR_093MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!60 to 64 years,B07001PR
+B07001PR_094EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!65 to 69 years,B07001PR
+B07001PR_094MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!65 to 69 years,B07001PR
+B07001PR_095EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!70 to 74 years,B07001PR
+B07001PR_095MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!70 to 74 years,B07001PR
+B07001PR_096EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!75 years and over,B07001PR
+B07001PR_096MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!75 years and over,B07001PR

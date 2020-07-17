@@ -1,0 +1,481 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2001_C01_001E,int,Total!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C01_002E,int,Total!!Estimate!!Median earnings (dollars),S2001
+S2001_C01_003E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C01_004E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C01_005E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C01_006E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C01_007E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C01_008E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C01_009E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C01_010E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C01_011E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C01_012E,int,"Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C01_013E,int,"Total!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C01_014E,int,"Total!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C01_015E,int,Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C01_016E,int,Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C01_017E,int,Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C01_018E,int,Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C01_019E,int,Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C01_020E,int,Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C02_001E,int,Percent!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C02_002E,int,Percent!!Estimate!!Median earnings (dollars),S2001
+S2001_C02_003E,int,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C02_004E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C02_005E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C02_006E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C02_007E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C02_008E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C02_009E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C02_010E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C02_011E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C02_012E,float,"Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C02_013E,int,"Percent!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C02_014E,int,"Percent!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C02_015E,int,Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C02_016E,int,Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C02_017E,int,Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C02_018E,int,Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C02_019E,int,Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C02_020E,int,Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C03_001E,int,Male!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C03_002E,int,Male!!Estimate!!Median earnings (dollars),S2001
+S2001_C03_003E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C03_004E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C03_005E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C03_006E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C03_007E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C03_008E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C03_009E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C03_010E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C03_011E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C03_012E,int,"Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C03_013E,int,"Male!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C03_014E,int,"Male!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C03_015E,int,Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C03_016E,int,Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C03_017E,int,Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C03_018E,int,Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C03_019E,int,Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C03_020E,int,Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C04_001E,int,Percent Male!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C04_002E,int,Percent Male!!Estimate!!Median earnings (dollars),S2001
+S2001_C04_003E,int,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C04_004E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C04_005E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C04_006E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C04_007E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C04_008E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C04_009E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C04_010E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C04_011E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C04_012E,float,"Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C04_013E,int,"Percent Male!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C04_014E,int,"Percent Male!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C04_015E,int,Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C04_016E,int,Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C04_017E,int,Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C04_018E,int,Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C04_019E,int,Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C04_020E,int,Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C05_001E,int,Female!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C05_002E,int,Female!!Estimate!!Median earnings (dollars),S2001
+S2001_C05_003E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C05_004E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C05_005E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C05_006E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C05_007E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C05_008E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C05_009E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C05_010E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C05_011E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C05_012E,int,"Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C05_013E,int,"Female!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C05_014E,int,"Female!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C05_015E,int,Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C05_016E,int,Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C05_017E,int,Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C05_018E,int,Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C05_019E,int,Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C05_020E,int,Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C06_001E,int,Percent Female!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C06_002E,int,Percent Female!!Estimate!!Median earnings (dollars),S2001
+S2001_C06_003E,int,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C06_004E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C06_005E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C06_006E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C06_007E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C06_008E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C06_009E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C06_010E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C06_011E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C06_012E,float,"Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C06_013E,int,"Percent Female!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C06_014E,int,"Percent Female!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C06_015E,int,Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C06_016E,int,Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C06_017E,int,Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C06_018E,int,Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C06_019E,int,Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C06_020E,int,Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C01_001M,int,Total!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C01_002M,int,Total!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C01_003M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C01_004M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C01_005M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C01_006M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C01_007M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C01_008M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C01_009M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C01_010M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C01_011M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C01_012M,int,"Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C01_013M,int,"Total!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C01_014M,int,"Total!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C01_015M,int,Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C01_016M,int,Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C01_017M,int,Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C01_018M,int,Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C01_019M,int,Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C01_020M,int,Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C02_001M,int,Percent!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C02_002M,int,Percent!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C02_003M,int,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C02_004M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C02_005M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C02_006M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C02_007M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C02_008M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C02_009M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C02_010M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C02_011M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C02_012M,float,"Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C02_013M,int,"Percent!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C02_014M,int,"Percent!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C02_015M,int,Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C02_016M,int,Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C02_017M,int,Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C02_018M,int,Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C02_019M,int,Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C02_020M,int,Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C03_001M,int,Male!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C03_002M,int,Male!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C03_003M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C03_004M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C03_005M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C03_006M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C03_007M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C03_008M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C03_009M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C03_010M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C03_011M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C03_012M,int,"Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C03_013M,int,"Male!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C03_014M,int,"Male!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C03_015M,int,Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C03_016M,int,Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C03_017M,int,Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C03_018M,int,Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C03_019M,int,Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C03_020M,int,Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C04_001M,int,Percent Male!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C04_002M,int,Percent Male!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C04_003M,int,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C04_004M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C04_005M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C04_006M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C04_007M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C04_008M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C04_009M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C04_010M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C04_011M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C04_012M,float,"Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C04_013M,int,"Percent Male!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C04_014M,int,"Percent Male!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C04_015M,int,Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C04_016M,int,Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C04_017M,int,Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C04_018M,int,Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C04_019M,int,Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C04_020M,int,Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C05_001M,int,Female!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C05_002M,int,Female!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C05_003M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C05_004M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C05_005M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C05_006M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C05_007M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C05_008M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C05_009M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C05_010M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C05_011M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C05_012M,int,"Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C05_013M,int,"Female!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C05_014M,int,"Female!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C05_015M,int,Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C05_016M,int,Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C05_017M,int,Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C05_018M,int,Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C05_019M,int,Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C05_020M,int,Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C06_001M,int,Percent Female!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C06_002M,int,Percent Female!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C06_003M,int,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C06_004M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C06_005M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C06_006M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C06_007M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C06_008M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C06_009M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C06_010M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C06_011M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C06_012M,float,"Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C06_013M,int,"Percent Female!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C06_014M,int,"Percent Female!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C06_015M,int,Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C06_016M,int,Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C06_017M,int,Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C06_018M,int,Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C06_019M,int,Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C06_020M,int,Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C01_001EA,string,Annotation of Total!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C01_001MA,string,Annotation of Total!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C01_002EA,string,Annotation of Total!!Estimate!!Median earnings (dollars),S2001
+S2001_C01_002MA,string,Annotation of Total!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C01_003EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C01_003MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C01_004EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C01_004MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C01_005EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C01_005MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C01_006EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C01_006MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C01_007EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C01_007MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C01_008EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C01_008MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C01_009EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C01_009MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C01_010EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C01_010MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C01_011EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C01_011MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C01_012EA,string,"Annotation of Total!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C01_012MA,string,"Annotation of Total!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C01_013EA,string,"Annotation of Total!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C01_013MA,string,"Annotation of Total!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C01_014EA,string,"Annotation of Total!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C01_014MA,string,"Annotation of Total!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C01_015EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C01_015MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C01_016EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C01_016MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C01_017EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C01_017MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C01_018EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C01_018MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C01_019EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C01_019MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C01_020EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C01_020MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C02_001EA,string,Annotation of Percent!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C02_001MA,string,Annotation of Percent!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C02_002EA,string,Annotation of Percent!!Estimate!!Median earnings (dollars),S2001
+S2001_C02_002MA,string,Annotation of Percent!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C02_003EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C02_003MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C02_004EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C02_004MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C02_005EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C02_005MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C02_006EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C02_006MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C02_007EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C02_007MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C02_008EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C02_008MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C02_009EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C02_009MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C02_010EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C02_010MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C02_011EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C02_011MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C02_012EA,string,"Annotation of Percent!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C02_012MA,string,"Annotation of Percent!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C02_013EA,string,"Annotation of Percent!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C02_013MA,string,"Annotation of Percent!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C02_014EA,string,"Annotation of Percent!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C02_014MA,string,"Annotation of Percent!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C02_015EA,string,Annotation of Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C02_015MA,string,Annotation of Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C02_016EA,string,Annotation of Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C02_016MA,string,Annotation of Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C02_017EA,string,Annotation of Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C02_017MA,string,Annotation of Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C02_018EA,string,Annotation of Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C02_018MA,string,Annotation of Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C02_019EA,string,Annotation of Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C02_019MA,string,Annotation of Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C02_020EA,string,Annotation of Percent!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C02_020MA,string,Annotation of Percent!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C03_001EA,string,Annotation of Male!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C03_001MA,string,Annotation of Male!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C03_002EA,string,Annotation of Male!!Estimate!!Median earnings (dollars),S2001
+S2001_C03_002MA,string,Annotation of Male!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C03_003EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C03_003MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C03_004EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C03_004MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C03_005EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C03_005MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C03_006EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C03_006MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C03_007EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C03_007MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C03_008EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C03_008MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C03_009EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C03_009MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C03_010EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C03_010MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C03_011EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C03_011MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C03_012EA,string,"Annotation of Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C03_012MA,string,"Annotation of Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C03_013EA,string,"Annotation of Male!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C03_013MA,string,"Annotation of Male!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C03_014EA,string,"Annotation of Male!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C03_014MA,string,"Annotation of Male!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C03_015EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C03_015MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C03_016EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C03_016MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C03_017EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C03_017MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C03_018EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C03_018MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C03_019EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C03_019MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C03_020EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C03_020MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C04_001EA,string,Annotation of Percent Male!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C04_001MA,string,Annotation of Percent Male!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C04_002EA,string,Annotation of Percent Male!!Estimate!!Median earnings (dollars),S2001
+S2001_C04_002MA,string,Annotation of Percent Male!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C04_003EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C04_003MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C04_004EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C04_004MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C04_005EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C04_005MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C04_006EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C04_006MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C04_007EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C04_007MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C04_008EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C04_008MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C04_009EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C04_009MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C04_010EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C04_010MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C04_011EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C04_011MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C04_012EA,string,"Annotation of Percent Male!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C04_012MA,string,"Annotation of Percent Male!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C04_013EA,string,"Annotation of Percent Male!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C04_013MA,string,"Annotation of Percent Male!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C04_014EA,string,"Annotation of Percent Male!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C04_014MA,string,"Annotation of Percent Male!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C04_015EA,string,Annotation of Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C04_015MA,string,Annotation of Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C04_016EA,string,Annotation of Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C04_016MA,string,Annotation of Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C04_017EA,string,Annotation of Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C04_017MA,string,Annotation of Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C04_018EA,string,Annotation of Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C04_018MA,string,Annotation of Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C04_019EA,string,Annotation of Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C04_019MA,string,Annotation of Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C04_020EA,string,Annotation of Percent Male!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C04_020MA,string,Annotation of Percent Male!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C05_001EA,string,Annotation of Female!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C05_001MA,string,Annotation of Female!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C05_002EA,string,Annotation of Female!!Estimate!!Median earnings (dollars),S2001
+S2001_C05_002MA,string,Annotation of Female!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C05_003EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C05_003MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C05_004EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C05_004MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C05_005EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C05_005MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C05_006EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C05_006MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C05_007EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C05_007MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C05_008EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C05_008MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C05_009EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C05_009MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C05_010EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C05_010MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C05_011EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C05_011MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C05_012EA,string,"Annotation of Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C05_012MA,string,"Annotation of Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C05_013EA,string,"Annotation of Female!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C05_013MA,string,"Annotation of Female!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C05_014EA,string,"Annotation of Female!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C05_014MA,string,"Annotation of Female!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C05_015EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C05_015MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C05_016EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C05_016MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C05_017EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C05_017MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C05_018EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C05_018MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C05_019EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C05_019MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C05_020EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C05_020MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C06_001EA,string,Annotation of Percent Female!!Estimate!!Population 16 years and over with earnings,S2001
+S2001_C06_001MA,string,Annotation of Percent Female!!Margin of Error!!Population 16 years and over with earnings,S2001
+S2001_C06_002EA,string,Annotation of Percent Female!!Estimate!!Median earnings (dollars),S2001
+S2001_C06_002MA,string,Annotation of Percent Female!!Margin of Error!!Median earnings (dollars),S2001
+S2001_C06_003EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C06_003MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS",S2001
+S2001_C06_004EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C06_004MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$1 to $9,999 or loss",S2001
+S2001_C06_005EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C06_005MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$10,000 to $14,999",S2001
+S2001_C06_006EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C06_006MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$15,000 to $24,999",S2001
+S2001_C06_007EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C06_007MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$25,000 to $34,999",S2001
+S2001_C06_008EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C06_008MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$35,000 to $49,999",S2001
+S2001_C06_009EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C06_009MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$50,000 to $64,999",S2001
+S2001_C06_010EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C06_010MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$65,000 to $74,999",S2001
+S2001_C06_011EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C06_011MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$75,000 to $99,999",S2001
+S2001_C06_012EA,string,"Annotation of Percent Female!!Estimate!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C06_012MA,string,"Annotation of Percent Female!!Margin of Error!!FULL-TIME, YEAR-ROUND WORKERS WITH EARNINGS!!$100,000 or more",S2001
+S2001_C06_013EA,string,"Annotation of Percent Female!!Estimate!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C06_013MA,string,"Annotation of Percent Female!!Margin of Error!!Median earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C06_014EA,string,"Annotation of Percent Female!!Estimate!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C06_014MA,string,"Annotation of Percent Female!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers with earnings",S2001
+S2001_C06_015EA,string,Annotation of Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C06_015MA,string,Annotation of Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings,S2001
+S2001_C06_016EA,string,Annotation of Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C06_016MA,string,Annotation of Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Less than high school graduate,S2001
+S2001_C06_017EA,string,Annotation of Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C06_017MA,string,Annotation of Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!High school graduate (includes equivalency),S2001
+S2001_C06_018EA,string,Annotation of Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C06_018MA,string,Annotation of Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Some college or associate's degree,S2001
+S2001_C06_019EA,string,Annotation of Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C06_019MA,string,Annotation of Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Bachelor's degree,S2001
+S2001_C06_020EA,string,Annotation of Percent Female!!Estimate!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001
+S2001_C06_020MA,string,Annotation of Percent Female!!Margin of Error!!MEDIAN EARNINGS BY EDUCATIONAL ATTAINMENT!!Population 25 years and over with earnings!!Graduate or professional degree,S2001

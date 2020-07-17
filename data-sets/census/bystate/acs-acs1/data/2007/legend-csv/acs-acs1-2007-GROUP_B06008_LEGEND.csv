@@ -1,0 +1,121 @@
+VARIABLE,TYPE,LABEL,GROUP
+B06008_001E,int,Estimate!!Total,B06008
+B06008_002E,int,Estimate!!Total!!Never married,B06008
+B06008_003E,int,"Estimate!!Total!!Now married, except separated",B06008
+B06008_004E,int,Estimate!!Total!!Divorced,B06008
+B06008_005E,int,Estimate!!Total!!Separated,B06008
+B06008_006E,int,Estimate!!Total!!Widowed,B06008
+B06008_007E,int,Estimate!!Total!!Born in state of residence,B06008
+B06008_008E,int,Estimate!!Total!!Born in state of residence!!Never married,B06008
+B06008_009E,int,"Estimate!!Total!!Born in state of residence!!Now married, except separated",B06008
+B06008_010E,int,Estimate!!Total!!Born in state of residence!!Divorced,B06008
+B06008_011E,int,Estimate!!Total!!Born in state of residence!!Separated,B06008
+B06008_012E,int,Estimate!!Total!!Born in state of residence!!Widowed,B06008
+B06008_013E,int,Estimate!!Total!!Born in other state in the United States,B06008
+B06008_014E,int,Estimate!!Total!!Born in other state in the United States!!Never married,B06008
+B06008_015E,int,"Estimate!!Total!!Born in other state in the United States!!Now married, except separated",B06008
+B06008_016E,int,Estimate!!Total!!Born in other state in the United States!!Divorced,B06008
+B06008_017E,int,Estimate!!Total!!Born in other state in the United States!!Separated,B06008
+B06008_018E,int,Estimate!!Total!!Born in other state in the United States!!Widowed,B06008
+B06008_019E,int,Estimate!!Total!!Native; born outside the United States,B06008
+B06008_020E,int,Estimate!!Total!!Native; born outside the United States!!Never married,B06008
+B06008_021E,int,"Estimate!!Total!!Native; born outside the United States!!Now married, except separated",B06008
+B06008_022E,int,Estimate!!Total!!Native; born outside the United States!!Divorced,B06008
+B06008_023E,int,Estimate!!Total!!Native; born outside the United States!!Separated,B06008
+B06008_024E,int,Estimate!!Total!!Native; born outside the United States!!Widowed,B06008
+B06008_025E,int,Estimate!!Total!!Foreign born,B06008
+B06008_026E,int,Estimate!!Total!!Foreign born!!Never married,B06008
+B06008_027E,int,"Estimate!!Total!!Foreign born!!Now married, except separated",B06008
+B06008_028E,int,Estimate!!Total!!Foreign born!!Divorced,B06008
+B06008_029E,int,Estimate!!Total!!Foreign born!!Separated,B06008
+B06008_030E,int,Estimate!!Total!!Foreign born!!Widowed,B06008
+B06008_001M,int,Margin of Error!!Total,B06008
+B06008_002M,int,Margin of Error!!Total!!Never married,B06008
+B06008_003M,int,"Margin of Error!!Total!!Now married, except separated",B06008
+B06008_004M,int,Margin of Error!!Total!!Divorced,B06008
+B06008_005M,int,Margin of Error!!Total!!Separated,B06008
+B06008_006M,int,Margin of Error!!Total!!Widowed,B06008
+B06008_007M,int,Margin of Error!!Total!!Born in state of residence,B06008
+B06008_008M,int,Margin of Error!!Total!!Born in state of residence!!Never married,B06008
+B06008_009M,int,"Margin of Error!!Total!!Born in state of residence!!Now married, except separated",B06008
+B06008_010M,int,Margin of Error!!Total!!Born in state of residence!!Divorced,B06008
+B06008_011M,int,Margin of Error!!Total!!Born in state of residence!!Separated,B06008
+B06008_012M,int,Margin of Error!!Total!!Born in state of residence!!Widowed,B06008
+B06008_013M,int,Margin of Error!!Total!!Born in other state in the United States,B06008
+B06008_014M,int,Margin of Error!!Total!!Born in other state in the United States!!Never married,B06008
+B06008_015M,int,"Margin of Error!!Total!!Born in other state in the United States!!Now married, except separated",B06008
+B06008_016M,int,Margin of Error!!Total!!Born in other state in the United States!!Divorced,B06008
+B06008_017M,int,Margin of Error!!Total!!Born in other state in the United States!!Separated,B06008
+B06008_018M,int,Margin of Error!!Total!!Born in other state in the United States!!Widowed,B06008
+B06008_019M,int,Margin of Error!!Total!!Native; born outside the United States,B06008
+B06008_020M,int,Margin of Error!!Total!!Native; born outside the United States!!Never married,B06008
+B06008_021M,int,"Margin of Error!!Total!!Native; born outside the United States!!Now married, except separated",B06008
+B06008_022M,int,Margin of Error!!Total!!Native; born outside the United States!!Divorced,B06008
+B06008_023M,int,Margin of Error!!Total!!Native; born outside the United States!!Separated,B06008
+B06008_024M,int,Margin of Error!!Total!!Native; born outside the United States!!Widowed,B06008
+B06008_025M,int,Margin of Error!!Total!!Foreign born,B06008
+B06008_026M,int,Margin of Error!!Total!!Foreign born!!Never married,B06008
+B06008_027M,int,"Margin of Error!!Total!!Foreign born!!Now married, except separated",B06008
+B06008_028M,int,Margin of Error!!Total!!Foreign born!!Divorced,B06008
+B06008_029M,int,Margin of Error!!Total!!Foreign born!!Separated,B06008
+B06008_030M,int,Margin of Error!!Total!!Foreign born!!Widowed,B06008
+B06008_001EA,string,Annotation of Estimate!!Total,B06008
+B06008_001MA,string,Annotation of Margin of Error!!Total,B06008
+B06008_002EA,string,Annotation of Estimate!!Total!!Never married,B06008
+B06008_002MA,string,Annotation of Margin of Error!!Total!!Never married,B06008
+B06008_003EA,string,"Annotation of Estimate!!Total!!Now married, except separated",B06008
+B06008_003MA,string,"Annotation of Margin of Error!!Total!!Now married, except separated",B06008
+B06008_004EA,string,Annotation of Estimate!!Total!!Divorced,B06008
+B06008_004MA,string,Annotation of Margin of Error!!Total!!Divorced,B06008
+B06008_005EA,string,Annotation of Estimate!!Total!!Separated,B06008
+B06008_005MA,string,Annotation of Margin of Error!!Total!!Separated,B06008
+B06008_006EA,string,Annotation of Estimate!!Total!!Widowed,B06008
+B06008_006MA,string,Annotation of Margin of Error!!Total!!Widowed,B06008
+B06008_007EA,string,Annotation of Estimate!!Total!!Born in state of residence,B06008
+B06008_007MA,string,Annotation of Margin of Error!!Total!!Born in state of residence,B06008
+B06008_008EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Never married,B06008
+B06008_008MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Never married,B06008
+B06008_009EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!Now married, except separated",B06008
+B06008_009MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!Now married, except separated",B06008
+B06008_010EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Divorced,B06008
+B06008_010MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Divorced,B06008
+B06008_011EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Separated,B06008
+B06008_011MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Separated,B06008
+B06008_012EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Widowed,B06008
+B06008_012MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Widowed,B06008
+B06008_013EA,string,Annotation of Estimate!!Total!!Born in other state in the United States,B06008
+B06008_013MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States,B06008
+B06008_014EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Never married,B06008
+B06008_014MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Never married,B06008
+B06008_015EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!Now married, except separated",B06008
+B06008_015MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!Now married, except separated",B06008
+B06008_016EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Divorced,B06008
+B06008_016MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Divorced,B06008
+B06008_017EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Separated,B06008
+B06008_017MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Separated,B06008
+B06008_018EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Widowed,B06008
+B06008_018MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Widowed,B06008
+B06008_019EA,string,Annotation of Estimate!!Total!!Native; born outside the United States,B06008
+B06008_019MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States,B06008
+B06008_020EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Never married,B06008
+B06008_020MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Never married,B06008
+B06008_021EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!Now married, except separated",B06008
+B06008_021MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!Now married, except separated",B06008
+B06008_022EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Divorced,B06008
+B06008_022MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Divorced,B06008
+B06008_023EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Separated,B06008
+B06008_023MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Separated,B06008
+B06008_024EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Widowed,B06008
+B06008_024MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Widowed,B06008
+B06008_025EA,string,Annotation of Estimate!!Total!!Foreign born,B06008
+B06008_025MA,string,Annotation of Margin of Error!!Total!!Foreign born,B06008
+B06008_026EA,string,Annotation of Estimate!!Total!!Foreign born!!Never married,B06008
+B06008_026MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Never married,B06008
+B06008_027EA,string,"Annotation of Estimate!!Total!!Foreign born!!Now married, except separated",B06008
+B06008_027MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Now married, except separated",B06008
+B06008_028EA,string,Annotation of Estimate!!Total!!Foreign born!!Divorced,B06008
+B06008_028MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Divorced,B06008
+B06008_029EA,string,Annotation of Estimate!!Total!!Foreign born!!Separated,B06008
+B06008_029MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Separated,B06008
+B06008_030EA,string,Annotation of Estimate!!Total!!Foreign born!!Widowed,B06008
+B06008_030MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Widowed,B06008

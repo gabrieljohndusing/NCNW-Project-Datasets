@@ -1,0 +1,33 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08125_001E,int,Estimate!!Aggregate travel time to work (in minutes),B08125
+B08125_002E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Management, professional, and related occupations",B08125
+B08125_003E,int,Estimate!!Aggregate travel time to work (in minutes)!!Service occupations,B08125
+B08125_004E,int,Estimate!!Aggregate travel time to work (in minutes)!!Sales and office occupations,B08125
+B08125_005E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Farming, fishing, and forestry occupations",B08125
+B08125_006E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Construction and extraction, and maintenance occupations",B08125
+B08125_007E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Production, transportation, and material moving occupations",B08125
+B08125_008E,int,Estimate!!Aggregate travel time to work (in minutes)!!Armed forces,B08125
+B08125_001M,int,Margin of Error!!Aggregate travel time to work (in minutes),B08125
+B08125_002M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Management, professional, and related occupations",B08125
+B08125_003M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Service occupations,B08125
+B08125_004M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Sales and office occupations,B08125
+B08125_005M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Farming, fishing, and forestry occupations",B08125
+B08125_006M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Construction and extraction, and maintenance occupations",B08125
+B08125_007M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Production, transportation, and material moving occupations",B08125
+B08125_008M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Armed forces,B08125
+B08125_001EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes),B08125
+B08125_001MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes),B08125
+B08125_002EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Management, professional, and related occupations",B08125
+B08125_002MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Management, professional, and related occupations",B08125
+B08125_003EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Service occupations,B08125
+B08125_003MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Service occupations,B08125
+B08125_004EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Sales and office occupations,B08125
+B08125_004MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Sales and office occupations,B08125
+B08125_005EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Farming, fishing, and forestry occupations",B08125
+B08125_005MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Farming, fishing, and forestry occupations",B08125
+B08125_006EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Construction and extraction, and maintenance occupations",B08125
+B08125_006MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Construction and extraction, and maintenance occupations",B08125
+B08125_007EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Production, transportation, and material moving occupations",B08125
+B08125_007MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Production, transportation, and material moving occupations",B08125
+B08125_008EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Armed forces,B08125
+B08125_008MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Armed forces,B08125

@@ -1,0 +1,77 @@
+VARIABLE,TYPE,LABEL,GROUP
+B15002D_001E,int,Estimate!!Total,B15002D
+B15002D_002E,int,Estimate!!Total!!Male,B15002D
+B15002D_003E,int,Estimate!!Total!!Male!!Less than 9th grade,B15002D
+B15002D_004E,int,"Estimate!!Total!!Male!!9th to 12th grade, no diploma",B15002D
+B15002D_005E,int,Estimate!!Total!!Male!!Regular high school diploma,B15002D
+B15002D_006E,int,Estimate!!Total!!Male!!GED or alternative credential,B15002D
+B15002D_007E,int,"Estimate!!Total!!Male!!Some college, no degree",B15002D
+B15002D_008E,int,Estimate!!Total!!Male!!Associate's degree,B15002D
+B15002D_009E,int,Estimate!!Total!!Male!!Bachelor's degree,B15002D
+B15002D_010E,int,Estimate!!Total!!Male!!Graduate degree,B15002D
+B15002D_011E,int,Estimate!!Total!!Female,B15002D
+B15002D_012E,int,Estimate!!Total!!Female!!Less than 9th grade,B15002D
+B15002D_013E,int,"Estimate!!Total!!Female!!9th to 12th grade, no diploma",B15002D
+B15002D_014E,int,Estimate!!Total!!Female!!Regular high school diploma,B15002D
+B15002D_015E,int,Estimate!!Total!!Female!!GED or alternative credential,B15002D
+B15002D_016E,int,"Estimate!!Total!!Female!!Some college, no degree",B15002D
+B15002D_017E,int,Estimate!!Total!!Female!!Associate's degree,B15002D
+B15002D_018E,int,Estimate!!Total!!Female!!Bachelor's degree,B15002D
+B15002D_019E,int,Estimate!!Total!!Female!!Graduate degree,B15002D
+B15002D_001M,int,Margin of Error!!Total,B15002D
+B15002D_002M,int,Margin of Error!!Total!!Male,B15002D
+B15002D_003M,int,Margin of Error!!Total!!Male!!Less than 9th grade,B15002D
+B15002D_004M,int,"Margin of Error!!Total!!Male!!9th to 12th grade, no diploma",B15002D
+B15002D_005M,int,Margin of Error!!Total!!Male!!Regular high school diploma,B15002D
+B15002D_006M,int,Margin of Error!!Total!!Male!!GED or alternative credential,B15002D
+B15002D_007M,int,"Margin of Error!!Total!!Male!!Some college, no degree",B15002D
+B15002D_008M,int,Margin of Error!!Total!!Male!!Associate's degree,B15002D
+B15002D_009M,int,Margin of Error!!Total!!Male!!Bachelor's degree,B15002D
+B15002D_010M,int,Margin of Error!!Total!!Male!!Graduate degree,B15002D
+B15002D_011M,int,Margin of Error!!Total!!Female,B15002D
+B15002D_012M,int,Margin of Error!!Total!!Female!!Less than 9th grade,B15002D
+B15002D_013M,int,"Margin of Error!!Total!!Female!!9th to 12th grade, no diploma",B15002D
+B15002D_014M,int,Margin of Error!!Total!!Female!!Regular high school diploma,B15002D
+B15002D_015M,int,Margin of Error!!Total!!Female!!GED or alternative credential,B15002D
+B15002D_016M,int,"Margin of Error!!Total!!Female!!Some college, no degree",B15002D
+B15002D_017M,int,Margin of Error!!Total!!Female!!Associate's degree,B15002D
+B15002D_018M,int,Margin of Error!!Total!!Female!!Bachelor's degree,B15002D
+B15002D_019M,int,Margin of Error!!Total!!Female!!Graduate degree,B15002D
+B15002D_001EA,string,Annotation of Estimate!!Total,B15002D
+B15002D_001MA,string,Annotation of Margin of Error!!Total,B15002D
+B15002D_002EA,string,Annotation of Estimate!!Total!!Male,B15002D
+B15002D_002MA,string,Annotation of Margin of Error!!Total!!Male,B15002D
+B15002D_003EA,string,Annotation of Estimate!!Total!!Male!!Less than 9th grade,B15002D
+B15002D_003MA,string,Annotation of Margin of Error!!Total!!Male!!Less than 9th grade,B15002D
+B15002D_004EA,string,"Annotation of Estimate!!Total!!Male!!9th to 12th grade, no diploma",B15002D
+B15002D_004MA,string,"Annotation of Margin of Error!!Total!!Male!!9th to 12th grade, no diploma",B15002D
+B15002D_005EA,string,Annotation of Estimate!!Total!!Male!!Regular high school diploma,B15002D
+B15002D_005MA,string,Annotation of Margin of Error!!Total!!Male!!Regular high school diploma,B15002D
+B15002D_006EA,string,Annotation of Estimate!!Total!!Male!!GED or alternative credential,B15002D
+B15002D_006MA,string,Annotation of Margin of Error!!Total!!Male!!GED or alternative credential,B15002D
+B15002D_007EA,string,"Annotation of Estimate!!Total!!Male!!Some college, no degree",B15002D
+B15002D_007MA,string,"Annotation of Margin of Error!!Total!!Male!!Some college, no degree",B15002D
+B15002D_008EA,string,Annotation of Estimate!!Total!!Male!!Associate's degree,B15002D
+B15002D_008MA,string,Annotation of Margin of Error!!Total!!Male!!Associate's degree,B15002D
+B15002D_009EA,string,Annotation of Estimate!!Total!!Male!!Bachelor's degree,B15002D
+B15002D_009MA,string,Annotation of Margin of Error!!Total!!Male!!Bachelor's degree,B15002D
+B15002D_010EA,string,Annotation of Estimate!!Total!!Male!!Graduate degree,B15002D
+B15002D_010MA,string,Annotation of Margin of Error!!Total!!Male!!Graduate degree,B15002D
+B15002D_011EA,string,Annotation of Estimate!!Total!!Female,B15002D
+B15002D_011MA,string,Annotation of Margin of Error!!Total!!Female,B15002D
+B15002D_012EA,string,Annotation of Estimate!!Total!!Female!!Less than 9th grade,B15002D
+B15002D_012MA,string,Annotation of Margin of Error!!Total!!Female!!Less than 9th grade,B15002D
+B15002D_013EA,string,"Annotation of Estimate!!Total!!Female!!9th to 12th grade, no diploma",B15002D
+B15002D_013MA,string,"Annotation of Margin of Error!!Total!!Female!!9th to 12th grade, no diploma",B15002D
+B15002D_014EA,string,Annotation of Estimate!!Total!!Female!!Regular high school diploma,B15002D
+B15002D_014MA,string,Annotation of Margin of Error!!Total!!Female!!Regular high school diploma,B15002D
+B15002D_015EA,string,Annotation of Estimate!!Total!!Female!!GED or alternative credential,B15002D
+B15002D_015MA,string,Annotation of Margin of Error!!Total!!Female!!GED or alternative credential,B15002D
+B15002D_016EA,string,"Annotation of Estimate!!Total!!Female!!Some college, no degree",B15002D
+B15002D_016MA,string,"Annotation of Margin of Error!!Total!!Female!!Some college, no degree",B15002D
+B15002D_017EA,string,Annotation of Estimate!!Total!!Female!!Associate's degree,B15002D
+B15002D_017MA,string,Annotation of Margin of Error!!Total!!Female!!Associate's degree,B15002D
+B15002D_018EA,string,Annotation of Estimate!!Total!!Female!!Bachelor's degree,B15002D
+B15002D_018MA,string,Annotation of Margin of Error!!Total!!Female!!Bachelor's degree,B15002D
+B15002D_019EA,string,Annotation of Estimate!!Total!!Female!!Graduate degree,B15002D
+B15002D_019MA,string,Annotation of Margin of Error!!Total!!Female!!Graduate degree,B15002D

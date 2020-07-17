@@ -1,0 +1,109 @@
+VARIABLE,TYPE,LABEL,GROUP
+B24041_001E,int,Estimate!!Total,B24041
+B24041_002E,int,"Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining",B24041
+B24041_003E,int,"Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24041
+B24041_004E,int,"Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24041
+B24041_005E,int,Estimate!!Total!!Construction,B24041
+B24041_006E,int,Estimate!!Total!!Manufacturing,B24041
+B24041_007E,int,Estimate!!Total!!Wholesale trade,B24041
+B24041_008E,int,Estimate!!Total!!Retail trade,B24041
+B24041_009E,int,"Estimate!!Total!!Transportation and warehousing, and utilities",B24041
+B24041_010E,int,"Estimate!!Total!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24041
+B24041_011E,int,"Estimate!!Total!!Transportation and warehousing, and utilities!!Utilities",B24041
+B24041_012E,int,Estimate!!Total!!Information,B24041
+B24041_013E,int,"Estimate!!Total!!Finance and insurance, and real estate, and rental and leasing",B24041
+B24041_014E,int,"Estimate!!Total!!Finance and insurance, and real estate, and rental and leasing!!Finance and insurance",B24041
+B24041_015E,int,"Estimate!!Total!!Finance and insurance, and real estate, and rental and leasing!!Real estate and rental and leasing",B24041
+B24041_016E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative, and waste management services",B24041
+B24041_017E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Professional, scientific, and technical services",B24041
+B24041_018E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Management of companies and enterprises",B24041
+B24041_019E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Administrative and support and waste management services",B24041
+B24041_020E,int,"Estimate!!Total!!Educational services, and health care and social assistance",B24041
+B24041_021E,int,"Estimate!!Total!!Educational services, and health care and social assistance!!Educational services",B24041
+B24041_022E,int,"Estimate!!Total!!Educational services, and health care and social assistance!!Health care and social assistance",B24041
+B24041_023E,int,"Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services",B24041
+B24041_024E,int,"Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24041
+B24041_025E,int,"Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24041
+B24041_026E,int,"Estimate!!Total!!Other services, except public administration",B24041
+B24041_027E,int,Estimate!!Total!!Public administration,B24041
+B24041_001M,int,Margin of Error!!Total,B24041
+B24041_002M,int,"Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining",B24041
+B24041_003M,int,"Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24041
+B24041_004M,int,"Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24041
+B24041_005M,int,Margin of Error!!Total!!Construction,B24041
+B24041_006M,int,Margin of Error!!Total!!Manufacturing,B24041
+B24041_007M,int,Margin of Error!!Total!!Wholesale trade,B24041
+B24041_008M,int,Margin of Error!!Total!!Retail trade,B24041
+B24041_009M,int,"Margin of Error!!Total!!Transportation and warehousing, and utilities",B24041
+B24041_010M,int,"Margin of Error!!Total!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24041
+B24041_011M,int,"Margin of Error!!Total!!Transportation and warehousing, and utilities!!Utilities",B24041
+B24041_012M,int,Margin of Error!!Total!!Information,B24041
+B24041_013M,int,"Margin of Error!!Total!!Finance and insurance, and real estate, and rental and leasing",B24041
+B24041_014M,int,"Margin of Error!!Total!!Finance and insurance, and real estate, and rental and leasing!!Finance and insurance",B24041
+B24041_015M,int,"Margin of Error!!Total!!Finance and insurance, and real estate, and rental and leasing!!Real estate and rental and leasing",B24041
+B24041_016M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative, and waste management services",B24041
+B24041_017M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Professional, scientific, and technical services",B24041
+B24041_018M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Management of companies and enterprises",B24041
+B24041_019M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Administrative and support and waste management services",B24041
+B24041_020M,int,"Margin of Error!!Total!!Educational services, and health care and social assistance",B24041
+B24041_021M,int,"Margin of Error!!Total!!Educational services, and health care and social assistance!!Educational services",B24041
+B24041_022M,int,"Margin of Error!!Total!!Educational services, and health care and social assistance!!Health care and social assistance",B24041
+B24041_023M,int,"Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services",B24041
+B24041_024M,int,"Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24041
+B24041_025M,int,"Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24041
+B24041_026M,int,"Margin of Error!!Total!!Other services, except public administration",B24041
+B24041_027M,int,Margin of Error!!Total!!Public administration,B24041
+B24041_001EA,string,Annotation of Estimate!!Total,B24041
+B24041_001MA,string,Annotation of Margin of Error!!Total,B24041
+B24041_002EA,string,"Annotation of Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining",B24041
+B24041_002MA,string,"Annotation of Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining",B24041
+B24041_003EA,string,"Annotation of Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24041
+B24041_003MA,string,"Annotation of Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24041
+B24041_004EA,string,"Annotation of Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24041
+B24041_004MA,string,"Annotation of Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24041
+B24041_005EA,string,Annotation of Estimate!!Total!!Construction,B24041
+B24041_005MA,string,Annotation of Margin of Error!!Total!!Construction,B24041
+B24041_006EA,string,Annotation of Estimate!!Total!!Manufacturing,B24041
+B24041_006MA,string,Annotation of Margin of Error!!Total!!Manufacturing,B24041
+B24041_007EA,string,Annotation of Estimate!!Total!!Wholesale trade,B24041
+B24041_007MA,string,Annotation of Margin of Error!!Total!!Wholesale trade,B24041
+B24041_008EA,string,Annotation of Estimate!!Total!!Retail trade,B24041
+B24041_008MA,string,Annotation of Margin of Error!!Total!!Retail trade,B24041
+B24041_009EA,string,"Annotation of Estimate!!Total!!Transportation and warehousing, and utilities",B24041
+B24041_009MA,string,"Annotation of Margin of Error!!Total!!Transportation and warehousing, and utilities",B24041
+B24041_010EA,string,"Annotation of Estimate!!Total!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24041
+B24041_010MA,string,"Annotation of Margin of Error!!Total!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24041
+B24041_011EA,string,"Annotation of Estimate!!Total!!Transportation and warehousing, and utilities!!Utilities",B24041
+B24041_011MA,string,"Annotation of Margin of Error!!Total!!Transportation and warehousing, and utilities!!Utilities",B24041
+B24041_012EA,string,Annotation of Estimate!!Total!!Information,B24041
+B24041_012MA,string,Annotation of Margin of Error!!Total!!Information,B24041
+B24041_013EA,string,"Annotation of Estimate!!Total!!Finance and insurance, and real estate, and rental and leasing",B24041
+B24041_013MA,string,"Annotation of Margin of Error!!Total!!Finance and insurance, and real estate, and rental and leasing",B24041
+B24041_014EA,string,"Annotation of Estimate!!Total!!Finance and insurance, and real estate, and rental and leasing!!Finance and insurance",B24041
+B24041_014MA,string,"Annotation of Margin of Error!!Total!!Finance and insurance, and real estate, and rental and leasing!!Finance and insurance",B24041
+B24041_015EA,string,"Annotation of Estimate!!Total!!Finance and insurance, and real estate, and rental and leasing!!Real estate and rental and leasing",B24041
+B24041_015MA,string,"Annotation of Margin of Error!!Total!!Finance and insurance, and real estate, and rental and leasing!!Real estate and rental and leasing",B24041
+B24041_016EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative, and waste management services",B24041
+B24041_016MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative, and waste management services",B24041
+B24041_017EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Professional, scientific, and technical services",B24041
+B24041_017MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Professional, scientific, and technical services",B24041
+B24041_018EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Management of companies and enterprises",B24041
+B24041_018MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Management of companies and enterprises",B24041
+B24041_019EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Administrative and support and waste management services",B24041
+B24041_019MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative, and waste management services!!Administrative and support and waste management services",B24041
+B24041_020EA,string,"Annotation of Estimate!!Total!!Educational services, and health care and social assistance",B24041
+B24041_020MA,string,"Annotation of Margin of Error!!Total!!Educational services, and health care and social assistance",B24041
+B24041_021EA,string,"Annotation of Estimate!!Total!!Educational services, and health care and social assistance!!Educational services",B24041
+B24041_021MA,string,"Annotation of Margin of Error!!Total!!Educational services, and health care and social assistance!!Educational services",B24041
+B24041_022EA,string,"Annotation of Estimate!!Total!!Educational services, and health care and social assistance!!Health care and social assistance",B24041
+B24041_022MA,string,"Annotation of Margin of Error!!Total!!Educational services, and health care and social assistance!!Health care and social assistance",B24041
+B24041_023EA,string,"Annotation of Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services",B24041
+B24041_023MA,string,"Annotation of Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services",B24041
+B24041_024EA,string,"Annotation of Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24041
+B24041_024MA,string,"Annotation of Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24041
+B24041_025EA,string,"Annotation of Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24041
+B24041_025MA,string,"Annotation of Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24041
+B24041_026EA,string,"Annotation of Estimate!!Total!!Other services, except public administration",B24041
+B24041_026MA,string,"Annotation of Margin of Error!!Total!!Other services, except public administration",B24041
+B24041_027EA,string,Annotation of Estimate!!Total!!Public administration,B24041
+B24041_027MA,string,Annotation of Margin of Error!!Total!!Public administration,B24041

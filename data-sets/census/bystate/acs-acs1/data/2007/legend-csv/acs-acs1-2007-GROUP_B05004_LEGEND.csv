@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+B05004_001E,float,Estimate!!Total,B05004
+B05004_002E,float,Estimate!!Total!!Male,B05004
+B05004_003E,float,Estimate!!Total!!Female,B05004
+B05004_004E,float,Estimate!!Total!!Native,B05004
+B05004_005E,float,Estimate!!Total!!Native!!Male,B05004
+B05004_006E,float,Estimate!!Total!!Native!!Female,B05004
+B05004_007E,float,Estimate!!Total!!Foreign born,B05004
+B05004_008E,float,Estimate!!Total!!Foreign born!!Male,B05004
+B05004_009E,float,Estimate!!Total!!Foreign born!!Female,B05004
+B05004_010E,float,Estimate!!Total!!Foreign born!!Naturalized U.S. citizen,B05004
+B05004_011E,float,Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Male,B05004
+B05004_012E,float,Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Female,B05004
+B05004_013E,float,Estimate!!Total!!Foreign born!!Not a U.S. citizen,B05004
+B05004_014E,float,Estimate!!Total!!Foreign born!!Not a U.S. citizen!!Male,B05004
+B05004_015E,float,Estimate!!Total!!Foreign born!!Not a U.S. citizen!!Female,B05004
+B05004_001M,float,Margin of Error!!Total,B05004
+B05004_002M,float,Margin of Error!!Total!!Male,B05004
+B05004_003M,float,Margin of Error!!Total!!Female,B05004
+B05004_004M,float,Margin of Error!!Total!!Native,B05004
+B05004_005M,float,Margin of Error!!Total!!Native!!Male,B05004
+B05004_006M,float,Margin of Error!!Total!!Native!!Female,B05004
+B05004_007M,float,Margin of Error!!Total!!Foreign born,B05004
+B05004_008M,float,Margin of Error!!Total!!Foreign born!!Male,B05004
+B05004_009M,float,Margin of Error!!Total!!Foreign born!!Female,B05004
+B05004_010M,float,Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen,B05004
+B05004_011M,float,Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen!!Male,B05004
+B05004_012M,float,Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen!!Female,B05004
+B05004_013M,float,Margin of Error!!Total!!Foreign born!!Not a U.S. citizen,B05004
+B05004_014M,float,Margin of Error!!Total!!Foreign born!!Not a U.S. citizen!!Male,B05004
+B05004_015M,float,Margin of Error!!Total!!Foreign born!!Not a U.S. citizen!!Female,B05004
+B05004_001EA,string,Annotation of Estimate!!Total,B05004
+B05004_001MA,string,Annotation of Margin of Error!!Total,B05004
+B05004_002EA,string,Annotation of Estimate!!Total!!Male,B05004
+B05004_002MA,string,Annotation of Margin of Error!!Total!!Male,B05004
+B05004_003EA,string,Annotation of Estimate!!Total!!Female,B05004
+B05004_003MA,string,Annotation of Margin of Error!!Total!!Female,B05004
+B05004_004EA,string,Annotation of Estimate!!Total!!Native,B05004
+B05004_004MA,string,Annotation of Margin of Error!!Total!!Native,B05004
+B05004_005EA,string,Annotation of Estimate!!Total!!Native!!Male,B05004
+B05004_005MA,string,Annotation of Margin of Error!!Total!!Native!!Male,B05004
+B05004_006EA,string,Annotation of Estimate!!Total!!Native!!Female,B05004
+B05004_006MA,string,Annotation of Margin of Error!!Total!!Native!!Female,B05004
+B05004_007EA,string,Annotation of Estimate!!Total!!Foreign born,B05004
+B05004_007MA,string,Annotation of Margin of Error!!Total!!Foreign born,B05004
+B05004_008EA,string,Annotation of Estimate!!Total!!Foreign born!!Male,B05004
+B05004_008MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Male,B05004
+B05004_009EA,string,Annotation of Estimate!!Total!!Foreign born!!Female,B05004
+B05004_009MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Female,B05004
+B05004_010EA,string,Annotation of Estimate!!Total!!Foreign born!!Naturalized U.S. citizen,B05004
+B05004_010MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen,B05004
+B05004_011EA,string,Annotation of Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Male,B05004
+B05004_011MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen!!Male,B05004
+B05004_012EA,string,Annotation of Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Female,B05004
+B05004_012MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Naturalized U.S. citizen!!Female,B05004
+B05004_013EA,string,Annotation of Estimate!!Total!!Foreign born!!Not a U.S. citizen,B05004
+B05004_013MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Not a U.S. citizen,B05004
+B05004_014EA,string,Annotation of Estimate!!Total!!Foreign born!!Not a U.S. citizen!!Male,B05004
+B05004_014MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Not a U.S. citizen!!Male,B05004
+B05004_015EA,string,Annotation of Estimate!!Total!!Foreign born!!Not a U.S. citizen!!Female,B05004
+B05004_015MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Not a U.S. citizen!!Female,B05004

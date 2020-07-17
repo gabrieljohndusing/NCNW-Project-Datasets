@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+C23022_001E,int,Estimate!!Total,C23022
+C23022_002E,int,Estimate!!Total!!Male,C23022
+C23022_003E,int,Estimate!!Total!!Male!!Worked in the past 12 months,C23022
+C23022_004E,int,"Estimate!!Total!!Male!!Worked in the past 12 months!!Worked full-time, year-round",C23022
+C23022_005E,int,"Estimate!!Total!!Male!!Worked in the past 12 months!!Worked less than full-time, year-round",C23022
+C23022_006E,int,Estimate!!Total!!Male!!Did not work in the past 12 months,C23022
+C23022_007E,int,Estimate!!Total!!Female,C23022
+C23022_008E,int,Estimate!!Total!!Female!!Worked in the past 12 months,C23022
+C23022_009E,int,"Estimate!!Total!!Female!!Worked in the past 12 months!!Worked full-time, year-round",C23022
+C23022_010E,int,"Estimate!!Total!!Female!!Worked in the past 12 months!!Worked less than full-time, year-round",C23022
+C23022_011E,int,Estimate!!Total!!Female!!Did not work in the past 12 months,C23022
+C23022_001M,int,Margin of Error!!Total,C23022
+C23022_002M,int,Margin of Error!!Total!!Male,C23022
+C23022_003M,int,Margin of Error!!Total!!Male!!Worked in the past 12 months,C23022
+C23022_004M,int,"Margin of Error!!Total!!Male!!Worked in the past 12 months!!Worked full-time, year-round",C23022
+C23022_005M,int,"Margin of Error!!Total!!Male!!Worked in the past 12 months!!Worked less than full-time, year-round",C23022
+C23022_006M,int,Margin of Error!!Total!!Male!!Did not work in the past 12 months,C23022
+C23022_007M,int,Margin of Error!!Total!!Female,C23022
+C23022_008M,int,Margin of Error!!Total!!Female!!Worked in the past 12 months,C23022
+C23022_009M,int,"Margin of Error!!Total!!Female!!Worked in the past 12 months!!Worked full-time, year-round",C23022
+C23022_010M,int,"Margin of Error!!Total!!Female!!Worked in the past 12 months!!Worked less than full-time, year-round",C23022
+C23022_011M,int,Margin of Error!!Total!!Female!!Did not work in the past 12 months,C23022
+C23022_001EA,string,Annotation of Estimate!!Total,C23022
+C23022_001MA,string,Annotation of Margin of Error!!Total,C23022
+C23022_002EA,string,Annotation of Estimate!!Total!!Male,C23022
+C23022_002MA,string,Annotation of Margin of Error!!Total!!Male,C23022
+C23022_003EA,string,Annotation of Estimate!!Total!!Male!!Worked in the past 12 months,C23022
+C23022_003MA,string,Annotation of Margin of Error!!Total!!Male!!Worked in the past 12 months,C23022
+C23022_004EA,string,"Annotation of Estimate!!Total!!Male!!Worked in the past 12 months!!Worked full-time, year-round",C23022
+C23022_004MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked in the past 12 months!!Worked full-time, year-round",C23022
+C23022_005EA,string,"Annotation of Estimate!!Total!!Male!!Worked in the past 12 months!!Worked less than full-time, year-round",C23022
+C23022_005MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked in the past 12 months!!Worked less than full-time, year-round",C23022
+C23022_006EA,string,Annotation of Estimate!!Total!!Male!!Did not work in the past 12 months,C23022
+C23022_006MA,string,Annotation of Margin of Error!!Total!!Male!!Did not work in the past 12 months,C23022
+C23022_007EA,string,Annotation of Estimate!!Total!!Female,C23022
+C23022_007MA,string,Annotation of Margin of Error!!Total!!Female,C23022
+C23022_008EA,string,Annotation of Estimate!!Total!!Female!!Worked in the past 12 months,C23022
+C23022_008MA,string,Annotation of Margin of Error!!Total!!Female!!Worked in the past 12 months,C23022
+C23022_009EA,string,"Annotation of Estimate!!Total!!Female!!Worked in the past 12 months!!Worked full-time, year-round",C23022
+C23022_009MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked in the past 12 months!!Worked full-time, year-round",C23022
+C23022_010EA,string,"Annotation of Estimate!!Total!!Female!!Worked in the past 12 months!!Worked less than full-time, year-round",C23022
+C23022_010MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked in the past 12 months!!Worked less than full-time, year-round",C23022
+C23022_011EA,string,Annotation of Estimate!!Total!!Female!!Did not work in the past 12 months,C23022
+C23022_011MA,string,Annotation of Margin of Error!!Total!!Female!!Did not work in the past 12 months,C23022

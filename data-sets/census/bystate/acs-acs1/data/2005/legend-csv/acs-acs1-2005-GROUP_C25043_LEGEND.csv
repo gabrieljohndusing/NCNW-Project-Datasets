@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+C25043_001E,int,Estimate!!Total,C25043
+C25043_002E,int,Estimate!!Total!!Owner occupied,C25043
+C25043_003E,int,Estimate!!Total!!Owner occupied!!With telephone service available,C25043
+C25043_004E,int,Estimate!!Total!!Owner occupied!!No telephone service available,C25043
+C25043_005E,int,Estimate!!Total!!Renter occupied,C25043
+C25043_006E,int,Estimate!!Total!!Renter occupied!!With telephone service available,C25043
+C25043_007E,int,Estimate!!Total!!Renter occupied!!No telephone service available,C25043
+C25043_001M,int,Margin of Error!!Total,C25043
+C25043_002M,int,Margin of Error!!Total!!Owner occupied,C25043
+C25043_003M,int,Margin of Error!!Total!!Owner occupied!!With telephone service available,C25043
+C25043_004M,int,Margin of Error!!Total!!Owner occupied!!No telephone service available,C25043
+C25043_005M,int,Margin of Error!!Total!!Renter occupied,C25043
+C25043_006M,int,Margin of Error!!Total!!Renter occupied!!With telephone service available,C25043
+C25043_007M,int,Margin of Error!!Total!!Renter occupied!!No telephone service available,C25043
+C25043_001EA,string,Annotation of Estimate!!Total,C25043
+C25043_001MA,string,Annotation of Margin of Error!!Total,C25043
+C25043_002EA,string,Annotation of Estimate!!Total!!Owner occupied,C25043
+C25043_002MA,string,Annotation of Margin of Error!!Total!!Owner occupied,C25043
+C25043_003EA,string,Annotation of Estimate!!Total!!Owner occupied!!With telephone service available,C25043
+C25043_003MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!With telephone service available,C25043
+C25043_004EA,string,Annotation of Estimate!!Total!!Owner occupied!!No telephone service available,C25043
+C25043_004MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!No telephone service available,C25043
+C25043_005EA,string,Annotation of Estimate!!Total!!Renter occupied,C25043
+C25043_005MA,string,Annotation of Margin of Error!!Total!!Renter occupied,C25043
+C25043_006EA,string,Annotation of Estimate!!Total!!Renter occupied!!With telephone service available,C25043
+C25043_006MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!With telephone service available,C25043
+C25043_007EA,string,Annotation of Estimate!!Total!!Renter occupied!!No telephone service available,C25043
+C25043_007MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!No telephone service available,C25043

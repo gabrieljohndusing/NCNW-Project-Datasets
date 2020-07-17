@@ -1,0 +1,65 @@
+VARIABLE,TYPE,LABEL,GROUP
+C14004_001E,int,Estimate!!Total,C14004
+C14004_002E,int,Estimate!!Total!!Enrolled in public college or graduate school,C14004
+C14004_003E,int,Estimate!!Total!!Enrolled in public college or graduate school!!15 to 17 years,C14004
+C14004_004E,int,Estimate!!Total!!Enrolled in public college or graduate school!!18 to 24 years,C14004
+C14004_005E,int,Estimate!!Total!!Enrolled in public college or graduate school!!25 to 34 years,C14004
+C14004_006E,int,Estimate!!Total!!Enrolled in public college or graduate school!!35 years and over,C14004
+C14004_007E,int,Estimate!!Total!!Enrolled in private college or graduate school,C14004
+C14004_008E,int,Estimate!!Total!!Enrolled in private college or graduate school!!15 to 17 years,C14004
+C14004_009E,int,Estimate!!Total!!Enrolled in private college or graduate school!!18 to 24 years,C14004
+C14004_010E,int,Estimate!!Total!!Enrolled in private college or graduate school!!25 to 34 years,C14004
+C14004_011E,int,Estimate!!Total!!Enrolled in private college or graduate school!!35 years and over,C14004
+C14004_012E,int,Estimate!!Total!!Not enrolled in college or graduate school,C14004
+C14004_013E,int,Estimate!!Total!!Not enrolled in college or graduate school!!15 to 17 years,C14004
+C14004_014E,int,Estimate!!Total!!Not enrolled in college or graduate school!!18 to 24 years,C14004
+C14004_015E,int,Estimate!!Total!!Not enrolled in college or graduate school!!25 to 34 years,C14004
+C14004_016E,int,Estimate!!Total!!Not enrolled in college or graduate school!!35 years and over,C14004
+C14004_001M,int,Margin of Error!!Total,C14004
+C14004_002M,int,Margin of Error!!Total!!Enrolled in public college or graduate school,C14004
+C14004_003M,int,Margin of Error!!Total!!Enrolled in public college or graduate school!!15 to 17 years,C14004
+C14004_004M,int,Margin of Error!!Total!!Enrolled in public college or graduate school!!18 to 24 years,C14004
+C14004_005M,int,Margin of Error!!Total!!Enrolled in public college or graduate school!!25 to 34 years,C14004
+C14004_006M,int,Margin of Error!!Total!!Enrolled in public college or graduate school!!35 years and over,C14004
+C14004_007M,int,Margin of Error!!Total!!Enrolled in private college or graduate school,C14004
+C14004_008M,int,Margin of Error!!Total!!Enrolled in private college or graduate school!!15 to 17 years,C14004
+C14004_009M,int,Margin of Error!!Total!!Enrolled in private college or graduate school!!18 to 24 years,C14004
+C14004_010M,int,Margin of Error!!Total!!Enrolled in private college or graduate school!!25 to 34 years,C14004
+C14004_011M,int,Margin of Error!!Total!!Enrolled in private college or graduate school!!35 years and over,C14004
+C14004_012M,int,Margin of Error!!Total!!Not enrolled in college or graduate school,C14004
+C14004_013M,int,Margin of Error!!Total!!Not enrolled in college or graduate school!!15 to 17 years,C14004
+C14004_014M,int,Margin of Error!!Total!!Not enrolled in college or graduate school!!18 to 24 years,C14004
+C14004_015M,int,Margin of Error!!Total!!Not enrolled in college or graduate school!!25 to 34 years,C14004
+C14004_016M,int,Margin of Error!!Total!!Not enrolled in college or graduate school!!35 years and over,C14004
+C14004_001EA,string,Annotation of Estimate!!Total,C14004
+C14004_001MA,string,Annotation of Margin of Error!!Total,C14004
+C14004_002EA,string,Annotation of Estimate!!Total!!Enrolled in public college or graduate school,C14004
+C14004_002MA,string,Annotation of Margin of Error!!Total!!Enrolled in public college or graduate school,C14004
+C14004_003EA,string,Annotation of Estimate!!Total!!Enrolled in public college or graduate school!!15 to 17 years,C14004
+C14004_003MA,string,Annotation of Margin of Error!!Total!!Enrolled in public college or graduate school!!15 to 17 years,C14004
+C14004_004EA,string,Annotation of Estimate!!Total!!Enrolled in public college or graduate school!!18 to 24 years,C14004
+C14004_004MA,string,Annotation of Margin of Error!!Total!!Enrolled in public college or graduate school!!18 to 24 years,C14004
+C14004_005EA,string,Annotation of Estimate!!Total!!Enrolled in public college or graduate school!!25 to 34 years,C14004
+C14004_005MA,string,Annotation of Margin of Error!!Total!!Enrolled in public college or graduate school!!25 to 34 years,C14004
+C14004_006EA,string,Annotation of Estimate!!Total!!Enrolled in public college or graduate school!!35 years and over,C14004
+C14004_006MA,string,Annotation of Margin of Error!!Total!!Enrolled in public college or graduate school!!35 years and over,C14004
+C14004_007EA,string,Annotation of Estimate!!Total!!Enrolled in private college or graduate school,C14004
+C14004_007MA,string,Annotation of Margin of Error!!Total!!Enrolled in private college or graduate school,C14004
+C14004_008EA,string,Annotation of Estimate!!Total!!Enrolled in private college or graduate school!!15 to 17 years,C14004
+C14004_008MA,string,Annotation of Margin of Error!!Total!!Enrolled in private college or graduate school!!15 to 17 years,C14004
+C14004_009EA,string,Annotation of Estimate!!Total!!Enrolled in private college or graduate school!!18 to 24 years,C14004
+C14004_009MA,string,Annotation of Margin of Error!!Total!!Enrolled in private college or graduate school!!18 to 24 years,C14004
+C14004_010EA,string,Annotation of Estimate!!Total!!Enrolled in private college or graduate school!!25 to 34 years,C14004
+C14004_010MA,string,Annotation of Margin of Error!!Total!!Enrolled in private college or graduate school!!25 to 34 years,C14004
+C14004_011EA,string,Annotation of Estimate!!Total!!Enrolled in private college or graduate school!!35 years and over,C14004
+C14004_011MA,string,Annotation of Margin of Error!!Total!!Enrolled in private college or graduate school!!35 years and over,C14004
+C14004_012EA,string,Annotation of Estimate!!Total!!Not enrolled in college or graduate school,C14004
+C14004_012MA,string,Annotation of Margin of Error!!Total!!Not enrolled in college or graduate school,C14004
+C14004_013EA,string,Annotation of Estimate!!Total!!Not enrolled in college or graduate school!!15 to 17 years,C14004
+C14004_013MA,string,Annotation of Margin of Error!!Total!!Not enrolled in college or graduate school!!15 to 17 years,C14004
+C14004_014EA,string,Annotation of Estimate!!Total!!Not enrolled in college or graduate school!!18 to 24 years,C14004
+C14004_014MA,string,Annotation of Margin of Error!!Total!!Not enrolled in college or graduate school!!18 to 24 years,C14004
+C14004_015EA,string,Annotation of Estimate!!Total!!Not enrolled in college or graduate school!!25 to 34 years,C14004
+C14004_015MA,string,Annotation of Margin of Error!!Total!!Not enrolled in college or graduate school!!25 to 34 years,C14004
+C14004_016EA,string,Annotation of Estimate!!Total!!Not enrolled in college or graduate school!!35 years and over,C14004
+C14004_016MA,string,Annotation of Margin of Error!!Total!!Not enrolled in college or graduate school!!35 years and over,C14004

@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18008_001E,int,Estimate!!Total,C18008
+C18008_002E,int,Estimate!!Total!!Male,C18008
+C18008_003E,int,Estimate!!Total!!Male!!With an employment disability,C18008
+C18008_004E,int,Estimate!!Total!!Male!!No employment disability,C18008
+C18008_005E,int,Estimate!!Total!!Female,C18008
+C18008_006E,int,Estimate!!Total!!Female!!With an employment disability,C18008
+C18008_007E,int,Estimate!!Total!!Female!!No employment disability,C18008
+C18008_001M,int,Margin of Error!!Total,C18008
+C18008_002M,int,Margin of Error!!Total!!Male,C18008
+C18008_003M,int,Margin of Error!!Total!!Male!!With an employment disability,C18008
+C18008_004M,int,Margin of Error!!Total!!Male!!No employment disability,C18008
+C18008_005M,int,Margin of Error!!Total!!Female,C18008
+C18008_006M,int,Margin of Error!!Total!!Female!!With an employment disability,C18008
+C18008_007M,int,Margin of Error!!Total!!Female!!No employment disability,C18008
+C18008_001EA,string,Annotation of Estimate!!Total,C18008
+C18008_001MA,string,Annotation of Margin of Error!!Total,C18008
+C18008_002EA,string,Annotation of Estimate!!Total!!Male,C18008
+C18008_002MA,string,Annotation of Margin of Error!!Total!!Male,C18008
+C18008_003EA,string,Annotation of Estimate!!Total!!Male!!With an employment disability,C18008
+C18008_003MA,string,Annotation of Margin of Error!!Total!!Male!!With an employment disability,C18008
+C18008_004EA,string,Annotation of Estimate!!Total!!Male!!No employment disability,C18008
+C18008_004MA,string,Annotation of Margin of Error!!Total!!Male!!No employment disability,C18008
+C18008_005EA,string,Annotation of Estimate!!Total!!Female,C18008
+C18008_005MA,string,Annotation of Margin of Error!!Total!!Female,C18008
+C18008_006EA,string,Annotation of Estimate!!Total!!Female!!With an employment disability,C18008
+C18008_006MA,string,Annotation of Margin of Error!!Total!!Female!!With an employment disability,C18008
+C18008_007EA,string,Annotation of Estimate!!Total!!Female!!No employment disability,C18008
+C18008_007MA,string,Annotation of Margin of Error!!Total!!Female!!No employment disability,C18008

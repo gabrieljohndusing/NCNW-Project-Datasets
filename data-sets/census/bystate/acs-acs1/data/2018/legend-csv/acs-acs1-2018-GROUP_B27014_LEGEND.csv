@@ -1,0 +1,89 @@
+VARIABLE,TYPE,LABEL,GROUP
+B27014_001E,int,Estimate!!Total,B27014
+B27014_002E,int,"Estimate!!Total!!Worked full-time, year-round",B27014
+B27014_003E,int,"Estimate!!Total!!Worked full-time, year-round!!Male",B27014
+B27014_004E,int,"Estimate!!Total!!Worked full-time, year-round!!Male!!With public coverage",B27014
+B27014_005E,int,"Estimate!!Total!!Worked full-time, year-round!!Male!!No public coverage",B27014
+B27014_006E,int,"Estimate!!Total!!Worked full-time, year-round!!Female",B27014
+B27014_007E,int,"Estimate!!Total!!Worked full-time, year-round!!Female!!With public coverage",B27014
+B27014_008E,int,"Estimate!!Total!!Worked full-time, year-round!!Female!!No public coverage",B27014
+B27014_009E,int,"Estimate!!Total!!Worked less than full-time, year-round",B27014
+B27014_010E,int,"Estimate!!Total!!Worked less than full-time, year-round!!Male",B27014
+B27014_011E,int,"Estimate!!Total!!Worked less than full-time, year-round!!Male!!With public coverage",B27014
+B27014_012E,int,"Estimate!!Total!!Worked less than full-time, year-round!!Male!!No public coverage",B27014
+B27014_013E,int,"Estimate!!Total!!Worked less than full-time, year-round!!Female",B27014
+B27014_014E,int,"Estimate!!Total!!Worked less than full-time, year-round!!Female!!With public coverage",B27014
+B27014_015E,int,"Estimate!!Total!!Worked less than full-time, year-round!!Female!!No public coverage",B27014
+B27014_016E,int,Estimate!!Total!!Did not work,B27014
+B27014_017E,int,Estimate!!Total!!Did not work!!Male,B27014
+B27014_018E,int,Estimate!!Total!!Did not work!!Male!!With public coverage,B27014
+B27014_019E,int,Estimate!!Total!!Did not work!!Male!!No public coverage,B27014
+B27014_020E,int,Estimate!!Total!!Did not work!!Female,B27014
+B27014_021E,int,Estimate!!Total!!Did not work!!Female!!With public coverage,B27014
+B27014_022E,int,Estimate!!Total!!Did not work!!Female!!No public coverage,B27014
+B27014_001M,int,Margin of Error!!Total,B27014
+B27014_002M,int,"Margin of Error!!Total!!Worked full-time, year-round",B27014
+B27014_003M,int,"Margin of Error!!Total!!Worked full-time, year-round!!Male",B27014
+B27014_004M,int,"Margin of Error!!Total!!Worked full-time, year-round!!Male!!With public coverage",B27014
+B27014_005M,int,"Margin of Error!!Total!!Worked full-time, year-round!!Male!!No public coverage",B27014
+B27014_006M,int,"Margin of Error!!Total!!Worked full-time, year-round!!Female",B27014
+B27014_007M,int,"Margin of Error!!Total!!Worked full-time, year-round!!Female!!With public coverage",B27014
+B27014_008M,int,"Margin of Error!!Total!!Worked full-time, year-round!!Female!!No public coverage",B27014
+B27014_009M,int,"Margin of Error!!Total!!Worked less than full-time, year-round",B27014
+B27014_010M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!Male",B27014
+B27014_011M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!Male!!With public coverage",B27014
+B27014_012M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!Male!!No public coverage",B27014
+B27014_013M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!Female",B27014
+B27014_014M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!Female!!With public coverage",B27014
+B27014_015M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!Female!!No public coverage",B27014
+B27014_016M,int,Margin of Error!!Total!!Did not work,B27014
+B27014_017M,int,Margin of Error!!Total!!Did not work!!Male,B27014
+B27014_018M,int,Margin of Error!!Total!!Did not work!!Male!!With public coverage,B27014
+B27014_019M,int,Margin of Error!!Total!!Did not work!!Male!!No public coverage,B27014
+B27014_020M,int,Margin of Error!!Total!!Did not work!!Female,B27014
+B27014_021M,int,Margin of Error!!Total!!Did not work!!Female!!With public coverage,B27014
+B27014_022M,int,Margin of Error!!Total!!Did not work!!Female!!No public coverage,B27014
+B27014_001EA,string,Annotation of Estimate!!Total,B27014
+B27014_001MA,string,Annotation of Margin of Error!!Total,B27014
+B27014_002EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round",B27014
+B27014_002MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round",B27014
+B27014_003EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!Male",B27014
+B27014_003MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!Male",B27014
+B27014_004EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!Male!!With public coverage",B27014
+B27014_004MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!Male!!With public coverage",B27014
+B27014_005EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!Male!!No public coverage",B27014
+B27014_005MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!Male!!No public coverage",B27014
+B27014_006EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!Female",B27014
+B27014_006MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!Female",B27014
+B27014_007EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!Female!!With public coverage",B27014
+B27014_007MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!Female!!With public coverage",B27014
+B27014_008EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!Female!!No public coverage",B27014
+B27014_008MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!Female!!No public coverage",B27014
+B27014_009EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round",B27014
+B27014_009MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round",B27014
+B27014_010EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!Male",B27014
+B27014_010MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!Male",B27014
+B27014_011EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!Male!!With public coverage",B27014
+B27014_011MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!Male!!With public coverage",B27014
+B27014_012EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!Male!!No public coverage",B27014
+B27014_012MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!Male!!No public coverage",B27014
+B27014_013EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!Female",B27014
+B27014_013MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!Female",B27014
+B27014_014EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!Female!!With public coverage",B27014
+B27014_014MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!Female!!With public coverage",B27014
+B27014_015EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!Female!!No public coverage",B27014
+B27014_015MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!Female!!No public coverage",B27014
+B27014_016EA,string,Annotation of Estimate!!Total!!Did not work,B27014
+B27014_016MA,string,Annotation of Margin of Error!!Total!!Did not work,B27014
+B27014_017EA,string,Annotation of Estimate!!Total!!Did not work!!Male,B27014
+B27014_017MA,string,Annotation of Margin of Error!!Total!!Did not work!!Male,B27014
+B27014_018EA,string,Annotation of Estimate!!Total!!Did not work!!Male!!With public coverage,B27014
+B27014_018MA,string,Annotation of Margin of Error!!Total!!Did not work!!Male!!With public coverage,B27014
+B27014_019EA,string,Annotation of Estimate!!Total!!Did not work!!Male!!No public coverage,B27014
+B27014_019MA,string,Annotation of Margin of Error!!Total!!Did not work!!Male!!No public coverage,B27014
+B27014_020EA,string,Annotation of Estimate!!Total!!Did not work!!Female,B27014
+B27014_020MA,string,Annotation of Margin of Error!!Total!!Did not work!!Female,B27014
+B27014_021EA,string,Annotation of Estimate!!Total!!Did not work!!Female!!With public coverage,B27014
+B27014_021MA,string,Annotation of Margin of Error!!Total!!Did not work!!Female!!With public coverage,B27014
+B27014_022EA,string,Annotation of Estimate!!Total!!Did not work!!Female!!No public coverage,B27014
+B27014_022MA,string,Annotation of Margin of Error!!Total!!Did not work!!Female!!No public coverage,B27014

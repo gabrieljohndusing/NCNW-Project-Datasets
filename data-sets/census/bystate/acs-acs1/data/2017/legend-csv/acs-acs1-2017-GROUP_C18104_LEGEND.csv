@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18104_001E,int,Estimate!!Total,C18104
+C18104_002E,int,Estimate!!Total!!Male,C18104
+C18104_003E,int,Estimate!!Total!!Male!!5 to 17 years,C18104
+C18104_004E,int,Estimate!!Total!!Male!!5 to 17 years!!With a cognitive difficulty,C18104
+C18104_005E,int,Estimate!!Total!!Male!!5 to 17 years!!No cognitive difficulty,C18104
+C18104_006E,int,Estimate!!Total!!Male!!18 to 64 years,C18104
+C18104_007E,int,Estimate!!Total!!Male!!18 to 64 years!!With a cognitive difficulty,C18104
+C18104_008E,int,Estimate!!Total!!Male!!18 to 64 years!!No cognitive difficulty,C18104
+C18104_009E,int,Estimate!!Total!!Male!!65 years and over,C18104
+C18104_010E,int,Estimate!!Total!!Male!!65 years and over!!With a cognitive difficulty,C18104
+C18104_011E,int,Estimate!!Total!!Male!!65 years and over!!No cognitive difficulty,C18104
+C18104_012E,int,Estimate!!Total!!Female,C18104
+C18104_013E,int,Estimate!!Total!!Female!!5 to 17 years,C18104
+C18104_014E,int,Estimate!!Total!!Female!!5 to 17 years!!With a cognitive difficulty,C18104
+C18104_015E,int,Estimate!!Total!!Female!!5 to 17 years!!No cognitive difficulty,C18104
+C18104_016E,int,Estimate!!Total!!Female!!18 to 64 years,C18104
+C18104_017E,int,Estimate!!Total!!Female!!18 to 64 years!!With a cognitive difficulty,C18104
+C18104_018E,int,Estimate!!Total!!Female!!18 to 64 years!!No cognitive difficulty,C18104
+C18104_019E,int,Estimate!!Total!!Female!!65 years and over,C18104
+C18104_020E,int,Estimate!!Total!!Female!!65 years and over!!With a cognitive difficulty,C18104
+C18104_021E,int,Estimate!!Total!!Female!!65 years and over!!No cognitive difficulty,C18104
+C18104_001M,int,Margin of Error!!Total,C18104
+C18104_002M,int,Margin of Error!!Total!!Male,C18104
+C18104_003M,int,Margin of Error!!Total!!Male!!5 to 17 years,C18104
+C18104_004M,int,Margin of Error!!Total!!Male!!5 to 17 years!!With a cognitive difficulty,C18104
+C18104_005M,int,Margin of Error!!Total!!Male!!5 to 17 years!!No cognitive difficulty,C18104
+C18104_006M,int,Margin of Error!!Total!!Male!!18 to 64 years,C18104
+C18104_007M,int,Margin of Error!!Total!!Male!!18 to 64 years!!With a cognitive difficulty,C18104
+C18104_008M,int,Margin of Error!!Total!!Male!!18 to 64 years!!No cognitive difficulty,C18104
+C18104_009M,int,Margin of Error!!Total!!Male!!65 years and over,C18104
+C18104_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With a cognitive difficulty,C18104
+C18104_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No cognitive difficulty,C18104
+C18104_012M,int,Margin of Error!!Total!!Female,C18104
+C18104_013M,int,Margin of Error!!Total!!Female!!5 to 17 years,C18104
+C18104_014M,int,Margin of Error!!Total!!Female!!5 to 17 years!!With a cognitive difficulty,C18104
+C18104_015M,int,Margin of Error!!Total!!Female!!5 to 17 years!!No cognitive difficulty,C18104
+C18104_016M,int,Margin of Error!!Total!!Female!!18 to 64 years,C18104
+C18104_017M,int,Margin of Error!!Total!!Female!!18 to 64 years!!With a cognitive difficulty,C18104
+C18104_018M,int,Margin of Error!!Total!!Female!!18 to 64 years!!No cognitive difficulty,C18104
+C18104_019M,int,Margin of Error!!Total!!Female!!65 years and over,C18104
+C18104_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With a cognitive difficulty,C18104
+C18104_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No cognitive difficulty,C18104
+C18104_001EA,string,Annotation of Estimate!!Total,C18104
+C18104_001MA,string,Annotation of Margin of Error!!Total,C18104
+C18104_002EA,string,Annotation of Estimate!!Total!!Male,C18104
+C18104_002MA,string,Annotation of Margin of Error!!Total!!Male,C18104
+C18104_003EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years,C18104
+C18104_003MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years,C18104
+C18104_004EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years!!With a cognitive difficulty,C18104
+C18104_004MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years!!With a cognitive difficulty,C18104
+C18104_005EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years!!No cognitive difficulty,C18104
+C18104_005MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years!!No cognitive difficulty,C18104
+C18104_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C18104
+C18104_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C18104
+C18104_007EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!With a cognitive difficulty,C18104
+C18104_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!With a cognitive difficulty,C18104
+C18104_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!No cognitive difficulty,C18104
+C18104_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!No cognitive difficulty,C18104
+C18104_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C18104
+C18104_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C18104
+C18104_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With a cognitive difficulty,C18104
+C18104_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With a cognitive difficulty,C18104
+C18104_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No cognitive difficulty,C18104
+C18104_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No cognitive difficulty,C18104
+C18104_012EA,string,Annotation of Estimate!!Total!!Female,C18104
+C18104_012MA,string,Annotation of Margin of Error!!Total!!Female,C18104
+C18104_013EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years,C18104
+C18104_013MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years,C18104
+C18104_014EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years!!With a cognitive difficulty,C18104
+C18104_014MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years!!With a cognitive difficulty,C18104
+C18104_015EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years!!No cognitive difficulty,C18104
+C18104_015MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years!!No cognitive difficulty,C18104
+C18104_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C18104
+C18104_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C18104
+C18104_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!With a cognitive difficulty,C18104
+C18104_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!With a cognitive difficulty,C18104
+C18104_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!No cognitive difficulty,C18104
+C18104_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!No cognitive difficulty,C18104
+C18104_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C18104
+C18104_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C18104
+C18104_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With a cognitive difficulty,C18104
+C18104_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With a cognitive difficulty,C18104
+C18104_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No cognitive difficulty,C18104
+C18104_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No cognitive difficulty,C18104

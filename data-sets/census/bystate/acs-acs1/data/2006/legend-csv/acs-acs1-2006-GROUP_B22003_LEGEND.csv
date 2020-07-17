@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B22003_001E,int,Estimate!!Total,B22003
+B22003_002E,int,Estimate!!Total!!Household received Food Stamps in the past 12 months,B22003
+B22003_003E,int,Estimate!!Total!!Household received Food Stamps in the past 12 months!!Income in the past 12 months below poverty level,B22003
+B22003_004E,int,Estimate!!Total!!Household received Food Stamps in the past 12 months!!Income in the past 12 months at or above poverty level,B22003
+B22003_005E,int,Estimate!!Total!!Household did not receive Food Stamps in the past 12 months,B22003
+B22003_006E,int,Estimate!!Total!!Household did not receive Food Stamps in the past 12 months!!Income in the past 12 months below poverty level,B22003
+B22003_007E,int,Estimate!!Total!!Household did not receive Food Stamps in the past 12 months!!Income in the past 12 months at or above poverty level,B22003
+B22003_001M,int,Margin of Error!!Total,B22003
+B22003_002M,int,Margin of Error!!Total!!Household received Food Stamps in the past 12 months,B22003
+B22003_003M,int,Margin of Error!!Total!!Household received Food Stamps in the past 12 months!!Income in the past 12 months below poverty level,B22003
+B22003_004M,int,Margin of Error!!Total!!Household received Food Stamps in the past 12 months!!Income in the past 12 months at or above poverty level,B22003
+B22003_005M,int,Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months,B22003
+B22003_006M,int,Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months!!Income in the past 12 months below poverty level,B22003
+B22003_007M,int,Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months!!Income in the past 12 months at or above poverty level,B22003
+B22003_001EA,string,Annotation of Estimate!!Total,B22003
+B22003_001MA,string,Annotation of Margin of Error!!Total,B22003
+B22003_002EA,string,Annotation of Estimate!!Total!!Household received Food Stamps in the past 12 months,B22003
+B22003_002MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps in the past 12 months,B22003
+B22003_003EA,string,Annotation of Estimate!!Total!!Household received Food Stamps in the past 12 months!!Income in the past 12 months below poverty level,B22003
+B22003_003MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps in the past 12 months!!Income in the past 12 months below poverty level,B22003
+B22003_004EA,string,Annotation of Estimate!!Total!!Household received Food Stamps in the past 12 months!!Income in the past 12 months at or above poverty level,B22003
+B22003_004MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps in the past 12 months!!Income in the past 12 months at or above poverty level,B22003
+B22003_005EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps in the past 12 months,B22003
+B22003_005MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months,B22003
+B22003_006EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps in the past 12 months!!Income in the past 12 months below poverty level,B22003
+B22003_006MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months!!Income in the past 12 months below poverty level,B22003
+B22003_007EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps in the past 12 months!!Income in the past 12 months at or above poverty level,B22003
+B22003_007MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months!!Income in the past 12 months at or above poverty level,B22003

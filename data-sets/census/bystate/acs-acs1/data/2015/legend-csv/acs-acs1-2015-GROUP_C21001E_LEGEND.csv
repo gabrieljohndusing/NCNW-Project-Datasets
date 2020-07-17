@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+C21001E_001E,int,Estimate!!Total,C21001E
+C21001E_002E,int,Estimate!!Total!!Male,C21001E
+C21001E_003E,int,Estimate!!Total!!Male!!18 to 64 years,C21001E
+C21001E_004E,int,Estimate!!Total!!Male!!18 to 64 years!!Veteran,C21001E
+C21001E_005E,int,Estimate!!Total!!Male!!18 to 64 years!!Nonveteran,C21001E
+C21001E_006E,int,Estimate!!Total!!Male!!65 years and over,C21001E
+C21001E_007E,int,Estimate!!Total!!Male!!65 years and over!!Veteran,C21001E
+C21001E_008E,int,Estimate!!Total!!Male!!65 years and over!!Nonveteran,C21001E
+C21001E_009E,int,Estimate!!Total!!Female,C21001E
+C21001E_010E,int,Estimate!!Total!!Female!!18 to 64 years,C21001E
+C21001E_011E,int,Estimate!!Total!!Female!!18 to 64 years!!Veteran,C21001E
+C21001E_012E,int,Estimate!!Total!!Female!!18 to 64 years!!Nonveteran,C21001E
+C21001E_013E,int,Estimate!!Total!!Female!!65 years and over,C21001E
+C21001E_014E,int,Estimate!!Total!!Female!!65 years and over!!Veteran,C21001E
+C21001E_015E,int,Estimate!!Total!!Female!!65 years and over!!Nonveteran,C21001E
+C21001E_001M,int,Margin of Error!!Total,C21001E
+C21001E_002M,int,Margin of Error!!Total!!Male,C21001E
+C21001E_003M,int,Margin of Error!!Total!!Male!!18 to 64 years,C21001E
+C21001E_004M,int,Margin of Error!!Total!!Male!!18 to 64 years!!Veteran,C21001E
+C21001E_005M,int,Margin of Error!!Total!!Male!!18 to 64 years!!Nonveteran,C21001E
+C21001E_006M,int,Margin of Error!!Total!!Male!!65 years and over,C21001E
+C21001E_007M,int,Margin of Error!!Total!!Male!!65 years and over!!Veteran,C21001E
+C21001E_008M,int,Margin of Error!!Total!!Male!!65 years and over!!Nonveteran,C21001E
+C21001E_009M,int,Margin of Error!!Total!!Female,C21001E
+C21001E_010M,int,Margin of Error!!Total!!Female!!18 to 64 years,C21001E
+C21001E_011M,int,Margin of Error!!Total!!Female!!18 to 64 years!!Veteran,C21001E
+C21001E_012M,int,Margin of Error!!Total!!Female!!18 to 64 years!!Nonveteran,C21001E
+C21001E_013M,int,Margin of Error!!Total!!Female!!65 years and over,C21001E
+C21001E_014M,int,Margin of Error!!Total!!Female!!65 years and over!!Veteran,C21001E
+C21001E_015M,int,Margin of Error!!Total!!Female!!65 years and over!!Nonveteran,C21001E
+C21001E_001EA,string,Annotation of Estimate!!Total,C21001E
+C21001E_001MA,string,Annotation of Margin of Error!!Total,C21001E
+C21001E_002EA,string,Annotation of Estimate!!Total!!Male,C21001E
+C21001E_002MA,string,Annotation of Margin of Error!!Total!!Male,C21001E
+C21001E_003EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C21001E
+C21001E_003MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C21001E
+C21001E_004EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!Veteran,C21001E
+C21001E_004MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!Veteran,C21001E
+C21001E_005EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!Nonveteran,C21001E
+C21001E_005MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!Nonveteran,C21001E
+C21001E_006EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C21001E
+C21001E_006MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C21001E
+C21001E_007EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!Veteran,C21001E
+C21001E_007MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!Veteran,C21001E
+C21001E_008EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!Nonveteran,C21001E
+C21001E_008MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!Nonveteran,C21001E
+C21001E_009EA,string,Annotation of Estimate!!Total!!Female,C21001E
+C21001E_009MA,string,Annotation of Margin of Error!!Total!!Female,C21001E
+C21001E_010EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C21001E
+C21001E_010MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C21001E
+C21001E_011EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!Veteran,C21001E
+C21001E_011MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!Veteran,C21001E
+C21001E_012EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!Nonveteran,C21001E
+C21001E_012MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!Nonveteran,C21001E
+C21001E_013EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C21001E
+C21001E_013MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C21001E
+C21001E_014EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!Veteran,C21001E
+C21001E_014MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!Veteran,C21001E
+C21001E_015EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!Nonveteran,C21001E
+C21001E_015MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!Nonveteran,C21001E

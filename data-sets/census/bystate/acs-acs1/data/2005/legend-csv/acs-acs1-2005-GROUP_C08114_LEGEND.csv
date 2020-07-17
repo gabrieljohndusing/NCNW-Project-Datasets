@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+C08114_001E,int,Estimate!!Aggregate travel time to work (in minutes),C08114
+C08114_002E,int,Estimate!!Aggregate travel time to work (in minutes)!!Speak only English,C08114
+C08114_003E,int,Estimate!!Aggregate travel time to work (in minutes)!!Speak language other than English,C08114
+C08114_004E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Speak language other than English!!Speak English ""very well""",C08114
+C08114_005E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Speak language other than English!!Speak English less than ""very well""",C08114
+C08114_001M,int,Margin of Error!!Aggregate travel time to work (in minutes),C08114
+C08114_002M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Speak only English,C08114
+C08114_003M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Speak language other than English,C08114
+C08114_004M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Speak language other than English!!Speak English ""very well""",C08114
+C08114_005M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Speak language other than English!!Speak English less than ""very well""",C08114
+C08114_001EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes),C08114
+C08114_001MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes),C08114
+C08114_002EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Speak only English,C08114
+C08114_002MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Speak only English,C08114
+C08114_003EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Speak language other than English,C08114
+C08114_003MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Speak language other than English,C08114
+C08114_004EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Speak language other than English!!Speak English ""very well""",C08114
+C08114_004MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Speak language other than English!!Speak English ""very well""",C08114
+C08114_005EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Speak language other than English!!Speak English less than ""very well""",C08114
+C08114_005MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Speak language other than English!!Speak English less than ""very well""",C08114

@@ -1,0 +1,69 @@
+VARIABLE,TYPE,LABEL,GROUP
+B27020_001E,int,Estimate!!Total,B27020
+B27020_002E,int,Estimate!!Total!!Native Born,B27020
+B27020_003E,int,Estimate!!Total!!Native Born!!With health insurance coverage,B27020
+B27020_004E,int,Estimate!!Total!!Native Born!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_005E,int,Estimate!!Total!!Native Born!!With health insurance coverage!!With public health coverage,B27020
+B27020_006E,int,Estimate!!Total!!Native Born!!No health insurance coverage,B27020
+B27020_007E,int,Estimate!!Total!!Foreign Born,B27020
+B27020_008E,int,Estimate!!Total!!Foreign Born!!Naturalized,B27020
+B27020_009E,int,Estimate!!Total!!Foreign Born!!Naturalized!!With health insurance coverage,B27020
+B27020_010E,int,Estimate!!Total!!Foreign Born!!Naturalized!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_011E,int,Estimate!!Total!!Foreign Born!!Naturalized!!With health insurance coverage!!With public health coverage,B27020
+B27020_012E,int,Estimate!!Total!!Foreign Born!!Naturalized!!No health insurance coverage,B27020
+B27020_013E,int,Estimate!!Total!!Foreign Born!!Noncitizen,B27020
+B27020_014E,int,Estimate!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage,B27020
+B27020_015E,int,Estimate!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_016E,int,Estimate!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage!!With public health coverage,B27020
+B27020_017E,int,Estimate!!Total!!Foreign Born!!Noncitizen!!No health insurance coverage,B27020
+B27020_001M,int,Margin of Error!!Total,B27020
+B27020_002M,int,Margin of Error!!Total!!Native Born,B27020
+B27020_003M,int,Margin of Error!!Total!!Native Born!!With health insurance coverage,B27020
+B27020_004M,int,Margin of Error!!Total!!Native Born!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_005M,int,Margin of Error!!Total!!Native Born!!With health insurance coverage!!With public health coverage,B27020
+B27020_006M,int,Margin of Error!!Total!!Native Born!!No health insurance coverage,B27020
+B27020_007M,int,Margin of Error!!Total!!Foreign Born,B27020
+B27020_008M,int,Margin of Error!!Total!!Foreign Born!!Naturalized,B27020
+B27020_009M,int,Margin of Error!!Total!!Foreign Born!!Naturalized!!With health insurance coverage,B27020
+B27020_010M,int,Margin of Error!!Total!!Foreign Born!!Naturalized!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_011M,int,Margin of Error!!Total!!Foreign Born!!Naturalized!!With health insurance coverage!!With public health coverage,B27020
+B27020_012M,int,Margin of Error!!Total!!Foreign Born!!Naturalized!!No health insurance coverage,B27020
+B27020_013M,int,Margin of Error!!Total!!Foreign Born!!Noncitizen,B27020
+B27020_014M,int,Margin of Error!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage,B27020
+B27020_015M,int,Margin of Error!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_016M,int,Margin of Error!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage!!With public health coverage,B27020
+B27020_017M,int,Margin of Error!!Total!!Foreign Born!!Noncitizen!!No health insurance coverage,B27020
+B27020_001EA,string,Annotation of Estimate!!Total,B27020
+B27020_001MA,string,Annotation of Margin of Error!!Total,B27020
+B27020_002EA,string,Annotation of Estimate!!Total!!Native Born,B27020
+B27020_002MA,string,Annotation of Margin of Error!!Total!!Native Born,B27020
+B27020_003EA,string,Annotation of Estimate!!Total!!Native Born!!With health insurance coverage,B27020
+B27020_003MA,string,Annotation of Margin of Error!!Total!!Native Born!!With health insurance coverage,B27020
+B27020_004EA,string,Annotation of Estimate!!Total!!Native Born!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_004MA,string,Annotation of Margin of Error!!Total!!Native Born!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_005EA,string,Annotation of Estimate!!Total!!Native Born!!With health insurance coverage!!With public health coverage,B27020
+B27020_005MA,string,Annotation of Margin of Error!!Total!!Native Born!!With health insurance coverage!!With public health coverage,B27020
+B27020_006EA,string,Annotation of Estimate!!Total!!Native Born!!No health insurance coverage,B27020
+B27020_006MA,string,Annotation of Margin of Error!!Total!!Native Born!!No health insurance coverage,B27020
+B27020_007EA,string,Annotation of Estimate!!Total!!Foreign Born,B27020
+B27020_007MA,string,Annotation of Margin of Error!!Total!!Foreign Born,B27020
+B27020_008EA,string,Annotation of Estimate!!Total!!Foreign Born!!Naturalized,B27020
+B27020_008MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Naturalized,B27020
+B27020_009EA,string,Annotation of Estimate!!Total!!Foreign Born!!Naturalized!!With health insurance coverage,B27020
+B27020_009MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Naturalized!!With health insurance coverage,B27020
+B27020_010EA,string,Annotation of Estimate!!Total!!Foreign Born!!Naturalized!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_010MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Naturalized!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_011EA,string,Annotation of Estimate!!Total!!Foreign Born!!Naturalized!!With health insurance coverage!!With public health coverage,B27020
+B27020_011MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Naturalized!!With health insurance coverage!!With public health coverage,B27020
+B27020_012EA,string,Annotation of Estimate!!Total!!Foreign Born!!Naturalized!!No health insurance coverage,B27020
+B27020_012MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Naturalized!!No health insurance coverage,B27020
+B27020_013EA,string,Annotation of Estimate!!Total!!Foreign Born!!Noncitizen,B27020
+B27020_013MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Noncitizen,B27020
+B27020_014EA,string,Annotation of Estimate!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage,B27020
+B27020_014MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage,B27020
+B27020_015EA,string,Annotation of Estimate!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_015MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage!!With private health insurance coverage,B27020
+B27020_016EA,string,Annotation of Estimate!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage!!With public health coverage,B27020
+B27020_016MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Noncitizen!!With health insurance coverage!!With public health coverage,B27020
+B27020_017EA,string,Annotation of Estimate!!Total!!Foreign Born!!Noncitizen!!No health insurance coverage,B27020
+B27020_017MA,string,Annotation of Margin of Error!!Total!!Foreign Born!!Noncitizen!!No health insurance coverage,B27020

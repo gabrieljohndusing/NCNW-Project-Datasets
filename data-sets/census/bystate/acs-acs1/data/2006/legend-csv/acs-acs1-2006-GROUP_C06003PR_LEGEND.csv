@@ -1,0 +1,53 @@
+VARIABLE,TYPE,LABEL,GROUP
+C06003PR_001E,int,Estimate!!Total,C06003PR
+C06003PR_002E,int,Estimate!!Total!!Male,C06003PR
+C06003PR_003E,int,Estimate!!Total!!Female,C06003PR
+C06003PR_004E,int,Estimate!!Total!!Born in Puerto Rico,C06003PR
+C06003PR_005E,int,Estimate!!Total!!Born in Puerto Rico!!Male,C06003PR
+C06003PR_006E,int,Estimate!!Total!!Born in Puerto Rico!!Female,C06003PR
+C06003PR_007E,int,Estimate!!Total!!Born in the United States,C06003PR
+C06003PR_008E,int,Estimate!!Total!!Born in the United States!!Male,C06003PR
+C06003PR_009E,int,Estimate!!Total!!Born in the United States!!Female,C06003PR
+C06003PR_010E,int,Estimate!!Total!!Native; born elsewhere,C06003PR
+C06003PR_011E,int,Estimate!!Total!!Native; born elsewhere!!Male,C06003PR
+C06003PR_012E,int,Estimate!!Total!!Native; born elsewhere!!Female,C06003PR
+C06003PR_013E,int,Estimate!!Total!!Foreign born,C06003PR
+C06003PR_001M,int,Margin of Error!!Total,C06003PR
+C06003PR_002M,int,Margin of Error!!Total!!Male,C06003PR
+C06003PR_003M,int,Margin of Error!!Total!!Female,C06003PR
+C06003PR_004M,int,Margin of Error!!Total!!Born in Puerto Rico,C06003PR
+C06003PR_005M,int,Margin of Error!!Total!!Born in Puerto Rico!!Male,C06003PR
+C06003PR_006M,int,Margin of Error!!Total!!Born in Puerto Rico!!Female,C06003PR
+C06003PR_007M,int,Margin of Error!!Total!!Born in the United States,C06003PR
+C06003PR_008M,int,Margin of Error!!Total!!Born in the United States!!Male,C06003PR
+C06003PR_009M,int,Margin of Error!!Total!!Born in the United States!!Female,C06003PR
+C06003PR_010M,int,Margin of Error!!Total!!Native; born elsewhere,C06003PR
+C06003PR_011M,int,Margin of Error!!Total!!Native; born elsewhere!!Male,C06003PR
+C06003PR_012M,int,Margin of Error!!Total!!Native; born elsewhere!!Female,C06003PR
+C06003PR_013M,int,Margin of Error!!Total!!Foreign born,C06003PR
+C06003PR_001EA,string,Annotation of Estimate!!Total,C06003PR
+C06003PR_001MA,string,Annotation of Margin of Error!!Total,C06003PR
+C06003PR_002EA,string,Annotation of Estimate!!Total!!Male,C06003PR
+C06003PR_002MA,string,Annotation of Margin of Error!!Total!!Male,C06003PR
+C06003PR_003EA,string,Annotation of Estimate!!Total!!Female,C06003PR
+C06003PR_003MA,string,Annotation of Margin of Error!!Total!!Female,C06003PR
+C06003PR_004EA,string,Annotation of Estimate!!Total!!Born in Puerto Rico,C06003PR
+C06003PR_004MA,string,Annotation of Margin of Error!!Total!!Born in Puerto Rico,C06003PR
+C06003PR_005EA,string,Annotation of Estimate!!Total!!Born in Puerto Rico!!Male,C06003PR
+C06003PR_005MA,string,Annotation of Margin of Error!!Total!!Born in Puerto Rico!!Male,C06003PR
+C06003PR_006EA,string,Annotation of Estimate!!Total!!Born in Puerto Rico!!Female,C06003PR
+C06003PR_006MA,string,Annotation of Margin of Error!!Total!!Born in Puerto Rico!!Female,C06003PR
+C06003PR_007EA,string,Annotation of Estimate!!Total!!Born in the United States,C06003PR
+C06003PR_007MA,string,Annotation of Margin of Error!!Total!!Born in the United States,C06003PR
+C06003PR_008EA,string,Annotation of Estimate!!Total!!Born in the United States!!Male,C06003PR
+C06003PR_008MA,string,Annotation of Margin of Error!!Total!!Born in the United States!!Male,C06003PR
+C06003PR_009EA,string,Annotation of Estimate!!Total!!Born in the United States!!Female,C06003PR
+C06003PR_009MA,string,Annotation of Margin of Error!!Total!!Born in the United States!!Female,C06003PR
+C06003PR_010EA,string,Annotation of Estimate!!Total!!Native; born elsewhere,C06003PR
+C06003PR_010MA,string,Annotation of Margin of Error!!Total!!Native; born elsewhere,C06003PR
+C06003PR_011EA,string,Annotation of Estimate!!Total!!Native; born elsewhere!!Male,C06003PR
+C06003PR_011MA,string,Annotation of Margin of Error!!Total!!Native; born elsewhere!!Male,C06003PR
+C06003PR_012EA,string,Annotation of Estimate!!Total!!Native; born elsewhere!!Female,C06003PR
+C06003PR_012MA,string,Annotation of Margin of Error!!Total!!Native; born elsewhere!!Female,C06003PR
+C06003PR_013EA,string,Annotation of Estimate!!Total!!Foreign born,C06003PR
+C06003PR_013MA,string,Annotation of Margin of Error!!Total!!Foreign born,C06003PR

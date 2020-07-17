@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27002_001E,int,Estimate!!Total,C27002
+C27002_002E,int,Estimate!!Total!!Male,C27002
+C27002_003E,int,Estimate!!Total!!Male!!Under 18 years,C27002
+C27002_004E,int,Estimate!!Total!!Male!!Under 18 years!!With private health insurance coverage,C27002
+C27002_005E,int,Estimate!!Total!!Male!!Under 18 years!!Without private health insurance coverage,C27002
+C27002_006E,int,Estimate!!Total!!Male!!18 to 64 years,C27002
+C27002_007E,int,Estimate!!Total!!Male!!18 to 64 years!!With private health insurance coverage,C27002
+C27002_008E,int,Estimate!!Total!!Male!!18 to 64 years!!Without private health insurance coverage,C27002
+C27002_009E,int,Estimate!!Total!!Male!!65 years and over,C27002
+C27002_010E,int,Estimate!!Total!!Male!!65 years and over!!With private health insurance coverage,C27002
+C27002_011E,int,Estimate!!Total!!Male!!65 years and over!!Without private health insurance coverage,C27002
+C27002_012E,int,Estimate!!Total!!Female,C27002
+C27002_013E,int,Estimate!!Total!!Female!!Under 18 years,C27002
+C27002_014E,int,Estimate!!Total!!Female!!Under 18 years!!With private health insurance coverage,C27002
+C27002_015E,int,Estimate!!Total!!Female!!Under 18 years!!Without private health insurance coverage,C27002
+C27002_016E,int,Estimate!!Total!!Female!!18 to 64 years,C27002
+C27002_017E,int,Estimate!!Total!!Female!!18 to 64 years!!With private health insurance coverage,C27002
+C27002_018E,int,Estimate!!Total!!Female!!18 to 64 years!!Without private health insurance coverage,C27002
+C27002_019E,int,Estimate!!Total!!Female!!65 years and over,C27002
+C27002_020E,int,Estimate!!Total!!Female!!65 years and over!!With private health insurance coverage,C27002
+C27002_021E,int,Estimate!!Total!!Female!!65 years and over!!Without private health insurance coverage,C27002
+C27002_001M,int,Margin of Error!!Total,C27002
+C27002_002M,int,Margin of Error!!Total!!Male,C27002
+C27002_003M,int,Margin of Error!!Total!!Male!!Under 18 years,C27002
+C27002_004M,int,Margin of Error!!Total!!Male!!Under 18 years!!With private health insurance coverage,C27002
+C27002_005M,int,Margin of Error!!Total!!Male!!Under 18 years!!Without private health insurance coverage,C27002
+C27002_006M,int,Margin of Error!!Total!!Male!!18 to 64 years,C27002
+C27002_007M,int,Margin of Error!!Total!!Male!!18 to 64 years!!With private health insurance coverage,C27002
+C27002_008M,int,Margin of Error!!Total!!Male!!18 to 64 years!!Without private health insurance coverage,C27002
+C27002_009M,int,Margin of Error!!Total!!Male!!65 years and over,C27002
+C27002_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With private health insurance coverage,C27002
+C27002_011M,int,Margin of Error!!Total!!Male!!65 years and over!!Without private health insurance coverage,C27002
+C27002_012M,int,Margin of Error!!Total!!Female,C27002
+C27002_013M,int,Margin of Error!!Total!!Female!!Under 18 years,C27002
+C27002_014M,int,Margin of Error!!Total!!Female!!Under 18 years!!With private health insurance coverage,C27002
+C27002_015M,int,Margin of Error!!Total!!Female!!Under 18 years!!Without private health insurance coverage,C27002
+C27002_016M,int,Margin of Error!!Total!!Female!!18 to 64 years,C27002
+C27002_017M,int,Margin of Error!!Total!!Female!!18 to 64 years!!With private health insurance coverage,C27002
+C27002_018M,int,Margin of Error!!Total!!Female!!18 to 64 years!!Without private health insurance coverage,C27002
+C27002_019M,int,Margin of Error!!Total!!Female!!65 years and over,C27002
+C27002_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With private health insurance coverage,C27002
+C27002_021M,int,Margin of Error!!Total!!Female!!65 years and over!!Without private health insurance coverage,C27002
+C27002_001EA,string,Annotation of Estimate!!Total,C27002
+C27002_001MA,string,Annotation of Margin of Error!!Total,C27002
+C27002_002EA,string,Annotation of Estimate!!Total!!Male,C27002
+C27002_002MA,string,Annotation of Margin of Error!!Total!!Male,C27002
+C27002_003EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years,C27002
+C27002_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years,C27002
+C27002_004EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!With private health insurance coverage,C27002
+C27002_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!With private health insurance coverage,C27002
+C27002_005EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!Without private health insurance coverage,C27002
+C27002_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!Without private health insurance coverage,C27002
+C27002_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C27002
+C27002_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C27002
+C27002_007EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!With private health insurance coverage,C27002
+C27002_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!With private health insurance coverage,C27002
+C27002_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!Without private health insurance coverage,C27002
+C27002_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!Without private health insurance coverage,C27002
+C27002_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C27002
+C27002_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C27002
+C27002_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With private health insurance coverage,C27002
+C27002_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With private health insurance coverage,C27002
+C27002_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!Without private health insurance coverage,C27002
+C27002_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!Without private health insurance coverage,C27002
+C27002_012EA,string,Annotation of Estimate!!Total!!Female,C27002
+C27002_012MA,string,Annotation of Margin of Error!!Total!!Female,C27002
+C27002_013EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years,C27002
+C27002_013MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years,C27002
+C27002_014EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!With private health insurance coverage,C27002
+C27002_014MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!With private health insurance coverage,C27002
+C27002_015EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!Without private health insurance coverage,C27002
+C27002_015MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!Without private health insurance coverage,C27002
+C27002_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C27002
+C27002_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C27002
+C27002_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!With private health insurance coverage,C27002
+C27002_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!With private health insurance coverage,C27002
+C27002_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!Without private health insurance coverage,C27002
+C27002_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!Without private health insurance coverage,C27002
+C27002_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C27002
+C27002_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C27002
+C27002_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With private health insurance coverage,C27002
+C27002_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With private health insurance coverage,C27002
+C27002_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!Without private health insurance coverage,C27002
+C27002_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!Without private health insurance coverage,C27002
