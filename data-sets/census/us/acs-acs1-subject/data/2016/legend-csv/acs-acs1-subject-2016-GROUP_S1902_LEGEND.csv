@@ -1,0 +1,217 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1902_C01_001E,int,Total!!Estimate!!All households,S1902
+S1902_C01_002E,int,Total!!Estimate!!All households!!With earnings,S1902
+S1902_C01_003E,int,"Total!!Estimate!!All households!!With interest, dividends, or net rental income",S1902
+S1902_C01_004E,int,Total!!Estimate!!All households!!With Social Security income,S1902
+S1902_C01_005E,int,Total!!Estimate!!All households!!With Supplemental Security Income (SSI),S1902
+S1902_C01_006E,int,Total!!Estimate!!All households!!With cash public assistance income,S1902
+S1902_C01_007E,int,Total!!Estimate!!All households!!With retirement income,S1902
+S1902_C01_008E,int,Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families,S1902
+S1902_C01_009E,int,Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers,S1902
+S1902_C01_010E,int,Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker,S1902
+S1902_C01_011E,int,"Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, husband and wife worked",S1902
+S1902_C01_012E,int,"Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other",S1902
+S1902_C01_013E,int,"Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, husband and wife worked",S1902
+S1902_C01_014E,int,"Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other",S1902
+S1902_C01_015E,int,Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population,S1902
+S1902_C01_016E,int,Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!White,S1902
+S1902_C01_017E,int,Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Black or African American,S1902
+S1902_C01_018E,int,Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!American Indian and Alaska Native,S1902
+S1902_C01_019E,int,Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Asian,S1902
+S1902_C01_020E,int,Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,S1902
+S1902_C01_021E,int,Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Some other race,S1902
+S1902_C01_022E,int,Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races,S1902
+S1902_C01_023E,int,Total!!Estimate!!Hispanic or Latino origin (of any race),S1902
+S1902_C01_024E,int,"Total!!Estimate!!White alone, not Hispanic or Latino",S1902
+S1902_C01_025E,int,Total!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1902
+S1902_C01_026E,int,Total!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1902
+S1902_C01_027E,int,Total!!Estimate!!PERCENT ALLOCATED!!Individual income in the past 12 months,S1902
+S1902_C02_001E,int,Mean income (dollars)!!Estimate!!All households,S1902
+S1902_C02_002E,int,Mean income (dollars)!!Estimate!!All households!!With earnings,S1902
+S1902_C02_003E,int,"Mean income (dollars)!!Estimate!!All households!!With interest, dividends, or net rental income",S1902
+S1902_C02_004E,int,Mean income (dollars)!!Estimate!!All households!!With Social Security income,S1902
+S1902_C02_005E,int,Mean income (dollars)!!Estimate!!All households!!With Supplemental Security Income (SSI),S1902
+S1902_C02_006E,int,Mean income (dollars)!!Estimate!!All households!!With cash public assistance income,S1902
+S1902_C02_007E,int,Mean income (dollars)!!Estimate!!All households!!With retirement income,S1902
+S1902_C02_008E,int,Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families,S1902
+S1902_C02_009E,int,Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers,S1902
+S1902_C02_010E,int,Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker,S1902
+S1902_C02_011E,int,"Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, husband and wife worked",S1902
+S1902_C02_012E,int,"Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other",S1902
+S1902_C02_013E,int,"Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, husband and wife worked",S1902
+S1902_C02_014E,int,"Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other",S1902
+S1902_C02_015E,int,Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population,S1902
+S1902_C02_016E,int,Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!White,S1902
+S1902_C02_017E,int,Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Black or African American,S1902
+S1902_C02_018E,int,Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!American Indian and Alaska Native,S1902
+S1902_C02_019E,int,Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Asian,S1902
+S1902_C02_020E,int,Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,S1902
+S1902_C02_021E,int,Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Some other race,S1902
+S1902_C02_022E,int,Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races,S1902
+S1902_C02_023E,int,Mean income (dollars)!!Estimate!!Hispanic or Latino origin (of any race),S1902
+S1902_C02_024E,int,"Mean income (dollars)!!Estimate!!White alone, not Hispanic or Latino",S1902
+S1902_C02_025E,int,Mean income (dollars)!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1902
+S1902_C02_026E,int,Mean income (dollars)!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1902
+S1902_C02_027E,int,Mean income (dollars)!!Estimate!!PERCENT ALLOCATED!!Individual income in the past 12 months,S1902
+S1902_C01_001M,int,Total!!Margin of Error!!All households,S1902
+S1902_C01_002M,int,Total!!Margin of Error!!All households!!With earnings,S1902
+S1902_C01_003M,int,"Total!!Margin of Error!!All households!!With interest, dividends, or net rental income",S1902
+S1902_C01_004M,int,Total!!Margin of Error!!All households!!With Social Security income,S1902
+S1902_C01_005M,int,Total!!Margin of Error!!All households!!With Supplemental Security Income (SSI),S1902
+S1902_C01_006M,int,Total!!Margin of Error!!All households!!With cash public assistance income,S1902
+S1902_C01_007M,int,Total!!Margin of Error!!All households!!With retirement income,S1902
+S1902_C01_008M,int,Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families,S1902
+S1902_C01_009M,int,Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers,S1902
+S1902_C01_010M,int,Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker,S1902
+S1902_C01_011M,int,"Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, husband and wife worked",S1902
+S1902_C01_012M,int,"Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other",S1902
+S1902_C01_013M,int,"Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, husband and wife worked",S1902
+S1902_C01_014M,int,"Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other",S1902
+S1902_C01_015M,int,Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population,S1902
+S1902_C01_016M,int,Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!White,S1902
+S1902_C01_017M,int,Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Black or African American,S1902
+S1902_C01_018M,int,Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!American Indian and Alaska Native,S1902
+S1902_C01_019M,int,Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Asian,S1902
+S1902_C01_020M,int,Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,S1902
+S1902_C01_021M,int,Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Some other race,S1902
+S1902_C01_022M,int,Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races,S1902
+S1902_C01_023M,int,Total!!Margin of Error!!Hispanic or Latino origin (of any race),S1902
+S1902_C01_024M,int,"Total!!Margin of Error!!White alone, not Hispanic or Latino",S1902
+S1902_C01_025M,int,Total!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1902
+S1902_C01_026M,int,Total!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1902
+S1902_C01_027M,int,Total!!Margin of Error!!PERCENT ALLOCATED!!Individual income in the past 12 months,S1902
+S1902_C02_001M,int,Mean income (dollars)!!Margin of Error!!All households,S1902
+S1902_C02_002M,int,Mean income (dollars)!!Margin of Error!!All households!!With earnings,S1902
+S1902_C02_003M,int,"Mean income (dollars)!!Margin of Error!!All households!!With interest, dividends, or net rental income",S1902
+S1902_C02_004M,int,Mean income (dollars)!!Margin of Error!!All households!!With Social Security income,S1902
+S1902_C02_005M,int,Mean income (dollars)!!Margin of Error!!All households!!With Supplemental Security Income (SSI),S1902
+S1902_C02_006M,int,Mean income (dollars)!!Margin of Error!!All households!!With cash public assistance income,S1902
+S1902_C02_007M,int,Mean income (dollars)!!Margin of Error!!All households!!With retirement income,S1902
+S1902_C02_008M,int,Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families,S1902
+S1902_C02_009M,int,Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers,S1902
+S1902_C02_010M,int,Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker,S1902
+S1902_C02_011M,int,"Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, husband and wife worked",S1902
+S1902_C02_012M,int,"Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other",S1902
+S1902_C02_013M,int,"Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, husband and wife worked",S1902
+S1902_C02_014M,int,"Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other",S1902
+S1902_C02_015M,int,Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population,S1902
+S1902_C02_016M,int,Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!White,S1902
+S1902_C02_017M,int,Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Black or African American,S1902
+S1902_C02_018M,int,Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!American Indian and Alaska Native,S1902
+S1902_C02_019M,int,Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Asian,S1902
+S1902_C02_020M,int,Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,S1902
+S1902_C02_021M,int,Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Some other race,S1902
+S1902_C02_022M,int,Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races,S1902
+S1902_C02_023M,int,Mean income (dollars)!!Margin of Error!!Hispanic or Latino origin (of any race),S1902
+S1902_C02_024M,int,"Mean income (dollars)!!Margin of Error!!White alone, not Hispanic or Latino",S1902
+S1902_C02_025M,int,Mean income (dollars)!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1902
+S1902_C02_026M,int,Mean income (dollars)!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1902
+S1902_C02_027M,int,Mean income (dollars)!!Margin of Error!!PERCENT ALLOCATED!!Individual income in the past 12 months,S1902
+S1902_C01_001EA,string,Annotation of Total!!Estimate!!All households,S1902
+S1902_C01_001MA,string,Annotation of Total!!Margin of Error!!All households,S1902
+S1902_C01_002EA,string,Annotation of Total!!Estimate!!All households!!With earnings,S1902
+S1902_C01_002MA,string,Annotation of Total!!Margin of Error!!All households!!With earnings,S1902
+S1902_C01_003EA,string,"Annotation of Total!!Estimate!!All households!!With interest, dividends, or net rental income",S1902
+S1902_C01_003MA,string,"Annotation of Total!!Margin of Error!!All households!!With interest, dividends, or net rental income",S1902
+S1902_C01_004EA,string,Annotation of Total!!Estimate!!All households!!With Social Security income,S1902
+S1902_C01_004MA,string,Annotation of Total!!Margin of Error!!All households!!With Social Security income,S1902
+S1902_C01_005EA,string,Annotation of Total!!Estimate!!All households!!With Supplemental Security Income (SSI),S1902
+S1902_C01_005MA,string,Annotation of Total!!Margin of Error!!All households!!With Supplemental Security Income (SSI),S1902
+S1902_C01_006EA,string,Annotation of Total!!Estimate!!All households!!With cash public assistance income,S1902
+S1902_C01_006MA,string,Annotation of Total!!Margin of Error!!All households!!With cash public assistance income,S1902
+S1902_C01_007EA,string,Annotation of Total!!Estimate!!All households!!With retirement income,S1902
+S1902_C01_007MA,string,Annotation of Total!!Margin of Error!!All households!!With retirement income,S1902
+S1902_C01_008EA,string,Annotation of Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families,S1902
+S1902_C01_008MA,string,Annotation of Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families,S1902
+S1902_C01_009EA,string,Annotation of Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers,S1902
+S1902_C01_009MA,string,Annotation of Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers,S1902
+S1902_C01_010EA,string,Annotation of Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker,S1902
+S1902_C01_010MA,string,Annotation of Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker,S1902
+S1902_C01_011EA,string,"Annotation of Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, husband and wife worked",S1902
+S1902_C01_011MA,string,"Annotation of Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, husband and wife worked",S1902
+S1902_C01_012EA,string,"Annotation of Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other",S1902
+S1902_C01_012MA,string,"Annotation of Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other",S1902
+S1902_C01_013EA,string,"Annotation of Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, husband and wife worked",S1902
+S1902_C01_013MA,string,"Annotation of Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, husband and wife worked",S1902
+S1902_C01_014EA,string,"Annotation of Total!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other",S1902
+S1902_C01_014MA,string,"Annotation of Total!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other",S1902
+S1902_C01_015EA,string,Annotation of Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population,S1902
+S1902_C01_015MA,string,Annotation of Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population,S1902
+S1902_C01_016EA,string,Annotation of Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!White,S1902
+S1902_C01_016MA,string,Annotation of Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!White,S1902
+S1902_C01_017EA,string,Annotation of Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Black or African American,S1902
+S1902_C01_017MA,string,Annotation of Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Black or African American,S1902
+S1902_C01_018EA,string,Annotation of Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!American Indian and Alaska Native,S1902
+S1902_C01_018MA,string,Annotation of Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!American Indian and Alaska Native,S1902
+S1902_C01_019EA,string,Annotation of Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Asian,S1902
+S1902_C01_019MA,string,Annotation of Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Asian,S1902
+S1902_C01_020EA,string,Annotation of Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,S1902
+S1902_C01_020MA,string,Annotation of Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,S1902
+S1902_C01_021EA,string,Annotation of Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Some other race,S1902
+S1902_C01_021MA,string,Annotation of Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Some other race,S1902
+S1902_C01_022EA,string,Annotation of Total!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races,S1902
+S1902_C01_022MA,string,Annotation of Total!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races,S1902
+S1902_C01_023EA,string,Annotation of Total!!Estimate!!Hispanic or Latino origin (of any race),S1902
+S1902_C01_023MA,string,Annotation of Total!!Margin of Error!!Hispanic or Latino origin (of any race),S1902
+S1902_C01_024EA,string,"Annotation of Total!!Estimate!!White alone, not Hispanic or Latino",S1902
+S1902_C01_024MA,string,"Annotation of Total!!Margin of Error!!White alone, not Hispanic or Latino",S1902
+S1902_C01_025EA,string,Annotation of Total!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1902
+S1902_C01_025MA,string,Annotation of Total!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1902
+S1902_C01_026EA,string,Annotation of Total!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1902
+S1902_C01_026MA,string,Annotation of Total!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1902
+S1902_C01_027EA,string,Annotation of Total!!Estimate!!PERCENT ALLOCATED!!Individual income in the past 12 months,S1902
+S1902_C01_027MA,string,Annotation of Total!!Margin of Error!!PERCENT ALLOCATED!!Individual income in the past 12 months,S1902
+S1902_C02_001EA,string,Annotation of Mean income (dollars)!!Estimate!!All households,S1902
+S1902_C02_001MA,string,Annotation of Mean income (dollars)!!Margin of Error!!All households,S1902
+S1902_C02_002EA,string,Annotation of Mean income (dollars)!!Estimate!!All households!!With earnings,S1902
+S1902_C02_002MA,string,Annotation of Mean income (dollars)!!Margin of Error!!All households!!With earnings,S1902
+S1902_C02_003EA,string,"Annotation of Mean income (dollars)!!Estimate!!All households!!With interest, dividends, or net rental income",S1902
+S1902_C02_003MA,string,"Annotation of Mean income (dollars)!!Margin of Error!!All households!!With interest, dividends, or net rental income",S1902
+S1902_C02_004EA,string,Annotation of Mean income (dollars)!!Estimate!!All households!!With Social Security income,S1902
+S1902_C02_004MA,string,Annotation of Mean income (dollars)!!Margin of Error!!All households!!With Social Security income,S1902
+S1902_C02_005EA,string,Annotation of Mean income (dollars)!!Estimate!!All households!!With Supplemental Security Income (SSI),S1902
+S1902_C02_005MA,string,Annotation of Mean income (dollars)!!Margin of Error!!All households!!With Supplemental Security Income (SSI),S1902
+S1902_C02_006EA,string,Annotation of Mean income (dollars)!!Estimate!!All households!!With cash public assistance income,S1902
+S1902_C02_006MA,string,Annotation of Mean income (dollars)!!Margin of Error!!All households!!With cash public assistance income,S1902
+S1902_C02_007EA,string,Annotation of Mean income (dollars)!!Estimate!!All households!!With retirement income,S1902
+S1902_C02_007MA,string,Annotation of Mean income (dollars)!!Margin of Error!!All households!!With retirement income,S1902
+S1902_C02_008EA,string,Annotation of Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families,S1902
+S1902_C02_008MA,string,Annotation of Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families,S1902
+S1902_C02_009EA,string,Annotation of Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers,S1902
+S1902_C02_009MA,string,Annotation of Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!No workers,S1902
+S1902_C02_010EA,string,Annotation of Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker,S1902
+S1902_C02_010MA,string,Annotation of Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!1 worker,S1902
+S1902_C02_011EA,string,"Annotation of Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, husband and wife worked",S1902
+S1902_C02_011MA,string,"Annotation of Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, husband and wife worked",S1902
+S1902_C02_012EA,string,"Annotation of Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other",S1902
+S1902_C02_012MA,string,"Annotation of Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!2 workers, other",S1902
+S1902_C02_013EA,string,"Annotation of Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, husband and wife worked",S1902
+S1902_C02_013MA,string,"Annotation of Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, husband and wife worked",S1902
+S1902_C02_014EA,string,"Annotation of Mean income (dollars)!!Estimate!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other",S1902
+S1902_C02_014MA,string,"Annotation of Mean income (dollars)!!Margin of Error!!FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY!!All families!!3 or more workers, other",S1902
+S1902_C02_015EA,string,Annotation of Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population,S1902
+S1902_C02_015MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population,S1902
+S1902_C02_016EA,string,Annotation of Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!White,S1902
+S1902_C02_016MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!White,S1902
+S1902_C02_017EA,string,Annotation of Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Black or African American,S1902
+S1902_C02_017MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Black or African American,S1902
+S1902_C02_018EA,string,Annotation of Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!American Indian and Alaska Native,S1902
+S1902_C02_018MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!American Indian and Alaska Native,S1902
+S1902_C02_019EA,string,Annotation of Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Asian,S1902
+S1902_C02_019MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Asian,S1902
+S1902_C02_020EA,string,Annotation of Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,S1902
+S1902_C02_020MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,S1902
+S1902_C02_021EA,string,Annotation of Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Some other race,S1902
+S1902_C02_021MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!One race!!Some other race,S1902
+S1902_C02_022EA,string,Annotation of Mean income (dollars)!!Estimate!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races,S1902
+S1902_C02_022MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN!!Total population!!Two or more races,S1902
+S1902_C02_023EA,string,Annotation of Mean income (dollars)!!Estimate!!Hispanic or Latino origin (of any race),S1902
+S1902_C02_023MA,string,Annotation of Mean income (dollars)!!Margin of Error!!Hispanic or Latino origin (of any race),S1902
+S1902_C02_024EA,string,"Annotation of Mean income (dollars)!!Estimate!!White alone, not Hispanic or Latino",S1902
+S1902_C02_024MA,string,"Annotation of Mean income (dollars)!!Margin of Error!!White alone, not Hispanic or Latino",S1902
+S1902_C02_025EA,string,Annotation of Mean income (dollars)!!Estimate!!PERCENT ALLOCATED!!Household income in the past 12 months,S1902
+S1902_C02_025MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PERCENT ALLOCATED!!Household income in the past 12 months,S1902
+S1902_C02_026EA,string,Annotation of Mean income (dollars)!!Estimate!!PERCENT ALLOCATED!!Family income in the past 12 months,S1902
+S1902_C02_026MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PERCENT ALLOCATED!!Family income in the past 12 months,S1902
+S1902_C02_027EA,string,Annotation of Mean income (dollars)!!Estimate!!PERCENT ALLOCATED!!Individual income in the past 12 months,S1902
+S1902_C02_027MA,string,Annotation of Mean income (dollars)!!Margin of Error!!PERCENT ALLOCATED!!Individual income in the past 12 months,S1902

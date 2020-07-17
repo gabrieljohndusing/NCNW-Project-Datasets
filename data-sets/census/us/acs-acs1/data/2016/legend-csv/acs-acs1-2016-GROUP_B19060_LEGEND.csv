@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19060_001E,int,Estimate!!Total,B19060
+B19060_002E,int,Estimate!!Total!!With other types of income,B19060
+B19060_003E,int,Estimate!!Total!!No other types of income,B19060
+B19060_001M,int,Margin of Error!!Total,B19060
+B19060_002M,int,Margin of Error!!Total!!With other types of income,B19060
+B19060_003M,int,Margin of Error!!Total!!No other types of income,B19060
+B19060_001EA,string,Annotation of Estimate!!Total,B19060
+B19060_001MA,string,Annotation of Margin of Error!!Total,B19060
+B19060_002EA,string,Annotation of Estimate!!Total!!With other types of income,B19060
+B19060_002MA,string,Annotation of Margin of Error!!Total!!With other types of income,B19060
+B19060_003EA,string,Annotation of Estimate!!Total!!No other types of income,B19060
+B19060_003MA,string,Annotation of Margin of Error!!Total!!No other types of income,B19060

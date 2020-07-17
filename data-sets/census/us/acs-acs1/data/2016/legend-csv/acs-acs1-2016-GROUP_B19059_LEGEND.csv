@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19059_001E,int,Estimate!!Total,B19059
+B19059_002E,int,Estimate!!Total!!With retirement income,B19059
+B19059_003E,int,Estimate!!Total!!No retirement income,B19059
+B19059_001M,int,Margin of Error!!Total,B19059
+B19059_002M,int,Margin of Error!!Total!!With retirement income,B19059
+B19059_003M,int,Margin of Error!!Total!!No retirement income,B19059
+B19059_001EA,string,Annotation of Estimate!!Total,B19059
+B19059_001MA,string,Annotation of Margin of Error!!Total,B19059
+B19059_002EA,string,Annotation of Estimate!!Total!!With retirement income,B19059
+B19059_002MA,string,Annotation of Margin of Error!!Total!!With retirement income,B19059
+B19059_003EA,string,Annotation of Estimate!!Total!!No retirement income,B19059
+B19059_003MA,string,Annotation of Margin of Error!!Total!!No retirement income,B19059
