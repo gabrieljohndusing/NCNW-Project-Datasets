@@ -1,0 +1,69 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17010D_001E,int,Estimate!!Total,C17010D
+C17010D_002E,int,Estimate!!Total!!Income in the past 12 months below poverty level,C17010D
+C17010D_003E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family,C17010D
+C17010D_004E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!With related children under 18 years,C17010D
+C17010D_005E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Other family,C17010D
+C17010D_006E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other family!!Male householder, no wife present",C17010D
+C17010D_007E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other family!!Male householder, no wife present!!With related children under 18 years",C17010D
+C17010D_008E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other family!!Female householder, no husband present",C17010D
+C17010D_009E,int,"Estimate!!Total!!Income in the past 12 months below poverty level!!Other family!!Female householder, no husband present!!With related children under 18 years",C17010D
+C17010D_010E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level,C17010D
+C17010D_011E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family,C17010D
+C17010D_012E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!With related children under 18 years,C17010D
+C17010D_013E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family,C17010D
+C17010D_014E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Male householder, no wife present",C17010D
+C17010D_015E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Male householder, no wife present!!With related children under 18 years",C17010D
+C17010D_016E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Female householder, no husband present",C17010D
+C17010D_017E,int,"Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Female householder, no husband present!!With related children under 18 years",C17010D
+C17010D_001M,int,Margin of Error!!Total,C17010D
+C17010D_002M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level,C17010D
+C17010D_003M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family,C17010D
+C17010D_004M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!With related children under 18 years,C17010D
+C17010D_005M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family,C17010D
+C17010D_006M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family!!Male householder, no wife present",C17010D
+C17010D_007M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family!!Male householder, no wife present!!With related children under 18 years",C17010D
+C17010D_008M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family!!Female householder, no husband present",C17010D
+C17010D_009M,int,"Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family!!Female householder, no husband present!!With related children under 18 years",C17010D
+C17010D_010M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17010D
+C17010D_011M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family,C17010D
+C17010D_012M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!With related children under 18 years,C17010D
+C17010D_013M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family,C17010D
+C17010D_014M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Male householder, no wife present",C17010D
+C17010D_015M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Male householder, no wife present!!With related children under 18 years",C17010D
+C17010D_016M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Female householder, no husband present",C17010D
+C17010D_017M,int,"Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Female householder, no husband present!!With related children under 18 years",C17010D
+C17010D_001EA,string,Annotation of Estimate!!Total,C17010D
+C17010D_001MA,string,Annotation of Margin of Error!!Total,C17010D
+C17010D_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level,C17010D
+C17010D_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level,C17010D
+C17010D_003EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family,C17010D
+C17010D_003MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family,C17010D
+C17010D_004EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!With related children under 18 years,C17010D
+C17010D_004MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Married-couple family!!With related children under 18 years,C17010D
+C17010D_005EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other family,C17010D
+C17010D_005MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family,C17010D
+C17010D_006EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other family!!Male householder, no wife present",C17010D
+C17010D_006MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family!!Male householder, no wife present",C17010D
+C17010D_007EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other family!!Male householder, no wife present!!With related children under 18 years",C17010D
+C17010D_007MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family!!Male householder, no wife present!!With related children under 18 years",C17010D
+C17010D_008EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other family!!Female householder, no husband present",C17010D
+C17010D_008MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family!!Female householder, no husband present",C17010D
+C17010D_009EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Other family!!Female householder, no husband present!!With related children under 18 years",C17010D
+C17010D_009MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Other family!!Female householder, no husband present!!With related children under 18 years",C17010D
+C17010D_010EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level,C17010D
+C17010D_010MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17010D
+C17010D_011EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family,C17010D
+C17010D_011MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family,C17010D
+C17010D_012EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!With related children under 18 years,C17010D
+C17010D_012MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Married-couple family!!With related children under 18 years,C17010D
+C17010D_013EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family,C17010D
+C17010D_013MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family,C17010D
+C17010D_014EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Male householder, no wife present",C17010D
+C17010D_014MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Male householder, no wife present",C17010D
+C17010D_015EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Male householder, no wife present!!With related children under 18 years",C17010D
+C17010D_015MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Male householder, no wife present!!With related children under 18 years",C17010D
+C17010D_016EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Female householder, no husband present",C17010D
+C17010D_016MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Female householder, no husband present",C17010D
+C17010D_017EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Female householder, no husband present!!With related children under 18 years",C17010D
+C17010D_017MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Other family!!Female householder, no husband present!!With related children under 18 years",C17010D

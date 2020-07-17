@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+B17009_001E,int,Estimate!!Total,B17009
+B17009_002E,int,Estimate!!Total!!Income in the past 12 months below the poverty level,B17009
+B17009_003E,int,"Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round",B17009
+B17009_004E,int,"Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round!!Nonfamily householder",B17009
+B17009_005E,int,"Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round!!Other",B17009
+B17009_006E,int,"Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round",B17009
+B17009_007E,int,"Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round!!Nonfamily householder",B17009
+B17009_008E,int,"Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round!!Other",B17009
+B17009_009E,int,Estimate!!Total!!Income in the past 12 months below the poverty level!!Did not work,B17009
+B17009_010E,int,Estimate!!Total!!Income in the past 12 months below the poverty level!!Did not work!!Nonfamily householder,B17009
+B17009_011E,int,Estimate!!Total!!Income in the past 12 months below the poverty level!!Did not work!!Other,B17009
+B17009_012E,int,Estimate!!Total!!Income in the past 12 months at or above the poverty level,B17009
+B17009_013E,int,"Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round",B17009
+B17009_014E,int,"Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round!!Nonfamily householder",B17009
+B17009_015E,int,"Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round!!Other",B17009
+B17009_016E,int,"Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round",B17009
+B17009_017E,int,"Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round!!Nonfamily householder",B17009
+B17009_018E,int,"Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round!!Other",B17009
+B17009_019E,int,Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Did not work,B17009
+B17009_020E,int,Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Did not work!!Nonfamily householder,B17009
+B17009_021E,int,Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Did not work!!Other,B17009
+B17009_001M,int,Margin of Error!!Total,B17009
+B17009_002M,int,Margin of Error!!Total!!Income in the past 12 months below the poverty level,B17009
+B17009_003M,int,"Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round",B17009
+B17009_004M,int,"Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round!!Nonfamily householder",B17009
+B17009_005M,int,"Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round!!Other",B17009
+B17009_006M,int,"Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round",B17009
+B17009_007M,int,"Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round!!Nonfamily householder",B17009
+B17009_008M,int,"Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round!!Other",B17009
+B17009_009M,int,Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Did not work,B17009
+B17009_010M,int,Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Did not work!!Nonfamily householder,B17009
+B17009_011M,int,Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Did not work!!Other,B17009
+B17009_012M,int,Margin of Error!!Total!!Income in the past 12 months at or above the poverty level,B17009
+B17009_013M,int,"Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round",B17009
+B17009_014M,int,"Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round!!Nonfamily householder",B17009
+B17009_015M,int,"Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round!!Other",B17009
+B17009_016M,int,"Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round",B17009
+B17009_017M,int,"Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round!!Nonfamily householder",B17009
+B17009_018M,int,"Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round!!Other",B17009
+B17009_019M,int,Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Did not work,B17009
+B17009_020M,int,Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Did not work!!Nonfamily householder,B17009
+B17009_021M,int,Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Did not work!!Other,B17009
+B17009_001EA,string,Annotation of Estimate!!Total,B17009
+B17009_001MA,string,Annotation of Margin of Error!!Total,B17009
+B17009_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level,B17009
+B17009_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level,B17009
+B17009_003EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round",B17009
+B17009_003MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round",B17009
+B17009_004EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round!!Nonfamily householder",B17009
+B17009_004MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round!!Nonfamily householder",B17009
+B17009_005EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round!!Other",B17009
+B17009_005MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked full-time, year-round!!Other",B17009
+B17009_006EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round",B17009
+B17009_006MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round",B17009
+B17009_007EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round!!Nonfamily householder",B17009
+B17009_007MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round!!Nonfamily householder",B17009
+B17009_008EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round!!Other",B17009
+B17009_008MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Worked less than full-time, year-round!!Other",B17009
+B17009_009EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Did not work,B17009
+B17009_009MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Did not work,B17009
+B17009_010EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Did not work!!Nonfamily householder,B17009
+B17009_010MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Did not work!!Nonfamily householder,B17009
+B17009_011EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below the poverty level!!Did not work!!Other,B17009
+B17009_011MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below the poverty level!!Did not work!!Other,B17009
+B17009_012EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level,B17009
+B17009_012MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level,B17009
+B17009_013EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round",B17009
+B17009_013MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round",B17009
+B17009_014EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round!!Nonfamily householder",B17009
+B17009_014MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round!!Nonfamily householder",B17009
+B17009_015EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round!!Other",B17009
+B17009_015MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked full-time, year-round!!Other",B17009
+B17009_016EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round",B17009
+B17009_016MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round",B17009
+B17009_017EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round!!Nonfamily householder",B17009
+B17009_017MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round!!Nonfamily householder",B17009
+B17009_018EA,string,"Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round!!Other",B17009
+B17009_018MA,string,"Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Worked less than full-time, year-round!!Other",B17009
+B17009_019EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Did not work,B17009
+B17009_019MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Did not work,B17009
+B17009_020EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Did not work!!Nonfamily householder,B17009
+B17009_020MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Did not work!!Nonfamily householder,B17009
+B17009_021EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above the poverty level!!Did not work!!Other,B17009
+B17009_021MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above the poverty level!!Did not work!!Other,B17009

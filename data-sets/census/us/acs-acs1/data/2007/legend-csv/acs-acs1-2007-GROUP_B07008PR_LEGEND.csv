@@ -1,0 +1,145 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07008PR_001E,int,Estimate!!Total,B07008PR
+B07008PR_002E,int,Estimate!!Total!!Never married,B07008PR
+B07008PR_003E,int,"Estimate!!Total!!Now married, except separated",B07008PR
+B07008PR_004E,int,Estimate!!Total!!Divorced,B07008PR
+B07008PR_005E,int,Estimate!!Total!!Separated,B07008PR
+B07008PR_006E,int,Estimate!!Total!!Widowed,B07008PR
+B07008PR_007E,int,Estimate!!Total!!Same house 1 year ago,B07008PR
+B07008PR_008E,int,Estimate!!Total!!Same house 1 year ago!!Never married,B07008PR
+B07008PR_009E,int,"Estimate!!Total!!Same house 1 year ago!!Now married, except separated",B07008PR
+B07008PR_010E,int,Estimate!!Total!!Same house 1 year ago!!Divorced,B07008PR
+B07008PR_011E,int,Estimate!!Total!!Same house 1 year ago!!Separated,B07008PR
+B07008PR_012E,int,Estimate!!Total!!Same house 1 year ago!!Widowed,B07008PR
+B07008PR_013E,int,Estimate!!Total!!Moved within same municipio,B07008PR
+B07008PR_014E,int,Estimate!!Total!!Moved within same municipio!!Never married,B07008PR
+B07008PR_015E,int,"Estimate!!Total!!Moved within same municipio!!Now married, except separated",B07008PR
+B07008PR_016E,int,Estimate!!Total!!Moved within same municipio!!Divorced,B07008PR
+B07008PR_017E,int,Estimate!!Total!!Moved within same municipio!!Separated,B07008PR
+B07008PR_018E,int,Estimate!!Total!!Moved within same municipio!!Widowed,B07008PR
+B07008PR_019E,int,Estimate!!Total!!Moved from different municipio,B07008PR
+B07008PR_020E,int,Estimate!!Total!!Moved from different municipio!!Never married,B07008PR
+B07008PR_021E,int,"Estimate!!Total!!Moved from different municipio!!Now married, except separated",B07008PR
+B07008PR_022E,int,Estimate!!Total!!Moved from different municipio!!Divorced,B07008PR
+B07008PR_023E,int,Estimate!!Total!!Moved from different municipio!!Separated,B07008PR
+B07008PR_024E,int,Estimate!!Total!!Moved from different municipio!!Widowed,B07008PR
+B07008PR_025E,int,Estimate!!Total!!Moved from the United States,B07008PR
+B07008PR_026E,int,Estimate!!Total!!Moved from the United States!!Never married,B07008PR
+B07008PR_027E,int,"Estimate!!Total!!Moved from the United States!!Now married, except separated",B07008PR
+B07008PR_028E,int,Estimate!!Total!!Moved from the United States!!Divorced,B07008PR
+B07008PR_029E,int,Estimate!!Total!!Moved from the United States!!Separated,B07008PR
+B07008PR_030E,int,Estimate!!Total!!Moved from the United States!!Widowed,B07008PR
+B07008PR_031E,int,Estimate!!Total!!Moved from elsewhere,B07008PR
+B07008PR_032E,int,Estimate!!Total!!Moved from elsewhere!!Never married,B07008PR
+B07008PR_033E,int,"Estimate!!Total!!Moved from elsewhere!!Now married, except separated",B07008PR
+B07008PR_034E,int,Estimate!!Total!!Moved from elsewhere!!Divorced,B07008PR
+B07008PR_035E,int,Estimate!!Total!!Moved from elsewhere!!Separated,B07008PR
+B07008PR_036E,int,Estimate!!Total!!Moved from elsewhere!!Widowed,B07008PR
+B07008PR_001M,int,Margin of Error!!Total,B07008PR
+B07008PR_002M,int,Margin of Error!!Total!!Never married,B07008PR
+B07008PR_003M,int,"Margin of Error!!Total!!Now married, except separated",B07008PR
+B07008PR_004M,int,Margin of Error!!Total!!Divorced,B07008PR
+B07008PR_005M,int,Margin of Error!!Total!!Separated,B07008PR
+B07008PR_006M,int,Margin of Error!!Total!!Widowed,B07008PR
+B07008PR_007M,int,Margin of Error!!Total!!Same house 1 year ago,B07008PR
+B07008PR_008M,int,Margin of Error!!Total!!Same house 1 year ago!!Never married,B07008PR
+B07008PR_009M,int,"Margin of Error!!Total!!Same house 1 year ago!!Now married, except separated",B07008PR
+B07008PR_010M,int,Margin of Error!!Total!!Same house 1 year ago!!Divorced,B07008PR
+B07008PR_011M,int,Margin of Error!!Total!!Same house 1 year ago!!Separated,B07008PR
+B07008PR_012M,int,Margin of Error!!Total!!Same house 1 year ago!!Widowed,B07008PR
+B07008PR_013M,int,Margin of Error!!Total!!Moved within same municipio,B07008PR
+B07008PR_014M,int,Margin of Error!!Total!!Moved within same municipio!!Never married,B07008PR
+B07008PR_015M,int,"Margin of Error!!Total!!Moved within same municipio!!Now married, except separated",B07008PR
+B07008PR_016M,int,Margin of Error!!Total!!Moved within same municipio!!Divorced,B07008PR
+B07008PR_017M,int,Margin of Error!!Total!!Moved within same municipio!!Separated,B07008PR
+B07008PR_018M,int,Margin of Error!!Total!!Moved within same municipio!!Widowed,B07008PR
+B07008PR_019M,int,Margin of Error!!Total!!Moved from different municipio,B07008PR
+B07008PR_020M,int,Margin of Error!!Total!!Moved from different municipio!!Never married,B07008PR
+B07008PR_021M,int,"Margin of Error!!Total!!Moved from different municipio!!Now married, except separated",B07008PR
+B07008PR_022M,int,Margin of Error!!Total!!Moved from different municipio!!Divorced,B07008PR
+B07008PR_023M,int,Margin of Error!!Total!!Moved from different municipio!!Separated,B07008PR
+B07008PR_024M,int,Margin of Error!!Total!!Moved from different municipio!!Widowed,B07008PR
+B07008PR_025M,int,Margin of Error!!Total!!Moved from the United States,B07008PR
+B07008PR_026M,int,Margin of Error!!Total!!Moved from the United States!!Never married,B07008PR
+B07008PR_027M,int,"Margin of Error!!Total!!Moved from the United States!!Now married, except separated",B07008PR
+B07008PR_028M,int,Margin of Error!!Total!!Moved from the United States!!Divorced,B07008PR
+B07008PR_029M,int,Margin of Error!!Total!!Moved from the United States!!Separated,B07008PR
+B07008PR_030M,int,Margin of Error!!Total!!Moved from the United States!!Widowed,B07008PR
+B07008PR_031M,int,Margin of Error!!Total!!Moved from elsewhere,B07008PR
+B07008PR_032M,int,Margin of Error!!Total!!Moved from elsewhere!!Never married,B07008PR
+B07008PR_033M,int,"Margin of Error!!Total!!Moved from elsewhere!!Now married, except separated",B07008PR
+B07008PR_034M,int,Margin of Error!!Total!!Moved from elsewhere!!Divorced,B07008PR
+B07008PR_035M,int,Margin of Error!!Total!!Moved from elsewhere!!Separated,B07008PR
+B07008PR_036M,int,Margin of Error!!Total!!Moved from elsewhere!!Widowed,B07008PR
+B07008PR_001EA,string,Annotation of Estimate!!Total,B07008PR
+B07008PR_001MA,string,Annotation of Margin of Error!!Total,B07008PR
+B07008PR_002EA,string,Annotation of Estimate!!Total!!Never married,B07008PR
+B07008PR_002MA,string,Annotation of Margin of Error!!Total!!Never married,B07008PR
+B07008PR_003EA,string,"Annotation of Estimate!!Total!!Now married, except separated",B07008PR
+B07008PR_003MA,string,"Annotation of Margin of Error!!Total!!Now married, except separated",B07008PR
+B07008PR_004EA,string,Annotation of Estimate!!Total!!Divorced,B07008PR
+B07008PR_004MA,string,Annotation of Margin of Error!!Total!!Divorced,B07008PR
+B07008PR_005EA,string,Annotation of Estimate!!Total!!Separated,B07008PR
+B07008PR_005MA,string,Annotation of Margin of Error!!Total!!Separated,B07008PR
+B07008PR_006EA,string,Annotation of Estimate!!Total!!Widowed,B07008PR
+B07008PR_006MA,string,Annotation of Margin of Error!!Total!!Widowed,B07008PR
+B07008PR_007EA,string,Annotation of Estimate!!Total!!Same house 1 year ago,B07008PR
+B07008PR_007MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago,B07008PR
+B07008PR_008EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Never married,B07008PR
+B07008PR_008MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Never married,B07008PR
+B07008PR_009EA,string,"Annotation of Estimate!!Total!!Same house 1 year ago!!Now married, except separated",B07008PR
+B07008PR_009MA,string,"Annotation of Margin of Error!!Total!!Same house 1 year ago!!Now married, except separated",B07008PR
+B07008PR_010EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Divorced,B07008PR
+B07008PR_010MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Divorced,B07008PR
+B07008PR_011EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Separated,B07008PR
+B07008PR_011MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Separated,B07008PR
+B07008PR_012EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Widowed,B07008PR
+B07008PR_012MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Widowed,B07008PR
+B07008PR_013EA,string,Annotation of Estimate!!Total!!Moved within same municipio,B07008PR
+B07008PR_013MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio,B07008PR
+B07008PR_014EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!Never married,B07008PR
+B07008PR_014MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!Never married,B07008PR
+B07008PR_015EA,string,"Annotation of Estimate!!Total!!Moved within same municipio!!Now married, except separated",B07008PR
+B07008PR_015MA,string,"Annotation of Margin of Error!!Total!!Moved within same municipio!!Now married, except separated",B07008PR
+B07008PR_016EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!Divorced,B07008PR
+B07008PR_016MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!Divorced,B07008PR
+B07008PR_017EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!Separated,B07008PR
+B07008PR_017MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!Separated,B07008PR
+B07008PR_018EA,string,Annotation of Estimate!!Total!!Moved within same municipio!!Widowed,B07008PR
+B07008PR_018MA,string,Annotation of Margin of Error!!Total!!Moved within same municipio!!Widowed,B07008PR
+B07008PR_019EA,string,Annotation of Estimate!!Total!!Moved from different municipio,B07008PR
+B07008PR_019MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio,B07008PR
+B07008PR_020EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!Never married,B07008PR
+B07008PR_020MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!Never married,B07008PR
+B07008PR_021EA,string,"Annotation of Estimate!!Total!!Moved from different municipio!!Now married, except separated",B07008PR
+B07008PR_021MA,string,"Annotation of Margin of Error!!Total!!Moved from different municipio!!Now married, except separated",B07008PR
+B07008PR_022EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!Divorced,B07008PR
+B07008PR_022MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!Divorced,B07008PR
+B07008PR_023EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!Separated,B07008PR
+B07008PR_023MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!Separated,B07008PR
+B07008PR_024EA,string,Annotation of Estimate!!Total!!Moved from different municipio!!Widowed,B07008PR
+B07008PR_024MA,string,Annotation of Margin of Error!!Total!!Moved from different municipio!!Widowed,B07008PR
+B07008PR_025EA,string,Annotation of Estimate!!Total!!Moved from the United States,B07008PR
+B07008PR_025MA,string,Annotation of Margin of Error!!Total!!Moved from the United States,B07008PR
+B07008PR_026EA,string,Annotation of Estimate!!Total!!Moved from the United States!!Never married,B07008PR
+B07008PR_026MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!Never married,B07008PR
+B07008PR_027EA,string,"Annotation of Estimate!!Total!!Moved from the United States!!Now married, except separated",B07008PR
+B07008PR_027MA,string,"Annotation of Margin of Error!!Total!!Moved from the United States!!Now married, except separated",B07008PR
+B07008PR_028EA,string,Annotation of Estimate!!Total!!Moved from the United States!!Divorced,B07008PR
+B07008PR_028MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!Divorced,B07008PR
+B07008PR_029EA,string,Annotation of Estimate!!Total!!Moved from the United States!!Separated,B07008PR
+B07008PR_029MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!Separated,B07008PR
+B07008PR_030EA,string,Annotation of Estimate!!Total!!Moved from the United States!!Widowed,B07008PR
+B07008PR_030MA,string,Annotation of Margin of Error!!Total!!Moved from the United States!!Widowed,B07008PR
+B07008PR_031EA,string,Annotation of Estimate!!Total!!Moved from elsewhere,B07008PR
+B07008PR_031MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere,B07008PR
+B07008PR_032EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!Never married,B07008PR
+B07008PR_032MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!Never married,B07008PR
+B07008PR_033EA,string,"Annotation of Estimate!!Total!!Moved from elsewhere!!Now married, except separated",B07008PR
+B07008PR_033MA,string,"Annotation of Margin of Error!!Total!!Moved from elsewhere!!Now married, except separated",B07008PR
+B07008PR_034EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!Divorced,B07008PR
+B07008PR_034MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!Divorced,B07008PR
+B07008PR_035EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!Separated,B07008PR
+B07008PR_035MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!Separated,B07008PR
+B07008PR_036EA,string,Annotation of Estimate!!Total!!Moved from elsewhere!!Widowed,B07008PR
+B07008PR_036MA,string,Annotation of Margin of Error!!Total!!Moved from elsewhere!!Widowed,B07008PR

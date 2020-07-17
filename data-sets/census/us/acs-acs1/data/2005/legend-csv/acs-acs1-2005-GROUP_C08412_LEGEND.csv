@@ -1,0 +1,121 @@
+VARIABLE,TYPE,LABEL,GROUP
+C08412_001E,int,Estimate!!Total,C08412
+C08412_002E,int,Estimate!!Total!!Less than 10 minutes,C08412
+C08412_003E,int,Estimate!!Total!!10 to 14 minutes,C08412
+C08412_004E,int,Estimate!!Total!!15 to 19 minutes,C08412
+C08412_005E,int,Estimate!!Total!!20 to 24 minutes,C08412
+C08412_006E,int,Estimate!!Total!!25 to 29 minutes,C08412
+C08412_007E,int,Estimate!!Total!!30 to 34 minutes,C08412
+C08412_008E,int,Estimate!!Total!!35 to 44 minutes,C08412
+C08412_009E,int,Estimate!!Total!!45 to 59 minutes,C08412
+C08412_010E,int,Estimate!!Total!!60 or more minutes,C08412
+C08412_011E,int,Estimate!!Total!!Male,C08412
+C08412_012E,int,Estimate!!Total!!Male!!Less than 10 minutes,C08412
+C08412_013E,int,Estimate!!Total!!Male!!10 to 14 minutes,C08412
+C08412_014E,int,Estimate!!Total!!Male!!15 to 19 minutes,C08412
+C08412_015E,int,Estimate!!Total!!Male!!20 to 24 minutes,C08412
+C08412_016E,int,Estimate!!Total!!Male!!25 to 29 minutes,C08412
+C08412_017E,int,Estimate!!Total!!Male!!30 to 34 minutes,C08412
+C08412_018E,int,Estimate!!Total!!Male!!35 to 44 minutes,C08412
+C08412_019E,int,Estimate!!Total!!Male!!45 to 59 minutes,C08412
+C08412_020E,int,Estimate!!Total!!Male!!60 or more minutes,C08412
+C08412_021E,int,Estimate!!Total!!Female,C08412
+C08412_022E,int,Estimate!!Total!!Female!!Less than 10 minutes,C08412
+C08412_023E,int,Estimate!!Total!!Female!!10 to 14 minutes,C08412
+C08412_024E,int,Estimate!!Total!!Female!!15 to 19 minutes,C08412
+C08412_025E,int,Estimate!!Total!!Female!!20 to 24 minutes,C08412
+C08412_026E,int,Estimate!!Total!!Female!!25 to 29 minutes,C08412
+C08412_027E,int,Estimate!!Total!!Female!!30 to 34 minutes,C08412
+C08412_028E,int,Estimate!!Total!!Female!!35 to 44 minutes,C08412
+C08412_029E,int,Estimate!!Total!!Female!!45 to 59 minutes,C08412
+C08412_030E,int,Estimate!!Total!!Female!!60 or more minutes,C08412
+C08412_001M,int,Margin of Error!!Total,C08412
+C08412_002M,int,Margin of Error!!Total!!Less than 10 minutes,C08412
+C08412_003M,int,Margin of Error!!Total!!10 to 14 minutes,C08412
+C08412_004M,int,Margin of Error!!Total!!15 to 19 minutes,C08412
+C08412_005M,int,Margin of Error!!Total!!20 to 24 minutes,C08412
+C08412_006M,int,Margin of Error!!Total!!25 to 29 minutes,C08412
+C08412_007M,int,Margin of Error!!Total!!30 to 34 minutes,C08412
+C08412_008M,int,Margin of Error!!Total!!35 to 44 minutes,C08412
+C08412_009M,int,Margin of Error!!Total!!45 to 59 minutes,C08412
+C08412_010M,int,Margin of Error!!Total!!60 or more minutes,C08412
+C08412_011M,int,Margin of Error!!Total!!Male,C08412
+C08412_012M,int,Margin of Error!!Total!!Male!!Less than 10 minutes,C08412
+C08412_013M,int,Margin of Error!!Total!!Male!!10 to 14 minutes,C08412
+C08412_014M,int,Margin of Error!!Total!!Male!!15 to 19 minutes,C08412
+C08412_015M,int,Margin of Error!!Total!!Male!!20 to 24 minutes,C08412
+C08412_016M,int,Margin of Error!!Total!!Male!!25 to 29 minutes,C08412
+C08412_017M,int,Margin of Error!!Total!!Male!!30 to 34 minutes,C08412
+C08412_018M,int,Margin of Error!!Total!!Male!!35 to 44 minutes,C08412
+C08412_019M,int,Margin of Error!!Total!!Male!!45 to 59 minutes,C08412
+C08412_020M,int,Margin of Error!!Total!!Male!!60 or more minutes,C08412
+C08412_021M,int,Margin of Error!!Total!!Female,C08412
+C08412_022M,int,Margin of Error!!Total!!Female!!Less than 10 minutes,C08412
+C08412_023M,int,Margin of Error!!Total!!Female!!10 to 14 minutes,C08412
+C08412_024M,int,Margin of Error!!Total!!Female!!15 to 19 minutes,C08412
+C08412_025M,int,Margin of Error!!Total!!Female!!20 to 24 minutes,C08412
+C08412_026M,int,Margin of Error!!Total!!Female!!25 to 29 minutes,C08412
+C08412_027M,int,Margin of Error!!Total!!Female!!30 to 34 minutes,C08412
+C08412_028M,int,Margin of Error!!Total!!Female!!35 to 44 minutes,C08412
+C08412_029M,int,Margin of Error!!Total!!Female!!45 to 59 minutes,C08412
+C08412_030M,int,Margin of Error!!Total!!Female!!60 or more minutes,C08412
+C08412_001EA,string,Annotation of Estimate!!Total,C08412
+C08412_001MA,string,Annotation of Margin of Error!!Total,C08412
+C08412_002EA,string,Annotation of Estimate!!Total!!Less than 10 minutes,C08412
+C08412_002MA,string,Annotation of Margin of Error!!Total!!Less than 10 minutes,C08412
+C08412_003EA,string,Annotation of Estimate!!Total!!10 to 14 minutes,C08412
+C08412_003MA,string,Annotation of Margin of Error!!Total!!10 to 14 minutes,C08412
+C08412_004EA,string,Annotation of Estimate!!Total!!15 to 19 minutes,C08412
+C08412_004MA,string,Annotation of Margin of Error!!Total!!15 to 19 minutes,C08412
+C08412_005EA,string,Annotation of Estimate!!Total!!20 to 24 minutes,C08412
+C08412_005MA,string,Annotation of Margin of Error!!Total!!20 to 24 minutes,C08412
+C08412_006EA,string,Annotation of Estimate!!Total!!25 to 29 minutes,C08412
+C08412_006MA,string,Annotation of Margin of Error!!Total!!25 to 29 minutes,C08412
+C08412_007EA,string,Annotation of Estimate!!Total!!30 to 34 minutes,C08412
+C08412_007MA,string,Annotation of Margin of Error!!Total!!30 to 34 minutes,C08412
+C08412_008EA,string,Annotation of Estimate!!Total!!35 to 44 minutes,C08412
+C08412_008MA,string,Annotation of Margin of Error!!Total!!35 to 44 minutes,C08412
+C08412_009EA,string,Annotation of Estimate!!Total!!45 to 59 minutes,C08412
+C08412_009MA,string,Annotation of Margin of Error!!Total!!45 to 59 minutes,C08412
+C08412_010EA,string,Annotation of Estimate!!Total!!60 or more minutes,C08412
+C08412_010MA,string,Annotation of Margin of Error!!Total!!60 or more minutes,C08412
+C08412_011EA,string,Annotation of Estimate!!Total!!Male,C08412
+C08412_011MA,string,Annotation of Margin of Error!!Total!!Male,C08412
+C08412_012EA,string,Annotation of Estimate!!Total!!Male!!Less than 10 minutes,C08412
+C08412_012MA,string,Annotation of Margin of Error!!Total!!Male!!Less than 10 minutes,C08412
+C08412_013EA,string,Annotation of Estimate!!Total!!Male!!10 to 14 minutes,C08412
+C08412_013MA,string,Annotation of Margin of Error!!Total!!Male!!10 to 14 minutes,C08412
+C08412_014EA,string,Annotation of Estimate!!Total!!Male!!15 to 19 minutes,C08412
+C08412_014MA,string,Annotation of Margin of Error!!Total!!Male!!15 to 19 minutes,C08412
+C08412_015EA,string,Annotation of Estimate!!Total!!Male!!20 to 24 minutes,C08412
+C08412_015MA,string,Annotation of Margin of Error!!Total!!Male!!20 to 24 minutes,C08412
+C08412_016EA,string,Annotation of Estimate!!Total!!Male!!25 to 29 minutes,C08412
+C08412_016MA,string,Annotation of Margin of Error!!Total!!Male!!25 to 29 minutes,C08412
+C08412_017EA,string,Annotation of Estimate!!Total!!Male!!30 to 34 minutes,C08412
+C08412_017MA,string,Annotation of Margin of Error!!Total!!Male!!30 to 34 minutes,C08412
+C08412_018EA,string,Annotation of Estimate!!Total!!Male!!35 to 44 minutes,C08412
+C08412_018MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 44 minutes,C08412
+C08412_019EA,string,Annotation of Estimate!!Total!!Male!!45 to 59 minutes,C08412
+C08412_019MA,string,Annotation of Margin of Error!!Total!!Male!!45 to 59 minutes,C08412
+C08412_020EA,string,Annotation of Estimate!!Total!!Male!!60 or more minutes,C08412
+C08412_020MA,string,Annotation of Margin of Error!!Total!!Male!!60 or more minutes,C08412
+C08412_021EA,string,Annotation of Estimate!!Total!!Female,C08412
+C08412_021MA,string,Annotation of Margin of Error!!Total!!Female,C08412
+C08412_022EA,string,Annotation of Estimate!!Total!!Female!!Less than 10 minutes,C08412
+C08412_022MA,string,Annotation of Margin of Error!!Total!!Female!!Less than 10 minutes,C08412
+C08412_023EA,string,Annotation of Estimate!!Total!!Female!!10 to 14 minutes,C08412
+C08412_023MA,string,Annotation of Margin of Error!!Total!!Female!!10 to 14 minutes,C08412
+C08412_024EA,string,Annotation of Estimate!!Total!!Female!!15 to 19 minutes,C08412
+C08412_024MA,string,Annotation of Margin of Error!!Total!!Female!!15 to 19 minutes,C08412
+C08412_025EA,string,Annotation of Estimate!!Total!!Female!!20 to 24 minutes,C08412
+C08412_025MA,string,Annotation of Margin of Error!!Total!!Female!!20 to 24 minutes,C08412
+C08412_026EA,string,Annotation of Estimate!!Total!!Female!!25 to 29 minutes,C08412
+C08412_026MA,string,Annotation of Margin of Error!!Total!!Female!!25 to 29 minutes,C08412
+C08412_027EA,string,Annotation of Estimate!!Total!!Female!!30 to 34 minutes,C08412
+C08412_027MA,string,Annotation of Margin of Error!!Total!!Female!!30 to 34 minutes,C08412
+C08412_028EA,string,Annotation of Estimate!!Total!!Female!!35 to 44 minutes,C08412
+C08412_028MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 44 minutes,C08412
+C08412_029EA,string,Annotation of Estimate!!Total!!Female!!45 to 59 minutes,C08412
+C08412_029MA,string,Annotation of Margin of Error!!Total!!Female!!45 to 59 minutes,C08412
+C08412_030EA,string,Annotation of Estimate!!Total!!Female!!60 or more minutes,C08412
+C08412_030MA,string,Annotation of Margin of Error!!Total!!Female!!60 or more minutes,C08412

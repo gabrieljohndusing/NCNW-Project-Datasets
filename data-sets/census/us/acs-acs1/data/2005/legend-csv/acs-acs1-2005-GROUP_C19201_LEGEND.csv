@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+C19201_001E,int,Estimate!!Total,C19201
+C19201_002E,int,"Estimate!!Total!!Less than $10,000",C19201
+C19201_003E,int,"Estimate!!Total!!$10,000 to $14,999",C19201
+C19201_004E,int,"Estimate!!Total!!$15,000 to $24,999",C19201
+C19201_005E,int,"Estimate!!Total!!$25,000 to $34,999",C19201
+C19201_006E,int,"Estimate!!Total!!$35,000 to $49,999",C19201
+C19201_007E,int,"Estimate!!Total!!$50,000 to $74,999",C19201
+C19201_008E,int,"Estimate!!Total!!$75,000 to $99,999",C19201
+C19201_009E,int,"Estimate!!Total!!$100,000 to $149,999",C19201
+C19201_010E,int,"Estimate!!Total!!$150,000 to $199,999",C19201
+C19201_011E,int,"Estimate!!Total!!$200,000 or more",C19201
+C19201_001M,int,Margin of Error!!Total,C19201
+C19201_002M,int,"Margin of Error!!Total!!Less than $10,000",C19201
+C19201_003M,int,"Margin of Error!!Total!!$10,000 to $14,999",C19201
+C19201_004M,int,"Margin of Error!!Total!!$15,000 to $24,999",C19201
+C19201_005M,int,"Margin of Error!!Total!!$25,000 to $34,999",C19201
+C19201_006M,int,"Margin of Error!!Total!!$35,000 to $49,999",C19201
+C19201_007M,int,"Margin of Error!!Total!!$50,000 to $74,999",C19201
+C19201_008M,int,"Margin of Error!!Total!!$75,000 to $99,999",C19201
+C19201_009M,int,"Margin of Error!!Total!!$100,000 to $149,999",C19201
+C19201_010M,int,"Margin of Error!!Total!!$150,000 to $199,999",C19201
+C19201_011M,int,"Margin of Error!!Total!!$200,000 or more",C19201
+C19201_001EA,string,Annotation of Estimate!!Total,C19201
+C19201_001MA,string,Annotation of Margin of Error!!Total,C19201
+C19201_002EA,string,"Annotation of Estimate!!Total!!Less than $10,000",C19201
+C19201_002MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000",C19201
+C19201_003EA,string,"Annotation of Estimate!!Total!!$10,000 to $14,999",C19201
+C19201_003MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $14,999",C19201
+C19201_004EA,string,"Annotation of Estimate!!Total!!$15,000 to $24,999",C19201
+C19201_004MA,string,"Annotation of Margin of Error!!Total!!$15,000 to $24,999",C19201
+C19201_005EA,string,"Annotation of Estimate!!Total!!$25,000 to $34,999",C19201
+C19201_005MA,string,"Annotation of Margin of Error!!Total!!$25,000 to $34,999",C19201
+C19201_006EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999",C19201
+C19201_006MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999",C19201
+C19201_007EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999",C19201
+C19201_007MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999",C19201
+C19201_008EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999",C19201
+C19201_008MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999",C19201
+C19201_009EA,string,"Annotation of Estimate!!Total!!$100,000 to $149,999",C19201
+C19201_009MA,string,"Annotation of Margin of Error!!Total!!$100,000 to $149,999",C19201
+C19201_010EA,string,"Annotation of Estimate!!Total!!$150,000 to $199,999",C19201
+C19201_010MA,string,"Annotation of Margin of Error!!Total!!$150,000 to $199,999",C19201
+C19201_011EA,string,"Annotation of Estimate!!Total!!$200,000 or more",C19201
+C19201_011MA,string,"Annotation of Margin of Error!!Total!!$200,000 or more",C19201

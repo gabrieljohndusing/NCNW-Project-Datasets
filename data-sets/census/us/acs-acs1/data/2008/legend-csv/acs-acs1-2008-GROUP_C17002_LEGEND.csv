@@ -1,0 +1,33 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17002_001E,int,Estimate!!Total,C17002
+C17002_002E,int,Estimate!!Total!!Under .50,C17002
+C17002_003E,int,Estimate!!Total!!.50 to .99,C17002
+C17002_004E,int,Estimate!!Total!!1.00 to 1.24,C17002
+C17002_005E,int,Estimate!!Total!!1.25 to 1.49,C17002
+C17002_006E,int,Estimate!!Total!!1.50 to 1.84,C17002
+C17002_007E,int,Estimate!!Total!!1.85 to 1.99,C17002
+C17002_008E,int,Estimate!!Total!!2.00 and over,C17002
+C17002_001M,int,Margin of Error!!Total,C17002
+C17002_002M,int,Margin of Error!!Total!!Under .50,C17002
+C17002_003M,int,Margin of Error!!Total!!.50 to .99,C17002
+C17002_004M,int,Margin of Error!!Total!!1.00 to 1.24,C17002
+C17002_005M,int,Margin of Error!!Total!!1.25 to 1.49,C17002
+C17002_006M,int,Margin of Error!!Total!!1.50 to 1.84,C17002
+C17002_007M,int,Margin of Error!!Total!!1.85 to 1.99,C17002
+C17002_008M,int,Margin of Error!!Total!!2.00 and over,C17002
+C17002_001EA,string,Annotation of Estimate!!Total,C17002
+C17002_001MA,string,Annotation of Margin of Error!!Total,C17002
+C17002_002EA,string,Annotation of Estimate!!Total!!Under .50,C17002
+C17002_002MA,string,Annotation of Margin of Error!!Total!!Under .50,C17002
+C17002_003EA,string,Annotation of Estimate!!Total!!.50 to .99,C17002
+C17002_003MA,string,Annotation of Margin of Error!!Total!!.50 to .99,C17002
+C17002_004EA,string,Annotation of Estimate!!Total!!1.00 to 1.24,C17002
+C17002_004MA,string,Annotation of Margin of Error!!Total!!1.00 to 1.24,C17002
+C17002_005EA,string,Annotation of Estimate!!Total!!1.25 to 1.49,C17002
+C17002_005MA,string,Annotation of Margin of Error!!Total!!1.25 to 1.49,C17002
+C17002_006EA,string,Annotation of Estimate!!Total!!1.50 to 1.84,C17002
+C17002_006MA,string,Annotation of Margin of Error!!Total!!1.50 to 1.84,C17002
+C17002_007EA,string,Annotation of Estimate!!Total!!1.85 to 1.99,C17002
+C17002_007MA,string,Annotation of Margin of Error!!Total!!1.85 to 1.99,C17002
+C17002_008EA,string,Annotation of Estimate!!Total!!2.00 and over,C17002
+C17002_008MA,string,Annotation of Margin of Error!!Total!!2.00 and over,C17002

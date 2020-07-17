@@ -1,0 +1,293 @@
+VARIABLE,TYPE,LABEL,GROUP
+C12002_001E,int,Estimate!!Total,C12002
+C12002_002E,int,Estimate!!Total!!Male,C12002
+C12002_003E,int,Estimate!!Total!!Male!!Never married,C12002
+C12002_004E,int,Estimate!!Total!!Male!!Never married!!15 to 19 years,C12002
+C12002_005E,int,Estimate!!Total!!Male!!Never married!!20 to 34 years,C12002
+C12002_006E,int,Estimate!!Total!!Male!!Never married!!35 to 44 years,C12002
+C12002_007E,int,Estimate!!Total!!Male!!Never married!!45 to 54 years,C12002
+C12002_008E,int,Estimate!!Total!!Male!!Never married!!55 to 64 years,C12002
+C12002_009E,int,Estimate!!Total!!Male!!Never married!!65 years and over,C12002
+C12002_010E,int,Estimate!!Total!!Male!!Now married (except separated),C12002
+C12002_011E,int,Estimate!!Total!!Male!!Now married (except separated)!!15 to 19 years,C12002
+C12002_012E,int,Estimate!!Total!!Male!!Now married (except separated)!!20 to 34 years,C12002
+C12002_013E,int,Estimate!!Total!!Male!!Now married (except separated)!!35 to 44 years,C12002
+C12002_014E,int,Estimate!!Total!!Male!!Now married (except separated)!!45 to 54 years,C12002
+C12002_015E,int,Estimate!!Total!!Male!!Now married (except separated)!!55 to 64 years,C12002
+C12002_016E,int,Estimate!!Total!!Male!!Now married (except separated)!!65 years and over,C12002
+C12002_017E,int,Estimate!!Total!!Male!!Separated,C12002
+C12002_018E,int,Estimate!!Total!!Male!!Separated!!15 to 19 years,C12002
+C12002_019E,int,Estimate!!Total!!Male!!Separated!!20 to 34 years,C12002
+C12002_020E,int,Estimate!!Total!!Male!!Separated!!35 to 44 years,C12002
+C12002_021E,int,Estimate!!Total!!Male!!Separated!!45 to 54 years,C12002
+C12002_022E,int,Estimate!!Total!!Male!!Separated!!55 to 64 years,C12002
+C12002_023E,int,Estimate!!Total!!Male!!Separated!!65 years and over,C12002
+C12002_024E,int,Estimate!!Total!!Male!!Widowed,C12002
+C12002_025E,int,Estimate!!Total!!Male!!Widowed!!15 to 19 years,C12002
+C12002_026E,int,Estimate!!Total!!Male!!Widowed!!20 to 34 years,C12002
+C12002_027E,int,Estimate!!Total!!Male!!Widowed!!35 to 44 years,C12002
+C12002_028E,int,Estimate!!Total!!Male!!Widowed!!45 to 54 years,C12002
+C12002_029E,int,Estimate!!Total!!Male!!Widowed!!55 to 64 years,C12002
+C12002_030E,int,Estimate!!Total!!Male!!Widowed!!65 years and over,C12002
+C12002_031E,int,Estimate!!Total!!Male!!Divorced,C12002
+C12002_032E,int,Estimate!!Total!!Male!!Divorced!!15 to 19 years,C12002
+C12002_033E,int,Estimate!!Total!!Male!!Divorced!!20 to 34 years,C12002
+C12002_034E,int,Estimate!!Total!!Male!!Divorced!!35 to 44 years,C12002
+C12002_035E,int,Estimate!!Total!!Male!!Divorced!!45 to 54 years,C12002
+C12002_036E,int,Estimate!!Total!!Male!!Divorced!!55 to 64 years,C12002
+C12002_037E,int,Estimate!!Total!!Male!!Divorced!!65 years and over,C12002
+C12002_038E,int,Estimate!!Total!!Female,C12002
+C12002_039E,int,Estimate!!Total!!Female!!Never married,C12002
+C12002_040E,int,Estimate!!Total!!Female!!Never married!!15 to 19 years,C12002
+C12002_041E,int,Estimate!!Total!!Female!!Never married!!20 to 34 years,C12002
+C12002_042E,int,Estimate!!Total!!Female!!Never married!!35 to 44 years,C12002
+C12002_043E,int,Estimate!!Total!!Female!!Never married!!45 to 54 years,C12002
+C12002_044E,int,Estimate!!Total!!Female!!Never married!!55 to 64 years,C12002
+C12002_045E,int,Estimate!!Total!!Female!!Never married!!65 years and over,C12002
+C12002_046E,int,Estimate!!Total!!Female!!Now married (except separated),C12002
+C12002_047E,int,Estimate!!Total!!Female!!Now married (except separated)!!15 to 19 years,C12002
+C12002_048E,int,Estimate!!Total!!Female!!Now married (except separated)!!20 to 34 years,C12002
+C12002_049E,int,Estimate!!Total!!Female!!Now married (except separated)!!35 to 44 years,C12002
+C12002_050E,int,Estimate!!Total!!Female!!Now married (except separated)!!45 to 54 years,C12002
+C12002_051E,int,Estimate!!Total!!Female!!Now married (except separated)!!55 to 64 years,C12002
+C12002_052E,int,Estimate!!Total!!Female!!Now married (except separated)!!65 years and over,C12002
+C12002_053E,int,Estimate!!Total!!Female!!Separated,C12002
+C12002_054E,int,Estimate!!Total!!Female!!Separated!!15 to 19 years,C12002
+C12002_055E,int,Estimate!!Total!!Female!!Separated!!20 to 34 years,C12002
+C12002_056E,int,Estimate!!Total!!Female!!Separated!!35 to 44 years,C12002
+C12002_057E,int,Estimate!!Total!!Female!!Separated!!45 to 54 years,C12002
+C12002_058E,int,Estimate!!Total!!Female!!Separated!!55 to 64 years,C12002
+C12002_059E,int,Estimate!!Total!!Female!!Separated!!65 years and over,C12002
+C12002_060E,int,Estimate!!Total!!Female!!Widowed,C12002
+C12002_061E,int,Estimate!!Total!!Female!!Widowed!!15 to 19 years,C12002
+C12002_062E,int,Estimate!!Total!!Female!!Widowed!!20 to 34 years,C12002
+C12002_063E,int,Estimate!!Total!!Female!!Widowed!!35 to 44 years,C12002
+C12002_064E,int,Estimate!!Total!!Female!!Widowed!!45 to 54 years,C12002
+C12002_065E,int,Estimate!!Total!!Female!!Widowed!!55 to 64 years,C12002
+C12002_066E,int,Estimate!!Total!!Female!!Widowed!!65 years and over,C12002
+C12002_067E,int,Estimate!!Total!!Female!!Divorced,C12002
+C12002_068E,int,Estimate!!Total!!Female!!Divorced!!15 to 19 years,C12002
+C12002_069E,int,Estimate!!Total!!Female!!Divorced!!20 to 34 years,C12002
+C12002_070E,int,Estimate!!Total!!Female!!Divorced!!35 to 44 years,C12002
+C12002_071E,int,Estimate!!Total!!Female!!Divorced!!45 to 54 years,C12002
+C12002_072E,int,Estimate!!Total!!Female!!Divorced!!55 to 64 years,C12002
+C12002_073E,int,Estimate!!Total!!Female!!Divorced!!65 years and over,C12002
+C12002_001M,int,Margin of Error!!Total,C12002
+C12002_002M,int,Margin of Error!!Total!!Male,C12002
+C12002_003M,int,Margin of Error!!Total!!Male!!Never married,C12002
+C12002_004M,int,Margin of Error!!Total!!Male!!Never married!!15 to 19 years,C12002
+C12002_005M,int,Margin of Error!!Total!!Male!!Never married!!20 to 34 years,C12002
+C12002_006M,int,Margin of Error!!Total!!Male!!Never married!!35 to 44 years,C12002
+C12002_007M,int,Margin of Error!!Total!!Male!!Never married!!45 to 54 years,C12002
+C12002_008M,int,Margin of Error!!Total!!Male!!Never married!!55 to 64 years,C12002
+C12002_009M,int,Margin of Error!!Total!!Male!!Never married!!65 years and over,C12002
+C12002_010M,int,Margin of Error!!Total!!Male!!Now married (except separated),C12002
+C12002_011M,int,Margin of Error!!Total!!Male!!Now married (except separated)!!15 to 19 years,C12002
+C12002_012M,int,Margin of Error!!Total!!Male!!Now married (except separated)!!20 to 34 years,C12002
+C12002_013M,int,Margin of Error!!Total!!Male!!Now married (except separated)!!35 to 44 years,C12002
+C12002_014M,int,Margin of Error!!Total!!Male!!Now married (except separated)!!45 to 54 years,C12002
+C12002_015M,int,Margin of Error!!Total!!Male!!Now married (except separated)!!55 to 64 years,C12002
+C12002_016M,int,Margin of Error!!Total!!Male!!Now married (except separated)!!65 years and over,C12002
+C12002_017M,int,Margin of Error!!Total!!Male!!Separated,C12002
+C12002_018M,int,Margin of Error!!Total!!Male!!Separated!!15 to 19 years,C12002
+C12002_019M,int,Margin of Error!!Total!!Male!!Separated!!20 to 34 years,C12002
+C12002_020M,int,Margin of Error!!Total!!Male!!Separated!!35 to 44 years,C12002
+C12002_021M,int,Margin of Error!!Total!!Male!!Separated!!45 to 54 years,C12002
+C12002_022M,int,Margin of Error!!Total!!Male!!Separated!!55 to 64 years,C12002
+C12002_023M,int,Margin of Error!!Total!!Male!!Separated!!65 years and over,C12002
+C12002_024M,int,Margin of Error!!Total!!Male!!Widowed,C12002
+C12002_025M,int,Margin of Error!!Total!!Male!!Widowed!!15 to 19 years,C12002
+C12002_026M,int,Margin of Error!!Total!!Male!!Widowed!!20 to 34 years,C12002
+C12002_027M,int,Margin of Error!!Total!!Male!!Widowed!!35 to 44 years,C12002
+C12002_028M,int,Margin of Error!!Total!!Male!!Widowed!!45 to 54 years,C12002
+C12002_029M,int,Margin of Error!!Total!!Male!!Widowed!!55 to 64 years,C12002
+C12002_030M,int,Margin of Error!!Total!!Male!!Widowed!!65 years and over,C12002
+C12002_031M,int,Margin of Error!!Total!!Male!!Divorced,C12002
+C12002_032M,int,Margin of Error!!Total!!Male!!Divorced!!15 to 19 years,C12002
+C12002_033M,int,Margin of Error!!Total!!Male!!Divorced!!20 to 34 years,C12002
+C12002_034M,int,Margin of Error!!Total!!Male!!Divorced!!35 to 44 years,C12002
+C12002_035M,int,Margin of Error!!Total!!Male!!Divorced!!45 to 54 years,C12002
+C12002_036M,int,Margin of Error!!Total!!Male!!Divorced!!55 to 64 years,C12002
+C12002_037M,int,Margin of Error!!Total!!Male!!Divorced!!65 years and over,C12002
+C12002_038M,int,Margin of Error!!Total!!Female,C12002
+C12002_039M,int,Margin of Error!!Total!!Female!!Never married,C12002
+C12002_040M,int,Margin of Error!!Total!!Female!!Never married!!15 to 19 years,C12002
+C12002_041M,int,Margin of Error!!Total!!Female!!Never married!!20 to 34 years,C12002
+C12002_042M,int,Margin of Error!!Total!!Female!!Never married!!35 to 44 years,C12002
+C12002_043M,int,Margin of Error!!Total!!Female!!Never married!!45 to 54 years,C12002
+C12002_044M,int,Margin of Error!!Total!!Female!!Never married!!55 to 64 years,C12002
+C12002_045M,int,Margin of Error!!Total!!Female!!Never married!!65 years and over,C12002
+C12002_046M,int,Margin of Error!!Total!!Female!!Now married (except separated),C12002
+C12002_047M,int,Margin of Error!!Total!!Female!!Now married (except separated)!!15 to 19 years,C12002
+C12002_048M,int,Margin of Error!!Total!!Female!!Now married (except separated)!!20 to 34 years,C12002
+C12002_049M,int,Margin of Error!!Total!!Female!!Now married (except separated)!!35 to 44 years,C12002
+C12002_050M,int,Margin of Error!!Total!!Female!!Now married (except separated)!!45 to 54 years,C12002
+C12002_051M,int,Margin of Error!!Total!!Female!!Now married (except separated)!!55 to 64 years,C12002
+C12002_052M,int,Margin of Error!!Total!!Female!!Now married (except separated)!!65 years and over,C12002
+C12002_053M,int,Margin of Error!!Total!!Female!!Separated,C12002
+C12002_054M,int,Margin of Error!!Total!!Female!!Separated!!15 to 19 years,C12002
+C12002_055M,int,Margin of Error!!Total!!Female!!Separated!!20 to 34 years,C12002
+C12002_056M,int,Margin of Error!!Total!!Female!!Separated!!35 to 44 years,C12002
+C12002_057M,int,Margin of Error!!Total!!Female!!Separated!!45 to 54 years,C12002
+C12002_058M,int,Margin of Error!!Total!!Female!!Separated!!55 to 64 years,C12002
+C12002_059M,int,Margin of Error!!Total!!Female!!Separated!!65 years and over,C12002
+C12002_060M,int,Margin of Error!!Total!!Female!!Widowed,C12002
+C12002_061M,int,Margin of Error!!Total!!Female!!Widowed!!15 to 19 years,C12002
+C12002_062M,int,Margin of Error!!Total!!Female!!Widowed!!20 to 34 years,C12002
+C12002_063M,int,Margin of Error!!Total!!Female!!Widowed!!35 to 44 years,C12002
+C12002_064M,int,Margin of Error!!Total!!Female!!Widowed!!45 to 54 years,C12002
+C12002_065M,int,Margin of Error!!Total!!Female!!Widowed!!55 to 64 years,C12002
+C12002_066M,int,Margin of Error!!Total!!Female!!Widowed!!65 years and over,C12002
+C12002_067M,int,Margin of Error!!Total!!Female!!Divorced,C12002
+C12002_068M,int,Margin of Error!!Total!!Female!!Divorced!!15 to 19 years,C12002
+C12002_069M,int,Margin of Error!!Total!!Female!!Divorced!!20 to 34 years,C12002
+C12002_070M,int,Margin of Error!!Total!!Female!!Divorced!!35 to 44 years,C12002
+C12002_071M,int,Margin of Error!!Total!!Female!!Divorced!!45 to 54 years,C12002
+C12002_072M,int,Margin of Error!!Total!!Female!!Divorced!!55 to 64 years,C12002
+C12002_073M,int,Margin of Error!!Total!!Female!!Divorced!!65 years and over,C12002
+C12002_001EA,string,Annotation of Estimate!!Total,C12002
+C12002_001MA,string,Annotation of Margin of Error!!Total,C12002
+C12002_002EA,string,Annotation of Estimate!!Total!!Male,C12002
+C12002_002MA,string,Annotation of Margin of Error!!Total!!Male,C12002
+C12002_003EA,string,Annotation of Estimate!!Total!!Male!!Never married,C12002
+C12002_003MA,string,Annotation of Margin of Error!!Total!!Male!!Never married,C12002
+C12002_004EA,string,Annotation of Estimate!!Total!!Male!!Never married!!15 to 19 years,C12002
+C12002_004MA,string,Annotation of Margin of Error!!Total!!Male!!Never married!!15 to 19 years,C12002
+C12002_005EA,string,Annotation of Estimate!!Total!!Male!!Never married!!20 to 34 years,C12002
+C12002_005MA,string,Annotation of Margin of Error!!Total!!Male!!Never married!!20 to 34 years,C12002
+C12002_006EA,string,Annotation of Estimate!!Total!!Male!!Never married!!35 to 44 years,C12002
+C12002_006MA,string,Annotation of Margin of Error!!Total!!Male!!Never married!!35 to 44 years,C12002
+C12002_007EA,string,Annotation of Estimate!!Total!!Male!!Never married!!45 to 54 years,C12002
+C12002_007MA,string,Annotation of Margin of Error!!Total!!Male!!Never married!!45 to 54 years,C12002
+C12002_008EA,string,Annotation of Estimate!!Total!!Male!!Never married!!55 to 64 years,C12002
+C12002_008MA,string,Annotation of Margin of Error!!Total!!Male!!Never married!!55 to 64 years,C12002
+C12002_009EA,string,Annotation of Estimate!!Total!!Male!!Never married!!65 years and over,C12002
+C12002_009MA,string,Annotation of Margin of Error!!Total!!Male!!Never married!!65 years and over,C12002
+C12002_010EA,string,Annotation of Estimate!!Total!!Male!!Now married (except separated),C12002
+C12002_010MA,string,Annotation of Margin of Error!!Total!!Male!!Now married (except separated),C12002
+C12002_011EA,string,Annotation of Estimate!!Total!!Male!!Now married (except separated)!!15 to 19 years,C12002
+C12002_011MA,string,Annotation of Margin of Error!!Total!!Male!!Now married (except separated)!!15 to 19 years,C12002
+C12002_012EA,string,Annotation of Estimate!!Total!!Male!!Now married (except separated)!!20 to 34 years,C12002
+C12002_012MA,string,Annotation of Margin of Error!!Total!!Male!!Now married (except separated)!!20 to 34 years,C12002
+C12002_013EA,string,Annotation of Estimate!!Total!!Male!!Now married (except separated)!!35 to 44 years,C12002
+C12002_013MA,string,Annotation of Margin of Error!!Total!!Male!!Now married (except separated)!!35 to 44 years,C12002
+C12002_014EA,string,Annotation of Estimate!!Total!!Male!!Now married (except separated)!!45 to 54 years,C12002
+C12002_014MA,string,Annotation of Margin of Error!!Total!!Male!!Now married (except separated)!!45 to 54 years,C12002
+C12002_015EA,string,Annotation of Estimate!!Total!!Male!!Now married (except separated)!!55 to 64 years,C12002
+C12002_015MA,string,Annotation of Margin of Error!!Total!!Male!!Now married (except separated)!!55 to 64 years,C12002
+C12002_016EA,string,Annotation of Estimate!!Total!!Male!!Now married (except separated)!!65 years and over,C12002
+C12002_016MA,string,Annotation of Margin of Error!!Total!!Male!!Now married (except separated)!!65 years and over,C12002
+C12002_017EA,string,Annotation of Estimate!!Total!!Male!!Separated,C12002
+C12002_017MA,string,Annotation of Margin of Error!!Total!!Male!!Separated,C12002
+C12002_018EA,string,Annotation of Estimate!!Total!!Male!!Separated!!15 to 19 years,C12002
+C12002_018MA,string,Annotation of Margin of Error!!Total!!Male!!Separated!!15 to 19 years,C12002
+C12002_019EA,string,Annotation of Estimate!!Total!!Male!!Separated!!20 to 34 years,C12002
+C12002_019MA,string,Annotation of Margin of Error!!Total!!Male!!Separated!!20 to 34 years,C12002
+C12002_020EA,string,Annotation of Estimate!!Total!!Male!!Separated!!35 to 44 years,C12002
+C12002_020MA,string,Annotation of Margin of Error!!Total!!Male!!Separated!!35 to 44 years,C12002
+C12002_021EA,string,Annotation of Estimate!!Total!!Male!!Separated!!45 to 54 years,C12002
+C12002_021MA,string,Annotation of Margin of Error!!Total!!Male!!Separated!!45 to 54 years,C12002
+C12002_022EA,string,Annotation of Estimate!!Total!!Male!!Separated!!55 to 64 years,C12002
+C12002_022MA,string,Annotation of Margin of Error!!Total!!Male!!Separated!!55 to 64 years,C12002
+C12002_023EA,string,Annotation of Estimate!!Total!!Male!!Separated!!65 years and over,C12002
+C12002_023MA,string,Annotation of Margin of Error!!Total!!Male!!Separated!!65 years and over,C12002
+C12002_024EA,string,Annotation of Estimate!!Total!!Male!!Widowed,C12002
+C12002_024MA,string,Annotation of Margin of Error!!Total!!Male!!Widowed,C12002
+C12002_025EA,string,Annotation of Estimate!!Total!!Male!!Widowed!!15 to 19 years,C12002
+C12002_025MA,string,Annotation of Margin of Error!!Total!!Male!!Widowed!!15 to 19 years,C12002
+C12002_026EA,string,Annotation of Estimate!!Total!!Male!!Widowed!!20 to 34 years,C12002
+C12002_026MA,string,Annotation of Margin of Error!!Total!!Male!!Widowed!!20 to 34 years,C12002
+C12002_027EA,string,Annotation of Estimate!!Total!!Male!!Widowed!!35 to 44 years,C12002
+C12002_027MA,string,Annotation of Margin of Error!!Total!!Male!!Widowed!!35 to 44 years,C12002
+C12002_028EA,string,Annotation of Estimate!!Total!!Male!!Widowed!!45 to 54 years,C12002
+C12002_028MA,string,Annotation of Margin of Error!!Total!!Male!!Widowed!!45 to 54 years,C12002
+C12002_029EA,string,Annotation of Estimate!!Total!!Male!!Widowed!!55 to 64 years,C12002
+C12002_029MA,string,Annotation of Margin of Error!!Total!!Male!!Widowed!!55 to 64 years,C12002
+C12002_030EA,string,Annotation of Estimate!!Total!!Male!!Widowed!!65 years and over,C12002
+C12002_030MA,string,Annotation of Margin of Error!!Total!!Male!!Widowed!!65 years and over,C12002
+C12002_031EA,string,Annotation of Estimate!!Total!!Male!!Divorced,C12002
+C12002_031MA,string,Annotation of Margin of Error!!Total!!Male!!Divorced,C12002
+C12002_032EA,string,Annotation of Estimate!!Total!!Male!!Divorced!!15 to 19 years,C12002
+C12002_032MA,string,Annotation of Margin of Error!!Total!!Male!!Divorced!!15 to 19 years,C12002
+C12002_033EA,string,Annotation of Estimate!!Total!!Male!!Divorced!!20 to 34 years,C12002
+C12002_033MA,string,Annotation of Margin of Error!!Total!!Male!!Divorced!!20 to 34 years,C12002
+C12002_034EA,string,Annotation of Estimate!!Total!!Male!!Divorced!!35 to 44 years,C12002
+C12002_034MA,string,Annotation of Margin of Error!!Total!!Male!!Divorced!!35 to 44 years,C12002
+C12002_035EA,string,Annotation of Estimate!!Total!!Male!!Divorced!!45 to 54 years,C12002
+C12002_035MA,string,Annotation of Margin of Error!!Total!!Male!!Divorced!!45 to 54 years,C12002
+C12002_036EA,string,Annotation of Estimate!!Total!!Male!!Divorced!!55 to 64 years,C12002
+C12002_036MA,string,Annotation of Margin of Error!!Total!!Male!!Divorced!!55 to 64 years,C12002
+C12002_037EA,string,Annotation of Estimate!!Total!!Male!!Divorced!!65 years and over,C12002
+C12002_037MA,string,Annotation of Margin of Error!!Total!!Male!!Divorced!!65 years and over,C12002
+C12002_038EA,string,Annotation of Estimate!!Total!!Female,C12002
+C12002_038MA,string,Annotation of Margin of Error!!Total!!Female,C12002
+C12002_039EA,string,Annotation of Estimate!!Total!!Female!!Never married,C12002
+C12002_039MA,string,Annotation of Margin of Error!!Total!!Female!!Never married,C12002
+C12002_040EA,string,Annotation of Estimate!!Total!!Female!!Never married!!15 to 19 years,C12002
+C12002_040MA,string,Annotation of Margin of Error!!Total!!Female!!Never married!!15 to 19 years,C12002
+C12002_041EA,string,Annotation of Estimate!!Total!!Female!!Never married!!20 to 34 years,C12002
+C12002_041MA,string,Annotation of Margin of Error!!Total!!Female!!Never married!!20 to 34 years,C12002
+C12002_042EA,string,Annotation of Estimate!!Total!!Female!!Never married!!35 to 44 years,C12002
+C12002_042MA,string,Annotation of Margin of Error!!Total!!Female!!Never married!!35 to 44 years,C12002
+C12002_043EA,string,Annotation of Estimate!!Total!!Female!!Never married!!45 to 54 years,C12002
+C12002_043MA,string,Annotation of Margin of Error!!Total!!Female!!Never married!!45 to 54 years,C12002
+C12002_044EA,string,Annotation of Estimate!!Total!!Female!!Never married!!55 to 64 years,C12002
+C12002_044MA,string,Annotation of Margin of Error!!Total!!Female!!Never married!!55 to 64 years,C12002
+C12002_045EA,string,Annotation of Estimate!!Total!!Female!!Never married!!65 years and over,C12002
+C12002_045MA,string,Annotation of Margin of Error!!Total!!Female!!Never married!!65 years and over,C12002
+C12002_046EA,string,Annotation of Estimate!!Total!!Female!!Now married (except separated),C12002
+C12002_046MA,string,Annotation of Margin of Error!!Total!!Female!!Now married (except separated),C12002
+C12002_047EA,string,Annotation of Estimate!!Total!!Female!!Now married (except separated)!!15 to 19 years,C12002
+C12002_047MA,string,Annotation of Margin of Error!!Total!!Female!!Now married (except separated)!!15 to 19 years,C12002
+C12002_048EA,string,Annotation of Estimate!!Total!!Female!!Now married (except separated)!!20 to 34 years,C12002
+C12002_048MA,string,Annotation of Margin of Error!!Total!!Female!!Now married (except separated)!!20 to 34 years,C12002
+C12002_049EA,string,Annotation of Estimate!!Total!!Female!!Now married (except separated)!!35 to 44 years,C12002
+C12002_049MA,string,Annotation of Margin of Error!!Total!!Female!!Now married (except separated)!!35 to 44 years,C12002
+C12002_050EA,string,Annotation of Estimate!!Total!!Female!!Now married (except separated)!!45 to 54 years,C12002
+C12002_050MA,string,Annotation of Margin of Error!!Total!!Female!!Now married (except separated)!!45 to 54 years,C12002
+C12002_051EA,string,Annotation of Estimate!!Total!!Female!!Now married (except separated)!!55 to 64 years,C12002
+C12002_051MA,string,Annotation of Margin of Error!!Total!!Female!!Now married (except separated)!!55 to 64 years,C12002
+C12002_052EA,string,Annotation of Estimate!!Total!!Female!!Now married (except separated)!!65 years and over,C12002
+C12002_052MA,string,Annotation of Margin of Error!!Total!!Female!!Now married (except separated)!!65 years and over,C12002
+C12002_053EA,string,Annotation of Estimate!!Total!!Female!!Separated,C12002
+C12002_053MA,string,Annotation of Margin of Error!!Total!!Female!!Separated,C12002
+C12002_054EA,string,Annotation of Estimate!!Total!!Female!!Separated!!15 to 19 years,C12002
+C12002_054MA,string,Annotation of Margin of Error!!Total!!Female!!Separated!!15 to 19 years,C12002
+C12002_055EA,string,Annotation of Estimate!!Total!!Female!!Separated!!20 to 34 years,C12002
+C12002_055MA,string,Annotation of Margin of Error!!Total!!Female!!Separated!!20 to 34 years,C12002
+C12002_056EA,string,Annotation of Estimate!!Total!!Female!!Separated!!35 to 44 years,C12002
+C12002_056MA,string,Annotation of Margin of Error!!Total!!Female!!Separated!!35 to 44 years,C12002
+C12002_057EA,string,Annotation of Estimate!!Total!!Female!!Separated!!45 to 54 years,C12002
+C12002_057MA,string,Annotation of Margin of Error!!Total!!Female!!Separated!!45 to 54 years,C12002
+C12002_058EA,string,Annotation of Estimate!!Total!!Female!!Separated!!55 to 64 years,C12002
+C12002_058MA,string,Annotation of Margin of Error!!Total!!Female!!Separated!!55 to 64 years,C12002
+C12002_059EA,string,Annotation of Estimate!!Total!!Female!!Separated!!65 years and over,C12002
+C12002_059MA,string,Annotation of Margin of Error!!Total!!Female!!Separated!!65 years and over,C12002
+C12002_060EA,string,Annotation of Estimate!!Total!!Female!!Widowed,C12002
+C12002_060MA,string,Annotation of Margin of Error!!Total!!Female!!Widowed,C12002
+C12002_061EA,string,Annotation of Estimate!!Total!!Female!!Widowed!!15 to 19 years,C12002
+C12002_061MA,string,Annotation of Margin of Error!!Total!!Female!!Widowed!!15 to 19 years,C12002
+C12002_062EA,string,Annotation of Estimate!!Total!!Female!!Widowed!!20 to 34 years,C12002
+C12002_062MA,string,Annotation of Margin of Error!!Total!!Female!!Widowed!!20 to 34 years,C12002
+C12002_063EA,string,Annotation of Estimate!!Total!!Female!!Widowed!!35 to 44 years,C12002
+C12002_063MA,string,Annotation of Margin of Error!!Total!!Female!!Widowed!!35 to 44 years,C12002
+C12002_064EA,string,Annotation of Estimate!!Total!!Female!!Widowed!!45 to 54 years,C12002
+C12002_064MA,string,Annotation of Margin of Error!!Total!!Female!!Widowed!!45 to 54 years,C12002
+C12002_065EA,string,Annotation of Estimate!!Total!!Female!!Widowed!!55 to 64 years,C12002
+C12002_065MA,string,Annotation of Margin of Error!!Total!!Female!!Widowed!!55 to 64 years,C12002
+C12002_066EA,string,Annotation of Estimate!!Total!!Female!!Widowed!!65 years and over,C12002
+C12002_066MA,string,Annotation of Margin of Error!!Total!!Female!!Widowed!!65 years and over,C12002
+C12002_067EA,string,Annotation of Estimate!!Total!!Female!!Divorced,C12002
+C12002_067MA,string,Annotation of Margin of Error!!Total!!Female!!Divorced,C12002
+C12002_068EA,string,Annotation of Estimate!!Total!!Female!!Divorced!!15 to 19 years,C12002
+C12002_068MA,string,Annotation of Margin of Error!!Total!!Female!!Divorced!!15 to 19 years,C12002
+C12002_069EA,string,Annotation of Estimate!!Total!!Female!!Divorced!!20 to 34 years,C12002
+C12002_069MA,string,Annotation of Margin of Error!!Total!!Female!!Divorced!!20 to 34 years,C12002
+C12002_070EA,string,Annotation of Estimate!!Total!!Female!!Divorced!!35 to 44 years,C12002
+C12002_070MA,string,Annotation of Margin of Error!!Total!!Female!!Divorced!!35 to 44 years,C12002
+C12002_071EA,string,Annotation of Estimate!!Total!!Female!!Divorced!!45 to 54 years,C12002
+C12002_071MA,string,Annotation of Margin of Error!!Total!!Female!!Divorced!!45 to 54 years,C12002
+C12002_072EA,string,Annotation of Estimate!!Total!!Female!!Divorced!!55 to 64 years,C12002
+C12002_072MA,string,Annotation of Margin of Error!!Total!!Female!!Divorced!!55 to 64 years,C12002
+C12002_073EA,string,Annotation of Estimate!!Total!!Female!!Divorced!!65 years and over,C12002
+C12002_073MA,string,Annotation of Margin of Error!!Total!!Female!!Divorced!!65 years and over,C12002

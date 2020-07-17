@@ -1,0 +1,457 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1501_C01_001E,int,Total!!Estimate!!Population 18 to 24 years,S1501
+S1501_C01_002E,float,Total!!Estimate!!Less than high school graduate,S1501
+S1501_C01_003E,float,Total!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C01_004E,float,Total!!Estimate!!Some college or associate's degree,S1501
+S1501_C01_005E,float,Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_006E,int,Total!!Estimate!!Population 25 years and over,S1501
+S1501_C01_007E,float,Total!!Estimate!!Less than 9th grade,S1501
+S1501_C01_008E,float,"Total!!Estimate!!9th to 12th grade, no diploma",S1501
+S1501_C01_009E,float,Total!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C01_010E,float,"Total!!Estimate!!Some college, no degree",S1501
+S1501_C01_011E,float,Total!!Estimate!!Associate's degree,S1501
+S1501_C01_012E,float,Total!!Estimate!!Bachelor's degree,S1501
+S1501_C01_013E,float,Total!!Estimate!!Graduate or professional degree,S1501
+S1501_C01_014E,float,Total!!Estimate!!Percent high school graduate or higher,S1501
+S1501_C01_015E,float,Total!!Estimate!!Percent bachelor's degree or higher,S1501
+S1501_C01_016E,int,Total!!Estimate!!Population 25 to 34 years,S1501
+S1501_C01_017E,float,Total!!Estimate!!High school graduate or higher,S1501
+S1501_C01_018E,float,Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_019E,int,Total!!Estimate!!Population 35 to 44 years,S1501
+S1501_C01_020E,float,Total!!Estimate!!High school graduate or higher,S1501
+S1501_C01_021E,float,Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_022E,int,Total!!Estimate!!Population 45 to 64 years,S1501
+S1501_C01_023E,float,Total!!Estimate!!High school graduate or higher,S1501
+S1501_C01_024E,float,Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_025E,int,Total!!Estimate!!Population 65 years and over,S1501
+S1501_C01_026E,float,Total!!Estimate!!High school graduate or higher,S1501
+S1501_C01_027E,float,Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_028E,float,Total!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C01_029E,float,Total!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C01_030E,float,Total!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C01_031E,float,Total!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C01_032E,int,Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C01_033E,int,Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C01_034E,int,Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C01_035E,int,Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C01_036E,int,Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C01_037E,int,Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C01_038E,float,Total!!Estimate!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C02_001E,int,Male!!Estimate!!Population 18 to 24 years,S1501
+S1501_C02_002E,float,Male!!Estimate!!Less than high school graduate,S1501
+S1501_C02_003E,float,Male!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C02_004E,float,Male!!Estimate!!Some college or associate's degree,S1501
+S1501_C02_005E,float,Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_006E,int,Male!!Estimate!!Population 25 years and over,S1501
+S1501_C02_007E,float,Male!!Estimate!!Less than 9th grade,S1501
+S1501_C02_008E,float,"Male!!Estimate!!9th to 12th grade, no diploma",S1501
+S1501_C02_009E,float,Male!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C02_010E,float,"Male!!Estimate!!Some college, no degree",S1501
+S1501_C02_011E,float,Male!!Estimate!!Associate's degree,S1501
+S1501_C02_012E,float,Male!!Estimate!!Bachelor's degree,S1501
+S1501_C02_013E,float,Male!!Estimate!!Graduate or professional degree,S1501
+S1501_C02_014E,float,Male!!Estimate!!Percent high school graduate or higher,S1501
+S1501_C02_015E,float,Male!!Estimate!!Percent bachelor's degree or higher,S1501
+S1501_C02_016E,int,Male!!Estimate!!Population 25 to 34 years,S1501
+S1501_C02_017E,float,Male!!Estimate!!High school graduate or higher,S1501
+S1501_C02_018E,float,Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_019E,int,Male!!Estimate!!Population 35 to 44 years,S1501
+S1501_C02_020E,float,Male!!Estimate!!High school graduate or higher,S1501
+S1501_C02_021E,float,Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_022E,int,Male!!Estimate!!Population 45 to 64 years,S1501
+S1501_C02_023E,float,Male!!Estimate!!High school graduate or higher,S1501
+S1501_C02_024E,float,Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_025E,int,Male!!Estimate!!Population 65 years and over,S1501
+S1501_C02_026E,float,Male!!Estimate!!High school graduate or higher,S1501
+S1501_C02_027E,float,Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_028E,float,Male!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C02_029E,float,Male!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C02_030E,float,Male!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C02_031E,float,Male!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C02_032E,int,Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C02_033E,int,Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C02_034E,int,Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C02_035E,int,Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C02_036E,int,Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C02_037E,int,Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C02_038E,int,Male!!Estimate!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C03_001E,int,Female!!Estimate!!Population 18 to 24 years,S1501
+S1501_C03_002E,float,Female!!Estimate!!Less than high school graduate,S1501
+S1501_C03_003E,float,Female!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C03_004E,float,Female!!Estimate!!Some college or associate's degree,S1501
+S1501_C03_005E,float,Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_006E,int,Female!!Estimate!!Population 25 years and over,S1501
+S1501_C03_007E,float,Female!!Estimate!!Less than 9th grade,S1501
+S1501_C03_008E,float,"Female!!Estimate!!9th to 12th grade, no diploma",S1501
+S1501_C03_009E,float,Female!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C03_010E,float,"Female!!Estimate!!Some college, no degree",S1501
+S1501_C03_011E,float,Female!!Estimate!!Associate's degree,S1501
+S1501_C03_012E,float,Female!!Estimate!!Bachelor's degree,S1501
+S1501_C03_013E,float,Female!!Estimate!!Graduate or professional degree,S1501
+S1501_C03_014E,float,Female!!Estimate!!Percent high school graduate or higher,S1501
+S1501_C03_015E,float,Female!!Estimate!!Percent bachelor's degree or higher,S1501
+S1501_C03_016E,int,Female!!Estimate!!Population 25 to 34 years,S1501
+S1501_C03_017E,float,Female!!Estimate!!High school graduate or higher,S1501
+S1501_C03_018E,float,Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_019E,int,Female!!Estimate!!Population 35 to 44 years,S1501
+S1501_C03_020E,float,Female!!Estimate!!High school graduate or higher,S1501
+S1501_C03_021E,float,Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_022E,int,Female!!Estimate!!Population 45 to 64 years,S1501
+S1501_C03_023E,float,Female!!Estimate!!High school graduate or higher,S1501
+S1501_C03_024E,float,Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_025E,int,Female!!Estimate!!Population 65 years and over,S1501
+S1501_C03_026E,float,Female!!Estimate!!High school graduate or higher,S1501
+S1501_C03_027E,float,Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_028E,float,Female!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C03_029E,float,Female!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C03_030E,float,Female!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C03_031E,float,Female!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C03_032E,int,Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C03_033E,int,Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C03_034E,int,Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C03_035E,int,Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C03_036E,int,Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C03_037E,int,Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C03_038E,int,Female!!Estimate!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C01_001M,int,Total!!Margin of Error!!Population 18 to 24 years,S1501
+S1501_C01_002M,float,Total!!Margin of Error!!Less than high school graduate,S1501
+S1501_C01_003M,float,Total!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C01_004M,float,Total!!Margin of Error!!Some college or associate's degree,S1501
+S1501_C01_005M,float,Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_006M,int,Total!!Margin of Error!!Population 25 years and over,S1501
+S1501_C01_007M,float,Total!!Margin of Error!!Less than 9th grade,S1501
+S1501_C01_008M,float,"Total!!Margin of Error!!9th to 12th grade, no diploma",S1501
+S1501_C01_009M,float,Total!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C01_010M,float,"Total!!Margin of Error!!Some college, no degree",S1501
+S1501_C01_011M,float,Total!!Margin of Error!!Associate's degree,S1501
+S1501_C01_012M,float,Total!!Margin of Error!!Bachelor's degree,S1501
+S1501_C01_013M,float,Total!!Margin of Error!!Graduate or professional degree,S1501
+S1501_C01_014M,float,Total!!Margin of Error!!Percent high school graduate or higher,S1501
+S1501_C01_015M,float,Total!!Margin of Error!!Percent bachelor's degree or higher,S1501
+S1501_C01_016M,int,Total!!Margin of Error!!Population 25 to 34 years,S1501
+S1501_C01_017M,float,Total!!Margin of Error!!High school graduate or higher,S1501
+S1501_C01_018M,float,Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_019M,int,Total!!Margin of Error!!Population 35 to 44 years,S1501
+S1501_C01_020M,float,Total!!Margin of Error!!High school graduate or higher,S1501
+S1501_C01_021M,float,Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_022M,int,Total!!Margin of Error!!Population 45 to 64 years,S1501
+S1501_C01_023M,float,Total!!Margin of Error!!High school graduate or higher,S1501
+S1501_C01_024M,float,Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_025M,int,Total!!Margin of Error!!Population 65 years and over,S1501
+S1501_C01_026M,float,Total!!Margin of Error!!High school graduate or higher,S1501
+S1501_C01_027M,float,Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_028M,float,Total!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C01_029M,float,Total!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C01_030M,float,Total!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C01_031M,float,Total!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C01_032M,int,Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C01_033M,int,Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C01_034M,int,Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C01_035M,int,Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C01_036M,int,Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C01_037M,int,Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C01_038M,float,Total!!Margin of Error!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C02_001M,int,Male!!Margin of Error!!Population 18 to 24 years,S1501
+S1501_C02_002M,float,Male!!Margin of Error!!Less than high school graduate,S1501
+S1501_C02_003M,float,Male!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C02_004M,float,Male!!Margin of Error!!Some college or associate's degree,S1501
+S1501_C02_005M,float,Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_006M,int,Male!!Margin of Error!!Population 25 years and over,S1501
+S1501_C02_007M,float,Male!!Margin of Error!!Less than 9th grade,S1501
+S1501_C02_008M,float,"Male!!Margin of Error!!9th to 12th grade, no diploma",S1501
+S1501_C02_009M,float,Male!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C02_010M,float,"Male!!Margin of Error!!Some college, no degree",S1501
+S1501_C02_011M,float,Male!!Margin of Error!!Associate's degree,S1501
+S1501_C02_012M,float,Male!!Margin of Error!!Bachelor's degree,S1501
+S1501_C02_013M,float,Male!!Margin of Error!!Graduate or professional degree,S1501
+S1501_C02_014M,float,Male!!Margin of Error!!Percent high school graduate or higher,S1501
+S1501_C02_015M,float,Male!!Margin of Error!!Percent bachelor's degree or higher,S1501
+S1501_C02_016M,int,Male!!Margin of Error!!Population 25 to 34 years,S1501
+S1501_C02_017M,float,Male!!Margin of Error!!High school graduate or higher,S1501
+S1501_C02_018M,float,Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_019M,int,Male!!Margin of Error!!Population 35 to 44 years,S1501
+S1501_C02_020M,float,Male!!Margin of Error!!High school graduate or higher,S1501
+S1501_C02_021M,float,Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_022M,int,Male!!Margin of Error!!Population 45 to 64 years,S1501
+S1501_C02_023M,float,Male!!Margin of Error!!High school graduate or higher,S1501
+S1501_C02_024M,float,Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_025M,int,Male!!Margin of Error!!Population 65 years and over,S1501
+S1501_C02_026M,float,Male!!Margin of Error!!High school graduate or higher,S1501
+S1501_C02_027M,float,Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_028M,float,Male!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C02_029M,float,Male!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C02_030M,float,Male!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C02_031M,float,Male!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C02_032M,int,Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C02_033M,int,Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C02_034M,int,Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C02_035M,int,Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C02_036M,int,Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C02_037M,int,Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C02_038M,int,Male!!Margin of Error!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C03_001M,int,Female!!Margin of Error!!Population 18 to 24 years,S1501
+S1501_C03_002M,float,Female!!Margin of Error!!Less than high school graduate,S1501
+S1501_C03_003M,float,Female!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C03_004M,float,Female!!Margin of Error!!Some college or associate's degree,S1501
+S1501_C03_005M,float,Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_006M,int,Female!!Margin of Error!!Population 25 years and over,S1501
+S1501_C03_007M,float,Female!!Margin of Error!!Less than 9th grade,S1501
+S1501_C03_008M,float,"Female!!Margin of Error!!9th to 12th grade, no diploma",S1501
+S1501_C03_009M,float,Female!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C03_010M,float,"Female!!Margin of Error!!Some college, no degree",S1501
+S1501_C03_011M,float,Female!!Margin of Error!!Associate's degree,S1501
+S1501_C03_012M,float,Female!!Margin of Error!!Bachelor's degree,S1501
+S1501_C03_013M,float,Female!!Margin of Error!!Graduate or professional degree,S1501
+S1501_C03_014M,float,Female!!Margin of Error!!Percent high school graduate or higher,S1501
+S1501_C03_015M,float,Female!!Margin of Error!!Percent bachelor's degree or higher,S1501
+S1501_C03_016M,int,Female!!Margin of Error!!Population 25 to 34 years,S1501
+S1501_C03_017M,float,Female!!Margin of Error!!High school graduate or higher,S1501
+S1501_C03_018M,float,Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_019M,int,Female!!Margin of Error!!Population 35 to 44 years,S1501
+S1501_C03_020M,float,Female!!Margin of Error!!High school graduate or higher,S1501
+S1501_C03_021M,float,Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_022M,int,Female!!Margin of Error!!Population 45 to 64 years,S1501
+S1501_C03_023M,float,Female!!Margin of Error!!High school graduate or higher,S1501
+S1501_C03_024M,float,Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_025M,int,Female!!Margin of Error!!Population 65 years and over,S1501
+S1501_C03_026M,float,Female!!Margin of Error!!High school graduate or higher,S1501
+S1501_C03_027M,float,Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_028M,float,Female!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C03_029M,float,Female!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C03_030M,float,Female!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C03_031M,float,Female!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C03_032M,int,Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C03_033M,int,Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C03_034M,int,Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C03_035M,int,Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C03_036M,int,Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C03_037M,int,Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C03_038M,int,Female!!Margin of Error!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C01_001EA,string,Annotation of Total!!Estimate!!Population 18 to 24 years,S1501
+S1501_C01_001MA,string,Annotation of Total!!Margin of Error!!Population 18 to 24 years,S1501
+S1501_C01_002EA,string,Annotation of Total!!Estimate!!Less than high school graduate,S1501
+S1501_C01_002MA,string,Annotation of Total!!Margin of Error!!Less than high school graduate,S1501
+S1501_C01_003EA,string,Annotation of Total!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C01_003MA,string,Annotation of Total!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C01_004EA,string,Annotation of Total!!Estimate!!Some college or associate's degree,S1501
+S1501_C01_004MA,string,Annotation of Total!!Margin of Error!!Some college or associate's degree,S1501
+S1501_C01_005EA,string,Annotation of Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_005MA,string,Annotation of Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_006EA,string,Annotation of Total!!Estimate!!Population 25 years and over,S1501
+S1501_C01_006MA,string,Annotation of Total!!Margin of Error!!Population 25 years and over,S1501
+S1501_C01_007EA,string,Annotation of Total!!Estimate!!Less than 9th grade,S1501
+S1501_C01_007MA,string,Annotation of Total!!Margin of Error!!Less than 9th grade,S1501
+S1501_C01_008EA,string,"Annotation of Total!!Estimate!!9th to 12th grade, no diploma",S1501
+S1501_C01_008MA,string,"Annotation of Total!!Margin of Error!!9th to 12th grade, no diploma",S1501
+S1501_C01_009EA,string,Annotation of Total!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C01_009MA,string,Annotation of Total!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C01_010EA,string,"Annotation of Total!!Estimate!!Some college, no degree",S1501
+S1501_C01_010MA,string,"Annotation of Total!!Margin of Error!!Some college, no degree",S1501
+S1501_C01_011EA,string,Annotation of Total!!Estimate!!Associate's degree,S1501
+S1501_C01_011MA,string,Annotation of Total!!Margin of Error!!Associate's degree,S1501
+S1501_C01_012EA,string,Annotation of Total!!Estimate!!Bachelor's degree,S1501
+S1501_C01_012MA,string,Annotation of Total!!Margin of Error!!Bachelor's degree,S1501
+S1501_C01_013EA,string,Annotation of Total!!Estimate!!Graduate or professional degree,S1501
+S1501_C01_013MA,string,Annotation of Total!!Margin of Error!!Graduate or professional degree,S1501
+S1501_C01_014EA,string,Annotation of Total!!Estimate!!Percent high school graduate or higher,S1501
+S1501_C01_014MA,string,Annotation of Total!!Margin of Error!!Percent high school graduate or higher,S1501
+S1501_C01_015EA,string,Annotation of Total!!Estimate!!Percent bachelor's degree or higher,S1501
+S1501_C01_015MA,string,Annotation of Total!!Margin of Error!!Percent bachelor's degree or higher,S1501
+S1501_C01_016EA,string,Annotation of Total!!Estimate!!Population 25 to 34 years,S1501
+S1501_C01_016MA,string,Annotation of Total!!Margin of Error!!Population 25 to 34 years,S1501
+S1501_C01_017EA,string,Annotation of Total!!Estimate!!High school graduate or higher,S1501
+S1501_C01_017MA,string,Annotation of Total!!Margin of Error!!High school graduate or higher,S1501
+S1501_C01_018EA,string,Annotation of Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_018MA,string,Annotation of Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_019EA,string,Annotation of Total!!Estimate!!Population 35 to 44 years,S1501
+S1501_C01_019MA,string,Annotation of Total!!Margin of Error!!Population 35 to 44 years,S1501
+S1501_C01_020EA,string,Annotation of Total!!Estimate!!High school graduate or higher,S1501
+S1501_C01_020MA,string,Annotation of Total!!Margin of Error!!High school graduate or higher,S1501
+S1501_C01_021EA,string,Annotation of Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_021MA,string,Annotation of Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_022EA,string,Annotation of Total!!Estimate!!Population 45 to 64 years,S1501
+S1501_C01_022MA,string,Annotation of Total!!Margin of Error!!Population 45 to 64 years,S1501
+S1501_C01_023EA,string,Annotation of Total!!Estimate!!High school graduate or higher,S1501
+S1501_C01_023MA,string,Annotation of Total!!Margin of Error!!High school graduate or higher,S1501
+S1501_C01_024EA,string,Annotation of Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_024MA,string,Annotation of Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_025EA,string,Annotation of Total!!Estimate!!Population 65 years and over,S1501
+S1501_C01_025MA,string,Annotation of Total!!Margin of Error!!Population 65 years and over,S1501
+S1501_C01_026EA,string,Annotation of Total!!Estimate!!High school graduate or higher,S1501
+S1501_C01_026MA,string,Annotation of Total!!Margin of Error!!High school graduate or higher,S1501
+S1501_C01_027EA,string,Annotation of Total!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C01_027MA,string,Annotation of Total!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C01_028EA,string,Annotation of Total!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C01_028MA,string,Annotation of Total!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C01_029EA,string,Annotation of Total!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C01_029MA,string,Annotation of Total!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C01_030EA,string,Annotation of Total!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C01_030MA,string,Annotation of Total!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C01_031EA,string,Annotation of Total!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C01_031MA,string,Annotation of Total!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C01_032EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C01_032MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C01_033EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C01_033MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C01_034EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C01_034MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C01_035EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C01_035MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C01_036EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C01_036MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C01_037EA,string,Annotation of Total!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C01_037MA,string,Annotation of Total!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C01_038EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C01_038MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C02_001EA,string,Annotation of Male!!Estimate!!Population 18 to 24 years,S1501
+S1501_C02_001MA,string,Annotation of Male!!Margin of Error!!Population 18 to 24 years,S1501
+S1501_C02_002EA,string,Annotation of Male!!Estimate!!Less than high school graduate,S1501
+S1501_C02_002MA,string,Annotation of Male!!Margin of Error!!Less than high school graduate,S1501
+S1501_C02_003EA,string,Annotation of Male!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C02_003MA,string,Annotation of Male!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C02_004EA,string,Annotation of Male!!Estimate!!Some college or associate's degree,S1501
+S1501_C02_004MA,string,Annotation of Male!!Margin of Error!!Some college or associate's degree,S1501
+S1501_C02_005EA,string,Annotation of Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_005MA,string,Annotation of Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_006EA,string,Annotation of Male!!Estimate!!Population 25 years and over,S1501
+S1501_C02_006MA,string,Annotation of Male!!Margin of Error!!Population 25 years and over,S1501
+S1501_C02_007EA,string,Annotation of Male!!Estimate!!Less than 9th grade,S1501
+S1501_C02_007MA,string,Annotation of Male!!Margin of Error!!Less than 9th grade,S1501
+S1501_C02_008EA,string,"Annotation of Male!!Estimate!!9th to 12th grade, no diploma",S1501
+S1501_C02_008MA,string,"Annotation of Male!!Margin of Error!!9th to 12th grade, no diploma",S1501
+S1501_C02_009EA,string,Annotation of Male!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C02_009MA,string,Annotation of Male!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C02_010EA,string,"Annotation of Male!!Estimate!!Some college, no degree",S1501
+S1501_C02_010MA,string,"Annotation of Male!!Margin of Error!!Some college, no degree",S1501
+S1501_C02_011EA,string,Annotation of Male!!Estimate!!Associate's degree,S1501
+S1501_C02_011MA,string,Annotation of Male!!Margin of Error!!Associate's degree,S1501
+S1501_C02_012EA,string,Annotation of Male!!Estimate!!Bachelor's degree,S1501
+S1501_C02_012MA,string,Annotation of Male!!Margin of Error!!Bachelor's degree,S1501
+S1501_C02_013EA,string,Annotation of Male!!Estimate!!Graduate or professional degree,S1501
+S1501_C02_013MA,string,Annotation of Male!!Margin of Error!!Graduate or professional degree,S1501
+S1501_C02_014EA,string,Annotation of Male!!Estimate!!Percent high school graduate or higher,S1501
+S1501_C02_014MA,string,Annotation of Male!!Margin of Error!!Percent high school graduate or higher,S1501
+S1501_C02_015EA,string,Annotation of Male!!Estimate!!Percent bachelor's degree or higher,S1501
+S1501_C02_015MA,string,Annotation of Male!!Margin of Error!!Percent bachelor's degree or higher,S1501
+S1501_C02_016EA,string,Annotation of Male!!Estimate!!Population 25 to 34 years,S1501
+S1501_C02_016MA,string,Annotation of Male!!Margin of Error!!Population 25 to 34 years,S1501
+S1501_C02_017EA,string,Annotation of Male!!Estimate!!High school graduate or higher,S1501
+S1501_C02_017MA,string,Annotation of Male!!Margin of Error!!High school graduate or higher,S1501
+S1501_C02_018EA,string,Annotation of Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_018MA,string,Annotation of Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_019EA,string,Annotation of Male!!Estimate!!Population 35 to 44 years,S1501
+S1501_C02_019MA,string,Annotation of Male!!Margin of Error!!Population 35 to 44 years,S1501
+S1501_C02_020EA,string,Annotation of Male!!Estimate!!High school graduate or higher,S1501
+S1501_C02_020MA,string,Annotation of Male!!Margin of Error!!High school graduate or higher,S1501
+S1501_C02_021EA,string,Annotation of Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_021MA,string,Annotation of Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_022EA,string,Annotation of Male!!Estimate!!Population 45 to 64 years,S1501
+S1501_C02_022MA,string,Annotation of Male!!Margin of Error!!Population 45 to 64 years,S1501
+S1501_C02_023EA,string,Annotation of Male!!Estimate!!High school graduate or higher,S1501
+S1501_C02_023MA,string,Annotation of Male!!Margin of Error!!High school graduate or higher,S1501
+S1501_C02_024EA,string,Annotation of Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_024MA,string,Annotation of Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_025EA,string,Annotation of Male!!Estimate!!Population 65 years and over,S1501
+S1501_C02_025MA,string,Annotation of Male!!Margin of Error!!Population 65 years and over,S1501
+S1501_C02_026EA,string,Annotation of Male!!Estimate!!High school graduate or higher,S1501
+S1501_C02_026MA,string,Annotation of Male!!Margin of Error!!High school graduate or higher,S1501
+S1501_C02_027EA,string,Annotation of Male!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C02_027MA,string,Annotation of Male!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C02_028EA,string,Annotation of Male!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C02_028MA,string,Annotation of Male!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C02_029EA,string,Annotation of Male!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C02_029MA,string,Annotation of Male!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C02_030EA,string,Annotation of Male!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C02_030MA,string,Annotation of Male!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C02_031EA,string,Annotation of Male!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C02_031MA,string,Annotation of Male!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C02_032EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C02_032MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C02_033EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C02_033MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C02_034EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C02_034MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C02_035EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C02_035MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C02_036EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C02_036MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C02_037EA,string,Annotation of Male!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C02_037MA,string,Annotation of Male!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C02_038EA,string,Annotation of Male!!Estimate!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C02_038MA,string,Annotation of Male!!Margin of Error!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C03_001EA,string,Annotation of Female!!Estimate!!Population 18 to 24 years,S1501
+S1501_C03_001MA,string,Annotation of Female!!Margin of Error!!Population 18 to 24 years,S1501
+S1501_C03_002EA,string,Annotation of Female!!Estimate!!Less than high school graduate,S1501
+S1501_C03_002MA,string,Annotation of Female!!Margin of Error!!Less than high school graduate,S1501
+S1501_C03_003EA,string,Annotation of Female!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C03_003MA,string,Annotation of Female!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C03_004EA,string,Annotation of Female!!Estimate!!Some college or associate's degree,S1501
+S1501_C03_004MA,string,Annotation of Female!!Margin of Error!!Some college or associate's degree,S1501
+S1501_C03_005EA,string,Annotation of Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_005MA,string,Annotation of Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_006EA,string,Annotation of Female!!Estimate!!Population 25 years and over,S1501
+S1501_C03_006MA,string,Annotation of Female!!Margin of Error!!Population 25 years and over,S1501
+S1501_C03_007EA,string,Annotation of Female!!Estimate!!Less than 9th grade,S1501
+S1501_C03_007MA,string,Annotation of Female!!Margin of Error!!Less than 9th grade,S1501
+S1501_C03_008EA,string,"Annotation of Female!!Estimate!!9th to 12th grade, no diploma",S1501
+S1501_C03_008MA,string,"Annotation of Female!!Margin of Error!!9th to 12th grade, no diploma",S1501
+S1501_C03_009EA,string,Annotation of Female!!Estimate!!High school graduate (includes equivalency),S1501
+S1501_C03_009MA,string,Annotation of Female!!Margin of Error!!High school graduate (includes equivalency),S1501
+S1501_C03_010EA,string,"Annotation of Female!!Estimate!!Some college, no degree",S1501
+S1501_C03_010MA,string,"Annotation of Female!!Margin of Error!!Some college, no degree",S1501
+S1501_C03_011EA,string,Annotation of Female!!Estimate!!Associate's degree,S1501
+S1501_C03_011MA,string,Annotation of Female!!Margin of Error!!Associate's degree,S1501
+S1501_C03_012EA,string,Annotation of Female!!Estimate!!Bachelor's degree,S1501
+S1501_C03_012MA,string,Annotation of Female!!Margin of Error!!Bachelor's degree,S1501
+S1501_C03_013EA,string,Annotation of Female!!Estimate!!Graduate or professional degree,S1501
+S1501_C03_013MA,string,Annotation of Female!!Margin of Error!!Graduate or professional degree,S1501
+S1501_C03_014EA,string,Annotation of Female!!Estimate!!Percent high school graduate or higher,S1501
+S1501_C03_014MA,string,Annotation of Female!!Margin of Error!!Percent high school graduate or higher,S1501
+S1501_C03_015EA,string,Annotation of Female!!Estimate!!Percent bachelor's degree or higher,S1501
+S1501_C03_015MA,string,Annotation of Female!!Margin of Error!!Percent bachelor's degree or higher,S1501
+S1501_C03_016EA,string,Annotation of Female!!Estimate!!Population 25 to 34 years,S1501
+S1501_C03_016MA,string,Annotation of Female!!Margin of Error!!Population 25 to 34 years,S1501
+S1501_C03_017EA,string,Annotation of Female!!Estimate!!High school graduate or higher,S1501
+S1501_C03_017MA,string,Annotation of Female!!Margin of Error!!High school graduate or higher,S1501
+S1501_C03_018EA,string,Annotation of Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_018MA,string,Annotation of Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_019EA,string,Annotation of Female!!Estimate!!Population 35 to 44 years,S1501
+S1501_C03_019MA,string,Annotation of Female!!Margin of Error!!Population 35 to 44 years,S1501
+S1501_C03_020EA,string,Annotation of Female!!Estimate!!High school graduate or higher,S1501
+S1501_C03_020MA,string,Annotation of Female!!Margin of Error!!High school graduate or higher,S1501
+S1501_C03_021EA,string,Annotation of Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_021MA,string,Annotation of Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_022EA,string,Annotation of Female!!Estimate!!Population 45 to 64 years,S1501
+S1501_C03_022MA,string,Annotation of Female!!Margin of Error!!Population 45 to 64 years,S1501
+S1501_C03_023EA,string,Annotation of Female!!Estimate!!High school graduate or higher,S1501
+S1501_C03_023MA,string,Annotation of Female!!Margin of Error!!High school graduate or higher,S1501
+S1501_C03_024EA,string,Annotation of Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_024MA,string,Annotation of Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_025EA,string,Annotation of Female!!Estimate!!Population 65 years and over,S1501
+S1501_C03_025MA,string,Annotation of Female!!Margin of Error!!Population 65 years and over,S1501
+S1501_C03_026EA,string,Annotation of Female!!Estimate!!High school graduate or higher,S1501
+S1501_C03_026MA,string,Annotation of Female!!Margin of Error!!High school graduate or higher,S1501
+S1501_C03_027EA,string,Annotation of Female!!Estimate!!Bachelor's degree or higher,S1501
+S1501_C03_027MA,string,Annotation of Female!!Margin of Error!!Bachelor's degree or higher,S1501
+S1501_C03_028EA,string,Annotation of Female!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C03_028MA,string,Annotation of Female!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,S1501
+S1501_C03_029EA,string,Annotation of Female!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C03_029MA,string,Annotation of Female!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),S1501
+S1501_C03_030EA,string,Annotation of Female!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C03_030MA,string,Annotation of Female!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,S1501
+S1501_C03_031EA,string,Annotation of Female!!Estimate!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C03_031MA,string,Annotation of Female!!Margin of Error!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,S1501
+S1501_C03_032EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C03_032MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,S1501
+S1501_C03_033EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C03_033MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Less than high school graduate,S1501
+S1501_C03_034EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C03_034MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!High school graduate (includes equivalency),S1501
+S1501_C03_035EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C03_035MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Some college or associate's degree,S1501
+S1501_C03_036EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C03_036MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Bachelor's degree,S1501
+S1501_C03_037EA,string,Annotation of Female!!Estimate!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C03_037MA,string,Annotation of Female!!Margin of Error!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS)!!Graduate or professional degree,S1501
+S1501_C03_038EA,string,Annotation of Female!!Estimate!!PERCENT IMPUTED!!Educational attainment,S1501
+S1501_C03_038MA,string,Annotation of Female!!Margin of Error!!PERCENT IMPUTED!!Educational attainment,S1501

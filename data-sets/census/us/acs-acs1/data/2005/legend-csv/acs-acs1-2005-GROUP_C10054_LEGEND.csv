@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+C10054_001E,int,Estimate!!Total,C10054
+C10054_002E,int,Estimate!!Total!!Speak only English,C10054
+C10054_003E,int,Estimate!!Total!!Speak other language,C10054
+C10054_004E,int,"Estimate!!Total!!Speak other language!!Speak English ""very well""",C10054
+C10054_005E,int,"Estimate!!Total!!Speak other language!!Speak English less than ""very well""",C10054
+C10054_001M,int,Margin of Error!!Total,C10054
+C10054_002M,int,Margin of Error!!Total!!Speak only English,C10054
+C10054_003M,int,Margin of Error!!Total!!Speak other language,C10054
+C10054_004M,int,"Margin of Error!!Total!!Speak other language!!Speak English ""very well""",C10054
+C10054_005M,int,"Margin of Error!!Total!!Speak other language!!Speak English less than ""very well""",C10054
+C10054_001EA,string,Annotation of Estimate!!Total,C10054
+C10054_001MA,string,Annotation of Margin of Error!!Total,C10054
+C10054_002EA,string,Annotation of Estimate!!Total!!Speak only English,C10054
+C10054_002MA,string,Annotation of Margin of Error!!Total!!Speak only English,C10054
+C10054_003EA,string,Annotation of Estimate!!Total!!Speak other language,C10054
+C10054_003MA,string,Annotation of Margin of Error!!Total!!Speak other language,C10054
+C10054_004EA,string,"Annotation of Estimate!!Total!!Speak other language!!Speak English ""very well""",C10054
+C10054_004MA,string,"Annotation of Margin of Error!!Total!!Speak other language!!Speak English ""very well""",C10054
+C10054_005EA,string,"Annotation of Estimate!!Total!!Speak other language!!Speak English less than ""very well""",C10054
+C10054_005MA,string,"Annotation of Margin of Error!!Total!!Speak other language!!Speak English less than ""very well""",C10054

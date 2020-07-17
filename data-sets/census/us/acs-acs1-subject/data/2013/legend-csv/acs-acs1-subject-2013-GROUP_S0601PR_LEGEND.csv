@@ -1,0 +1,849 @@
+VARIABLE,TYPE,LABEL,GROUP
+S0601PR_C01_001E,int,Total!!Estimate!!Total population,S0601PR
+S0601PR_C01_002E,float,Total!!Estimate!!AGE!!Under 5 years,S0601PR
+S0601PR_C01_003E,float,Total!!Estimate!!AGE!!5 to 17 years,S0601PR
+S0601PR_C01_004E,float,Total!!Estimate!!AGE!!18 to 24 years,S0601PR
+S0601PR_C01_005E,float,Total!!Estimate!!AGE!!25 to 44 years,S0601PR
+S0601PR_C01_006E,float,Total!!Estimate!!AGE!!45 to 54 years,S0601PR
+S0601PR_C01_007E,float,Total!!Estimate!!AGE!!55 to 64 years,S0601PR
+S0601PR_C01_008E,float,Total!!Estimate!!AGE!!65 to 74 years,S0601PR
+S0601PR_C01_009E,float,Total!!Estimate!!AGE!!75 years and over,S0601PR
+S0601PR_C01_010E,float,Total!!Estimate!!Median age (years),S0601PR
+S0601PR_C01_011E,float,Total!!Estimate!!SEX!!Male,S0601PR
+S0601PR_C01_012E,float,Total!!Estimate!!SEX!!Female,S0601PR
+S0601PR_C01_013E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C01_014E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C01_015E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C01_016E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C01_017E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C01_018E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C01_019E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C01_020E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C01_021E,float,Total!!Estimate!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C01_022E,float,"Total!!Estimate!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C01_023E,int,Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C01_024E,float,Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C01_025E,float,"Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C01_026E,float,"Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C01_027E,int,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C01_028E,float,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C01_029E,float,"Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C01_030E,float,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C01_031E,float,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C01_032E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C01_033E,float,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C01_034E,float,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C01_035E,float,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C01_036E,float,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C01_037E,float,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C01_038E,int,Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C01_039E,float,"Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C01_040E,float,"Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C01_041E,float,"Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C01_042E,float,"Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C01_043E,float,"Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C01_044E,float,"Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C01_045E,float,"Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C01_046E,float,"Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C01_047E,int,Total!!Estimate!!Median income (dollars),S0601PR
+S0601PR_C01_048E,int,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C01_049E,float,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C01_050E,float,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C01_051E,float,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C01_052E,float,Total!!Estimate!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C01_053E,float,Total!!Estimate!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C02_001E,int,Native; born in Puerto Rico!!Estimate!!Total population,S0601PR
+S0601PR_C02_002E,float,Native; born in Puerto Rico!!Estimate!!AGE!!Under 5 years,S0601PR
+S0601PR_C02_003E,float,Native; born in Puerto Rico!!Estimate!!AGE!!5 to 17 years,S0601PR
+S0601PR_C02_004E,float,Native; born in Puerto Rico!!Estimate!!AGE!!18 to 24 years,S0601PR
+S0601PR_C02_005E,float,Native; born in Puerto Rico!!Estimate!!AGE!!25 to 44 years,S0601PR
+S0601PR_C02_006E,float,Native; born in Puerto Rico!!Estimate!!AGE!!45 to 54 years,S0601PR
+S0601PR_C02_007E,float,Native; born in Puerto Rico!!Estimate!!AGE!!55 to 64 years,S0601PR
+S0601PR_C02_008E,float,Native; born in Puerto Rico!!Estimate!!AGE!!65 to 74 years,S0601PR
+S0601PR_C02_009E,float,Native; born in Puerto Rico!!Estimate!!AGE!!75 years and over,S0601PR
+S0601PR_C02_010E,float,Native; born in Puerto Rico!!Estimate!!Median age (years),S0601PR
+S0601PR_C02_011E,float,Native; born in Puerto Rico!!Estimate!!SEX!!Male,S0601PR
+S0601PR_C02_012E,float,Native; born in Puerto Rico!!Estimate!!SEX!!Female,S0601PR
+S0601PR_C02_013E,float,Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C02_014E,float,Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C02_015E,float,Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C02_016E,float,Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C02_017E,float,Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C02_018E,float,Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C02_019E,float,Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C02_020E,float,Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C02_021E,float,Native; born in Puerto Rico!!Estimate!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C02_022E,float,"Native; born in Puerto Rico!!Estimate!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C02_023E,int,Native; born in Puerto Rico!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C02_024E,float,Native; born in Puerto Rico!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C02_025E,float,"Native; born in Puerto Rico!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C02_026E,float,"Native; born in Puerto Rico!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C02_027E,int,Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C02_028E,float,Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C02_029E,float,"Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C02_030E,float,Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C02_031E,float,Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C02_032E,int,Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C02_033E,float,Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C02_034E,float,Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C02_035E,float,Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C02_036E,float,Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C02_037E,float,Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C02_038E,int,Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C02_039E,float,"Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C02_040E,float,"Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C02_041E,float,"Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C02_042E,float,"Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C02_043E,float,"Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C02_044E,float,"Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C02_045E,float,"Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C02_046E,float,"Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C02_047E,int,Native; born in Puerto Rico!!Estimate!!Median income (dollars),S0601PR
+S0601PR_C02_048E,int,Native; born in Puerto Rico!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C02_049E,float,Native; born in Puerto Rico!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C02_050E,float,Native; born in Puerto Rico!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C02_051E,float,Native; born in Puerto Rico!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C02_052E,int,Native; born in Puerto Rico!!Estimate!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C02_053E,int,Native; born in Puerto Rico!!Estimate!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C03_001E,int,Native; born in the U.S.!!Estimate!!Total population,S0601PR
+S0601PR_C03_002E,float,Native; born in the U.S.!!Estimate!!AGE!!Under 5 years,S0601PR
+S0601PR_C03_003E,float,Native; born in the U.S.!!Estimate!!AGE!!5 to 17 years,S0601PR
+S0601PR_C03_004E,float,Native; born in the U.S.!!Estimate!!AGE!!18 to 24 years,S0601PR
+S0601PR_C03_005E,float,Native; born in the U.S.!!Estimate!!AGE!!25 to 44 years,S0601PR
+S0601PR_C03_006E,float,Native; born in the U.S.!!Estimate!!AGE!!45 to 54 years,S0601PR
+S0601PR_C03_007E,float,Native; born in the U.S.!!Estimate!!AGE!!55 to 64 years,S0601PR
+S0601PR_C03_008E,float,Native; born in the U.S.!!Estimate!!AGE!!65 to 74 years,S0601PR
+S0601PR_C03_009E,float,Native; born in the U.S.!!Estimate!!AGE!!75 years and over,S0601PR
+S0601PR_C03_010E,float,Native; born in the U.S.!!Estimate!!Median age (years),S0601PR
+S0601PR_C03_011E,float,Native; born in the U.S.!!Estimate!!SEX!!Male,S0601PR
+S0601PR_C03_012E,float,Native; born in the U.S.!!Estimate!!SEX!!Female,S0601PR
+S0601PR_C03_013E,float,Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C03_014E,float,Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C03_015E,float,Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C03_016E,float,Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C03_017E,float,Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C03_018E,float,Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C03_019E,float,Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C03_020E,float,Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C03_021E,float,Native; born in the U.S.!!Estimate!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C03_022E,float,"Native; born in the U.S.!!Estimate!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C03_023E,int,Native; born in the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C03_024E,float,Native; born in the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C03_025E,float,"Native; born in the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C03_026E,float,"Native; born in the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C03_027E,int,Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C03_028E,float,Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C03_029E,float,"Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C03_030E,float,Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C03_031E,float,Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C03_032E,int,Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C03_033E,float,Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C03_034E,float,Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C03_035E,float,Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C03_036E,float,Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C03_037E,float,Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C03_038E,int,Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C03_039E,float,"Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C03_040E,float,"Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C03_041E,float,"Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C03_042E,float,"Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C03_043E,float,"Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C03_044E,float,"Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C03_045E,float,"Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C03_046E,float,"Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C03_047E,int,Native; born in the U.S.!!Estimate!!Median income (dollars),S0601PR
+S0601PR_C03_048E,int,Native; born in the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C03_049E,float,Native; born in the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C03_050E,float,Native; born in the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C03_051E,float,Native; born in the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C03_052E,int,Native; born in the U.S.!!Estimate!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C03_053E,int,Native; born in the U.S.!!Estimate!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C04_001E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!Total population,S0601PR
+S0601PR_C04_002E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!Under 5 years,S0601PR
+S0601PR_C04_003E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!5 to 17 years,S0601PR
+S0601PR_C04_004E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!18 to 24 years,S0601PR
+S0601PR_C04_005E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!25 to 44 years,S0601PR
+S0601PR_C04_006E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!45 to 54 years,S0601PR
+S0601PR_C04_007E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!55 to 64 years,S0601PR
+S0601PR_C04_008E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!65 to 74 years,S0601PR
+S0601PR_C04_009E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!75 years and over,S0601PR
+S0601PR_C04_010E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!Median age (years),S0601PR
+S0601PR_C04_011E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!SEX!!Male,S0601PR
+S0601PR_C04_012E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!SEX!!Female,S0601PR
+S0601PR_C04_013E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C04_014E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C04_015E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C04_016E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C04_017E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C04_018E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C04_019E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C04_020E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C04_021E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C04_022E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C04_023E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C04_024E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C04_025E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C04_026E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C04_027E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C04_028E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C04_029E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C04_030E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C04_031E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C04_032E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C04_033E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C04_034E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C04_035E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C04_036E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C04_037E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C04_038E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C04_039E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C04_040E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C04_041E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C04_042E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C04_043E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C04_044E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C04_045E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C04_046E,float,"Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C04_047E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!Median income (dollars),S0601PR
+S0601PR_C04_048E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C04_049E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C04_050E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C04_051E,float,Native; born outside Puerto Rico and the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C04_052E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C04_053E,int,Native; born outside Puerto Rico and the U.S.!!Estimate!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C01_001M,int,Total!!Margin of Error!!Total population,S0601PR
+S0601PR_C01_002M,float,Total!!Margin of Error!!AGE!!Under 5 years,S0601PR
+S0601PR_C01_003M,float,Total!!Margin of Error!!AGE!!5 to 17 years,S0601PR
+S0601PR_C01_004M,float,Total!!Margin of Error!!AGE!!18 to 24 years,S0601PR
+S0601PR_C01_005M,float,Total!!Margin of Error!!AGE!!25 to 44 years,S0601PR
+S0601PR_C01_006M,float,Total!!Margin of Error!!AGE!!45 to 54 years,S0601PR
+S0601PR_C01_007M,float,Total!!Margin of Error!!AGE!!55 to 64 years,S0601PR
+S0601PR_C01_008M,float,Total!!Margin of Error!!AGE!!65 to 74 years,S0601PR
+S0601PR_C01_009M,float,Total!!Margin of Error!!AGE!!75 years and over,S0601PR
+S0601PR_C01_010M,float,Total!!Margin of Error!!Median age (years),S0601PR
+S0601PR_C01_011M,float,Total!!Margin of Error!!SEX!!Male,S0601PR
+S0601PR_C01_012M,float,Total!!Margin of Error!!SEX!!Female,S0601PR
+S0601PR_C01_013M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C01_014M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C01_015M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C01_016M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C01_017M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C01_018M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C01_019M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C01_020M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C01_021M,float,Total!!Margin of Error!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C01_022M,float,"Total!!Margin of Error!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C01_023M,int,Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C01_024M,float,Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C01_025M,float,"Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C01_026M,float,"Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C01_027M,int,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C01_028M,float,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C01_029M,float,"Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C01_030M,float,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C01_031M,float,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C01_032M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C01_033M,float,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C01_034M,float,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C01_035M,float,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C01_036M,float,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C01_037M,float,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C01_038M,int,Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C01_039M,float,"Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C01_040M,float,"Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C01_041M,float,"Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C01_042M,float,"Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C01_043M,float,"Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C01_044M,float,"Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C01_045M,float,"Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C01_046M,float,"Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C01_047M,int,Total!!Margin of Error!!Median income (dollars),S0601PR
+S0601PR_C01_048M,int,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C01_049M,float,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C01_050M,float,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C01_051M,float,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C01_052M,float,Total!!Margin of Error!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C01_053M,float,Total!!Margin of Error!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C02_001M,int,Native; born in Puerto Rico!!Margin of Error!!Total population,S0601PR
+S0601PR_C02_002M,float,Native; born in Puerto Rico!!Margin of Error!!AGE!!Under 5 years,S0601PR
+S0601PR_C02_003M,float,Native; born in Puerto Rico!!Margin of Error!!AGE!!5 to 17 years,S0601PR
+S0601PR_C02_004M,float,Native; born in Puerto Rico!!Margin of Error!!AGE!!18 to 24 years,S0601PR
+S0601PR_C02_005M,float,Native; born in Puerto Rico!!Margin of Error!!AGE!!25 to 44 years,S0601PR
+S0601PR_C02_006M,float,Native; born in Puerto Rico!!Margin of Error!!AGE!!45 to 54 years,S0601PR
+S0601PR_C02_007M,float,Native; born in Puerto Rico!!Margin of Error!!AGE!!55 to 64 years,S0601PR
+S0601PR_C02_008M,float,Native; born in Puerto Rico!!Margin of Error!!AGE!!65 to 74 years,S0601PR
+S0601PR_C02_009M,float,Native; born in Puerto Rico!!Margin of Error!!AGE!!75 years and over,S0601PR
+S0601PR_C02_010M,float,Native; born in Puerto Rico!!Margin of Error!!Median age (years),S0601PR
+S0601PR_C02_011M,float,Native; born in Puerto Rico!!Margin of Error!!SEX!!Male,S0601PR
+S0601PR_C02_012M,float,Native; born in Puerto Rico!!Margin of Error!!SEX!!Female,S0601PR
+S0601PR_C02_013M,float,Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C02_014M,float,Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C02_015M,float,Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C02_016M,float,Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C02_017M,float,Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C02_018M,float,Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C02_019M,float,Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C02_020M,float,Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C02_021M,float,Native; born in Puerto Rico!!Margin of Error!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C02_022M,float,"Native; born in Puerto Rico!!Margin of Error!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C02_023M,int,Native; born in Puerto Rico!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C02_024M,float,Native; born in Puerto Rico!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C02_025M,float,"Native; born in Puerto Rico!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C02_026M,float,"Native; born in Puerto Rico!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C02_027M,int,Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C02_028M,float,Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C02_029M,float,"Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C02_030M,float,Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C02_031M,float,Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C02_032M,int,Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C02_033M,float,Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C02_034M,float,Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C02_035M,float,Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C02_036M,float,Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C02_037M,float,Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C02_038M,int,Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C02_039M,float,"Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C02_040M,float,"Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C02_041M,float,"Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C02_042M,float,"Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C02_043M,float,"Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C02_044M,float,"Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C02_045M,float,"Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C02_046M,float,"Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C02_047M,int,Native; born in Puerto Rico!!Margin of Error!!Median income (dollars),S0601PR
+S0601PR_C02_048M,int,Native; born in Puerto Rico!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C02_049M,float,Native; born in Puerto Rico!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C02_050M,float,Native; born in Puerto Rico!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C02_051M,float,Native; born in Puerto Rico!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C02_052M,int,Native; born in Puerto Rico!!Margin of Error!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C02_053M,int,Native; born in Puerto Rico!!Margin of Error!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C03_001M,int,Native; born in the U.S.!!Margin of Error!!Total population,S0601PR
+S0601PR_C03_002M,float,Native; born in the U.S.!!Margin of Error!!AGE!!Under 5 years,S0601PR
+S0601PR_C03_003M,float,Native; born in the U.S.!!Margin of Error!!AGE!!5 to 17 years,S0601PR
+S0601PR_C03_004M,float,Native; born in the U.S.!!Margin of Error!!AGE!!18 to 24 years,S0601PR
+S0601PR_C03_005M,float,Native; born in the U.S.!!Margin of Error!!AGE!!25 to 44 years,S0601PR
+S0601PR_C03_006M,float,Native; born in the U.S.!!Margin of Error!!AGE!!45 to 54 years,S0601PR
+S0601PR_C03_007M,float,Native; born in the U.S.!!Margin of Error!!AGE!!55 to 64 years,S0601PR
+S0601PR_C03_008M,float,Native; born in the U.S.!!Margin of Error!!AGE!!65 to 74 years,S0601PR
+S0601PR_C03_009M,float,Native; born in the U.S.!!Margin of Error!!AGE!!75 years and over,S0601PR
+S0601PR_C03_010M,float,Native; born in the U.S.!!Margin of Error!!Median age (years),S0601PR
+S0601PR_C03_011M,float,Native; born in the U.S.!!Margin of Error!!SEX!!Male,S0601PR
+S0601PR_C03_012M,float,Native; born in the U.S.!!Margin of Error!!SEX!!Female,S0601PR
+S0601PR_C03_013M,float,Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C03_014M,float,Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C03_015M,float,Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C03_016M,float,Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C03_017M,float,Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C03_018M,float,Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C03_019M,float,Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C03_020M,float,Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C03_021M,float,Native; born in the U.S.!!Margin of Error!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C03_022M,float,"Native; born in the U.S.!!Margin of Error!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C03_023M,int,Native; born in the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C03_024M,float,Native; born in the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C03_025M,float,"Native; born in the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C03_026M,float,"Native; born in the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C03_027M,int,Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C03_028M,float,Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C03_029M,float,"Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C03_030M,float,Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C03_031M,float,Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C03_032M,int,Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C03_033M,float,Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C03_034M,float,Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C03_035M,float,Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C03_036M,float,Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C03_037M,float,Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C03_038M,int,Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C03_039M,float,"Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C03_040M,float,"Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C03_041M,float,"Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C03_042M,float,"Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C03_043M,float,"Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C03_044M,float,"Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C03_045M,float,"Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C03_046M,float,"Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C03_047M,int,Native; born in the U.S.!!Margin of Error!!Median income (dollars),S0601PR
+S0601PR_C03_048M,int,Native; born in the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C03_049M,float,Native; born in the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C03_050M,float,Native; born in the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C03_051M,float,Native; born in the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C03_052M,int,Native; born in the U.S.!!Margin of Error!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C03_053M,int,Native; born in the U.S.!!Margin of Error!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C04_001M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!Total population,S0601PR
+S0601PR_C04_002M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!Under 5 years,S0601PR
+S0601PR_C04_003M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!5 to 17 years,S0601PR
+S0601PR_C04_004M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!18 to 24 years,S0601PR
+S0601PR_C04_005M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!25 to 44 years,S0601PR
+S0601PR_C04_006M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!45 to 54 years,S0601PR
+S0601PR_C04_007M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!55 to 64 years,S0601PR
+S0601PR_C04_008M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!65 to 74 years,S0601PR
+S0601PR_C04_009M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!75 years and over,S0601PR
+S0601PR_C04_010M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!Median age (years),S0601PR
+S0601PR_C04_011M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!SEX!!Male,S0601PR
+S0601PR_C04_012M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!SEX!!Female,S0601PR
+S0601PR_C04_013M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C04_014M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C04_015M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C04_016M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C04_017M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C04_018M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C04_019M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C04_020M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C04_021M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C04_022M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C04_023M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C04_024M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C04_025M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C04_026M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C04_027M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C04_028M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C04_029M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C04_030M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C04_031M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C04_032M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C04_033M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C04_034M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C04_035M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C04_036M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C04_037M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C04_038M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C04_039M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C04_040M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C04_041M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C04_042M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C04_043M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C04_044M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C04_045M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C04_046M,float,"Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C04_047M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!Median income (dollars),S0601PR
+S0601PR_C04_048M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C04_049M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C04_050M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C04_051M,float,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C04_052M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C04_053M,int,Native; born outside Puerto Rico and the U.S.!!Margin of Error!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C01_001EA,string,Annotation of Total!!Estimate!!Total population,S0601PR
+S0601PR_C01_001MA,string,Annotation of Total!!Margin of Error!!Total population,S0601PR
+S0601PR_C01_002EA,string,Annotation of Total!!Estimate!!AGE!!Under 5 years,S0601PR
+S0601PR_C01_002MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 5 years,S0601PR
+S0601PR_C01_003EA,string,Annotation of Total!!Estimate!!AGE!!5 to 17 years,S0601PR
+S0601PR_C01_003MA,string,Annotation of Total!!Margin of Error!!AGE!!5 to 17 years,S0601PR
+S0601PR_C01_004EA,string,Annotation of Total!!Estimate!!AGE!!18 to 24 years,S0601PR
+S0601PR_C01_004MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 24 years,S0601PR
+S0601PR_C01_005EA,string,Annotation of Total!!Estimate!!AGE!!25 to 44 years,S0601PR
+S0601PR_C01_005MA,string,Annotation of Total!!Margin of Error!!AGE!!25 to 44 years,S0601PR
+S0601PR_C01_006EA,string,Annotation of Total!!Estimate!!AGE!!45 to 54 years,S0601PR
+S0601PR_C01_006MA,string,Annotation of Total!!Margin of Error!!AGE!!45 to 54 years,S0601PR
+S0601PR_C01_007EA,string,Annotation of Total!!Estimate!!AGE!!55 to 64 years,S0601PR
+S0601PR_C01_007MA,string,Annotation of Total!!Margin of Error!!AGE!!55 to 64 years,S0601PR
+S0601PR_C01_008EA,string,Annotation of Total!!Estimate!!AGE!!65 to 74 years,S0601PR
+S0601PR_C01_008MA,string,Annotation of Total!!Margin of Error!!AGE!!65 to 74 years,S0601PR
+S0601PR_C01_009EA,string,Annotation of Total!!Estimate!!AGE!!75 years and over,S0601PR
+S0601PR_C01_009MA,string,Annotation of Total!!Margin of Error!!AGE!!75 years and over,S0601PR
+S0601PR_C01_010EA,string,Annotation of Total!!Estimate!!Median age (years),S0601PR
+S0601PR_C01_010MA,string,Annotation of Total!!Margin of Error!!Median age (years),S0601PR
+S0601PR_C01_011EA,string,Annotation of Total!!Estimate!!SEX!!Male,S0601PR
+S0601PR_C01_011MA,string,Annotation of Total!!Margin of Error!!SEX!!Male,S0601PR
+S0601PR_C01_012EA,string,Annotation of Total!!Estimate!!SEX!!Female,S0601PR
+S0601PR_C01_012MA,string,Annotation of Total!!Margin of Error!!SEX!!Female,S0601PR
+S0601PR_C01_013EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C01_013MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C01_014EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C01_014MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C01_015EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C01_015MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C01_016EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C01_016MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C01_017EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C01_017MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C01_018EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C01_018MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C01_019EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C01_019MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C01_020EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C01_020MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C01_021EA,string,Annotation of Total!!Estimate!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C01_021MA,string,Annotation of Total!!Margin of Error!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C01_022EA,string,"Annotation of Total!!Estimate!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C01_022MA,string,"Annotation of Total!!Margin of Error!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C01_023EA,string,Annotation of Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C01_023MA,string,Annotation of Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C01_024EA,string,Annotation of Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C01_024MA,string,Annotation of Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C01_025EA,string,"Annotation of Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C01_025MA,string,"Annotation of Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C01_026EA,string,"Annotation of Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C01_026MA,string,"Annotation of Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C01_027EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C01_027MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C01_028EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C01_028MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C01_029EA,string,"Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C01_029MA,string,"Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C01_030EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C01_030MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C01_031EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C01_031MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C01_032EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C01_032MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C01_033EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C01_033MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C01_034EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C01_034MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C01_035EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C01_035MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C01_036EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C01_036MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C01_037EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C01_037MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C01_038EA,string,Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C01_038MA,string,Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C01_039EA,string,"Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C01_039MA,string,"Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C01_040EA,string,"Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C01_040MA,string,"Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C01_041EA,string,"Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C01_041MA,string,"Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C01_042EA,string,"Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C01_042MA,string,"Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C01_043EA,string,"Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C01_043MA,string,"Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C01_044EA,string,"Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C01_044MA,string,"Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C01_045EA,string,"Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C01_045MA,string,"Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C01_046EA,string,"Annotation of Total!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C01_046MA,string,"Annotation of Total!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C01_047EA,string,Annotation of Total!!Estimate!!Median income (dollars),S0601PR
+S0601PR_C01_047MA,string,Annotation of Total!!Margin of Error!!Median income (dollars),S0601PR
+S0601PR_C01_048EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C01_048MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C01_049EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C01_049MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C01_050EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C01_050MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C01_051EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C01_051MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C01_052EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C01_052MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C01_053EA,string,Annotation of Total!!Estimate!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C01_053MA,string,Annotation of Total!!Margin of Error!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C02_001EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!Total population,S0601PR
+S0601PR_C02_001MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!Total population,S0601PR
+S0601PR_C02_002EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!AGE!!Under 5 years,S0601PR
+S0601PR_C02_002MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!AGE!!Under 5 years,S0601PR
+S0601PR_C02_003EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!AGE!!5 to 17 years,S0601PR
+S0601PR_C02_003MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!AGE!!5 to 17 years,S0601PR
+S0601PR_C02_004EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!AGE!!18 to 24 years,S0601PR
+S0601PR_C02_004MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!AGE!!18 to 24 years,S0601PR
+S0601PR_C02_005EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!AGE!!25 to 44 years,S0601PR
+S0601PR_C02_005MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!AGE!!25 to 44 years,S0601PR
+S0601PR_C02_006EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!AGE!!45 to 54 years,S0601PR
+S0601PR_C02_006MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!AGE!!45 to 54 years,S0601PR
+S0601PR_C02_007EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!AGE!!55 to 64 years,S0601PR
+S0601PR_C02_007MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!AGE!!55 to 64 years,S0601PR
+S0601PR_C02_008EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!AGE!!65 to 74 years,S0601PR
+S0601PR_C02_008MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!AGE!!65 to 74 years,S0601PR
+S0601PR_C02_009EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!AGE!!75 years and over,S0601PR
+S0601PR_C02_009MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!AGE!!75 years and over,S0601PR
+S0601PR_C02_010EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!Median age (years),S0601PR
+S0601PR_C02_010MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!Median age (years),S0601PR
+S0601PR_C02_011EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!SEX!!Male,S0601PR
+S0601PR_C02_011MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!SEX!!Male,S0601PR
+S0601PR_C02_012EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!SEX!!Female,S0601PR
+S0601PR_C02_012MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!SEX!!Female,S0601PR
+S0601PR_C02_013EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C02_013MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C02_014EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C02_014MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C02_015EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C02_015MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C02_016EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C02_016MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C02_017EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C02_017MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C02_018EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C02_018MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C02_019EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C02_019MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C02_020EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C02_020MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C02_021EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C02_021MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C02_022EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C02_022MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C02_023EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C02_023MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C02_024EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C02_024MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C02_025EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C02_025MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C02_026EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C02_026MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C02_027EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C02_027MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C02_028EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C02_028MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C02_029EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C02_029MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C02_030EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C02_030MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C02_031EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C02_031MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C02_032EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C02_032MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C02_033EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C02_033MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C02_034EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C02_034MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C02_035EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C02_035MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C02_036EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C02_036MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C02_037EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C02_037MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C02_038EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C02_038MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C02_039EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C02_039MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C02_040EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C02_040MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C02_041EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C02_041MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C02_042EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C02_042MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C02_043EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C02_043MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C02_044EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C02_044MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C02_045EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C02_045MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C02_046EA,string,"Annotation of Native; born in Puerto Rico!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C02_046MA,string,"Annotation of Native; born in Puerto Rico!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C02_047EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!Median income (dollars),S0601PR
+S0601PR_C02_047MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!Median income (dollars),S0601PR
+S0601PR_C02_048EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C02_048MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C02_049EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C02_049MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C02_050EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C02_050MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C02_051EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C02_051MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C02_052EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C02_052MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C02_053EA,string,Annotation of Native; born in Puerto Rico!!Estimate!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C02_053MA,string,Annotation of Native; born in Puerto Rico!!Margin of Error!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C03_001EA,string,Annotation of Native; born in the U.S.!!Estimate!!Total population,S0601PR
+S0601PR_C03_001MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!Total population,S0601PR
+S0601PR_C03_002EA,string,Annotation of Native; born in the U.S.!!Estimate!!AGE!!Under 5 years,S0601PR
+S0601PR_C03_002MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!AGE!!Under 5 years,S0601PR
+S0601PR_C03_003EA,string,Annotation of Native; born in the U.S.!!Estimate!!AGE!!5 to 17 years,S0601PR
+S0601PR_C03_003MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!AGE!!5 to 17 years,S0601PR
+S0601PR_C03_004EA,string,Annotation of Native; born in the U.S.!!Estimate!!AGE!!18 to 24 years,S0601PR
+S0601PR_C03_004MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!AGE!!18 to 24 years,S0601PR
+S0601PR_C03_005EA,string,Annotation of Native; born in the U.S.!!Estimate!!AGE!!25 to 44 years,S0601PR
+S0601PR_C03_005MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!AGE!!25 to 44 years,S0601PR
+S0601PR_C03_006EA,string,Annotation of Native; born in the U.S.!!Estimate!!AGE!!45 to 54 years,S0601PR
+S0601PR_C03_006MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!AGE!!45 to 54 years,S0601PR
+S0601PR_C03_007EA,string,Annotation of Native; born in the U.S.!!Estimate!!AGE!!55 to 64 years,S0601PR
+S0601PR_C03_007MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!AGE!!55 to 64 years,S0601PR
+S0601PR_C03_008EA,string,Annotation of Native; born in the U.S.!!Estimate!!AGE!!65 to 74 years,S0601PR
+S0601PR_C03_008MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!AGE!!65 to 74 years,S0601PR
+S0601PR_C03_009EA,string,Annotation of Native; born in the U.S.!!Estimate!!AGE!!75 years and over,S0601PR
+S0601PR_C03_009MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!AGE!!75 years and over,S0601PR
+S0601PR_C03_010EA,string,Annotation of Native; born in the U.S.!!Estimate!!Median age (years),S0601PR
+S0601PR_C03_010MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!Median age (years),S0601PR
+S0601PR_C03_011EA,string,Annotation of Native; born in the U.S.!!Estimate!!SEX!!Male,S0601PR
+S0601PR_C03_011MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!SEX!!Male,S0601PR
+S0601PR_C03_012EA,string,Annotation of Native; born in the U.S.!!Estimate!!SEX!!Female,S0601PR
+S0601PR_C03_012MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!SEX!!Female,S0601PR
+S0601PR_C03_013EA,string,Annotation of Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C03_013MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C03_014EA,string,Annotation of Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C03_014MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C03_015EA,string,Annotation of Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C03_015MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C03_016EA,string,Annotation of Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C03_016MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C03_017EA,string,Annotation of Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C03_017MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C03_018EA,string,Annotation of Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C03_018MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C03_019EA,string,Annotation of Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C03_019MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C03_020EA,string,Annotation of Native; born in the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C03_020MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C03_021EA,string,Annotation of Native; born in the U.S.!!Estimate!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C03_021MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C03_022EA,string,"Annotation of Native; born in the U.S.!!Estimate!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C03_022MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C03_023EA,string,Annotation of Native; born in the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C03_023MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C03_024EA,string,Annotation of Native; born in the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C03_024MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C03_025EA,string,"Annotation of Native; born in the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C03_025MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C03_026EA,string,"Annotation of Native; born in the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C03_026MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C03_027EA,string,Annotation of Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C03_027MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C03_028EA,string,Annotation of Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C03_028MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C03_029EA,string,"Annotation of Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C03_029MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C03_030EA,string,Annotation of Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C03_030MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C03_031EA,string,Annotation of Native; born in the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C03_031MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C03_032EA,string,Annotation of Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C03_032MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C03_033EA,string,Annotation of Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C03_033MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C03_034EA,string,Annotation of Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C03_034MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C03_035EA,string,Annotation of Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C03_035MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C03_036EA,string,Annotation of Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C03_036MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C03_037EA,string,Annotation of Native; born in the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C03_037MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C03_038EA,string,Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C03_038MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C03_039EA,string,"Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C03_039MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C03_040EA,string,"Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C03_040MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C03_041EA,string,"Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C03_041MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C03_042EA,string,"Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C03_042MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C03_043EA,string,"Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C03_043MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C03_044EA,string,"Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C03_044MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C03_045EA,string,"Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C03_045MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C03_046EA,string,"Annotation of Native; born in the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C03_046MA,string,"Annotation of Native; born in the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C03_047EA,string,Annotation of Native; born in the U.S.!!Estimate!!Median income (dollars),S0601PR
+S0601PR_C03_047MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!Median income (dollars),S0601PR
+S0601PR_C03_048EA,string,Annotation of Native; born in the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C03_048MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C03_049EA,string,Annotation of Native; born in the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C03_049MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C03_050EA,string,Annotation of Native; born in the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C03_050MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C03_051EA,string,Annotation of Native; born in the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C03_051MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C03_052EA,string,Annotation of Native; born in the U.S.!!Estimate!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C03_052MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C03_053EA,string,Annotation of Native; born in the U.S.!!Estimate!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C03_053MA,string,Annotation of Native; born in the U.S.!!Margin of Error!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C04_001EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!Total population,S0601PR
+S0601PR_C04_001MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!Total population,S0601PR
+S0601PR_C04_002EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!Under 5 years,S0601PR
+S0601PR_C04_002MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!Under 5 years,S0601PR
+S0601PR_C04_003EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!5 to 17 years,S0601PR
+S0601PR_C04_003MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!5 to 17 years,S0601PR
+S0601PR_C04_004EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!18 to 24 years,S0601PR
+S0601PR_C04_004MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!18 to 24 years,S0601PR
+S0601PR_C04_005EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!25 to 44 years,S0601PR
+S0601PR_C04_005MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!25 to 44 years,S0601PR
+S0601PR_C04_006EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!45 to 54 years,S0601PR
+S0601PR_C04_006MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!45 to 54 years,S0601PR
+S0601PR_C04_007EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!55 to 64 years,S0601PR
+S0601PR_C04_007MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!55 to 64 years,S0601PR
+S0601PR_C04_008EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!65 to 74 years,S0601PR
+S0601PR_C04_008MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!65 to 74 years,S0601PR
+S0601PR_C04_009EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!AGE!!75 years and over,S0601PR
+S0601PR_C04_009MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!AGE!!75 years and over,S0601PR
+S0601PR_C04_010EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!Median age (years),S0601PR
+S0601PR_C04_010MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!Median age (years),S0601PR
+S0601PR_C04_011EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!SEX!!Male,S0601PR
+S0601PR_C04_011MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!SEX!!Male,S0601PR
+S0601PR_C04_012EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!SEX!!Female,S0601PR
+S0601PR_C04_012MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!SEX!!Female,S0601PR
+S0601PR_C04_013EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C04_013MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0601PR
+S0601PR_C04_014EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C04_014MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0601PR
+S0601PR_C04_015EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C04_015MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0601PR
+S0601PR_C04_016EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C04_016MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0601PR
+S0601PR_C04_017EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C04_017MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0601PR
+S0601PR_C04_018EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C04_018MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0601PR
+S0601PR_C04_019EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C04_019MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0601PR
+S0601PR_C04_020EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C04_020MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0601PR
+S0601PR_C04_021EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C04_021MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!Hispanic or Latino origin (of any race),S0601PR
+S0601PR_C04_022EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C04_022MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!White alone, not Hispanic or Latino",S0601PR
+S0601PR_C04_023EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C04_023MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0601PR
+S0601PR_C04_024EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C04_024MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English,S0601PR
+S0601PR_C04_025EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C04_025MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English ""very well""",S0601PR
+S0601PR_C04_026EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C04_026MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Speak language other than English!!Speak English less than ""very well""",S0601PR
+S0601PR_C04_027EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C04_027MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0601PR
+S0601PR_C04_028EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C04_028MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0601PR
+S0601PR_C04_029EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C04_029MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0601PR
+S0601PR_C04_030EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C04_030MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced or separated,S0601PR
+S0601PR_C04_031EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C04_031MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0601PR
+S0601PR_C04_032EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C04_032MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0601PR
+S0601PR_C04_033EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C04_033MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0601PR
+S0601PR_C04_034EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C04_034MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),S0601PR
+S0601PR_C04_035EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C04_035MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0601PR
+S0601PR_C04_036EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C04_036MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,S0601PR
+S0601PR_C04_037EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C04_037MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,S0601PR
+S0601PR_C04_038EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C04_038MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over,S0601PR
+S0601PR_C04_039EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C04_039MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$1 to $9,999 or loss",S0601PR
+S0601PR_C04_040EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C04_040MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$10,000 to $14,999",S0601PR
+S0601PR_C04_041EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C04_041MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$15,000 to $24,999",S0601PR
+S0601PR_C04_042EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C04_042MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$25,000 to $34,999",S0601PR
+S0601PR_C04_043EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C04_043MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$35,000 to $49,999",S0601PR
+S0601PR_C04_044EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C04_044MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$50,000 to $64,999",S0601PR
+S0601PR_C04_045EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C04_045MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$65,000 to $74,999",S0601PR
+S0601PR_C04_046EA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C04_046MA,string,"Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Population 15 years and over!!$75,000 or more",S0601PR
+S0601PR_C04_047EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!Median income (dollars),S0601PR
+S0601PR_C04_047MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!Median income (dollars),S0601PR
+S0601PR_C04_048EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C04_048MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0601PR
+S0601PR_C04_049EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C04_049MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0601PR
+S0601PR_C04_050EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C04_050MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0601PR
+S0601PR_C04_051EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C04_051MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0601PR
+S0601PR_C04_052EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C04_052MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!PERCENT IMPUTED!!Citizenship status,S0601PR
+S0601PR_C04_053EA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Estimate!!PERCENT IMPUTED!!Place of birth,S0601PR
+S0601PR_C04_053MA,string,Annotation of Native; born outside Puerto Rico and the U.S.!!Margin of Error!!PERCENT IMPUTED!!Place of birth,S0601PR

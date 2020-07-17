@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27002_001E,int,Estimate!!Total,C27002
+C27002_002E,int,Estimate!!Total!!Under 65 years,C27002
+C27002_003E,int,Estimate!!Total!!Under 65 years!!With private health insurance coverage,C27002
+C27002_004E,int,Estimate!!Total!!Under 65 years!!Without private health insurance coverage,C27002
+C27002_005E,int,Estimate!!Total!!65 years or over,C27002
+C27002_006E,int,Estimate!!Total!!65 years or over!!With private health insurance coverage,C27002
+C27002_007E,int,Estimate!!Total!!65 years or over!!Without private health insurance coverage,C27002
+C27002_001M,int,Margin of Error!!Total,C27002
+C27002_002M,int,Margin of Error!!Total!!Under 65 years,C27002
+C27002_003M,int,Margin of Error!!Total!!Under 65 years!!With private health insurance coverage,C27002
+C27002_004M,int,Margin of Error!!Total!!Under 65 years!!Without private health insurance coverage,C27002
+C27002_005M,int,Margin of Error!!Total!!65 years or over,C27002
+C27002_006M,int,Margin of Error!!Total!!65 years or over!!With private health insurance coverage,C27002
+C27002_007M,int,Margin of Error!!Total!!65 years or over!!Without private health insurance coverage,C27002
+C27002_001EA,string,Annotation of Estimate!!Total,C27002
+C27002_001MA,string,Annotation of Margin of Error!!Total,C27002
+C27002_002EA,string,Annotation of Estimate!!Total!!Under 65 years,C27002
+C27002_002MA,string,Annotation of Margin of Error!!Total!!Under 65 years,C27002
+C27002_003EA,string,Annotation of Estimate!!Total!!Under 65 years!!With private health insurance coverage,C27002
+C27002_003MA,string,Annotation of Margin of Error!!Total!!Under 65 years!!With private health insurance coverage,C27002
+C27002_004EA,string,Annotation of Estimate!!Total!!Under 65 years!!Without private health insurance coverage,C27002
+C27002_004MA,string,Annotation of Margin of Error!!Total!!Under 65 years!!Without private health insurance coverage,C27002
+C27002_005EA,string,Annotation of Estimate!!Total!!65 years or over,C27002
+C27002_005MA,string,Annotation of Margin of Error!!Total!!65 years or over,C27002
+C27002_006EA,string,Annotation of Estimate!!Total!!65 years or over!!With private health insurance coverage,C27002
+C27002_006MA,string,Annotation of Margin of Error!!Total!!65 years or over!!With private health insurance coverage,C27002
+C27002_007EA,string,Annotation of Estimate!!Total!!65 years or over!!Without private health insurance coverage,C27002
+C27002_007MA,string,Annotation of Margin of Error!!Total!!65 years or over!!Without private health insurance coverage,C27002

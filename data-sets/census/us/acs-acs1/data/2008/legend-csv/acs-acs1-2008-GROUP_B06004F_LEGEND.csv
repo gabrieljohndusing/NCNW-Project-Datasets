@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+B06004F_001E,int,Estimate!!Total,B06004F
+B06004F_002E,int,Estimate!!Total!!Born in state of residence,B06004F
+B06004F_003E,int,Estimate!!Total!!Born in other state in the United States,B06004F
+B06004F_004E,int,Estimate!!Total!!Native; born outside the United States,B06004F
+B06004F_005E,int,Estimate!!Total!!Foreign born,B06004F
+B06004F_001M,int,Margin of Error!!Total,B06004F
+B06004F_002M,int,Margin of Error!!Total!!Born in state of residence,B06004F
+B06004F_003M,int,Margin of Error!!Total!!Born in other state in the United States,B06004F
+B06004F_004M,int,Margin of Error!!Total!!Native; born outside the United States,B06004F
+B06004F_005M,int,Margin of Error!!Total!!Foreign born,B06004F
+B06004F_001EA,string,Annotation of Estimate!!Total,B06004F
+B06004F_001MA,string,Annotation of Margin of Error!!Total,B06004F
+B06004F_002EA,string,Annotation of Estimate!!Total!!Born in state of residence,B06004F
+B06004F_002MA,string,Annotation of Margin of Error!!Total!!Born in state of residence,B06004F
+B06004F_003EA,string,Annotation of Estimate!!Total!!Born in other state in the United States,B06004F
+B06004F_003MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States,B06004F
+B06004F_004EA,string,Annotation of Estimate!!Total!!Native; born outside the United States,B06004F
+B06004F_004MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States,B06004F
+B06004F_005EA,string,Annotation of Estimate!!Total!!Foreign born,B06004F
+B06004F_005MA,string,Annotation of Margin of Error!!Total!!Foreign born,B06004F

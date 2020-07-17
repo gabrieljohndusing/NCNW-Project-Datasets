@@ -1,0 +1,41 @@
+VARIABLE,TYPE,LABEL,GROUP
+B27002_001E,int,Estimate!!Total,B27002
+B27002_002E,int,Estimate!!Total!!Under 18 years,B27002
+B27002_003E,int,Estimate!!Total!!Under 18 years!!With private health insurance coverage,B27002
+B27002_004E,int,Estimate!!Total!!Under 18 years!!Without private health insurance coverage,B27002
+B27002_005E,int,Estimate!!Total!!18 to 64 years,B27002
+B27002_006E,int,Estimate!!Total!!18 to 64 years!!With private health insurance coverage,B27002
+B27002_007E,int,Estimate!!Total!!18 to 64 years!!Without private health insurance coverage,B27002
+B27002_008E,int,Estimate!!Total!!65 years or over,B27002
+B27002_009E,int,Estimate!!Total!!65 years or over!!With private health insurance coverage,B27002
+B27002_010E,int,Estimate!!Total!!65 years or over!!Without private health insurance coverage,B27002
+B27002_001M,int,Margin of Error!!Total,B27002
+B27002_002M,int,Margin of Error!!Total!!Under 18 years,B27002
+B27002_003M,int,Margin of Error!!Total!!Under 18 years!!With private health insurance coverage,B27002
+B27002_004M,int,Margin of Error!!Total!!Under 18 years!!Without private health insurance coverage,B27002
+B27002_005M,int,Margin of Error!!Total!!18 to 64 years,B27002
+B27002_006M,int,Margin of Error!!Total!!18 to 64 years!!With private health insurance coverage,B27002
+B27002_007M,int,Margin of Error!!Total!!18 to 64 years!!Without private health insurance coverage,B27002
+B27002_008M,int,Margin of Error!!Total!!65 years or over,B27002
+B27002_009M,int,Margin of Error!!Total!!65 years or over!!With private health insurance coverage,B27002
+B27002_010M,int,Margin of Error!!Total!!65 years or over!!Without private health insurance coverage,B27002
+B27002_001EA,string,Annotation of Estimate!!Total,B27002
+B27002_001MA,string,Annotation of Margin of Error!!Total,B27002
+B27002_002EA,string,Annotation of Estimate!!Total!!Under 18 years,B27002
+B27002_002MA,string,Annotation of Margin of Error!!Total!!Under 18 years,B27002
+B27002_003EA,string,Annotation of Estimate!!Total!!Under 18 years!!With private health insurance coverage,B27002
+B27002_003MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With private health insurance coverage,B27002
+B27002_004EA,string,Annotation of Estimate!!Total!!Under 18 years!!Without private health insurance coverage,B27002
+B27002_004MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!Without private health insurance coverage,B27002
+B27002_005EA,string,Annotation of Estimate!!Total!!18 to 64 years,B27002
+B27002_005MA,string,Annotation of Margin of Error!!Total!!18 to 64 years,B27002
+B27002_006EA,string,Annotation of Estimate!!Total!!18 to 64 years!!With private health insurance coverage,B27002
+B27002_006MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!With private health insurance coverage,B27002
+B27002_007EA,string,Annotation of Estimate!!Total!!18 to 64 years!!Without private health insurance coverage,B27002
+B27002_007MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!Without private health insurance coverage,B27002
+B27002_008EA,string,Annotation of Estimate!!Total!!65 years or over,B27002
+B27002_008MA,string,Annotation of Margin of Error!!Total!!65 years or over,B27002
+B27002_009EA,string,Annotation of Estimate!!Total!!65 years or over!!With private health insurance coverage,B27002
+B27002_009MA,string,Annotation of Margin of Error!!Total!!65 years or over!!With private health insurance coverage,B27002
+B27002_010EA,string,Annotation of Estimate!!Total!!65 years or over!!Without private health insurance coverage,B27002
+B27002_010MA,string,Annotation of Margin of Error!!Total!!65 years or over!!Without private health insurance coverage,B27002

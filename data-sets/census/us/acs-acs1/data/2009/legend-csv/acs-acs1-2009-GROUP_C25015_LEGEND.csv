@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C25015_001E,int,Estimate!!Total,C25015
+C25015_002E,int,Estimate!!Total!!Owner occupied,C25015
+C25015_003E,int,Estimate!!Total!!Owner occupied!!Householder 15 to 34 years,C25015
+C25015_004E,int,Estimate!!Total!!Owner occupied!!Householder 15 to 34 years!!1.00 or less occupants per room,C25015
+C25015_005E,int,Estimate!!Total!!Owner occupied!!Householder 15 to 34 years!!1.01 or more occupants per room,C25015
+C25015_006E,int,Estimate!!Total!!Owner occupied!!Householder 35 to 64 years,C25015
+C25015_007E,int,Estimate!!Total!!Owner occupied!!Householder 35 to 64 years!!1.00 or less occupants per room,C25015
+C25015_008E,int,Estimate!!Total!!Owner occupied!!Householder 35 to 64 years!!1.01 or more occupants per room,C25015
+C25015_009E,int,Estimate!!Total!!Owner occupied!!Householder 65 years and over,C25015
+C25015_010E,int,Estimate!!Total!!Owner occupied!!Householder 65 years and over!!1.00 or less occupants per room,C25015
+C25015_011E,int,Estimate!!Total!!Owner occupied!!Householder 65 years and over!!1.01 or more occupants per room,C25015
+C25015_012E,int,Estimate!!Total!!Renter occupied,C25015
+C25015_013E,int,Estimate!!Total!!Renter occupied!!Householder 15 to 34 years,C25015
+C25015_014E,int,Estimate!!Total!!Renter occupied!!Householder 15 to 34 years!!1.00 or less occupants per room,C25015
+C25015_015E,int,Estimate!!Total!!Renter occupied!!Householder 15 to 34 years!!1.01 or more occupants per room,C25015
+C25015_016E,int,Estimate!!Total!!Renter occupied!!Householder 35 to 64 years,C25015
+C25015_017E,int,Estimate!!Total!!Renter occupied!!Householder 35 to 64 years!!1.00 or less occupants per room,C25015
+C25015_018E,int,Estimate!!Total!!Renter occupied!!Householder 35 to 64 years!!1.01 or more occupants per room,C25015
+C25015_019E,int,Estimate!!Total!!Renter occupied!!Householder 65 years and over,C25015
+C25015_020E,int,Estimate!!Total!!Renter occupied!!Householder 65 years and over!!1.00 or less occupants per room,C25015
+C25015_021E,int,Estimate!!Total!!Renter occupied!!Householder 65 years and over!!1.01 or more occupants per room,C25015
+C25015_001M,int,Margin of Error!!Total,C25015
+C25015_002M,int,Margin of Error!!Total!!Owner occupied,C25015
+C25015_003M,int,Margin of Error!!Total!!Owner occupied!!Householder 15 to 34 years,C25015
+C25015_004M,int,Margin of Error!!Total!!Owner occupied!!Householder 15 to 34 years!!1.00 or less occupants per room,C25015
+C25015_005M,int,Margin of Error!!Total!!Owner occupied!!Householder 15 to 34 years!!1.01 or more occupants per room,C25015
+C25015_006M,int,Margin of Error!!Total!!Owner occupied!!Householder 35 to 64 years,C25015
+C25015_007M,int,Margin of Error!!Total!!Owner occupied!!Householder 35 to 64 years!!1.00 or less occupants per room,C25015
+C25015_008M,int,Margin of Error!!Total!!Owner occupied!!Householder 35 to 64 years!!1.01 or more occupants per room,C25015
+C25015_009M,int,Margin of Error!!Total!!Owner occupied!!Householder 65 years and over,C25015
+C25015_010M,int,Margin of Error!!Total!!Owner occupied!!Householder 65 years and over!!1.00 or less occupants per room,C25015
+C25015_011M,int,Margin of Error!!Total!!Owner occupied!!Householder 65 years and over!!1.01 or more occupants per room,C25015
+C25015_012M,int,Margin of Error!!Total!!Renter occupied,C25015
+C25015_013M,int,Margin of Error!!Total!!Renter occupied!!Householder 15 to 34 years,C25015
+C25015_014M,int,Margin of Error!!Total!!Renter occupied!!Householder 15 to 34 years!!1.00 or less occupants per room,C25015
+C25015_015M,int,Margin of Error!!Total!!Renter occupied!!Householder 15 to 34 years!!1.01 or more occupants per room,C25015
+C25015_016M,int,Margin of Error!!Total!!Renter occupied!!Householder 35 to 64 years,C25015
+C25015_017M,int,Margin of Error!!Total!!Renter occupied!!Householder 35 to 64 years!!1.00 or less occupants per room,C25015
+C25015_018M,int,Margin of Error!!Total!!Renter occupied!!Householder 35 to 64 years!!1.01 or more occupants per room,C25015
+C25015_019M,int,Margin of Error!!Total!!Renter occupied!!Householder 65 years and over,C25015
+C25015_020M,int,Margin of Error!!Total!!Renter occupied!!Householder 65 years and over!!1.00 or less occupants per room,C25015
+C25015_021M,int,Margin of Error!!Total!!Renter occupied!!Householder 65 years and over!!1.01 or more occupants per room,C25015
+C25015_001EA,string,Annotation of Estimate!!Total,C25015
+C25015_001MA,string,Annotation of Margin of Error!!Total,C25015
+C25015_002EA,string,Annotation of Estimate!!Total!!Owner occupied,C25015
+C25015_002MA,string,Annotation of Margin of Error!!Total!!Owner occupied,C25015
+C25015_003EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 15 to 34 years,C25015
+C25015_003MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 15 to 34 years,C25015
+C25015_004EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 15 to 34 years!!1.00 or less occupants per room,C25015
+C25015_004MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 15 to 34 years!!1.00 or less occupants per room,C25015
+C25015_005EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 15 to 34 years!!1.01 or more occupants per room,C25015
+C25015_005MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 15 to 34 years!!1.01 or more occupants per room,C25015
+C25015_006EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 35 to 64 years,C25015
+C25015_006MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 35 to 64 years,C25015
+C25015_007EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 35 to 64 years!!1.00 or less occupants per room,C25015
+C25015_007MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 35 to 64 years!!1.00 or less occupants per room,C25015
+C25015_008EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 35 to 64 years!!1.01 or more occupants per room,C25015
+C25015_008MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 35 to 64 years!!1.01 or more occupants per room,C25015
+C25015_009EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 65 years and over,C25015
+C25015_009MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 65 years and over,C25015
+C25015_010EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 65 years and over!!1.00 or less occupants per room,C25015
+C25015_010MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 65 years and over!!1.00 or less occupants per room,C25015
+C25015_011EA,string,Annotation of Estimate!!Total!!Owner occupied!!Householder 65 years and over!!1.01 or more occupants per room,C25015
+C25015_011MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!Householder 65 years and over!!1.01 or more occupants per room,C25015
+C25015_012EA,string,Annotation of Estimate!!Total!!Renter occupied,C25015
+C25015_012MA,string,Annotation of Margin of Error!!Total!!Renter occupied,C25015
+C25015_013EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 15 to 34 years,C25015
+C25015_013MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 15 to 34 years,C25015
+C25015_014EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 15 to 34 years!!1.00 or less occupants per room,C25015
+C25015_014MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 15 to 34 years!!1.00 or less occupants per room,C25015
+C25015_015EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 15 to 34 years!!1.01 or more occupants per room,C25015
+C25015_015MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 15 to 34 years!!1.01 or more occupants per room,C25015
+C25015_016EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 35 to 64 years,C25015
+C25015_016MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 35 to 64 years,C25015
+C25015_017EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 35 to 64 years!!1.00 or less occupants per room,C25015
+C25015_017MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 35 to 64 years!!1.00 or less occupants per room,C25015
+C25015_018EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 35 to 64 years!!1.01 or more occupants per room,C25015
+C25015_018MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 35 to 64 years!!1.01 or more occupants per room,C25015
+C25015_019EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 65 years and over,C25015
+C25015_019MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 65 years and over,C25015
+C25015_020EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 65 years and over!!1.00 or less occupants per room,C25015
+C25015_020MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 65 years and over!!1.00 or less occupants per room,C25015
+C25015_021EA,string,Annotation of Estimate!!Total!!Renter occupied!!Householder 65 years and over!!1.01 or more occupants per room,C25015
+C25015_021MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!Householder 65 years and over!!1.01 or more occupants per room,C25015

@@ -1,0 +1,81 @@
+VARIABLE,TYPE,LABEL,GROUP
+C16008_001E,int,Estimate!!Total,C16008
+C16008_002E,int,Estimate!!Total!!Native population,C16008
+C16008_003E,int,Estimate!!Total!!Native population!!Speak only English,C16008
+C16008_004E,int,Estimate!!Total!!Native population!!Speak Spanish,C16008
+C16008_005E,int,Estimate!!Total!!Native population!!Speak other Indo-European languages,C16008
+C16008_006E,int,Estimate!!Total!!Native population!!Speak Asian and Pacific Island languages,C16008
+C16008_007E,int,Estimate!!Total!!Native population!!Speak other languages,C16008
+C16008_008E,int,Estimate!!Total!!Foreign-born population,C16008
+C16008_009E,int,Estimate!!Total!!Foreign-born population!!Naturalized citizen,C16008
+C16008_010E,int,Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak only English,C16008
+C16008_011E,int,Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak Spanish,C16008
+C16008_012E,int,Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak other Indo-European languages,C16008
+C16008_013E,int,Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak Asian and Pacific Island languages,C16008
+C16008_014E,int,Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak other languages,C16008
+C16008_015E,int,Estimate!!Total!!Foreign-born population!!Not a citizen,C16008
+C16008_016E,int,Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak only English,C16008
+C16008_017E,int,Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak Spanish,C16008
+C16008_018E,int,Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak other Indo-European languages,C16008
+C16008_019E,int,Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak Asian and Pacific Island languages,C16008
+C16008_020E,int,Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak other languages,C16008
+C16008_001M,int,Margin of Error!!Total,C16008
+C16008_002M,int,Margin of Error!!Total!!Native population,C16008
+C16008_003M,int,Margin of Error!!Total!!Native population!!Speak only English,C16008
+C16008_004M,int,Margin of Error!!Total!!Native population!!Speak Spanish,C16008
+C16008_005M,int,Margin of Error!!Total!!Native population!!Speak other Indo-European languages,C16008
+C16008_006M,int,Margin of Error!!Total!!Native population!!Speak Asian and Pacific Island languages,C16008
+C16008_007M,int,Margin of Error!!Total!!Native population!!Speak other languages,C16008
+C16008_008M,int,Margin of Error!!Total!!Foreign-born population,C16008
+C16008_009M,int,Margin of Error!!Total!!Foreign-born population!!Naturalized citizen,C16008
+C16008_010M,int,Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak only English,C16008
+C16008_011M,int,Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak Spanish,C16008
+C16008_012M,int,Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak other Indo-European languages,C16008
+C16008_013M,int,Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak Asian and Pacific Island languages,C16008
+C16008_014M,int,Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak other languages,C16008
+C16008_015M,int,Margin of Error!!Total!!Foreign-born population!!Not a citizen,C16008
+C16008_016M,int,Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak only English,C16008
+C16008_017M,int,Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak Spanish,C16008
+C16008_018M,int,Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak other Indo-European languages,C16008
+C16008_019M,int,Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak Asian and Pacific Island languages,C16008
+C16008_020M,int,Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak other languages,C16008
+C16008_001EA,string,Annotation of Estimate!!Total,C16008
+C16008_001MA,string,Annotation of Margin of Error!!Total,C16008
+C16008_002EA,string,Annotation of Estimate!!Total!!Native population,C16008
+C16008_002MA,string,Annotation of Margin of Error!!Total!!Native population,C16008
+C16008_003EA,string,Annotation of Estimate!!Total!!Native population!!Speak only English,C16008
+C16008_003MA,string,Annotation of Margin of Error!!Total!!Native population!!Speak only English,C16008
+C16008_004EA,string,Annotation of Estimate!!Total!!Native population!!Speak Spanish,C16008
+C16008_004MA,string,Annotation of Margin of Error!!Total!!Native population!!Speak Spanish,C16008
+C16008_005EA,string,Annotation of Estimate!!Total!!Native population!!Speak other Indo-European languages,C16008
+C16008_005MA,string,Annotation of Margin of Error!!Total!!Native population!!Speak other Indo-European languages,C16008
+C16008_006EA,string,Annotation of Estimate!!Total!!Native population!!Speak Asian and Pacific Island languages,C16008
+C16008_006MA,string,Annotation of Margin of Error!!Total!!Native population!!Speak Asian and Pacific Island languages,C16008
+C16008_007EA,string,Annotation of Estimate!!Total!!Native population!!Speak other languages,C16008
+C16008_007MA,string,Annotation of Margin of Error!!Total!!Native population!!Speak other languages,C16008
+C16008_008EA,string,Annotation of Estimate!!Total!!Foreign-born population,C16008
+C16008_008MA,string,Annotation of Margin of Error!!Total!!Foreign-born population,C16008
+C16008_009EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Naturalized citizen,C16008
+C16008_009MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Naturalized citizen,C16008
+C16008_010EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak only English,C16008
+C16008_010MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak only English,C16008
+C16008_011EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak Spanish,C16008
+C16008_011MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak Spanish,C16008
+C16008_012EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak other Indo-European languages,C16008
+C16008_012MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak other Indo-European languages,C16008
+C16008_013EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak Asian and Pacific Island languages,C16008
+C16008_013MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak Asian and Pacific Island languages,C16008
+C16008_014EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Naturalized citizen!!Speak other languages,C16008
+C16008_014MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Naturalized citizen!!Speak other languages,C16008
+C16008_015EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Not a citizen,C16008
+C16008_015MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Not a citizen,C16008
+C16008_016EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak only English,C16008
+C16008_016MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak only English,C16008
+C16008_017EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak Spanish,C16008
+C16008_017MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak Spanish,C16008
+C16008_018EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak other Indo-European languages,C16008
+C16008_018MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak other Indo-European languages,C16008
+C16008_019EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak Asian and Pacific Island languages,C16008
+C16008_019MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak Asian and Pacific Island languages,C16008
+C16008_020EA,string,Annotation of Estimate!!Total!!Foreign-born population!!Not a citizen!!Speak other languages,C16008
+C16008_020MA,string,Annotation of Margin of Error!!Total!!Foreign-born population!!Not a citizen!!Speak other languages,C16008

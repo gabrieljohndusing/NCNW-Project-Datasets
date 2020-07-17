@@ -1,0 +1,253 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08406_001E,int,Estimate!!Total,B08406
+B08406_002E,int,"Estimate!!Total!!Car, truck, or van",B08406
+B08406_003E,int,"Estimate!!Total!!Car, truck, or van!!Drove alone",B08406
+B08406_004E,int,"Estimate!!Total!!Car, truck, or van!!Carpooled",B08406
+B08406_005E,int,"Estimate!!Total!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_006E,int,"Estimate!!Total!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_007E,int,"Estimate!!Total!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_008E,int,"Estimate!!Total!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_009E,int,"Estimate!!Total!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_010E,int,Estimate!!Total!!Public transportation (excluding taxicab),B08406
+B08406_011E,int,Estimate!!Total!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_012E,int,Estimate!!Total!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_013E,int,Estimate!!Total!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_014E,int,Estimate!!Total!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_015E,int,Estimate!!Total!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_016E,int,Estimate!!Total!!Taxicab,B08406
+B08406_017E,int,Estimate!!Total!!Motorcycle,B08406
+B08406_018E,int,Estimate!!Total!!Bicycle,B08406
+B08406_019E,int,Estimate!!Total!!Walked,B08406
+B08406_020E,int,Estimate!!Total!!Other means,B08406
+B08406_021E,int,Estimate!!Total!!Worked at home,B08406
+B08406_022E,int,Estimate!!Total!!Male,B08406
+B08406_023E,int,"Estimate!!Total!!Male!!Car, truck, or van",B08406
+B08406_024E,int,"Estimate!!Total!!Male!!Car, truck, or van!!Drove alone",B08406
+B08406_025E,int,"Estimate!!Total!!Male!!Car, truck, or van!!Carpooled",B08406
+B08406_026E,int,"Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_027E,int,"Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_028E,int,"Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_029E,int,"Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_030E,int,"Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_031E,int,Estimate!!Total!!Male!!Public transportation (excluding taxicab),B08406
+B08406_032E,int,Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_033E,int,Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_034E,int,Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_035E,int,Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_036E,int,Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_037E,int,Estimate!!Total!!Male!!Taxicab,B08406
+B08406_038E,int,Estimate!!Total!!Male!!Motorcycle,B08406
+B08406_039E,int,Estimate!!Total!!Male!!Bicycle,B08406
+B08406_040E,int,Estimate!!Total!!Male!!Walked,B08406
+B08406_041E,int,Estimate!!Total!!Male!!Other means,B08406
+B08406_042E,int,Estimate!!Total!!Male!!Worked at home,B08406
+B08406_043E,int,Estimate!!Total!!Female,B08406
+B08406_044E,int,"Estimate!!Total!!Female!!Car, truck, or van",B08406
+B08406_045E,int,"Estimate!!Total!!Female!!Car, truck, or van!!Drove alone",B08406
+B08406_046E,int,"Estimate!!Total!!Female!!Car, truck, or van!!Carpooled",B08406
+B08406_047E,int,"Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_048E,int,"Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_049E,int,"Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_050E,int,"Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_051E,int,"Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_052E,int,Estimate!!Total!!Female!!Public transportation (excluding taxicab),B08406
+B08406_053E,int,Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_054E,int,Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_055E,int,Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_056E,int,Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_057E,int,Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_058E,int,Estimate!!Total!!Female!!Taxicab,B08406
+B08406_059E,int,Estimate!!Total!!Female!!Motorcycle,B08406
+B08406_060E,int,Estimate!!Total!!Female!!Bicycle,B08406
+B08406_061E,int,Estimate!!Total!!Female!!Walked,B08406
+B08406_062E,int,Estimate!!Total!!Female!!Other means,B08406
+B08406_063E,int,Estimate!!Total!!Female!!Worked at home,B08406
+B08406_001M,int,Margin of Error!!Total,B08406
+B08406_002M,int,"Margin of Error!!Total!!Car, truck, or van",B08406
+B08406_003M,int,"Margin of Error!!Total!!Car, truck, or van!!Drove alone",B08406
+B08406_004M,int,"Margin of Error!!Total!!Car, truck, or van!!Carpooled",B08406
+B08406_005M,int,"Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_006M,int,"Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_007M,int,"Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_008M,int,"Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_009M,int,"Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_010M,int,Margin of Error!!Total!!Public transportation (excluding taxicab),B08406
+B08406_011M,int,Margin of Error!!Total!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_012M,int,Margin of Error!!Total!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_013M,int,Margin of Error!!Total!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_014M,int,Margin of Error!!Total!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_015M,int,Margin of Error!!Total!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_016M,int,Margin of Error!!Total!!Taxicab,B08406
+B08406_017M,int,Margin of Error!!Total!!Motorcycle,B08406
+B08406_018M,int,Margin of Error!!Total!!Bicycle,B08406
+B08406_019M,int,Margin of Error!!Total!!Walked,B08406
+B08406_020M,int,Margin of Error!!Total!!Other means,B08406
+B08406_021M,int,Margin of Error!!Total!!Worked at home,B08406
+B08406_022M,int,Margin of Error!!Total!!Male,B08406
+B08406_023M,int,"Margin of Error!!Total!!Male!!Car, truck, or van",B08406
+B08406_024M,int,"Margin of Error!!Total!!Male!!Car, truck, or van!!Drove alone",B08406
+B08406_025M,int,"Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled",B08406
+B08406_026M,int,"Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_027M,int,"Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_028M,int,"Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_029M,int,"Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_030M,int,"Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_031M,int,Margin of Error!!Total!!Male!!Public transportation (excluding taxicab),B08406
+B08406_032M,int,Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_033M,int,Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_034M,int,Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_035M,int,Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_036M,int,Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_037M,int,Margin of Error!!Total!!Male!!Taxicab,B08406
+B08406_038M,int,Margin of Error!!Total!!Male!!Motorcycle,B08406
+B08406_039M,int,Margin of Error!!Total!!Male!!Bicycle,B08406
+B08406_040M,int,Margin of Error!!Total!!Male!!Walked,B08406
+B08406_041M,int,Margin of Error!!Total!!Male!!Other means,B08406
+B08406_042M,int,Margin of Error!!Total!!Male!!Worked at home,B08406
+B08406_043M,int,Margin of Error!!Total!!Female,B08406
+B08406_044M,int,"Margin of Error!!Total!!Female!!Car, truck, or van",B08406
+B08406_045M,int,"Margin of Error!!Total!!Female!!Car, truck, or van!!Drove alone",B08406
+B08406_046M,int,"Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled",B08406
+B08406_047M,int,"Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_048M,int,"Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_049M,int,"Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_050M,int,"Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_051M,int,"Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_052M,int,Margin of Error!!Total!!Female!!Public transportation (excluding taxicab),B08406
+B08406_053M,int,Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_054M,int,Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_055M,int,Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_056M,int,Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_057M,int,Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_058M,int,Margin of Error!!Total!!Female!!Taxicab,B08406
+B08406_059M,int,Margin of Error!!Total!!Female!!Motorcycle,B08406
+B08406_060M,int,Margin of Error!!Total!!Female!!Bicycle,B08406
+B08406_061M,int,Margin of Error!!Total!!Female!!Walked,B08406
+B08406_062M,int,Margin of Error!!Total!!Female!!Other means,B08406
+B08406_063M,int,Margin of Error!!Total!!Female!!Worked at home,B08406
+B08406_001EA,string,Annotation of Estimate!!Total,B08406
+B08406_001MA,string,Annotation of Margin of Error!!Total,B08406
+B08406_002EA,string,"Annotation of Estimate!!Total!!Car, truck, or van",B08406
+B08406_002MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van",B08406
+B08406_003EA,string,"Annotation of Estimate!!Total!!Car, truck, or van!!Drove alone",B08406
+B08406_003MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van!!Drove alone",B08406
+B08406_004EA,string,"Annotation of Estimate!!Total!!Car, truck, or van!!Carpooled",B08406
+B08406_004MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van!!Carpooled",B08406
+B08406_005EA,string,"Annotation of Estimate!!Total!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_005MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_006EA,string,"Annotation of Estimate!!Total!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_006MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_007EA,string,"Annotation of Estimate!!Total!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_007MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_008EA,string,"Annotation of Estimate!!Total!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_008MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_009EA,string,"Annotation of Estimate!!Total!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_009MA,string,"Annotation of Margin of Error!!Total!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_010EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab),B08406
+B08406_010MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab),B08406
+B08406_011EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_011MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_012EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_012MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_013EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_013MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_014EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_014MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_015EA,string,Annotation of Estimate!!Total!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_015MA,string,Annotation of Margin of Error!!Total!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_016EA,string,Annotation of Estimate!!Total!!Taxicab,B08406
+B08406_016MA,string,Annotation of Margin of Error!!Total!!Taxicab,B08406
+B08406_017EA,string,Annotation of Estimate!!Total!!Motorcycle,B08406
+B08406_017MA,string,Annotation of Margin of Error!!Total!!Motorcycle,B08406
+B08406_018EA,string,Annotation of Estimate!!Total!!Bicycle,B08406
+B08406_018MA,string,Annotation of Margin of Error!!Total!!Bicycle,B08406
+B08406_019EA,string,Annotation of Estimate!!Total!!Walked,B08406
+B08406_019MA,string,Annotation of Margin of Error!!Total!!Walked,B08406
+B08406_020EA,string,Annotation of Estimate!!Total!!Other means,B08406
+B08406_020MA,string,Annotation of Margin of Error!!Total!!Other means,B08406
+B08406_021EA,string,Annotation of Estimate!!Total!!Worked at home,B08406
+B08406_021MA,string,Annotation of Margin of Error!!Total!!Worked at home,B08406
+B08406_022EA,string,Annotation of Estimate!!Total!!Male,B08406
+B08406_022MA,string,Annotation of Margin of Error!!Total!!Male,B08406
+B08406_023EA,string,"Annotation of Estimate!!Total!!Male!!Car, truck, or van",B08406
+B08406_023MA,string,"Annotation of Margin of Error!!Total!!Male!!Car, truck, or van",B08406
+B08406_024EA,string,"Annotation of Estimate!!Total!!Male!!Car, truck, or van!!Drove alone",B08406
+B08406_024MA,string,"Annotation of Margin of Error!!Total!!Male!!Car, truck, or van!!Drove alone",B08406
+B08406_025EA,string,"Annotation of Estimate!!Total!!Male!!Car, truck, or van!!Carpooled",B08406
+B08406_025MA,string,"Annotation of Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled",B08406
+B08406_026EA,string,"Annotation of Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_026MA,string,"Annotation of Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_027EA,string,"Annotation of Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_027MA,string,"Annotation of Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_028EA,string,"Annotation of Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_028MA,string,"Annotation of Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_029EA,string,"Annotation of Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_029MA,string,"Annotation of Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_030EA,string,"Annotation of Estimate!!Total!!Male!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_030MA,string,"Annotation of Margin of Error!!Total!!Male!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_031EA,string,Annotation of Estimate!!Total!!Male!!Public transportation (excluding taxicab),B08406
+B08406_031MA,string,Annotation of Margin of Error!!Total!!Male!!Public transportation (excluding taxicab),B08406
+B08406_032EA,string,Annotation of Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_032MA,string,Annotation of Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_033EA,string,Annotation of Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_033MA,string,Annotation of Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_034EA,string,Annotation of Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_034MA,string,Annotation of Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_035EA,string,Annotation of Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_035MA,string,Annotation of Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_036EA,string,Annotation of Estimate!!Total!!Male!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_036MA,string,Annotation of Margin of Error!!Total!!Male!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_037EA,string,Annotation of Estimate!!Total!!Male!!Taxicab,B08406
+B08406_037MA,string,Annotation of Margin of Error!!Total!!Male!!Taxicab,B08406
+B08406_038EA,string,Annotation of Estimate!!Total!!Male!!Motorcycle,B08406
+B08406_038MA,string,Annotation of Margin of Error!!Total!!Male!!Motorcycle,B08406
+B08406_039EA,string,Annotation of Estimate!!Total!!Male!!Bicycle,B08406
+B08406_039MA,string,Annotation of Margin of Error!!Total!!Male!!Bicycle,B08406
+B08406_040EA,string,Annotation of Estimate!!Total!!Male!!Walked,B08406
+B08406_040MA,string,Annotation of Margin of Error!!Total!!Male!!Walked,B08406
+B08406_041EA,string,Annotation of Estimate!!Total!!Male!!Other means,B08406
+B08406_041MA,string,Annotation of Margin of Error!!Total!!Male!!Other means,B08406
+B08406_042EA,string,Annotation of Estimate!!Total!!Male!!Worked at home,B08406
+B08406_042MA,string,Annotation of Margin of Error!!Total!!Male!!Worked at home,B08406
+B08406_043EA,string,Annotation of Estimate!!Total!!Female,B08406
+B08406_043MA,string,Annotation of Margin of Error!!Total!!Female,B08406
+B08406_044EA,string,"Annotation of Estimate!!Total!!Female!!Car, truck, or van",B08406
+B08406_044MA,string,"Annotation of Margin of Error!!Total!!Female!!Car, truck, or van",B08406
+B08406_045EA,string,"Annotation of Estimate!!Total!!Female!!Car, truck, or van!!Drove alone",B08406
+B08406_045MA,string,"Annotation of Margin of Error!!Total!!Female!!Car, truck, or van!!Drove alone",B08406
+B08406_046EA,string,"Annotation of Estimate!!Total!!Female!!Car, truck, or van!!Carpooled",B08406
+B08406_046MA,string,"Annotation of Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled",B08406
+B08406_047EA,string,"Annotation of Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_047MA,string,"Annotation of Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 2-person carpool",B08406
+B08406_048EA,string,"Annotation of Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_048MA,string,"Annotation of Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 3-person carpool",B08406
+B08406_049EA,string,"Annotation of Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_049MA,string,"Annotation of Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 4-person carpool",B08406
+B08406_050EA,string,"Annotation of Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_050MA,string,"Annotation of Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 5- or 6-person carpool",B08406
+B08406_051EA,string,"Annotation of Estimate!!Total!!Female!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_051MA,string,"Annotation of Margin of Error!!Total!!Female!!Car, truck, or van!!Carpooled!!In 7-or-more-person carpool",B08406
+B08406_052EA,string,Annotation of Estimate!!Total!!Female!!Public transportation (excluding taxicab),B08406
+B08406_052MA,string,Annotation of Margin of Error!!Total!!Female!!Public transportation (excluding taxicab),B08406
+B08406_053EA,string,Annotation of Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_053MA,string,Annotation of Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Bus or trolley bus,B08406
+B08406_054EA,string,Annotation of Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_054MA,string,Annotation of Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Streetcar or trolley car (carro publico in Puerto Rico),B08406
+B08406_055EA,string,Annotation of Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_055MA,string,Annotation of Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Subway or elevated,B08406
+B08406_056EA,string,Annotation of Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_056MA,string,Annotation of Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Railroad,B08406
+B08406_057EA,string,Annotation of Estimate!!Total!!Female!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_057MA,string,Annotation of Margin of Error!!Total!!Female!!Public transportation (excluding taxicab)!!Ferryboat,B08406
+B08406_058EA,string,Annotation of Estimate!!Total!!Female!!Taxicab,B08406
+B08406_058MA,string,Annotation of Margin of Error!!Total!!Female!!Taxicab,B08406
+B08406_059EA,string,Annotation of Estimate!!Total!!Female!!Motorcycle,B08406
+B08406_059MA,string,Annotation of Margin of Error!!Total!!Female!!Motorcycle,B08406
+B08406_060EA,string,Annotation of Estimate!!Total!!Female!!Bicycle,B08406
+B08406_060MA,string,Annotation of Margin of Error!!Total!!Female!!Bicycle,B08406
+B08406_061EA,string,Annotation of Estimate!!Total!!Female!!Walked,B08406
+B08406_061MA,string,Annotation of Margin of Error!!Total!!Female!!Walked,B08406
+B08406_062EA,string,Annotation of Estimate!!Total!!Female!!Other means,B08406
+B08406_062MA,string,Annotation of Margin of Error!!Total!!Female!!Other means,B08406
+B08406_063EA,string,Annotation of Estimate!!Total!!Female!!Worked at home,B08406
+B08406_063MA,string,Annotation of Margin of Error!!Total!!Female!!Worked at home,B08406

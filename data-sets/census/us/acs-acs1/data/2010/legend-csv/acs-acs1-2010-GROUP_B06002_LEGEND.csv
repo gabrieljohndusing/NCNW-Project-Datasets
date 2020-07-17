@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+B06002_001E,float,Estimate!!Median age!!Total,B06002
+B06002_002E,float,Estimate!!Median age!!Total!!Born in state of residence,B06002
+B06002_003E,float,Estimate!!Median age!!Total!!Born in other state of the United States,B06002
+B06002_004E,float,Estimate!!Median age!!Total!!Native; born outside the United States,B06002
+B06002_005E,float,Estimate!!Median age!!Total!!Foreign born,B06002
+B06002_001M,float,Margin of Error!!Median age!!Total,B06002
+B06002_002M,float,Margin of Error!!Median age!!Total!!Born in state of residence,B06002
+B06002_003M,float,Margin of Error!!Median age!!Total!!Born in other state of the United States,B06002
+B06002_004M,float,Margin of Error!!Median age!!Total!!Native; born outside the United States,B06002
+B06002_005M,float,Margin of Error!!Median age!!Total!!Foreign born,B06002
+B06002_001EA,string,Annotation of Estimate!!Median age!!Total,B06002
+B06002_001MA,string,Annotation of Margin of Error!!Median age!!Total,B06002
+B06002_002EA,string,Annotation of Estimate!!Median age!!Total!!Born in state of residence,B06002
+B06002_002MA,string,Annotation of Margin of Error!!Median age!!Total!!Born in state of residence,B06002
+B06002_003EA,string,Annotation of Estimate!!Median age!!Total!!Born in other state of the United States,B06002
+B06002_003MA,string,Annotation of Margin of Error!!Median age!!Total!!Born in other state of the United States,B06002
+B06002_004EA,string,Annotation of Estimate!!Median age!!Total!!Native; born outside the United States,B06002
+B06002_004MA,string,Annotation of Margin of Error!!Median age!!Total!!Native; born outside the United States,B06002
+B06002_005EA,string,Annotation of Estimate!!Median age!!Total!!Foreign born,B06002
+B06002_005MA,string,Annotation of Margin of Error!!Median age!!Total!!Foreign born,B06002

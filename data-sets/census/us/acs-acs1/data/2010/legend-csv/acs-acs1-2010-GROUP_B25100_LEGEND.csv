@@ -1,0 +1,53 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25100_001E,int,Estimate!!Total,B25100
+B25100_002E,int,Estimate!!Total!!With a mortgage,B25100
+B25100_003E,int,Estimate!!Total!!With a mortgage!!Less than 2.0,B25100
+B25100_004E,int,Estimate!!Total!!With a mortgage!!2.0 to 2.9,B25100
+B25100_005E,int,Estimate!!Total!!With a mortgage!!3.0 to 3.9,B25100
+B25100_006E,int,Estimate!!Total!!With a mortgage!!4.0 or more,B25100
+B25100_007E,int,Estimate!!Total!!With a mortgage!!Not computed,B25100
+B25100_008E,int,Estimate!!Total!!Not mortgaged,B25100
+B25100_009E,int,Estimate!!Total!!Not mortgaged!!Less than 2.0,B25100
+B25100_010E,int,Estimate!!Total!!Not mortgaged!!2.0 to 2.9,B25100
+B25100_011E,int,Estimate!!Total!!Not mortgaged!!3.0 to 3.9,B25100
+B25100_012E,int,Estimate!!Total!!Not mortgaged!!4.0 or more,B25100
+B25100_013E,int,Estimate!!Total!!Not mortgaged!!Not computed,B25100
+B25100_001M,int,Margin of Error!!Total,B25100
+B25100_002M,int,Margin of Error!!Total!!With a mortgage,B25100
+B25100_003M,int,Margin of Error!!Total!!With a mortgage!!Less than 2.0,B25100
+B25100_004M,int,Margin of Error!!Total!!With a mortgage!!2.0 to 2.9,B25100
+B25100_005M,int,Margin of Error!!Total!!With a mortgage!!3.0 to 3.9,B25100
+B25100_006M,int,Margin of Error!!Total!!With a mortgage!!4.0 or more,B25100
+B25100_007M,int,Margin of Error!!Total!!With a mortgage!!Not computed,B25100
+B25100_008M,int,Margin of Error!!Total!!Not mortgaged,B25100
+B25100_009M,int,Margin of Error!!Total!!Not mortgaged!!Less than 2.0,B25100
+B25100_010M,int,Margin of Error!!Total!!Not mortgaged!!2.0 to 2.9,B25100
+B25100_011M,int,Margin of Error!!Total!!Not mortgaged!!3.0 to 3.9,B25100
+B25100_012M,int,Margin of Error!!Total!!Not mortgaged!!4.0 or more,B25100
+B25100_013M,int,Margin of Error!!Total!!Not mortgaged!!Not computed,B25100
+B25100_001EA,string,Annotation of Estimate!!Total,B25100
+B25100_001MA,string,Annotation of Margin of Error!!Total,B25100
+B25100_002EA,string,Annotation of Estimate!!Total!!With a mortgage,B25100
+B25100_002MA,string,Annotation of Margin of Error!!Total!!With a mortgage,B25100
+B25100_003EA,string,Annotation of Estimate!!Total!!With a mortgage!!Less than 2.0,B25100
+B25100_003MA,string,Annotation of Margin of Error!!Total!!With a mortgage!!Less than 2.0,B25100
+B25100_004EA,string,Annotation of Estimate!!Total!!With a mortgage!!2.0 to 2.9,B25100
+B25100_004MA,string,Annotation of Margin of Error!!Total!!With a mortgage!!2.0 to 2.9,B25100
+B25100_005EA,string,Annotation of Estimate!!Total!!With a mortgage!!3.0 to 3.9,B25100
+B25100_005MA,string,Annotation of Margin of Error!!Total!!With a mortgage!!3.0 to 3.9,B25100
+B25100_006EA,string,Annotation of Estimate!!Total!!With a mortgage!!4.0 or more,B25100
+B25100_006MA,string,Annotation of Margin of Error!!Total!!With a mortgage!!4.0 or more,B25100
+B25100_007EA,string,Annotation of Estimate!!Total!!With a mortgage!!Not computed,B25100
+B25100_007MA,string,Annotation of Margin of Error!!Total!!With a mortgage!!Not computed,B25100
+B25100_008EA,string,Annotation of Estimate!!Total!!Not mortgaged,B25100
+B25100_008MA,string,Annotation of Margin of Error!!Total!!Not mortgaged,B25100
+B25100_009EA,string,Annotation of Estimate!!Total!!Not mortgaged!!Less than 2.0,B25100
+B25100_009MA,string,Annotation of Margin of Error!!Total!!Not mortgaged!!Less than 2.0,B25100
+B25100_010EA,string,Annotation of Estimate!!Total!!Not mortgaged!!2.0 to 2.9,B25100
+B25100_010MA,string,Annotation of Margin of Error!!Total!!Not mortgaged!!2.0 to 2.9,B25100
+B25100_011EA,string,Annotation of Estimate!!Total!!Not mortgaged!!3.0 to 3.9,B25100
+B25100_011MA,string,Annotation of Margin of Error!!Total!!Not mortgaged!!3.0 to 3.9,B25100
+B25100_012EA,string,Annotation of Estimate!!Total!!Not mortgaged!!4.0 or more,B25100
+B25100_012MA,string,Annotation of Margin of Error!!Total!!Not mortgaged!!4.0 or more,B25100
+B25100_013EA,string,Annotation of Estimate!!Total!!Not mortgaged!!Not computed,B25100
+B25100_013MA,string,Annotation of Margin of Error!!Total!!Not mortgaged!!Not computed,B25100

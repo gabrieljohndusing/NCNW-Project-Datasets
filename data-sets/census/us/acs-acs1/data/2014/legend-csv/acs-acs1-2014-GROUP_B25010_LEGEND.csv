@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25010_001E,float,Estimate!!Total,B25010
+B25010_002E,float,Estimate!!Total!!Owner occupied,B25010
+B25010_003E,float,Estimate!!Total!!Renter occupied,B25010
+B25010_001M,float,Margin of Error!!Total,B25010
+B25010_002M,float,Margin of Error!!Total!!Owner occupied,B25010
+B25010_003M,float,Margin of Error!!Total!!Renter occupied,B25010
+B25010_001EA,string,Annotation of Estimate!!Total,B25010
+B25010_001MA,string,Annotation of Margin of Error!!Total,B25010
+B25010_002EA,string,Annotation of Estimate!!Total!!Owner occupied,B25010
+B25010_002MA,string,Annotation of Margin of Error!!Total!!Owner occupied,B25010
+B25010_003EA,string,Annotation of Estimate!!Total!!Renter occupied,B25010
+B25010_003MA,string,Annotation of Margin of Error!!Total!!Renter occupied,B25010

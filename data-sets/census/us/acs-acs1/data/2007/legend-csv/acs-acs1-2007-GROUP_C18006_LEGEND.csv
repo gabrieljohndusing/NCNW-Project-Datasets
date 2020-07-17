@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18006_001E,int,Estimate!!Total,C18006
+C18006_002E,int,Estimate!!Total!!Male,C18006
+C18006_003E,int,Estimate!!Total!!Male!!5 to 15 years,C18006
+C18006_004E,int,Estimate!!Total!!Male!!5 to 15 years!!With a self-care disability,C18006
+C18006_005E,int,Estimate!!Total!!Male!!5 to 15 years!!No self-care disability,C18006
+C18006_006E,int,Estimate!!Total!!Male!!16 to 64 years,C18006
+C18006_007E,int,Estimate!!Total!!Male!!16 to 64 years!!With a self-care disability,C18006
+C18006_008E,int,Estimate!!Total!!Male!!16 to 64 years!!No self-care disability,C18006
+C18006_009E,int,Estimate!!Total!!Male!!65 years and over,C18006
+C18006_010E,int,Estimate!!Total!!Male!!65 years and over!!With a self-care disability,C18006
+C18006_011E,int,Estimate!!Total!!Male!!65 years and over!!No self-care disability,C18006
+C18006_012E,int,Estimate!!Total!!Female,C18006
+C18006_013E,int,Estimate!!Total!!Female!!5 to 15 years,C18006
+C18006_014E,int,Estimate!!Total!!Female!!5 to 15 years!!With a self-care disability,C18006
+C18006_015E,int,Estimate!!Total!!Female!!5 to 15 years!!No self-care disability,C18006
+C18006_016E,int,Estimate!!Total!!Female!!16 to 64 years,C18006
+C18006_017E,int,Estimate!!Total!!Female!!16 to 64 years!!With a self-care disability,C18006
+C18006_018E,int,Estimate!!Total!!Female!!16 to 64 years!!No self-care disability,C18006
+C18006_019E,int,Estimate!!Total!!Female!!65 years and over,C18006
+C18006_020E,int,Estimate!!Total!!Female!!65 years and over!!With a self-care disability,C18006
+C18006_021E,int,Estimate!!Total!!Female!!65 years and over!!No self-care disability,C18006
+C18006_001M,int,Margin of Error!!Total,C18006
+C18006_002M,int,Margin of Error!!Total!!Male,C18006
+C18006_003M,int,Margin of Error!!Total!!Male!!5 to 15 years,C18006
+C18006_004M,int,Margin of Error!!Total!!Male!!5 to 15 years!!With a self-care disability,C18006
+C18006_005M,int,Margin of Error!!Total!!Male!!5 to 15 years!!No self-care disability,C18006
+C18006_006M,int,Margin of Error!!Total!!Male!!16 to 64 years,C18006
+C18006_007M,int,Margin of Error!!Total!!Male!!16 to 64 years!!With a self-care disability,C18006
+C18006_008M,int,Margin of Error!!Total!!Male!!16 to 64 years!!No self-care disability,C18006
+C18006_009M,int,Margin of Error!!Total!!Male!!65 years and over,C18006
+C18006_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With a self-care disability,C18006
+C18006_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No self-care disability,C18006
+C18006_012M,int,Margin of Error!!Total!!Female,C18006
+C18006_013M,int,Margin of Error!!Total!!Female!!5 to 15 years,C18006
+C18006_014M,int,Margin of Error!!Total!!Female!!5 to 15 years!!With a self-care disability,C18006
+C18006_015M,int,Margin of Error!!Total!!Female!!5 to 15 years!!No self-care disability,C18006
+C18006_016M,int,Margin of Error!!Total!!Female!!16 to 64 years,C18006
+C18006_017M,int,Margin of Error!!Total!!Female!!16 to 64 years!!With a self-care disability,C18006
+C18006_018M,int,Margin of Error!!Total!!Female!!16 to 64 years!!No self-care disability,C18006
+C18006_019M,int,Margin of Error!!Total!!Female!!65 years and over,C18006
+C18006_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With a self-care disability,C18006
+C18006_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No self-care disability,C18006
+C18006_001EA,string,Annotation of Estimate!!Total,C18006
+C18006_001MA,string,Annotation of Margin of Error!!Total,C18006
+C18006_002EA,string,Annotation of Estimate!!Total!!Male,C18006
+C18006_002MA,string,Annotation of Margin of Error!!Total!!Male,C18006
+C18006_003EA,string,Annotation of Estimate!!Total!!Male!!5 to 15 years,C18006
+C18006_003MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 15 years,C18006
+C18006_004EA,string,Annotation of Estimate!!Total!!Male!!5 to 15 years!!With a self-care disability,C18006
+C18006_004MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 15 years!!With a self-care disability,C18006
+C18006_005EA,string,Annotation of Estimate!!Total!!Male!!5 to 15 years!!No self-care disability,C18006
+C18006_005MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 15 years!!No self-care disability,C18006
+C18006_006EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years,C18006
+C18006_006MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years,C18006
+C18006_007EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!With a self-care disability,C18006
+C18006_007MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!With a self-care disability,C18006
+C18006_008EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!No self-care disability,C18006
+C18006_008MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!No self-care disability,C18006
+C18006_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C18006
+C18006_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C18006
+C18006_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With a self-care disability,C18006
+C18006_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With a self-care disability,C18006
+C18006_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No self-care disability,C18006
+C18006_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No self-care disability,C18006
+C18006_012EA,string,Annotation of Estimate!!Total!!Female,C18006
+C18006_012MA,string,Annotation of Margin of Error!!Total!!Female,C18006
+C18006_013EA,string,Annotation of Estimate!!Total!!Female!!5 to 15 years,C18006
+C18006_013MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 15 years,C18006
+C18006_014EA,string,Annotation of Estimate!!Total!!Female!!5 to 15 years!!With a self-care disability,C18006
+C18006_014MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 15 years!!With a self-care disability,C18006
+C18006_015EA,string,Annotation of Estimate!!Total!!Female!!5 to 15 years!!No self-care disability,C18006
+C18006_015MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 15 years!!No self-care disability,C18006
+C18006_016EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years,C18006
+C18006_016MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years,C18006
+C18006_017EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!With a self-care disability,C18006
+C18006_017MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!With a self-care disability,C18006
+C18006_018EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!No self-care disability,C18006
+C18006_018MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!No self-care disability,C18006
+C18006_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C18006
+C18006_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C18006
+C18006_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With a self-care disability,C18006
+C18006_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With a self-care disability,C18006
+C18006_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No self-care disability,C18006
+C18006_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No self-care disability,C18006

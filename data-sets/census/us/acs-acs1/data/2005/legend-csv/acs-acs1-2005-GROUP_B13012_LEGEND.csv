@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+B13012_001E,int,Estimate!!Total,B13012
+B13012_002E,int,Estimate!!Total!!Women who had a birth in the past 12 months,B13012
+B13012_003E,int,Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent),B13012
+B13012_004E,int,Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent)!!In labor force,B13012
+B13012_005E,int,Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent)!!Not in labor force,B13012
+B13012_006E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13012
+B13012_007E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!In labor force",B13012
+B13012_008E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not in labor force",B13012
+B13012_009E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months,B13012
+B13012_010E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent),B13012
+B13012_011E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent)!!In labor force,B13012
+B13012_012E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent)!!Not in labor force,B13012
+B13012_013E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13012
+B13012_014E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!In labor force",B13012
+B13012_015E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not in labor force",B13012
+B13012_001M,int,Margin of Error!!Total,B13012
+B13012_002M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months,B13012
+B13012_003M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent),B13012
+B13012_004M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent)!!In labor force,B13012
+B13012_005M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent)!!Not in labor force,B13012
+B13012_006M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13012
+B13012_007M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!In labor force",B13012
+B13012_008M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not in labor force",B13012
+B13012_009M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months,B13012
+B13012_010M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent),B13012
+B13012_011M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent)!!In labor force,B13012
+B13012_012M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent)!!Not in labor force,B13012
+B13012_013M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13012
+B13012_014M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!In labor force",B13012
+B13012_015M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not in labor force",B13012
+B13012_001EA,string,Annotation of Estimate!!Total,B13012
+B13012_001MA,string,Annotation of Margin of Error!!Total,B13012
+B13012_002EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months,B13012
+B13012_002MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months,B13012
+B13012_003EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent),B13012
+B13012_003MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent),B13012
+B13012_004EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent)!!In labor force,B13012
+B13012_004MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent)!!In labor force,B13012
+B13012_005EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent)!!Not in labor force,B13012
+B13012_005MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including spouse absent)!!Not in labor force,B13012
+B13012_006EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13012
+B13012_006MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13012
+B13012_007EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!In labor force",B13012
+B13012_007MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!In labor force",B13012
+B13012_008EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not in labor force",B13012
+B13012_008MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not in labor force",B13012
+B13012_009EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months,B13012
+B13012_009MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months,B13012
+B13012_010EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent),B13012
+B13012_010MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent),B13012
+B13012_011EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent)!!In labor force,B13012
+B13012_011MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent)!!In labor force,B13012
+B13012_012EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent)!!Not in labor force,B13012
+B13012_012MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including spouse absent)!!Not in labor force,B13012
+B13012_013EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13012
+B13012_013MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13012
+B13012_014EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!In labor force",B13012
+B13012_014MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!In labor force",B13012
+B13012_015EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not in labor force",B13012
+B13012_015MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not in labor force",B13012

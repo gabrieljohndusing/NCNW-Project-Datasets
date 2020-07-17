@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+C05003G_001E,int,Estimate!!Total,C05003G
+C05003G_002E,int,Estimate!!Total!!Male,C05003G
+C05003G_003E,int,Estimate!!Total!!Male!!Under 18 years,C05003G
+C05003G_004E,int,Estimate!!Total!!Male!!Under 18 years!!Native,C05003G
+C05003G_005E,int,Estimate!!Total!!Male!!Under 18 years!!Foreign born,C05003G
+C05003G_006E,int,Estimate!!Total!!Male!!18 years and over,C05003G
+C05003G_007E,int,Estimate!!Total!!Male!!18 years and over!!Native,C05003G
+C05003G_008E,int,Estimate!!Total!!Male!!18 years and over!!Foreign born,C05003G
+C05003G_009E,int,Estimate!!Total!!Female,C05003G
+C05003G_010E,int,Estimate!!Total!!Female!!Under 18 years,C05003G
+C05003G_011E,int,Estimate!!Total!!Female!!Under 18 years!!Native,C05003G
+C05003G_012E,int,Estimate!!Total!!Female!!Under 18 years!!Foreign born,C05003G
+C05003G_013E,int,Estimate!!Total!!Female!!18 years and over,C05003G
+C05003G_014E,int,Estimate!!Total!!Female!!18 years and over!!Native,C05003G
+C05003G_015E,int,Estimate!!Total!!Female!!18 years and over!!Foreign born,C05003G
+C05003G_001M,int,Margin of Error!!Total,C05003G
+C05003G_002M,int,Margin of Error!!Total!!Male,C05003G
+C05003G_003M,int,Margin of Error!!Total!!Male!!Under 18 years,C05003G
+C05003G_004M,int,Margin of Error!!Total!!Male!!Under 18 years!!Native,C05003G
+C05003G_005M,int,Margin of Error!!Total!!Male!!Under 18 years!!Foreign born,C05003G
+C05003G_006M,int,Margin of Error!!Total!!Male!!18 years and over,C05003G
+C05003G_007M,int,Margin of Error!!Total!!Male!!18 years and over!!Native,C05003G
+C05003G_008M,int,Margin of Error!!Total!!Male!!18 years and over!!Foreign born,C05003G
+C05003G_009M,int,Margin of Error!!Total!!Female,C05003G
+C05003G_010M,int,Margin of Error!!Total!!Female!!Under 18 years,C05003G
+C05003G_011M,int,Margin of Error!!Total!!Female!!Under 18 years!!Native,C05003G
+C05003G_012M,int,Margin of Error!!Total!!Female!!Under 18 years!!Foreign born,C05003G
+C05003G_013M,int,Margin of Error!!Total!!Female!!18 years and over,C05003G
+C05003G_014M,int,Margin of Error!!Total!!Female!!18 years and over!!Native,C05003G
+C05003G_015M,int,Margin of Error!!Total!!Female!!18 years and over!!Foreign born,C05003G
+C05003G_001EA,string,Annotation of Estimate!!Total,C05003G
+C05003G_001MA,string,Annotation of Margin of Error!!Total,C05003G
+C05003G_002EA,string,Annotation of Estimate!!Total!!Male,C05003G
+C05003G_002MA,string,Annotation of Margin of Error!!Total!!Male,C05003G
+C05003G_003EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years,C05003G
+C05003G_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years,C05003G
+C05003G_004EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!Native,C05003G
+C05003G_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!Native,C05003G
+C05003G_005EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!Foreign born,C05003G
+C05003G_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!Foreign born,C05003G
+C05003G_006EA,string,Annotation of Estimate!!Total!!Male!!18 years and over,C05003G
+C05003G_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 years and over,C05003G
+C05003G_007EA,string,Annotation of Estimate!!Total!!Male!!18 years and over!!Native,C05003G
+C05003G_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 years and over!!Native,C05003G
+C05003G_008EA,string,Annotation of Estimate!!Total!!Male!!18 years and over!!Foreign born,C05003G
+C05003G_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 years and over!!Foreign born,C05003G
+C05003G_009EA,string,Annotation of Estimate!!Total!!Female,C05003G
+C05003G_009MA,string,Annotation of Margin of Error!!Total!!Female,C05003G
+C05003G_010EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years,C05003G
+C05003G_010MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years,C05003G
+C05003G_011EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!Native,C05003G
+C05003G_011MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!Native,C05003G
+C05003G_012EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!Foreign born,C05003G
+C05003G_012MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!Foreign born,C05003G
+C05003G_013EA,string,Annotation of Estimate!!Total!!Female!!18 years and over,C05003G
+C05003G_013MA,string,Annotation of Margin of Error!!Total!!Female!!18 years and over,C05003G
+C05003G_014EA,string,Annotation of Estimate!!Total!!Female!!18 years and over!!Native,C05003G
+C05003G_014MA,string,Annotation of Margin of Error!!Total!!Female!!18 years and over!!Native,C05003G
+C05003G_015EA,string,Annotation of Estimate!!Total!!Female!!18 years and over!!Foreign born,C05003G
+C05003G_015MA,string,Annotation of Margin of Error!!Total!!Female!!18 years and over!!Foreign born,C05003G

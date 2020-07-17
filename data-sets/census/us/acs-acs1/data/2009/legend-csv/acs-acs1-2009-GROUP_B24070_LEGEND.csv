@@ -1,0 +1,649 @@
+VARIABLE,TYPE,LABEL,GROUP
+B24070_001E,int,Estimate!!Total,B24070
+B24070_002E,int,"Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_003E,int,"Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_004E,int,"Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_005E,int,Estimate!!Total!!Construction,B24070
+B24070_006E,int,Estimate!!Total!!Manufacturing,B24070
+B24070_007E,int,Estimate!!Total!!Wholesale trade,B24070
+B24070_008E,int,Estimate!!Total!!Retail trade,B24070
+B24070_009E,int,"Estimate!!Total!!Transportation and warehousing, and utilities",B24070
+B24070_010E,int,"Estimate!!Total!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_011E,int,"Estimate!!Total!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_012E,int,Estimate!!Total!!Information,B24070
+B24070_013E,int,"Estimate!!Total!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_014E,int,"Estimate!!Total!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_015E,int,"Estimate!!Total!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_016E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_017E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_018E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_019E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_020E,int,"Estimate!!Total!!Educational services, and health care and social assistance",B24070
+B24070_021E,int,"Estimate!!Total!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_022E,int,"Estimate!!Total!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_023E,int,"Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_024E,int,"Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_025E,int,"Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_026E,int,"Estimate!!Total!!Other services, except public administration",B24070
+B24070_027E,int,Estimate!!Total!!Public administration,B24070
+B24070_028E,int,Estimate!!Total!!Employee of private company workers,B24070
+B24070_029E,int,"Estimate!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_030E,int,"Estimate!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_031E,int,"Estimate!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_032E,int,Estimate!!Total!!Employee of private company workers!!Construction,B24070
+B24070_033E,int,Estimate!!Total!!Employee of private company workers!!Manufacturing,B24070
+B24070_034E,int,Estimate!!Total!!Employee of private company workers!!Wholesale trade,B24070
+B24070_035E,int,Estimate!!Total!!Employee of private company workers!!Retail trade,B24070
+B24070_036E,int,"Estimate!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities",B24070
+B24070_037E,int,"Estimate!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_038E,int,"Estimate!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_039E,int,Estimate!!Total!!Employee of private company workers!!Information,B24070
+B24070_040E,int,"Estimate!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_041E,int,"Estimate!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_042E,int,"Estimate!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_043E,int,"Estimate!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_044E,int,"Estimate!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_045E,int,"Estimate!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_046E,int,"Estimate!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_047E,int,"Estimate!!Total!!Employee of private company workers!!Educational services, and health care and social assistance",B24070
+B24070_048E,int,"Estimate!!Total!!Employee of private company workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_049E,int,"Estimate!!Total!!Employee of private company workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_050E,int,"Estimate!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_051E,int,"Estimate!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_052E,int,"Estimate!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_053E,int,"Estimate!!Total!!Employee of private company workers!!Other services, except public administration",B24070
+B24070_054E,int,Estimate!!Total!!Employee of private company workers!!Public administration,B24070
+B24070_055E,int,Estimate!!Total!!Self-employed in own incorporated business workers,B24070
+B24070_056E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_057E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_058E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_059E,int,Estimate!!Total!!Self-employed in own incorporated business workers!!Construction,B24070
+B24070_060E,int,Estimate!!Total!!Self-employed in own incorporated business workers!!Manufacturing,B24070
+B24070_061E,int,Estimate!!Total!!Self-employed in own incorporated business workers!!Wholesale trade,B24070
+B24070_062E,int,Estimate!!Total!!Self-employed in own incorporated business workers!!Retail trade,B24070
+B24070_063E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities",B24070
+B24070_064E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_065E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_066E,int,Estimate!!Total!!Self-employed in own incorporated business workers!!Information,B24070
+B24070_067E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_068E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_069E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_070E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_071E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_072E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_073E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_074E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance",B24070
+B24070_075E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_076E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_077E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_078E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_079E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_080E,int,"Estimate!!Total!!Self-employed in own incorporated business workers!!Other services, except public administration",B24070
+B24070_081E,int,Estimate!!Total!!Self-employed in own incorporated business workers!!Public administration,B24070
+B24070_082E,int,Estimate!!Total!!Private not-for-profit wage and salary workers,B24070
+B24070_083E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_084E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_085E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_086E,int,Estimate!!Total!!Private not-for-profit wage and salary workers!!Construction,B24070
+B24070_087E,int,Estimate!!Total!!Private not-for-profit wage and salary workers!!Manufacturing,B24070
+B24070_088E,int,Estimate!!Total!!Private not-for-profit wage and salary workers!!Wholesale trade,B24070
+B24070_089E,int,Estimate!!Total!!Private not-for-profit wage and salary workers!!Retail trade,B24070
+B24070_090E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities",B24070
+B24070_091E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_092E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_093E,int,Estimate!!Total!!Private not-for-profit wage and salary workers!!Information,B24070
+B24070_094E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_095E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_096E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_097E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_098E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_099E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_100E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_101E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance",B24070
+B24070_102E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_103E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_104E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_105E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_106E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_107E,int,"Estimate!!Total!!Private not-for-profit wage and salary workers!!Other services, except public administration",B24070
+B24070_108E,int,Estimate!!Total!!Private not-for-profit wage and salary workers!!Public administration,B24070
+B24070_109E,int,"Estimate!!Total!!Local, state, and federal government workers",B24070
+B24070_110E,int,"Estimate!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_111E,int,"Estimate!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_112E,int,"Estimate!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_113E,int,"Estimate!!Total!!Local, state, and federal government workers!!Construction",B24070
+B24070_114E,int,"Estimate!!Total!!Local, state, and federal government workers!!Manufacturing",B24070
+B24070_115E,int,"Estimate!!Total!!Local, state, and federal government workers!!Wholesale trade",B24070
+B24070_116E,int,"Estimate!!Total!!Local, state, and federal government workers!!Retail trade",B24070
+B24070_117E,int,"Estimate!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities",B24070
+B24070_118E,int,"Estimate!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_119E,int,"Estimate!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_120E,int,"Estimate!!Total!!Local, state, and federal government workers!!Information",B24070
+B24070_121E,int,"Estimate!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_122E,int,"Estimate!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_123E,int,"Estimate!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_124E,int,"Estimate!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_125E,int,"Estimate!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_126E,int,"Estimate!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_127E,int,"Estimate!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_128E,int,"Estimate!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance",B24070
+B24070_129E,int,"Estimate!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_130E,int,"Estimate!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_131E,int,"Estimate!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_132E,int,"Estimate!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_133E,int,"Estimate!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_134E,int,"Estimate!!Total!!Local, state, and federal government workers!!Other services, except public administration",B24070
+B24070_135E,int,"Estimate!!Total!!Local, state, and federal government workers!!Public administration",B24070
+B24070_136E,int,Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers,B24070
+B24070_137E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_138E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_139E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_140E,int,Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Construction,B24070
+B24070_141E,int,Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Manufacturing,B24070
+B24070_142E,int,Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Wholesale trade,B24070
+B24070_143E,int,Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Retail trade,B24070
+B24070_144E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities",B24070
+B24070_145E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_146E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_147E,int,Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Information,B24070
+B24070_148E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_149E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_150E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_151E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_152E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_153E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_154E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_155E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance",B24070
+B24070_156E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_157E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_158E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_159E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_160E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_161E,int,"Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Other services, except public administration",B24070
+B24070_162E,int,Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Public administration,B24070
+B24070_001M,int,Margin of Error!!Total,B24070
+B24070_002M,int,"Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_003M,int,"Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_004M,int,"Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_005M,int,Margin of Error!!Total!!Construction,B24070
+B24070_006M,int,Margin of Error!!Total!!Manufacturing,B24070
+B24070_007M,int,Margin of Error!!Total!!Wholesale trade,B24070
+B24070_008M,int,Margin of Error!!Total!!Retail trade,B24070
+B24070_009M,int,"Margin of Error!!Total!!Transportation and warehousing, and utilities",B24070
+B24070_010M,int,"Margin of Error!!Total!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_011M,int,"Margin of Error!!Total!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_012M,int,Margin of Error!!Total!!Information,B24070
+B24070_013M,int,"Margin of Error!!Total!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_014M,int,"Margin of Error!!Total!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_015M,int,"Margin of Error!!Total!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_016M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_017M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_018M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_019M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_020M,int,"Margin of Error!!Total!!Educational services, and health care and social assistance",B24070
+B24070_021M,int,"Margin of Error!!Total!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_022M,int,"Margin of Error!!Total!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_023M,int,"Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_024M,int,"Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_025M,int,"Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_026M,int,"Margin of Error!!Total!!Other services, except public administration",B24070
+B24070_027M,int,Margin of Error!!Total!!Public administration,B24070
+B24070_028M,int,Margin of Error!!Total!!Employee of private company workers,B24070
+B24070_029M,int,"Margin of Error!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_030M,int,"Margin of Error!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_031M,int,"Margin of Error!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_032M,int,Margin of Error!!Total!!Employee of private company workers!!Construction,B24070
+B24070_033M,int,Margin of Error!!Total!!Employee of private company workers!!Manufacturing,B24070
+B24070_034M,int,Margin of Error!!Total!!Employee of private company workers!!Wholesale trade,B24070
+B24070_035M,int,Margin of Error!!Total!!Employee of private company workers!!Retail trade,B24070
+B24070_036M,int,"Margin of Error!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities",B24070
+B24070_037M,int,"Margin of Error!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_038M,int,"Margin of Error!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_039M,int,Margin of Error!!Total!!Employee of private company workers!!Information,B24070
+B24070_040M,int,"Margin of Error!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_041M,int,"Margin of Error!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_042M,int,"Margin of Error!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_043M,int,"Margin of Error!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_044M,int,"Margin of Error!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_045M,int,"Margin of Error!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_046M,int,"Margin of Error!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_047M,int,"Margin of Error!!Total!!Employee of private company workers!!Educational services, and health care and social assistance",B24070
+B24070_048M,int,"Margin of Error!!Total!!Employee of private company workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_049M,int,"Margin of Error!!Total!!Employee of private company workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_050M,int,"Margin of Error!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_051M,int,"Margin of Error!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_052M,int,"Margin of Error!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_053M,int,"Margin of Error!!Total!!Employee of private company workers!!Other services, except public administration",B24070
+B24070_054M,int,Margin of Error!!Total!!Employee of private company workers!!Public administration,B24070
+B24070_055M,int,Margin of Error!!Total!!Self-employed in own incorporated business workers,B24070
+B24070_056M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_057M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_058M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_059M,int,Margin of Error!!Total!!Self-employed in own incorporated business workers!!Construction,B24070
+B24070_060M,int,Margin of Error!!Total!!Self-employed in own incorporated business workers!!Manufacturing,B24070
+B24070_061M,int,Margin of Error!!Total!!Self-employed in own incorporated business workers!!Wholesale trade,B24070
+B24070_062M,int,Margin of Error!!Total!!Self-employed in own incorporated business workers!!Retail trade,B24070
+B24070_063M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities",B24070
+B24070_064M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_065M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_066M,int,Margin of Error!!Total!!Self-employed in own incorporated business workers!!Information,B24070
+B24070_067M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_068M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_069M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_070M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_071M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_072M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_073M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_074M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance",B24070
+B24070_075M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_076M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_077M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_078M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_079M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_080M,int,"Margin of Error!!Total!!Self-employed in own incorporated business workers!!Other services, except public administration",B24070
+B24070_081M,int,Margin of Error!!Total!!Self-employed in own incorporated business workers!!Public administration,B24070
+B24070_082M,int,Margin of Error!!Total!!Private not-for-profit wage and salary workers,B24070
+B24070_083M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_084M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_085M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_086M,int,Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Construction,B24070
+B24070_087M,int,Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Manufacturing,B24070
+B24070_088M,int,Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Wholesale trade,B24070
+B24070_089M,int,Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Retail trade,B24070
+B24070_090M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities",B24070
+B24070_091M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_092M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_093M,int,Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Information,B24070
+B24070_094M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_095M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_096M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_097M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_098M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_099M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_100M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_101M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance",B24070
+B24070_102M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_103M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_104M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_105M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_106M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_107M,int,"Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Other services, except public administration",B24070
+B24070_108M,int,Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Public administration,B24070
+B24070_109M,int,"Margin of Error!!Total!!Local, state, and federal government workers",B24070
+B24070_110M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_111M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_112M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_113M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Construction",B24070
+B24070_114M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Manufacturing",B24070
+B24070_115M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Wholesale trade",B24070
+B24070_116M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Retail trade",B24070
+B24070_117M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities",B24070
+B24070_118M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_119M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_120M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Information",B24070
+B24070_121M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_122M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_123M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_124M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_125M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_126M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_127M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_128M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance",B24070
+B24070_129M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_130M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_131M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_132M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_133M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_134M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Other services, except public administration",B24070
+B24070_135M,int,"Margin of Error!!Total!!Local, state, and federal government workers!!Public administration",B24070
+B24070_136M,int,Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers,B24070
+B24070_137M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_138M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_139M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_140M,int,Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Construction,B24070
+B24070_141M,int,Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Manufacturing,B24070
+B24070_142M,int,Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Wholesale trade,B24070
+B24070_143M,int,Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Retail trade,B24070
+B24070_144M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities",B24070
+B24070_145M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_146M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_147M,int,Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Information,B24070
+B24070_148M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_149M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_150M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_151M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_152M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_153M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_154M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_155M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance",B24070
+B24070_156M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_157M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_158M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_159M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_160M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_161M,int,"Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Other services, except public administration",B24070
+B24070_162M,int,Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Public administration,B24070
+B24070_001EA,string,Annotation of Estimate!!Total,B24070
+B24070_001MA,string,Annotation of Margin of Error!!Total,B24070
+B24070_002EA,string,"Annotation of Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_002MA,string,"Annotation of Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_003EA,string,"Annotation of Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_003MA,string,"Annotation of Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_004EA,string,"Annotation of Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_004MA,string,"Annotation of Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_005EA,string,Annotation of Estimate!!Total!!Construction,B24070
+B24070_005MA,string,Annotation of Margin of Error!!Total!!Construction,B24070
+B24070_006EA,string,Annotation of Estimate!!Total!!Manufacturing,B24070
+B24070_006MA,string,Annotation of Margin of Error!!Total!!Manufacturing,B24070
+B24070_007EA,string,Annotation of Estimate!!Total!!Wholesale trade,B24070
+B24070_007MA,string,Annotation of Margin of Error!!Total!!Wholesale trade,B24070
+B24070_008EA,string,Annotation of Estimate!!Total!!Retail trade,B24070
+B24070_008MA,string,Annotation of Margin of Error!!Total!!Retail trade,B24070
+B24070_009EA,string,"Annotation of Estimate!!Total!!Transportation and warehousing, and utilities",B24070
+B24070_009MA,string,"Annotation of Margin of Error!!Total!!Transportation and warehousing, and utilities",B24070
+B24070_010EA,string,"Annotation of Estimate!!Total!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_010MA,string,"Annotation of Margin of Error!!Total!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_011EA,string,"Annotation of Estimate!!Total!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_011MA,string,"Annotation of Margin of Error!!Total!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_012EA,string,Annotation of Estimate!!Total!!Information,B24070
+B24070_012MA,string,Annotation of Margin of Error!!Total!!Information,B24070
+B24070_013EA,string,"Annotation of Estimate!!Total!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_013MA,string,"Annotation of Margin of Error!!Total!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_014EA,string,"Annotation of Estimate!!Total!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_014MA,string,"Annotation of Margin of Error!!Total!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_015EA,string,"Annotation of Estimate!!Total!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_015MA,string,"Annotation of Margin of Error!!Total!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_016EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_016MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_017EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_017MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_018EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_018MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_019EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_019MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_020EA,string,"Annotation of Estimate!!Total!!Educational services, and health care and social assistance",B24070
+B24070_020MA,string,"Annotation of Margin of Error!!Total!!Educational services, and health care and social assistance",B24070
+B24070_021EA,string,"Annotation of Estimate!!Total!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_021MA,string,"Annotation of Margin of Error!!Total!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_022EA,string,"Annotation of Estimate!!Total!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_022MA,string,"Annotation of Margin of Error!!Total!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_023EA,string,"Annotation of Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_023MA,string,"Annotation of Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_024EA,string,"Annotation of Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_024MA,string,"Annotation of Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_025EA,string,"Annotation of Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_025MA,string,"Annotation of Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_026EA,string,"Annotation of Estimate!!Total!!Other services, except public administration",B24070
+B24070_026MA,string,"Annotation of Margin of Error!!Total!!Other services, except public administration",B24070
+B24070_027EA,string,Annotation of Estimate!!Total!!Public administration,B24070
+B24070_027MA,string,Annotation of Margin of Error!!Total!!Public administration,B24070
+B24070_028EA,string,Annotation of Estimate!!Total!!Employee of private company workers,B24070
+B24070_028MA,string,Annotation of Margin of Error!!Total!!Employee of private company workers,B24070
+B24070_029EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_029MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_030EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_030MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_031EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_031MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_032EA,string,Annotation of Estimate!!Total!!Employee of private company workers!!Construction,B24070
+B24070_032MA,string,Annotation of Margin of Error!!Total!!Employee of private company workers!!Construction,B24070
+B24070_033EA,string,Annotation of Estimate!!Total!!Employee of private company workers!!Manufacturing,B24070
+B24070_033MA,string,Annotation of Margin of Error!!Total!!Employee of private company workers!!Manufacturing,B24070
+B24070_034EA,string,Annotation of Estimate!!Total!!Employee of private company workers!!Wholesale trade,B24070
+B24070_034MA,string,Annotation of Margin of Error!!Total!!Employee of private company workers!!Wholesale trade,B24070
+B24070_035EA,string,Annotation of Estimate!!Total!!Employee of private company workers!!Retail trade,B24070
+B24070_035MA,string,Annotation of Margin of Error!!Total!!Employee of private company workers!!Retail trade,B24070
+B24070_036EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities",B24070
+B24070_036MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities",B24070
+B24070_037EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_037MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_038EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_038MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_039EA,string,Annotation of Estimate!!Total!!Employee of private company workers!!Information,B24070
+B24070_039MA,string,Annotation of Margin of Error!!Total!!Employee of private company workers!!Information,B24070
+B24070_040EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_040MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_041EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_041MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_042EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_042MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_043EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_043MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_044EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_044MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_045EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_045MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_046EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_046MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_047EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Educational services, and health care and social assistance",B24070
+B24070_047MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Educational services, and health care and social assistance",B24070
+B24070_048EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_048MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_049EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_049MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_050EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_050MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_051EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_051MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_052EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_052MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_053EA,string,"Annotation of Estimate!!Total!!Employee of private company workers!!Other services, except public administration",B24070
+B24070_053MA,string,"Annotation of Margin of Error!!Total!!Employee of private company workers!!Other services, except public administration",B24070
+B24070_054EA,string,Annotation of Estimate!!Total!!Employee of private company workers!!Public administration,B24070
+B24070_054MA,string,Annotation of Margin of Error!!Total!!Employee of private company workers!!Public administration,B24070
+B24070_055EA,string,Annotation of Estimate!!Total!!Self-employed in own incorporated business workers,B24070
+B24070_055MA,string,Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers,B24070
+B24070_056EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_056MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_057EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_057MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_058EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_058MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_059EA,string,Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Construction,B24070
+B24070_059MA,string,Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Construction,B24070
+B24070_060EA,string,Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Manufacturing,B24070
+B24070_060MA,string,Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Manufacturing,B24070
+B24070_061EA,string,Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Wholesale trade,B24070
+B24070_061MA,string,Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Wholesale trade,B24070
+B24070_062EA,string,Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Retail trade,B24070
+B24070_062MA,string,Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Retail trade,B24070
+B24070_063EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities",B24070
+B24070_063MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities",B24070
+B24070_064EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_064MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_065EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_065MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_066EA,string,Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Information,B24070
+B24070_066MA,string,Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Information,B24070
+B24070_067EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_067MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_068EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_068MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_069EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_069MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_070EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_070MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_071EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_071MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_072EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_072MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_073EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_073MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_074EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance",B24070
+B24070_074MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance",B24070
+B24070_075EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_075MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_076EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_076MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_077EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_077MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_078EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_078MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_079EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_079MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_080EA,string,"Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Other services, except public administration",B24070
+B24070_080MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Other services, except public administration",B24070
+B24070_081EA,string,Annotation of Estimate!!Total!!Self-employed in own incorporated business workers!!Public administration,B24070
+B24070_081MA,string,Annotation of Margin of Error!!Total!!Self-employed in own incorporated business workers!!Public administration,B24070
+B24070_082EA,string,Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers,B24070
+B24070_082MA,string,Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers,B24070
+B24070_083EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_083MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_084EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_084MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_085EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_085MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_086EA,string,Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Construction,B24070
+B24070_086MA,string,Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Construction,B24070
+B24070_087EA,string,Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Manufacturing,B24070
+B24070_087MA,string,Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Manufacturing,B24070
+B24070_088EA,string,Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Wholesale trade,B24070
+B24070_088MA,string,Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Wholesale trade,B24070
+B24070_089EA,string,Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Retail trade,B24070
+B24070_089MA,string,Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Retail trade,B24070
+B24070_090EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities",B24070
+B24070_090MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities",B24070
+B24070_091EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_091MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_092EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_092MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_093EA,string,Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Information,B24070
+B24070_093MA,string,Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Information,B24070
+B24070_094EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_094MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_095EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_095MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_096EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_096MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_097EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_097MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_098EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_098MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_099EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_099MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_100EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_100MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_101EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance",B24070
+B24070_101MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance",B24070
+B24070_102EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_102MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_103EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_103MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_104EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_104MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_105EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_105MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_106EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_106MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_107EA,string,"Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Other services, except public administration",B24070
+B24070_107MA,string,"Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Other services, except public administration",B24070
+B24070_108EA,string,Annotation of Estimate!!Total!!Private not-for-profit wage and salary workers!!Public administration,B24070
+B24070_108MA,string,Annotation of Margin of Error!!Total!!Private not-for-profit wage and salary workers!!Public administration,B24070
+B24070_109EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers",B24070
+B24070_109MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers",B24070
+B24070_110EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_110MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_111EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_111MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_112EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_112MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_113EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Construction",B24070
+B24070_113MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Construction",B24070
+B24070_114EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Manufacturing",B24070
+B24070_114MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Manufacturing",B24070
+B24070_115EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Wholesale trade",B24070
+B24070_115MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Wholesale trade",B24070
+B24070_116EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Retail trade",B24070
+B24070_116MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Retail trade",B24070
+B24070_117EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities",B24070
+B24070_117MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities",B24070
+B24070_118EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_118MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_119EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_119MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_120EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Information",B24070
+B24070_120MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Information",B24070
+B24070_121EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_121MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_122EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_122MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_123EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_123MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_124EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_124MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_125EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_125MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_126EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_126MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_127EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_127MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_128EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance",B24070
+B24070_128MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance",B24070
+B24070_129EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_129MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_130EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_130MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_131EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_131MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_132EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_132MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_133EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_133MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_134EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Other services, except public administration",B24070
+B24070_134MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Other services, except public administration",B24070
+B24070_135EA,string,"Annotation of Estimate!!Total!!Local, state, and federal government workers!!Public administration",B24070
+B24070_135MA,string,"Annotation of Margin of Error!!Total!!Local, state, and federal government workers!!Public administration",B24070
+B24070_136EA,string,Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers,B24070
+B24070_136MA,string,Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers,B24070
+B24070_137EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_137MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining",B24070
+B24070_138EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_138MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining!!Agriculture, forestry, fishing and hunting",B24070
+B24070_139EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_139MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Agriculture, forestry, fishing and hunting, and mining!!Mining, quarrying, and oil and gas extraction",B24070
+B24070_140EA,string,Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Construction,B24070
+B24070_140MA,string,Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Construction,B24070
+B24070_141EA,string,Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Manufacturing,B24070
+B24070_141MA,string,Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Manufacturing,B24070
+B24070_142EA,string,Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Wholesale trade,B24070
+B24070_142MA,string,Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Wholesale trade,B24070
+B24070_143EA,string,Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Retail trade,B24070
+B24070_143MA,string,Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Retail trade,B24070
+B24070_144EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities",B24070
+B24070_144MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities",B24070
+B24070_145EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_145MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities!!Transportation and warehousing",B24070
+B24070_146EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_146MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Transportation and warehousing, and utilities!!Utilities",B24070
+B24070_147EA,string,Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Information,B24070
+B24070_147MA,string,Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Information,B24070
+B24070_148EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_148MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing",B24070
+B24070_149EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_149MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing!!Finance and insurance",B24070
+B24070_150EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_150MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Finance and insurance, and real estate and rental and leasing!!Real estate and rental and leasing",B24070
+B24070_151EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_151MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services",B24070
+B24070_152EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_152MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services",B24070
+B24070_153EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_153MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises",B24070
+B24070_154EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_154MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Professional, scientific, and management, and administrative and waste management services!!Administrative and support and waste management services",B24070
+B24070_155EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance",B24070
+B24070_155MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance",B24070
+B24070_156EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_156MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance!!Educational services",B24070
+B24070_157EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_157MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Educational services, and health care and social assistance!!Health care and social assistance",B24070
+B24070_158EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_158MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services",B24070
+B24070_159EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_159MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services!!Arts, entertainment, and recreation",B24070
+B24070_160EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_160MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Arts, entertainment, and recreation, and accommodation and food services!!Accommodation and food services",B24070
+B24070_161EA,string,"Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Other services, except public administration",B24070
+B24070_161MA,string,"Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Other services, except public administration",B24070
+B24070_162EA,string,Annotation of Estimate!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Public administration,B24070
+B24070_162MA,string,Annotation of Margin of Error!!Total!!Self-employed in own not incorporated business workers and unpaid family workers!!Public administration,B24070

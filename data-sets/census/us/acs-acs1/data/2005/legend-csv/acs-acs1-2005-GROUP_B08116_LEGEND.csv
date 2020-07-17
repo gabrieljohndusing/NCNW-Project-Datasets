@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08116_001E,int,Estimate!!Aggregate travel time to work (in minutes),B08116
+B08116_002E,int,Estimate!!Aggregate travel time to work (in minutes)!!Never married,B08116
+B08116_003E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Now married, except separated",B08116
+B08116_004E,int,Estimate!!Aggregate travel time to work (in minutes)!!Divorced,B08116
+B08116_005E,int,Estimate!!Aggregate travel time to work (in minutes)!!Separated,B08116
+B08116_006E,int,Estimate!!Aggregate travel time to work (in minutes)!!Widowed,B08116
+B08116_001M,int,Margin of Error!!Aggregate travel time to work (in minutes),B08116
+B08116_002M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Never married,B08116
+B08116_003M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Now married, except separated",B08116
+B08116_004M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Divorced,B08116
+B08116_005M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Separated,B08116
+B08116_006M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Widowed,B08116
+B08116_001EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes),B08116
+B08116_001MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes),B08116
+B08116_002EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Never married,B08116
+B08116_002MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Never married,B08116
+B08116_003EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Now married, except separated",B08116
+B08116_003MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Now married, except separated",B08116
+B08116_004EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Divorced,B08116
+B08116_004MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Divorced,B08116
+B08116_005EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Separated,B08116
+B08116_005MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Separated,B08116
+B08116_006EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Widowed,B08116
+B08116_006MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Widowed,B08116

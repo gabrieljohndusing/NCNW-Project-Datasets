@@ -1,0 +1,505 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07001_001E,int,Estimate!!Total,B07001
+B07001_002E,int,Estimate!!Total!!1 to 4 years,B07001
+B07001_003E,int,Estimate!!Total!!5 to 9 years,B07001
+B07001_004E,int,Estimate!!Total!!10 to 14 years,B07001
+B07001_005E,int,Estimate!!Total!!15 to 17 years,B07001
+B07001_006E,int,Estimate!!Total!!18 and 19 years,B07001
+B07001_007E,int,Estimate!!Total!!20 to 24 years,B07001
+B07001_008E,int,Estimate!!Total!!25 to 29 years,B07001
+B07001_009E,int,Estimate!!Total!!30 to 34 years,B07001
+B07001_010E,int,Estimate!!Total!!35 to 39 years,B07001
+B07001_011E,int,Estimate!!Total!!40 to 44 years,B07001
+B07001_012E,int,Estimate!!Total!!45 to 49 years,B07001
+B07001_013E,int,Estimate!!Total!!50 to 54 years,B07001
+B07001_014E,int,Estimate!!Total!!55 to 59 years,B07001
+B07001_015E,int,Estimate!!Total!!60 and 61 years,B07001
+B07001_016E,int,Estimate!!Total!!62 to 64 years,B07001
+B07001_017E,int,Estimate!!Total!!65 to 69 years,B07001
+B07001_018E,int,Estimate!!Total!!70 to 74 years,B07001
+B07001_019E,int,Estimate!!Total!!75 to 79 years,B07001
+B07001_020E,int,Estimate!!Total!!80 to 84 years,B07001
+B07001_021E,int,Estimate!!Total!!85 years and over,B07001
+B07001_022E,int,Estimate!!Total!!Same house 1 year ago,B07001
+B07001_023E,int,Estimate!!Total!!Same house 1 year ago!!1 to 4 years,B07001
+B07001_024E,int,Estimate!!Total!!Same house 1 year ago!!5 to 9 years,B07001
+B07001_025E,int,Estimate!!Total!!Same house 1 year ago!!10 to 14 years,B07001
+B07001_026E,int,Estimate!!Total!!Same house 1 year ago!!15 to 17 years,B07001
+B07001_027E,int,Estimate!!Total!!Same house 1 year ago!!18 and 19 years,B07001
+B07001_028E,int,Estimate!!Total!!Same house 1 year ago!!20 to 24 years,B07001
+B07001_029E,int,Estimate!!Total!!Same house 1 year ago!!25 to 29 years,B07001
+B07001_030E,int,Estimate!!Total!!Same house 1 year ago!!30 to 34 years,B07001
+B07001_031E,int,Estimate!!Total!!Same house 1 year ago!!35 to 39 years,B07001
+B07001_032E,int,Estimate!!Total!!Same house 1 year ago!!40 to 44 years,B07001
+B07001_033E,int,Estimate!!Total!!Same house 1 year ago!!45 to 49 years,B07001
+B07001_034E,int,Estimate!!Total!!Same house 1 year ago!!50 to 54 years,B07001
+B07001_035E,int,Estimate!!Total!!Same house 1 year ago!!55 to 59 years,B07001
+B07001_036E,int,Estimate!!Total!!Same house 1 year ago!!60 and 61 years,B07001
+B07001_037E,int,Estimate!!Total!!Same house 1 year ago!!62 to 64 years,B07001
+B07001_038E,int,Estimate!!Total!!Same house 1 year ago!!65 to 69 years,B07001
+B07001_039E,int,Estimate!!Total!!Same house 1 year ago!!70 to 74 years,B07001
+B07001_040E,int,Estimate!!Total!!Same house 1 year ago!!75 to 79 years,B07001
+B07001_041E,int,Estimate!!Total!!Same house 1 year ago!!80 to 84 years,B07001
+B07001_042E,int,Estimate!!Total!!Same house 1 year ago!!85 years and over,B07001
+B07001_043E,int,Estimate!!Total!!Moved within same county,B07001
+B07001_044E,int,Estimate!!Total!!Moved within same county!!1 to 4 years,B07001
+B07001_045E,int,Estimate!!Total!!Moved within same county!!5 to 9 years,B07001
+B07001_046E,int,Estimate!!Total!!Moved within same county!!10 to 14 years,B07001
+B07001_047E,int,Estimate!!Total!!Moved within same county!!15 to 17 years,B07001
+B07001_048E,int,Estimate!!Total!!Moved within same county!!18 and 19 years,B07001
+B07001_049E,int,Estimate!!Total!!Moved within same county!!20 to 24 years,B07001
+B07001_050E,int,Estimate!!Total!!Moved within same county!!25 to 29 years,B07001
+B07001_051E,int,Estimate!!Total!!Moved within same county!!30 to 34 years,B07001
+B07001_052E,int,Estimate!!Total!!Moved within same county!!35 to 39 years,B07001
+B07001_053E,int,Estimate!!Total!!Moved within same county!!40 to 44 years,B07001
+B07001_054E,int,Estimate!!Total!!Moved within same county!!45 to 49 years,B07001
+B07001_055E,int,Estimate!!Total!!Moved within same county!!50 to 54 years,B07001
+B07001_056E,int,Estimate!!Total!!Moved within same county!!55 to 59 years,B07001
+B07001_057E,int,Estimate!!Total!!Moved within same county!!60 and 61 years,B07001
+B07001_058E,int,Estimate!!Total!!Moved within same county!!62 to 64 years,B07001
+B07001_059E,int,Estimate!!Total!!Moved within same county!!65 to 69 years,B07001
+B07001_060E,int,Estimate!!Total!!Moved within same county!!70 to 74 years,B07001
+B07001_061E,int,Estimate!!Total!!Moved within same county!!75 to 79 years,B07001
+B07001_062E,int,Estimate!!Total!!Moved within same county!!80 to 84 years,B07001
+B07001_063E,int,Estimate!!Total!!Moved within same county!!85 years and over,B07001
+B07001_064E,int,Estimate!!Total!!Moved from different county within same state,B07001
+B07001_065E,int,Estimate!!Total!!Moved from different county within same state!!1 to 4 years,B07001
+B07001_066E,int,Estimate!!Total!!Moved from different county within same state!!5 to 9 years,B07001
+B07001_067E,int,Estimate!!Total!!Moved from different county within same state!!10 to 14 years,B07001
+B07001_068E,int,Estimate!!Total!!Moved from different county within same state!!15 to 17 years,B07001
+B07001_069E,int,Estimate!!Total!!Moved from different county within same state!!18 and 19 years,B07001
+B07001_070E,int,Estimate!!Total!!Moved from different county within same state!!20 to 24 years,B07001
+B07001_071E,int,Estimate!!Total!!Moved from different county within same state!!25 to 29 years,B07001
+B07001_072E,int,Estimate!!Total!!Moved from different county within same state!!30 to 34 years,B07001
+B07001_073E,int,Estimate!!Total!!Moved from different county within same state!!35 to 39 years,B07001
+B07001_074E,int,Estimate!!Total!!Moved from different county within same state!!40 to 44 years,B07001
+B07001_075E,int,Estimate!!Total!!Moved from different county within same state!!45 to 49 years,B07001
+B07001_076E,int,Estimate!!Total!!Moved from different county within same state!!50 to 54 years,B07001
+B07001_077E,int,Estimate!!Total!!Moved from different county within same state!!55 to 59 years,B07001
+B07001_078E,int,Estimate!!Total!!Moved from different county within same state!!60 and 61 years,B07001
+B07001_079E,int,Estimate!!Total!!Moved from different county within same state!!62 to 64 years,B07001
+B07001_080E,int,Estimate!!Total!!Moved from different county within same state!!65 to 69 years,B07001
+B07001_081E,int,Estimate!!Total!!Moved from different county within same state!!70 to 74 years,B07001
+B07001_082E,int,Estimate!!Total!!Moved from different county within same state!!75 to 79 years,B07001
+B07001_083E,int,Estimate!!Total!!Moved from different county within same state!!80 to 84 years,B07001
+B07001_084E,int,Estimate!!Total!!Moved from different county within same state!!85 years and over,B07001
+B07001_085E,int,Estimate!!Total!!Moved from different state,B07001
+B07001_086E,int,Estimate!!Total!!Moved from different state!!1 to 4 years,B07001
+B07001_087E,int,Estimate!!Total!!Moved from different state!!5 to 9 years,B07001
+B07001_088E,int,Estimate!!Total!!Moved from different state!!10 to 14 years,B07001
+B07001_089E,int,Estimate!!Total!!Moved from different state!!15 to 17 years,B07001
+B07001_090E,int,Estimate!!Total!!Moved from different state!!18 and 19 years,B07001
+B07001_091E,int,Estimate!!Total!!Moved from different state!!20 to 24 years,B07001
+B07001_092E,int,Estimate!!Total!!Moved from different state!!25 to 29 years,B07001
+B07001_093E,int,Estimate!!Total!!Moved from different state!!30 to 34 years,B07001
+B07001_094E,int,Estimate!!Total!!Moved from different state!!35 to 39 years,B07001
+B07001_095E,int,Estimate!!Total!!Moved from different state!!40 to 44 years,B07001
+B07001_096E,int,Estimate!!Total!!Moved from different state!!45 to 49 years,B07001
+B07001_097E,int,Estimate!!Total!!Moved from different state!!50 to 54 years,B07001
+B07001_098E,int,Estimate!!Total!!Moved from different state!!55 to 59 years,B07001
+B07001_099E,int,Estimate!!Total!!Moved from different state!!60 and 61 years,B07001
+B07001_100E,int,Estimate!!Total!!Moved from different state!!62 to 64 years,B07001
+B07001_101E,int,Estimate!!Total!!Moved from different state!!65 to 69 years,B07001
+B07001_102E,int,Estimate!!Total!!Moved from different state!!70 to 74 years,B07001
+B07001_103E,int,Estimate!!Total!!Moved from different state!!75 to 79 years,B07001
+B07001_104E,int,Estimate!!Total!!Moved from different state!!80 to 84 years,B07001
+B07001_105E,int,Estimate!!Total!!Moved from different state!!85 years and over,B07001
+B07001_106E,int,Estimate!!Total!!Moved from abroad,B07001
+B07001_107E,int,Estimate!!Total!!Moved from abroad!!1 to 4 years,B07001
+B07001_108E,int,Estimate!!Total!!Moved from abroad!!5 to 9 years,B07001
+B07001_109E,int,Estimate!!Total!!Moved from abroad!!10 to 14 years,B07001
+B07001_110E,int,Estimate!!Total!!Moved from abroad!!15 to 17 years,B07001
+B07001_111E,int,Estimate!!Total!!Moved from abroad!!18 and 19 years,B07001
+B07001_112E,int,Estimate!!Total!!Moved from abroad!!20 to 24 years,B07001
+B07001_113E,int,Estimate!!Total!!Moved from abroad!!25 to 29 years,B07001
+B07001_114E,int,Estimate!!Total!!Moved from abroad!!30 to 34 years,B07001
+B07001_115E,int,Estimate!!Total!!Moved from abroad!!35 to 39 years,B07001
+B07001_116E,int,Estimate!!Total!!Moved from abroad!!40 to 44 years,B07001
+B07001_117E,int,Estimate!!Total!!Moved from abroad!!45 to 49 years,B07001
+B07001_118E,int,Estimate!!Total!!Moved from abroad!!50 to 54 years,B07001
+B07001_119E,int,Estimate!!Total!!Moved from abroad!!55 to 59 years,B07001
+B07001_120E,int,Estimate!!Total!!Moved from abroad!!60 and 61 years,B07001
+B07001_121E,int,Estimate!!Total!!Moved from abroad!!62 to 64 years,B07001
+B07001_122E,int,Estimate!!Total!!Moved from abroad!!65 to 69 years,B07001
+B07001_123E,int,Estimate!!Total!!Moved from abroad!!70 to 74 years,B07001
+B07001_124E,int,Estimate!!Total!!Moved from abroad!!75 to 79 years,B07001
+B07001_125E,int,Estimate!!Total!!Moved from abroad!!80 to 84 years,B07001
+B07001_126E,int,Estimate!!Total!!Moved from abroad!!85 years and over,B07001
+B07001_001M,int,Margin of Error!!Total,B07001
+B07001_002M,int,Margin of Error!!Total!!1 to 4 years,B07001
+B07001_003M,int,Margin of Error!!Total!!5 to 9 years,B07001
+B07001_004M,int,Margin of Error!!Total!!10 to 14 years,B07001
+B07001_005M,int,Margin of Error!!Total!!15 to 17 years,B07001
+B07001_006M,int,Margin of Error!!Total!!18 and 19 years,B07001
+B07001_007M,int,Margin of Error!!Total!!20 to 24 years,B07001
+B07001_008M,int,Margin of Error!!Total!!25 to 29 years,B07001
+B07001_009M,int,Margin of Error!!Total!!30 to 34 years,B07001
+B07001_010M,int,Margin of Error!!Total!!35 to 39 years,B07001
+B07001_011M,int,Margin of Error!!Total!!40 to 44 years,B07001
+B07001_012M,int,Margin of Error!!Total!!45 to 49 years,B07001
+B07001_013M,int,Margin of Error!!Total!!50 to 54 years,B07001
+B07001_014M,int,Margin of Error!!Total!!55 to 59 years,B07001
+B07001_015M,int,Margin of Error!!Total!!60 and 61 years,B07001
+B07001_016M,int,Margin of Error!!Total!!62 to 64 years,B07001
+B07001_017M,int,Margin of Error!!Total!!65 to 69 years,B07001
+B07001_018M,int,Margin of Error!!Total!!70 to 74 years,B07001
+B07001_019M,int,Margin of Error!!Total!!75 to 79 years,B07001
+B07001_020M,int,Margin of Error!!Total!!80 to 84 years,B07001
+B07001_021M,int,Margin of Error!!Total!!85 years and over,B07001
+B07001_022M,int,Margin of Error!!Total!!Same house 1 year ago,B07001
+B07001_023M,int,Margin of Error!!Total!!Same house 1 year ago!!1 to 4 years,B07001
+B07001_024M,int,Margin of Error!!Total!!Same house 1 year ago!!5 to 9 years,B07001
+B07001_025M,int,Margin of Error!!Total!!Same house 1 year ago!!10 to 14 years,B07001
+B07001_026M,int,Margin of Error!!Total!!Same house 1 year ago!!15 to 17 years,B07001
+B07001_027M,int,Margin of Error!!Total!!Same house 1 year ago!!18 and 19 years,B07001
+B07001_028M,int,Margin of Error!!Total!!Same house 1 year ago!!20 to 24 years,B07001
+B07001_029M,int,Margin of Error!!Total!!Same house 1 year ago!!25 to 29 years,B07001
+B07001_030M,int,Margin of Error!!Total!!Same house 1 year ago!!30 to 34 years,B07001
+B07001_031M,int,Margin of Error!!Total!!Same house 1 year ago!!35 to 39 years,B07001
+B07001_032M,int,Margin of Error!!Total!!Same house 1 year ago!!40 to 44 years,B07001
+B07001_033M,int,Margin of Error!!Total!!Same house 1 year ago!!45 to 49 years,B07001
+B07001_034M,int,Margin of Error!!Total!!Same house 1 year ago!!50 to 54 years,B07001
+B07001_035M,int,Margin of Error!!Total!!Same house 1 year ago!!55 to 59 years,B07001
+B07001_036M,int,Margin of Error!!Total!!Same house 1 year ago!!60 and 61 years,B07001
+B07001_037M,int,Margin of Error!!Total!!Same house 1 year ago!!62 to 64 years,B07001
+B07001_038M,int,Margin of Error!!Total!!Same house 1 year ago!!65 to 69 years,B07001
+B07001_039M,int,Margin of Error!!Total!!Same house 1 year ago!!70 to 74 years,B07001
+B07001_040M,int,Margin of Error!!Total!!Same house 1 year ago!!75 to 79 years,B07001
+B07001_041M,int,Margin of Error!!Total!!Same house 1 year ago!!80 to 84 years,B07001
+B07001_042M,int,Margin of Error!!Total!!Same house 1 year ago!!85 years and over,B07001
+B07001_043M,int,Margin of Error!!Total!!Moved within same county,B07001
+B07001_044M,int,Margin of Error!!Total!!Moved within same county!!1 to 4 years,B07001
+B07001_045M,int,Margin of Error!!Total!!Moved within same county!!5 to 9 years,B07001
+B07001_046M,int,Margin of Error!!Total!!Moved within same county!!10 to 14 years,B07001
+B07001_047M,int,Margin of Error!!Total!!Moved within same county!!15 to 17 years,B07001
+B07001_048M,int,Margin of Error!!Total!!Moved within same county!!18 and 19 years,B07001
+B07001_049M,int,Margin of Error!!Total!!Moved within same county!!20 to 24 years,B07001
+B07001_050M,int,Margin of Error!!Total!!Moved within same county!!25 to 29 years,B07001
+B07001_051M,int,Margin of Error!!Total!!Moved within same county!!30 to 34 years,B07001
+B07001_052M,int,Margin of Error!!Total!!Moved within same county!!35 to 39 years,B07001
+B07001_053M,int,Margin of Error!!Total!!Moved within same county!!40 to 44 years,B07001
+B07001_054M,int,Margin of Error!!Total!!Moved within same county!!45 to 49 years,B07001
+B07001_055M,int,Margin of Error!!Total!!Moved within same county!!50 to 54 years,B07001
+B07001_056M,int,Margin of Error!!Total!!Moved within same county!!55 to 59 years,B07001
+B07001_057M,int,Margin of Error!!Total!!Moved within same county!!60 and 61 years,B07001
+B07001_058M,int,Margin of Error!!Total!!Moved within same county!!62 to 64 years,B07001
+B07001_059M,int,Margin of Error!!Total!!Moved within same county!!65 to 69 years,B07001
+B07001_060M,int,Margin of Error!!Total!!Moved within same county!!70 to 74 years,B07001
+B07001_061M,int,Margin of Error!!Total!!Moved within same county!!75 to 79 years,B07001
+B07001_062M,int,Margin of Error!!Total!!Moved within same county!!80 to 84 years,B07001
+B07001_063M,int,Margin of Error!!Total!!Moved within same county!!85 years and over,B07001
+B07001_064M,int,Margin of Error!!Total!!Moved from different county within same state,B07001
+B07001_065M,int,Margin of Error!!Total!!Moved from different county within same state!!1 to 4 years,B07001
+B07001_066M,int,Margin of Error!!Total!!Moved from different county within same state!!5 to 9 years,B07001
+B07001_067M,int,Margin of Error!!Total!!Moved from different county within same state!!10 to 14 years,B07001
+B07001_068M,int,Margin of Error!!Total!!Moved from different county within same state!!15 to 17 years,B07001
+B07001_069M,int,Margin of Error!!Total!!Moved from different county within same state!!18 and 19 years,B07001
+B07001_070M,int,Margin of Error!!Total!!Moved from different county within same state!!20 to 24 years,B07001
+B07001_071M,int,Margin of Error!!Total!!Moved from different county within same state!!25 to 29 years,B07001
+B07001_072M,int,Margin of Error!!Total!!Moved from different county within same state!!30 to 34 years,B07001
+B07001_073M,int,Margin of Error!!Total!!Moved from different county within same state!!35 to 39 years,B07001
+B07001_074M,int,Margin of Error!!Total!!Moved from different county within same state!!40 to 44 years,B07001
+B07001_075M,int,Margin of Error!!Total!!Moved from different county within same state!!45 to 49 years,B07001
+B07001_076M,int,Margin of Error!!Total!!Moved from different county within same state!!50 to 54 years,B07001
+B07001_077M,int,Margin of Error!!Total!!Moved from different county within same state!!55 to 59 years,B07001
+B07001_078M,int,Margin of Error!!Total!!Moved from different county within same state!!60 and 61 years,B07001
+B07001_079M,int,Margin of Error!!Total!!Moved from different county within same state!!62 to 64 years,B07001
+B07001_080M,int,Margin of Error!!Total!!Moved from different county within same state!!65 to 69 years,B07001
+B07001_081M,int,Margin of Error!!Total!!Moved from different county within same state!!70 to 74 years,B07001
+B07001_082M,int,Margin of Error!!Total!!Moved from different county within same state!!75 to 79 years,B07001
+B07001_083M,int,Margin of Error!!Total!!Moved from different county within same state!!80 to 84 years,B07001
+B07001_084M,int,Margin of Error!!Total!!Moved from different county within same state!!85 years and over,B07001
+B07001_085M,int,Margin of Error!!Total!!Moved from different state,B07001
+B07001_086M,int,Margin of Error!!Total!!Moved from different state!!1 to 4 years,B07001
+B07001_087M,int,Margin of Error!!Total!!Moved from different state!!5 to 9 years,B07001
+B07001_088M,int,Margin of Error!!Total!!Moved from different state!!10 to 14 years,B07001
+B07001_089M,int,Margin of Error!!Total!!Moved from different state!!15 to 17 years,B07001
+B07001_090M,int,Margin of Error!!Total!!Moved from different state!!18 and 19 years,B07001
+B07001_091M,int,Margin of Error!!Total!!Moved from different state!!20 to 24 years,B07001
+B07001_092M,int,Margin of Error!!Total!!Moved from different state!!25 to 29 years,B07001
+B07001_093M,int,Margin of Error!!Total!!Moved from different state!!30 to 34 years,B07001
+B07001_094M,int,Margin of Error!!Total!!Moved from different state!!35 to 39 years,B07001
+B07001_095M,int,Margin of Error!!Total!!Moved from different state!!40 to 44 years,B07001
+B07001_096M,int,Margin of Error!!Total!!Moved from different state!!45 to 49 years,B07001
+B07001_097M,int,Margin of Error!!Total!!Moved from different state!!50 to 54 years,B07001
+B07001_098M,int,Margin of Error!!Total!!Moved from different state!!55 to 59 years,B07001
+B07001_099M,int,Margin of Error!!Total!!Moved from different state!!60 and 61 years,B07001
+B07001_100M,int,Margin of Error!!Total!!Moved from different state!!62 to 64 years,B07001
+B07001_101M,int,Margin of Error!!Total!!Moved from different state!!65 to 69 years,B07001
+B07001_102M,int,Margin of Error!!Total!!Moved from different state!!70 to 74 years,B07001
+B07001_103M,int,Margin of Error!!Total!!Moved from different state!!75 to 79 years,B07001
+B07001_104M,int,Margin of Error!!Total!!Moved from different state!!80 to 84 years,B07001
+B07001_105M,int,Margin of Error!!Total!!Moved from different state!!85 years and over,B07001
+B07001_106M,int,Margin of Error!!Total!!Moved from abroad,B07001
+B07001_107M,int,Margin of Error!!Total!!Moved from abroad!!1 to 4 years,B07001
+B07001_108M,int,Margin of Error!!Total!!Moved from abroad!!5 to 9 years,B07001
+B07001_109M,int,Margin of Error!!Total!!Moved from abroad!!10 to 14 years,B07001
+B07001_110M,int,Margin of Error!!Total!!Moved from abroad!!15 to 17 years,B07001
+B07001_111M,int,Margin of Error!!Total!!Moved from abroad!!18 and 19 years,B07001
+B07001_112M,int,Margin of Error!!Total!!Moved from abroad!!20 to 24 years,B07001
+B07001_113M,int,Margin of Error!!Total!!Moved from abroad!!25 to 29 years,B07001
+B07001_114M,int,Margin of Error!!Total!!Moved from abroad!!30 to 34 years,B07001
+B07001_115M,int,Margin of Error!!Total!!Moved from abroad!!35 to 39 years,B07001
+B07001_116M,int,Margin of Error!!Total!!Moved from abroad!!40 to 44 years,B07001
+B07001_117M,int,Margin of Error!!Total!!Moved from abroad!!45 to 49 years,B07001
+B07001_118M,int,Margin of Error!!Total!!Moved from abroad!!50 to 54 years,B07001
+B07001_119M,int,Margin of Error!!Total!!Moved from abroad!!55 to 59 years,B07001
+B07001_120M,int,Margin of Error!!Total!!Moved from abroad!!60 and 61 years,B07001
+B07001_121M,int,Margin of Error!!Total!!Moved from abroad!!62 to 64 years,B07001
+B07001_122M,int,Margin of Error!!Total!!Moved from abroad!!65 to 69 years,B07001
+B07001_123M,int,Margin of Error!!Total!!Moved from abroad!!70 to 74 years,B07001
+B07001_124M,int,Margin of Error!!Total!!Moved from abroad!!75 to 79 years,B07001
+B07001_125M,int,Margin of Error!!Total!!Moved from abroad!!80 to 84 years,B07001
+B07001_126M,int,Margin of Error!!Total!!Moved from abroad!!85 years and over,B07001
+B07001_001EA,string,Annotation of Estimate!!Total,B07001
+B07001_001MA,string,Annotation of Margin of Error!!Total,B07001
+B07001_002EA,string,Annotation of Estimate!!Total!!1 to 4 years,B07001
+B07001_002MA,string,Annotation of Margin of Error!!Total!!1 to 4 years,B07001
+B07001_003EA,string,Annotation of Estimate!!Total!!5 to 9 years,B07001
+B07001_003MA,string,Annotation of Margin of Error!!Total!!5 to 9 years,B07001
+B07001_004EA,string,Annotation of Estimate!!Total!!10 to 14 years,B07001
+B07001_004MA,string,Annotation of Margin of Error!!Total!!10 to 14 years,B07001
+B07001_005EA,string,Annotation of Estimate!!Total!!15 to 17 years,B07001
+B07001_005MA,string,Annotation of Margin of Error!!Total!!15 to 17 years,B07001
+B07001_006EA,string,Annotation of Estimate!!Total!!18 and 19 years,B07001
+B07001_006MA,string,Annotation of Margin of Error!!Total!!18 and 19 years,B07001
+B07001_007EA,string,Annotation of Estimate!!Total!!20 to 24 years,B07001
+B07001_007MA,string,Annotation of Margin of Error!!Total!!20 to 24 years,B07001
+B07001_008EA,string,Annotation of Estimate!!Total!!25 to 29 years,B07001
+B07001_008MA,string,Annotation of Margin of Error!!Total!!25 to 29 years,B07001
+B07001_009EA,string,Annotation of Estimate!!Total!!30 to 34 years,B07001
+B07001_009MA,string,Annotation of Margin of Error!!Total!!30 to 34 years,B07001
+B07001_010EA,string,Annotation of Estimate!!Total!!35 to 39 years,B07001
+B07001_010MA,string,Annotation of Margin of Error!!Total!!35 to 39 years,B07001
+B07001_011EA,string,Annotation of Estimate!!Total!!40 to 44 years,B07001
+B07001_011MA,string,Annotation of Margin of Error!!Total!!40 to 44 years,B07001
+B07001_012EA,string,Annotation of Estimate!!Total!!45 to 49 years,B07001
+B07001_012MA,string,Annotation of Margin of Error!!Total!!45 to 49 years,B07001
+B07001_013EA,string,Annotation of Estimate!!Total!!50 to 54 years,B07001
+B07001_013MA,string,Annotation of Margin of Error!!Total!!50 to 54 years,B07001
+B07001_014EA,string,Annotation of Estimate!!Total!!55 to 59 years,B07001
+B07001_014MA,string,Annotation of Margin of Error!!Total!!55 to 59 years,B07001
+B07001_015EA,string,Annotation of Estimate!!Total!!60 and 61 years,B07001
+B07001_015MA,string,Annotation of Margin of Error!!Total!!60 and 61 years,B07001
+B07001_016EA,string,Annotation of Estimate!!Total!!62 to 64 years,B07001
+B07001_016MA,string,Annotation of Margin of Error!!Total!!62 to 64 years,B07001
+B07001_017EA,string,Annotation of Estimate!!Total!!65 to 69 years,B07001
+B07001_017MA,string,Annotation of Margin of Error!!Total!!65 to 69 years,B07001
+B07001_018EA,string,Annotation of Estimate!!Total!!70 to 74 years,B07001
+B07001_018MA,string,Annotation of Margin of Error!!Total!!70 to 74 years,B07001
+B07001_019EA,string,Annotation of Estimate!!Total!!75 to 79 years,B07001
+B07001_019MA,string,Annotation of Margin of Error!!Total!!75 to 79 years,B07001
+B07001_020EA,string,Annotation of Estimate!!Total!!80 to 84 years,B07001
+B07001_020MA,string,Annotation of Margin of Error!!Total!!80 to 84 years,B07001
+B07001_021EA,string,Annotation of Estimate!!Total!!85 years and over,B07001
+B07001_021MA,string,Annotation of Margin of Error!!Total!!85 years and over,B07001
+B07001_022EA,string,Annotation of Estimate!!Total!!Same house 1 year ago,B07001
+B07001_022MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago,B07001
+B07001_023EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!1 to 4 years,B07001
+B07001_023MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!1 to 4 years,B07001
+B07001_024EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!5 to 9 years,B07001
+B07001_024MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!5 to 9 years,B07001
+B07001_025EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!10 to 14 years,B07001
+B07001_025MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!10 to 14 years,B07001
+B07001_026EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!15 to 17 years,B07001
+B07001_026MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!15 to 17 years,B07001
+B07001_027EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!18 and 19 years,B07001
+B07001_027MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!18 and 19 years,B07001
+B07001_028EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!20 to 24 years,B07001
+B07001_028MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!20 to 24 years,B07001
+B07001_029EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!25 to 29 years,B07001
+B07001_029MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!25 to 29 years,B07001
+B07001_030EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!30 to 34 years,B07001
+B07001_030MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!30 to 34 years,B07001
+B07001_031EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!35 to 39 years,B07001
+B07001_031MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!35 to 39 years,B07001
+B07001_032EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!40 to 44 years,B07001
+B07001_032MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!40 to 44 years,B07001
+B07001_033EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!45 to 49 years,B07001
+B07001_033MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!45 to 49 years,B07001
+B07001_034EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!50 to 54 years,B07001
+B07001_034MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!50 to 54 years,B07001
+B07001_035EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!55 to 59 years,B07001
+B07001_035MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!55 to 59 years,B07001
+B07001_036EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!60 and 61 years,B07001
+B07001_036MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!60 and 61 years,B07001
+B07001_037EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!62 to 64 years,B07001
+B07001_037MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!62 to 64 years,B07001
+B07001_038EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!65 to 69 years,B07001
+B07001_038MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!65 to 69 years,B07001
+B07001_039EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!70 to 74 years,B07001
+B07001_039MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!70 to 74 years,B07001
+B07001_040EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!75 to 79 years,B07001
+B07001_040MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!75 to 79 years,B07001
+B07001_041EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!80 to 84 years,B07001
+B07001_041MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!80 to 84 years,B07001
+B07001_042EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!85 years and over,B07001
+B07001_042MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!85 years and over,B07001
+B07001_043EA,string,Annotation of Estimate!!Total!!Moved within same county,B07001
+B07001_043MA,string,Annotation of Margin of Error!!Total!!Moved within same county,B07001
+B07001_044EA,string,Annotation of Estimate!!Total!!Moved within same county!!1 to 4 years,B07001
+B07001_044MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!1 to 4 years,B07001
+B07001_045EA,string,Annotation of Estimate!!Total!!Moved within same county!!5 to 9 years,B07001
+B07001_045MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!5 to 9 years,B07001
+B07001_046EA,string,Annotation of Estimate!!Total!!Moved within same county!!10 to 14 years,B07001
+B07001_046MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!10 to 14 years,B07001
+B07001_047EA,string,Annotation of Estimate!!Total!!Moved within same county!!15 to 17 years,B07001
+B07001_047MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!15 to 17 years,B07001
+B07001_048EA,string,Annotation of Estimate!!Total!!Moved within same county!!18 and 19 years,B07001
+B07001_048MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!18 and 19 years,B07001
+B07001_049EA,string,Annotation of Estimate!!Total!!Moved within same county!!20 to 24 years,B07001
+B07001_049MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!20 to 24 years,B07001
+B07001_050EA,string,Annotation of Estimate!!Total!!Moved within same county!!25 to 29 years,B07001
+B07001_050MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!25 to 29 years,B07001
+B07001_051EA,string,Annotation of Estimate!!Total!!Moved within same county!!30 to 34 years,B07001
+B07001_051MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!30 to 34 years,B07001
+B07001_052EA,string,Annotation of Estimate!!Total!!Moved within same county!!35 to 39 years,B07001
+B07001_052MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!35 to 39 years,B07001
+B07001_053EA,string,Annotation of Estimate!!Total!!Moved within same county!!40 to 44 years,B07001
+B07001_053MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!40 to 44 years,B07001
+B07001_054EA,string,Annotation of Estimate!!Total!!Moved within same county!!45 to 49 years,B07001
+B07001_054MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!45 to 49 years,B07001
+B07001_055EA,string,Annotation of Estimate!!Total!!Moved within same county!!50 to 54 years,B07001
+B07001_055MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!50 to 54 years,B07001
+B07001_056EA,string,Annotation of Estimate!!Total!!Moved within same county!!55 to 59 years,B07001
+B07001_056MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!55 to 59 years,B07001
+B07001_057EA,string,Annotation of Estimate!!Total!!Moved within same county!!60 and 61 years,B07001
+B07001_057MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!60 and 61 years,B07001
+B07001_058EA,string,Annotation of Estimate!!Total!!Moved within same county!!62 to 64 years,B07001
+B07001_058MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!62 to 64 years,B07001
+B07001_059EA,string,Annotation of Estimate!!Total!!Moved within same county!!65 to 69 years,B07001
+B07001_059MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!65 to 69 years,B07001
+B07001_060EA,string,Annotation of Estimate!!Total!!Moved within same county!!70 to 74 years,B07001
+B07001_060MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!70 to 74 years,B07001
+B07001_061EA,string,Annotation of Estimate!!Total!!Moved within same county!!75 to 79 years,B07001
+B07001_061MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!75 to 79 years,B07001
+B07001_062EA,string,Annotation of Estimate!!Total!!Moved within same county!!80 to 84 years,B07001
+B07001_062MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!80 to 84 years,B07001
+B07001_063EA,string,Annotation of Estimate!!Total!!Moved within same county!!85 years and over,B07001
+B07001_063MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!85 years and over,B07001
+B07001_064EA,string,Annotation of Estimate!!Total!!Moved from different county within same state,B07001
+B07001_064MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state,B07001
+B07001_065EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!1 to 4 years,B07001
+B07001_065MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!1 to 4 years,B07001
+B07001_066EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!5 to 9 years,B07001
+B07001_066MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!5 to 9 years,B07001
+B07001_067EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!10 to 14 years,B07001
+B07001_067MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!10 to 14 years,B07001
+B07001_068EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!15 to 17 years,B07001
+B07001_068MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!15 to 17 years,B07001
+B07001_069EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!18 and 19 years,B07001
+B07001_069MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!18 and 19 years,B07001
+B07001_070EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!20 to 24 years,B07001
+B07001_070MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!20 to 24 years,B07001
+B07001_071EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!25 to 29 years,B07001
+B07001_071MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!25 to 29 years,B07001
+B07001_072EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!30 to 34 years,B07001
+B07001_072MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!30 to 34 years,B07001
+B07001_073EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!35 to 39 years,B07001
+B07001_073MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!35 to 39 years,B07001
+B07001_074EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!40 to 44 years,B07001
+B07001_074MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!40 to 44 years,B07001
+B07001_075EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!45 to 49 years,B07001
+B07001_075MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!45 to 49 years,B07001
+B07001_076EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!50 to 54 years,B07001
+B07001_076MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!50 to 54 years,B07001
+B07001_077EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!55 to 59 years,B07001
+B07001_077MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!55 to 59 years,B07001
+B07001_078EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!60 and 61 years,B07001
+B07001_078MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!60 and 61 years,B07001
+B07001_079EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!62 to 64 years,B07001
+B07001_079MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!62 to 64 years,B07001
+B07001_080EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!65 to 69 years,B07001
+B07001_080MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!65 to 69 years,B07001
+B07001_081EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!70 to 74 years,B07001
+B07001_081MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!70 to 74 years,B07001
+B07001_082EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!75 to 79 years,B07001
+B07001_082MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!75 to 79 years,B07001
+B07001_083EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!80 to 84 years,B07001
+B07001_083MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!80 to 84 years,B07001
+B07001_084EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!85 years and over,B07001
+B07001_084MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!85 years and over,B07001
+B07001_085EA,string,Annotation of Estimate!!Total!!Moved from different state,B07001
+B07001_085MA,string,Annotation of Margin of Error!!Total!!Moved from different state,B07001
+B07001_086EA,string,Annotation of Estimate!!Total!!Moved from different state!!1 to 4 years,B07001
+B07001_086MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!1 to 4 years,B07001
+B07001_087EA,string,Annotation of Estimate!!Total!!Moved from different state!!5 to 9 years,B07001
+B07001_087MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!5 to 9 years,B07001
+B07001_088EA,string,Annotation of Estimate!!Total!!Moved from different state!!10 to 14 years,B07001
+B07001_088MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!10 to 14 years,B07001
+B07001_089EA,string,Annotation of Estimate!!Total!!Moved from different state!!15 to 17 years,B07001
+B07001_089MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!15 to 17 years,B07001
+B07001_090EA,string,Annotation of Estimate!!Total!!Moved from different state!!18 and 19 years,B07001
+B07001_090MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!18 and 19 years,B07001
+B07001_091EA,string,Annotation of Estimate!!Total!!Moved from different state!!20 to 24 years,B07001
+B07001_091MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!20 to 24 years,B07001
+B07001_092EA,string,Annotation of Estimate!!Total!!Moved from different state!!25 to 29 years,B07001
+B07001_092MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!25 to 29 years,B07001
+B07001_093EA,string,Annotation of Estimate!!Total!!Moved from different state!!30 to 34 years,B07001
+B07001_093MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!30 to 34 years,B07001
+B07001_094EA,string,Annotation of Estimate!!Total!!Moved from different state!!35 to 39 years,B07001
+B07001_094MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!35 to 39 years,B07001
+B07001_095EA,string,Annotation of Estimate!!Total!!Moved from different state!!40 to 44 years,B07001
+B07001_095MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!40 to 44 years,B07001
+B07001_096EA,string,Annotation of Estimate!!Total!!Moved from different state!!45 to 49 years,B07001
+B07001_096MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!45 to 49 years,B07001
+B07001_097EA,string,Annotation of Estimate!!Total!!Moved from different state!!50 to 54 years,B07001
+B07001_097MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!50 to 54 years,B07001
+B07001_098EA,string,Annotation of Estimate!!Total!!Moved from different state!!55 to 59 years,B07001
+B07001_098MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!55 to 59 years,B07001
+B07001_099EA,string,Annotation of Estimate!!Total!!Moved from different state!!60 and 61 years,B07001
+B07001_099MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!60 and 61 years,B07001
+B07001_100EA,string,Annotation of Estimate!!Total!!Moved from different state!!62 to 64 years,B07001
+B07001_100MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!62 to 64 years,B07001
+B07001_101EA,string,Annotation of Estimate!!Total!!Moved from different state!!65 to 69 years,B07001
+B07001_101MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!65 to 69 years,B07001
+B07001_102EA,string,Annotation of Estimate!!Total!!Moved from different state!!70 to 74 years,B07001
+B07001_102MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!70 to 74 years,B07001
+B07001_103EA,string,Annotation of Estimate!!Total!!Moved from different state!!75 to 79 years,B07001
+B07001_103MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!75 to 79 years,B07001
+B07001_104EA,string,Annotation of Estimate!!Total!!Moved from different state!!80 to 84 years,B07001
+B07001_104MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!80 to 84 years,B07001
+B07001_105EA,string,Annotation of Estimate!!Total!!Moved from different state!!85 years and over,B07001
+B07001_105MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!85 years and over,B07001
+B07001_106EA,string,Annotation of Estimate!!Total!!Moved from abroad,B07001
+B07001_106MA,string,Annotation of Margin of Error!!Total!!Moved from abroad,B07001
+B07001_107EA,string,Annotation of Estimate!!Total!!Moved from abroad!!1 to 4 years,B07001
+B07001_107MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!1 to 4 years,B07001
+B07001_108EA,string,Annotation of Estimate!!Total!!Moved from abroad!!5 to 9 years,B07001
+B07001_108MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!5 to 9 years,B07001
+B07001_109EA,string,Annotation of Estimate!!Total!!Moved from abroad!!10 to 14 years,B07001
+B07001_109MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!10 to 14 years,B07001
+B07001_110EA,string,Annotation of Estimate!!Total!!Moved from abroad!!15 to 17 years,B07001
+B07001_110MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!15 to 17 years,B07001
+B07001_111EA,string,Annotation of Estimate!!Total!!Moved from abroad!!18 and 19 years,B07001
+B07001_111MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!18 and 19 years,B07001
+B07001_112EA,string,Annotation of Estimate!!Total!!Moved from abroad!!20 to 24 years,B07001
+B07001_112MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!20 to 24 years,B07001
+B07001_113EA,string,Annotation of Estimate!!Total!!Moved from abroad!!25 to 29 years,B07001
+B07001_113MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!25 to 29 years,B07001
+B07001_114EA,string,Annotation of Estimate!!Total!!Moved from abroad!!30 to 34 years,B07001
+B07001_114MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!30 to 34 years,B07001
+B07001_115EA,string,Annotation of Estimate!!Total!!Moved from abroad!!35 to 39 years,B07001
+B07001_115MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!35 to 39 years,B07001
+B07001_116EA,string,Annotation of Estimate!!Total!!Moved from abroad!!40 to 44 years,B07001
+B07001_116MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!40 to 44 years,B07001
+B07001_117EA,string,Annotation of Estimate!!Total!!Moved from abroad!!45 to 49 years,B07001
+B07001_117MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!45 to 49 years,B07001
+B07001_118EA,string,Annotation of Estimate!!Total!!Moved from abroad!!50 to 54 years,B07001
+B07001_118MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!50 to 54 years,B07001
+B07001_119EA,string,Annotation of Estimate!!Total!!Moved from abroad!!55 to 59 years,B07001
+B07001_119MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!55 to 59 years,B07001
+B07001_120EA,string,Annotation of Estimate!!Total!!Moved from abroad!!60 and 61 years,B07001
+B07001_120MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!60 and 61 years,B07001
+B07001_121EA,string,Annotation of Estimate!!Total!!Moved from abroad!!62 to 64 years,B07001
+B07001_121MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!62 to 64 years,B07001
+B07001_122EA,string,Annotation of Estimate!!Total!!Moved from abroad!!65 to 69 years,B07001
+B07001_122MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!65 to 69 years,B07001
+B07001_123EA,string,Annotation of Estimate!!Total!!Moved from abroad!!70 to 74 years,B07001
+B07001_123MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!70 to 74 years,B07001
+B07001_124EA,string,Annotation of Estimate!!Total!!Moved from abroad!!75 to 79 years,B07001
+B07001_124MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!75 to 79 years,B07001
+B07001_125EA,string,Annotation of Estimate!!Total!!Moved from abroad!!80 to 84 years,B07001
+B07001_125MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!80 to 84 years,B07001
+B07001_126EA,string,Annotation of Estimate!!Total!!Moved from abroad!!85 years and over,B07001
+B07001_126MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!85 years and over,B07001

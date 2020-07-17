@@ -1,0 +1,609 @@
+# ACS 1-Year Subject Tables
+
+## S1002
+
+### GRANDPARENTS
+
+___
+
+| variable | label | type |
+| ----- | ----- | ----- |
+| S1002_C01_001E | Total !!<br>Estimate !!<br>Living with own grandchildren under 18 years | int |
+| S1002_C01_002E | Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | float |
+| S1002_C01_003E | Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | float |
+| S1002_C01_004E | Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | float |
+| S1002_C01_005E | Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | float |
+| S1002_C01_006E | Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | float |
+| S1002_C01_007E | Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | float |
+| S1002_C01_008E | Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | float |
+| S1002_C01_009E | Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | float |
+| S1002_C01_010E | Total !!<br>Estimate !!<br>Hispanic or Latino origin (of any race) | float |
+| S1002_C01_011E | Total !!<br>Estimate !!<br>White alone, not Hispanic or Latino | float |
+| S1002_C01_012E | Total !!<br>Estimate !!<br>SEX !!<br>Male | float |
+| S1002_C01_013E | Total !!<br>Estimate !!<br>SEX !!<br>Female | float |
+| S1002_C01_014E | Total !!<br>Estimate !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | float |
+| S1002_C01_015E | Total !!<br>Estimate !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | float |
+| S1002_C01_016E | Total !!<br>Estimate !!<br>LABOR FORCE STATUS !!<br>In labor force | float |
+| S1002_C01_017E | Total !!<br>Estimate !!<br>NATIVITY !!<br>Native | float |
+| S1002_C01_018E | Total !!<br>Estimate !!<br>NATIVITY !!<br>Foreign born | float |
+| S1002_C01_019E | Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | float |
+| S1002_C01_020E | Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | float |
+| S1002_C01_021E | Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | float |
+| S1002_C01_022E | Total !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | int |
+| S1002_C01_023E | Total !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | float |
+| S1002_C01_024E | Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | int |
+| S1002_C01_025E | Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | float |
+| S1002_C01_026E | Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | float |
+| S1002_C01_027E | Total !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households | int |
+| S1002_C01_028E | Total !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | float |
+| S1002_C01_029E | Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | float |
+| S1002_C01_030E | Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | float |
+| S1002_C01_031E | Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | float |
+| S1002_C01_032E | Total !!<br>Estimate !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | float |
+| S1002_C01_033E | Total !!<br>Estimate !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | float |
+| S1002_C01_034E | Total !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households | int |
+| S1002_C01_035E | Total !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | float |
+| S1002_C01_036E | Total !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | float |
+| S1002_C01_037E | Total !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | float |
+| S1002_C02_001E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>Living with own grandchildren under 18 years | int |
+| S1002_C02_002E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | float |
+| S1002_C02_003E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | float |
+| S1002_C02_004E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | float |
+| S1002_C02_005E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | float |
+| S1002_C02_006E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | float |
+| S1002_C02_007E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | float |
+| S1002_C02_008E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | float |
+| S1002_C02_009E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | float |
+| S1002_C02_010E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>Hispanic or Latino origin (of any race) | float |
+| S1002_C02_011E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>White alone, not Hispanic or Latino | float |
+| S1002_C02_012E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>SEX !!<br>Male | float |
+| S1002_C02_013E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>SEX !!<br>Female | float |
+| S1002_C02_014E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | float |
+| S1002_C02_015E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | float |
+| S1002_C02_016E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>LABOR FORCE STATUS !!<br>In labor force | float |
+| S1002_C02_017E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>NATIVITY !!<br>Native | float |
+| S1002_C02_018E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>NATIVITY !!<br>Foreign born | float |
+| S1002_C02_019E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | float |
+| S1002_C02_020E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | float |
+| S1002_C02_021E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | float |
+| S1002_C02_022E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | int |
+| S1002_C02_023E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | float |
+| S1002_C02_024E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | int |
+| S1002_C02_025E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | float |
+| S1002_C02_026E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | float |
+| S1002_C02_027E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households | int |
+| S1002_C02_028E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | float |
+| S1002_C02_029E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | float |
+| S1002_C02_030E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | float |
+| S1002_C02_031E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | float |
+| S1002_C02_032E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | float |
+| S1002_C02_033E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | float |
+| S1002_C02_034E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households | int |
+| S1002_C02_035E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | int |
+| S1002_C02_036E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | int |
+| S1002_C02_037E | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | int |
+| S1002_C03_001E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>Living with own grandchildren under 18 years | int |
+| S1002_C03_002E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | float |
+| S1002_C03_003E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | float |
+| S1002_C03_004E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | float |
+| S1002_C03_005E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | float |
+| S1002_C03_006E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | float |
+| S1002_C03_007E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | float |
+| S1002_C03_008E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | float |
+| S1002_C03_009E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | float |
+| S1002_C03_010E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>Hispanic or Latino origin (of any race) | float |
+| S1002_C03_011E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>White alone, not Hispanic or Latino | float |
+| S1002_C03_012E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>SEX !!<br>Male | float |
+| S1002_C03_013E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>SEX !!<br>Female | float |
+| S1002_C03_014E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | float |
+| S1002_C03_015E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | float |
+| S1002_C03_016E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>LABOR FORCE STATUS !!<br>In labor force | float |
+| S1002_C03_017E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>NATIVITY !!<br>Native | float |
+| S1002_C03_018E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>NATIVITY !!<br>Foreign born | float |
+| S1002_C03_019E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | float |
+| S1002_C03_020E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | float |
+| S1002_C03_021E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | float |
+| S1002_C03_022E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | int |
+| S1002_C03_023E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | float |
+| S1002_C03_024E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | int |
+| S1002_C03_025E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | float |
+| S1002_C03_026E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | float |
+| S1002_C03_027E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households | int |
+| S1002_C03_028E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | float |
+| S1002_C03_029E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | float |
+| S1002_C03_030E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | float |
+| S1002_C03_031E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | float |
+| S1002_C03_032E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | float |
+| S1002_C03_033E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | float |
+| S1002_C03_034E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households | int |
+| S1002_C03_035E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | int |
+| S1002_C03_036E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | int |
+| S1002_C03_037E | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | int |
+| S1002_C04_001E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>Living with own grandchildren under 18 years | int |
+| S1002_C04_002E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | float |
+| S1002_C04_003E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | float |
+| S1002_C04_004E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | float |
+| S1002_C04_005E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | float |
+| S1002_C04_006E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | float |
+| S1002_C04_007E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | float |
+| S1002_C04_008E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | float |
+| S1002_C04_009E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | float |
+| S1002_C04_010E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>Hispanic or Latino origin (of any race) | float |
+| S1002_C04_011E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>White alone, not Hispanic or Latino | float |
+| S1002_C04_012E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>SEX !!<br>Male | float |
+| S1002_C04_013E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>SEX !!<br>Female | float |
+| S1002_C04_014E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | float |
+| S1002_C04_015E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | float |
+| S1002_C04_016E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>LABOR FORCE STATUS !!<br>In labor force | float |
+| S1002_C04_017E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>NATIVITY !!<br>Native | float |
+| S1002_C04_018E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>NATIVITY !!<br>Foreign born | float |
+| S1002_C04_019E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | float |
+| S1002_C04_020E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | float |
+| S1002_C04_021E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | float |
+| S1002_C04_022E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | int |
+| S1002_C04_023E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | float |
+| S1002_C04_024E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | int |
+| S1002_C04_025E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | float |
+| S1002_C04_026E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | float |
+| S1002_C04_027E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households | int |
+| S1002_C04_028E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | float |
+| S1002_C04_029E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | float |
+| S1002_C04_030E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | float |
+| S1002_C04_031E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | float |
+| S1002_C04_032E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | float |
+| S1002_C04_033E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | float |
+| S1002_C04_034E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households | int |
+| S1002_C04_035E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | int |
+| S1002_C04_036E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | int |
+| S1002_C04_037E | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | int |
+| S1002_C01_001M | Total !!<br>Margin of Error !!<br>Living with own grandchildren under 18 years | int |
+| S1002_C01_002M | Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | float |
+| S1002_C01_003M | Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | float |
+| S1002_C01_004M | Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | float |
+| S1002_C01_005M | Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | float |
+| S1002_C01_006M | Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | float |
+| S1002_C01_007M | Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | float |
+| S1002_C01_008M | Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | float |
+| S1002_C01_009M | Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | float |
+| S1002_C01_010M | Total !!<br>Margin of Error !!<br>Hispanic or Latino origin (of any race) | float |
+| S1002_C01_011M | Total !!<br>Margin of Error !!<br>White alone, not Hispanic or Latino | float |
+| S1002_C01_012M | Total !!<br>Margin of Error !!<br>SEX !!<br>Male | float |
+| S1002_C01_013M | Total !!<br>Margin of Error !!<br>SEX !!<br>Female | float |
+| S1002_C01_014M | Total !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | float |
+| S1002_C01_015M | Total !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | float |
+| S1002_C01_016M | Total !!<br>Margin of Error !!<br>LABOR FORCE STATUS !!<br>In labor force | float |
+| S1002_C01_017M | Total !!<br>Margin of Error !!<br>NATIVITY !!<br>Native | float |
+| S1002_C01_018M | Total !!<br>Margin of Error !!<br>NATIVITY !!<br>Foreign born | float |
+| S1002_C01_019M | Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | float |
+| S1002_C01_020M | Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | float |
+| S1002_C01_021M | Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | float |
+| S1002_C01_022M | Total !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | int |
+| S1002_C01_023M | Total !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | float |
+| S1002_C01_024M | Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | int |
+| S1002_C01_025M | Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | float |
+| S1002_C01_026M | Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | float |
+| S1002_C01_027M | Total !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households | int |
+| S1002_C01_028M | Total !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | float |
+| S1002_C01_029M | Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | float |
+| S1002_C01_030M | Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | float |
+| S1002_C01_031M | Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | float |
+| S1002_C01_032M | Total !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | float |
+| S1002_C01_033M | Total !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | float |
+| S1002_C01_034M | Total !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households | int |
+| S1002_C01_035M | Total !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | float |
+| S1002_C01_036M | Total !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | float |
+| S1002_C01_037M | Total !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | float |
+| S1002_C02_001M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>Living with own grandchildren under 18 years | int |
+| S1002_C02_002M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | float |
+| S1002_C02_003M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | float |
+| S1002_C02_004M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | float |
+| S1002_C02_005M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | float |
+| S1002_C02_006M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | float |
+| S1002_C02_007M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | float |
+| S1002_C02_008M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | float |
+| S1002_C02_009M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | float |
+| S1002_C02_010M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>Hispanic or Latino origin (of any race) | float |
+| S1002_C02_011M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>White alone, not Hispanic or Latino | float |
+| S1002_C02_012M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>SEX !!<br>Male | float |
+| S1002_C02_013M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>SEX !!<br>Female | float |
+| S1002_C02_014M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | float |
+| S1002_C02_015M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | float |
+| S1002_C02_016M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>LABOR FORCE STATUS !!<br>In labor force | float |
+| S1002_C02_017M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>NATIVITY !!<br>Native | float |
+| S1002_C02_018M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>NATIVITY !!<br>Foreign born | float |
+| S1002_C02_019M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | float |
+| S1002_C02_020M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | float |
+| S1002_C02_021M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | float |
+| S1002_C02_022M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | int |
+| S1002_C02_023M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | float |
+| S1002_C02_024M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | int |
+| S1002_C02_025M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | float |
+| S1002_C02_026M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | float |
+| S1002_C02_027M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households | int |
+| S1002_C02_028M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | float |
+| S1002_C02_029M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | float |
+| S1002_C02_030M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | float |
+| S1002_C02_031M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | float |
+| S1002_C02_032M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | float |
+| S1002_C02_033M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | float |
+| S1002_C02_034M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households | int |
+| S1002_C02_035M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | int |
+| S1002_C02_036M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | int |
+| S1002_C02_037M | Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | int |
+| S1002_C03_001M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>Living with own grandchildren under 18 years | int |
+| S1002_C03_002M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | float |
+| S1002_C03_003M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | float |
+| S1002_C03_004M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | float |
+| S1002_C03_005M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | float |
+| S1002_C03_006M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | float |
+| S1002_C03_007M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | float |
+| S1002_C03_008M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | float |
+| S1002_C03_009M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | float |
+| S1002_C03_010M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>Hispanic or Latino origin (of any race) | float |
+| S1002_C03_011M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>White alone, not Hispanic or Latino | float |
+| S1002_C03_012M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>SEX !!<br>Male | float |
+| S1002_C03_013M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>SEX !!<br>Female | float |
+| S1002_C03_014M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | float |
+| S1002_C03_015M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | float |
+| S1002_C03_016M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>LABOR FORCE STATUS !!<br>In labor force | float |
+| S1002_C03_017M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>NATIVITY !!<br>Native | float |
+| S1002_C03_018M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>NATIVITY !!<br>Foreign born | float |
+| S1002_C03_019M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | float |
+| S1002_C03_020M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | float |
+| S1002_C03_021M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | float |
+| S1002_C03_022M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | int |
+| S1002_C03_023M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | float |
+| S1002_C03_024M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | int |
+| S1002_C03_025M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | float |
+| S1002_C03_026M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | float |
+| S1002_C03_027M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households | int |
+| S1002_C03_028M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | float |
+| S1002_C03_029M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | float |
+| S1002_C03_030M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | float |
+| S1002_C03_031M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | float |
+| S1002_C03_032M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | float |
+| S1002_C03_033M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | float |
+| S1002_C03_034M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households | int |
+| S1002_C03_035M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | int |
+| S1002_C03_036M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | int |
+| S1002_C03_037M | Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | int |
+| S1002_C04_001M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>Living with own grandchildren under 18 years | int |
+| S1002_C04_002M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | float |
+| S1002_C04_003M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | float |
+| S1002_C04_004M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | float |
+| S1002_C04_005M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | float |
+| S1002_C04_006M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | float |
+| S1002_C04_007M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | float |
+| S1002_C04_008M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | float |
+| S1002_C04_009M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | float |
+| S1002_C04_010M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>Hispanic or Latino origin (of any race) | float |
+| S1002_C04_011M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>White alone, not Hispanic or Latino | float |
+| S1002_C04_012M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>SEX !!<br>Male | float |
+| S1002_C04_013M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>SEX !!<br>Female | float |
+| S1002_C04_014M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | float |
+| S1002_C04_015M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | float |
+| S1002_C04_016M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>LABOR FORCE STATUS !!<br>In labor force | float |
+| S1002_C04_017M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>NATIVITY !!<br>Native | float |
+| S1002_C04_018M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>NATIVITY !!<br>Foreign born | float |
+| S1002_C04_019M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | float |
+| S1002_C04_020M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | float |
+| S1002_C04_021M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | float |
+| S1002_C04_022M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | int |
+| S1002_C04_023M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | float |
+| S1002_C04_024M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | int |
+| S1002_C04_025M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | float |
+| S1002_C04_026M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | float |
+| S1002_C04_027M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households | int |
+| S1002_C04_028M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | float |
+| S1002_C04_029M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | float |
+| S1002_C04_030M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | float |
+| S1002_C04_031M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | float |
+| S1002_C04_032M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | float |
+| S1002_C04_033M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | float |
+| S1002_C04_034M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households | int |
+| S1002_C04_035M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | int |
+| S1002_C04_036M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | int |
+| S1002_C04_037M | Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | int |
+### 
+
+___
+
+| variable | label | type |
+| ----- | ----- | ----- |
+| S1002_C01_001EA | Annotation of Total !!<br>Estimate !!<br>Living with own grandchildren under 18 years | string |
+| S1002_C01_001MA | Annotation of Total !!<br>Margin of Error !!<br>Living with own grandchildren under 18 years | string |
+| S1002_C01_002EA | Annotation of Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | string |
+| S1002_C01_002MA | Annotation of Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | string |
+| S1002_C01_003EA | Annotation of Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | string |
+| S1002_C01_003MA | Annotation of Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | string |
+| S1002_C01_004EA | Annotation of Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | string |
+| S1002_C01_004MA | Annotation of Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | string |
+| S1002_C01_005EA | Annotation of Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | string |
+| S1002_C01_005MA | Annotation of Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | string |
+| S1002_C01_006EA | Annotation of Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | string |
+| S1002_C01_006MA | Annotation of Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | string |
+| S1002_C01_007EA | Annotation of Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | string |
+| S1002_C01_007MA | Annotation of Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | string |
+| S1002_C01_008EA | Annotation of Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | string |
+| S1002_C01_008MA | Annotation of Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | string |
+| S1002_C01_009EA | Annotation of Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | string |
+| S1002_C01_009MA | Annotation of Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | string |
+| S1002_C01_010EA | Annotation of Total !!<br>Estimate !!<br>Hispanic or Latino origin (of any race) | string |
+| S1002_C01_010MA | Annotation of Total !!<br>Margin of Error !!<br>Hispanic or Latino origin (of any race) | string |
+| S1002_C01_011EA | Annotation of Total !!<br>Estimate !!<br>White alone, not Hispanic or Latino | string |
+| S1002_C01_011MA | Annotation of Total !!<br>Margin of Error !!<br>White alone, not Hispanic or Latino | string |
+| S1002_C01_012EA | Annotation of Total !!<br>Estimate !!<br>SEX !!<br>Male | string |
+| S1002_C01_012MA | Annotation of Total !!<br>Margin of Error !!<br>SEX !!<br>Male | string |
+| S1002_C01_013EA | Annotation of Total !!<br>Estimate !!<br>SEX !!<br>Female | string |
+| S1002_C01_013MA | Annotation of Total !!<br>Margin of Error !!<br>SEX !!<br>Female | string |
+| S1002_C01_014EA | Annotation of Total !!<br>Estimate !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | string |
+| S1002_C01_014MA | Annotation of Total !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | string |
+| S1002_C01_015EA | Annotation of Total !!<br>Estimate !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | string |
+| S1002_C01_015MA | Annotation of Total !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | string |
+| S1002_C01_016EA | Annotation of Total !!<br>Estimate !!<br>LABOR FORCE STATUS !!<br>In labor force | string |
+| S1002_C01_016MA | Annotation of Total !!<br>Margin of Error !!<br>LABOR FORCE STATUS !!<br>In labor force | string |
+| S1002_C01_017EA | Annotation of Total !!<br>Estimate !!<br>NATIVITY !!<br>Native | string |
+| S1002_C01_017MA | Annotation of Total !!<br>Margin of Error !!<br>NATIVITY !!<br>Native | string |
+| S1002_C01_018EA | Annotation of Total !!<br>Estimate !!<br>NATIVITY !!<br>Foreign born | string |
+| S1002_C01_018MA | Annotation of Total !!<br>Margin of Error !!<br>NATIVITY !!<br>Foreign born | string |
+| S1002_C01_019EA | Annotation of Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | string |
+| S1002_C01_019MA | Annotation of Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | string |
+| S1002_C01_020EA | Annotation of Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | string |
+| S1002_C01_020MA | Annotation of Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | string |
+| S1002_C01_021EA | Annotation of Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | string |
+| S1002_C01_021MA | Annotation of Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | string |
+| S1002_C01_022EA | Annotation of Total !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | string |
+| S1002_C01_022MA | Annotation of Total !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | string |
+| S1002_C01_023EA | Annotation of Total !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | string |
+| S1002_C01_023MA | Annotation of Total !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | string |
+| S1002_C01_024EA | Annotation of Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | string |
+| S1002_C01_024MA | Annotation of Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | string |
+| S1002_C01_025EA | Annotation of Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | string |
+| S1002_C01_025MA | Annotation of Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | string |
+| S1002_C01_026EA | Annotation of Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | string |
+| S1002_C01_026MA | Annotation of Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | string |
+| S1002_C01_027EA | Annotation of Total !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households | string |
+| S1002_C01_027MA | Annotation of Total !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households | string |
+| S1002_C01_028EA | Annotation of Total !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | string |
+| S1002_C01_028MA | Annotation of Total !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | string |
+| S1002_C01_029EA | Annotation of Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | string |
+| S1002_C01_029MA | Annotation of Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | string |
+| S1002_C01_030EA | Annotation of Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | string |
+| S1002_C01_030MA | Annotation of Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | string |
+| S1002_C01_031EA | Annotation of Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | string |
+| S1002_C01_031MA | Annotation of Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | string |
+| S1002_C01_032EA | Annotation of Total !!<br>Estimate !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | string |
+| S1002_C01_032MA | Annotation of Total !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | string |
+| S1002_C01_033EA | Annotation of Total !!<br>Estimate !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | string |
+| S1002_C01_033MA | Annotation of Total !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | string |
+| S1002_C01_034EA | Annotation of Total !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households | string |
+| S1002_C01_034MA | Annotation of Total !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households | string |
+| S1002_C01_035EA | Annotation of Total !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | string |
+| S1002_C01_035MA | Annotation of Total !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | string |
+| S1002_C01_036EA | Annotation of Total !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | string |
+| S1002_C01_036MA | Annotation of Total !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | string |
+| S1002_C01_037EA | Annotation of Total !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | string |
+| S1002_C01_037MA | Annotation of Total !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | string |
+| S1002_C02_001EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>Living with own grandchildren under 18 years | string |
+| S1002_C02_001MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>Living with own grandchildren under 18 years | string |
+| S1002_C02_002EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | string |
+| S1002_C02_002MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | string |
+| S1002_C02_003EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | string |
+| S1002_C02_003MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | string |
+| S1002_C02_004EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | string |
+| S1002_C02_004MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | string |
+| S1002_C02_005EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | string |
+| S1002_C02_005MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | string |
+| S1002_C02_006EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | string |
+| S1002_C02_006MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | string |
+| S1002_C02_007EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | string |
+| S1002_C02_007MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | string |
+| S1002_C02_008EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | string |
+| S1002_C02_008MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | string |
+| S1002_C02_009EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | string |
+| S1002_C02_009MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | string |
+| S1002_C02_010EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>Hispanic or Latino origin (of any race) | string |
+| S1002_C02_010MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>Hispanic or Latino origin (of any race) | string |
+| S1002_C02_011EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>White alone, not Hispanic or Latino | string |
+| S1002_C02_011MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>White alone, not Hispanic or Latino | string |
+| S1002_C02_012EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>SEX !!<br>Male | string |
+| S1002_C02_012MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>SEX !!<br>Male | string |
+| S1002_C02_013EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>SEX !!<br>Female | string |
+| S1002_C02_013MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>SEX !!<br>Female | string |
+| S1002_C02_014EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | string |
+| S1002_C02_014MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | string |
+| S1002_C02_015EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | string |
+| S1002_C02_015MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | string |
+| S1002_C02_016EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>LABOR FORCE STATUS !!<br>In labor force | string |
+| S1002_C02_016MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>LABOR FORCE STATUS !!<br>In labor force | string |
+| S1002_C02_017EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>NATIVITY !!<br>Native | string |
+| S1002_C02_017MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>NATIVITY !!<br>Native | string |
+| S1002_C02_018EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>NATIVITY !!<br>Foreign born | string |
+| S1002_C02_018MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>NATIVITY !!<br>Foreign born | string |
+| S1002_C02_019EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | string |
+| S1002_C02_019MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | string |
+| S1002_C02_020EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | string |
+| S1002_C02_020MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | string |
+| S1002_C02_021EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | string |
+| S1002_C02_021MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | string |
+| S1002_C02_022EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | string |
+| S1002_C02_022MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | string |
+| S1002_C02_023EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | string |
+| S1002_C02_023MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | string |
+| S1002_C02_024EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | string |
+| S1002_C02_024MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | string |
+| S1002_C02_025EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | string |
+| S1002_C02_025MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | string |
+| S1002_C02_026EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | string |
+| S1002_C02_026MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | string |
+| S1002_C02_027EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households | string |
+| S1002_C02_027MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households | string |
+| S1002_C02_028EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | string |
+| S1002_C02_028MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | string |
+| S1002_C02_029EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | string |
+| S1002_C02_029MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | string |
+| S1002_C02_030EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | string |
+| S1002_C02_030MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | string |
+| S1002_C02_031EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | string |
+| S1002_C02_031MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | string |
+| S1002_C02_032EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | string |
+| S1002_C02_032MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | string |
+| S1002_C02_033EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | string |
+| S1002_C02_033MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | string |
+| S1002_C02_034EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households | string |
+| S1002_C02_034MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households | string |
+| S1002_C02_035EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | string |
+| S1002_C02_035MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | string |
+| S1002_C02_036EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | string |
+| S1002_C02_036MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | string |
+| S1002_C02_037EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | string |
+| S1002_C02_037MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>Total !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | string |
+| S1002_C03_001EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>Living with own grandchildren under 18 years | string |
+| S1002_C03_001MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>Living with own grandchildren under 18 years | string |
+| S1002_C03_002EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | string |
+| S1002_C03_002MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | string |
+| S1002_C03_003EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | string |
+| S1002_C03_003MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | string |
+| S1002_C03_004EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | string |
+| S1002_C03_004MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | string |
+| S1002_C03_005EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | string |
+| S1002_C03_005MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | string |
+| S1002_C03_006EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | string |
+| S1002_C03_006MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | string |
+| S1002_C03_007EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | string |
+| S1002_C03_007MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | string |
+| S1002_C03_008EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | string |
+| S1002_C03_008MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | string |
+| S1002_C03_009EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | string |
+| S1002_C03_009MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | string |
+| S1002_C03_010EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>Hispanic or Latino origin (of any race) | string |
+| S1002_C03_010MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>Hispanic or Latino origin (of any race) | string |
+| S1002_C03_011EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>White alone, not Hispanic or Latino | string |
+| S1002_C03_011MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>White alone, not Hispanic or Latino | string |
+| S1002_C03_012EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>SEX !!<br>Male | string |
+| S1002_C03_012MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>SEX !!<br>Male | string |
+| S1002_C03_013EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>SEX !!<br>Female | string |
+| S1002_C03_013MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>SEX !!<br>Female | string |
+| S1002_C03_014EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | string |
+| S1002_C03_014MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | string |
+| S1002_C03_015EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | string |
+| S1002_C03_015MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | string |
+| S1002_C03_016EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>LABOR FORCE STATUS !!<br>In labor force | string |
+| S1002_C03_016MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>LABOR FORCE STATUS !!<br>In labor force | string |
+| S1002_C03_017EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>NATIVITY !!<br>Native | string |
+| S1002_C03_017MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>NATIVITY !!<br>Native | string |
+| S1002_C03_018EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>NATIVITY !!<br>Foreign born | string |
+| S1002_C03_018MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>NATIVITY !!<br>Foreign born | string |
+| S1002_C03_019EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | string |
+| S1002_C03_019MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | string |
+| S1002_C03_020EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | string |
+| S1002_C03_020MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | string |
+| S1002_C03_021EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | string |
+| S1002_C03_021MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | string |
+| S1002_C03_022EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | string |
+| S1002_C03_022MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | string |
+| S1002_C03_023EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | string |
+| S1002_C03_023MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | string |
+| S1002_C03_024EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | string |
+| S1002_C03_024MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | string |
+| S1002_C03_025EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | string |
+| S1002_C03_025MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | string |
+| S1002_C03_026EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | string |
+| S1002_C03_026MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | string |
+| S1002_C03_027EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households | string |
+| S1002_C03_027MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households | string |
+| S1002_C03_028EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | string |
+| S1002_C03_028MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | string |
+| S1002_C03_029EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | string |
+| S1002_C03_029MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | string |
+| S1002_C03_030EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | string |
+| S1002_C03_030MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | string |
+| S1002_C03_031EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | string |
+| S1002_C03_031MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | string |
+| S1002_C03_032EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | string |
+| S1002_C03_032MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | string |
+| S1002_C03_033EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | string |
+| S1002_C03_033MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | string |
+| S1002_C03_034EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households | string |
+| S1002_C03_034MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households | string |
+| S1002_C03_035EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | string |
+| S1002_C03_035MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | string |
+| S1002_C03_036EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | string |
+| S1002_C03_036MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | string |
+| S1002_C03_037EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | string |
+| S1002_C03_037MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>30 to 59 years !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | string |
+| S1002_C04_001EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>Living with own grandchildren under 18 years | string |
+| S1002_C04_001MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>Living with own grandchildren under 18 years | string |
+| S1002_C04_002EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | string |
+| S1002_C04_002MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race | string |
+| S1002_C04_003EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | string |
+| S1002_C04_003MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>White | string |
+| S1002_C04_004EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | string |
+| S1002_C04_004MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Black or African American | string |
+| S1002_C04_005EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | string |
+| S1002_C04_005MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>American Indian and Alaska Native | string |
+| S1002_C04_006EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | string |
+| S1002_C04_006MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Asian | string |
+| S1002_C04_007EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | string |
+| S1002_C04_007MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Native Hawaiian and Other Pacific Islander | string |
+| S1002_C04_008EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | string |
+| S1002_C04_008MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>One race !!<br>Some other race | string |
+| S1002_C04_009EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | string |
+| S1002_C04_009MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>RACE AND HISPANIC OR LATINO ORIGIN !!<br>Two or more races | string |
+| S1002_C04_010EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>Hispanic or Latino origin (of any race) | string |
+| S1002_C04_010MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>Hispanic or Latino origin (of any race) | string |
+| S1002_C04_011EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>White alone, not Hispanic or Latino | string |
+| S1002_C04_011MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>White alone, not Hispanic or Latino | string |
+| S1002_C04_012EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>SEX !!<br>Male | string |
+| S1002_C04_012MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>SEX !!<br>Male | string |
+| S1002_C04_013EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>SEX !!<br>Female | string |
+| S1002_C04_013MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>SEX !!<br>Female | string |
+| S1002_C04_014EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | string |
+| S1002_C04_014MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Now married (including separated and spouse absent) | string |
+| S1002_C04_015EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | string |
+| S1002_C04_015MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>MARITAL STATUS !!<br>Unmarried (never married, widowed, and divorced) | string |
+| S1002_C04_016EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>LABOR FORCE STATUS !!<br>In labor force | string |
+| S1002_C04_016MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>LABOR FORCE STATUS !!<br>In labor force | string |
+| S1002_C04_017EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>NATIVITY !!<br>Native | string |
+| S1002_C04_017MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>NATIVITY !!<br>Native | string |
+| S1002_C04_018EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>NATIVITY !!<br>Foreign born | string |
+| S1002_C04_018MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>NATIVITY !!<br>Foreign born | string |
+| S1002_C04_019EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | string |
+| S1002_C04_019MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language | string |
+| S1002_C04_020EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | string |
+| S1002_C04_020MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English &quot;very well&quot; | string |
+| S1002_C04_021EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | string |
+| S1002_C04_021MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH !!<br>Speak other language !!<br>Speak English less than &quot;very well&quot; | string |
+| S1002_C04_022EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | string |
+| S1002_C04_022MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years | string |
+| S1002_C04_023EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | string |
+| S1002_C04_023MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>DISABILITY STATUS !!<br>Civilian grandparents living with own grandchildren under 18 years !!<br>With any disability | string |
+| S1002_C04_024EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | string |
+| S1002_C04_024MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined | string |
+| S1002_C04_025EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | string |
+| S1002_C04_025MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months below poverty level | string |
+| S1002_C04_026EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | string |
+| S1002_C04_026MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Grandparents living with own grandchildren under 18 years for whom poverty status is determined !!<br>Income in the past 12 months at or above poverty level | string |
+| S1002_C04_027EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households | string |
+| S1002_C04_027MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households | string |
+| S1002_C04_028EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | string |
+| S1002_C04_028MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>Grandparents living with own grandchildren under 18 years in households !!<br>PRESENCE OF PARENT(S) OF GRANDCHILDREN !!<br>Householder or spouse responsible for grandchildren with no parent of grandchildren present | string |
+| S1002_C04_029EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | string |
+| S1002_C04_029MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 1-unit structures | string |
+| S1002_C04_030EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | string |
+| S1002_C04_030MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In 2-or-more-unit structures | string |
+| S1002_C04_031EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | string |
+| S1002_C04_031MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>UNITS IN STRUCTURE !!<br>In mobile homes and all other types of units | string |
+| S1002_C04_032EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | string |
+| S1002_C04_032MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In owner-occupied housing units | string |
+| S1002_C04_033EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | string |
+| S1002_C04_033MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>HOUSING TENURE !!<br>In renter-occupied housing units | string |
+| S1002_C04_034EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households | string |
+| S1002_C04_034MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households | string |
+| S1002_C04_035EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | string |
+| S1002_C04_035MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>HOUSEHOLDS !!<br>Households !!<br>With grandparents living with grandchildren | string |
+| S1002_C04_036EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | string |
+| S1002_C04_036MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents living with grandchildren | string |
+| S1002_C04_037EA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Estimate !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | string |
+| S1002_C04_037MA | Annotation of Percent distribution of grandparents responsible for grandchildren !!<br>60 years and over !!<br>Margin of Error !!<br>PERCENT IMPUTED !!<br>Grandparents responsible for grandchildren | string |
+

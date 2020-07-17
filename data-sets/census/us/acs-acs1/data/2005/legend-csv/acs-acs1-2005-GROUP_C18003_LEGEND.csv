@@ -1,0 +1,109 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18003_001E,int,Estimate!!Total,C18003
+C18003_002E,int,Estimate!!Total!!Male,C18003
+C18003_003E,int,Estimate!!Total!!Male!!5 to 15 years,C18003
+C18003_004E,int,Estimate!!Total!!Male!!5 to 15 years!!With a sensory disability,C18003
+C18003_005E,int,Estimate!!Total!!Male!!5 to 15 years!!No sensory disability,C18003
+C18003_006E,int,Estimate!!Total!!Male!!16 to 64 years,C18003
+C18003_007E,int,Estimate!!Total!!Male!!16 to 64 years!!With a sensory disability,C18003
+C18003_008E,int,Estimate!!Total!!Male!!16 to 64 years!!No sensory disability,C18003
+C18003_009E,int,Estimate!!Total!!Male!!65 to 74 years,C18003
+C18003_010E,int,Estimate!!Total!!Male!!65 to 74 years!!With a sensory disability,C18003
+C18003_011E,int,Estimate!!Total!!Male!!65 to 74 years!!No sensory disability,C18003
+C18003_012E,int,Estimate!!Total!!Male!!75 years and over,C18003
+C18003_013E,int,Estimate!!Total!!Male!!75 years and over!!With a sensory disability,C18003
+C18003_014E,int,Estimate!!Total!!Male!!75 years and over!!No sensory disability,C18003
+C18003_015E,int,Estimate!!Total!!Female,C18003
+C18003_016E,int,Estimate!!Total!!Female!!5 to 15 years,C18003
+C18003_017E,int,Estimate!!Total!!Female!!5 to 15 years!!With a sensory disability,C18003
+C18003_018E,int,Estimate!!Total!!Female!!5 to 15 years!!No sensory disability,C18003
+C18003_019E,int,Estimate!!Total!!Female!!16 to 64 years,C18003
+C18003_020E,int,Estimate!!Total!!Female!!16 to 64 years!!With a sensory disability,C18003
+C18003_021E,int,Estimate!!Total!!Female!!16 to 64 years!!No sensory disability,C18003
+C18003_022E,int,Estimate!!Total!!Female!!65 to 74 years,C18003
+C18003_023E,int,Estimate!!Total!!Female!!65 to 74 years!!With a sensory disability,C18003
+C18003_024E,int,Estimate!!Total!!Female!!65 to 74 years!!No sensory disability,C18003
+C18003_025E,int,Estimate!!Total!!Female!!75 years and over,C18003
+C18003_026E,int,Estimate!!Total!!Female!!75 years and over!!With a sensory disability,C18003
+C18003_027E,int,Estimate!!Total!!Female!!75 years and over!!No sensory disability,C18003
+C18003_001M,int,Margin of Error!!Total,C18003
+C18003_002M,int,Margin of Error!!Total!!Male,C18003
+C18003_003M,int,Margin of Error!!Total!!Male!!5 to 15 years,C18003
+C18003_004M,int,Margin of Error!!Total!!Male!!5 to 15 years!!With a sensory disability,C18003
+C18003_005M,int,Margin of Error!!Total!!Male!!5 to 15 years!!No sensory disability,C18003
+C18003_006M,int,Margin of Error!!Total!!Male!!16 to 64 years,C18003
+C18003_007M,int,Margin of Error!!Total!!Male!!16 to 64 years!!With a sensory disability,C18003
+C18003_008M,int,Margin of Error!!Total!!Male!!16 to 64 years!!No sensory disability,C18003
+C18003_009M,int,Margin of Error!!Total!!Male!!65 to 74 years,C18003
+C18003_010M,int,Margin of Error!!Total!!Male!!65 to 74 years!!With a sensory disability,C18003
+C18003_011M,int,Margin of Error!!Total!!Male!!65 to 74 years!!No sensory disability,C18003
+C18003_012M,int,Margin of Error!!Total!!Male!!75 years and over,C18003
+C18003_013M,int,Margin of Error!!Total!!Male!!75 years and over!!With a sensory disability,C18003
+C18003_014M,int,Margin of Error!!Total!!Male!!75 years and over!!No sensory disability,C18003
+C18003_015M,int,Margin of Error!!Total!!Female,C18003
+C18003_016M,int,Margin of Error!!Total!!Female!!5 to 15 years,C18003
+C18003_017M,int,Margin of Error!!Total!!Female!!5 to 15 years!!With a sensory disability,C18003
+C18003_018M,int,Margin of Error!!Total!!Female!!5 to 15 years!!No sensory disability,C18003
+C18003_019M,int,Margin of Error!!Total!!Female!!16 to 64 years,C18003
+C18003_020M,int,Margin of Error!!Total!!Female!!16 to 64 years!!With a sensory disability,C18003
+C18003_021M,int,Margin of Error!!Total!!Female!!16 to 64 years!!No sensory disability,C18003
+C18003_022M,int,Margin of Error!!Total!!Female!!65 to 74 years,C18003
+C18003_023M,int,Margin of Error!!Total!!Female!!65 to 74 years!!With a sensory disability,C18003
+C18003_024M,int,Margin of Error!!Total!!Female!!65 to 74 years!!No sensory disability,C18003
+C18003_025M,int,Margin of Error!!Total!!Female!!75 years and over,C18003
+C18003_026M,int,Margin of Error!!Total!!Female!!75 years and over!!With a sensory disability,C18003
+C18003_027M,int,Margin of Error!!Total!!Female!!75 years and over!!No sensory disability,C18003
+C18003_001EA,string,Annotation of Estimate!!Total,C18003
+C18003_001MA,string,Annotation of Margin of Error!!Total,C18003
+C18003_002EA,string,Annotation of Estimate!!Total!!Male,C18003
+C18003_002MA,string,Annotation of Margin of Error!!Total!!Male,C18003
+C18003_003EA,string,Annotation of Estimate!!Total!!Male!!5 to 15 years,C18003
+C18003_003MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 15 years,C18003
+C18003_004EA,string,Annotation of Estimate!!Total!!Male!!5 to 15 years!!With a sensory disability,C18003
+C18003_004MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 15 years!!With a sensory disability,C18003
+C18003_005EA,string,Annotation of Estimate!!Total!!Male!!5 to 15 years!!No sensory disability,C18003
+C18003_005MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 15 years!!No sensory disability,C18003
+C18003_006EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years,C18003
+C18003_006MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years,C18003
+C18003_007EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!With a sensory disability,C18003
+C18003_007MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!With a sensory disability,C18003
+C18003_008EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!No sensory disability,C18003
+C18003_008MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!No sensory disability,C18003
+C18003_009EA,string,Annotation of Estimate!!Total!!Male!!65 to 74 years,C18003
+C18003_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 to 74 years,C18003
+C18003_010EA,string,Annotation of Estimate!!Total!!Male!!65 to 74 years!!With a sensory disability,C18003
+C18003_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 to 74 years!!With a sensory disability,C18003
+C18003_011EA,string,Annotation of Estimate!!Total!!Male!!65 to 74 years!!No sensory disability,C18003
+C18003_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 to 74 years!!No sensory disability,C18003
+C18003_012EA,string,Annotation of Estimate!!Total!!Male!!75 years and over,C18003
+C18003_012MA,string,Annotation of Margin of Error!!Total!!Male!!75 years and over,C18003
+C18003_013EA,string,Annotation of Estimate!!Total!!Male!!75 years and over!!With a sensory disability,C18003
+C18003_013MA,string,Annotation of Margin of Error!!Total!!Male!!75 years and over!!With a sensory disability,C18003
+C18003_014EA,string,Annotation of Estimate!!Total!!Male!!75 years and over!!No sensory disability,C18003
+C18003_014MA,string,Annotation of Margin of Error!!Total!!Male!!75 years and over!!No sensory disability,C18003
+C18003_015EA,string,Annotation of Estimate!!Total!!Female,C18003
+C18003_015MA,string,Annotation of Margin of Error!!Total!!Female,C18003
+C18003_016EA,string,Annotation of Estimate!!Total!!Female!!5 to 15 years,C18003
+C18003_016MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 15 years,C18003
+C18003_017EA,string,Annotation of Estimate!!Total!!Female!!5 to 15 years!!With a sensory disability,C18003
+C18003_017MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 15 years!!With a sensory disability,C18003
+C18003_018EA,string,Annotation of Estimate!!Total!!Female!!5 to 15 years!!No sensory disability,C18003
+C18003_018MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 15 years!!No sensory disability,C18003
+C18003_019EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years,C18003
+C18003_019MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years,C18003
+C18003_020EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!With a sensory disability,C18003
+C18003_020MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!With a sensory disability,C18003
+C18003_021EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!No sensory disability,C18003
+C18003_021MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!No sensory disability,C18003
+C18003_022EA,string,Annotation of Estimate!!Total!!Female!!65 to 74 years,C18003
+C18003_022MA,string,Annotation of Margin of Error!!Total!!Female!!65 to 74 years,C18003
+C18003_023EA,string,Annotation of Estimate!!Total!!Female!!65 to 74 years!!With a sensory disability,C18003
+C18003_023MA,string,Annotation of Margin of Error!!Total!!Female!!65 to 74 years!!With a sensory disability,C18003
+C18003_024EA,string,Annotation of Estimate!!Total!!Female!!65 to 74 years!!No sensory disability,C18003
+C18003_024MA,string,Annotation of Margin of Error!!Total!!Female!!65 to 74 years!!No sensory disability,C18003
+C18003_025EA,string,Annotation of Estimate!!Total!!Female!!75 years and over,C18003
+C18003_025MA,string,Annotation of Margin of Error!!Total!!Female!!75 years and over,C18003
+C18003_026EA,string,Annotation of Estimate!!Total!!Female!!75 years and over!!With a sensory disability,C18003
+C18003_026MA,string,Annotation of Margin of Error!!Total!!Female!!75 years and over!!With a sensory disability,C18003
+C18003_027EA,string,Annotation of Estimate!!Total!!Female!!75 years and over!!No sensory disability,C18003
+C18003_027MA,string,Annotation of Margin of Error!!Total!!Female!!75 years and over!!No sensory disability,C18003

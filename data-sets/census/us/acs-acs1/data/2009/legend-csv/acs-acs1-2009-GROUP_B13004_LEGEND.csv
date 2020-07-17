@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B13004_001E,int,Estimate!!Total,B13004
+B13004_002E,int,Estimate!!Total!!Women who had a birth in the past 12 months,B13004
+B13004_003E,int,Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13004
+B13004_004E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13004
+B13004_005E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Partner in an unmarried partner household",B13004
+B13004_006E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not an unmarried partner",B13004
+B13004_007E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months,B13004
+B13004_008E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13004
+B13004_009E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13004
+B13004_010E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Partner in an unmarried partner household",B13004
+B13004_011E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not an unmarried partner",B13004
+B13004_001M,int,Margin of Error!!Total,B13004
+B13004_002M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months,B13004
+B13004_003M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13004
+B13004_004M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13004
+B13004_005M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Partner in an unmarried partner household",B13004
+B13004_006M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not an unmarried partner",B13004
+B13004_007M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months,B13004
+B13004_008M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13004
+B13004_009M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13004
+B13004_010M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Partner in an unmarried partner household",B13004
+B13004_011M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not an unmarried partner",B13004
+B13004_001EA,string,Annotation of Estimate!!Total,B13004
+B13004_001MA,string,Annotation of Margin of Error!!Total,B13004
+B13004_002EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months,B13004
+B13004_002MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months,B13004
+B13004_003EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13004
+B13004_003MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13004
+B13004_004EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13004
+B13004_004MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13004
+B13004_005EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Partner in an unmarried partner household",B13004
+B13004_005MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Partner in an unmarried partner household",B13004
+B13004_006EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not an unmarried partner",B13004
+B13004_006MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not an unmarried partner",B13004
+B13004_007EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months,B13004
+B13004_007MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months,B13004
+B13004_008EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13004
+B13004_008MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13004
+B13004_009EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13004
+B13004_009MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13004
+B13004_010EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Partner in an unmarried partner household",B13004
+B13004_010MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Partner in an unmarried partner household",B13004
+B13004_011EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not an unmarried partner",B13004
+B13004_011MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)!!Not an unmarried partner",B13004

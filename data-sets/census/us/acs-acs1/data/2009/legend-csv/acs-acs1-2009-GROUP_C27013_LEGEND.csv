@@ -1,0 +1,89 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27013_001E,int,Estimate!!Total,C27013
+C27013_002E,int,"Estimate!!Total!!Worked full-time, year-round",C27013
+C27013_003E,int,"Estimate!!Total!!Worked full-time, year-round!!18 to 64 years",C27013
+C27013_004E,int,"Estimate!!Total!!Worked full-time, year-round!!18 to 64 years!!With private health insurance coverage",C27013
+C27013_005E,int,"Estimate!!Total!!Worked full-time, year-round!!18 to 64 years!!No private health insurance coverage",C27013
+C27013_006E,int,"Estimate!!Total!!Worked full-time, year-round!!65 years and over",C27013
+C27013_007E,int,"Estimate!!Total!!Worked full-time, year-round!!65 years and over!!With private health insurance coverage",C27013
+C27013_008E,int,"Estimate!!Total!!Worked full-time, year-round!!65 years and over!!No private health insurance coverage",C27013
+C27013_009E,int,"Estimate!!Total!!Worked less than full-time, year-round",C27013
+C27013_010E,int,"Estimate!!Total!!Worked less than full-time, year-round!!18 to 64 years",C27013
+C27013_011E,int,"Estimate!!Total!!Worked less than full-time, year-round!!18 to 64 years!!With private health insurance coverage",C27013
+C27013_012E,int,"Estimate!!Total!!Worked less than full-time, year-round!!18 to 64 years!!No private health insurance coverage",C27013
+C27013_013E,int,"Estimate!!Total!!Worked less than full-time, year-round!!65 years and over",C27013
+C27013_014E,int,"Estimate!!Total!!Worked less than full-time, year-round!!65 years and over!!With private health insurance coverage",C27013
+C27013_015E,int,"Estimate!!Total!!Worked less than full-time, year-round!!65 years and over!!No private health insurance coverage",C27013
+C27013_016E,int,Estimate!!Total!!Did not work,C27013
+C27013_017E,int,Estimate!!Total!!Did not work!!18 to 64 years,C27013
+C27013_018E,int,Estimate!!Total!!Did not work!!18 to 64 years!!With private health insurance coverage,C27013
+C27013_019E,int,Estimate!!Total!!Did not work!!18 to 64 years!!No private health insurance coverage,C27013
+C27013_020E,int,Estimate!!Total!!Did not work!!65 years and over,C27013
+C27013_021E,int,Estimate!!Total!!Did not work!!65 years and over!!With private health insurance coverage,C27013
+C27013_022E,int,Estimate!!Total!!Did not work!!65 years and over!!No private health insurance coverage,C27013
+C27013_001M,int,Margin of Error!!Total,C27013
+C27013_002M,int,"Margin of Error!!Total!!Worked full-time, year-round",C27013
+C27013_003M,int,"Margin of Error!!Total!!Worked full-time, year-round!!18 to 64 years",C27013
+C27013_004M,int,"Margin of Error!!Total!!Worked full-time, year-round!!18 to 64 years!!With private health insurance coverage",C27013
+C27013_005M,int,"Margin of Error!!Total!!Worked full-time, year-round!!18 to 64 years!!No private health insurance coverage",C27013
+C27013_006M,int,"Margin of Error!!Total!!Worked full-time, year-round!!65 years and over",C27013
+C27013_007M,int,"Margin of Error!!Total!!Worked full-time, year-round!!65 years and over!!With private health insurance coverage",C27013
+C27013_008M,int,"Margin of Error!!Total!!Worked full-time, year-round!!65 years and over!!No private health insurance coverage",C27013
+C27013_009M,int,"Margin of Error!!Total!!Worked less than full-time, year-round",C27013
+C27013_010M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!18 to 64 years",C27013
+C27013_011M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!18 to 64 years!!With private health insurance coverage",C27013
+C27013_012M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!18 to 64 years!!No private health insurance coverage",C27013
+C27013_013M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!65 years and over",C27013
+C27013_014M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!65 years and over!!With private health insurance coverage",C27013
+C27013_015M,int,"Margin of Error!!Total!!Worked less than full-time, year-round!!65 years and over!!No private health insurance coverage",C27013
+C27013_016M,int,Margin of Error!!Total!!Did not work,C27013
+C27013_017M,int,Margin of Error!!Total!!Did not work!!18 to 64 years,C27013
+C27013_018M,int,Margin of Error!!Total!!Did not work!!18 to 64 years!!With private health insurance coverage,C27013
+C27013_019M,int,Margin of Error!!Total!!Did not work!!18 to 64 years!!No private health insurance coverage,C27013
+C27013_020M,int,Margin of Error!!Total!!Did not work!!65 years and over,C27013
+C27013_021M,int,Margin of Error!!Total!!Did not work!!65 years and over!!With private health insurance coverage,C27013
+C27013_022M,int,Margin of Error!!Total!!Did not work!!65 years and over!!No private health insurance coverage,C27013
+C27013_001EA,string,Annotation of Estimate!!Total,C27013
+C27013_001MA,string,Annotation of Margin of Error!!Total,C27013
+C27013_002EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round",C27013
+C27013_002MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round",C27013
+C27013_003EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!18 to 64 years",C27013
+C27013_003MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!18 to 64 years",C27013
+C27013_004EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!18 to 64 years!!With private health insurance coverage",C27013
+C27013_004MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!18 to 64 years!!With private health insurance coverage",C27013
+C27013_005EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!18 to 64 years!!No private health insurance coverage",C27013
+C27013_005MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!18 to 64 years!!No private health insurance coverage",C27013
+C27013_006EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!65 years and over",C27013
+C27013_006MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!65 years and over",C27013
+C27013_007EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!65 years and over!!With private health insurance coverage",C27013
+C27013_007MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!65 years and over!!With private health insurance coverage",C27013
+C27013_008EA,string,"Annotation of Estimate!!Total!!Worked full-time, year-round!!65 years and over!!No private health insurance coverage",C27013
+C27013_008MA,string,"Annotation of Margin of Error!!Total!!Worked full-time, year-round!!65 years and over!!No private health insurance coverage",C27013
+C27013_009EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round",C27013
+C27013_009MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round",C27013
+C27013_010EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!18 to 64 years",C27013
+C27013_010MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!18 to 64 years",C27013
+C27013_011EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!18 to 64 years!!With private health insurance coverage",C27013
+C27013_011MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!18 to 64 years!!With private health insurance coverage",C27013
+C27013_012EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!18 to 64 years!!No private health insurance coverage",C27013
+C27013_012MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!18 to 64 years!!No private health insurance coverage",C27013
+C27013_013EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!65 years and over",C27013
+C27013_013MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!65 years and over",C27013
+C27013_014EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!65 years and over!!With private health insurance coverage",C27013
+C27013_014MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!65 years and over!!With private health insurance coverage",C27013
+C27013_015EA,string,"Annotation of Estimate!!Total!!Worked less than full-time, year-round!!65 years and over!!No private health insurance coverage",C27013
+C27013_015MA,string,"Annotation of Margin of Error!!Total!!Worked less than full-time, year-round!!65 years and over!!No private health insurance coverage",C27013
+C27013_016EA,string,Annotation of Estimate!!Total!!Did not work,C27013
+C27013_016MA,string,Annotation of Margin of Error!!Total!!Did not work,C27013
+C27013_017EA,string,Annotation of Estimate!!Total!!Did not work!!18 to 64 years,C27013
+C27013_017MA,string,Annotation of Margin of Error!!Total!!Did not work!!18 to 64 years,C27013
+C27013_018EA,string,Annotation of Estimate!!Total!!Did not work!!18 to 64 years!!With private health insurance coverage,C27013
+C27013_018MA,string,Annotation of Margin of Error!!Total!!Did not work!!18 to 64 years!!With private health insurance coverage,C27013
+C27013_019EA,string,Annotation of Estimate!!Total!!Did not work!!18 to 64 years!!No private health insurance coverage,C27013
+C27013_019MA,string,Annotation of Margin of Error!!Total!!Did not work!!18 to 64 years!!No private health insurance coverage,C27013
+C27013_020EA,string,Annotation of Estimate!!Total!!Did not work!!65 years and over,C27013
+C27013_020MA,string,Annotation of Margin of Error!!Total!!Did not work!!65 years and over,C27013
+C27013_021EA,string,Annotation of Estimate!!Total!!Did not work!!65 years and over!!With private health insurance coverage,C27013
+C27013_021MA,string,Annotation of Margin of Error!!Total!!Did not work!!65 years and over!!With private health insurance coverage,C27013
+C27013_022EA,string,Annotation of Estimate!!Total!!Did not work!!65 years and over!!No private health insurance coverage,C27013
+C27013_022MA,string,Annotation of Margin of Error!!Total!!Did not work!!65 years and over!!No private health insurance coverage,C27013

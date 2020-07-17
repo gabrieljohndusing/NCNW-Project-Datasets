@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25044G_001E,int,Estimate!!Total,B25044G
+B25044G_002E,int,Estimate!!Total!!No vehicle available,B25044G
+B25044G_003E,int,Estimate!!Total!!1 or more vehicles available,B25044G
+B25044G_001M,int,Margin of Error!!Total,B25044G
+B25044G_002M,int,Margin of Error!!Total!!No vehicle available,B25044G
+B25044G_003M,int,Margin of Error!!Total!!1 or more vehicles available,B25044G
+B25044G_001EA,string,Annotation of Estimate!!Total,B25044G
+B25044G_001MA,string,Annotation of Margin of Error!!Total,B25044G
+B25044G_002EA,string,Annotation of Estimate!!Total!!No vehicle available,B25044G
+B25044G_002MA,string,Annotation of Margin of Error!!Total!!No vehicle available,B25044G
+B25044G_003EA,string,Annotation of Estimate!!Total!!1 or more vehicles available,B25044G
+B25044G_003MA,string,Annotation of Margin of Error!!Total!!1 or more vehicles available,B25044G

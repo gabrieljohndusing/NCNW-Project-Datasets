@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17006_001E,int,Estimate!!Total,C17006
+C17006_002E,int,Estimate!!Total!!Income in the past 12 months below poverty level,C17006
+C17006_003E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!In married-couple family,C17006
+C17006_004E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!In other family,C17006
+C17006_005E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level,C17006
+C17006_006E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!In married-couple family,C17006
+C17006_007E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!In other family,C17006
+C17006_001M,int,Margin of Error!!Total,C17006
+C17006_002M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level,C17006
+C17006_003M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!In married-couple family,C17006
+C17006_004M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!In other family,C17006
+C17006_005M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17006
+C17006_006M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!In married-couple family,C17006
+C17006_007M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!In other family,C17006
+C17006_001EA,string,Annotation of Estimate!!Total,C17006
+C17006_001MA,string,Annotation of Margin of Error!!Total,C17006
+C17006_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level,C17006
+C17006_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level,C17006
+C17006_003EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!In married-couple family,C17006
+C17006_003MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!In married-couple family,C17006
+C17006_004EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!In other family,C17006
+C17006_004MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!In other family,C17006
+C17006_005EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level,C17006
+C17006_005MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17006
+C17006_006EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!In married-couple family,C17006
+C17006_006MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!In married-couple family,C17006
+C17006_007EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!In other family,C17006
+C17006_007MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!In other family,C17006

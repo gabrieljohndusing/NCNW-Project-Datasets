@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25043F_001E,int,Estimate!!Total,B25043F
+B25043F_002E,int,Estimate!!Total!!With telephone service available,B25043F
+B25043F_003E,int,Estimate!!Total!!No telephone service available,B25043F
+B25043F_001M,int,Margin of Error!!Total,B25043F
+B25043F_002M,int,Margin of Error!!Total!!With telephone service available,B25043F
+B25043F_003M,int,Margin of Error!!Total!!No telephone service available,B25043F
+B25043F_001EA,string,Annotation of Estimate!!Total,B25043F
+B25043F_001MA,string,Annotation of Margin of Error!!Total,B25043F
+B25043F_002EA,string,Annotation of Estimate!!Total!!With telephone service available,B25043F
+B25043F_002MA,string,Annotation of Margin of Error!!Total!!With telephone service available,B25043F
+B25043F_003EA,string,Annotation of Estimate!!Total!!No telephone service available,B25043F
+B25043F_003MA,string,Annotation of Margin of Error!!Total!!No telephone service available,B25043F

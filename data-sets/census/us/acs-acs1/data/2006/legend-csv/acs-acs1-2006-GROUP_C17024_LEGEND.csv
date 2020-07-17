@@ -1,0 +1,113 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17024_001E,int,Estimate!!Total,C17024
+C17024_002E,int,Estimate!!Total!!Under 18 years,C17024
+C17024_003E,int,Estimate!!Total!!Under 18 years!!Under 0.50,C17024
+C17024_004E,int,Estimate!!Total!!Under 18 years!!0.50 to 0.99,C17024
+C17024_005E,int,Estimate!!Total!!Under 18 years!!1.00 to 1.24,C17024
+C17024_006E,int,Estimate!!Total!!Under 18 years!!1.25 to 1.99,C17024
+C17024_007E,int,Estimate!!Total!!Under 18 years!!2.00 to 2.99,C17024
+C17024_008E,int,Estimate!!Total!!Under 18 years!!3.00 to 3.99,C17024
+C17024_009E,int,Estimate!!Total!!Under 18 years!!4.00 to 4.99,C17024
+C17024_010E,int,Estimate!!Total!!Under 18 years!!5.00 and over,C17024
+C17024_011E,int,Estimate!!Total!!18 to 64 years,C17024
+C17024_012E,int,Estimate!!Total!!18 to 64 years!!Under 0.50,C17024
+C17024_013E,int,Estimate!!Total!!18 to 64 years!!0.50 to 0.99,C17024
+C17024_014E,int,Estimate!!Total!!18 to 64 years!!1.00 to 1.24,C17024
+C17024_015E,int,Estimate!!Total!!18 to 64 years!!1.25 to 1.99,C17024
+C17024_016E,int,Estimate!!Total!!18 to 64 years!!2.00 to 2.99,C17024
+C17024_017E,int,Estimate!!Total!!18 to 64 years!!3.00 to 3.99,C17024
+C17024_018E,int,Estimate!!Total!!18 to 64 years!!4.00 to 4.99,C17024
+C17024_019E,int,Estimate!!Total!!18 to 64 years!!5.00 and over,C17024
+C17024_020E,int,Estimate!!Total!!65 years and over,C17024
+C17024_021E,int,Estimate!!Total!!65 years and over!!Under 0.50,C17024
+C17024_022E,int,Estimate!!Total!!65 years and over!!0.50 to 0.99,C17024
+C17024_023E,int,Estimate!!Total!!65 years and over!!1.00 to 1.24,C17024
+C17024_024E,int,Estimate!!Total!!65 years and over!!1.25 to 1.99,C17024
+C17024_025E,int,Estimate!!Total!!65 years and over!!2.00 to 2.99,C17024
+C17024_026E,int,Estimate!!Total!!65 years and over!!3.00 to 3.99,C17024
+C17024_027E,int,Estimate!!Total!!65 years and over!!4.00 to 4.99,C17024
+C17024_028E,int,Estimate!!Total!!65 years and over!!5.00 and over,C17024
+C17024_001M,int,Margin of Error!!Total,C17024
+C17024_002M,int,Margin of Error!!Total!!Under 18 years,C17024
+C17024_003M,int,Margin of Error!!Total!!Under 18 years!!Under 0.50,C17024
+C17024_004M,int,Margin of Error!!Total!!Under 18 years!!0.50 to 0.99,C17024
+C17024_005M,int,Margin of Error!!Total!!Under 18 years!!1.00 to 1.24,C17024
+C17024_006M,int,Margin of Error!!Total!!Under 18 years!!1.25 to 1.99,C17024
+C17024_007M,int,Margin of Error!!Total!!Under 18 years!!2.00 to 2.99,C17024
+C17024_008M,int,Margin of Error!!Total!!Under 18 years!!3.00 to 3.99,C17024
+C17024_009M,int,Margin of Error!!Total!!Under 18 years!!4.00 to 4.99,C17024
+C17024_010M,int,Margin of Error!!Total!!Under 18 years!!5.00 and over,C17024
+C17024_011M,int,Margin of Error!!Total!!18 to 64 years,C17024
+C17024_012M,int,Margin of Error!!Total!!18 to 64 years!!Under 0.50,C17024
+C17024_013M,int,Margin of Error!!Total!!18 to 64 years!!0.50 to 0.99,C17024
+C17024_014M,int,Margin of Error!!Total!!18 to 64 years!!1.00 to 1.24,C17024
+C17024_015M,int,Margin of Error!!Total!!18 to 64 years!!1.25 to 1.99,C17024
+C17024_016M,int,Margin of Error!!Total!!18 to 64 years!!2.00 to 2.99,C17024
+C17024_017M,int,Margin of Error!!Total!!18 to 64 years!!3.00 to 3.99,C17024
+C17024_018M,int,Margin of Error!!Total!!18 to 64 years!!4.00 to 4.99,C17024
+C17024_019M,int,Margin of Error!!Total!!18 to 64 years!!5.00 and over,C17024
+C17024_020M,int,Margin of Error!!Total!!65 years and over,C17024
+C17024_021M,int,Margin of Error!!Total!!65 years and over!!Under 0.50,C17024
+C17024_022M,int,Margin of Error!!Total!!65 years and over!!0.50 to 0.99,C17024
+C17024_023M,int,Margin of Error!!Total!!65 years and over!!1.00 to 1.24,C17024
+C17024_024M,int,Margin of Error!!Total!!65 years and over!!1.25 to 1.99,C17024
+C17024_025M,int,Margin of Error!!Total!!65 years and over!!2.00 to 2.99,C17024
+C17024_026M,int,Margin of Error!!Total!!65 years and over!!3.00 to 3.99,C17024
+C17024_027M,int,Margin of Error!!Total!!65 years and over!!4.00 to 4.99,C17024
+C17024_028M,int,Margin of Error!!Total!!65 years and over!!5.00 and over,C17024
+C17024_001EA,string,Annotation of Estimate!!Total,C17024
+C17024_001MA,string,Annotation of Margin of Error!!Total,C17024
+C17024_002EA,string,Annotation of Estimate!!Total!!Under 18 years,C17024
+C17024_002MA,string,Annotation of Margin of Error!!Total!!Under 18 years,C17024
+C17024_003EA,string,Annotation of Estimate!!Total!!Under 18 years!!Under 0.50,C17024
+C17024_003MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!Under 0.50,C17024
+C17024_004EA,string,Annotation of Estimate!!Total!!Under 18 years!!0.50 to 0.99,C17024
+C17024_004MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!0.50 to 0.99,C17024
+C17024_005EA,string,Annotation of Estimate!!Total!!Under 18 years!!1.00 to 1.24,C17024
+C17024_005MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!1.00 to 1.24,C17024
+C17024_006EA,string,Annotation of Estimate!!Total!!Under 18 years!!1.25 to 1.99,C17024
+C17024_006MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!1.25 to 1.99,C17024
+C17024_007EA,string,Annotation of Estimate!!Total!!Under 18 years!!2.00 to 2.99,C17024
+C17024_007MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!2.00 to 2.99,C17024
+C17024_008EA,string,Annotation of Estimate!!Total!!Under 18 years!!3.00 to 3.99,C17024
+C17024_008MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!3.00 to 3.99,C17024
+C17024_009EA,string,Annotation of Estimate!!Total!!Under 18 years!!4.00 to 4.99,C17024
+C17024_009MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!4.00 to 4.99,C17024
+C17024_010EA,string,Annotation of Estimate!!Total!!Under 18 years!!5.00 and over,C17024
+C17024_010MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!5.00 and over,C17024
+C17024_011EA,string,Annotation of Estimate!!Total!!18 to 64 years,C17024
+C17024_011MA,string,Annotation of Margin of Error!!Total!!18 to 64 years,C17024
+C17024_012EA,string,Annotation of Estimate!!Total!!18 to 64 years!!Under 0.50,C17024
+C17024_012MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!Under 0.50,C17024
+C17024_013EA,string,Annotation of Estimate!!Total!!18 to 64 years!!0.50 to 0.99,C17024
+C17024_013MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!0.50 to 0.99,C17024
+C17024_014EA,string,Annotation of Estimate!!Total!!18 to 64 years!!1.00 to 1.24,C17024
+C17024_014MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!1.00 to 1.24,C17024
+C17024_015EA,string,Annotation of Estimate!!Total!!18 to 64 years!!1.25 to 1.99,C17024
+C17024_015MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!1.25 to 1.99,C17024
+C17024_016EA,string,Annotation of Estimate!!Total!!18 to 64 years!!2.00 to 2.99,C17024
+C17024_016MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!2.00 to 2.99,C17024
+C17024_017EA,string,Annotation of Estimate!!Total!!18 to 64 years!!3.00 to 3.99,C17024
+C17024_017MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!3.00 to 3.99,C17024
+C17024_018EA,string,Annotation of Estimate!!Total!!18 to 64 years!!4.00 to 4.99,C17024
+C17024_018MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!4.00 to 4.99,C17024
+C17024_019EA,string,Annotation of Estimate!!Total!!18 to 64 years!!5.00 and over,C17024
+C17024_019MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!5.00 and over,C17024
+C17024_020EA,string,Annotation of Estimate!!Total!!65 years and over,C17024
+C17024_020MA,string,Annotation of Margin of Error!!Total!!65 years and over,C17024
+C17024_021EA,string,Annotation of Estimate!!Total!!65 years and over!!Under 0.50,C17024
+C17024_021MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Under 0.50,C17024
+C17024_022EA,string,Annotation of Estimate!!Total!!65 years and over!!0.50 to 0.99,C17024
+C17024_022MA,string,Annotation of Margin of Error!!Total!!65 years and over!!0.50 to 0.99,C17024
+C17024_023EA,string,Annotation of Estimate!!Total!!65 years and over!!1.00 to 1.24,C17024
+C17024_023MA,string,Annotation of Margin of Error!!Total!!65 years and over!!1.00 to 1.24,C17024
+C17024_024EA,string,Annotation of Estimate!!Total!!65 years and over!!1.25 to 1.99,C17024
+C17024_024MA,string,Annotation of Margin of Error!!Total!!65 years and over!!1.25 to 1.99,C17024
+C17024_025EA,string,Annotation of Estimate!!Total!!65 years and over!!2.00 to 2.99,C17024
+C17024_025MA,string,Annotation of Margin of Error!!Total!!65 years and over!!2.00 to 2.99,C17024
+C17024_026EA,string,Annotation of Estimate!!Total!!65 years and over!!3.00 to 3.99,C17024
+C17024_026MA,string,Annotation of Margin of Error!!Total!!65 years and over!!3.00 to 3.99,C17024
+C17024_027EA,string,Annotation of Estimate!!Total!!65 years and over!!4.00 to 4.99,C17024
+C17024_027MA,string,Annotation of Margin of Error!!Total!!65 years and over!!4.00 to 4.99,C17024
+C17024_028EA,string,Annotation of Estimate!!Total!!65 years and over!!5.00 and over,C17024
+C17024_028MA,string,Annotation of Margin of Error!!Total!!65 years and over!!5.00 and over,C17024

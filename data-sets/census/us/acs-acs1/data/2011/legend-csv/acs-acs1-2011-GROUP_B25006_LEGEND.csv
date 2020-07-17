@@ -1,0 +1,41 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25006_001E,int,Estimate!!Total,B25006
+B25006_002E,int,Estimate!!Total!!Householder who is White alone,B25006
+B25006_003E,int,Estimate!!Total!!Householder who is Black or African American alone,B25006
+B25006_004E,int,Estimate!!Total!!Householder who is American Indian and Alaska Native alone,B25006
+B25006_005E,int,Estimate!!Total!!Householder who is Asian alone,B25006
+B25006_006E,int,Estimate!!Total!!Householder who is Native Hawaiian and Other Pacific Islander alone,B25006
+B25006_007E,int,Estimate!!Total!!Householder who is Some other race alone,B25006
+B25006_008E,int,Estimate!!Total!!Householder who is Two or more races,B25006
+B25006_009E,int,Estimate!!Total!!Householder who is Two or more races!!Householder who is Two races including Some other race,B25006
+B25006_010E,int,"Estimate!!Total!!Householder who is Two or more races!!Householder who is Two races excluding Some other race, and three or more races",B25006
+B25006_001M,int,Margin of Error!!Total,B25006
+B25006_002M,int,Margin of Error!!Total!!Householder who is White alone,B25006
+B25006_003M,int,Margin of Error!!Total!!Householder who is Black or African American alone,B25006
+B25006_004M,int,Margin of Error!!Total!!Householder who is American Indian and Alaska Native alone,B25006
+B25006_005M,int,Margin of Error!!Total!!Householder who is Asian alone,B25006
+B25006_006M,int,Margin of Error!!Total!!Householder who is Native Hawaiian and Other Pacific Islander alone,B25006
+B25006_007M,int,Margin of Error!!Total!!Householder who is Some other race alone,B25006
+B25006_008M,int,Margin of Error!!Total!!Householder who is Two or more races,B25006
+B25006_009M,int,Margin of Error!!Total!!Householder who is Two or more races!!Householder who is Two races including Some other race,B25006
+B25006_010M,int,"Margin of Error!!Total!!Householder who is Two or more races!!Householder who is Two races excluding Some other race, and three or more races",B25006
+B25006_001EA,string,Annotation of Estimate!!Total,B25006
+B25006_001MA,string,Annotation of Margin of Error!!Total,B25006
+B25006_002EA,string,Annotation of Estimate!!Total!!Householder who is White alone,B25006
+B25006_002MA,string,Annotation of Margin of Error!!Total!!Householder who is White alone,B25006
+B25006_003EA,string,Annotation of Estimate!!Total!!Householder who is Black or African American alone,B25006
+B25006_003MA,string,Annotation of Margin of Error!!Total!!Householder who is Black or African American alone,B25006
+B25006_004EA,string,Annotation of Estimate!!Total!!Householder who is American Indian and Alaska Native alone,B25006
+B25006_004MA,string,Annotation of Margin of Error!!Total!!Householder who is American Indian and Alaska Native alone,B25006
+B25006_005EA,string,Annotation of Estimate!!Total!!Householder who is Asian alone,B25006
+B25006_005MA,string,Annotation of Margin of Error!!Total!!Householder who is Asian alone,B25006
+B25006_006EA,string,Annotation of Estimate!!Total!!Householder who is Native Hawaiian and Other Pacific Islander alone,B25006
+B25006_006MA,string,Annotation of Margin of Error!!Total!!Householder who is Native Hawaiian and Other Pacific Islander alone,B25006
+B25006_007EA,string,Annotation of Estimate!!Total!!Householder who is Some other race alone,B25006
+B25006_007MA,string,Annotation of Margin of Error!!Total!!Householder who is Some other race alone,B25006
+B25006_008EA,string,Annotation of Estimate!!Total!!Householder who is Two or more races,B25006
+B25006_008MA,string,Annotation of Margin of Error!!Total!!Householder who is Two or more races,B25006
+B25006_009EA,string,Annotation of Estimate!!Total!!Householder who is Two or more races!!Householder who is Two races including Some other race,B25006
+B25006_009MA,string,Annotation of Margin of Error!!Total!!Householder who is Two or more races!!Householder who is Two races including Some other race,B25006
+B25006_010EA,string,"Annotation of Estimate!!Total!!Householder who is Two or more races!!Householder who is Two races excluding Some other race, and three or more races",B25006
+B25006_010MA,string,"Annotation of Margin of Error!!Total!!Householder who is Two or more races!!Householder who is Two races excluding Some other race, and three or more races",B25006

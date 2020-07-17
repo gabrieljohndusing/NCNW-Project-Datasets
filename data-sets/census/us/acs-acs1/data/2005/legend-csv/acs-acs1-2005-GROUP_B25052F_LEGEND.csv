@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25052F_001E,int,Estimate!!Total,B25052F
+B25052F_002E,int,Estimate!!Total!!Complete kitchen facilities,B25052F
+B25052F_003E,int,Estimate!!Total!!Lacking complete kitchen facilities,B25052F
+B25052F_001M,int,Margin of Error!!Total,B25052F
+B25052F_002M,int,Margin of Error!!Total!!Complete kitchen facilities,B25052F
+B25052F_003M,int,Margin of Error!!Total!!Lacking complete kitchen facilities,B25052F
+B25052F_001EA,string,Annotation of Estimate!!Total,B25052F
+B25052F_001MA,string,Annotation of Margin of Error!!Total,B25052F
+B25052F_002EA,string,Annotation of Estimate!!Total!!Complete kitchen facilities,B25052F
+B25052F_002MA,string,Annotation of Margin of Error!!Total!!Complete kitchen facilities,B25052F
+B25052F_003EA,string,Annotation of Estimate!!Total!!Lacking complete kitchen facilities,B25052F
+B25052F_003MA,string,Annotation of Margin of Error!!Total!!Lacking complete kitchen facilities,B25052F

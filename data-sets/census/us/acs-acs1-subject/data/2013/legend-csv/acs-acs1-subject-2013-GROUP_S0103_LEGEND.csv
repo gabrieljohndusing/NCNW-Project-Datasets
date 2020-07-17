@@ -1,0 +1,833 @@
+VARIABLE,TYPE,LABEL,GROUP
+S0103_C01_001E,int,Total!!Estimate!!Total population,S0103
+S0103_C01_002E,float,Total!!Estimate!!SEX AND AGE!!Male,S0103
+S0103_C01_003E,float,Total!!Estimate!!SEX AND AGE!!Female,S0103
+S0103_C01_004E,float,Total!!Estimate!!Median age (years),S0103
+S0103_C01_005E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0103
+S0103_C01_006E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0103
+S0103_C01_007E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0103
+S0103_C01_008E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0103
+S0103_C01_009E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0103
+S0103_C01_010E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0103
+S0103_C01_011E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0103
+S0103_C01_012E,float,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0103
+S0103_C01_013E,float,Total!!Estimate!!Hispanic or Latino origin (of any race),S0103
+S0103_C01_014E,float,"Total!!Estimate!!White alone, not Hispanic or Latino",S0103
+S0103_C01_015E,int,Total!!Estimate!!RELATIONSHIP!!Population in households,S0103
+S0103_C01_016E,float,Total!!Estimate!!RELATIONSHIP!!Population in households!!Householder or spouse,S0103
+S0103_C01_017E,float,Total!!Estimate!!RELATIONSHIP!!Population in households!!Parent,S0103
+S0103_C01_018E,float,Total!!Estimate!!RELATIONSHIP!!Population in households!!Other relatives,S0103
+S0103_C01_019E,float,Total!!Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives,S0103
+S0103_C01_020E,float,Total!!Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0103
+S0103_C01_021E,int,Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households,S0103
+S0103_C01_022E,float,Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0103
+S0103_C01_023E,float,Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0103
+S0103_C01_024E,float,"Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0103
+S0103_C01_025E,float,Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0103
+S0103_C01_026E,float,Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone,S0103
+S0103_C01_027E,int,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0103
+S0103_C01_028E,float,"Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0103
+S0103_C01_029E,float,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0103
+S0103_C01_030E,float,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0103
+S0103_C01_031E,float,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S0103
+S0103_C01_032E,float,Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0103
+S0103_C01_033E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0103
+S0103_C01_034E,float,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0103
+S0103_C01_035E,float,"Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative",S0103
+S0103_C01_036E,float,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0103
+S0103_C01_037E,float,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S0103
+S0103_C01_038E,int,Total!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0103
+S0103_C01_039E,float,Total!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren),S0103
+S0103_C01_040E,float,Total!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren),S0103
+S0103_C01_041E,int,Total!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S0103
+S0103_C01_042E,float,Total!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0103
+S0103_C01_043E,int,Total!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population,S0103
+S0103_C01_044E,float,Total!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability,S0103
+S0103_C01_045E,float,Total!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability,S0103
+S0103_C01_046E,int,Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0103
+S0103_C01_047E,float,Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0103
+S0103_C01_048E,float,Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States,S0103
+S0103_C01_049E,float,Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county,S0103
+S0103_C01_050E,float,Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county,S0103
+S0103_C01_051E,float,Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state,S0103
+S0103_C01_052E,float,Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state,S0103
+S0103_C01_053E,float,Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0103
+S0103_C01_054E,int,"Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S0103
+S0103_C01_055E,int,"Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S0103
+S0103_C01_056E,int,"Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S0103
+S0103_C01_057E,float,"Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later",S0103
+S0103_C01_058E,float,"Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009",S0103
+S0103_C01_059E,float,"Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000",S0103
+S0103_C01_060E,float,"Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S0103
+S0103_C01_061E,float,"Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S0103
+S0103_C01_062E,int,Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0103
+S0103_C01_063E,float,Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0103
+S0103_C01_064E,float,Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0103
+S0103_C01_065E,float,"Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0103
+S0103_C01_066E,int,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S0103
+S0103_C01_067E,float,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S0103
+S0103_C01_068E,float,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S0103
+S0103_C01_069E,float,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S0103
+S0103_C01_070E,float,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed!!Percent of civilian labor force,S0103
+S0103_C01_071E,float,Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S0103
+S0103_C01_072E,int,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households,S0103
+S0103_C01_073E,float,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings,S0103
+S0103_C01_074E,int,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars),S0103
+S0103_C01_075E,float,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income,S0103
+S0103_C01_076E,int,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars),S0103
+S0103_C01_077E,float,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income,S0103
+S0103_C01_078E,int,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0103
+S0103_C01_079E,float,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income,S0103
+S0103_C01_080E,int,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars),S0103
+S0103_C01_081E,float,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income,S0103
+S0103_C01_082E,int,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars),S0103
+S0103_C01_083E,float,Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits,S0103
+S0103_C01_084E,int,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0103
+S0103_C01_085E,float,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0103
+S0103_C01_086E,float,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0103
+S0103_C01_087E,float,Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0103
+S0103_C01_088E,int,Total!!Estimate!!Occupied housing units,S0103
+S0103_C01_089E,float,Total!!Estimate!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units,S0103
+S0103_C01_090E,float,Total!!Estimate!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units,S0103
+S0103_C01_091E,float,Total!!Estimate!!Average household size of owner-occupied unit,S0103
+S0103_C01_092E,float,Total!!Estimate!!Average household size of renter-occupied unit,S0103
+S0103_C01_093E,float,Total!!Estimate!!SELECTED CHARACTERISTICS!!No telephone service available,S0103
+S0103_C01_094E,float,Total!!Estimate!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room,S0103
+S0103_C01_095E,int,Total!!Estimate!!Owner-occupied housing units,S0103
+S0103_C01_096E,float,Total!!Estimate!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C01_097E,float,Total!!Estimate!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C01_098E,int,Total!!Estimate!!OWNER CHARACTERISTICS!!Median value (dollars),S0103
+S0103_C01_099E,int,Total!!Estimate!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars),S0103
+S0103_C01_100E,int,Total!!Estimate!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars),S0103
+S0103_C01_101E,int,Total!!Estimate!!Renter-occupied housing units,S0103
+S0103_C01_102E,float,Total!!Estimate!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C01_103E,float,Total!!Estimate!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C01_104E,int,Total!!Estimate!!GROSS RENT!!Median gross rent (dollars),S0103
+S0103_C02_001E,int,65 years and over!!Estimate!!Total population,S0103
+S0103_C02_002E,float,65 years and over!!Estimate!!SEX AND AGE!!Male,S0103
+S0103_C02_003E,float,65 years and over!!Estimate!!SEX AND AGE!!Female,S0103
+S0103_C02_004E,float,65 years and over!!Estimate!!Median age (years),S0103
+S0103_C02_005E,float,65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0103
+S0103_C02_006E,float,65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0103
+S0103_C02_007E,float,65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0103
+S0103_C02_008E,float,65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0103
+S0103_C02_009E,float,65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0103
+S0103_C02_010E,float,65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0103
+S0103_C02_011E,float,65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0103
+S0103_C02_012E,float,65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0103
+S0103_C02_013E,float,65 years and over!!Estimate!!Hispanic or Latino origin (of any race),S0103
+S0103_C02_014E,float,"65 years and over!!Estimate!!White alone, not Hispanic or Latino",S0103
+S0103_C02_015E,int,65 years and over!!Estimate!!RELATIONSHIP!!Population in households,S0103
+S0103_C02_016E,float,65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Householder or spouse,S0103
+S0103_C02_017E,float,65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Parent,S0103
+S0103_C02_018E,float,65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Other relatives,S0103
+S0103_C02_019E,float,65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives,S0103
+S0103_C02_020E,float,65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0103
+S0103_C02_021E,int,65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households,S0103
+S0103_C02_022E,float,65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0103
+S0103_C02_023E,float,65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0103
+S0103_C02_024E,float,"65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0103
+S0103_C02_025E,float,65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0103
+S0103_C02_026E,float,65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone,S0103
+S0103_C02_027E,int,65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0103
+S0103_C02_028E,float,"65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0103
+S0103_C02_029E,float,65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0103
+S0103_C02_030E,float,65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0103
+S0103_C02_031E,float,65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S0103
+S0103_C02_032E,float,65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0103
+S0103_C02_033E,int,65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0103
+S0103_C02_034E,float,65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0103
+S0103_C02_035E,float,"65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative",S0103
+S0103_C02_036E,float,65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0103
+S0103_C02_037E,float,65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S0103
+S0103_C02_038E,int,65 years and over!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0103
+S0103_C02_039E,float,65 years and over!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren),S0103
+S0103_C02_040E,float,65 years and over!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren),S0103
+S0103_C02_041E,int,65 years and over!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S0103
+S0103_C02_042E,float,65 years and over!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0103
+S0103_C02_043E,int,65 years and over!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population,S0103
+S0103_C02_044E,float,65 years and over!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability,S0103
+S0103_C02_045E,float,65 years and over!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability,S0103
+S0103_C02_046E,int,65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0103
+S0103_C02_047E,float,65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0103
+S0103_C02_048E,float,65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States,S0103
+S0103_C02_049E,float,65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county,S0103
+S0103_C02_050E,float,65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county,S0103
+S0103_C02_051E,float,65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state,S0103
+S0103_C02_052E,float,65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state,S0103
+S0103_C02_053E,float,65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0103
+S0103_C02_054E,int,"65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S0103
+S0103_C02_055E,int,"65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S0103
+S0103_C02_056E,int,"65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S0103
+S0103_C02_057E,float,"65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later",S0103
+S0103_C02_058E,float,"65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009",S0103
+S0103_C02_059E,float,"65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000",S0103
+S0103_C02_060E,float,"65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S0103
+S0103_C02_061E,float,"65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S0103
+S0103_C02_062E,int,65 years and over!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0103
+S0103_C02_063E,float,65 years and over!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0103
+S0103_C02_064E,float,65 years and over!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0103
+S0103_C02_065E,float,"65 years and over!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0103
+S0103_C02_066E,int,65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S0103
+S0103_C02_067E,float,65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S0103
+S0103_C02_068E,float,65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S0103
+S0103_C02_069E,float,65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S0103
+S0103_C02_070E,float,65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed!!Percent of civilian labor force,S0103
+S0103_C02_071E,float,65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S0103
+S0103_C02_072E,int,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households,S0103
+S0103_C02_073E,float,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings,S0103
+S0103_C02_074E,int,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars),S0103
+S0103_C02_075E,float,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income,S0103
+S0103_C02_076E,int,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars),S0103
+S0103_C02_077E,float,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income,S0103
+S0103_C02_078E,int,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0103
+S0103_C02_079E,float,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income,S0103
+S0103_C02_080E,int,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars),S0103
+S0103_C02_081E,float,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income,S0103
+S0103_C02_082E,int,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars),S0103
+S0103_C02_083E,float,65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits,S0103
+S0103_C02_084E,int,65 years and over!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0103
+S0103_C02_085E,float,65 years and over!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0103
+S0103_C02_086E,float,65 years and over!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0103
+S0103_C02_087E,float,65 years and over!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0103
+S0103_C02_088E,int,65 years and over!!Estimate!!Occupied housing units,S0103
+S0103_C02_089E,float,65 years and over!!Estimate!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units,S0103
+S0103_C02_090E,float,65 years and over!!Estimate!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units,S0103
+S0103_C02_091E,float,65 years and over!!Estimate!!Average household size of owner-occupied unit,S0103
+S0103_C02_092E,float,65 years and over!!Estimate!!Average household size of renter-occupied unit,S0103
+S0103_C02_093E,float,65 years and over!!Estimate!!SELECTED CHARACTERISTICS!!No telephone service available,S0103
+S0103_C02_094E,float,65 years and over!!Estimate!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room,S0103
+S0103_C02_095E,int,65 years and over!!Estimate!!Owner-occupied housing units,S0103
+S0103_C02_096E,float,65 years and over!!Estimate!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C02_097E,float,65 years and over!!Estimate!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C02_098E,int,65 years and over!!Estimate!!OWNER CHARACTERISTICS!!Median value (dollars),S0103
+S0103_C02_099E,int,65 years and over!!Estimate!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars),S0103
+S0103_C02_100E,int,65 years and over!!Estimate!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars),S0103
+S0103_C02_101E,int,65 years and over!!Estimate!!Renter-occupied housing units,S0103
+S0103_C02_102E,float,65 years and over!!Estimate!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C02_103E,float,65 years and over!!Estimate!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C02_104E,int,65 years and over!!Estimate!!GROSS RENT!!Median gross rent (dollars),S0103
+S0103_C01_001M,int,Total!!Margin of Error!!Total population,S0103
+S0103_C01_002M,float,Total!!Margin of Error!!SEX AND AGE!!Male,S0103
+S0103_C01_003M,float,Total!!Margin of Error!!SEX AND AGE!!Female,S0103
+S0103_C01_004M,float,Total!!Margin of Error!!Median age (years),S0103
+S0103_C01_005M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0103
+S0103_C01_006M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0103
+S0103_C01_007M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0103
+S0103_C01_008M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0103
+S0103_C01_009M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0103
+S0103_C01_010M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0103
+S0103_C01_011M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0103
+S0103_C01_012M,float,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0103
+S0103_C01_013M,float,Total!!Margin of Error!!Hispanic or Latino origin (of any race),S0103
+S0103_C01_014M,float,"Total!!Margin of Error!!White alone, not Hispanic or Latino",S0103
+S0103_C01_015M,int,Total!!Margin of Error!!RELATIONSHIP!!Population in households,S0103
+S0103_C01_016M,float,Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Householder or spouse,S0103
+S0103_C01_017M,float,Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Parent,S0103
+S0103_C01_018M,float,Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Other relatives,S0103
+S0103_C01_019M,float,Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives,S0103
+S0103_C01_020M,float,Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0103
+S0103_C01_021M,int,Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households,S0103
+S0103_C01_022M,float,Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0103
+S0103_C01_023M,float,Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0103
+S0103_C01_024M,float,"Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0103
+S0103_C01_025M,float,Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0103
+S0103_C01_026M,float,Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone,S0103
+S0103_C01_027M,int,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0103
+S0103_C01_028M,float,"Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0103
+S0103_C01_029M,float,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0103
+S0103_C01_030M,float,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0103
+S0103_C01_031M,float,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S0103
+S0103_C01_032M,float,Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0103
+S0103_C01_033M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0103
+S0103_C01_034M,float,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0103
+S0103_C01_035M,float,"Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative",S0103
+S0103_C01_036M,float,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0103
+S0103_C01_037M,float,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S0103
+S0103_C01_038M,int,Total!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0103
+S0103_C01_039M,float,Total!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren),S0103
+S0103_C01_040M,float,Total!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren),S0103
+S0103_C01_041M,int,Total!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S0103
+S0103_C01_042M,float,Total!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0103
+S0103_C01_043M,int,Total!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population,S0103
+S0103_C01_044M,float,Total!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability,S0103
+S0103_C01_045M,float,Total!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability,S0103
+S0103_C01_046M,int,Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0103
+S0103_C01_047M,float,Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0103
+S0103_C01_048M,float,Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States,S0103
+S0103_C01_049M,float,Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county,S0103
+S0103_C01_050M,float,Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county,S0103
+S0103_C01_051M,float,Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state,S0103
+S0103_C01_052M,float,Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state,S0103
+S0103_C01_053M,float,Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0103
+S0103_C01_054M,int,"Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S0103
+S0103_C01_055M,int,"Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S0103
+S0103_C01_056M,int,"Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S0103
+S0103_C01_057M,float,"Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later",S0103
+S0103_C01_058M,float,"Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009",S0103
+S0103_C01_059M,float,"Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000",S0103
+S0103_C01_060M,float,"Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S0103
+S0103_C01_061M,float,"Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S0103
+S0103_C01_062M,int,Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0103
+S0103_C01_063M,float,Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0103
+S0103_C01_064M,float,Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0103
+S0103_C01_065M,float,"Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0103
+S0103_C01_066M,int,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S0103
+S0103_C01_067M,float,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S0103
+S0103_C01_068M,float,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S0103
+S0103_C01_069M,float,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S0103
+S0103_C01_070M,float,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed!!Percent of civilian labor force,S0103
+S0103_C01_071M,float,Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S0103
+S0103_C01_072M,int,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households,S0103
+S0103_C01_073M,float,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings,S0103
+S0103_C01_074M,int,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars),S0103
+S0103_C01_075M,float,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income,S0103
+S0103_C01_076M,int,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars),S0103
+S0103_C01_077M,float,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income,S0103
+S0103_C01_078M,int,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0103
+S0103_C01_079M,float,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income,S0103
+S0103_C01_080M,int,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars),S0103
+S0103_C01_081M,float,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income,S0103
+S0103_C01_082M,int,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars),S0103
+S0103_C01_083M,float,Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits,S0103
+S0103_C01_084M,int,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0103
+S0103_C01_085M,float,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0103
+S0103_C01_086M,float,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0103
+S0103_C01_087M,float,Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0103
+S0103_C01_088M,int,Total!!Margin of Error!!Occupied housing units,S0103
+S0103_C01_089M,float,Total!!Margin of Error!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units,S0103
+S0103_C01_090M,float,Total!!Margin of Error!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units,S0103
+S0103_C01_091M,float,Total!!Margin of Error!!Average household size of owner-occupied unit,S0103
+S0103_C01_092M,float,Total!!Margin of Error!!Average household size of renter-occupied unit,S0103
+S0103_C01_093M,float,Total!!Margin of Error!!SELECTED CHARACTERISTICS!!No telephone service available,S0103
+S0103_C01_094M,float,Total!!Margin of Error!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room,S0103
+S0103_C01_095M,int,Total!!Margin of Error!!Owner-occupied housing units,S0103
+S0103_C01_096M,float,Total!!Margin of Error!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C01_097M,float,Total!!Margin of Error!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C01_098M,int,Total!!Margin of Error!!OWNER CHARACTERISTICS!!Median value (dollars),S0103
+S0103_C01_099M,int,Total!!Margin of Error!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars),S0103
+S0103_C01_100M,int,Total!!Margin of Error!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars),S0103
+S0103_C01_101M,int,Total!!Margin of Error!!Renter-occupied housing units,S0103
+S0103_C01_102M,float,Total!!Margin of Error!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C01_103M,float,Total!!Margin of Error!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C01_104M,int,Total!!Margin of Error!!GROSS RENT!!Median gross rent (dollars),S0103
+S0103_C02_001M,int,65 years and over!!Margin of Error!!Total population,S0103
+S0103_C02_002M,float,65 years and over!!Margin of Error!!SEX AND AGE!!Male,S0103
+S0103_C02_003M,float,65 years and over!!Margin of Error!!SEX AND AGE!!Female,S0103
+S0103_C02_004M,float,65 years and over!!Margin of Error!!Median age (years),S0103
+S0103_C02_005M,float,65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0103
+S0103_C02_006M,float,65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0103
+S0103_C02_007M,float,65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0103
+S0103_C02_008M,float,65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0103
+S0103_C02_009M,float,65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0103
+S0103_C02_010M,float,65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0103
+S0103_C02_011M,float,65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0103
+S0103_C02_012M,float,65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0103
+S0103_C02_013M,float,65 years and over!!Margin of Error!!Hispanic or Latino origin (of any race),S0103
+S0103_C02_014M,float,"65 years and over!!Margin of Error!!White alone, not Hispanic or Latino",S0103
+S0103_C02_015M,int,65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households,S0103
+S0103_C02_016M,float,65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Householder or spouse,S0103
+S0103_C02_017M,float,65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Parent,S0103
+S0103_C02_018M,float,65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Other relatives,S0103
+S0103_C02_019M,float,65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives,S0103
+S0103_C02_020M,float,65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0103
+S0103_C02_021M,int,65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households,S0103
+S0103_C02_022M,float,65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0103
+S0103_C02_023M,float,65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0103
+S0103_C02_024M,float,"65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0103
+S0103_C02_025M,float,65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0103
+S0103_C02_026M,float,65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone,S0103
+S0103_C02_027M,int,65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0103
+S0103_C02_028M,float,"65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0103
+S0103_C02_029M,float,65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0103
+S0103_C02_030M,float,65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0103
+S0103_C02_031M,float,65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S0103
+S0103_C02_032M,float,65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0103
+S0103_C02_033M,int,65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0103
+S0103_C02_034M,float,65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0103
+S0103_C02_035M,float,"65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative",S0103
+S0103_C02_036M,float,65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0103
+S0103_C02_037M,float,65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S0103
+S0103_C02_038M,int,65 years and over!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0103
+S0103_C02_039M,float,65 years and over!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren),S0103
+S0103_C02_040M,float,65 years and over!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren),S0103
+S0103_C02_041M,int,65 years and over!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S0103
+S0103_C02_042M,float,65 years and over!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0103
+S0103_C02_043M,int,65 years and over!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population,S0103
+S0103_C02_044M,float,65 years and over!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability,S0103
+S0103_C02_045M,float,65 years and over!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability,S0103
+S0103_C02_046M,int,65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0103
+S0103_C02_047M,float,65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0103
+S0103_C02_048M,float,65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States,S0103
+S0103_C02_049M,float,65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county,S0103
+S0103_C02_050M,float,65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county,S0103
+S0103_C02_051M,float,65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state,S0103
+S0103_C02_052M,float,65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state,S0103
+S0103_C02_053M,float,65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0103
+S0103_C02_054M,int,"65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S0103
+S0103_C02_055M,int,"65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S0103
+S0103_C02_056M,int,"65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S0103
+S0103_C02_057M,float,"65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later",S0103
+S0103_C02_058M,float,"65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009",S0103
+S0103_C02_059M,float,"65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000",S0103
+S0103_C02_060M,float,"65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S0103
+S0103_C02_061M,float,"65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S0103
+S0103_C02_062M,int,65 years and over!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0103
+S0103_C02_063M,float,65 years and over!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0103
+S0103_C02_064M,float,65 years and over!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0103
+S0103_C02_065M,float,"65 years and over!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0103
+S0103_C02_066M,int,65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S0103
+S0103_C02_067M,float,65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S0103
+S0103_C02_068M,float,65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S0103
+S0103_C02_069M,float,65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S0103
+S0103_C02_070M,float,65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed!!Percent of civilian labor force,S0103
+S0103_C02_071M,float,65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S0103
+S0103_C02_072M,int,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households,S0103
+S0103_C02_073M,float,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings,S0103
+S0103_C02_074M,int,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars),S0103
+S0103_C02_075M,float,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income,S0103
+S0103_C02_076M,int,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars),S0103
+S0103_C02_077M,float,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income,S0103
+S0103_C02_078M,int,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0103
+S0103_C02_079M,float,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income,S0103
+S0103_C02_080M,int,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars),S0103
+S0103_C02_081M,float,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income,S0103
+S0103_C02_082M,int,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars),S0103
+S0103_C02_083M,float,65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits,S0103
+S0103_C02_084M,int,65 years and over!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0103
+S0103_C02_085M,float,65 years and over!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0103
+S0103_C02_086M,float,65 years and over!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0103
+S0103_C02_087M,float,65 years and over!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0103
+S0103_C02_088M,int,65 years and over!!Margin of Error!!Occupied housing units,S0103
+S0103_C02_089M,float,65 years and over!!Margin of Error!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units,S0103
+S0103_C02_090M,float,65 years and over!!Margin of Error!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units,S0103
+S0103_C02_091M,float,65 years and over!!Margin of Error!!Average household size of owner-occupied unit,S0103
+S0103_C02_092M,float,65 years and over!!Margin of Error!!Average household size of renter-occupied unit,S0103
+S0103_C02_093M,float,65 years and over!!Margin of Error!!SELECTED CHARACTERISTICS!!No telephone service available,S0103
+S0103_C02_094M,float,65 years and over!!Margin of Error!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room,S0103
+S0103_C02_095M,int,65 years and over!!Margin of Error!!Owner-occupied housing units,S0103
+S0103_C02_096M,float,65 years and over!!Margin of Error!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C02_097M,float,65 years and over!!Margin of Error!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C02_098M,int,65 years and over!!Margin of Error!!OWNER CHARACTERISTICS!!Median value (dollars),S0103
+S0103_C02_099M,int,65 years and over!!Margin of Error!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars),S0103
+S0103_C02_100M,int,65 years and over!!Margin of Error!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars),S0103
+S0103_C02_101M,int,65 years and over!!Margin of Error!!Renter-occupied housing units,S0103
+S0103_C02_102M,float,65 years and over!!Margin of Error!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C02_103M,float,65 years and over!!Margin of Error!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C02_104M,int,65 years and over!!Margin of Error!!GROSS RENT!!Median gross rent (dollars),S0103
+S0103_C01_001EA,string,Annotation of Total!!Estimate!!Total population,S0103
+S0103_C01_001MA,string,Annotation of Total!!Margin of Error!!Total population,S0103
+S0103_C01_002EA,string,Annotation of Total!!Estimate!!SEX AND AGE!!Male,S0103
+S0103_C01_002MA,string,Annotation of Total!!Margin of Error!!SEX AND AGE!!Male,S0103
+S0103_C01_003EA,string,Annotation of Total!!Estimate!!SEX AND AGE!!Female,S0103
+S0103_C01_003MA,string,Annotation of Total!!Margin of Error!!SEX AND AGE!!Female,S0103
+S0103_C01_004EA,string,Annotation of Total!!Estimate!!Median age (years),S0103
+S0103_C01_004MA,string,Annotation of Total!!Margin of Error!!Median age (years),S0103
+S0103_C01_005EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0103
+S0103_C01_005MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0103
+S0103_C01_006EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0103
+S0103_C01_006MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0103
+S0103_C01_007EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0103
+S0103_C01_007MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0103
+S0103_C01_008EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0103
+S0103_C01_008MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0103
+S0103_C01_009EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0103
+S0103_C01_009MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0103
+S0103_C01_010EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0103
+S0103_C01_010MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0103
+S0103_C01_011EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0103
+S0103_C01_011MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0103
+S0103_C01_012EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0103
+S0103_C01_012MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0103
+S0103_C01_013EA,string,Annotation of Total!!Estimate!!Hispanic or Latino origin (of any race),S0103
+S0103_C01_013MA,string,Annotation of Total!!Margin of Error!!Hispanic or Latino origin (of any race),S0103
+S0103_C01_014EA,string,"Annotation of Total!!Estimate!!White alone, not Hispanic or Latino",S0103
+S0103_C01_014MA,string,"Annotation of Total!!Margin of Error!!White alone, not Hispanic or Latino",S0103
+S0103_C01_015EA,string,Annotation of Total!!Estimate!!RELATIONSHIP!!Population in households,S0103
+S0103_C01_015MA,string,Annotation of Total!!Margin of Error!!RELATIONSHIP!!Population in households,S0103
+S0103_C01_016EA,string,Annotation of Total!!Estimate!!RELATIONSHIP!!Population in households!!Householder or spouse,S0103
+S0103_C01_016MA,string,Annotation of Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Householder or spouse,S0103
+S0103_C01_017EA,string,Annotation of Total!!Estimate!!RELATIONSHIP!!Population in households!!Parent,S0103
+S0103_C01_017MA,string,Annotation of Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Parent,S0103
+S0103_C01_018EA,string,Annotation of Total!!Estimate!!RELATIONSHIP!!Population in households!!Other relatives,S0103
+S0103_C01_018MA,string,Annotation of Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Other relatives,S0103
+S0103_C01_019EA,string,Annotation of Total!!Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives,S0103
+S0103_C01_019MA,string,Annotation of Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives,S0103
+S0103_C01_020EA,string,Annotation of Total!!Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0103
+S0103_C01_020MA,string,Annotation of Total!!Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0103
+S0103_C01_021EA,string,Annotation of Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households,S0103
+S0103_C01_021MA,string,Annotation of Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households,S0103
+S0103_C01_022EA,string,Annotation of Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0103
+S0103_C01_022MA,string,Annotation of Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0103
+S0103_C01_023EA,string,Annotation of Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0103
+S0103_C01_023MA,string,Annotation of Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0103
+S0103_C01_024EA,string,"Annotation of Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0103
+S0103_C01_024MA,string,"Annotation of Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0103
+S0103_C01_025EA,string,Annotation of Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0103
+S0103_C01_025MA,string,Annotation of Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0103
+S0103_C01_026EA,string,Annotation of Total!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone,S0103
+S0103_C01_026MA,string,Annotation of Total!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone,S0103
+S0103_C01_027EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0103
+S0103_C01_027MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0103
+S0103_C01_028EA,string,"Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0103
+S0103_C01_028MA,string,"Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0103
+S0103_C01_029EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0103
+S0103_C01_029MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0103
+S0103_C01_030EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0103
+S0103_C01_030MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0103
+S0103_C01_031EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S0103
+S0103_C01_031MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S0103
+S0103_C01_032EA,string,Annotation of Total!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0103
+S0103_C01_032MA,string,Annotation of Total!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0103
+S0103_C01_033EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0103
+S0103_C01_033MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0103
+S0103_C01_034EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0103
+S0103_C01_034MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0103
+S0103_C01_035EA,string,"Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative",S0103
+S0103_C01_035MA,string,"Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative",S0103
+S0103_C01_036EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0103
+S0103_C01_036MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0103
+S0103_C01_037EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S0103
+S0103_C01_037MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S0103
+S0103_C01_038EA,string,Annotation of Total!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0103
+S0103_C01_038MA,string,Annotation of Total!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0103
+S0103_C01_039EA,string,Annotation of Total!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren),S0103
+S0103_C01_039MA,string,Annotation of Total!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren),S0103
+S0103_C01_040EA,string,Annotation of Total!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren),S0103
+S0103_C01_040MA,string,Annotation of Total!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren),S0103
+S0103_C01_041EA,string,Annotation of Total!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S0103
+S0103_C01_041MA,string,Annotation of Total!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S0103
+S0103_C01_042EA,string,Annotation of Total!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0103
+S0103_C01_042MA,string,Annotation of Total!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0103
+S0103_C01_043EA,string,Annotation of Total!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population,S0103
+S0103_C01_043MA,string,Annotation of Total!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population,S0103
+S0103_C01_044EA,string,Annotation of Total!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability,S0103
+S0103_C01_044MA,string,Annotation of Total!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability,S0103
+S0103_C01_045EA,string,Annotation of Total!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability,S0103
+S0103_C01_045MA,string,Annotation of Total!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability,S0103
+S0103_C01_046EA,string,Annotation of Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0103
+S0103_C01_046MA,string,Annotation of Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0103
+S0103_C01_047EA,string,Annotation of Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0103
+S0103_C01_047MA,string,Annotation of Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0103
+S0103_C01_048EA,string,Annotation of Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States,S0103
+S0103_C01_048MA,string,Annotation of Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States,S0103
+S0103_C01_049EA,string,Annotation of Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county,S0103
+S0103_C01_049MA,string,Annotation of Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county,S0103
+S0103_C01_050EA,string,Annotation of Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county,S0103
+S0103_C01_050MA,string,Annotation of Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county,S0103
+S0103_C01_051EA,string,Annotation of Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state,S0103
+S0103_C01_051MA,string,Annotation of Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state,S0103
+S0103_C01_052EA,string,Annotation of Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state,S0103
+S0103_C01_052MA,string,Annotation of Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state,S0103
+S0103_C01_053EA,string,Annotation of Total!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0103
+S0103_C01_053MA,string,Annotation of Total!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0103
+S0103_C01_054EA,string,"Annotation of Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S0103
+S0103_C01_054MA,string,"Annotation of Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S0103
+S0103_C01_055EA,string,"Annotation of Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S0103
+S0103_C01_055MA,string,"Annotation of Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S0103
+S0103_C01_056EA,string,"Annotation of Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S0103
+S0103_C01_056MA,string,"Annotation of Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S0103
+S0103_C01_057EA,string,"Annotation of Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later",S0103
+S0103_C01_057MA,string,"Annotation of Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later",S0103
+S0103_C01_058EA,string,"Annotation of Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009",S0103
+S0103_C01_058MA,string,"Annotation of Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009",S0103
+S0103_C01_059EA,string,"Annotation of Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000",S0103
+S0103_C01_059MA,string,"Annotation of Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000",S0103
+S0103_C01_060EA,string,"Annotation of Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S0103
+S0103_C01_060MA,string,"Annotation of Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S0103
+S0103_C01_061EA,string,"Annotation of Total!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S0103
+S0103_C01_061MA,string,"Annotation of Total!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S0103
+S0103_C01_062EA,string,Annotation of Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0103
+S0103_C01_062MA,string,Annotation of Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0103
+S0103_C01_063EA,string,Annotation of Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0103
+S0103_C01_063MA,string,Annotation of Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0103
+S0103_C01_064EA,string,Annotation of Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0103
+S0103_C01_064MA,string,Annotation of Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0103
+S0103_C01_065EA,string,"Annotation of Total!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0103
+S0103_C01_065MA,string,"Annotation of Total!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0103
+S0103_C01_066EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S0103
+S0103_C01_066MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S0103
+S0103_C01_067EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S0103
+S0103_C01_067MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S0103
+S0103_C01_068EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S0103
+S0103_C01_068MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S0103
+S0103_C01_069EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S0103
+S0103_C01_069MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S0103
+S0103_C01_070EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed!!Percent of civilian labor force,S0103
+S0103_C01_070MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed!!Percent of civilian labor force,S0103
+S0103_C01_071EA,string,Annotation of Total!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S0103
+S0103_C01_071MA,string,Annotation of Total!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S0103
+S0103_C01_072EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households,S0103
+S0103_C01_072MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households,S0103
+S0103_C01_073EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings,S0103
+S0103_C01_073MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings,S0103
+S0103_C01_074EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars),S0103
+S0103_C01_074MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars),S0103
+S0103_C01_075EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income,S0103
+S0103_C01_075MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income,S0103
+S0103_C01_076EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars),S0103
+S0103_C01_076MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars),S0103
+S0103_C01_077EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income,S0103
+S0103_C01_077MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income,S0103
+S0103_C01_078EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0103
+S0103_C01_078MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0103
+S0103_C01_079EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income,S0103
+S0103_C01_079MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income,S0103
+S0103_C01_080EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars),S0103
+S0103_C01_080MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars),S0103
+S0103_C01_081EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income,S0103
+S0103_C01_081MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income,S0103
+S0103_C01_082EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars),S0103
+S0103_C01_082MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars),S0103
+S0103_C01_083EA,string,Annotation of Total!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits,S0103
+S0103_C01_083MA,string,Annotation of Total!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits,S0103
+S0103_C01_084EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0103
+S0103_C01_084MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0103
+S0103_C01_085EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0103
+S0103_C01_085MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0103
+S0103_C01_086EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0103
+S0103_C01_086MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0103
+S0103_C01_087EA,string,Annotation of Total!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0103
+S0103_C01_087MA,string,Annotation of Total!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0103
+S0103_C01_088EA,string,Annotation of Total!!Estimate!!Occupied housing units,S0103
+S0103_C01_088MA,string,Annotation of Total!!Margin of Error!!Occupied housing units,S0103
+S0103_C01_089EA,string,Annotation of Total!!Estimate!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units,S0103
+S0103_C01_089MA,string,Annotation of Total!!Margin of Error!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units,S0103
+S0103_C01_090EA,string,Annotation of Total!!Estimate!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units,S0103
+S0103_C01_090MA,string,Annotation of Total!!Margin of Error!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units,S0103
+S0103_C01_091EA,string,Annotation of Total!!Estimate!!Average household size of owner-occupied unit,S0103
+S0103_C01_091MA,string,Annotation of Total!!Margin of Error!!Average household size of owner-occupied unit,S0103
+S0103_C01_092EA,string,Annotation of Total!!Estimate!!Average household size of renter-occupied unit,S0103
+S0103_C01_092MA,string,Annotation of Total!!Margin of Error!!Average household size of renter-occupied unit,S0103
+S0103_C01_093EA,string,Annotation of Total!!Estimate!!SELECTED CHARACTERISTICS!!No telephone service available,S0103
+S0103_C01_093MA,string,Annotation of Total!!Margin of Error!!SELECTED CHARACTERISTICS!!No telephone service available,S0103
+S0103_C01_094EA,string,Annotation of Total!!Estimate!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room,S0103
+S0103_C01_094MA,string,Annotation of Total!!Margin of Error!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room,S0103
+S0103_C01_095EA,string,Annotation of Total!!Estimate!!Owner-occupied housing units,S0103
+S0103_C01_095MA,string,Annotation of Total!!Margin of Error!!Owner-occupied housing units,S0103
+S0103_C01_096EA,string,Annotation of Total!!Estimate!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C01_096MA,string,Annotation of Total!!Margin of Error!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C01_097EA,string,Annotation of Total!!Estimate!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C01_097MA,string,Annotation of Total!!Margin of Error!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C01_098EA,string,Annotation of Total!!Estimate!!OWNER CHARACTERISTICS!!Median value (dollars),S0103
+S0103_C01_098MA,string,Annotation of Total!!Margin of Error!!OWNER CHARACTERISTICS!!Median value (dollars),S0103
+S0103_C01_099EA,string,Annotation of Total!!Estimate!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars),S0103
+S0103_C01_099MA,string,Annotation of Total!!Margin of Error!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars),S0103
+S0103_C01_100EA,string,Annotation of Total!!Estimate!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars),S0103
+S0103_C01_100MA,string,Annotation of Total!!Margin of Error!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars),S0103
+S0103_C01_101EA,string,Annotation of Total!!Estimate!!Renter-occupied housing units,S0103
+S0103_C01_101MA,string,Annotation of Total!!Margin of Error!!Renter-occupied housing units,S0103
+S0103_C01_102EA,string,Annotation of Total!!Estimate!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C01_102MA,string,Annotation of Total!!Margin of Error!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C01_103EA,string,Annotation of Total!!Estimate!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C01_103MA,string,Annotation of Total!!Margin of Error!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C01_104EA,string,Annotation of Total!!Estimate!!GROSS RENT!!Median gross rent (dollars),S0103
+S0103_C01_104MA,string,Annotation of Total!!Margin of Error!!GROSS RENT!!Median gross rent (dollars),S0103
+S0103_C02_001EA,string,Annotation of 65 years and over!!Estimate!!Total population,S0103
+S0103_C02_001MA,string,Annotation of 65 years and over!!Margin of Error!!Total population,S0103
+S0103_C02_002EA,string,Annotation of 65 years and over!!Estimate!!SEX AND AGE!!Male,S0103
+S0103_C02_002MA,string,Annotation of 65 years and over!!Margin of Error!!SEX AND AGE!!Male,S0103
+S0103_C02_003EA,string,Annotation of 65 years and over!!Estimate!!SEX AND AGE!!Female,S0103
+S0103_C02_003MA,string,Annotation of 65 years and over!!Margin of Error!!SEX AND AGE!!Female,S0103
+S0103_C02_004EA,string,Annotation of 65 years and over!!Estimate!!Median age (years),S0103
+S0103_C02_004MA,string,Annotation of 65 years and over!!Margin of Error!!Median age (years),S0103
+S0103_C02_005EA,string,Annotation of 65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0103
+S0103_C02_005MA,string,Annotation of 65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S0103
+S0103_C02_006EA,string,Annotation of 65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0103
+S0103_C02_006MA,string,Annotation of 65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S0103
+S0103_C02_007EA,string,Annotation of 65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0103
+S0103_C02_007MA,string,Annotation of 65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S0103
+S0103_C02_008EA,string,Annotation of 65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0103
+S0103_C02_008MA,string,Annotation of 65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S0103
+S0103_C02_009EA,string,Annotation of 65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0103
+S0103_C02_009MA,string,Annotation of 65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S0103
+S0103_C02_010EA,string,Annotation of 65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0103
+S0103_C02_010MA,string,Annotation of 65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S0103
+S0103_C02_011EA,string,Annotation of 65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0103
+S0103_C02_011MA,string,Annotation of 65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S0103
+S0103_C02_012EA,string,Annotation of 65 years and over!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0103
+S0103_C02_012MA,string,Annotation of 65 years and over!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S0103
+S0103_C02_013EA,string,Annotation of 65 years and over!!Estimate!!Hispanic or Latino origin (of any race),S0103
+S0103_C02_013MA,string,Annotation of 65 years and over!!Margin of Error!!Hispanic or Latino origin (of any race),S0103
+S0103_C02_014EA,string,"Annotation of 65 years and over!!Estimate!!White alone, not Hispanic or Latino",S0103
+S0103_C02_014MA,string,"Annotation of 65 years and over!!Margin of Error!!White alone, not Hispanic or Latino",S0103
+S0103_C02_015EA,string,Annotation of 65 years and over!!Estimate!!RELATIONSHIP!!Population in households,S0103
+S0103_C02_015MA,string,Annotation of 65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households,S0103
+S0103_C02_016EA,string,Annotation of 65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Householder or spouse,S0103
+S0103_C02_016MA,string,Annotation of 65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Householder or spouse,S0103
+S0103_C02_017EA,string,Annotation of 65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Parent,S0103
+S0103_C02_017MA,string,Annotation of 65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Parent,S0103
+S0103_C02_018EA,string,Annotation of 65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Other relatives,S0103
+S0103_C02_018MA,string,Annotation of 65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Other relatives,S0103
+S0103_C02_019EA,string,Annotation of 65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives,S0103
+S0103_C02_019MA,string,Annotation of 65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives,S0103
+S0103_C02_020EA,string,Annotation of 65 years and over!!Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0103
+S0103_C02_020MA,string,Annotation of 65 years and over!!Margin of Error!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,S0103
+S0103_C02_021EA,string,Annotation of 65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households,S0103
+S0103_C02_021MA,string,Annotation of 65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households,S0103
+S0103_C02_022EA,string,Annotation of 65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0103
+S0103_C02_022MA,string,Annotation of 65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households,S0103
+S0103_C02_023EA,string,Annotation of 65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0103
+S0103_C02_023MA,string,Annotation of 65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Married-couple family,S0103
+S0103_C02_024EA,string,"Annotation of 65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0103
+S0103_C02_024MA,string,"Annotation of 65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Family households!!Female householder, no husband present, family",S0103
+S0103_C02_025EA,string,Annotation of 65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0103
+S0103_C02_025MA,string,Annotation of 65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households,S0103
+S0103_C02_026EA,string,Annotation of 65 years and over!!Estimate!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone,S0103
+S0103_C02_026MA,string,Annotation of 65 years and over!!Margin of Error!!HOUSEHOLDS BY TYPE!!Households!!Nonfamily households!!Householder living alone,S0103
+S0103_C02_027EA,string,Annotation of 65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over,S0103
+S0103_C02_027MA,string,Annotation of 65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S0103
+S0103_C02_028EA,string,"Annotation of 65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0103
+S0103_C02_028MA,string,"Annotation of 65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S0103
+S0103_C02_029EA,string,Annotation of 65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0103
+S0103_C02_029MA,string,Annotation of 65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S0103
+S0103_C02_030EA,string,Annotation of 65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0103
+S0103_C02_030MA,string,Annotation of 65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S0103
+S0103_C02_031EA,string,Annotation of 65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S0103
+S0103_C02_031MA,string,Annotation of 65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S0103
+S0103_C02_032EA,string,Annotation of 65 years and over!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S0103
+S0103_C02_032MA,string,Annotation of 65 years and over!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S0103
+S0103_C02_033EA,string,Annotation of 65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0103
+S0103_C02_033MA,string,Annotation of 65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S0103
+S0103_C02_034EA,string,Annotation of 65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0103
+S0103_C02_034MA,string,Annotation of 65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than high school graduate,S0103
+S0103_C02_035EA,string,"Annotation of 65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative",S0103
+S0103_C02_035MA,string,"Annotation of 65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate, GED, or alternative",S0103
+S0103_C02_036EA,string,Annotation of 65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0103
+S0103_C02_036MA,string,Annotation of 65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college or associate's degree,S0103
+S0103_C02_037EA,string,Annotation of 65 years and over!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S0103
+S0103_C02_037MA,string,Annotation of 65 years and over!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,S0103
+S0103_C02_038EA,string,Annotation of 65 years and over!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0103
+S0103_C02_038MA,string,Annotation of 65 years and over!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over,S0103
+S0103_C02_039EA,string,Annotation of 65 years and over!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren),S0103
+S0103_C02_039MA,string,Annotation of 65 years and over!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren),S0103
+S0103_C02_040EA,string,Annotation of 65 years and over!!Estimate!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren),S0103
+S0103_C02_040MA,string,Annotation of 65 years and over!!Margin of Error!!RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS!!Population 30 years and over!!Living with grandchild(ren)!!Responsible for grandchild(ren),S0103
+S0103_C02_041EA,string,Annotation of 65 years and over!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S0103
+S0103_C02_041MA,string,Annotation of 65 years and over!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S0103
+S0103_C02_042EA,string,Annotation of 65 years and over!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0103
+S0103_C02_042MA,string,Annotation of 65 years and over!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S0103
+S0103_C02_043EA,string,Annotation of 65 years and over!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population,S0103
+S0103_C02_043MA,string,Annotation of 65 years and over!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population,S0103
+S0103_C02_044EA,string,Annotation of 65 years and over!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability,S0103
+S0103_C02_044MA,string,Annotation of 65 years and over!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population!!With any disability,S0103
+S0103_C02_045EA,string,Annotation of 65 years and over!!Estimate!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability,S0103
+S0103_C02_045MA,string,Annotation of 65 years and over!!Margin of Error!!DISABILITY STATUS!!Civilian noninstitutionalized population!!No disability,S0103
+S0103_C02_046EA,string,Annotation of 65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0103
+S0103_C02_046MA,string,Annotation of 65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S0103
+S0103_C02_047EA,string,Annotation of 65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0103
+S0103_C02_047MA,string,Annotation of 65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,S0103
+S0103_C02_048EA,string,Annotation of 65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States,S0103
+S0103_C02_048MA,string,Annotation of 65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States,S0103
+S0103_C02_049EA,string,Annotation of 65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county,S0103
+S0103_C02_049MA,string,Annotation of 65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Same county,S0103
+S0103_C02_050EA,string,Annotation of 65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county,S0103
+S0103_C02_050MA,string,Annotation of 65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county,S0103
+S0103_C02_051EA,string,Annotation of 65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state,S0103
+S0103_C02_051MA,string,Annotation of 65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Same state,S0103
+S0103_C02_052EA,string,Annotation of 65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state,S0103
+S0103_C02_052MA,string,Annotation of 65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the United States!!Different county!!Different state,S0103
+S0103_C02_053EA,string,Annotation of 65 years and over!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0103
+S0103_C02_053MA,string,Annotation of 65 years and over!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S0103
+S0103_C02_054EA,string,"Annotation of 65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S0103
+S0103_C02_054MA,string,"Annotation of 65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S0103
+S0103_C02_055EA,string,"Annotation of 65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S0103
+S0103_C02_055MA,string,"Annotation of 65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S0103
+S0103_C02_056EA,string,"Annotation of 65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S0103
+S0103_C02_056MA,string,"Annotation of 65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S0103
+S0103_C02_057EA,string,"Annotation of 65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later",S0103
+S0103_C02_057MA,string,"Annotation of 65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2010 or later",S0103
+S0103_C02_058EA,string,"Annotation of 65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009",S0103
+S0103_C02_058MA,string,"Annotation of 65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered 2000 to 2009",S0103
+S0103_C02_059EA,string,"Annotation of 65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000",S0103
+S0103_C02_059MA,string,"Annotation of 65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Entered before 2000",S0103
+S0103_C02_060EA,string,"Annotation of 65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S0103
+S0103_C02_060MA,string,"Annotation of 65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S0103
+S0103_C02_061EA,string,"Annotation of 65 years and over!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S0103
+S0103_C02_061MA,string,"Annotation of 65 years and over!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S0103
+S0103_C02_062EA,string,Annotation of 65 years and over!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0103
+S0103_C02_062MA,string,Annotation of 65 years and over!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S0103
+S0103_C02_063EA,string,Annotation of 65 years and over!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0103
+S0103_C02_063MA,string,Annotation of 65 years and over!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S0103
+S0103_C02_064EA,string,Annotation of 65 years and over!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0103
+S0103_C02_064MA,string,Annotation of 65 years and over!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S0103
+S0103_C02_065EA,string,"Annotation of 65 years and over!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0103
+S0103_C02_065MA,string,"Annotation of 65 years and over!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",S0103
+S0103_C02_066EA,string,Annotation of 65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S0103
+S0103_C02_066MA,string,Annotation of 65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over,S0103
+S0103_C02_067EA,string,Annotation of 65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S0103
+S0103_C02_067MA,string,Annotation of 65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force,S0103
+S0103_C02_068EA,string,Annotation of 65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S0103
+S0103_C02_068MA,string,Annotation of 65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Employed,S0103
+S0103_C02_069EA,string,Annotation of 65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S0103
+S0103_C02_069MA,string,Annotation of 65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed,S0103
+S0103_C02_070EA,string,Annotation of 65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed!!Percent of civilian labor force,S0103
+S0103_C02_070MA,string,Annotation of 65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!In labor force!!Unemployed!!Percent of civilian labor force,S0103
+S0103_C02_071EA,string,Annotation of 65 years and over!!Estimate!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S0103
+S0103_C02_071MA,string,Annotation of 65 years and over!!Margin of Error!!EMPLOYMENT STATUS!!Civilian population 16 years and over!!Not in labor force,S0103
+S0103_C02_072EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households,S0103
+S0103_C02_072MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households,S0103
+S0103_C02_073EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings,S0103
+S0103_C02_073MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings,S0103
+S0103_C02_074EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars),S0103
+S0103_C02_074MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With earnings!!Mean earnings (dollars),S0103
+S0103_C02_075EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income,S0103
+S0103_C02_075MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income,S0103
+S0103_C02_076EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars),S0103
+S0103_C02_076MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Social Security income!!Mean Social Security income (dollars),S0103
+S0103_C02_077EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income,S0103
+S0103_C02_077MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income,S0103
+S0103_C02_078EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0103
+S0103_C02_078MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),S0103
+S0103_C02_079EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income,S0103
+S0103_C02_079MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income,S0103
+S0103_C02_080EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars),S0103
+S0103_C02_080MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With cash public assistance income!!Mean cash public assistance income (dollars),S0103
+S0103_C02_081EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income,S0103
+S0103_C02_081MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income,S0103
+S0103_C02_082EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars),S0103
+S0103_C02_082MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With retirement income!!Mean retirement income (dollars),S0103
+S0103_C02_083EA,string,Annotation of 65 years and over!!Estimate!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits,S0103
+S0103_C02_083MA,string,Annotation of 65 years and over!!Margin of Error!!INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Households!!With Food Stamp/SNAP benefits,S0103
+S0103_C02_084EA,string,Annotation of 65 years and over!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0103
+S0103_C02_084MA,string,Annotation of 65 years and over!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined,S0103
+S0103_C02_085EA,string,Annotation of 65 years and over!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0103
+S0103_C02_085MA,string,Annotation of 65 years and over!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!Below 100 percent of the poverty level,S0103
+S0103_C02_086EA,string,Annotation of 65 years and over!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0103
+S0103_C02_086MA,string,Annotation of 65 years and over!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!100 to 149 percent of the poverty level,S0103
+S0103_C02_087EA,string,Annotation of 65 years and over!!Estimate!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0103
+S0103_C02_087MA,string,Annotation of 65 years and over!!Margin of Error!!POVERTY STATUS IN THE PAST 12 MONTHS!!Population for whom poverty status is determined!!At or above 150 percent of the poverty level,S0103
+S0103_C02_088EA,string,Annotation of 65 years and over!!Estimate!!Occupied housing units,S0103
+S0103_C02_088MA,string,Annotation of 65 years and over!!Margin of Error!!Occupied housing units,S0103
+S0103_C02_089EA,string,Annotation of 65 years and over!!Estimate!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units,S0103
+S0103_C02_089MA,string,Annotation of 65 years and over!!Margin of Error!!Occupied housing units!!HOUSING TENURE!!Owner-occupied housing units,S0103
+S0103_C02_090EA,string,Annotation of 65 years and over!!Estimate!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units,S0103
+S0103_C02_090MA,string,Annotation of 65 years and over!!Margin of Error!!Occupied housing units!!HOUSING TENURE!!Renter-occupied housing units,S0103
+S0103_C02_091EA,string,Annotation of 65 years and over!!Estimate!!Average household size of owner-occupied unit,S0103
+S0103_C02_091MA,string,Annotation of 65 years and over!!Margin of Error!!Average household size of owner-occupied unit,S0103
+S0103_C02_092EA,string,Annotation of 65 years and over!!Estimate!!Average household size of renter-occupied unit,S0103
+S0103_C02_092MA,string,Annotation of 65 years and over!!Margin of Error!!Average household size of renter-occupied unit,S0103
+S0103_C02_093EA,string,Annotation of 65 years and over!!Estimate!!SELECTED CHARACTERISTICS!!No telephone service available,S0103
+S0103_C02_093MA,string,Annotation of 65 years and over!!Margin of Error!!SELECTED CHARACTERISTICS!!No telephone service available,S0103
+S0103_C02_094EA,string,Annotation of 65 years and over!!Estimate!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room,S0103
+S0103_C02_094MA,string,Annotation of 65 years and over!!Margin of Error!!SELECTED CHARACTERISTICS!!1.01 or more occupants per room,S0103
+S0103_C02_095EA,string,Annotation of 65 years and over!!Estimate!!Owner-occupied housing units,S0103
+S0103_C02_095MA,string,Annotation of 65 years and over!!Margin of Error!!Owner-occupied housing units,S0103
+S0103_C02_096EA,string,Annotation of 65 years and over!!Estimate!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C02_096MA,string,Annotation of 65 years and over!!Margin of Error!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C02_097EA,string,Annotation of 65 years and over!!Estimate!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C02_097MA,string,Annotation of 65 years and over!!Margin of Error!!Owner-occupied housing units!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C02_098EA,string,Annotation of 65 years and over!!Estimate!!OWNER CHARACTERISTICS!!Median value (dollars),S0103
+S0103_C02_098MA,string,Annotation of 65 years and over!!Margin of Error!!OWNER CHARACTERISTICS!!Median value (dollars),S0103
+S0103_C02_099EA,string,Annotation of 65 years and over!!Estimate!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars),S0103
+S0103_C02_099MA,string,Annotation of 65 years and over!!Margin of Error!!OWNER CHARACTERISTICS!!Median selected monthly owner costs with a mortgage (dollars),S0103
+S0103_C02_100EA,string,Annotation of 65 years and over!!Estimate!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars),S0103
+S0103_C02_100MA,string,Annotation of 65 years and over!!Margin of Error!!OWNER CHARACTERISTICS!!Median selected monthly owner costs without a mortgage (dollars),S0103
+S0103_C02_101EA,string,Annotation of 65 years and over!!Estimate!!Renter-occupied housing units,S0103
+S0103_C02_101MA,string,Annotation of 65 years and over!!Margin of Error!!Renter-occupied housing units,S0103
+S0103_C02_102EA,string,Annotation of 65 years and over!!Estimate!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C02_102MA,string,Annotation of 65 years and over!!Margin of Error!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 30 percent,S0103
+S0103_C02_103EA,string,Annotation of 65 years and over!!Estimate!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C02_103MA,string,Annotation of 65 years and over!!Margin of Error!!Renter-occupied housing units!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!30 percent or more,S0103
+S0103_C02_104EA,string,Annotation of 65 years and over!!Estimate!!GROSS RENT!!Median gross rent (dollars),S0103
+S0103_C02_104MA,string,Annotation of 65 years and over!!Margin of Error!!GROSS RENT!!Median gross rent (dollars),S0103

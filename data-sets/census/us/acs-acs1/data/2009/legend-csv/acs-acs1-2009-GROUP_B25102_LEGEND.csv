@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25102_001E,int,Estimate!!Total,B25102
+B25102_002E,int,Estimate!!Total!!With a mortgage,B25102
+B25102_003E,int,Estimate!!Total!!With a mortgage!!Less than $800,B25102
+B25102_004E,int,"Estimate!!Total!!With a mortgage!!$800 to $1,499",B25102
+B25102_005E,int,"Estimate!!Total!!With a mortgage!!$1,500 or more",B25102
+B25102_006E,int,Estimate!!Total!!With a mortgage!!No real estate taxes paid,B25102
+B25102_007E,int,Estimate!!Total!!Not mortgaged,B25102
+B25102_008E,int,Estimate!!Total!!Not mortgaged!!Less than $800,B25102
+B25102_009E,int,"Estimate!!Total!!Not mortgaged!!$800 to $1,499",B25102
+B25102_010E,int,"Estimate!!Total!!Not mortgaged!!$1,500 or more",B25102
+B25102_011E,int,Estimate!!Total!!Not mortgaged!!No real estate taxes paid,B25102
+B25102_001M,int,Margin of Error!!Total,B25102
+B25102_002M,int,Margin of Error!!Total!!With a mortgage,B25102
+B25102_003M,int,Margin of Error!!Total!!With a mortgage!!Less than $800,B25102
+B25102_004M,int,"Margin of Error!!Total!!With a mortgage!!$800 to $1,499",B25102
+B25102_005M,int,"Margin of Error!!Total!!With a mortgage!!$1,500 or more",B25102
+B25102_006M,int,Margin of Error!!Total!!With a mortgage!!No real estate taxes paid,B25102
+B25102_007M,int,Margin of Error!!Total!!Not mortgaged,B25102
+B25102_008M,int,Margin of Error!!Total!!Not mortgaged!!Less than $800,B25102
+B25102_009M,int,"Margin of Error!!Total!!Not mortgaged!!$800 to $1,499",B25102
+B25102_010M,int,"Margin of Error!!Total!!Not mortgaged!!$1,500 or more",B25102
+B25102_011M,int,Margin of Error!!Total!!Not mortgaged!!No real estate taxes paid,B25102
+B25102_001EA,string,Annotation of Estimate!!Total,B25102
+B25102_001MA,string,Annotation of Margin of Error!!Total,B25102
+B25102_002EA,string,Annotation of Estimate!!Total!!With a mortgage,B25102
+B25102_002MA,string,Annotation of Margin of Error!!Total!!With a mortgage,B25102
+B25102_003EA,string,Annotation of Estimate!!Total!!With a mortgage!!Less than $800,B25102
+B25102_003MA,string,Annotation of Margin of Error!!Total!!With a mortgage!!Less than $800,B25102
+B25102_004EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$800 to $1,499",B25102
+B25102_004MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$800 to $1,499",B25102
+B25102_005EA,string,"Annotation of Estimate!!Total!!With a mortgage!!$1,500 or more",B25102
+B25102_005MA,string,"Annotation of Margin of Error!!Total!!With a mortgage!!$1,500 or more",B25102
+B25102_006EA,string,Annotation of Estimate!!Total!!With a mortgage!!No real estate taxes paid,B25102
+B25102_006MA,string,Annotation of Margin of Error!!Total!!With a mortgage!!No real estate taxes paid,B25102
+B25102_007EA,string,Annotation of Estimate!!Total!!Not mortgaged,B25102
+B25102_007MA,string,Annotation of Margin of Error!!Total!!Not mortgaged,B25102
+B25102_008EA,string,Annotation of Estimate!!Total!!Not mortgaged!!Less than $800,B25102
+B25102_008MA,string,Annotation of Margin of Error!!Total!!Not mortgaged!!Less than $800,B25102
+B25102_009EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$800 to $1,499",B25102
+B25102_009MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$800 to $1,499",B25102
+B25102_010EA,string,"Annotation of Estimate!!Total!!Not mortgaged!!$1,500 or more",B25102
+B25102_010MA,string,"Annotation of Margin of Error!!Total!!Not mortgaged!!$1,500 or more",B25102
+B25102_011EA,string,Annotation of Estimate!!Total!!Not mortgaged!!No real estate taxes paid,B25102
+B25102_011MA,string,Annotation of Margin of Error!!Total!!Not mortgaged!!No real estate taxes paid,B25102

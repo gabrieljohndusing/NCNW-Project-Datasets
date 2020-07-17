@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25082_001E,int,Estimate!!Aggregate value (dollars),B25082
+B25082_002E,int,Estimate!!Aggregate value (dollars)!!Housing units with a mortgage (dollars),B25082
+B25082_003E,int,Estimate!!Aggregate value (dollars)!!Housing units without a mortgage (dollars),B25082
+B25082_001M,int,Margin of Error!!Aggregate value (dollars),B25082
+B25082_002M,int,Margin of Error!!Aggregate value (dollars)!!Housing units with a mortgage (dollars),B25082
+B25082_003M,int,Margin of Error!!Aggregate value (dollars)!!Housing units without a mortgage (dollars),B25082
+B25082_001EA,string,Annotation of Estimate!!Aggregate value (dollars),B25082
+B25082_001MA,string,Annotation of Margin of Error!!Aggregate value (dollars),B25082
+B25082_002EA,string,Annotation of Estimate!!Aggregate value (dollars)!!Housing units with a mortgage (dollars),B25082
+B25082_002MA,string,Annotation of Margin of Error!!Aggregate value (dollars)!!Housing units with a mortgage (dollars),B25082
+B25082_003EA,string,Annotation of Estimate!!Aggregate value (dollars)!!Housing units without a mortgage (dollars),B25082
+B25082_003MA,string,Annotation of Margin of Error!!Aggregate value (dollars)!!Housing units without a mortgage (dollars),B25082

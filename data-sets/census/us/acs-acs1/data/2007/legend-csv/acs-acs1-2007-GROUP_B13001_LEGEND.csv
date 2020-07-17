@@ -1,0 +1,37 @@
+VARIABLE,TYPE,LABEL,GROUP
+B13001_001E,int,Estimate!!Total,B13001
+B13001_002E,int,Estimate!!Total!!Now married (including spouse absent),B13001
+B13001_003E,int,Estimate!!Total!!Now married (including spouse absent)!!15 to 19 years,B13001
+B13001_004E,int,Estimate!!Total!!Now married (including spouse absent)!!20 to 34 years,B13001
+B13001_005E,int,Estimate!!Total!!Now married (including spouse absent)!!35 to 50 years,B13001
+B13001_006E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)",B13001
+B13001_007E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!15 to 19 years",B13001
+B13001_008E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!20 to 34 years",B13001
+B13001_009E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!35 to 50 years",B13001
+B13001_001M,int,Margin of Error!!Total,B13001
+B13001_002M,int,Margin of Error!!Total!!Now married (including spouse absent),B13001
+B13001_003M,int,Margin of Error!!Total!!Now married (including spouse absent)!!15 to 19 years,B13001
+B13001_004M,int,Margin of Error!!Total!!Now married (including spouse absent)!!20 to 34 years,B13001
+B13001_005M,int,Margin of Error!!Total!!Now married (including spouse absent)!!35 to 50 years,B13001
+B13001_006M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)",B13001
+B13001_007M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!15 to 19 years",B13001
+B13001_008M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!20 to 34 years",B13001
+B13001_009M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!35 to 50 years",B13001
+B13001_001EA,string,Annotation of Estimate!!Total,B13001
+B13001_001MA,string,Annotation of Margin of Error!!Total,B13001
+B13001_002EA,string,Annotation of Estimate!!Total!!Now married (including spouse absent),B13001
+B13001_002MA,string,Annotation of Margin of Error!!Total!!Now married (including spouse absent),B13001
+B13001_003EA,string,Annotation of Estimate!!Total!!Now married (including spouse absent)!!15 to 19 years,B13001
+B13001_003MA,string,Annotation of Margin of Error!!Total!!Now married (including spouse absent)!!15 to 19 years,B13001
+B13001_004EA,string,Annotation of Estimate!!Total!!Now married (including spouse absent)!!20 to 34 years,B13001
+B13001_004MA,string,Annotation of Margin of Error!!Total!!Now married (including spouse absent)!!20 to 34 years,B13001
+B13001_005EA,string,Annotation of Estimate!!Total!!Now married (including spouse absent)!!35 to 50 years,B13001
+B13001_005MA,string,Annotation of Margin of Error!!Total!!Now married (including spouse absent)!!35 to 50 years,B13001
+B13001_006EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)",B13001
+B13001_006MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)",B13001
+B13001_007EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!15 to 19 years",B13001
+B13001_007MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!15 to 19 years",B13001
+B13001_008EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!20 to 34 years",B13001
+B13001_008MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!20 to 34 years",B13001
+B13001_009EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!35 to 50 years",B13001
+B13001_009MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!35 to 50 years",B13001

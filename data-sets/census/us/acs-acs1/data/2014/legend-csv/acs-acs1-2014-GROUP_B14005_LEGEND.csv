@@ -1,0 +1,117 @@
+VARIABLE,TYPE,LABEL,GROUP
+B14005_001E,int,Estimate!!Total,B14005
+B14005_002E,int,Estimate!!Total!!Male,B14005
+B14005_003E,int,Estimate!!Total!!Male!!Enrolled in school,B14005
+B14005_004E,int,Estimate!!Total!!Male!!Enrolled in school!!Employed,B14005
+B14005_005E,int,Estimate!!Total!!Male!!Enrolled in school!!Unemployed,B14005
+B14005_006E,int,Estimate!!Total!!Male!!Enrolled in school!!Not in labor force,B14005
+B14005_007E,int,Estimate!!Total!!Male!!Not enrolled in school,B14005
+B14005_008E,int,Estimate!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency),B14005
+B14005_009E,int,Estimate!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Employed,B14005
+B14005_010E,int,Estimate!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Unemployed,B14005
+B14005_011E,int,Estimate!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Not in labor force,B14005
+B14005_012E,int,Estimate!!Total!!Male!!Not enrolled in school!!Not high school graduate,B14005
+B14005_013E,int,Estimate!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Employed,B14005
+B14005_014E,int,Estimate!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Unemployed,B14005
+B14005_015E,int,Estimate!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Not in labor force,B14005
+B14005_016E,int,Estimate!!Total!!Female,B14005
+B14005_017E,int,Estimate!!Total!!Female!!Enrolled in school,B14005
+B14005_018E,int,Estimate!!Total!!Female!!Enrolled in school!!Employed,B14005
+B14005_019E,int,Estimate!!Total!!Female!!Enrolled in school!!Unemployed,B14005
+B14005_020E,int,Estimate!!Total!!Female!!Enrolled in school!!Not in labor force,B14005
+B14005_021E,int,Estimate!!Total!!Female!!Not enrolled in school,B14005
+B14005_022E,int,Estimate!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency),B14005
+B14005_023E,int,Estimate!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Employed,B14005
+B14005_024E,int,Estimate!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Unemployed,B14005
+B14005_025E,int,Estimate!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Not in labor force,B14005
+B14005_026E,int,Estimate!!Total!!Female!!Not enrolled in school!!Not high school graduate,B14005
+B14005_027E,int,Estimate!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Employed,B14005
+B14005_028E,int,Estimate!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Unemployed,B14005
+B14005_029E,int,Estimate!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Not in labor force,B14005
+B14005_001M,int,Margin of Error!!Total,B14005
+B14005_002M,int,Margin of Error!!Total!!Male,B14005
+B14005_003M,int,Margin of Error!!Total!!Male!!Enrolled in school,B14005
+B14005_004M,int,Margin of Error!!Total!!Male!!Enrolled in school!!Employed,B14005
+B14005_005M,int,Margin of Error!!Total!!Male!!Enrolled in school!!Unemployed,B14005
+B14005_006M,int,Margin of Error!!Total!!Male!!Enrolled in school!!Not in labor force,B14005
+B14005_007M,int,Margin of Error!!Total!!Male!!Not enrolled in school,B14005
+B14005_008M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency),B14005
+B14005_009M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Employed,B14005
+B14005_010M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Unemployed,B14005
+B14005_011M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Not in labor force,B14005
+B14005_012M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!Not high school graduate,B14005
+B14005_013M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Employed,B14005
+B14005_014M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Unemployed,B14005
+B14005_015M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Not in labor force,B14005
+B14005_016M,int,Margin of Error!!Total!!Female,B14005
+B14005_017M,int,Margin of Error!!Total!!Female!!Enrolled in school,B14005
+B14005_018M,int,Margin of Error!!Total!!Female!!Enrolled in school!!Employed,B14005
+B14005_019M,int,Margin of Error!!Total!!Female!!Enrolled in school!!Unemployed,B14005
+B14005_020M,int,Margin of Error!!Total!!Female!!Enrolled in school!!Not in labor force,B14005
+B14005_021M,int,Margin of Error!!Total!!Female!!Not enrolled in school,B14005
+B14005_022M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency),B14005
+B14005_023M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Employed,B14005
+B14005_024M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Unemployed,B14005
+B14005_025M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Not in labor force,B14005
+B14005_026M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!Not high school graduate,B14005
+B14005_027M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Employed,B14005
+B14005_028M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Unemployed,B14005
+B14005_029M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Not in labor force,B14005
+B14005_001EA,string,Annotation of Estimate!!Total,B14005
+B14005_001MA,string,Annotation of Margin of Error!!Total,B14005
+B14005_002EA,string,Annotation of Estimate!!Total!!Male,B14005
+B14005_002MA,string,Annotation of Margin of Error!!Total!!Male,B14005
+B14005_003EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in school,B14005
+B14005_003MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in school,B14005
+B14005_004EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in school!!Employed,B14005
+B14005_004MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in school!!Employed,B14005
+B14005_005EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in school!!Unemployed,B14005
+B14005_005MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in school!!Unemployed,B14005
+B14005_006EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in school!!Not in labor force,B14005
+B14005_006MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in school!!Not in labor force,B14005
+B14005_007EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school,B14005
+B14005_007MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school,B14005
+B14005_008EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency),B14005
+B14005_008MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency),B14005
+B14005_009EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Employed,B14005
+B14005_009MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Employed,B14005
+B14005_010EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Unemployed,B14005
+B14005_010MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Unemployed,B14005
+B14005_011EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Not in labor force,B14005
+B14005_011MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!High school graduate (includes equivalency)!!Not in labor force,B14005
+B14005_012EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!Not high school graduate,B14005
+B14005_012MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!Not high school graduate,B14005
+B14005_013EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Employed,B14005
+B14005_013MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Employed,B14005
+B14005_014EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Unemployed,B14005
+B14005_014MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Unemployed,B14005
+B14005_015EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Not in labor force,B14005
+B14005_015MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!Not high school graduate!!Not in labor force,B14005
+B14005_016EA,string,Annotation of Estimate!!Total!!Female,B14005
+B14005_016MA,string,Annotation of Margin of Error!!Total!!Female,B14005
+B14005_017EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in school,B14005
+B14005_017MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in school,B14005
+B14005_018EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in school!!Employed,B14005
+B14005_018MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in school!!Employed,B14005
+B14005_019EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in school!!Unemployed,B14005
+B14005_019MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in school!!Unemployed,B14005
+B14005_020EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in school!!Not in labor force,B14005
+B14005_020MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in school!!Not in labor force,B14005
+B14005_021EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school,B14005
+B14005_021MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school,B14005
+B14005_022EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency),B14005
+B14005_022MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency),B14005
+B14005_023EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Employed,B14005
+B14005_023MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Employed,B14005
+B14005_024EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Unemployed,B14005
+B14005_024MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Unemployed,B14005
+B14005_025EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Not in labor force,B14005
+B14005_025MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!High school graduate (includes equivalency)!!Not in labor force,B14005
+B14005_026EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!Not high school graduate,B14005
+B14005_026MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!Not high school graduate,B14005
+B14005_027EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Employed,B14005
+B14005_027MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Employed,B14005
+B14005_028EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Unemployed,B14005
+B14005_028MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Unemployed,B14005
+B14005_029EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Not in labor force,B14005
+B14005_029MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!Not high school graduate!!Not in labor force,B14005

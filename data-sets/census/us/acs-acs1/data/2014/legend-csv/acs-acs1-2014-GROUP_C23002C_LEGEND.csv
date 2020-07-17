@@ -1,0 +1,109 @@
+VARIABLE,TYPE,LABEL,GROUP
+C23002C_001E,int,Estimate!!Total,C23002C
+C23002C_002E,int,Estimate!!Total!!Male,C23002C
+C23002C_003E,int,Estimate!!Total!!Male!!16 to 64 years,C23002C
+C23002C_004E,int,Estimate!!Total!!Male!!16 to 64 years!!In labor force,C23002C
+C23002C_005E,int,Estimate!!Total!!Male!!16 to 64 years!!In labor force!!In Armed Forces,C23002C
+C23002C_006E,int,Estimate!!Total!!Male!!16 to 64 years!!In labor force!!Civilian,C23002C
+C23002C_007E,int,Estimate!!Total!!Male!!16 to 64 years!!In labor force!!Civilian!!Employed,C23002C
+C23002C_008E,int,Estimate!!Total!!Male!!16 to 64 years!!In labor force!!Civilian!!Unemployed,C23002C
+C23002C_009E,int,Estimate!!Total!!Male!!16 to 64 years!!Not in labor force,C23002C
+C23002C_010E,int,Estimate!!Total!!Male!!65 years and over,C23002C
+C23002C_011E,int,Estimate!!Total!!Male!!65 years and over!!In labor force,C23002C
+C23002C_012E,int,Estimate!!Total!!Male!!65 years and over!!In labor force!!Employed,C23002C
+C23002C_013E,int,Estimate!!Total!!Male!!65 years and over!!In labor force!!Unemployed,C23002C
+C23002C_014E,int,Estimate!!Total!!Male!!65 years and over!!Not in labor force,C23002C
+C23002C_015E,int,Estimate!!Total!!Female,C23002C
+C23002C_016E,int,Estimate!!Total!!Female!!16 to 64 years,C23002C
+C23002C_017E,int,Estimate!!Total!!Female!!16 to 64 years!!In labor force,C23002C
+C23002C_018E,int,Estimate!!Total!!Female!!16 to 64 years!!In labor force!!In Armed Forces,C23002C
+C23002C_019E,int,Estimate!!Total!!Female!!16 to 64 years!!In labor force!!Civilian,C23002C
+C23002C_020E,int,Estimate!!Total!!Female!!16 to 64 years!!In labor force!!Civilian!!Employed,C23002C
+C23002C_021E,int,Estimate!!Total!!Female!!16 to 64 years!!In labor force!!Civilian!!Unemployed,C23002C
+C23002C_022E,int,Estimate!!Total!!Female!!16 to 64 years!!Not in labor force,C23002C
+C23002C_023E,int,Estimate!!Total!!Female!!65 years and over,C23002C
+C23002C_024E,int,Estimate!!Total!!Female!!65 years and over!!In labor force,C23002C
+C23002C_025E,int,Estimate!!Total!!Female!!65 years and over!!In labor force!!Employed,C23002C
+C23002C_026E,int,Estimate!!Total!!Female!!65 years and over!!In labor force!!Unemployed,C23002C
+C23002C_027E,int,Estimate!!Total!!Female!!65 years and over!!Not in labor force,C23002C
+C23002C_001M,int,Margin of Error!!Total,C23002C
+C23002C_002M,int,Margin of Error!!Total!!Male,C23002C
+C23002C_003M,int,Margin of Error!!Total!!Male!!16 to 64 years,C23002C
+C23002C_004M,int,Margin of Error!!Total!!Male!!16 to 64 years!!In labor force,C23002C
+C23002C_005M,int,Margin of Error!!Total!!Male!!16 to 64 years!!In labor force!!In Armed Forces,C23002C
+C23002C_006M,int,Margin of Error!!Total!!Male!!16 to 64 years!!In labor force!!Civilian,C23002C
+C23002C_007M,int,Margin of Error!!Total!!Male!!16 to 64 years!!In labor force!!Civilian!!Employed,C23002C
+C23002C_008M,int,Margin of Error!!Total!!Male!!16 to 64 years!!In labor force!!Civilian!!Unemployed,C23002C
+C23002C_009M,int,Margin of Error!!Total!!Male!!16 to 64 years!!Not in labor force,C23002C
+C23002C_010M,int,Margin of Error!!Total!!Male!!65 years and over,C23002C
+C23002C_011M,int,Margin of Error!!Total!!Male!!65 years and over!!In labor force,C23002C
+C23002C_012M,int,Margin of Error!!Total!!Male!!65 years and over!!In labor force!!Employed,C23002C
+C23002C_013M,int,Margin of Error!!Total!!Male!!65 years and over!!In labor force!!Unemployed,C23002C
+C23002C_014M,int,Margin of Error!!Total!!Male!!65 years and over!!Not in labor force,C23002C
+C23002C_015M,int,Margin of Error!!Total!!Female,C23002C
+C23002C_016M,int,Margin of Error!!Total!!Female!!16 to 64 years,C23002C
+C23002C_017M,int,Margin of Error!!Total!!Female!!16 to 64 years!!In labor force,C23002C
+C23002C_018M,int,Margin of Error!!Total!!Female!!16 to 64 years!!In labor force!!In Armed Forces,C23002C
+C23002C_019M,int,Margin of Error!!Total!!Female!!16 to 64 years!!In labor force!!Civilian,C23002C
+C23002C_020M,int,Margin of Error!!Total!!Female!!16 to 64 years!!In labor force!!Civilian!!Employed,C23002C
+C23002C_021M,int,Margin of Error!!Total!!Female!!16 to 64 years!!In labor force!!Civilian!!Unemployed,C23002C
+C23002C_022M,int,Margin of Error!!Total!!Female!!16 to 64 years!!Not in labor force,C23002C
+C23002C_023M,int,Margin of Error!!Total!!Female!!65 years and over,C23002C
+C23002C_024M,int,Margin of Error!!Total!!Female!!65 years and over!!In labor force,C23002C
+C23002C_025M,int,Margin of Error!!Total!!Female!!65 years and over!!In labor force!!Employed,C23002C
+C23002C_026M,int,Margin of Error!!Total!!Female!!65 years and over!!In labor force!!Unemployed,C23002C
+C23002C_027M,int,Margin of Error!!Total!!Female!!65 years and over!!Not in labor force,C23002C
+C23002C_001EA,string,Annotation of Estimate!!Total,C23002C
+C23002C_001MA,string,Annotation of Margin of Error!!Total,C23002C
+C23002C_002EA,string,Annotation of Estimate!!Total!!Male,C23002C
+C23002C_002MA,string,Annotation of Margin of Error!!Total!!Male,C23002C
+C23002C_003EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years,C23002C
+C23002C_003MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years,C23002C
+C23002C_004EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!In labor force,C23002C
+C23002C_004MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!In labor force,C23002C
+C23002C_005EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!In labor force!!In Armed Forces,C23002C
+C23002C_005MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!In labor force!!In Armed Forces,C23002C
+C23002C_006EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!In labor force!!Civilian,C23002C
+C23002C_006MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!In labor force!!Civilian,C23002C
+C23002C_007EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!In labor force!!Civilian!!Employed,C23002C
+C23002C_007MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!In labor force!!Civilian!!Employed,C23002C
+C23002C_008EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!In labor force!!Civilian!!Unemployed,C23002C
+C23002C_008MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!In labor force!!Civilian!!Unemployed,C23002C
+C23002C_009EA,string,Annotation of Estimate!!Total!!Male!!16 to 64 years!!Not in labor force,C23002C
+C23002C_009MA,string,Annotation of Margin of Error!!Total!!Male!!16 to 64 years!!Not in labor force,C23002C
+C23002C_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C23002C
+C23002C_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C23002C
+C23002C_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!In labor force,C23002C
+C23002C_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!In labor force,C23002C
+C23002C_012EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!In labor force!!Employed,C23002C
+C23002C_012MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!In labor force!!Employed,C23002C
+C23002C_013EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!In labor force!!Unemployed,C23002C
+C23002C_013MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!In labor force!!Unemployed,C23002C
+C23002C_014EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!Not in labor force,C23002C
+C23002C_014MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!Not in labor force,C23002C
+C23002C_015EA,string,Annotation of Estimate!!Total!!Female,C23002C
+C23002C_015MA,string,Annotation of Margin of Error!!Total!!Female,C23002C
+C23002C_016EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years,C23002C
+C23002C_016MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years,C23002C
+C23002C_017EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!In labor force,C23002C
+C23002C_017MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!In labor force,C23002C
+C23002C_018EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!In labor force!!In Armed Forces,C23002C
+C23002C_018MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!In labor force!!In Armed Forces,C23002C
+C23002C_019EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!In labor force!!Civilian,C23002C
+C23002C_019MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!In labor force!!Civilian,C23002C
+C23002C_020EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!In labor force!!Civilian!!Employed,C23002C
+C23002C_020MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!In labor force!!Civilian!!Employed,C23002C
+C23002C_021EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!In labor force!!Civilian!!Unemployed,C23002C
+C23002C_021MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!In labor force!!Civilian!!Unemployed,C23002C
+C23002C_022EA,string,Annotation of Estimate!!Total!!Female!!16 to 64 years!!Not in labor force,C23002C
+C23002C_022MA,string,Annotation of Margin of Error!!Total!!Female!!16 to 64 years!!Not in labor force,C23002C
+C23002C_023EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C23002C
+C23002C_023MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C23002C
+C23002C_024EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!In labor force,C23002C
+C23002C_024MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!In labor force,C23002C
+C23002C_025EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!In labor force!!Employed,C23002C
+C23002C_025MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!In labor force!!Employed,C23002C
+C23002C_026EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!In labor force!!Unemployed,C23002C
+C23002C_026MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!In labor force!!Unemployed,C23002C
+C23002C_027EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!Not in labor force,C23002C
+C23002C_027MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!Not in labor force,C23002C

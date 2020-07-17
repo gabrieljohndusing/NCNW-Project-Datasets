@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+B06002PR_001E,float,Estimate!!Median age!!Total,B06002PR
+B06002PR_002E,float,Estimate!!Median age!!Total!!Born in Puerto Rico,B06002PR
+B06002PR_003E,float,Estimate!!Median age!!Total!!Born in the United States,B06002PR
+B06002PR_004E,float,Estimate!!Median age!!Total!!Native; born elsewhere,B06002PR
+B06002PR_005E,float,Estimate!!Median age!!Total!!Foreign born,B06002PR
+B06002PR_001M,float,Margin of Error!!Median age!!Total,B06002PR
+B06002PR_002M,float,Margin of Error!!Median age!!Total!!Born in Puerto Rico,B06002PR
+B06002PR_003M,float,Margin of Error!!Median age!!Total!!Born in the United States,B06002PR
+B06002PR_004M,float,Margin of Error!!Median age!!Total!!Native; born elsewhere,B06002PR
+B06002PR_005M,float,Margin of Error!!Median age!!Total!!Foreign born,B06002PR
+B06002PR_001EA,string,Annotation of Estimate!!Median age!!Total,B06002PR
+B06002PR_001MA,string,Annotation of Margin of Error!!Median age!!Total,B06002PR
+B06002PR_002EA,string,Annotation of Estimate!!Median age!!Total!!Born in Puerto Rico,B06002PR
+B06002PR_002MA,string,Annotation of Margin of Error!!Median age!!Total!!Born in Puerto Rico,B06002PR
+B06002PR_003EA,string,Annotation of Estimate!!Median age!!Total!!Born in the United States,B06002PR
+B06002PR_003MA,string,Annotation of Margin of Error!!Median age!!Total!!Born in the United States,B06002PR
+B06002PR_004EA,string,Annotation of Estimate!!Median age!!Total!!Native; born elsewhere,B06002PR
+B06002PR_004MA,string,Annotation of Margin of Error!!Median age!!Total!!Native; born elsewhere,B06002PR
+B06002PR_005EA,string,Annotation of Estimate!!Median age!!Total!!Foreign born,B06002PR
+B06002PR_005MA,string,Annotation of Margin of Error!!Median age!!Total!!Foreign born,B06002PR

@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+C05009_001E,int,Estimate!!Total,C05009
+C05009_002E,int,Estimate!!Total!!Under 6 years,C05009
+C05009_003E,int,Estimate!!Total!!Under 6 years!!Child is native,C05009
+C05009_004E,int,Estimate!!Total!!Under 6 years!!Child is foreign born,C05009
+C05009_005E,int,Estimate!!Total!!Under 6 years!!Only native parent(s),C05009
+C05009_006E,int,Estimate!!Total!!Under 6 years!!One or more foreign-born parent,C05009
+C05009_007E,int,Estimate!!Total!!Under 6 years!!One or more foreign-born parent!!Child is native,C05009
+C05009_008E,int,Estimate!!Total!!Under 6 years!!One or more foreign-born parent!!Child is foreign born,C05009
+C05009_009E,int,Estimate!!Total!!6 to 17 years,C05009
+C05009_010E,int,Estimate!!Total!!6 to 17 years!!Child is native,C05009
+C05009_011E,int,Estimate!!Total!!6 to 17 years!!Child is foreign born,C05009
+C05009_012E,int,Estimate!!Total!!6 to 17 years!!Only native parent(s),C05009
+C05009_013E,int,Estimate!!Total!!6 to 17 years!!One or more foreign-born parent,C05009
+C05009_014E,int,Estimate!!Total!!6 to 17 years!!One or more foreign-born parent!!Child is native,C05009
+C05009_015E,int,Estimate!!Total!!6 to 17 years!!One or more foreign-born parent!!Child is foreign born,C05009
+C05009_001M,int,Margin of Error!!Total,C05009
+C05009_002M,int,Margin of Error!!Total!!Under 6 years,C05009
+C05009_003M,int,Margin of Error!!Total!!Under 6 years!!Child is native,C05009
+C05009_004M,int,Margin of Error!!Total!!Under 6 years!!Child is foreign born,C05009
+C05009_005M,int,Margin of Error!!Total!!Under 6 years!!Only native parent(s),C05009
+C05009_006M,int,Margin of Error!!Total!!Under 6 years!!One or more foreign-born parent,C05009
+C05009_007M,int,Margin of Error!!Total!!Under 6 years!!One or more foreign-born parent!!Child is native,C05009
+C05009_008M,int,Margin of Error!!Total!!Under 6 years!!One or more foreign-born parent!!Child is foreign born,C05009
+C05009_009M,int,Margin of Error!!Total!!6 to 17 years,C05009
+C05009_010M,int,Margin of Error!!Total!!6 to 17 years!!Child is native,C05009
+C05009_011M,int,Margin of Error!!Total!!6 to 17 years!!Child is foreign born,C05009
+C05009_012M,int,Margin of Error!!Total!!6 to 17 years!!Only native parent(s),C05009
+C05009_013M,int,Margin of Error!!Total!!6 to 17 years!!One or more foreign-born parent,C05009
+C05009_014M,int,Margin of Error!!Total!!6 to 17 years!!One or more foreign-born parent!!Child is native,C05009
+C05009_015M,int,Margin of Error!!Total!!6 to 17 years!!One or more foreign-born parent!!Child is foreign born,C05009
+C05009_001EA,string,Annotation of Estimate!!Total,C05009
+C05009_001MA,string,Annotation of Margin of Error!!Total,C05009
+C05009_002EA,string,Annotation of Estimate!!Total!!Under 6 years,C05009
+C05009_002MA,string,Annotation of Margin of Error!!Total!!Under 6 years,C05009
+C05009_003EA,string,Annotation of Estimate!!Total!!Under 6 years!!Child is native,C05009
+C05009_003MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!Child is native,C05009
+C05009_004EA,string,Annotation of Estimate!!Total!!Under 6 years!!Child is foreign born,C05009
+C05009_004MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!Child is foreign born,C05009
+C05009_005EA,string,Annotation of Estimate!!Total!!Under 6 years!!Only native parent(s),C05009
+C05009_005MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!Only native parent(s),C05009
+C05009_006EA,string,Annotation of Estimate!!Total!!Under 6 years!!One or more foreign-born parent,C05009
+C05009_006MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!One or more foreign-born parent,C05009
+C05009_007EA,string,Annotation of Estimate!!Total!!Under 6 years!!One or more foreign-born parent!!Child is native,C05009
+C05009_007MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!One or more foreign-born parent!!Child is native,C05009
+C05009_008EA,string,Annotation of Estimate!!Total!!Under 6 years!!One or more foreign-born parent!!Child is foreign born,C05009
+C05009_008MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!One or more foreign-born parent!!Child is foreign born,C05009
+C05009_009EA,string,Annotation of Estimate!!Total!!6 to 17 years,C05009
+C05009_009MA,string,Annotation of Margin of Error!!Total!!6 to 17 years,C05009
+C05009_010EA,string,Annotation of Estimate!!Total!!6 to 17 years!!Child is native,C05009
+C05009_010MA,string,Annotation of Margin of Error!!Total!!6 to 17 years!!Child is native,C05009
+C05009_011EA,string,Annotation of Estimate!!Total!!6 to 17 years!!Child is foreign born,C05009
+C05009_011MA,string,Annotation of Margin of Error!!Total!!6 to 17 years!!Child is foreign born,C05009
+C05009_012EA,string,Annotation of Estimate!!Total!!6 to 17 years!!Only native parent(s),C05009
+C05009_012MA,string,Annotation of Margin of Error!!Total!!6 to 17 years!!Only native parent(s),C05009
+C05009_013EA,string,Annotation of Estimate!!Total!!6 to 17 years!!One or more foreign-born parent,C05009
+C05009_013MA,string,Annotation of Margin of Error!!Total!!6 to 17 years!!One or more foreign-born parent,C05009
+C05009_014EA,string,Annotation of Estimate!!Total!!6 to 17 years!!One or more foreign-born parent!!Child is native,C05009
+C05009_014MA,string,Annotation of Margin of Error!!Total!!6 to 17 years!!One or more foreign-born parent!!Child is native,C05009
+C05009_015EA,string,Annotation of Estimate!!Total!!6 to 17 years!!One or more foreign-born parent!!Child is foreign born,C05009
+C05009_015MA,string,Annotation of Margin of Error!!Total!!6 to 17 years!!One or more foreign-born parent!!Child is foreign born,C05009

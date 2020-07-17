@@ -1,0 +1,117 @@
+VARIABLE,TYPE,LABEL,GROUP
+C16005_001E,int,Estimate!!Total,C16005
+C16005_002E,int,Estimate!!Total!!Native,C16005
+C16005_003E,int,Estimate!!Total!!Native!!Speak only English,C16005
+C16005_004E,int,Estimate!!Total!!Native!!Speak Spanish,C16005
+C16005_005E,int,"Estimate!!Total!!Native!!Speak Spanish!!Speak English ""very well""",C16005
+C16005_006E,int,"Estimate!!Total!!Native!!Speak Spanish!!Speak English less than ""very well""",C16005
+C16005_007E,int,Estimate!!Total!!Native!!Speak other Indo-European languages,C16005
+C16005_008E,int,"Estimate!!Total!!Native!!Speak other Indo-European languages!!Speak English ""very well""",C16005
+C16005_009E,int,"Estimate!!Total!!Native!!Speak other Indo-European languages!!Speak English less than ""very well""",C16005
+C16005_010E,int,Estimate!!Total!!Native!!Speak Asian or Pacific Island languages,C16005
+C16005_011E,int,"Estimate!!Total!!Native!!Speak Asian or Pacific Island languages!!Speak English ""very well""",C16005
+C16005_012E,int,"Estimate!!Total!!Native!!Speak Asian or Pacific Island languages!!Speak English less than ""very well""",C16005
+C16005_013E,int,Estimate!!Total!!Native!!Speak other languages,C16005
+C16005_014E,int,"Estimate!!Total!!Native!!Speak other languages!!Speak English ""very well""",C16005
+C16005_015E,int,"Estimate!!Total!!Native!!Speak other languages!!Speak English less than ""very well""",C16005
+C16005_016E,int,Estimate!!Total!!Foreign born,C16005
+C16005_017E,int,Estimate!!Total!!Foreign born!!Speak only English,C16005
+C16005_018E,int,Estimate!!Total!!Foreign born!!Speak Spanish,C16005
+C16005_019E,int,"Estimate!!Total!!Foreign born!!Speak Spanish!!Speak English ""very well""",C16005
+C16005_020E,int,"Estimate!!Total!!Foreign born!!Speak Spanish!!Speak English less than ""very well""",C16005
+C16005_021E,int,Estimate!!Total!!Foreign born!!Speak other Indo-European languages,C16005
+C16005_022E,int,"Estimate!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English ""very well""",C16005
+C16005_023E,int,"Estimate!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English less than ""very well""",C16005
+C16005_024E,int,Estimate!!Total!!Foreign born!!Speak Asian or Pacific Island languages,C16005
+C16005_025E,int,"Estimate!!Total!!Foreign born!!Speak Asian or Pacific Island languages!!Speak English ""very well""",C16005
+C16005_026E,int,"Estimate!!Total!!Foreign born!!Speak Asian or Pacific Island languages!!Speak English less than ""very well""",C16005
+C16005_027E,int,Estimate!!Total!!Foreign born!!Speak other languages,C16005
+C16005_028E,int,"Estimate!!Total!!Foreign born!!Speak other languages!!Speak English ""very well""",C16005
+C16005_029E,int,"Estimate!!Total!!Foreign born!!Speak other languages!!Speak English less than ""very well""",C16005
+C16005_001M,int,Margin of Error!!Total,C16005
+C16005_002M,int,Margin of Error!!Total!!Native,C16005
+C16005_003M,int,Margin of Error!!Total!!Native!!Speak only English,C16005
+C16005_004M,int,Margin of Error!!Total!!Native!!Speak Spanish,C16005
+C16005_005M,int,"Margin of Error!!Total!!Native!!Speak Spanish!!Speak English ""very well""",C16005
+C16005_006M,int,"Margin of Error!!Total!!Native!!Speak Spanish!!Speak English less than ""very well""",C16005
+C16005_007M,int,Margin of Error!!Total!!Native!!Speak other Indo-European languages,C16005
+C16005_008M,int,"Margin of Error!!Total!!Native!!Speak other Indo-European languages!!Speak English ""very well""",C16005
+C16005_009M,int,"Margin of Error!!Total!!Native!!Speak other Indo-European languages!!Speak English less than ""very well""",C16005
+C16005_010M,int,Margin of Error!!Total!!Native!!Speak Asian or Pacific Island languages,C16005
+C16005_011M,int,"Margin of Error!!Total!!Native!!Speak Asian or Pacific Island languages!!Speak English ""very well""",C16005
+C16005_012M,int,"Margin of Error!!Total!!Native!!Speak Asian or Pacific Island languages!!Speak English less than ""very well""",C16005
+C16005_013M,int,Margin of Error!!Total!!Native!!Speak other languages,C16005
+C16005_014M,int,"Margin of Error!!Total!!Native!!Speak other languages!!Speak English ""very well""",C16005
+C16005_015M,int,"Margin of Error!!Total!!Native!!Speak other languages!!Speak English less than ""very well""",C16005
+C16005_016M,int,Margin of Error!!Total!!Foreign born,C16005
+C16005_017M,int,Margin of Error!!Total!!Foreign born!!Speak only English,C16005
+C16005_018M,int,Margin of Error!!Total!!Foreign born!!Speak Spanish,C16005
+C16005_019M,int,"Margin of Error!!Total!!Foreign born!!Speak Spanish!!Speak English ""very well""",C16005
+C16005_020M,int,"Margin of Error!!Total!!Foreign born!!Speak Spanish!!Speak English less than ""very well""",C16005
+C16005_021M,int,Margin of Error!!Total!!Foreign born!!Speak other Indo-European languages,C16005
+C16005_022M,int,"Margin of Error!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English ""very well""",C16005
+C16005_023M,int,"Margin of Error!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English less than ""very well""",C16005
+C16005_024M,int,Margin of Error!!Total!!Foreign born!!Speak Asian or Pacific Island languages,C16005
+C16005_025M,int,"Margin of Error!!Total!!Foreign born!!Speak Asian or Pacific Island languages!!Speak English ""very well""",C16005
+C16005_026M,int,"Margin of Error!!Total!!Foreign born!!Speak Asian or Pacific Island languages!!Speak English less than ""very well""",C16005
+C16005_027M,int,Margin of Error!!Total!!Foreign born!!Speak other languages,C16005
+C16005_028M,int,"Margin of Error!!Total!!Foreign born!!Speak other languages!!Speak English ""very well""",C16005
+C16005_029M,int,"Margin of Error!!Total!!Foreign born!!Speak other languages!!Speak English less than ""very well""",C16005
+C16005_001EA,string,Annotation of Estimate!!Total,C16005
+C16005_001MA,string,Annotation of Margin of Error!!Total,C16005
+C16005_002EA,string,Annotation of Estimate!!Total!!Native,C16005
+C16005_002MA,string,Annotation of Margin of Error!!Total!!Native,C16005
+C16005_003EA,string,Annotation of Estimate!!Total!!Native!!Speak only English,C16005
+C16005_003MA,string,Annotation of Margin of Error!!Total!!Native!!Speak only English,C16005
+C16005_004EA,string,Annotation of Estimate!!Total!!Native!!Speak Spanish,C16005
+C16005_004MA,string,Annotation of Margin of Error!!Total!!Native!!Speak Spanish,C16005
+C16005_005EA,string,"Annotation of Estimate!!Total!!Native!!Speak Spanish!!Speak English ""very well""",C16005
+C16005_005MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak Spanish!!Speak English ""very well""",C16005
+C16005_006EA,string,"Annotation of Estimate!!Total!!Native!!Speak Spanish!!Speak English less than ""very well""",C16005
+C16005_006MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak Spanish!!Speak English less than ""very well""",C16005
+C16005_007EA,string,Annotation of Estimate!!Total!!Native!!Speak other Indo-European languages,C16005
+C16005_007MA,string,Annotation of Margin of Error!!Total!!Native!!Speak other Indo-European languages,C16005
+C16005_008EA,string,"Annotation of Estimate!!Total!!Native!!Speak other Indo-European languages!!Speak English ""very well""",C16005
+C16005_008MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak other Indo-European languages!!Speak English ""very well""",C16005
+C16005_009EA,string,"Annotation of Estimate!!Total!!Native!!Speak other Indo-European languages!!Speak English less than ""very well""",C16005
+C16005_009MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak other Indo-European languages!!Speak English less than ""very well""",C16005
+C16005_010EA,string,Annotation of Estimate!!Total!!Native!!Speak Asian or Pacific Island languages,C16005
+C16005_010MA,string,Annotation of Margin of Error!!Total!!Native!!Speak Asian or Pacific Island languages,C16005
+C16005_011EA,string,"Annotation of Estimate!!Total!!Native!!Speak Asian or Pacific Island languages!!Speak English ""very well""",C16005
+C16005_011MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak Asian or Pacific Island languages!!Speak English ""very well""",C16005
+C16005_012EA,string,"Annotation of Estimate!!Total!!Native!!Speak Asian or Pacific Island languages!!Speak English less than ""very well""",C16005
+C16005_012MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak Asian or Pacific Island languages!!Speak English less than ""very well""",C16005
+C16005_013EA,string,Annotation of Estimate!!Total!!Native!!Speak other languages,C16005
+C16005_013MA,string,Annotation of Margin of Error!!Total!!Native!!Speak other languages,C16005
+C16005_014EA,string,"Annotation of Estimate!!Total!!Native!!Speak other languages!!Speak English ""very well""",C16005
+C16005_014MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak other languages!!Speak English ""very well""",C16005
+C16005_015EA,string,"Annotation of Estimate!!Total!!Native!!Speak other languages!!Speak English less than ""very well""",C16005
+C16005_015MA,string,"Annotation of Margin of Error!!Total!!Native!!Speak other languages!!Speak English less than ""very well""",C16005
+C16005_016EA,string,Annotation of Estimate!!Total!!Foreign born,C16005
+C16005_016MA,string,Annotation of Margin of Error!!Total!!Foreign born,C16005
+C16005_017EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak only English,C16005
+C16005_017MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak only English,C16005
+C16005_018EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak Spanish,C16005
+C16005_018MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak Spanish,C16005
+C16005_019EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak Spanish!!Speak English ""very well""",C16005
+C16005_019MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak Spanish!!Speak English ""very well""",C16005
+C16005_020EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak Spanish!!Speak English less than ""very well""",C16005
+C16005_020MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak Spanish!!Speak English less than ""very well""",C16005
+C16005_021EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak other Indo-European languages,C16005
+C16005_021MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak other Indo-European languages,C16005
+C16005_022EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English ""very well""",C16005
+C16005_022MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English ""very well""",C16005
+C16005_023EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English less than ""very well""",C16005
+C16005_023MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English less than ""very well""",C16005
+C16005_024EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak Asian or Pacific Island languages,C16005
+C16005_024MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak Asian or Pacific Island languages,C16005
+C16005_025EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak Asian or Pacific Island languages!!Speak English ""very well""",C16005
+C16005_025MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak Asian or Pacific Island languages!!Speak English ""very well""",C16005
+C16005_026EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak Asian or Pacific Island languages!!Speak English less than ""very well""",C16005
+C16005_026MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak Asian or Pacific Island languages!!Speak English less than ""very well""",C16005
+C16005_027EA,string,Annotation of Estimate!!Total!!Foreign born!!Speak other languages,C16005
+C16005_027MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Speak other languages,C16005
+C16005_028EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak other languages!!Speak English ""very well""",C16005
+C16005_028MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak other languages!!Speak English ""very well""",C16005
+C16005_029EA,string,"Annotation of Estimate!!Total!!Foreign born!!Speak other languages!!Speak English less than ""very well""",C16005
+C16005_029MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!Speak other languages!!Speak English less than ""very well""",C16005

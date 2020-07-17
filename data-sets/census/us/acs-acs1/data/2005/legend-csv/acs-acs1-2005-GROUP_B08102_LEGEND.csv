@@ -1,0 +1,37 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08102_001E,int,Estimate!!Aggregate travel time to work (in minutes),B08102
+B08102_002E,int,Estimate!!Aggregate travel time to work (in minutes)!!16 to 19 years,B08102
+B08102_003E,int,Estimate!!Aggregate travel time to work (in minutes)!!20 to 24 years,B08102
+B08102_004E,int,Estimate!!Aggregate travel time to work (in minutes)!!25 to 44 years,B08102
+B08102_005E,int,Estimate!!Aggregate travel time to work (in minutes)!!45 to 54 years,B08102
+B08102_006E,int,Estimate!!Aggregate travel time to work (in minutes)!!55 to 59 years,B08102
+B08102_007E,int,Estimate!!Aggregate travel time to work (in minutes)!!60 and 61 years,B08102
+B08102_008E,int,Estimate!!Aggregate travel time to work (in minutes)!!62 to 64 years,B08102
+B08102_009E,int,Estimate!!Aggregate travel time to work (in minutes)!!65 years and over,B08102
+B08102_001M,int,Margin of Error!!Aggregate travel time to work (in minutes),B08102
+B08102_002M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!16 to 19 years,B08102
+B08102_003M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!20 to 24 years,B08102
+B08102_004M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!25 to 44 years,B08102
+B08102_005M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!45 to 54 years,B08102
+B08102_006M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!55 to 59 years,B08102
+B08102_007M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!60 and 61 years,B08102
+B08102_008M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!62 to 64 years,B08102
+B08102_009M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!65 years and over,B08102
+B08102_001EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes),B08102
+B08102_001MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes),B08102
+B08102_002EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!16 to 19 years,B08102
+B08102_002MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!16 to 19 years,B08102
+B08102_003EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!20 to 24 years,B08102
+B08102_003MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!20 to 24 years,B08102
+B08102_004EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!25 to 44 years,B08102
+B08102_004MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!25 to 44 years,B08102
+B08102_005EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!45 to 54 years,B08102
+B08102_005MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!45 to 54 years,B08102
+B08102_006EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!55 to 59 years,B08102
+B08102_006MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!55 to 59 years,B08102
+B08102_007EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!60 and 61 years,B08102
+B08102_007MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!60 and 61 years,B08102
+B08102_008EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!62 to 64 years,B08102
+B08102_008MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!62 to 64 years,B08102
+B08102_009EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!65 years and over,B08102
+B08102_009MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!65 years and over,B08102

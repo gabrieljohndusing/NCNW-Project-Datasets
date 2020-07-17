@@ -1,0 +1,77 @@
+VARIABLE,TYPE,LABEL,GROUP
+B23004_001E,int,Estimate!!Total,B23004
+B23004_002E,int,Estimate!!Total!!Worked in the past 12 months,B23004
+B23004_003E,int,Estimate!!Total!!Worked in the past 12 months!!65 to 74 years,B23004
+B23004_004E,int,Estimate!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force,B23004
+B23004_005E,int,Estimate!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force!!Employed,B23004
+B23004_006E,int,Estimate!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force!!Unemployed,B23004
+B23004_007E,int,Estimate!!Total!!Worked in the past 12 months!!65 to 74 years!!Not in labor force,B23004
+B23004_008E,int,Estimate!!Total!!Worked in the past 12 months!!75 years and over,B23004
+B23004_009E,int,Estimate!!Total!!Worked in the past 12 months!!75 years and over!!In labor force,B23004
+B23004_010E,int,Estimate!!Total!!Worked in the past 12 months!!75 years and over!!In labor force!!Employed,B23004
+B23004_011E,int,Estimate!!Total!!Worked in the past 12 months!!75 years and over!!In labor force!!Unemployed,B23004
+B23004_012E,int,Estimate!!Total!!Worked in the past 12 months!!75 years and over!!Not in labor force,B23004
+B23004_013E,int,Estimate!!Total!!Did not work in the past 12 months,B23004
+B23004_014E,int,Estimate!!Total!!Did not work in the past 12 months!!65 to 74 years,B23004
+B23004_015E,int,Estimate!!Total!!Did not work in the past 12 months!!65 to 74 years!!Unemployed,B23004
+B23004_016E,int,Estimate!!Total!!Did not work in the past 12 months!!65 to 74 years!!Not in labor force,B23004
+B23004_017E,int,Estimate!!Total!!Did not work in the past 12 months!!75 years and over,B23004
+B23004_018E,int,Estimate!!Total!!Did not work in the past 12 months!!75 years and over!!Unemployed,B23004
+B23004_019E,int,Estimate!!Total!!Did not work in the past 12 months!!75 years and over!!Not in labor force,B23004
+B23004_001M,int,Margin of Error!!Total,B23004
+B23004_002M,int,Margin of Error!!Total!!Worked in the past 12 months,B23004
+B23004_003M,int,Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years,B23004
+B23004_004M,int,Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force,B23004
+B23004_005M,int,Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force!!Employed,B23004
+B23004_006M,int,Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force!!Unemployed,B23004
+B23004_007M,int,Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years!!Not in labor force,B23004
+B23004_008M,int,Margin of Error!!Total!!Worked in the past 12 months!!75 years and over,B23004
+B23004_009M,int,Margin of Error!!Total!!Worked in the past 12 months!!75 years and over!!In labor force,B23004
+B23004_010M,int,Margin of Error!!Total!!Worked in the past 12 months!!75 years and over!!In labor force!!Employed,B23004
+B23004_011M,int,Margin of Error!!Total!!Worked in the past 12 months!!75 years and over!!In labor force!!Unemployed,B23004
+B23004_012M,int,Margin of Error!!Total!!Worked in the past 12 months!!75 years and over!!Not in labor force,B23004
+B23004_013M,int,Margin of Error!!Total!!Did not work in the past 12 months,B23004
+B23004_014M,int,Margin of Error!!Total!!Did not work in the past 12 months!!65 to 74 years,B23004
+B23004_015M,int,Margin of Error!!Total!!Did not work in the past 12 months!!65 to 74 years!!Unemployed,B23004
+B23004_016M,int,Margin of Error!!Total!!Did not work in the past 12 months!!65 to 74 years!!Not in labor force,B23004
+B23004_017M,int,Margin of Error!!Total!!Did not work in the past 12 months!!75 years and over,B23004
+B23004_018M,int,Margin of Error!!Total!!Did not work in the past 12 months!!75 years and over!!Unemployed,B23004
+B23004_019M,int,Margin of Error!!Total!!Did not work in the past 12 months!!75 years and over!!Not in labor force,B23004
+B23004_001EA,string,Annotation of Estimate!!Total,B23004
+B23004_001MA,string,Annotation of Margin of Error!!Total,B23004
+B23004_002EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months,B23004
+B23004_002MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months,B23004
+B23004_003EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!65 to 74 years,B23004
+B23004_003MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years,B23004
+B23004_004EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force,B23004
+B23004_004MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force,B23004
+B23004_005EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force!!Employed,B23004
+B23004_005MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force!!Employed,B23004
+B23004_006EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force!!Unemployed,B23004
+B23004_006MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years!!In labor force!!Unemployed,B23004
+B23004_007EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!65 to 74 years!!Not in labor force,B23004
+B23004_007MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!65 to 74 years!!Not in labor force,B23004
+B23004_008EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!75 years and over,B23004
+B23004_008MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!75 years and over,B23004
+B23004_009EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!75 years and over!!In labor force,B23004
+B23004_009MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!75 years and over!!In labor force,B23004
+B23004_010EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!75 years and over!!In labor force!!Employed,B23004
+B23004_010MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!75 years and over!!In labor force!!Employed,B23004
+B23004_011EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!75 years and over!!In labor force!!Unemployed,B23004
+B23004_011MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!75 years and over!!In labor force!!Unemployed,B23004
+B23004_012EA,string,Annotation of Estimate!!Total!!Worked in the past 12 months!!75 years and over!!Not in labor force,B23004
+B23004_012MA,string,Annotation of Margin of Error!!Total!!Worked in the past 12 months!!75 years and over!!Not in labor force,B23004
+B23004_013EA,string,Annotation of Estimate!!Total!!Did not work in the past 12 months,B23004
+B23004_013MA,string,Annotation of Margin of Error!!Total!!Did not work in the past 12 months,B23004
+B23004_014EA,string,Annotation of Estimate!!Total!!Did not work in the past 12 months!!65 to 74 years,B23004
+B23004_014MA,string,Annotation of Margin of Error!!Total!!Did not work in the past 12 months!!65 to 74 years,B23004
+B23004_015EA,string,Annotation of Estimate!!Total!!Did not work in the past 12 months!!65 to 74 years!!Unemployed,B23004
+B23004_015MA,string,Annotation of Margin of Error!!Total!!Did not work in the past 12 months!!65 to 74 years!!Unemployed,B23004
+B23004_016EA,string,Annotation of Estimate!!Total!!Did not work in the past 12 months!!65 to 74 years!!Not in labor force,B23004
+B23004_016MA,string,Annotation of Margin of Error!!Total!!Did not work in the past 12 months!!65 to 74 years!!Not in labor force,B23004
+B23004_017EA,string,Annotation of Estimate!!Total!!Did not work in the past 12 months!!75 years and over,B23004
+B23004_017MA,string,Annotation of Margin of Error!!Total!!Did not work in the past 12 months!!75 years and over,B23004
+B23004_018EA,string,Annotation of Estimate!!Total!!Did not work in the past 12 months!!75 years and over!!Unemployed,B23004
+B23004_018MA,string,Annotation of Margin of Error!!Total!!Did not work in the past 12 months!!75 years and over!!Unemployed,B23004
+B23004_019EA,string,Annotation of Estimate!!Total!!Did not work in the past 12 months!!75 years and over!!Not in labor force,B23004
+B23004_019MA,string,Annotation of Margin of Error!!Total!!Did not work in the past 12 months!!75 years and over!!Not in labor force,B23004

@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08127_001E,int,Estimate!!Aggregate travel time to work (in minutes),B08127
+B08127_002E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Agriculture, forestry, fishing and hunting, and mining",B08127
+B08127_003E,int,Estimate!!Aggregate travel time to work (in minutes)!!Construction,B08127
+B08127_004E,int,Estimate!!Aggregate travel time to work (in minutes)!!Manufacturing,B08127
+B08127_005E,int,Estimate!!Aggregate travel time to work (in minutes)!!Wholesale trade,B08127
+B08127_006E,int,Estimate!!Aggregate travel time to work (in minutes)!!Retail trade,B08127
+B08127_007E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Transportation and warehousing, and utilities",B08127
+B08127_008E,int,Estimate!!Aggregate travel time to work (in minutes)!!Information,B08127
+B08127_009E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Finance and insurance, and real estate and rental and leasing",B08127
+B08127_010E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Professional, scientific, and management, and administrative and waste management services",B08127
+B08127_011E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Educational services, and health care and social assistance",B08127
+B08127_012E,int,"Estimate!!Aggregate travel time to work (in minutes)!!Arts, entertainment, and recreation, and accommodation and food services",B08127
+B08127_013E,int,Estimate!!Aggregate travel time to work (in minutes)!!Other services (except public administration),B08127
+B08127_014E,int,Estimate!!Aggregate travel time to work (in minutes)!!Public administration,B08127
+B08127_015E,int,Estimate!!Aggregate travel time to work (in minutes)!!Armed forces,B08127
+B08127_001M,int,Margin of Error!!Aggregate travel time to work (in minutes),B08127
+B08127_002M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Agriculture, forestry, fishing and hunting, and mining",B08127
+B08127_003M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Construction,B08127
+B08127_004M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Manufacturing,B08127
+B08127_005M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Wholesale trade,B08127
+B08127_006M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Retail trade,B08127
+B08127_007M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Transportation and warehousing, and utilities",B08127
+B08127_008M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Information,B08127
+B08127_009M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Finance and insurance, and real estate and rental and leasing",B08127
+B08127_010M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Professional, scientific, and management, and administrative and waste management services",B08127
+B08127_011M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Educational services, and health care and social assistance",B08127
+B08127_012M,int,"Margin of Error!!Aggregate travel time to work (in minutes)!!Arts, entertainment, and recreation, and accommodation and food services",B08127
+B08127_013M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Other services (except public administration),B08127
+B08127_014M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Public administration,B08127
+B08127_015M,int,Margin of Error!!Aggregate travel time to work (in minutes)!!Armed forces,B08127
+B08127_001EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes),B08127
+B08127_001MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes),B08127
+B08127_002EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Agriculture, forestry, fishing and hunting, and mining",B08127
+B08127_002MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Agriculture, forestry, fishing and hunting, and mining",B08127
+B08127_003EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Construction,B08127
+B08127_003MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Construction,B08127
+B08127_004EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Manufacturing,B08127
+B08127_004MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Manufacturing,B08127
+B08127_005EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Wholesale trade,B08127
+B08127_005MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Wholesale trade,B08127
+B08127_006EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Retail trade,B08127
+B08127_006MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Retail trade,B08127
+B08127_007EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Transportation and warehousing, and utilities",B08127
+B08127_007MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Transportation and warehousing, and utilities",B08127
+B08127_008EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Information,B08127
+B08127_008MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Information,B08127
+B08127_009EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Finance and insurance, and real estate and rental and leasing",B08127
+B08127_009MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Finance and insurance, and real estate and rental and leasing",B08127
+B08127_010EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Professional, scientific, and management, and administrative and waste management services",B08127
+B08127_010MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Professional, scientific, and management, and administrative and waste management services",B08127
+B08127_011EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Educational services, and health care and social assistance",B08127
+B08127_011MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Educational services, and health care and social assistance",B08127
+B08127_012EA,string,"Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Arts, entertainment, and recreation, and accommodation and food services",B08127
+B08127_012MA,string,"Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Arts, entertainment, and recreation, and accommodation and food services",B08127
+B08127_013EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Other services (except public administration),B08127
+B08127_013MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Other services (except public administration),B08127
+B08127_014EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Public administration,B08127
+B08127_014MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Public administration,B08127
+B08127_015EA,string,Annotation of Estimate!!Aggregate travel time to work (in minutes)!!Armed forces,B08127
+B08127_015MA,string,Annotation of Margin of Error!!Aggregate travel time to work (in minutes)!!Armed forces,B08127

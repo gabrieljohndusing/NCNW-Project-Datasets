@@ -1,0 +1,337 @@
+VARIABLE,TYPE,LABEL,GROUP
+C24050_001E,int,Estimate!!Total,C24050
+C24050_002E,int,"Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_003E,int,Estimate!!Total!!Construction,C24050
+C24050_004E,int,Estimate!!Total!!Manufacturing,C24050
+C24050_005E,int,Estimate!!Total!!Wholesale trade,C24050
+C24050_006E,int,Estimate!!Total!!Retail trade,C24050
+C24050_007E,int,"Estimate!!Total!!Transportation and warehousing, and utilities",C24050
+C24050_008E,int,Estimate!!Total!!Information,C24050
+C24050_009E,int,"Estimate!!Total!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_010E,int,"Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_011E,int,"Estimate!!Total!!Educational services, and health care and social assistance",C24050
+C24050_012E,int,"Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_013E,int,"Estimate!!Total!!Other services, except public administration",C24050
+C24050_014E,int,Estimate!!Total!!Public administration,C24050
+C24050_015E,int,"Estimate!!Total!!Management, business, science, and arts occupations",C24050
+C24050_016E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_017E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Construction",C24050
+C24050_018E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Manufacturing",C24050
+C24050_019E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Wholesale trade",C24050
+C24050_020E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Retail trade",C24050
+C24050_021E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Transportation and warehousing, and utilities",C24050
+C24050_022E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Information",C24050
+C24050_023E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_024E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_025E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Educational services, and health care and social assistance",C24050
+C24050_026E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_027E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Other services, except public administration",C24050
+C24050_028E,int,"Estimate!!Total!!Management, business, science, and arts occupations!!Public administration",C24050
+C24050_029E,int,Estimate!!Total!!Service occupations,C24050
+C24050_030E,int,"Estimate!!Total!!Service occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_031E,int,Estimate!!Total!!Service occupations!!Construction,C24050
+C24050_032E,int,Estimate!!Total!!Service occupations!!Manufacturing,C24050
+C24050_033E,int,Estimate!!Total!!Service occupations!!Wholesale trade,C24050
+C24050_034E,int,Estimate!!Total!!Service occupations!!Retail trade,C24050
+C24050_035E,int,"Estimate!!Total!!Service occupations!!Transportation and warehousing, and utilities",C24050
+C24050_036E,int,Estimate!!Total!!Service occupations!!Information,C24050
+C24050_037E,int,"Estimate!!Total!!Service occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_038E,int,"Estimate!!Total!!Service occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_039E,int,"Estimate!!Total!!Service occupations!!Educational services, and health care and social assistance",C24050
+C24050_040E,int,"Estimate!!Total!!Service occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_041E,int,"Estimate!!Total!!Service occupations!!Other services, except public administration",C24050
+C24050_042E,int,Estimate!!Total!!Service occupations!!Public administration,C24050
+C24050_043E,int,Estimate!!Total!!Sales and office occupations,C24050
+C24050_044E,int,"Estimate!!Total!!Sales and office occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_045E,int,Estimate!!Total!!Sales and office occupations!!Construction,C24050
+C24050_046E,int,Estimate!!Total!!Sales and office occupations!!Manufacturing,C24050
+C24050_047E,int,Estimate!!Total!!Sales and office occupations!!Wholesale trade,C24050
+C24050_048E,int,Estimate!!Total!!Sales and office occupations!!Retail trade,C24050
+C24050_049E,int,"Estimate!!Total!!Sales and office occupations!!Transportation and warehousing, and utilities",C24050
+C24050_050E,int,Estimate!!Total!!Sales and office occupations!!Information,C24050
+C24050_051E,int,"Estimate!!Total!!Sales and office occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_052E,int,"Estimate!!Total!!Sales and office occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_053E,int,"Estimate!!Total!!Sales and office occupations!!Educational services, and health care and social assistance",C24050
+C24050_054E,int,"Estimate!!Total!!Sales and office occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_055E,int,"Estimate!!Total!!Sales and office occupations!!Other services, except public administration",C24050
+C24050_056E,int,Estimate!!Total!!Sales and office occupations!!Public administration,C24050
+C24050_057E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations",C24050
+C24050_058E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_059E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Construction",C24050
+C24050_060E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Manufacturing",C24050
+C24050_061E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Wholesale trade",C24050
+C24050_062E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Retail trade",C24050
+C24050_063E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Transportation and warehousing, and utilities",C24050
+C24050_064E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Information",C24050
+C24050_065E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_066E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_067E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Educational services, and health care and social assistance",C24050
+C24050_068E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_069E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Other services, except public administration",C24050
+C24050_070E,int,"Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Public administration",C24050
+C24050_071E,int,"Estimate!!Total!!Production, transportation, and material moving occupations",C24050
+C24050_072E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_073E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Construction",C24050
+C24050_074E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Manufacturing",C24050
+C24050_075E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Wholesale trade",C24050
+C24050_076E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Retail trade",C24050
+C24050_077E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and warehousing, and utilities",C24050
+C24050_078E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Information",C24050
+C24050_079E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_080E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_081E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Educational services, and health care and social assistance",C24050
+C24050_082E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_083E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Other services, except public administration",C24050
+C24050_084E,int,"Estimate!!Total!!Production, transportation, and material moving occupations!!Public administration",C24050
+C24050_001M,int,Margin of Error!!Total,C24050
+C24050_002M,int,"Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_003M,int,Margin of Error!!Total!!Construction,C24050
+C24050_004M,int,Margin of Error!!Total!!Manufacturing,C24050
+C24050_005M,int,Margin of Error!!Total!!Wholesale trade,C24050
+C24050_006M,int,Margin of Error!!Total!!Retail trade,C24050
+C24050_007M,int,"Margin of Error!!Total!!Transportation and warehousing, and utilities",C24050
+C24050_008M,int,Margin of Error!!Total!!Information,C24050
+C24050_009M,int,"Margin of Error!!Total!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_010M,int,"Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_011M,int,"Margin of Error!!Total!!Educational services, and health care and social assistance",C24050
+C24050_012M,int,"Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_013M,int,"Margin of Error!!Total!!Other services, except public administration",C24050
+C24050_014M,int,Margin of Error!!Total!!Public administration,C24050
+C24050_015M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations",C24050
+C24050_016M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_017M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Construction",C24050
+C24050_018M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Manufacturing",C24050
+C24050_019M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Wholesale trade",C24050
+C24050_020M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Retail trade",C24050
+C24050_021M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Transportation and warehousing, and utilities",C24050
+C24050_022M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Information",C24050
+C24050_023M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_024M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_025M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Educational services, and health care and social assistance",C24050
+C24050_026M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_027M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Other services, except public administration",C24050
+C24050_028M,int,"Margin of Error!!Total!!Management, business, science, and arts occupations!!Public administration",C24050
+C24050_029M,int,Margin of Error!!Total!!Service occupations,C24050
+C24050_030M,int,"Margin of Error!!Total!!Service occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_031M,int,Margin of Error!!Total!!Service occupations!!Construction,C24050
+C24050_032M,int,Margin of Error!!Total!!Service occupations!!Manufacturing,C24050
+C24050_033M,int,Margin of Error!!Total!!Service occupations!!Wholesale trade,C24050
+C24050_034M,int,Margin of Error!!Total!!Service occupations!!Retail trade,C24050
+C24050_035M,int,"Margin of Error!!Total!!Service occupations!!Transportation and warehousing, and utilities",C24050
+C24050_036M,int,Margin of Error!!Total!!Service occupations!!Information,C24050
+C24050_037M,int,"Margin of Error!!Total!!Service occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_038M,int,"Margin of Error!!Total!!Service occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_039M,int,"Margin of Error!!Total!!Service occupations!!Educational services, and health care and social assistance",C24050
+C24050_040M,int,"Margin of Error!!Total!!Service occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_041M,int,"Margin of Error!!Total!!Service occupations!!Other services, except public administration",C24050
+C24050_042M,int,Margin of Error!!Total!!Service occupations!!Public administration,C24050
+C24050_043M,int,Margin of Error!!Total!!Sales and office occupations,C24050
+C24050_044M,int,"Margin of Error!!Total!!Sales and office occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_045M,int,Margin of Error!!Total!!Sales and office occupations!!Construction,C24050
+C24050_046M,int,Margin of Error!!Total!!Sales and office occupations!!Manufacturing,C24050
+C24050_047M,int,Margin of Error!!Total!!Sales and office occupations!!Wholesale trade,C24050
+C24050_048M,int,Margin of Error!!Total!!Sales and office occupations!!Retail trade,C24050
+C24050_049M,int,"Margin of Error!!Total!!Sales and office occupations!!Transportation and warehousing, and utilities",C24050
+C24050_050M,int,Margin of Error!!Total!!Sales and office occupations!!Information,C24050
+C24050_051M,int,"Margin of Error!!Total!!Sales and office occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_052M,int,"Margin of Error!!Total!!Sales and office occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_053M,int,"Margin of Error!!Total!!Sales and office occupations!!Educational services, and health care and social assistance",C24050
+C24050_054M,int,"Margin of Error!!Total!!Sales and office occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_055M,int,"Margin of Error!!Total!!Sales and office occupations!!Other services, except public administration",C24050
+C24050_056M,int,Margin of Error!!Total!!Sales and office occupations!!Public administration,C24050
+C24050_057M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations",C24050
+C24050_058M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_059M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Construction",C24050
+C24050_060M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Manufacturing",C24050
+C24050_061M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Wholesale trade",C24050
+C24050_062M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Retail trade",C24050
+C24050_063M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Transportation and warehousing, and utilities",C24050
+C24050_064M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Information",C24050
+C24050_065M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_066M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_067M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Educational services, and health care and social assistance",C24050
+C24050_068M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_069M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Other services, except public administration",C24050
+C24050_070M,int,"Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Public administration",C24050
+C24050_071M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations",C24050
+C24050_072M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_073M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Construction",C24050
+C24050_074M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Manufacturing",C24050
+C24050_075M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Wholesale trade",C24050
+C24050_076M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Retail trade",C24050
+C24050_077M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and warehousing, and utilities",C24050
+C24050_078M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Information",C24050
+C24050_079M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_080M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_081M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Educational services, and health care and social assistance",C24050
+C24050_082M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_083M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Other services, except public administration",C24050
+C24050_084M,int,"Margin of Error!!Total!!Production, transportation, and material moving occupations!!Public administration",C24050
+C24050_001EA,string,Annotation of Estimate!!Total,C24050
+C24050_001MA,string,Annotation of Margin of Error!!Total,C24050
+C24050_002EA,string,"Annotation of Estimate!!Total!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_002MA,string,"Annotation of Margin of Error!!Total!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_003EA,string,Annotation of Estimate!!Total!!Construction,C24050
+C24050_003MA,string,Annotation of Margin of Error!!Total!!Construction,C24050
+C24050_004EA,string,Annotation of Estimate!!Total!!Manufacturing,C24050
+C24050_004MA,string,Annotation of Margin of Error!!Total!!Manufacturing,C24050
+C24050_005EA,string,Annotation of Estimate!!Total!!Wholesale trade,C24050
+C24050_005MA,string,Annotation of Margin of Error!!Total!!Wholesale trade,C24050
+C24050_006EA,string,Annotation of Estimate!!Total!!Retail trade,C24050
+C24050_006MA,string,Annotation of Margin of Error!!Total!!Retail trade,C24050
+C24050_007EA,string,"Annotation of Estimate!!Total!!Transportation and warehousing, and utilities",C24050
+C24050_007MA,string,"Annotation of Margin of Error!!Total!!Transportation and warehousing, and utilities",C24050
+C24050_008EA,string,Annotation of Estimate!!Total!!Information,C24050
+C24050_008MA,string,Annotation of Margin of Error!!Total!!Information,C24050
+C24050_009EA,string,"Annotation of Estimate!!Total!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_009MA,string,"Annotation of Margin of Error!!Total!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_010EA,string,"Annotation of Estimate!!Total!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_010MA,string,"Annotation of Margin of Error!!Total!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_011EA,string,"Annotation of Estimate!!Total!!Educational services, and health care and social assistance",C24050
+C24050_011MA,string,"Annotation of Margin of Error!!Total!!Educational services, and health care and social assistance",C24050
+C24050_012EA,string,"Annotation of Estimate!!Total!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_012MA,string,"Annotation of Margin of Error!!Total!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_013EA,string,"Annotation of Estimate!!Total!!Other services, except public administration",C24050
+C24050_013MA,string,"Annotation of Margin of Error!!Total!!Other services, except public administration",C24050
+C24050_014EA,string,Annotation of Estimate!!Total!!Public administration,C24050
+C24050_014MA,string,Annotation of Margin of Error!!Total!!Public administration,C24050
+C24050_015EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations",C24050
+C24050_015MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations",C24050
+C24050_016EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_016MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_017EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Construction",C24050
+C24050_017MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Construction",C24050
+C24050_018EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Manufacturing",C24050
+C24050_018MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Manufacturing",C24050
+C24050_019EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Wholesale trade",C24050
+C24050_019MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Wholesale trade",C24050
+C24050_020EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Retail trade",C24050
+C24050_020MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Retail trade",C24050
+C24050_021EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Transportation and warehousing, and utilities",C24050
+C24050_021MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Transportation and warehousing, and utilities",C24050
+C24050_022EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Information",C24050
+C24050_022MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Information",C24050
+C24050_023EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_023MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_024EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_024MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_025EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Educational services, and health care and social assistance",C24050
+C24050_025MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Educational services, and health care and social assistance",C24050
+C24050_026EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_026MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_027EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Other services, except public administration",C24050
+C24050_027MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Other services, except public administration",C24050
+C24050_028EA,string,"Annotation of Estimate!!Total!!Management, business, science, and arts occupations!!Public administration",C24050
+C24050_028MA,string,"Annotation of Margin of Error!!Total!!Management, business, science, and arts occupations!!Public administration",C24050
+C24050_029EA,string,Annotation of Estimate!!Total!!Service occupations,C24050
+C24050_029MA,string,Annotation of Margin of Error!!Total!!Service occupations,C24050
+C24050_030EA,string,"Annotation of Estimate!!Total!!Service occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_030MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_031EA,string,Annotation of Estimate!!Total!!Service occupations!!Construction,C24050
+C24050_031MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Construction,C24050
+C24050_032EA,string,Annotation of Estimate!!Total!!Service occupations!!Manufacturing,C24050
+C24050_032MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Manufacturing,C24050
+C24050_033EA,string,Annotation of Estimate!!Total!!Service occupations!!Wholesale trade,C24050
+C24050_033MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Wholesale trade,C24050
+C24050_034EA,string,Annotation of Estimate!!Total!!Service occupations!!Retail trade,C24050
+C24050_034MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Retail trade,C24050
+C24050_035EA,string,"Annotation of Estimate!!Total!!Service occupations!!Transportation and warehousing, and utilities",C24050
+C24050_035MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Transportation and warehousing, and utilities",C24050
+C24050_036EA,string,Annotation of Estimate!!Total!!Service occupations!!Information,C24050
+C24050_036MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Information,C24050
+C24050_037EA,string,"Annotation of Estimate!!Total!!Service occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_037MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_038EA,string,"Annotation of Estimate!!Total!!Service occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_038MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_039EA,string,"Annotation of Estimate!!Total!!Service occupations!!Educational services, and health care and social assistance",C24050
+C24050_039MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Educational services, and health care and social assistance",C24050
+C24050_040EA,string,"Annotation of Estimate!!Total!!Service occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_040MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_041EA,string,"Annotation of Estimate!!Total!!Service occupations!!Other services, except public administration",C24050
+C24050_041MA,string,"Annotation of Margin of Error!!Total!!Service occupations!!Other services, except public administration",C24050
+C24050_042EA,string,Annotation of Estimate!!Total!!Service occupations!!Public administration,C24050
+C24050_042MA,string,Annotation of Margin of Error!!Total!!Service occupations!!Public administration,C24050
+C24050_043EA,string,Annotation of Estimate!!Total!!Sales and office occupations,C24050
+C24050_043MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations,C24050
+C24050_044EA,string,"Annotation of Estimate!!Total!!Sales and office occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_044MA,string,"Annotation of Margin of Error!!Total!!Sales and office occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_045EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Construction,C24050
+C24050_045MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Construction,C24050
+C24050_046EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Manufacturing,C24050
+C24050_046MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Manufacturing,C24050
+C24050_047EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Wholesale trade,C24050
+C24050_047MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Wholesale trade,C24050
+C24050_048EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Retail trade,C24050
+C24050_048MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Retail trade,C24050
+C24050_049EA,string,"Annotation of Estimate!!Total!!Sales and office occupations!!Transportation and warehousing, and utilities",C24050
+C24050_049MA,string,"Annotation of Margin of Error!!Total!!Sales and office occupations!!Transportation and warehousing, and utilities",C24050
+C24050_050EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Information,C24050
+C24050_050MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Information,C24050
+C24050_051EA,string,"Annotation of Estimate!!Total!!Sales and office occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_051MA,string,"Annotation of Margin of Error!!Total!!Sales and office occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_052EA,string,"Annotation of Estimate!!Total!!Sales and office occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_052MA,string,"Annotation of Margin of Error!!Total!!Sales and office occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_053EA,string,"Annotation of Estimate!!Total!!Sales and office occupations!!Educational services, and health care and social assistance",C24050
+C24050_053MA,string,"Annotation of Margin of Error!!Total!!Sales and office occupations!!Educational services, and health care and social assistance",C24050
+C24050_054EA,string,"Annotation of Estimate!!Total!!Sales and office occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_054MA,string,"Annotation of Margin of Error!!Total!!Sales and office occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_055EA,string,"Annotation of Estimate!!Total!!Sales and office occupations!!Other services, except public administration",C24050
+C24050_055MA,string,"Annotation of Margin of Error!!Total!!Sales and office occupations!!Other services, except public administration",C24050
+C24050_056EA,string,Annotation of Estimate!!Total!!Sales and office occupations!!Public administration,C24050
+C24050_056MA,string,Annotation of Margin of Error!!Total!!Sales and office occupations!!Public administration,C24050
+C24050_057EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations",C24050
+C24050_057MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations",C24050
+C24050_058EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_058MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_059EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Construction",C24050
+C24050_059MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Construction",C24050
+C24050_060EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Manufacturing",C24050
+C24050_060MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Manufacturing",C24050
+C24050_061EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Wholesale trade",C24050
+C24050_061MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Wholesale trade",C24050
+C24050_062EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Retail trade",C24050
+C24050_062MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Retail trade",C24050
+C24050_063EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Transportation and warehousing, and utilities",C24050
+C24050_063MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Transportation and warehousing, and utilities",C24050
+C24050_064EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Information",C24050
+C24050_064MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Information",C24050
+C24050_065EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_065MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_066EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_066MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_067EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Educational services, and health care and social assistance",C24050
+C24050_067MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Educational services, and health care and social assistance",C24050
+C24050_068EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_068MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_069EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Other services, except public administration",C24050
+C24050_069MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Other services, except public administration",C24050
+C24050_070EA,string,"Annotation of Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Public administration",C24050
+C24050_070MA,string,"Annotation of Margin of Error!!Total!!Natural resources, construction, and maintenance occupations!!Public administration",C24050
+C24050_071EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations",C24050
+C24050_071MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations",C24050
+C24050_072EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_072MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Agriculture, forestry, fishing and hunting, and mining",C24050
+C24050_073EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Construction",C24050
+C24050_073MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Construction",C24050
+C24050_074EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Manufacturing",C24050
+C24050_074MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Manufacturing",C24050
+C24050_075EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Wholesale trade",C24050
+C24050_075MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Wholesale trade",C24050
+C24050_076EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Retail trade",C24050
+C24050_076MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Retail trade",C24050
+C24050_077EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Transportation and warehousing, and utilities",C24050
+C24050_077MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Transportation and warehousing, and utilities",C24050
+C24050_078EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Information",C24050
+C24050_078MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Information",C24050
+C24050_079EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_079MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Finance and insurance, and real estate and rental and leasing",C24050
+C24050_080EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_080MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Professional, scientific, and management, and administrative and waste management services",C24050
+C24050_081EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Educational services, and health care and social assistance",C24050
+C24050_081MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Educational services, and health care and social assistance",C24050
+C24050_082EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_082MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Arts, entertainment, and recreation, and accommodation and food services",C24050
+C24050_083EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Other services, except public administration",C24050
+C24050_083MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Other services, except public administration",C24050
+C24050_084EA,string,"Annotation of Estimate!!Total!!Production, transportation, and material moving occupations!!Public administration",C24050
+C24050_084MA,string,"Annotation of Margin of Error!!Total!!Production, transportation, and material moving occupations!!Public administration",C24050

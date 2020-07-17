@@ -1,0 +1,1129 @@
+VARIABLE,TYPE,LABEL,GROUP
+DP04_0001E,null,Estimate!!HOUSING OCCUPANCY!!Total housing units,DP04
+DP04_0001PE,int,Percent!!HOUSING OCCUPANCY!!Total housing units,DP04
+DP04_0002E,int,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,DP04
+DP04_0002PE,float,Percent!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,DP04
+DP04_0003E,int,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,DP04
+DP04_0003PE,float,Percent!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,DP04
+DP04_0004E,float,Estimate!!HOUSING OCCUPANCY!!Homeowner vacancy rate,DP04
+DP04_0004PE,int,Percent!!HOUSING OCCUPANCY!!Homeowner vacancy rate,DP04
+DP04_0005E,float,Estimate!!HOUSING OCCUPANCY!!Rental vacancy rate,DP04
+DP04_0005PE,int,Percent!!HOUSING OCCUPANCY!!Rental vacancy rate,DP04
+DP04_0006E,int,Estimate!!UNITS IN STRUCTURE!!Total housing units,DP04
+DP04_0006PE,int,Percent!!UNITS IN STRUCTURE!!Total housing units,DP04
+DP04_0007E,int,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",DP04
+DP04_0007PE,float,"Percent!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",DP04
+DP04_0008E,int,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",DP04
+DP04_0008PE,float,"Percent!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",DP04
+DP04_0009E,int,Estimate!!UNITS IN STRUCTURE!!Total housing units!!2 units,DP04
+DP04_0009PE,float,Percent!!UNITS IN STRUCTURE!!Total housing units!!2 units,DP04
+DP04_0010E,int,Estimate!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,DP04
+DP04_0010PE,float,Percent!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,DP04
+DP04_0011E,int,Estimate!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,DP04
+DP04_0011PE,float,Percent!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,DP04
+DP04_0012E,int,Estimate!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,DP04
+DP04_0012PE,float,Percent!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,DP04
+DP04_0013E,int,Estimate!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,DP04
+DP04_0013PE,float,Percent!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,DP04
+DP04_0014E,int,Estimate!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,DP04
+DP04_0014PE,float,Percent!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,DP04
+DP04_0015E,int,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",DP04
+DP04_0015PE,float,"Percent!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",DP04
+DP04_0016E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units,DP04
+DP04_0016PE,int,Percent!!YEAR STRUCTURE BUILT!!Total housing units,DP04
+DP04_0017E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 or later,DP04
+DP04_0017PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 or later,DP04
+DP04_0018E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,DP04
+DP04_0018PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,DP04
+DP04_0019E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,DP04
+DP04_0019PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,DP04
+DP04_0020E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,DP04
+DP04_0020PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,DP04
+DP04_0021E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,DP04
+DP04_0021PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,DP04
+DP04_0022E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,DP04
+DP04_0022PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,DP04
+DP04_0023E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,DP04
+DP04_0023PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,DP04
+DP04_0024E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,DP04
+DP04_0024PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,DP04
+DP04_0025E,int,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,DP04
+DP04_0025PE,float,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,DP04
+DP04_0026E,int,Estimate!!ROOMS!!Total housing units,DP04
+DP04_0026PE,int,Percent!!ROOMS!!Total housing units,DP04
+DP04_0027E,int,Estimate!!ROOMS!!Total housing units!!1 room,DP04
+DP04_0027PE,float,Percent!!ROOMS!!Total housing units!!1 room,DP04
+DP04_0028E,int,Estimate!!ROOMS!!Total housing units!!2 rooms,DP04
+DP04_0028PE,float,Percent!!ROOMS!!Total housing units!!2 rooms,DP04
+DP04_0029E,int,Estimate!!ROOMS!!Total housing units!!3 rooms,DP04
+DP04_0029PE,float,Percent!!ROOMS!!Total housing units!!3 rooms,DP04
+DP04_0030E,int,Estimate!!ROOMS!!Total housing units!!4 rooms,DP04
+DP04_0030PE,float,Percent!!ROOMS!!Total housing units!!4 rooms,DP04
+DP04_0031E,int,Estimate!!ROOMS!!Total housing units!!5 rooms,DP04
+DP04_0031PE,float,Percent!!ROOMS!!Total housing units!!5 rooms,DP04
+DP04_0032E,int,Estimate!!ROOMS!!Total housing units!!6 rooms,DP04
+DP04_0032PE,float,Percent!!ROOMS!!Total housing units!!6 rooms,DP04
+DP04_0033E,int,Estimate!!ROOMS!!Total housing units!!7 rooms,DP04
+DP04_0033PE,float,Percent!!ROOMS!!Total housing units!!7 rooms,DP04
+DP04_0034E,int,Estimate!!ROOMS!!Total housing units!!8 rooms,DP04
+DP04_0034PE,float,Percent!!ROOMS!!Total housing units!!8 rooms,DP04
+DP04_0035E,int,Estimate!!ROOMS!!Total housing units!!9 rooms or more,DP04
+DP04_0035PE,float,Percent!!ROOMS!!Total housing units!!9 rooms or more,DP04
+DP04_0036E,float,Estimate!!ROOMS!!Total housing units!!Median rooms,DP04
+DP04_0036PE,int,Percent!!ROOMS!!Total housing units!!Median rooms,DP04
+DP04_0037E,int,Estimate!!BEDROOMS!!Total housing units,DP04
+DP04_0037PE,int,Percent!!BEDROOMS!!Total housing units,DP04
+DP04_0038E,int,Estimate!!BEDROOMS!!Total housing units!!No bedroom,DP04
+DP04_0038PE,float,Percent!!BEDROOMS!!Total housing units!!No bedroom,DP04
+DP04_0039E,int,Estimate!!BEDROOMS!!Total housing units!!1 bedroom,DP04
+DP04_0039PE,float,Percent!!BEDROOMS!!Total housing units!!1 bedroom,DP04
+DP04_0040E,int,Estimate!!BEDROOMS!!Total housing units!!2 bedrooms,DP04
+DP04_0040PE,float,Percent!!BEDROOMS!!Total housing units!!2 bedrooms,DP04
+DP04_0041E,int,Estimate!!BEDROOMS!!Total housing units!!3 bedrooms,DP04
+DP04_0041PE,float,Percent!!BEDROOMS!!Total housing units!!3 bedrooms,DP04
+DP04_0042E,int,Estimate!!BEDROOMS!!Total housing units!!4 bedrooms,DP04
+DP04_0042PE,float,Percent!!BEDROOMS!!Total housing units!!4 bedrooms,DP04
+DP04_0043E,int,Estimate!!BEDROOMS!!Total housing units!!5 or more bedrooms,DP04
+DP04_0043PE,float,Percent!!BEDROOMS!!Total housing units!!5 or more bedrooms,DP04
+DP04_0044E,int,Estimate!!HOUSING TENURE!!Occupied housing units,DP04
+DP04_0044PE,int,Percent!!HOUSING TENURE!!Occupied housing units,DP04
+DP04_0045E,int,Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,DP04
+DP04_0045PE,float,Percent!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,DP04
+DP04_0046E,int,Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,DP04
+DP04_0046PE,float,Percent!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,DP04
+DP04_0047E,float,Estimate!!HOUSING TENURE!!Average household size of owner-occupied unit,DP04
+DP04_0047PE,int,Percent!!HOUSING TENURE!!Average household size of owner-occupied unit,DP04
+DP04_0048E,float,Estimate!!HOUSING TENURE!!Average household size of renter-occupied unit,DP04
+DP04_0048PE,int,Percent!!HOUSING TENURE!!Average household size of renter-occupied unit,DP04
+DP04_0049E,int,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,DP04
+DP04_0049PE,int,Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,DP04
+DP04_0050E,int,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 or later,DP04
+DP04_0050PE,float,Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 or later,DP04
+DP04_0051E,int,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,DP04
+DP04_0051PE,float,Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,DP04
+DP04_0052E,int,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,DP04
+DP04_0052PE,float,Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,DP04
+DP04_0053E,int,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1980 to 1989,DP04
+DP04_0053PE,float,Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1980 to 1989,DP04
+DP04_0054E,int,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1970 to 1979,DP04
+DP04_0054PE,float,Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1970 to 1979,DP04
+DP04_0055E,int,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1969 or earlier,DP04
+DP04_0055PE,float,Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1969 or earlier,DP04
+DP04_0056E,int,Estimate!!VEHICLES AVAILABLE!!Occupied housing units,DP04
+DP04_0056PE,int,Percent!!VEHICLES AVAILABLE!!Occupied housing units,DP04
+DP04_0057E,int,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,DP04
+DP04_0057PE,float,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,DP04
+DP04_0058E,int,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,DP04
+DP04_0058PE,float,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,DP04
+DP04_0059E,int,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,DP04
+DP04_0059PE,float,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,DP04
+DP04_0060E,int,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,DP04
+DP04_0060PE,float,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,DP04
+DP04_0061E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units,DP04
+DP04_0061PE,int,Percent!!HOUSE HEATING FUEL!!Occupied housing units,DP04
+DP04_0062E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,DP04
+DP04_0062PE,float,Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,DP04
+DP04_0063E,int,"Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",DP04
+DP04_0063PE,float,"Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",DP04
+DP04_0064E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,DP04
+DP04_0064PE,float,Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,DP04
+DP04_0065E,int,"Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",DP04
+DP04_0065PE,float,"Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",DP04
+DP04_0066E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,DP04
+DP04_0066PE,float,Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,DP04
+DP04_0067E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,DP04
+DP04_0067PE,float,Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,DP04
+DP04_0068E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,DP04
+DP04_0068PE,float,Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,DP04
+DP04_0069E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,DP04
+DP04_0069PE,float,Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,DP04
+DP04_0070E,int,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,DP04
+DP04_0070PE,float,Percent!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,DP04
+DP04_0071E,int,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units,DP04
+DP04_0071PE,int,Percent!!SELECTED CHARACTERISTICS!!Occupied housing units,DP04
+DP04_0072E,int,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,DP04
+DP04_0072PE,float,Percent!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,DP04
+DP04_0073E,int,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,DP04
+DP04_0073PE,float,Percent!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,DP04
+DP04_0074E,int,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,DP04
+DP04_0074PE,float,Percent!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,DP04
+DP04_0075E,int,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units,DP04
+DP04_0075PE,int,Percent!!OCCUPANTS PER ROOM!!Occupied housing units,DP04
+DP04_0076E,int,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,DP04
+DP04_0076PE,float,Percent!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,DP04
+DP04_0077E,int,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,DP04
+DP04_0077PE,float,Percent!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,DP04
+DP04_0078E,int,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,DP04
+DP04_0078PE,float,Percent!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,DP04
+DP04_0079E,int,Estimate!!VALUE!!Owner-occupied units,DP04
+DP04_0079PE,int,Percent!!VALUE!!Owner-occupied units,DP04
+DP04_0080E,int,"Estimate!!VALUE!!Owner-occupied units!!Less than $50,000",DP04
+DP04_0080PE,float,"Percent!!VALUE!!Owner-occupied units!!Less than $50,000",DP04
+DP04_0081E,int,"Estimate!!VALUE!!Owner-occupied units!!$50,000 to $99,999",DP04
+DP04_0081PE,float,"Percent!!VALUE!!Owner-occupied units!!$50,000 to $99,999",DP04
+DP04_0082E,int,"Estimate!!VALUE!!Owner-occupied units!!$100,000 to $149,999",DP04
+DP04_0082PE,float,"Percent!!VALUE!!Owner-occupied units!!$100,000 to $149,999",DP04
+DP04_0083E,int,"Estimate!!VALUE!!Owner-occupied units!!$150,000 to $199,999",DP04
+DP04_0083PE,float,"Percent!!VALUE!!Owner-occupied units!!$150,000 to $199,999",DP04
+DP04_0084E,int,"Estimate!!VALUE!!Owner-occupied units!!$200,000 to $299,999",DP04
+DP04_0084PE,float,"Percent!!VALUE!!Owner-occupied units!!$200,000 to $299,999",DP04
+DP04_0085E,int,"Estimate!!VALUE!!Owner-occupied units!!$300,000 to $499,999",DP04
+DP04_0085PE,float,"Percent!!VALUE!!Owner-occupied units!!$300,000 to $499,999",DP04
+DP04_0086E,int,"Estimate!!VALUE!!Owner-occupied units!!$500,000 to $999,999",DP04
+DP04_0086PE,float,"Percent!!VALUE!!Owner-occupied units!!$500,000 to $999,999",DP04
+DP04_0087E,int,"Estimate!!VALUE!!Owner-occupied units!!$1,000,000 or more",DP04
+DP04_0087PE,float,"Percent!!VALUE!!Owner-occupied units!!$1,000,000 or more",DP04
+DP04_0088E,int,Estimate!!VALUE!!Owner-occupied units!!Median (dollars),DP04
+DP04_0088PE,int,Percent!!VALUE!!Owner-occupied units!!Median (dollars),DP04
+DP04_0089E,int,Estimate!!MORTGAGE STATUS!!Owner-occupied units,DP04
+DP04_0089PE,int,Percent!!MORTGAGE STATUS!!Owner-occupied units,DP04
+DP04_0090E,int,Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,DP04
+DP04_0090PE,float,Percent!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,DP04
+DP04_0091E,int,Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,DP04
+DP04_0091PE,float,Percent!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,DP04
+DP04_0092E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,DP04
+DP04_0092PE,int,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,DP04
+DP04_0093E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $300,DP04
+DP04_0093PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $300,DP04
+DP04_0094E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$300 to $499,DP04
+DP04_0094PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$300 to $499,DP04
+DP04_0095E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $699,DP04
+DP04_0095PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $699,DP04
+DP04_0096E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$700 to $999,DP04
+DP04_0096PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$700 to $999,DP04
+DP04_0097E,int,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",DP04
+DP04_0097PE,float,"Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",DP04
+DP04_0098E,int,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",DP04
+DP04_0098PE,float,"Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",DP04
+DP04_0099E,int,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 or more",DP04
+DP04_0099PE,float,"Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 or more",DP04
+DP04_0100E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),DP04
+DP04_0100PE,int,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),DP04
+DP04_0101E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,DP04
+DP04_0101PE,int,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,DP04
+DP04_0102E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $100,DP04
+DP04_0102PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $100,DP04
+DP04_0103E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$100 to $199,DP04
+DP04_0103PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$100 to $199,DP04
+DP04_0104E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$200 to $299,DP04
+DP04_0104PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$200 to $299,DP04
+DP04_0105E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$300 to $399,DP04
+DP04_0105PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$300 to $399,DP04
+DP04_0106E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 or more,DP04
+DP04_0106PE,float,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 or more,DP04
+DP04_0107E,int,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),DP04
+DP04_0107PE,int,Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),DP04
+DP04_0108E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0108PE,int,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0109E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,DP04
+DP04_0109PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,DP04
+DP04_0110E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0110PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0111E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0111PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0112E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0112PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0113E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0113PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0114E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0114PE,int,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0115E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0115PE,int,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0116E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,DP04
+DP04_0116PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,DP04
+DP04_0117E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,DP04
+DP04_0117PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,DP04
+DP04_0118E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0118PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0119E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0119PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0120E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0120PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0121E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0121PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0122E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0122PE,float,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0123E,int,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0123PE,int,Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0124E,int,Estimate!!GROSS RENT!!Occupied units paying rent,DP04
+DP04_0124PE,int,Percent!!GROSS RENT!!Occupied units paying rent,DP04
+DP04_0125E,int,Estimate!!GROSS RENT!!Occupied units paying rent!!Less than $200,DP04
+DP04_0125PE,float,Percent!!GROSS RENT!!Occupied units paying rent!!Less than $200,DP04
+DP04_0126E,int,Estimate!!GROSS RENT!!Occupied units paying rent!!$200 to $299,DP04
+DP04_0126PE,float,Percent!!GROSS RENT!!Occupied units paying rent!!$200 to $299,DP04
+DP04_0127E,int,Estimate!!GROSS RENT!!Occupied units paying rent!!$300 to $499,DP04
+DP04_0127PE,float,Percent!!GROSS RENT!!Occupied units paying rent!!$300 to $499,DP04
+DP04_0128E,int,Estimate!!GROSS RENT!!Occupied units paying rent!!$500 to $749,DP04
+DP04_0128PE,float,Percent!!GROSS RENT!!Occupied units paying rent!!$500 to $749,DP04
+DP04_0129E,int,Estimate!!GROSS RENT!!Occupied units paying rent!!$750 to $999,DP04
+DP04_0129PE,float,Percent!!GROSS RENT!!Occupied units paying rent!!$750 to $999,DP04
+DP04_0130E,int,"Estimate!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",DP04
+DP04_0130PE,float,"Percent!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",DP04
+DP04_0131E,int,"Estimate!!GROSS RENT!!Occupied units paying rent!!$1,500 or more",DP04
+DP04_0131PE,float,"Percent!!GROSS RENT!!Occupied units paying rent!!$1,500 or more",DP04
+DP04_0132E,int,Estimate!!GROSS RENT!!Occupied units paying rent!!Median (dollars),DP04
+DP04_0132PE,int,Percent!!GROSS RENT!!Occupied units paying rent!!Median (dollars),DP04
+DP04_0133E,int,Estimate!!GROSS RENT!!No rent paid,DP04
+DP04_0133PE,int,Percent!!GROSS RENT!!No rent paid,DP04
+DP04_0134E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),DP04
+DP04_0134PE,int,Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),DP04
+DP04_0135E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,DP04
+DP04_0135PE,float,Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,DP04
+DP04_0136E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0136PE,float,Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0137E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0137PE,float,Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0138E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0138PE,float,Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0139E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0139PE,float,Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0140E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0140PE,float,Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0141E,int,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Not computed,DP04
+DP04_0141PE,int,Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Not computed,DP04
+DP04_0001M,int,Margin of Error!!HOUSING OCCUPANCY!!Total housing units,DP04
+DP04_0001PM,int,Percent Margin of Error!!HOUSING OCCUPANCY!!Total housing units,DP04
+DP04_0002M,int,Margin of Error!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,DP04
+DP04_0002PM,float,Percent Margin of Error!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,DP04
+DP04_0003M,int,Margin of Error!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,DP04
+DP04_0003PM,float,Percent Margin of Error!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,DP04
+DP04_0004M,float,Margin of Error!!HOUSING OCCUPANCY!!Homeowner vacancy rate,DP04
+DP04_0004PM,int,Percent Margin of Error!!HOUSING OCCUPANCY!!Homeowner vacancy rate,DP04
+DP04_0005M,float,Margin of Error!!HOUSING OCCUPANCY!!Rental vacancy rate,DP04
+DP04_0005PM,int,Percent Margin of Error!!HOUSING OCCUPANCY!!Rental vacancy rate,DP04
+DP04_0006M,int,Margin of Error!!UNITS IN STRUCTURE!!Total housing units,DP04
+DP04_0006PM,int,Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units,DP04
+DP04_0007M,int,"Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",DP04
+DP04_0007PM,float,"Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",DP04
+DP04_0008M,int,"Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",DP04
+DP04_0008PM,float,"Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",DP04
+DP04_0009M,int,Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!2 units,DP04
+DP04_0009PM,float,Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!2 units,DP04
+DP04_0010M,int,Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,DP04
+DP04_0010PM,float,Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,DP04
+DP04_0011M,int,Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,DP04
+DP04_0011PM,float,Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,DP04
+DP04_0012M,int,Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,DP04
+DP04_0012PM,float,Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,DP04
+DP04_0013M,int,Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,DP04
+DP04_0013PM,float,Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,DP04
+DP04_0014M,int,Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,DP04
+DP04_0014PM,float,Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,DP04
+DP04_0015M,int,"Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",DP04
+DP04_0015PM,float,"Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",DP04
+DP04_0016M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units,DP04
+DP04_0016PM,int,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units,DP04
+DP04_0017M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 or later,DP04
+DP04_0017PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 or later,DP04
+DP04_0018M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,DP04
+DP04_0018PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,DP04
+DP04_0019M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,DP04
+DP04_0019PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,DP04
+DP04_0020M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,DP04
+DP04_0020PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,DP04
+DP04_0021M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,DP04
+DP04_0021PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,DP04
+DP04_0022M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,DP04
+DP04_0022PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,DP04
+DP04_0023M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,DP04
+DP04_0023PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,DP04
+DP04_0024M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,DP04
+DP04_0024PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,DP04
+DP04_0025M,int,Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,DP04
+DP04_0025PM,float,Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,DP04
+DP04_0026M,int,Margin of Error!!ROOMS!!Total housing units,DP04
+DP04_0026PM,int,Percent Margin of Error!!ROOMS!!Total housing units,DP04
+DP04_0027M,int,Margin of Error!!ROOMS!!Total housing units!!1 room,DP04
+DP04_0027PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!1 room,DP04
+DP04_0028M,int,Margin of Error!!ROOMS!!Total housing units!!2 rooms,DP04
+DP04_0028PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!2 rooms,DP04
+DP04_0029M,int,Margin of Error!!ROOMS!!Total housing units!!3 rooms,DP04
+DP04_0029PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!3 rooms,DP04
+DP04_0030M,int,Margin of Error!!ROOMS!!Total housing units!!4 rooms,DP04
+DP04_0030PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!4 rooms,DP04
+DP04_0031M,int,Margin of Error!!ROOMS!!Total housing units!!5 rooms,DP04
+DP04_0031PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!5 rooms,DP04
+DP04_0032M,int,Margin of Error!!ROOMS!!Total housing units!!6 rooms,DP04
+DP04_0032PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!6 rooms,DP04
+DP04_0033M,int,Margin of Error!!ROOMS!!Total housing units!!7 rooms,DP04
+DP04_0033PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!7 rooms,DP04
+DP04_0034M,int,Margin of Error!!ROOMS!!Total housing units!!8 rooms,DP04
+DP04_0034PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!8 rooms,DP04
+DP04_0035M,int,Margin of Error!!ROOMS!!Total housing units!!9 rooms or more,DP04
+DP04_0035PM,float,Percent Margin of Error!!ROOMS!!Total housing units!!9 rooms or more,DP04
+DP04_0036M,float,Margin of Error!!ROOMS!!Total housing units!!Median rooms,DP04
+DP04_0036PM,int,Percent Margin of Error!!ROOMS!!Total housing units!!Median rooms,DP04
+DP04_0037M,int,Margin of Error!!BEDROOMS!!Total housing units,DP04
+DP04_0037PM,int,Percent Margin of Error!!BEDROOMS!!Total housing units,DP04
+DP04_0038M,int,Margin of Error!!BEDROOMS!!Total housing units!!No bedroom,DP04
+DP04_0038PM,float,Percent Margin of Error!!BEDROOMS!!Total housing units!!No bedroom,DP04
+DP04_0039M,int,Margin of Error!!BEDROOMS!!Total housing units!!1 bedroom,DP04
+DP04_0039PM,float,Percent Margin of Error!!BEDROOMS!!Total housing units!!1 bedroom,DP04
+DP04_0040M,int,Margin of Error!!BEDROOMS!!Total housing units!!2 bedrooms,DP04
+DP04_0040PM,float,Percent Margin of Error!!BEDROOMS!!Total housing units!!2 bedrooms,DP04
+DP04_0041M,int,Margin of Error!!BEDROOMS!!Total housing units!!3 bedrooms,DP04
+DP04_0041PM,float,Percent Margin of Error!!BEDROOMS!!Total housing units!!3 bedrooms,DP04
+DP04_0042M,int,Margin of Error!!BEDROOMS!!Total housing units!!4 bedrooms,DP04
+DP04_0042PM,float,Percent Margin of Error!!BEDROOMS!!Total housing units!!4 bedrooms,DP04
+DP04_0043M,int,Margin of Error!!BEDROOMS!!Total housing units!!5 or more bedrooms,DP04
+DP04_0043PM,float,Percent Margin of Error!!BEDROOMS!!Total housing units!!5 or more bedrooms,DP04
+DP04_0044M,int,Margin of Error!!HOUSING TENURE!!Occupied housing units,DP04
+DP04_0044PM,int,Percent Margin of Error!!HOUSING TENURE!!Occupied housing units,DP04
+DP04_0045M,int,Margin of Error!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,DP04
+DP04_0045PM,float,Percent Margin of Error!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,DP04
+DP04_0046M,int,Margin of Error!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,DP04
+DP04_0046PM,float,Percent Margin of Error!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,DP04
+DP04_0047M,float,Margin of Error!!HOUSING TENURE!!Average household size of owner-occupied unit,DP04
+DP04_0047PM,int,Percent Margin of Error!!HOUSING TENURE!!Average household size of owner-occupied unit,DP04
+DP04_0048M,float,Margin of Error!!HOUSING TENURE!!Average household size of renter-occupied unit,DP04
+DP04_0048PM,int,Percent Margin of Error!!HOUSING TENURE!!Average household size of renter-occupied unit,DP04
+DP04_0049M,int,Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,DP04
+DP04_0049PM,int,Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,DP04
+DP04_0050M,int,Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 or later,DP04
+DP04_0050PM,float,Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 or later,DP04
+DP04_0051M,int,Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,DP04
+DP04_0051PM,float,Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,DP04
+DP04_0052M,int,Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,DP04
+DP04_0052PM,float,Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,DP04
+DP04_0053M,int,Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1980 to 1989,DP04
+DP04_0053PM,float,Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1980 to 1989,DP04
+DP04_0054M,int,Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1970 to 1979,DP04
+DP04_0054PM,float,Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1970 to 1979,DP04
+DP04_0055M,int,Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1969 or earlier,DP04
+DP04_0055PM,float,Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1969 or earlier,DP04
+DP04_0056M,int,Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units,DP04
+DP04_0056PM,int,Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units,DP04
+DP04_0057M,int,Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,DP04
+DP04_0057PM,float,Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,DP04
+DP04_0058M,int,Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,DP04
+DP04_0058PM,float,Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,DP04
+DP04_0059M,int,Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,DP04
+DP04_0059PM,float,Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,DP04
+DP04_0060M,int,Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,DP04
+DP04_0060PM,float,Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,DP04
+DP04_0061M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units,DP04
+DP04_0061PM,int,Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units,DP04
+DP04_0062M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,DP04
+DP04_0062PM,float,Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,DP04
+DP04_0063M,int,"Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",DP04
+DP04_0063PM,float,"Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",DP04
+DP04_0064M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,DP04
+DP04_0064PM,float,Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,DP04
+DP04_0065M,int,"Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",DP04
+DP04_0065PM,float,"Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",DP04
+DP04_0066M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,DP04
+DP04_0066PM,float,Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,DP04
+DP04_0067M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,DP04
+DP04_0067PM,float,Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,DP04
+DP04_0068M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,DP04
+DP04_0068PM,float,Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,DP04
+DP04_0069M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,DP04
+DP04_0069PM,float,Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,DP04
+DP04_0070M,int,Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,DP04
+DP04_0070PM,float,Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,DP04
+DP04_0071M,int,Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units,DP04
+DP04_0071PM,int,Percent Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units,DP04
+DP04_0072M,int,Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,DP04
+DP04_0072PM,float,Percent Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,DP04
+DP04_0073M,int,Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,DP04
+DP04_0073PM,float,Percent Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,DP04
+DP04_0074M,int,Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,DP04
+DP04_0074PM,float,Percent Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,DP04
+DP04_0075M,int,Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units,DP04
+DP04_0075PM,int,Percent Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units,DP04
+DP04_0076M,int,Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,DP04
+DP04_0076PM,float,Percent Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,DP04
+DP04_0077M,int,Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,DP04
+DP04_0077PM,float,Percent Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,DP04
+DP04_0078M,int,Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,DP04
+DP04_0078PM,float,Percent Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,DP04
+DP04_0079M,int,Margin of Error!!VALUE!!Owner-occupied units,DP04
+DP04_0079PM,int,Percent Margin of Error!!VALUE!!Owner-occupied units,DP04
+DP04_0080M,int,"Margin of Error!!VALUE!!Owner-occupied units!!Less than $50,000",DP04
+DP04_0080PM,float,"Percent Margin of Error!!VALUE!!Owner-occupied units!!Less than $50,000",DP04
+DP04_0081M,int,"Margin of Error!!VALUE!!Owner-occupied units!!$50,000 to $99,999",DP04
+DP04_0081PM,float,"Percent Margin of Error!!VALUE!!Owner-occupied units!!$50,000 to $99,999",DP04
+DP04_0082M,int,"Margin of Error!!VALUE!!Owner-occupied units!!$100,000 to $149,999",DP04
+DP04_0082PM,float,"Percent Margin of Error!!VALUE!!Owner-occupied units!!$100,000 to $149,999",DP04
+DP04_0083M,int,"Margin of Error!!VALUE!!Owner-occupied units!!$150,000 to $199,999",DP04
+DP04_0083PM,float,"Percent Margin of Error!!VALUE!!Owner-occupied units!!$150,000 to $199,999",DP04
+DP04_0084M,int,"Margin of Error!!VALUE!!Owner-occupied units!!$200,000 to $299,999",DP04
+DP04_0084PM,float,"Percent Margin of Error!!VALUE!!Owner-occupied units!!$200,000 to $299,999",DP04
+DP04_0085M,int,"Margin of Error!!VALUE!!Owner-occupied units!!$300,000 to $499,999",DP04
+DP04_0085PM,float,"Percent Margin of Error!!VALUE!!Owner-occupied units!!$300,000 to $499,999",DP04
+DP04_0086M,int,"Margin of Error!!VALUE!!Owner-occupied units!!$500,000 to $999,999",DP04
+DP04_0086PM,float,"Percent Margin of Error!!VALUE!!Owner-occupied units!!$500,000 to $999,999",DP04
+DP04_0087M,int,"Margin of Error!!VALUE!!Owner-occupied units!!$1,000,000 or more",DP04
+DP04_0087PM,float,"Percent Margin of Error!!VALUE!!Owner-occupied units!!$1,000,000 or more",DP04
+DP04_0088M,int,Margin of Error!!VALUE!!Owner-occupied units!!Median (dollars),DP04
+DP04_0088PM,int,Percent Margin of Error!!VALUE!!Owner-occupied units!!Median (dollars),DP04
+DP04_0089M,int,Margin of Error!!MORTGAGE STATUS!!Owner-occupied units,DP04
+DP04_0089PM,int,Percent Margin of Error!!MORTGAGE STATUS!!Owner-occupied units,DP04
+DP04_0090M,int,Margin of Error!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,DP04
+DP04_0090PM,float,Percent Margin of Error!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,DP04
+DP04_0091M,int,Margin of Error!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,DP04
+DP04_0091PM,float,Percent Margin of Error!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,DP04
+DP04_0092M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,DP04
+DP04_0092PM,int,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,DP04
+DP04_0093M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $300,DP04
+DP04_0093PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $300,DP04
+DP04_0094M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$300 to $499,DP04
+DP04_0094PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$300 to $499,DP04
+DP04_0095M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $699,DP04
+DP04_0095PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $699,DP04
+DP04_0096M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$700 to $999,DP04
+DP04_0096PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$700 to $999,DP04
+DP04_0097M,int,"Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",DP04
+DP04_0097PM,float,"Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",DP04
+DP04_0098M,int,"Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",DP04
+DP04_0098PM,float,"Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",DP04
+DP04_0099M,int,"Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 or more",DP04
+DP04_0099PM,float,"Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 or more",DP04
+DP04_0100M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),DP04
+DP04_0100PM,int,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),DP04
+DP04_0101M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,DP04
+DP04_0101PM,int,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,DP04
+DP04_0102M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $100,DP04
+DP04_0102PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $100,DP04
+DP04_0103M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$100 to $199,DP04
+DP04_0103PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$100 to $199,DP04
+DP04_0104M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$200 to $299,DP04
+DP04_0104PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$200 to $299,DP04
+DP04_0105M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$300 to $399,DP04
+DP04_0105PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$300 to $399,DP04
+DP04_0106M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 or more,DP04
+DP04_0106PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 or more,DP04
+DP04_0107M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),DP04
+DP04_0107PM,int,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),DP04
+DP04_0108M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0108PM,int,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0109M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,DP04
+DP04_0109PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,DP04
+DP04_0110M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0110PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0111M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0111PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0112M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0112PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0113M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0113PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0114M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0114PM,int,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0115M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0115PM,int,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0116M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,DP04
+DP04_0116PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,DP04
+DP04_0117M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,DP04
+DP04_0117PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,DP04
+DP04_0118M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0118PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0119M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0119PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0120M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0120PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0121M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0121PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0122M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0122PM,float,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0123M,int,Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0123PM,int,Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0124M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent,DP04
+DP04_0124PM,int,Percent Margin of Error!!GROSS RENT!!Occupied units paying rent,DP04
+DP04_0125M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent!!Less than $200,DP04
+DP04_0125PM,float,Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!Less than $200,DP04
+DP04_0126M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent!!$200 to $299,DP04
+DP04_0126PM,float,Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$200 to $299,DP04
+DP04_0127M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent!!$300 to $499,DP04
+DP04_0127PM,float,Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$300 to $499,DP04
+DP04_0128M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent!!$500 to $749,DP04
+DP04_0128PM,float,Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$500 to $749,DP04
+DP04_0129M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent!!$750 to $999,DP04
+DP04_0129PM,float,Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$750 to $999,DP04
+DP04_0130M,int,"Margin of Error!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",DP04
+DP04_0130PM,float,"Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",DP04
+DP04_0131M,int,"Margin of Error!!GROSS RENT!!Occupied units paying rent!!$1,500 or more",DP04
+DP04_0131PM,float,"Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$1,500 or more",DP04
+DP04_0132M,int,Margin of Error!!GROSS RENT!!Occupied units paying rent!!Median (dollars),DP04
+DP04_0132PM,int,Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!Median (dollars),DP04
+DP04_0133M,int,Margin of Error!!GROSS RENT!!No rent paid,DP04
+DP04_0133PM,int,Percent Margin of Error!!GROSS RENT!!No rent paid,DP04
+DP04_0134M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),DP04
+DP04_0134PM,int,Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),DP04
+DP04_0135M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,DP04
+DP04_0135PM,float,Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,DP04
+DP04_0136M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0136PM,float,Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0137M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0137PM,float,Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0138M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0138PM,float,Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0139M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0139PM,float,Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0140M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0140PM,float,Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0141M,int,Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Not computed,DP04
+DP04_0141PM,int,Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Not computed,DP04
+DP04_0001EA,string,Annotation of Estimate!!HOUSING OCCUPANCY!!Total housing units,DP04
+DP04_0001MA,string,Annotation of Margin of Error!!HOUSING OCCUPANCY!!Total housing units,DP04
+DP04_0001PEA,string,Annotation of Percent!!HOUSING OCCUPANCY!!Total housing units,DP04
+DP04_0001PMA,string,Annotation of Percent Margin of Error!!HOUSING OCCUPANCY!!Total housing units,DP04
+DP04_0002EA,string,Annotation of Estimate!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,DP04
+DP04_0002MA,string,Annotation of Margin of Error!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,DP04
+DP04_0002PEA,string,Annotation of Percent!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,DP04
+DP04_0002PMA,string,Annotation of Percent Margin of Error!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,DP04
+DP04_0003EA,string,Annotation of Estimate!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,DP04
+DP04_0003MA,string,Annotation of Margin of Error!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,DP04
+DP04_0003PEA,string,Annotation of Percent!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,DP04
+DP04_0003PMA,string,Annotation of Percent Margin of Error!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,DP04
+DP04_0004EA,string,Annotation of Estimate!!HOUSING OCCUPANCY!!Homeowner vacancy rate,DP04
+DP04_0004MA,string,Annotation of Margin of Error!!HOUSING OCCUPANCY!!Homeowner vacancy rate,DP04
+DP04_0004PEA,string,Annotation of Percent!!HOUSING OCCUPANCY!!Homeowner vacancy rate,DP04
+DP04_0004PMA,string,Annotation of Percent Margin of Error!!HOUSING OCCUPANCY!!Homeowner vacancy rate,DP04
+DP04_0005EA,string,Annotation of Estimate!!HOUSING OCCUPANCY!!Rental vacancy rate,DP04
+DP04_0005MA,string,Annotation of Margin of Error!!HOUSING OCCUPANCY!!Rental vacancy rate,DP04
+DP04_0005PEA,string,Annotation of Percent!!HOUSING OCCUPANCY!!Rental vacancy rate,DP04
+DP04_0005PMA,string,Annotation of Percent Margin of Error!!HOUSING OCCUPANCY!!Rental vacancy rate,DP04
+DP04_0006EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units,DP04
+DP04_0006MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units,DP04
+DP04_0006PEA,string,Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units,DP04
+DP04_0006PMA,string,Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units,DP04
+DP04_0007EA,string,"Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",DP04
+DP04_0007MA,string,"Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",DP04
+DP04_0007PEA,string,"Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",DP04
+DP04_0007PMA,string,"Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",DP04
+DP04_0008EA,string,"Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",DP04
+DP04_0008MA,string,"Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",DP04
+DP04_0008PEA,string,"Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",DP04
+DP04_0008PMA,string,"Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",DP04
+DP04_0009EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!2 units,DP04
+DP04_0009MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!2 units,DP04
+DP04_0009PEA,string,Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!2 units,DP04
+DP04_0009PMA,string,Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!2 units,DP04
+DP04_0010EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,DP04
+DP04_0010MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,DP04
+DP04_0010PEA,string,Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,DP04
+DP04_0010PMA,string,Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,DP04
+DP04_0011EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,DP04
+DP04_0011MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,DP04
+DP04_0011PEA,string,Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,DP04
+DP04_0011PMA,string,Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,DP04
+DP04_0012EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,DP04
+DP04_0012MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,DP04
+DP04_0012PEA,string,Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,DP04
+DP04_0012PMA,string,Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,DP04
+DP04_0013EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,DP04
+DP04_0013MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,DP04
+DP04_0013PEA,string,Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,DP04
+DP04_0013PMA,string,Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,DP04
+DP04_0014EA,string,Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,DP04
+DP04_0014MA,string,Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,DP04
+DP04_0014PEA,string,Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,DP04
+DP04_0014PMA,string,Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,DP04
+DP04_0015EA,string,"Annotation of Estimate!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",DP04
+DP04_0015MA,string,"Annotation of Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",DP04
+DP04_0015PEA,string,"Annotation of Percent!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",DP04
+DP04_0015PMA,string,"Annotation of Percent Margin of Error!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",DP04
+DP04_0016EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units,DP04
+DP04_0016MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units,DP04
+DP04_0016PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units,DP04
+DP04_0016PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units,DP04
+DP04_0017EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 or later,DP04
+DP04_0017MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 or later,DP04
+DP04_0017PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 or later,DP04
+DP04_0017PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 or later,DP04
+DP04_0018EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,DP04
+DP04_0018MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,DP04
+DP04_0018PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,DP04
+DP04_0018PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,DP04
+DP04_0019EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,DP04
+DP04_0019MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,DP04
+DP04_0019PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,DP04
+DP04_0019PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,DP04
+DP04_0020EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,DP04
+DP04_0020MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,DP04
+DP04_0020PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,DP04
+DP04_0020PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,DP04
+DP04_0021EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,DP04
+DP04_0021MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,DP04
+DP04_0021PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,DP04
+DP04_0021PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,DP04
+DP04_0022EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,DP04
+DP04_0022MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,DP04
+DP04_0022PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,DP04
+DP04_0022PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,DP04
+DP04_0023EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,DP04
+DP04_0023MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,DP04
+DP04_0023PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,DP04
+DP04_0023PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,DP04
+DP04_0024EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,DP04
+DP04_0024MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,DP04
+DP04_0024PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,DP04
+DP04_0024PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,DP04
+DP04_0025EA,string,Annotation of Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,DP04
+DP04_0025MA,string,Annotation of Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,DP04
+DP04_0025PEA,string,Annotation of Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,DP04
+DP04_0025PMA,string,Annotation of Percent Margin of Error!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,DP04
+DP04_0026EA,string,Annotation of Estimate!!ROOMS!!Total housing units,DP04
+DP04_0026MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units,DP04
+DP04_0026PEA,string,Annotation of Percent!!ROOMS!!Total housing units,DP04
+DP04_0026PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units,DP04
+DP04_0027EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!1 room,DP04
+DP04_0027MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!1 room,DP04
+DP04_0027PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!1 room,DP04
+DP04_0027PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!1 room,DP04
+DP04_0028EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!2 rooms,DP04
+DP04_0028MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!2 rooms,DP04
+DP04_0028PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!2 rooms,DP04
+DP04_0028PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!2 rooms,DP04
+DP04_0029EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!3 rooms,DP04
+DP04_0029MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!3 rooms,DP04
+DP04_0029PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!3 rooms,DP04
+DP04_0029PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!3 rooms,DP04
+DP04_0030EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!4 rooms,DP04
+DP04_0030MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!4 rooms,DP04
+DP04_0030PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!4 rooms,DP04
+DP04_0030PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!4 rooms,DP04
+DP04_0031EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!5 rooms,DP04
+DP04_0031MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!5 rooms,DP04
+DP04_0031PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!5 rooms,DP04
+DP04_0031PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!5 rooms,DP04
+DP04_0032EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!6 rooms,DP04
+DP04_0032MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!6 rooms,DP04
+DP04_0032PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!6 rooms,DP04
+DP04_0032PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!6 rooms,DP04
+DP04_0033EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!7 rooms,DP04
+DP04_0033MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!7 rooms,DP04
+DP04_0033PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!7 rooms,DP04
+DP04_0033PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!7 rooms,DP04
+DP04_0034EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!8 rooms,DP04
+DP04_0034MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!8 rooms,DP04
+DP04_0034PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!8 rooms,DP04
+DP04_0034PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!8 rooms,DP04
+DP04_0035EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!9 rooms or more,DP04
+DP04_0035MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!9 rooms or more,DP04
+DP04_0035PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!9 rooms or more,DP04
+DP04_0035PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!9 rooms or more,DP04
+DP04_0036EA,string,Annotation of Estimate!!ROOMS!!Total housing units!!Median rooms,DP04
+DP04_0036MA,string,Annotation of Margin of Error!!ROOMS!!Total housing units!!Median rooms,DP04
+DP04_0036PEA,string,Annotation of Percent!!ROOMS!!Total housing units!!Median rooms,DP04
+DP04_0036PMA,string,Annotation of Percent Margin of Error!!ROOMS!!Total housing units!!Median rooms,DP04
+DP04_0037EA,string,Annotation of Estimate!!BEDROOMS!!Total housing units,DP04
+DP04_0037MA,string,Annotation of Margin of Error!!BEDROOMS!!Total housing units,DP04
+DP04_0037PEA,string,Annotation of Percent!!BEDROOMS!!Total housing units,DP04
+DP04_0037PMA,string,Annotation of Percent Margin of Error!!BEDROOMS!!Total housing units,DP04
+DP04_0038EA,string,Annotation of Estimate!!BEDROOMS!!Total housing units!!No bedroom,DP04
+DP04_0038MA,string,Annotation of Margin of Error!!BEDROOMS!!Total housing units!!No bedroom,DP04
+DP04_0038PEA,string,Annotation of Percent!!BEDROOMS!!Total housing units!!No bedroom,DP04
+DP04_0038PMA,string,Annotation of Percent Margin of Error!!BEDROOMS!!Total housing units!!No bedroom,DP04
+DP04_0039EA,string,Annotation of Estimate!!BEDROOMS!!Total housing units!!1 bedroom,DP04
+DP04_0039MA,string,Annotation of Margin of Error!!BEDROOMS!!Total housing units!!1 bedroom,DP04
+DP04_0039PEA,string,Annotation of Percent!!BEDROOMS!!Total housing units!!1 bedroom,DP04
+DP04_0039PMA,string,Annotation of Percent Margin of Error!!BEDROOMS!!Total housing units!!1 bedroom,DP04
+DP04_0040EA,string,Annotation of Estimate!!BEDROOMS!!Total housing units!!2 bedrooms,DP04
+DP04_0040MA,string,Annotation of Margin of Error!!BEDROOMS!!Total housing units!!2 bedrooms,DP04
+DP04_0040PEA,string,Annotation of Percent!!BEDROOMS!!Total housing units!!2 bedrooms,DP04
+DP04_0040PMA,string,Annotation of Percent Margin of Error!!BEDROOMS!!Total housing units!!2 bedrooms,DP04
+DP04_0041EA,string,Annotation of Estimate!!BEDROOMS!!Total housing units!!3 bedrooms,DP04
+DP04_0041MA,string,Annotation of Margin of Error!!BEDROOMS!!Total housing units!!3 bedrooms,DP04
+DP04_0041PEA,string,Annotation of Percent!!BEDROOMS!!Total housing units!!3 bedrooms,DP04
+DP04_0041PMA,string,Annotation of Percent Margin of Error!!BEDROOMS!!Total housing units!!3 bedrooms,DP04
+DP04_0042EA,string,Annotation of Estimate!!BEDROOMS!!Total housing units!!4 bedrooms,DP04
+DP04_0042MA,string,Annotation of Margin of Error!!BEDROOMS!!Total housing units!!4 bedrooms,DP04
+DP04_0042PEA,string,Annotation of Percent!!BEDROOMS!!Total housing units!!4 bedrooms,DP04
+DP04_0042PMA,string,Annotation of Percent Margin of Error!!BEDROOMS!!Total housing units!!4 bedrooms,DP04
+DP04_0043EA,string,Annotation of Estimate!!BEDROOMS!!Total housing units!!5 or more bedrooms,DP04
+DP04_0043MA,string,Annotation of Margin of Error!!BEDROOMS!!Total housing units!!5 or more bedrooms,DP04
+DP04_0043PEA,string,Annotation of Percent!!BEDROOMS!!Total housing units!!5 or more bedrooms,DP04
+DP04_0043PMA,string,Annotation of Percent Margin of Error!!BEDROOMS!!Total housing units!!5 or more bedrooms,DP04
+DP04_0044EA,string,Annotation of Estimate!!HOUSING TENURE!!Occupied housing units,DP04
+DP04_0044MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Occupied housing units,DP04
+DP04_0044PEA,string,Annotation of Percent!!HOUSING TENURE!!Occupied housing units,DP04
+DP04_0044PMA,string,Annotation of Percent Margin of Error!!HOUSING TENURE!!Occupied housing units,DP04
+DP04_0045EA,string,Annotation of Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,DP04
+DP04_0045MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,DP04
+DP04_0045PEA,string,Annotation of Percent!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,DP04
+DP04_0045PMA,string,Annotation of Percent Margin of Error!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,DP04
+DP04_0046EA,string,Annotation of Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,DP04
+DP04_0046MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,DP04
+DP04_0046PEA,string,Annotation of Percent!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,DP04
+DP04_0046PMA,string,Annotation of Percent Margin of Error!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,DP04
+DP04_0047EA,string,Annotation of Estimate!!HOUSING TENURE!!Average household size of owner-occupied unit,DP04
+DP04_0047MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Average household size of owner-occupied unit,DP04
+DP04_0047PEA,string,Annotation of Percent!!HOUSING TENURE!!Average household size of owner-occupied unit,DP04
+DP04_0047PMA,string,Annotation of Percent Margin of Error!!HOUSING TENURE!!Average household size of owner-occupied unit,DP04
+DP04_0048EA,string,Annotation of Estimate!!HOUSING TENURE!!Average household size of renter-occupied unit,DP04
+DP04_0048MA,string,Annotation of Margin of Error!!HOUSING TENURE!!Average household size of renter-occupied unit,DP04
+DP04_0048PEA,string,Annotation of Percent!!HOUSING TENURE!!Average household size of renter-occupied unit,DP04
+DP04_0048PMA,string,Annotation of Percent Margin of Error!!HOUSING TENURE!!Average household size of renter-occupied unit,DP04
+DP04_0049EA,string,Annotation of Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,DP04
+DP04_0049MA,string,Annotation of Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,DP04
+DP04_0049PEA,string,Annotation of Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,DP04
+DP04_0049PMA,string,Annotation of Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,DP04
+DP04_0050EA,string,Annotation of Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 or later,DP04
+DP04_0050MA,string,Annotation of Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 or later,DP04
+DP04_0050PEA,string,Annotation of Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 or later,DP04
+DP04_0050PMA,string,Annotation of Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 or later,DP04
+DP04_0051EA,string,Annotation of Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,DP04
+DP04_0051MA,string,Annotation of Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,DP04
+DP04_0051PEA,string,Annotation of Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,DP04
+DP04_0051PMA,string,Annotation of Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,DP04
+DP04_0052EA,string,Annotation of Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,DP04
+DP04_0052MA,string,Annotation of Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,DP04
+DP04_0052PEA,string,Annotation of Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,DP04
+DP04_0052PMA,string,Annotation of Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,DP04
+DP04_0053EA,string,Annotation of Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1980 to 1989,DP04
+DP04_0053MA,string,Annotation of Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1980 to 1989,DP04
+DP04_0053PEA,string,Annotation of Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1980 to 1989,DP04
+DP04_0053PMA,string,Annotation of Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1980 to 1989,DP04
+DP04_0054EA,string,Annotation of Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1970 to 1979,DP04
+DP04_0054MA,string,Annotation of Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1970 to 1979,DP04
+DP04_0054PEA,string,Annotation of Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1970 to 1979,DP04
+DP04_0054PMA,string,Annotation of Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1970 to 1979,DP04
+DP04_0055EA,string,Annotation of Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1969 or earlier,DP04
+DP04_0055MA,string,Annotation of Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1969 or earlier,DP04
+DP04_0055PEA,string,Annotation of Percent!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1969 or earlier,DP04
+DP04_0055PMA,string,Annotation of Percent Margin of Error!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1969 or earlier,DP04
+DP04_0056EA,string,Annotation of Estimate!!VEHICLES AVAILABLE!!Occupied housing units,DP04
+DP04_0056MA,string,Annotation of Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units,DP04
+DP04_0056PEA,string,Annotation of Percent!!VEHICLES AVAILABLE!!Occupied housing units,DP04
+DP04_0056PMA,string,Annotation of Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units,DP04
+DP04_0057EA,string,Annotation of Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,DP04
+DP04_0057MA,string,Annotation of Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,DP04
+DP04_0057PEA,string,Annotation of Percent!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,DP04
+DP04_0057PMA,string,Annotation of Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,DP04
+DP04_0058EA,string,Annotation of Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,DP04
+DP04_0058MA,string,Annotation of Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,DP04
+DP04_0058PEA,string,Annotation of Percent!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,DP04
+DP04_0058PMA,string,Annotation of Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,DP04
+DP04_0059EA,string,Annotation of Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,DP04
+DP04_0059MA,string,Annotation of Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,DP04
+DP04_0059PEA,string,Annotation of Percent!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,DP04
+DP04_0059PMA,string,Annotation of Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,DP04
+DP04_0060EA,string,Annotation of Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,DP04
+DP04_0060MA,string,Annotation of Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,DP04
+DP04_0060PEA,string,Annotation of Percent!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,DP04
+DP04_0060PMA,string,Annotation of Percent Margin of Error!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,DP04
+DP04_0061EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units,DP04
+DP04_0061MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units,DP04
+DP04_0061PEA,string,Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units,DP04
+DP04_0061PMA,string,Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units,DP04
+DP04_0062EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,DP04
+DP04_0062MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,DP04
+DP04_0062PEA,string,Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,DP04
+DP04_0062PMA,string,Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,DP04
+DP04_0063EA,string,"Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",DP04
+DP04_0063MA,string,"Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",DP04
+DP04_0063PEA,string,"Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",DP04
+DP04_0063PMA,string,"Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",DP04
+DP04_0064EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,DP04
+DP04_0064MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,DP04
+DP04_0064PEA,string,Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,DP04
+DP04_0064PMA,string,Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,DP04
+DP04_0065EA,string,"Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",DP04
+DP04_0065MA,string,"Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",DP04
+DP04_0065PEA,string,"Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",DP04
+DP04_0065PMA,string,"Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",DP04
+DP04_0066EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,DP04
+DP04_0066MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,DP04
+DP04_0066PEA,string,Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,DP04
+DP04_0066PMA,string,Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,DP04
+DP04_0067EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,DP04
+DP04_0067MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,DP04
+DP04_0067PEA,string,Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,DP04
+DP04_0067PMA,string,Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,DP04
+DP04_0068EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,DP04
+DP04_0068MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,DP04
+DP04_0068PEA,string,Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,DP04
+DP04_0068PMA,string,Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,DP04
+DP04_0069EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,DP04
+DP04_0069MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,DP04
+DP04_0069PEA,string,Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,DP04
+DP04_0069PMA,string,Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,DP04
+DP04_0070EA,string,Annotation of Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,DP04
+DP04_0070MA,string,Annotation of Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,DP04
+DP04_0070PEA,string,Annotation of Percent!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,DP04
+DP04_0070PMA,string,Annotation of Percent Margin of Error!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,DP04
+DP04_0071EA,string,Annotation of Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units,DP04
+DP04_0071MA,string,Annotation of Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units,DP04
+DP04_0071PEA,string,Annotation of Percent!!SELECTED CHARACTERISTICS!!Occupied housing units,DP04
+DP04_0071PMA,string,Annotation of Percent Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units,DP04
+DP04_0072EA,string,Annotation of Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,DP04
+DP04_0072MA,string,Annotation of Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,DP04
+DP04_0072PEA,string,Annotation of Percent!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,DP04
+DP04_0072PMA,string,Annotation of Percent Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,DP04
+DP04_0073EA,string,Annotation of Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,DP04
+DP04_0073MA,string,Annotation of Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,DP04
+DP04_0073PEA,string,Annotation of Percent!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,DP04
+DP04_0073PMA,string,Annotation of Percent Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,DP04
+DP04_0074EA,string,Annotation of Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,DP04
+DP04_0074MA,string,Annotation of Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,DP04
+DP04_0074PEA,string,Annotation of Percent!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,DP04
+DP04_0074PMA,string,Annotation of Percent Margin of Error!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,DP04
+DP04_0075EA,string,Annotation of Estimate!!OCCUPANTS PER ROOM!!Occupied housing units,DP04
+DP04_0075MA,string,Annotation of Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units,DP04
+DP04_0075PEA,string,Annotation of Percent!!OCCUPANTS PER ROOM!!Occupied housing units,DP04
+DP04_0075PMA,string,Annotation of Percent Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units,DP04
+DP04_0076EA,string,Annotation of Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,DP04
+DP04_0076MA,string,Annotation of Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,DP04
+DP04_0076PEA,string,Annotation of Percent!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,DP04
+DP04_0076PMA,string,Annotation of Percent Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,DP04
+DP04_0077EA,string,Annotation of Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,DP04
+DP04_0077MA,string,Annotation of Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,DP04
+DP04_0077PEA,string,Annotation of Percent!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,DP04
+DP04_0077PMA,string,Annotation of Percent Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,DP04
+DP04_0078EA,string,Annotation of Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,DP04
+DP04_0078MA,string,Annotation of Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,DP04
+DP04_0078PEA,string,Annotation of Percent!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,DP04
+DP04_0078PMA,string,Annotation of Percent Margin of Error!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,DP04
+DP04_0079EA,string,Annotation of Estimate!!VALUE!!Owner-occupied units,DP04
+DP04_0079MA,string,Annotation of Margin of Error!!VALUE!!Owner-occupied units,DP04
+DP04_0079PEA,string,Annotation of Percent!!VALUE!!Owner-occupied units,DP04
+DP04_0079PMA,string,Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units,DP04
+DP04_0080EA,string,"Annotation of Estimate!!VALUE!!Owner-occupied units!!Less than $50,000",DP04
+DP04_0080MA,string,"Annotation of Margin of Error!!VALUE!!Owner-occupied units!!Less than $50,000",DP04
+DP04_0080PEA,string,"Annotation of Percent!!VALUE!!Owner-occupied units!!Less than $50,000",DP04
+DP04_0080PMA,string,"Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!Less than $50,000",DP04
+DP04_0081EA,string,"Annotation of Estimate!!VALUE!!Owner-occupied units!!$50,000 to $99,999",DP04
+DP04_0081MA,string,"Annotation of Margin of Error!!VALUE!!Owner-occupied units!!$50,000 to $99,999",DP04
+DP04_0081PEA,string,"Annotation of Percent!!VALUE!!Owner-occupied units!!$50,000 to $99,999",DP04
+DP04_0081PMA,string,"Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!$50,000 to $99,999",DP04
+DP04_0082EA,string,"Annotation of Estimate!!VALUE!!Owner-occupied units!!$100,000 to $149,999",DP04
+DP04_0082MA,string,"Annotation of Margin of Error!!VALUE!!Owner-occupied units!!$100,000 to $149,999",DP04
+DP04_0082PEA,string,"Annotation of Percent!!VALUE!!Owner-occupied units!!$100,000 to $149,999",DP04
+DP04_0082PMA,string,"Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!$100,000 to $149,999",DP04
+DP04_0083EA,string,"Annotation of Estimate!!VALUE!!Owner-occupied units!!$150,000 to $199,999",DP04
+DP04_0083MA,string,"Annotation of Margin of Error!!VALUE!!Owner-occupied units!!$150,000 to $199,999",DP04
+DP04_0083PEA,string,"Annotation of Percent!!VALUE!!Owner-occupied units!!$150,000 to $199,999",DP04
+DP04_0083PMA,string,"Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!$150,000 to $199,999",DP04
+DP04_0084EA,string,"Annotation of Estimate!!VALUE!!Owner-occupied units!!$200,000 to $299,999",DP04
+DP04_0084MA,string,"Annotation of Margin of Error!!VALUE!!Owner-occupied units!!$200,000 to $299,999",DP04
+DP04_0084PEA,string,"Annotation of Percent!!VALUE!!Owner-occupied units!!$200,000 to $299,999",DP04
+DP04_0084PMA,string,"Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!$200,000 to $299,999",DP04
+DP04_0085EA,string,"Annotation of Estimate!!VALUE!!Owner-occupied units!!$300,000 to $499,999",DP04
+DP04_0085MA,string,"Annotation of Margin of Error!!VALUE!!Owner-occupied units!!$300,000 to $499,999",DP04
+DP04_0085PEA,string,"Annotation of Percent!!VALUE!!Owner-occupied units!!$300,000 to $499,999",DP04
+DP04_0085PMA,string,"Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!$300,000 to $499,999",DP04
+DP04_0086EA,string,"Annotation of Estimate!!VALUE!!Owner-occupied units!!$500,000 to $999,999",DP04
+DP04_0086MA,string,"Annotation of Margin of Error!!VALUE!!Owner-occupied units!!$500,000 to $999,999",DP04
+DP04_0086PEA,string,"Annotation of Percent!!VALUE!!Owner-occupied units!!$500,000 to $999,999",DP04
+DP04_0086PMA,string,"Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!$500,000 to $999,999",DP04
+DP04_0087EA,string,"Annotation of Estimate!!VALUE!!Owner-occupied units!!$1,000,000 or more",DP04
+DP04_0087MA,string,"Annotation of Margin of Error!!VALUE!!Owner-occupied units!!$1,000,000 or more",DP04
+DP04_0087PEA,string,"Annotation of Percent!!VALUE!!Owner-occupied units!!$1,000,000 or more",DP04
+DP04_0087PMA,string,"Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!$1,000,000 or more",DP04
+DP04_0088EA,string,Annotation of Estimate!!VALUE!!Owner-occupied units!!Median (dollars),DP04
+DP04_0088MA,string,Annotation of Margin of Error!!VALUE!!Owner-occupied units!!Median (dollars),DP04
+DP04_0088PEA,string,Annotation of Percent!!VALUE!!Owner-occupied units!!Median (dollars),DP04
+DP04_0088PMA,string,Annotation of Percent Margin of Error!!VALUE!!Owner-occupied units!!Median (dollars),DP04
+DP04_0089EA,string,Annotation of Estimate!!MORTGAGE STATUS!!Owner-occupied units,DP04
+DP04_0089MA,string,Annotation of Margin of Error!!MORTGAGE STATUS!!Owner-occupied units,DP04
+DP04_0089PEA,string,Annotation of Percent!!MORTGAGE STATUS!!Owner-occupied units,DP04
+DP04_0089PMA,string,Annotation of Percent Margin of Error!!MORTGAGE STATUS!!Owner-occupied units,DP04
+DP04_0090EA,string,Annotation of Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,DP04
+DP04_0090MA,string,Annotation of Margin of Error!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,DP04
+DP04_0090PEA,string,Annotation of Percent!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,DP04
+DP04_0090PMA,string,Annotation of Percent Margin of Error!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,DP04
+DP04_0091EA,string,Annotation of Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,DP04
+DP04_0091MA,string,Annotation of Margin of Error!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,DP04
+DP04_0091PEA,string,Annotation of Percent!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,DP04
+DP04_0091PMA,string,Annotation of Percent Margin of Error!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,DP04
+DP04_0092EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,DP04
+DP04_0092MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,DP04
+DP04_0092PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,DP04
+DP04_0092PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,DP04
+DP04_0093EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $300,DP04
+DP04_0093MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $300,DP04
+DP04_0093PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $300,DP04
+DP04_0093PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $300,DP04
+DP04_0094EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$300 to $499,DP04
+DP04_0094MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$300 to $499,DP04
+DP04_0094PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$300 to $499,DP04
+DP04_0094PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$300 to $499,DP04
+DP04_0095EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $699,DP04
+DP04_0095MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $699,DP04
+DP04_0095PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $699,DP04
+DP04_0095PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $699,DP04
+DP04_0096EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$700 to $999,DP04
+DP04_0096MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$700 to $999,DP04
+DP04_0096PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$700 to $999,DP04
+DP04_0096PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$700 to $999,DP04
+DP04_0097EA,string,"Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",DP04
+DP04_0097MA,string,"Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",DP04
+DP04_0097PEA,string,"Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",DP04
+DP04_0097PMA,string,"Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",DP04
+DP04_0098EA,string,"Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",DP04
+DP04_0098MA,string,"Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",DP04
+DP04_0098PEA,string,"Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",DP04
+DP04_0098PMA,string,"Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",DP04
+DP04_0099EA,string,"Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 or more",DP04
+DP04_0099MA,string,"Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 or more",DP04
+DP04_0099PEA,string,"Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 or more",DP04
+DP04_0099PMA,string,"Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 or more",DP04
+DP04_0100EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),DP04
+DP04_0100MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),DP04
+DP04_0100PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),DP04
+DP04_0100PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),DP04
+DP04_0101EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,DP04
+DP04_0101MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,DP04
+DP04_0101PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,DP04
+DP04_0101PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,DP04
+DP04_0102EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $100,DP04
+DP04_0102MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $100,DP04
+DP04_0102PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $100,DP04
+DP04_0102PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $100,DP04
+DP04_0103EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$100 to $199,DP04
+DP04_0103MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$100 to $199,DP04
+DP04_0103PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$100 to $199,DP04
+DP04_0103PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$100 to $199,DP04
+DP04_0104EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$200 to $299,DP04
+DP04_0104MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$200 to $299,DP04
+DP04_0104PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$200 to $299,DP04
+DP04_0104PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$200 to $299,DP04
+DP04_0105EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$300 to $399,DP04
+DP04_0105MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$300 to $399,DP04
+DP04_0105PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$300 to $399,DP04
+DP04_0105PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$300 to $399,DP04
+DP04_0106EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 or more,DP04
+DP04_0106MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 or more,DP04
+DP04_0106PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 or more,DP04
+DP04_0106PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 or more,DP04
+DP04_0107EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),DP04
+DP04_0107MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),DP04
+DP04_0107PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),DP04
+DP04_0107PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),DP04
+DP04_0108EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0108MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0108PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0108PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0109EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,DP04
+DP04_0109MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,DP04
+DP04_0109PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,DP04
+DP04_0109PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,DP04
+DP04_0110EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0110MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0110PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0110PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0111EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0111MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0111PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0111PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0112EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0112MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0112PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0112PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0113EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0113MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0113PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0113PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0114EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0114MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0114PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0114PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0115EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0115MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0115PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0115PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),DP04
+DP04_0116EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,DP04
+DP04_0116MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,DP04
+DP04_0116PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,DP04
+DP04_0116PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,DP04
+DP04_0117EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,DP04
+DP04_0117MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,DP04
+DP04_0117PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,DP04
+DP04_0117PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,DP04
+DP04_0118EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0118MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0118PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0118PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0119EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0119MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0119PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0119PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0120EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0120MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0120PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0120PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0121EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0121MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0121PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0121PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0122EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0122MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0122PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0122PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0123EA,string,Annotation of Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0123MA,string,Annotation of Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0123PEA,string,Annotation of Percent!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0123PMA,string,Annotation of Percent Margin of Error!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Not computed,DP04
+DP04_0124EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent,DP04
+DP04_0124MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent,DP04
+DP04_0124PEA,string,Annotation of Percent!!GROSS RENT!!Occupied units paying rent,DP04
+DP04_0124PMA,string,Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent,DP04
+DP04_0125EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!Less than $200,DP04
+DP04_0125MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!Less than $200,DP04
+DP04_0125PEA,string,Annotation of Percent!!GROSS RENT!!Occupied units paying rent!!Less than $200,DP04
+DP04_0125PMA,string,Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!Less than $200,DP04
+DP04_0126EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!$200 to $299,DP04
+DP04_0126MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!$200 to $299,DP04
+DP04_0126PEA,string,Annotation of Percent!!GROSS RENT!!Occupied units paying rent!!$200 to $299,DP04
+DP04_0126PMA,string,Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$200 to $299,DP04
+DP04_0127EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!$300 to $499,DP04
+DP04_0127MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!$300 to $499,DP04
+DP04_0127PEA,string,Annotation of Percent!!GROSS RENT!!Occupied units paying rent!!$300 to $499,DP04
+DP04_0127PMA,string,Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$300 to $499,DP04
+DP04_0128EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!$500 to $749,DP04
+DP04_0128MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!$500 to $749,DP04
+DP04_0128PEA,string,Annotation of Percent!!GROSS RENT!!Occupied units paying rent!!$500 to $749,DP04
+DP04_0128PMA,string,Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$500 to $749,DP04
+DP04_0129EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!$750 to $999,DP04
+DP04_0129MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!$750 to $999,DP04
+DP04_0129PEA,string,Annotation of Percent!!GROSS RENT!!Occupied units paying rent!!$750 to $999,DP04
+DP04_0129PMA,string,Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$750 to $999,DP04
+DP04_0130EA,string,"Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",DP04
+DP04_0130MA,string,"Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",DP04
+DP04_0130PEA,string,"Annotation of Percent!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",DP04
+DP04_0130PMA,string,"Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",DP04
+DP04_0131EA,string,"Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!$1,500 or more",DP04
+DP04_0131MA,string,"Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!$1,500 or more",DP04
+DP04_0131PEA,string,"Annotation of Percent!!GROSS RENT!!Occupied units paying rent!!$1,500 or more",DP04
+DP04_0131PMA,string,"Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!$1,500 or more",DP04
+DP04_0132EA,string,Annotation of Estimate!!GROSS RENT!!Occupied units paying rent!!Median (dollars),DP04
+DP04_0132MA,string,Annotation of Margin of Error!!GROSS RENT!!Occupied units paying rent!!Median (dollars),DP04
+DP04_0132PEA,string,Annotation of Percent!!GROSS RENT!!Occupied units paying rent!!Median (dollars),DP04
+DP04_0132PMA,string,Annotation of Percent Margin of Error!!GROSS RENT!!Occupied units paying rent!!Median (dollars),DP04
+DP04_0133EA,string,Annotation of Estimate!!GROSS RENT!!No rent paid,DP04
+DP04_0133MA,string,Annotation of Margin of Error!!GROSS RENT!!No rent paid,DP04
+DP04_0133PEA,string,Annotation of Percent!!GROSS RENT!!No rent paid,DP04
+DP04_0133PMA,string,Annotation of Percent Margin of Error!!GROSS RENT!!No rent paid,DP04
+DP04_0134EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),DP04
+DP04_0134MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),DP04
+DP04_0134PEA,string,Annotation of Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),DP04
+DP04_0134PMA,string,Annotation of Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),DP04
+DP04_0135EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,DP04
+DP04_0135MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,DP04
+DP04_0135PEA,string,Annotation of Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,DP04
+DP04_0135PMA,string,Annotation of Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,DP04
+DP04_0136EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0136MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0136PEA,string,Annotation of Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0136PMA,string,Annotation of Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,DP04
+DP04_0137EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0137MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0137PEA,string,Annotation of Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0137PMA,string,Annotation of Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,DP04
+DP04_0138EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0138MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0138PEA,string,Annotation of Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0138PMA,string,Annotation of Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,DP04
+DP04_0139EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0139MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0139PEA,string,Annotation of Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0139PMA,string,Annotation of Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,DP04
+DP04_0140EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0140MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0140PEA,string,Annotation of Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0140PMA,string,Annotation of Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,DP04
+DP04_0141EA,string,Annotation of Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Not computed,DP04
+DP04_0141MA,string,Annotation of Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Not computed,DP04
+DP04_0141PEA,string,Annotation of Percent!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Not computed,DP04
+DP04_0141PMA,string,Annotation of Percent Margin of Error!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Not computed,DP04

@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07404H_001E,int,Estimate!!Total living in area 1 year ago,B07404H
+B07404H_002E,int,Estimate!!Total living in area 1 year ago!!Same house,B07404H
+B07404H_003E,int,Estimate!!Total living in area 1 year ago!!Moved within same county,B07404H
+B07404H_004E,int,Estimate!!Total living in area 1 year ago!!Moved to different county within same state,B07404H
+B07404H_005E,int,Estimate!!Total living in area 1 year ago!!Moved to different state,B07404H
+B07404H_001M,int,Margin of Error!!Total living in area 1 year ago,B07404H
+B07404H_002M,int,Margin of Error!!Total living in area 1 year ago!!Same house,B07404H
+B07404H_003M,int,Margin of Error!!Total living in area 1 year ago!!Moved within same county,B07404H
+B07404H_004M,int,Margin of Error!!Total living in area 1 year ago!!Moved to different county within same state,B07404H
+B07404H_005M,int,Margin of Error!!Total living in area 1 year ago!!Moved to different state,B07404H
+B07404H_001EA,string,Annotation of Estimate!!Total living in area 1 year ago,B07404H
+B07404H_001MA,string,Annotation of Margin of Error!!Total living in area 1 year ago,B07404H
+B07404H_002EA,string,Annotation of Estimate!!Total living in area 1 year ago!!Same house,B07404H
+B07404H_002MA,string,Annotation of Margin of Error!!Total living in area 1 year ago!!Same house,B07404H
+B07404H_003EA,string,Annotation of Estimate!!Total living in area 1 year ago!!Moved within same county,B07404H
+B07404H_003MA,string,Annotation of Margin of Error!!Total living in area 1 year ago!!Moved within same county,B07404H
+B07404H_004EA,string,Annotation of Estimate!!Total living in area 1 year ago!!Moved to different county within same state,B07404H
+B07404H_004MA,string,Annotation of Margin of Error!!Total living in area 1 year ago!!Moved to different county within same state,B07404H
+B07404H_005EA,string,Annotation of Estimate!!Total living in area 1 year ago!!Moved to different state,B07404H
+B07404H_005MA,string,Annotation of Margin of Error!!Total living in area 1 year ago!!Moved to different state,B07404H

@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25099_001E,int,Estimate!!Median household income!!Total,B25099
+B25099_002E,int,Estimate!!Median household income!!Total!!Median household income for units with a mortgage,B25099
+B25099_003E,int,Estimate!!Median household income!!Total!!Median household income for units without a mortgage,B25099
+B25099_001M,int,Margin of Error!!Median household income!!Total,B25099
+B25099_002M,int,Margin of Error!!Median household income!!Total!!Median household income for units with a mortgage,B25099
+B25099_003M,int,Margin of Error!!Median household income!!Total!!Median household income for units without a mortgage,B25099
+B25099_001EA,string,Annotation of Estimate!!Median household income!!Total,B25099
+B25099_001MA,string,Annotation of Margin of Error!!Median household income!!Total,B25099
+B25099_002EA,string,Annotation of Estimate!!Median household income!!Total!!Median household income for units with a mortgage,B25099
+B25099_002MA,string,Annotation of Margin of Error!!Median household income!!Total!!Median household income for units with a mortgage,B25099
+B25099_003EA,string,Annotation of Estimate!!Median household income!!Total!!Median household income for units without a mortgage,B25099
+B25099_003MA,string,Annotation of Margin of Error!!Median household income!!Total!!Median household income for units without a mortgage,B25099

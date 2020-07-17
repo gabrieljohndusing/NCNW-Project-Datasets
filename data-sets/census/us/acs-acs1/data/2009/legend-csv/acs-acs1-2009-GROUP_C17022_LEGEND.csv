@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17022_001E,int,Estimate!!Total,C17022
+C17022_002E,int,Estimate!!Total!!Under 1.30,C17022
+C17022_003E,int,Estimate!!Total!!Under 1.30!!Married-couple family,C17022
+C17022_004E,int,Estimate!!Total!!Under 1.30!!Other family,C17022
+C17022_005E,int,"Estimate!!Total!!Under 1.30!!Other family!!Male householder, no wife present",C17022
+C17022_006E,int,"Estimate!!Total!!Under 1.30!!Other family!!Female householder, no husband present",C17022
+C17022_007E,int,Estimate!!Total!!1.30 to 1.49,C17022
+C17022_008E,int,Estimate!!Total!!1.30 to 1.49!!Married-couple family,C17022
+C17022_009E,int,Estimate!!Total!!1.30 to 1.49!!Other family,C17022
+C17022_010E,int,"Estimate!!Total!!1.30 to 1.49!!Other family!!Male householder, no wife present",C17022
+C17022_011E,int,"Estimate!!Total!!1.30 to 1.49!!Other family!!Female householder, no husband present",C17022
+C17022_012E,int,Estimate!!Total!!1.50 to 1.84,C17022
+C17022_013E,int,Estimate!!Total!!1.50 to 1.84!!Married-couple family,C17022
+C17022_014E,int,Estimate!!Total!!1.50 to 1.84!!Other family,C17022
+C17022_015E,int,"Estimate!!Total!!1.50 to 1.84!!Other family!!Male householder, no wife present",C17022
+C17022_016E,int,"Estimate!!Total!!1.50 to 1.84!!Other family!!Female householder, no husband present",C17022
+C17022_017E,int,Estimate!!Total!!1.85 and above,C17022
+C17022_018E,int,Estimate!!Total!!1.85 and above!!Married-couple family,C17022
+C17022_019E,int,Estimate!!Total!!1.85 and above!!Other family,C17022
+C17022_020E,int,"Estimate!!Total!!1.85 and above!!Other family!!Male householder, no wife present",C17022
+C17022_021E,int,"Estimate!!Total!!1.85 and above!!Other family!!Female householder, no husband present",C17022
+C17022_001M,int,Margin of Error!!Total,C17022
+C17022_002M,int,Margin of Error!!Total!!Under 1.30,C17022
+C17022_003M,int,Margin of Error!!Total!!Under 1.30!!Married-couple family,C17022
+C17022_004M,int,Margin of Error!!Total!!Under 1.30!!Other family,C17022
+C17022_005M,int,"Margin of Error!!Total!!Under 1.30!!Other family!!Male householder, no wife present",C17022
+C17022_006M,int,"Margin of Error!!Total!!Under 1.30!!Other family!!Female householder, no husband present",C17022
+C17022_007M,int,Margin of Error!!Total!!1.30 to 1.49,C17022
+C17022_008M,int,Margin of Error!!Total!!1.30 to 1.49!!Married-couple family,C17022
+C17022_009M,int,Margin of Error!!Total!!1.30 to 1.49!!Other family,C17022
+C17022_010M,int,"Margin of Error!!Total!!1.30 to 1.49!!Other family!!Male householder, no wife present",C17022
+C17022_011M,int,"Margin of Error!!Total!!1.30 to 1.49!!Other family!!Female householder, no husband present",C17022
+C17022_012M,int,Margin of Error!!Total!!1.50 to 1.84,C17022
+C17022_013M,int,Margin of Error!!Total!!1.50 to 1.84!!Married-couple family,C17022
+C17022_014M,int,Margin of Error!!Total!!1.50 to 1.84!!Other family,C17022
+C17022_015M,int,"Margin of Error!!Total!!1.50 to 1.84!!Other family!!Male householder, no wife present",C17022
+C17022_016M,int,"Margin of Error!!Total!!1.50 to 1.84!!Other family!!Female householder, no husband present",C17022
+C17022_017M,int,Margin of Error!!Total!!1.85 and above,C17022
+C17022_018M,int,Margin of Error!!Total!!1.85 and above!!Married-couple family,C17022
+C17022_019M,int,Margin of Error!!Total!!1.85 and above!!Other family,C17022
+C17022_020M,int,"Margin of Error!!Total!!1.85 and above!!Other family!!Male householder, no wife present",C17022
+C17022_021M,int,"Margin of Error!!Total!!1.85 and above!!Other family!!Female householder, no husband present",C17022
+C17022_001EA,string,Annotation of Estimate!!Total,C17022
+C17022_001MA,string,Annotation of Margin of Error!!Total,C17022
+C17022_002EA,string,Annotation of Estimate!!Total!!Under 1.30,C17022
+C17022_002MA,string,Annotation of Margin of Error!!Total!!Under 1.30,C17022
+C17022_003EA,string,Annotation of Estimate!!Total!!Under 1.30!!Married-couple family,C17022
+C17022_003MA,string,Annotation of Margin of Error!!Total!!Under 1.30!!Married-couple family,C17022
+C17022_004EA,string,Annotation of Estimate!!Total!!Under 1.30!!Other family,C17022
+C17022_004MA,string,Annotation of Margin of Error!!Total!!Under 1.30!!Other family,C17022
+C17022_005EA,string,"Annotation of Estimate!!Total!!Under 1.30!!Other family!!Male householder, no wife present",C17022
+C17022_005MA,string,"Annotation of Margin of Error!!Total!!Under 1.30!!Other family!!Male householder, no wife present",C17022
+C17022_006EA,string,"Annotation of Estimate!!Total!!Under 1.30!!Other family!!Female householder, no husband present",C17022
+C17022_006MA,string,"Annotation of Margin of Error!!Total!!Under 1.30!!Other family!!Female householder, no husband present",C17022
+C17022_007EA,string,Annotation of Estimate!!Total!!1.30 to 1.49,C17022
+C17022_007MA,string,Annotation of Margin of Error!!Total!!1.30 to 1.49,C17022
+C17022_008EA,string,Annotation of Estimate!!Total!!1.30 to 1.49!!Married-couple family,C17022
+C17022_008MA,string,Annotation of Margin of Error!!Total!!1.30 to 1.49!!Married-couple family,C17022
+C17022_009EA,string,Annotation of Estimate!!Total!!1.30 to 1.49!!Other family,C17022
+C17022_009MA,string,Annotation of Margin of Error!!Total!!1.30 to 1.49!!Other family,C17022
+C17022_010EA,string,"Annotation of Estimate!!Total!!1.30 to 1.49!!Other family!!Male householder, no wife present",C17022
+C17022_010MA,string,"Annotation of Margin of Error!!Total!!1.30 to 1.49!!Other family!!Male householder, no wife present",C17022
+C17022_011EA,string,"Annotation of Estimate!!Total!!1.30 to 1.49!!Other family!!Female householder, no husband present",C17022
+C17022_011MA,string,"Annotation of Margin of Error!!Total!!1.30 to 1.49!!Other family!!Female householder, no husband present",C17022
+C17022_012EA,string,Annotation of Estimate!!Total!!1.50 to 1.84,C17022
+C17022_012MA,string,Annotation of Margin of Error!!Total!!1.50 to 1.84,C17022
+C17022_013EA,string,Annotation of Estimate!!Total!!1.50 to 1.84!!Married-couple family,C17022
+C17022_013MA,string,Annotation of Margin of Error!!Total!!1.50 to 1.84!!Married-couple family,C17022
+C17022_014EA,string,Annotation of Estimate!!Total!!1.50 to 1.84!!Other family,C17022
+C17022_014MA,string,Annotation of Margin of Error!!Total!!1.50 to 1.84!!Other family,C17022
+C17022_015EA,string,"Annotation of Estimate!!Total!!1.50 to 1.84!!Other family!!Male householder, no wife present",C17022
+C17022_015MA,string,"Annotation of Margin of Error!!Total!!1.50 to 1.84!!Other family!!Male householder, no wife present",C17022
+C17022_016EA,string,"Annotation of Estimate!!Total!!1.50 to 1.84!!Other family!!Female householder, no husband present",C17022
+C17022_016MA,string,"Annotation of Margin of Error!!Total!!1.50 to 1.84!!Other family!!Female householder, no husband present",C17022
+C17022_017EA,string,Annotation of Estimate!!Total!!1.85 and above,C17022
+C17022_017MA,string,Annotation of Margin of Error!!Total!!1.85 and above,C17022
+C17022_018EA,string,Annotation of Estimate!!Total!!1.85 and above!!Married-couple family,C17022
+C17022_018MA,string,Annotation of Margin of Error!!Total!!1.85 and above!!Married-couple family,C17022
+C17022_019EA,string,Annotation of Estimate!!Total!!1.85 and above!!Other family,C17022
+C17022_019MA,string,Annotation of Margin of Error!!Total!!1.85 and above!!Other family,C17022
+C17022_020EA,string,"Annotation of Estimate!!Total!!1.85 and above!!Other family!!Male householder, no wife present",C17022
+C17022_020MA,string,"Annotation of Margin of Error!!Total!!1.85 and above!!Other family!!Male householder, no wife present",C17022
+C17022_021EA,string,"Annotation of Estimate!!Total!!1.85 and above!!Other family!!Female householder, no husband present",C17022
+C17022_021MA,string,"Annotation of Margin of Error!!Total!!1.85 and above!!Other family!!Female householder, no husband present",C17022

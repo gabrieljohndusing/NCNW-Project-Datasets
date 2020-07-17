@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25120_001E,int,Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars),B25120
+B25120_002E,int,Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied,B25120
+B25120_003E,int,Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied!!Housing units with a mortgage,B25120
+B25120_004E,int,Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied!!Housing units without a mortgage,B25120
+B25120_005E,int,Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Renter occupied,B25120
+B25120_001M,int,Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars),B25120
+B25120_002M,int,Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied,B25120
+B25120_003M,int,Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied!!Housing units with a mortgage,B25120
+B25120_004M,int,Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied!!Housing units without a mortgage,B25120
+B25120_005M,int,Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Renter occupied,B25120
+B25120_001EA,string,Annotation of Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars),B25120
+B25120_001MA,string,Annotation of Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars),B25120
+B25120_002EA,string,Annotation of Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied,B25120
+B25120_002MA,string,Annotation of Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied,B25120
+B25120_003EA,string,Annotation of Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied!!Housing units with a mortgage,B25120
+B25120_003MA,string,Annotation of Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied!!Housing units with a mortgage,B25120
+B25120_004EA,string,Annotation of Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied!!Housing units without a mortgage,B25120
+B25120_004MA,string,Annotation of Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Owner occupied!!Housing units without a mortgage,B25120
+B25120_005EA,string,Annotation of Estimate!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Renter occupied,B25120
+B25120_005MA,string,Annotation of Margin of Error!!Aggregate household income in the past 12 months (in 2010 inflation-adjusted dollars)!!Renter occupied,B25120

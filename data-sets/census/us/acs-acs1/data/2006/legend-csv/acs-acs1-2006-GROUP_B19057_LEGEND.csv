@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19057_001E,int,Estimate!!Total,B19057
+B19057_002E,int,Estimate!!Total!!With public assistance income,B19057
+B19057_003E,int,Estimate!!Total!!No public assistance income,B19057
+B19057_001M,int,Margin of Error!!Total,B19057
+B19057_002M,int,Margin of Error!!Total!!With public assistance income,B19057
+B19057_003M,int,Margin of Error!!Total!!No public assistance income,B19057
+B19057_001EA,string,Annotation of Estimate!!Total,B19057
+B19057_001MA,string,Annotation of Margin of Error!!Total,B19057
+B19057_002EA,string,Annotation of Estimate!!Total!!With public assistance income,B19057
+B19057_002MA,string,Annotation of Margin of Error!!Total!!With public assistance income,B19057
+B19057_003EA,string,Annotation of Estimate!!Total!!No public assistance income,B19057
+B19057_003MA,string,Annotation of Margin of Error!!Total!!No public assistance income,B19057

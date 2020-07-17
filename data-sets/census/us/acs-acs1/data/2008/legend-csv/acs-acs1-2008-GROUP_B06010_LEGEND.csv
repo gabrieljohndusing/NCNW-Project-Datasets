@@ -1,0 +1,221 @@
+VARIABLE,TYPE,LABEL,GROUP
+B06010_001E,int,Estimate!!Total,B06010
+B06010_002E,int,Estimate!!Total!!No income,B06010
+B06010_003E,int,Estimate!!Total!!With income,B06010
+B06010_004E,int,"Estimate!!Total!!With income!!$1 to $9,999 or loss",B06010
+B06010_005E,int,"Estimate!!Total!!With income!!$10,000 to $14,999",B06010
+B06010_006E,int,"Estimate!!Total!!With income!!$15,000 to $24,999",B06010
+B06010_007E,int,"Estimate!!Total!!With income!!$25,000 to $34,999",B06010
+B06010_008E,int,"Estimate!!Total!!With income!!$35,000 to $49,999",B06010
+B06010_009E,int,"Estimate!!Total!!With income!!$50,000 to $64,999",B06010
+B06010_010E,int,"Estimate!!Total!!With income!!$65,000 to $74,999",B06010
+B06010_011E,int,"Estimate!!Total!!With income!!$75,000 or more",B06010
+B06010_012E,int,Estimate!!Total!!Born in state of residence,B06010
+B06010_013E,int,Estimate!!Total!!Born in state of residence!!No income,B06010
+B06010_014E,int,Estimate!!Total!!Born in state of residence!!With income,B06010
+B06010_015E,int,"Estimate!!Total!!Born in state of residence!!With income!!$1 to $9,999 or loss",B06010
+B06010_016E,int,"Estimate!!Total!!Born in state of residence!!With income!!$10,000 to $14,999",B06010
+B06010_017E,int,"Estimate!!Total!!Born in state of residence!!With income!!$15,000 to $24,999",B06010
+B06010_018E,int,"Estimate!!Total!!Born in state of residence!!With income!!$25,000 to $34,999",B06010
+B06010_019E,int,"Estimate!!Total!!Born in state of residence!!With income!!$35,000 to $49,999",B06010
+B06010_020E,int,"Estimate!!Total!!Born in state of residence!!With income!!$50,000 to $64,999",B06010
+B06010_021E,int,"Estimate!!Total!!Born in state of residence!!With income!!$65,000 to $74,999",B06010
+B06010_022E,int,"Estimate!!Total!!Born in state of residence!!With income!!$75,000 or more",B06010
+B06010_023E,int,Estimate!!Total!!Born in other state in the United States,B06010
+B06010_024E,int,Estimate!!Total!!Born in other state in the United States!!No income,B06010
+B06010_025E,int,Estimate!!Total!!Born in other state in the United States!!With income,B06010
+B06010_026E,int,"Estimate!!Total!!Born in other state in the United States!!With income!!$1 to $9,999 or loss",B06010
+B06010_027E,int,"Estimate!!Total!!Born in other state in the United States!!With income!!$10,000 to $14,999",B06010
+B06010_028E,int,"Estimate!!Total!!Born in other state in the United States!!With income!!$15,000 to $24,999",B06010
+B06010_029E,int,"Estimate!!Total!!Born in other state in the United States!!With income!!$25,000 to $34,999",B06010
+B06010_030E,int,"Estimate!!Total!!Born in other state in the United States!!With income!!$35,000 to $49,999",B06010
+B06010_031E,int,"Estimate!!Total!!Born in other state in the United States!!With income!!$50,000 to $64,999",B06010
+B06010_032E,int,"Estimate!!Total!!Born in other state in the United States!!With income!!$65,000 to $74,999",B06010
+B06010_033E,int,"Estimate!!Total!!Born in other state in the United States!!With income!!$75,000 or more",B06010
+B06010_034E,int,Estimate!!Total!!Native; born outside the United States,B06010
+B06010_035E,int,Estimate!!Total!!Native; born outside the United States!!No income,B06010
+B06010_036E,int,Estimate!!Total!!Native; born outside the United States!!With income,B06010
+B06010_037E,int,"Estimate!!Total!!Native; born outside the United States!!With income!!$1 to $9,999 or loss",B06010
+B06010_038E,int,"Estimate!!Total!!Native; born outside the United States!!With income!!$10,000 to $14,999",B06010
+B06010_039E,int,"Estimate!!Total!!Native; born outside the United States!!With income!!$15,000 to $24,999",B06010
+B06010_040E,int,"Estimate!!Total!!Native; born outside the United States!!With income!!$25,000 to $34,999",B06010
+B06010_041E,int,"Estimate!!Total!!Native; born outside the United States!!With income!!$35,000 to $49,999",B06010
+B06010_042E,int,"Estimate!!Total!!Native; born outside the United States!!With income!!$50,000 to $64,999",B06010
+B06010_043E,int,"Estimate!!Total!!Native; born outside the United States!!With income!!$65,000 to $74,999",B06010
+B06010_044E,int,"Estimate!!Total!!Native; born outside the United States!!With income!!$75,000 or more",B06010
+B06010_045E,int,Estimate!!Total!!Foreign born,B06010
+B06010_046E,int,Estimate!!Total!!Foreign born!!No income,B06010
+B06010_047E,int,Estimate!!Total!!Foreign born!!With income,B06010
+B06010_048E,int,"Estimate!!Total!!Foreign born!!With income!!$1 to $9,999 or loss",B06010
+B06010_049E,int,"Estimate!!Total!!Foreign born!!With income!!$10,000 to $14,999",B06010
+B06010_050E,int,"Estimate!!Total!!Foreign born!!With income!!$15,000 to $24,999",B06010
+B06010_051E,int,"Estimate!!Total!!Foreign born!!With income!!$25,000 to $34,999",B06010
+B06010_052E,int,"Estimate!!Total!!Foreign born!!With income!!$35,000 to $49,999",B06010
+B06010_053E,int,"Estimate!!Total!!Foreign born!!With income!!$50,000 to $64,999",B06010
+B06010_054E,int,"Estimate!!Total!!Foreign born!!With income!!$65,000 to $74,999",B06010
+B06010_055E,int,"Estimate!!Total!!Foreign born!!With income!!$75,000 or more",B06010
+B06010_001M,int,Margin of Error!!Total,B06010
+B06010_002M,int,Margin of Error!!Total!!No income,B06010
+B06010_003M,int,Margin of Error!!Total!!With income,B06010
+B06010_004M,int,"Margin of Error!!Total!!With income!!$1 to $9,999 or loss",B06010
+B06010_005M,int,"Margin of Error!!Total!!With income!!$10,000 to $14,999",B06010
+B06010_006M,int,"Margin of Error!!Total!!With income!!$15,000 to $24,999",B06010
+B06010_007M,int,"Margin of Error!!Total!!With income!!$25,000 to $34,999",B06010
+B06010_008M,int,"Margin of Error!!Total!!With income!!$35,000 to $49,999",B06010
+B06010_009M,int,"Margin of Error!!Total!!With income!!$50,000 to $64,999",B06010
+B06010_010M,int,"Margin of Error!!Total!!With income!!$65,000 to $74,999",B06010
+B06010_011M,int,"Margin of Error!!Total!!With income!!$75,000 or more",B06010
+B06010_012M,int,Margin of Error!!Total!!Born in state of residence,B06010
+B06010_013M,int,Margin of Error!!Total!!Born in state of residence!!No income,B06010
+B06010_014M,int,Margin of Error!!Total!!Born in state of residence!!With income,B06010
+B06010_015M,int,"Margin of Error!!Total!!Born in state of residence!!With income!!$1 to $9,999 or loss",B06010
+B06010_016M,int,"Margin of Error!!Total!!Born in state of residence!!With income!!$10,000 to $14,999",B06010
+B06010_017M,int,"Margin of Error!!Total!!Born in state of residence!!With income!!$15,000 to $24,999",B06010
+B06010_018M,int,"Margin of Error!!Total!!Born in state of residence!!With income!!$25,000 to $34,999",B06010
+B06010_019M,int,"Margin of Error!!Total!!Born in state of residence!!With income!!$35,000 to $49,999",B06010
+B06010_020M,int,"Margin of Error!!Total!!Born in state of residence!!With income!!$50,000 to $64,999",B06010
+B06010_021M,int,"Margin of Error!!Total!!Born in state of residence!!With income!!$65,000 to $74,999",B06010
+B06010_022M,int,"Margin of Error!!Total!!Born in state of residence!!With income!!$75,000 or more",B06010
+B06010_023M,int,Margin of Error!!Total!!Born in other state in the United States,B06010
+B06010_024M,int,Margin of Error!!Total!!Born in other state in the United States!!No income,B06010
+B06010_025M,int,Margin of Error!!Total!!Born in other state in the United States!!With income,B06010
+B06010_026M,int,"Margin of Error!!Total!!Born in other state in the United States!!With income!!$1 to $9,999 or loss",B06010
+B06010_027M,int,"Margin of Error!!Total!!Born in other state in the United States!!With income!!$10,000 to $14,999",B06010
+B06010_028M,int,"Margin of Error!!Total!!Born in other state in the United States!!With income!!$15,000 to $24,999",B06010
+B06010_029M,int,"Margin of Error!!Total!!Born in other state in the United States!!With income!!$25,000 to $34,999",B06010
+B06010_030M,int,"Margin of Error!!Total!!Born in other state in the United States!!With income!!$35,000 to $49,999",B06010
+B06010_031M,int,"Margin of Error!!Total!!Born in other state in the United States!!With income!!$50,000 to $64,999",B06010
+B06010_032M,int,"Margin of Error!!Total!!Born in other state in the United States!!With income!!$65,000 to $74,999",B06010
+B06010_033M,int,"Margin of Error!!Total!!Born in other state in the United States!!With income!!$75,000 or more",B06010
+B06010_034M,int,Margin of Error!!Total!!Native; born outside the United States,B06010
+B06010_035M,int,Margin of Error!!Total!!Native; born outside the United States!!No income,B06010
+B06010_036M,int,Margin of Error!!Total!!Native; born outside the United States!!With income,B06010
+B06010_037M,int,"Margin of Error!!Total!!Native; born outside the United States!!With income!!$1 to $9,999 or loss",B06010
+B06010_038M,int,"Margin of Error!!Total!!Native; born outside the United States!!With income!!$10,000 to $14,999",B06010
+B06010_039M,int,"Margin of Error!!Total!!Native; born outside the United States!!With income!!$15,000 to $24,999",B06010
+B06010_040M,int,"Margin of Error!!Total!!Native; born outside the United States!!With income!!$25,000 to $34,999",B06010
+B06010_041M,int,"Margin of Error!!Total!!Native; born outside the United States!!With income!!$35,000 to $49,999",B06010
+B06010_042M,int,"Margin of Error!!Total!!Native; born outside the United States!!With income!!$50,000 to $64,999",B06010
+B06010_043M,int,"Margin of Error!!Total!!Native; born outside the United States!!With income!!$65,000 to $74,999",B06010
+B06010_044M,int,"Margin of Error!!Total!!Native; born outside the United States!!With income!!$75,000 or more",B06010
+B06010_045M,int,Margin of Error!!Total!!Foreign born,B06010
+B06010_046M,int,Margin of Error!!Total!!Foreign born!!No income,B06010
+B06010_047M,int,Margin of Error!!Total!!Foreign born!!With income,B06010
+B06010_048M,int,"Margin of Error!!Total!!Foreign born!!With income!!$1 to $9,999 or loss",B06010
+B06010_049M,int,"Margin of Error!!Total!!Foreign born!!With income!!$10,000 to $14,999",B06010
+B06010_050M,int,"Margin of Error!!Total!!Foreign born!!With income!!$15,000 to $24,999",B06010
+B06010_051M,int,"Margin of Error!!Total!!Foreign born!!With income!!$25,000 to $34,999",B06010
+B06010_052M,int,"Margin of Error!!Total!!Foreign born!!With income!!$35,000 to $49,999",B06010
+B06010_053M,int,"Margin of Error!!Total!!Foreign born!!With income!!$50,000 to $64,999",B06010
+B06010_054M,int,"Margin of Error!!Total!!Foreign born!!With income!!$65,000 to $74,999",B06010
+B06010_055M,int,"Margin of Error!!Total!!Foreign born!!With income!!$75,000 or more",B06010
+B06010_001EA,string,Annotation of Estimate!!Total,B06010
+B06010_001MA,string,Annotation of Margin of Error!!Total,B06010
+B06010_002EA,string,Annotation of Estimate!!Total!!No income,B06010
+B06010_002MA,string,Annotation of Margin of Error!!Total!!No income,B06010
+B06010_003EA,string,Annotation of Estimate!!Total!!With income,B06010
+B06010_003MA,string,Annotation of Margin of Error!!Total!!With income,B06010
+B06010_004EA,string,"Annotation of Estimate!!Total!!With income!!$1 to $9,999 or loss",B06010
+B06010_004MA,string,"Annotation of Margin of Error!!Total!!With income!!$1 to $9,999 or loss",B06010
+B06010_005EA,string,"Annotation of Estimate!!Total!!With income!!$10,000 to $14,999",B06010
+B06010_005MA,string,"Annotation of Margin of Error!!Total!!With income!!$10,000 to $14,999",B06010
+B06010_006EA,string,"Annotation of Estimate!!Total!!With income!!$15,000 to $24,999",B06010
+B06010_006MA,string,"Annotation of Margin of Error!!Total!!With income!!$15,000 to $24,999",B06010
+B06010_007EA,string,"Annotation of Estimate!!Total!!With income!!$25,000 to $34,999",B06010
+B06010_007MA,string,"Annotation of Margin of Error!!Total!!With income!!$25,000 to $34,999",B06010
+B06010_008EA,string,"Annotation of Estimate!!Total!!With income!!$35,000 to $49,999",B06010
+B06010_008MA,string,"Annotation of Margin of Error!!Total!!With income!!$35,000 to $49,999",B06010
+B06010_009EA,string,"Annotation of Estimate!!Total!!With income!!$50,000 to $64,999",B06010
+B06010_009MA,string,"Annotation of Margin of Error!!Total!!With income!!$50,000 to $64,999",B06010
+B06010_010EA,string,"Annotation of Estimate!!Total!!With income!!$65,000 to $74,999",B06010
+B06010_010MA,string,"Annotation of Margin of Error!!Total!!With income!!$65,000 to $74,999",B06010
+B06010_011EA,string,"Annotation of Estimate!!Total!!With income!!$75,000 or more",B06010
+B06010_011MA,string,"Annotation of Margin of Error!!Total!!With income!!$75,000 or more",B06010
+B06010_012EA,string,Annotation of Estimate!!Total!!Born in state of residence,B06010
+B06010_012MA,string,Annotation of Margin of Error!!Total!!Born in state of residence,B06010
+B06010_013EA,string,Annotation of Estimate!!Total!!Born in state of residence!!No income,B06010
+B06010_013MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!No income,B06010
+B06010_014EA,string,Annotation of Estimate!!Total!!Born in state of residence!!With income,B06010
+B06010_014MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!With income,B06010
+B06010_015EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!With income!!$1 to $9,999 or loss",B06010
+B06010_015MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!With income!!$1 to $9,999 or loss",B06010
+B06010_016EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!With income!!$10,000 to $14,999",B06010
+B06010_016MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!With income!!$10,000 to $14,999",B06010
+B06010_017EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!With income!!$15,000 to $24,999",B06010
+B06010_017MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!With income!!$15,000 to $24,999",B06010
+B06010_018EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!With income!!$25,000 to $34,999",B06010
+B06010_018MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!With income!!$25,000 to $34,999",B06010
+B06010_019EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!With income!!$35,000 to $49,999",B06010
+B06010_019MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!With income!!$35,000 to $49,999",B06010
+B06010_020EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!With income!!$50,000 to $64,999",B06010
+B06010_020MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!With income!!$50,000 to $64,999",B06010
+B06010_021EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!With income!!$65,000 to $74,999",B06010
+B06010_021MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!With income!!$65,000 to $74,999",B06010
+B06010_022EA,string,"Annotation of Estimate!!Total!!Born in state of residence!!With income!!$75,000 or more",B06010
+B06010_022MA,string,"Annotation of Margin of Error!!Total!!Born in state of residence!!With income!!$75,000 or more",B06010
+B06010_023EA,string,Annotation of Estimate!!Total!!Born in other state in the United States,B06010
+B06010_023MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States,B06010
+B06010_024EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!No income,B06010
+B06010_024MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!No income,B06010
+B06010_025EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!With income,B06010
+B06010_025MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income,B06010
+B06010_026EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!With income!!$1 to $9,999 or loss",B06010
+B06010_026MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income!!$1 to $9,999 or loss",B06010
+B06010_027EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!With income!!$10,000 to $14,999",B06010
+B06010_027MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income!!$10,000 to $14,999",B06010
+B06010_028EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!With income!!$15,000 to $24,999",B06010
+B06010_028MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income!!$15,000 to $24,999",B06010
+B06010_029EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!With income!!$25,000 to $34,999",B06010
+B06010_029MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income!!$25,000 to $34,999",B06010
+B06010_030EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!With income!!$35,000 to $49,999",B06010
+B06010_030MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income!!$35,000 to $49,999",B06010
+B06010_031EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!With income!!$50,000 to $64,999",B06010
+B06010_031MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income!!$50,000 to $64,999",B06010
+B06010_032EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!With income!!$65,000 to $74,999",B06010
+B06010_032MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income!!$65,000 to $74,999",B06010
+B06010_033EA,string,"Annotation of Estimate!!Total!!Born in other state in the United States!!With income!!$75,000 or more",B06010
+B06010_033MA,string,"Annotation of Margin of Error!!Total!!Born in other state in the United States!!With income!!$75,000 or more",B06010
+B06010_034EA,string,Annotation of Estimate!!Total!!Native; born outside the United States,B06010
+B06010_034MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States,B06010
+B06010_035EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!No income,B06010
+B06010_035MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!No income,B06010
+B06010_036EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!With income,B06010
+B06010_036MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income,B06010
+B06010_037EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!With income!!$1 to $9,999 or loss",B06010
+B06010_037MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income!!$1 to $9,999 or loss",B06010
+B06010_038EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!With income!!$10,000 to $14,999",B06010
+B06010_038MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income!!$10,000 to $14,999",B06010
+B06010_039EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!With income!!$15,000 to $24,999",B06010
+B06010_039MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income!!$15,000 to $24,999",B06010
+B06010_040EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!With income!!$25,000 to $34,999",B06010
+B06010_040MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income!!$25,000 to $34,999",B06010
+B06010_041EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!With income!!$35,000 to $49,999",B06010
+B06010_041MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income!!$35,000 to $49,999",B06010
+B06010_042EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!With income!!$50,000 to $64,999",B06010
+B06010_042MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income!!$50,000 to $64,999",B06010
+B06010_043EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!With income!!$65,000 to $74,999",B06010
+B06010_043MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income!!$65,000 to $74,999",B06010
+B06010_044EA,string,"Annotation of Estimate!!Total!!Native; born outside the United States!!With income!!$75,000 or more",B06010
+B06010_044MA,string,"Annotation of Margin of Error!!Total!!Native; born outside the United States!!With income!!$75,000 or more",B06010
+B06010_045EA,string,Annotation of Estimate!!Total!!Foreign born,B06010
+B06010_045MA,string,Annotation of Margin of Error!!Total!!Foreign born,B06010
+B06010_046EA,string,Annotation of Estimate!!Total!!Foreign born!!No income,B06010
+B06010_046MA,string,Annotation of Margin of Error!!Total!!Foreign born!!No income,B06010
+B06010_047EA,string,Annotation of Estimate!!Total!!Foreign born!!With income,B06010
+B06010_047MA,string,Annotation of Margin of Error!!Total!!Foreign born!!With income,B06010
+B06010_048EA,string,"Annotation of Estimate!!Total!!Foreign born!!With income!!$1 to $9,999 or loss",B06010
+B06010_048MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!With income!!$1 to $9,999 or loss",B06010
+B06010_049EA,string,"Annotation of Estimate!!Total!!Foreign born!!With income!!$10,000 to $14,999",B06010
+B06010_049MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!With income!!$10,000 to $14,999",B06010
+B06010_050EA,string,"Annotation of Estimate!!Total!!Foreign born!!With income!!$15,000 to $24,999",B06010
+B06010_050MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!With income!!$15,000 to $24,999",B06010
+B06010_051EA,string,"Annotation of Estimate!!Total!!Foreign born!!With income!!$25,000 to $34,999",B06010
+B06010_051MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!With income!!$25,000 to $34,999",B06010
+B06010_052EA,string,"Annotation of Estimate!!Total!!Foreign born!!With income!!$35,000 to $49,999",B06010
+B06010_052MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!With income!!$35,000 to $49,999",B06010
+B06010_053EA,string,"Annotation of Estimate!!Total!!Foreign born!!With income!!$50,000 to $64,999",B06010
+B06010_053MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!With income!!$50,000 to $64,999",B06010
+B06010_054EA,string,"Annotation of Estimate!!Total!!Foreign born!!With income!!$65,000 to $74,999",B06010
+B06010_054MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!With income!!$65,000 to $74,999",B06010
+B06010_055EA,string,"Annotation of Estimate!!Total!!Foreign born!!With income!!$75,000 or more",B06010
+B06010_055MA,string,"Annotation of Margin of Error!!Total!!Foreign born!!With income!!$75,000 or more",B06010

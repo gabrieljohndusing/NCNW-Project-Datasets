@@ -1,0 +1,561 @@
+VARIABLE,TYPE,LABEL,GROUP
+S1703_C01_001E,int,Total!!Estimate!!Population for whom poverty status is determined,S1703
+S1703_C01_002E,int,Total!!Estimate!!SEX!!Male,S1703
+S1703_C01_003E,int,Total!!Estimate!!SEX!!Female,S1703
+S1703_C01_004E,int,Total!!Estimate!!AGE!!Under 18 years,S1703
+S1703_C01_005E,int,Total!!Estimate!!AGE!!Related children under 18 years,S1703
+S1703_C01_006E,int,Total!!Estimate!!AGE!!18 to 64 years,S1703
+S1703_C01_007E,int,Total!!Estimate!!AGE!!65 years and over,S1703
+S1703_C01_008E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C01_009E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C01_010E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C01_011E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C01_012E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C01_013E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C01_014E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C01_015E,int,Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C01_016E,int,Total!!Estimate!!Hispanic or Latino origin (of any race),S1703
+S1703_C01_017E,int,"Total!!Estimate!!White alone, not Hispanic or Latino",S1703
+S1703_C01_018E,int,Total!!Estimate!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C01_019E,int,Total!!Estimate!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C01_020E,int,"Total!!Estimate!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C01_021E,int,Total!!Estimate!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C01_022E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C01_023E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C01_024E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C01_025E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C01_026E,int,Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C01_027E,int,Total!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C01_028E,int,Total!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C01_029E,int,Total!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C01_030E,int,Total!!Estimate!!DISABILITY STATUS!!With any disability,S1703
+S1703_C01_031E,int,Total!!Estimate!!DISABILITY STATUS!!No disability,S1703
+S1703_C01_032E,int,Total!!Estimate!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C01_033E,int,"Total!!Estimate!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C01_034E,int,"Total!!Estimate!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C01_035E,int,Total!!Estimate!!WORK STATUS!!Did not work,S1703
+S1703_C02_001E,float,Less than 50 percent of the poverty level!!Estimate!!Population for whom poverty status is determined,S1703
+S1703_C02_002E,float,Less than 50 percent of the poverty level!!Estimate!!SEX!!Male,S1703
+S1703_C02_003E,float,Less than 50 percent of the poverty level!!Estimate!!SEX!!Female,S1703
+S1703_C02_004E,float,Less than 50 percent of the poverty level!!Estimate!!AGE!!Under 18 years,S1703
+S1703_C02_005E,float,Less than 50 percent of the poverty level!!Estimate!!AGE!!Related children under 18 years,S1703
+S1703_C02_006E,float,Less than 50 percent of the poverty level!!Estimate!!AGE!!18 to 64 years,S1703
+S1703_C02_007E,float,Less than 50 percent of the poverty level!!Estimate!!AGE!!65 years and over,S1703
+S1703_C02_008E,float,Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C02_009E,float,Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C02_010E,float,Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C02_011E,float,Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C02_012E,float,Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C02_013E,float,Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C02_014E,float,Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C02_015E,float,Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C02_016E,float,Less than 50 percent of the poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1703
+S1703_C02_017E,float,"Less than 50 percent of the poverty level!!Estimate!!White alone, not Hispanic or Latino",S1703
+S1703_C02_018E,float,Less than 50 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C02_019E,float,Less than 50 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C02_020E,float,"Less than 50 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C02_021E,float,Less than 50 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C02_022E,float,Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C02_023E,float,Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C02_024E,float,Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C02_025E,float,Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C02_026E,float,Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C02_027E,float,Less than 50 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C02_028E,float,Less than 50 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C02_029E,float,Less than 50 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C02_030E,float,Less than 50 percent of the poverty level!!Estimate!!DISABILITY STATUS!!With any disability,S1703
+S1703_C02_031E,float,Less than 50 percent of the poverty level!!Estimate!!DISABILITY STATUS!!No disability,S1703
+S1703_C02_032E,float,Less than 50 percent of the poverty level!!Estimate!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C02_033E,float,"Less than 50 percent of the poverty level!!Estimate!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C02_034E,float,"Less than 50 percent of the poverty level!!Estimate!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C02_035E,float,Less than 50 percent of the poverty level!!Estimate!!WORK STATUS!!Did not work,S1703
+S1703_C03_001E,float,Less than 100 percent of the poverty level!!Estimate!!Population for whom poverty status is determined,S1703
+S1703_C03_002E,float,Less than 100 percent of the poverty level!!Estimate!!SEX!!Male,S1703
+S1703_C03_003E,float,Less than 100 percent of the poverty level!!Estimate!!SEX!!Female,S1703
+S1703_C03_004E,float,Less than 100 percent of the poverty level!!Estimate!!AGE!!Under 18 years,S1703
+S1703_C03_005E,float,Less than 100 percent of the poverty level!!Estimate!!AGE!!Related children under 18 years,S1703
+S1703_C03_006E,float,Less than 100 percent of the poverty level!!Estimate!!AGE!!18 to 64 years,S1703
+S1703_C03_007E,float,Less than 100 percent of the poverty level!!Estimate!!AGE!!65 years and over,S1703
+S1703_C03_008E,float,Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C03_009E,float,Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C03_010E,float,Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C03_011E,float,Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C03_012E,float,Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C03_013E,float,Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C03_014E,float,Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C03_015E,float,Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C03_016E,float,Less than 100 percent of the poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1703
+S1703_C03_017E,float,"Less than 100 percent of the poverty level!!Estimate!!White alone, not Hispanic or Latino",S1703
+S1703_C03_018E,float,Less than 100 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C03_019E,float,Less than 100 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C03_020E,float,"Less than 100 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C03_021E,float,Less than 100 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C03_022E,float,Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C03_023E,float,Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C03_024E,float,Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C03_025E,float,Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C03_026E,float,Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C03_027E,float,Less than 100 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C03_028E,float,Less than 100 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C03_029E,float,Less than 100 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C03_030E,float,Less than 100 percent of the poverty level!!Estimate!!DISABILITY STATUS!!With any disability,S1703
+S1703_C03_031E,float,Less than 100 percent of the poverty level!!Estimate!!DISABILITY STATUS!!No disability,S1703
+S1703_C03_032E,float,Less than 100 percent of the poverty level!!Estimate!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C03_033E,float,"Less than 100 percent of the poverty level!!Estimate!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C03_034E,float,"Less than 100 percent of the poverty level!!Estimate!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C03_035E,float,Less than 100 percent of the poverty level!!Estimate!!WORK STATUS!!Did not work,S1703
+S1703_C04_001E,float,Less than 125 percent of the poverty level!!Estimate!!Population for whom poverty status is determined,S1703
+S1703_C04_002E,float,Less than 125 percent of the poverty level!!Estimate!!SEX!!Male,S1703
+S1703_C04_003E,float,Less than 125 percent of the poverty level!!Estimate!!SEX!!Female,S1703
+S1703_C04_004E,float,Less than 125 percent of the poverty level!!Estimate!!AGE!!Under 18 years,S1703
+S1703_C04_005E,float,Less than 125 percent of the poverty level!!Estimate!!AGE!!Related children under 18 years,S1703
+S1703_C04_006E,float,Less than 125 percent of the poverty level!!Estimate!!AGE!!18 to 64 years,S1703
+S1703_C04_007E,float,Less than 125 percent of the poverty level!!Estimate!!AGE!!65 years and over,S1703
+S1703_C04_008E,float,Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C04_009E,float,Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C04_010E,float,Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C04_011E,float,Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C04_012E,float,Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C04_013E,float,Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C04_014E,float,Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C04_015E,float,Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C04_016E,float,Less than 125 percent of the poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1703
+S1703_C04_017E,float,"Less than 125 percent of the poverty level!!Estimate!!White alone, not Hispanic or Latino",S1703
+S1703_C04_018E,float,Less than 125 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C04_019E,float,Less than 125 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C04_020E,float,"Less than 125 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C04_021E,float,Less than 125 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C04_022E,float,Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C04_023E,float,Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C04_024E,float,Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C04_025E,float,Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C04_026E,float,Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C04_027E,float,Less than 125 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C04_028E,float,Less than 125 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C04_029E,float,Less than 125 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C04_030E,float,Less than 125 percent of the poverty level!!Estimate!!DISABILITY STATUS!!With any disability,S1703
+S1703_C04_031E,float,Less than 125 percent of the poverty level!!Estimate!!DISABILITY STATUS!!No disability,S1703
+S1703_C04_032E,float,Less than 125 percent of the poverty level!!Estimate!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C04_033E,float,"Less than 125 percent of the poverty level!!Estimate!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C04_034E,float,"Less than 125 percent of the poverty level!!Estimate!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C04_035E,float,Less than 125 percent of the poverty level!!Estimate!!WORK STATUS!!Did not work,S1703
+S1703_C01_001M,int,Total!!Margin of Error!!Population for whom poverty status is determined,S1703
+S1703_C01_002M,int,Total!!Margin of Error!!SEX!!Male,S1703
+S1703_C01_003M,int,Total!!Margin of Error!!SEX!!Female,S1703
+S1703_C01_004M,int,Total!!Margin of Error!!AGE!!Under 18 years,S1703
+S1703_C01_005M,int,Total!!Margin of Error!!AGE!!Related children under 18 years,S1703
+S1703_C01_006M,int,Total!!Margin of Error!!AGE!!18 to 64 years,S1703
+S1703_C01_007M,int,Total!!Margin of Error!!AGE!!65 years and over,S1703
+S1703_C01_008M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C01_009M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C01_010M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C01_011M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C01_012M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C01_013M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C01_014M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C01_015M,int,Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C01_016M,int,Total!!Margin of Error!!Hispanic or Latino origin (of any race),S1703
+S1703_C01_017M,int,"Total!!Margin of Error!!White alone, not Hispanic or Latino",S1703
+S1703_C01_018M,int,Total!!Margin of Error!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C01_019M,int,Total!!Margin of Error!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C01_020M,int,"Total!!Margin of Error!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C01_021M,int,Total!!Margin of Error!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C01_022M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C01_023M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C01_024M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C01_025M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C01_026M,int,Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C01_027M,int,Total!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C01_028M,int,Total!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C01_029M,int,Total!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C01_030M,int,Total!!Margin of Error!!DISABILITY STATUS!!With any disability,S1703
+S1703_C01_031M,int,Total!!Margin of Error!!DISABILITY STATUS!!No disability,S1703
+S1703_C01_032M,int,Total!!Margin of Error!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C01_033M,int,"Total!!Margin of Error!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C01_034M,int,"Total!!Margin of Error!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C01_035M,int,Total!!Margin of Error!!WORK STATUS!!Did not work,S1703
+S1703_C02_001M,float,Less than 50 percent of the poverty level!!Margin of Error!!Population for whom poverty status is determined,S1703
+S1703_C02_002M,float,Less than 50 percent of the poverty level!!Margin of Error!!SEX!!Male,S1703
+S1703_C02_003M,float,Less than 50 percent of the poverty level!!Margin of Error!!SEX!!Female,S1703
+S1703_C02_004M,float,Less than 50 percent of the poverty level!!Margin of Error!!AGE!!Under 18 years,S1703
+S1703_C02_005M,float,Less than 50 percent of the poverty level!!Margin of Error!!AGE!!Related children under 18 years,S1703
+S1703_C02_006M,float,Less than 50 percent of the poverty level!!Margin of Error!!AGE!!18 to 64 years,S1703
+S1703_C02_007M,float,Less than 50 percent of the poverty level!!Margin of Error!!AGE!!65 years and over,S1703
+S1703_C02_008M,float,Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C02_009M,float,Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C02_010M,float,Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C02_011M,float,Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C02_012M,float,Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C02_013M,float,Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C02_014M,float,Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C02_015M,float,Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C02_016M,float,Less than 50 percent of the poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1703
+S1703_C02_017M,float,"Less than 50 percent of the poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1703
+S1703_C02_018M,float,Less than 50 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C02_019M,float,Less than 50 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C02_020M,float,"Less than 50 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C02_021M,float,Less than 50 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C02_022M,float,Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C02_023M,float,Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C02_024M,float,Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C02_025M,float,Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C02_026M,float,Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C02_027M,float,Less than 50 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C02_028M,float,Less than 50 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C02_029M,float,Less than 50 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C02_030M,float,Less than 50 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!With any disability,S1703
+S1703_C02_031M,float,Less than 50 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!No disability,S1703
+S1703_C02_032M,float,Less than 50 percent of the poverty level!!Margin of Error!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C02_033M,float,"Less than 50 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C02_034M,float,"Less than 50 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C02_035M,float,Less than 50 percent of the poverty level!!Margin of Error!!WORK STATUS!!Did not work,S1703
+S1703_C03_001M,float,Less than 100 percent of the poverty level!!Margin of Error!!Population for whom poverty status is determined,S1703
+S1703_C03_002M,float,Less than 100 percent of the poverty level!!Margin of Error!!SEX!!Male,S1703
+S1703_C03_003M,float,Less than 100 percent of the poverty level!!Margin of Error!!SEX!!Female,S1703
+S1703_C03_004M,float,Less than 100 percent of the poverty level!!Margin of Error!!AGE!!Under 18 years,S1703
+S1703_C03_005M,float,Less than 100 percent of the poverty level!!Margin of Error!!AGE!!Related children under 18 years,S1703
+S1703_C03_006M,float,Less than 100 percent of the poverty level!!Margin of Error!!AGE!!18 to 64 years,S1703
+S1703_C03_007M,float,Less than 100 percent of the poverty level!!Margin of Error!!AGE!!65 years and over,S1703
+S1703_C03_008M,float,Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C03_009M,float,Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C03_010M,float,Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C03_011M,float,Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C03_012M,float,Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C03_013M,float,Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C03_014M,float,Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C03_015M,float,Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C03_016M,float,Less than 100 percent of the poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1703
+S1703_C03_017M,float,"Less than 100 percent of the poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1703
+S1703_C03_018M,float,Less than 100 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C03_019M,float,Less than 100 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C03_020M,float,"Less than 100 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C03_021M,float,Less than 100 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C03_022M,float,Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C03_023M,float,Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C03_024M,float,Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C03_025M,float,Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C03_026M,float,Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C03_027M,float,Less than 100 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C03_028M,float,Less than 100 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C03_029M,float,Less than 100 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C03_030M,float,Less than 100 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!With any disability,S1703
+S1703_C03_031M,float,Less than 100 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!No disability,S1703
+S1703_C03_032M,float,Less than 100 percent of the poverty level!!Margin of Error!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C03_033M,float,"Less than 100 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C03_034M,float,"Less than 100 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C03_035M,float,Less than 100 percent of the poverty level!!Margin of Error!!WORK STATUS!!Did not work,S1703
+S1703_C04_001M,float,Less than 125 percent of the poverty level!!Margin of Error!!Population for whom poverty status is determined,S1703
+S1703_C04_002M,float,Less than 125 percent of the poverty level!!Margin of Error!!SEX!!Male,S1703
+S1703_C04_003M,float,Less than 125 percent of the poverty level!!Margin of Error!!SEX!!Female,S1703
+S1703_C04_004M,float,Less than 125 percent of the poverty level!!Margin of Error!!AGE!!Under 18 years,S1703
+S1703_C04_005M,float,Less than 125 percent of the poverty level!!Margin of Error!!AGE!!Related children under 18 years,S1703
+S1703_C04_006M,float,Less than 125 percent of the poverty level!!Margin of Error!!AGE!!18 to 64 years,S1703
+S1703_C04_007M,float,Less than 125 percent of the poverty level!!Margin of Error!!AGE!!65 years and over,S1703
+S1703_C04_008M,float,Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C04_009M,float,Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C04_010M,float,Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C04_011M,float,Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C04_012M,float,Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C04_013M,float,Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C04_014M,float,Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C04_015M,float,Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C04_016M,float,Less than 125 percent of the poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1703
+S1703_C04_017M,float,"Less than 125 percent of the poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1703
+S1703_C04_018M,float,Less than 125 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C04_019M,float,Less than 125 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C04_020M,float,"Less than 125 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C04_021M,float,Less than 125 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C04_022M,float,Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C04_023M,float,Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C04_024M,float,Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C04_025M,float,Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C04_026M,float,Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C04_027M,float,Less than 125 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C04_028M,float,Less than 125 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C04_029M,float,Less than 125 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C04_030M,float,Less than 125 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!With any disability,S1703
+S1703_C04_031M,float,Less than 125 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!No disability,S1703
+S1703_C04_032M,float,Less than 125 percent of the poverty level!!Margin of Error!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C04_033M,float,"Less than 125 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C04_034M,float,"Less than 125 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C04_035M,float,Less than 125 percent of the poverty level!!Margin of Error!!WORK STATUS!!Did not work,S1703
+S1703_C01_001EA,string,Annotation of Total!!Estimate!!Population for whom poverty status is determined,S1703
+S1703_C01_001MA,string,Annotation of Total!!Margin of Error!!Population for whom poverty status is determined,S1703
+S1703_C01_002EA,string,Annotation of Total!!Estimate!!SEX!!Male,S1703
+S1703_C01_002MA,string,Annotation of Total!!Margin of Error!!SEX!!Male,S1703
+S1703_C01_003EA,string,Annotation of Total!!Estimate!!SEX!!Female,S1703
+S1703_C01_003MA,string,Annotation of Total!!Margin of Error!!SEX!!Female,S1703
+S1703_C01_004EA,string,Annotation of Total!!Estimate!!AGE!!Under 18 years,S1703
+S1703_C01_004MA,string,Annotation of Total!!Margin of Error!!AGE!!Under 18 years,S1703
+S1703_C01_005EA,string,Annotation of Total!!Estimate!!AGE!!Related children under 18 years,S1703
+S1703_C01_005MA,string,Annotation of Total!!Margin of Error!!AGE!!Related children under 18 years,S1703
+S1703_C01_006EA,string,Annotation of Total!!Estimate!!AGE!!18 to 64 years,S1703
+S1703_C01_006MA,string,Annotation of Total!!Margin of Error!!AGE!!18 to 64 years,S1703
+S1703_C01_007EA,string,Annotation of Total!!Estimate!!AGE!!65 years and over,S1703
+S1703_C01_007MA,string,Annotation of Total!!Margin of Error!!AGE!!65 years and over,S1703
+S1703_C01_008EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C01_008MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C01_009EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C01_009MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C01_010EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C01_010MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C01_011EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C01_011MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C01_012EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C01_012MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C01_013EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C01_013MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C01_014EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C01_014MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C01_015EA,string,Annotation of Total!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C01_015MA,string,Annotation of Total!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C01_016EA,string,Annotation of Total!!Estimate!!Hispanic or Latino origin (of any race),S1703
+S1703_C01_016MA,string,Annotation of Total!!Margin of Error!!Hispanic or Latino origin (of any race),S1703
+S1703_C01_017EA,string,"Annotation of Total!!Estimate!!White alone, not Hispanic or Latino",S1703
+S1703_C01_017MA,string,"Annotation of Total!!Margin of Error!!White alone, not Hispanic or Latino",S1703
+S1703_C01_018EA,string,Annotation of Total!!Estimate!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C01_018MA,string,Annotation of Total!!Margin of Error!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C01_019EA,string,Annotation of Total!!Estimate!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C01_019MA,string,Annotation of Total!!Margin of Error!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C01_020EA,string,"Annotation of Total!!Estimate!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C01_020MA,string,"Annotation of Total!!Margin of Error!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C01_021EA,string,Annotation of Total!!Estimate!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C01_021MA,string,Annotation of Total!!Margin of Error!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C01_022EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C01_022MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C01_023EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C01_023MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C01_024EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C01_024MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C01_025EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C01_025MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C01_026EA,string,Annotation of Total!!Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C01_026MA,string,Annotation of Total!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C01_027EA,string,Annotation of Total!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C01_027MA,string,Annotation of Total!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C01_028EA,string,Annotation of Total!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C01_028MA,string,Annotation of Total!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C01_029EA,string,Annotation of Total!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C01_029MA,string,Annotation of Total!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C01_030EA,string,Annotation of Total!!Estimate!!DISABILITY STATUS!!With any disability,S1703
+S1703_C01_030MA,string,Annotation of Total!!Margin of Error!!DISABILITY STATUS!!With any disability,S1703
+S1703_C01_031EA,string,Annotation of Total!!Estimate!!DISABILITY STATUS!!No disability,S1703
+S1703_C01_031MA,string,Annotation of Total!!Margin of Error!!DISABILITY STATUS!!No disability,S1703
+S1703_C01_032EA,string,Annotation of Total!!Estimate!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C01_032MA,string,Annotation of Total!!Margin of Error!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C01_033EA,string,"Annotation of Total!!Estimate!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C01_033MA,string,"Annotation of Total!!Margin of Error!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C01_034EA,string,"Annotation of Total!!Estimate!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C01_034MA,string,"Annotation of Total!!Margin of Error!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C01_035EA,string,Annotation of Total!!Estimate!!WORK STATUS!!Did not work,S1703
+S1703_C01_035MA,string,Annotation of Total!!Margin of Error!!WORK STATUS!!Did not work,S1703
+S1703_C02_001EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!Population for whom poverty status is determined,S1703
+S1703_C02_001MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!Population for whom poverty status is determined,S1703
+S1703_C02_002EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!SEX!!Male,S1703
+S1703_C02_002MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!SEX!!Male,S1703
+S1703_C02_003EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!SEX!!Female,S1703
+S1703_C02_003MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!SEX!!Female,S1703
+S1703_C02_004EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!AGE!!Under 18 years,S1703
+S1703_C02_004MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!AGE!!Under 18 years,S1703
+S1703_C02_005EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!AGE!!Related children under 18 years,S1703
+S1703_C02_005MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!AGE!!Related children under 18 years,S1703
+S1703_C02_006EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!AGE!!18 to 64 years,S1703
+S1703_C02_006MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!AGE!!18 to 64 years,S1703
+S1703_C02_007EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!AGE!!65 years and over,S1703
+S1703_C02_007MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!AGE!!65 years and over,S1703
+S1703_C02_008EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C02_008MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C02_009EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C02_009MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C02_010EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C02_010MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C02_011EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C02_011MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C02_012EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C02_012MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C02_013EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C02_013MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C02_014EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C02_014MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C02_015EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C02_015MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C02_016EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1703
+S1703_C02_016MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1703
+S1703_C02_017EA,string,"Annotation of Less than 50 percent of the poverty level!!Estimate!!White alone, not Hispanic or Latino",S1703
+S1703_C02_017MA,string,"Annotation of Less than 50 percent of the poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1703
+S1703_C02_018EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C02_018MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C02_019EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C02_019MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C02_020EA,string,"Annotation of Less than 50 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C02_020MA,string,"Annotation of Less than 50 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C02_021EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C02_021MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C02_022EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C02_022MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C02_023EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C02_023MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C02_024EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C02_024MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C02_025EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C02_025MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C02_026EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C02_026MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C02_027EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C02_027MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C02_028EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C02_028MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C02_029EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C02_029MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C02_030EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!DISABILITY STATUS!!With any disability,S1703
+S1703_C02_030MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!With any disability,S1703
+S1703_C02_031EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!DISABILITY STATUS!!No disability,S1703
+S1703_C02_031MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!No disability,S1703
+S1703_C02_032EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C02_032MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C02_033EA,string,"Annotation of Less than 50 percent of the poverty level!!Estimate!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C02_033MA,string,"Annotation of Less than 50 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C02_034EA,string,"Annotation of Less than 50 percent of the poverty level!!Estimate!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C02_034MA,string,"Annotation of Less than 50 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C02_035EA,string,Annotation of Less than 50 percent of the poverty level!!Estimate!!WORK STATUS!!Did not work,S1703
+S1703_C02_035MA,string,Annotation of Less than 50 percent of the poverty level!!Margin of Error!!WORK STATUS!!Did not work,S1703
+S1703_C03_001EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!Population for whom poverty status is determined,S1703
+S1703_C03_001MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!Population for whom poverty status is determined,S1703
+S1703_C03_002EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!SEX!!Male,S1703
+S1703_C03_002MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!SEX!!Male,S1703
+S1703_C03_003EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!SEX!!Female,S1703
+S1703_C03_003MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!SEX!!Female,S1703
+S1703_C03_004EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!AGE!!Under 18 years,S1703
+S1703_C03_004MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!AGE!!Under 18 years,S1703
+S1703_C03_005EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!AGE!!Related children under 18 years,S1703
+S1703_C03_005MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!AGE!!Related children under 18 years,S1703
+S1703_C03_006EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!AGE!!18 to 64 years,S1703
+S1703_C03_006MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!AGE!!18 to 64 years,S1703
+S1703_C03_007EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!AGE!!65 years and over,S1703
+S1703_C03_007MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!AGE!!65 years and over,S1703
+S1703_C03_008EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C03_008MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C03_009EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C03_009MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C03_010EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C03_010MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C03_011EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C03_011MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C03_012EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C03_012MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C03_013EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C03_013MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C03_014EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C03_014MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C03_015EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C03_015MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C03_016EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1703
+S1703_C03_016MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1703
+S1703_C03_017EA,string,"Annotation of Less than 100 percent of the poverty level!!Estimate!!White alone, not Hispanic or Latino",S1703
+S1703_C03_017MA,string,"Annotation of Less than 100 percent of the poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1703
+S1703_C03_018EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C03_018MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C03_019EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C03_019MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C03_020EA,string,"Annotation of Less than 100 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C03_020MA,string,"Annotation of Less than 100 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C03_021EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C03_021MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C03_022EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C03_022MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C03_023EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C03_023MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C03_024EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C03_024MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C03_025EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C03_025MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C03_026EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C03_026MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C03_027EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C03_027MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C03_028EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C03_028MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C03_029EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C03_029MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C03_030EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!DISABILITY STATUS!!With any disability,S1703
+S1703_C03_030MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!With any disability,S1703
+S1703_C03_031EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!DISABILITY STATUS!!No disability,S1703
+S1703_C03_031MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!No disability,S1703
+S1703_C03_032EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C03_032MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C03_033EA,string,"Annotation of Less than 100 percent of the poverty level!!Estimate!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C03_033MA,string,"Annotation of Less than 100 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C03_034EA,string,"Annotation of Less than 100 percent of the poverty level!!Estimate!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C03_034MA,string,"Annotation of Less than 100 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C03_035EA,string,Annotation of Less than 100 percent of the poverty level!!Estimate!!WORK STATUS!!Did not work,S1703
+S1703_C03_035MA,string,Annotation of Less than 100 percent of the poverty level!!Margin of Error!!WORK STATUS!!Did not work,S1703
+S1703_C04_001EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!Population for whom poverty status is determined,S1703
+S1703_C04_001MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!Population for whom poverty status is determined,S1703
+S1703_C04_002EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!SEX!!Male,S1703
+S1703_C04_002MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!SEX!!Male,S1703
+S1703_C04_003EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!SEX!!Female,S1703
+S1703_C04_003MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!SEX!!Female,S1703
+S1703_C04_004EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!AGE!!Under 18 years,S1703
+S1703_C04_004MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!AGE!!Under 18 years,S1703
+S1703_C04_005EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!AGE!!Related children under 18 years,S1703
+S1703_C04_005MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!AGE!!Related children under 18 years,S1703
+S1703_C04_006EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!AGE!!18 to 64 years,S1703
+S1703_C04_006MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!AGE!!18 to 64 years,S1703
+S1703_C04_007EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!AGE!!65 years and over,S1703
+S1703_C04_007MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!AGE!!65 years and over,S1703
+S1703_C04_008EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C04_008MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race,S1703
+S1703_C04_009EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C04_009MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!White,S1703
+S1703_C04_010EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C04_010MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Black or African American,S1703
+S1703_C04_011EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C04_011MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S1703
+S1703_C04_012EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C04_012MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Asian,S1703
+S1703_C04_013EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C04_013MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S1703
+S1703_C04_014EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C04_014MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!One race!!Some other race,S1703
+S1703_C04_015EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C04_015MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,S1703
+S1703_C04_016EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!Hispanic or Latino origin (of any race),S1703
+S1703_C04_016MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!Hispanic or Latino origin (of any race),S1703
+S1703_C04_017EA,string,"Annotation of Less than 125 percent of the poverty level!!Estimate!!White alone, not Hispanic or Latino",S1703
+S1703_C04_017MA,string,"Annotation of Less than 125 percent of the poverty level!!Margin of Error!!White alone, not Hispanic or Latino",S1703
+S1703_C04_018EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C04_018MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In family households,S1703
+S1703_C04_019EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C04_019MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In married-couple family,S1703
+S1703_C04_020EA,string,"Annotation of Less than 125 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C04_020MA,string,"Annotation of Less than 125 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In Female householder, no husband present households",S1703
+S1703_C04_021EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C04_021MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!LIVING ARRANGEMENT!!In other living arrangements,S1703
+S1703_C04_022EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C04_022MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S1703
+S1703_C04_023EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C04_023MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Less than high school graduate,S1703
+S1703_C04_024EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C04_024MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),S1703
+S1703_C04_025EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C04_025MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Some college or associate's degree,S1703
+S1703_C04_026EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C04_026MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher,S1703
+S1703_C04_027EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C04_027MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Native,S1703
+S1703_C04_028EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C04_028MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Foreign born,S1703
+S1703_C04_029EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C04_029MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!NATIVITY AND CITIZENSHIP STATUS!!Naturalized citizen,S1703
+S1703_C04_030EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!DISABILITY STATUS!!With any disability,S1703
+S1703_C04_030MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!With any disability,S1703
+S1703_C04_031EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!DISABILITY STATUS!!No disability,S1703
+S1703_C04_031MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!DISABILITY STATUS!!No disability,S1703
+S1703_C04_032EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C04_032MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!WORK STATUS!!Population 16 to 64 years,S1703
+S1703_C04_033EA,string,"Annotation of Less than 125 percent of the poverty level!!Estimate!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C04_033MA,string,"Annotation of Less than 125 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked full-time, year-round",S1703
+S1703_C04_034EA,string,"Annotation of Less than 125 percent of the poverty level!!Estimate!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C04_034MA,string,"Annotation of Less than 125 percent of the poverty level!!Margin of Error!!WORK STATUS!!Worked less than full-time, year-round",S1703
+S1703_C04_035EA,string,Annotation of Less than 125 percent of the poverty level!!Estimate!!WORK STATUS!!Did not work,S1703
+S1703_C04_035MA,string,Annotation of Less than 125 percent of the poverty level!!Margin of Error!!WORK STATUS!!Did not work,S1703

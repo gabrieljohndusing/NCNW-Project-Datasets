@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B10010_001E,int,Estimate!!Median family income in the past 12 months!!Total,B10010
+B10010_002E,int,Estimate!!Median family income in the past 12 months!!Grandparent householder and/or spouse responsible for grandchildren under 18 years (dollars),B10010
+B10010_003E,int,Estimate!!Median family income in the past 12 months!!Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars),B10010
+B10010_001M,int,Margin of Error!!Median family income in the past 12 months!!Total,B10010
+B10010_002M,int,Margin of Error!!Median family income in the past 12 months!!Grandparent householder and/or spouse responsible for grandchildren under 18 years (dollars),B10010
+B10010_003M,int,Margin of Error!!Median family income in the past 12 months!!Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars),B10010
+B10010_001EA,string,Annotation of Estimate!!Median family income in the past 12 months!!Total,B10010
+B10010_001MA,string,Annotation of Margin of Error!!Median family income in the past 12 months!!Total,B10010
+B10010_002EA,string,Annotation of Estimate!!Median family income in the past 12 months!!Grandparent householder and/or spouse responsible for grandchildren under 18 years (dollars),B10010
+B10010_002MA,string,Annotation of Margin of Error!!Median family income in the past 12 months!!Grandparent householder and/or spouse responsible for grandchildren under 18 years (dollars),B10010
+B10010_003EA,string,Annotation of Estimate!!Median family income in the past 12 months!!Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars),B10010
+B10010_003MA,string,Annotation of Margin of Error!!Median family income in the past 12 months!!Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars),B10010

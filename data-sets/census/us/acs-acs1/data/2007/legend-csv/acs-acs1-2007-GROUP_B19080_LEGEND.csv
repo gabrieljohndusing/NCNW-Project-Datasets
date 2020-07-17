@@ -1,0 +1,21 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19080_001E,int,Estimate!!Quintile Upper Limits!!Lowest Quintile,B19080
+B19080_002E,int,Estimate!!Quintile Upper Limits!!Second Quintile,B19080
+B19080_003E,int,Estimate!!Quintile Upper Limits!!Third Quintile,B19080
+B19080_004E,int,Estimate!!Quintile Upper Limits!!Fourth Quintile,B19080
+B19080_005E,int,Estimate!!Lower Limit of Top 5 Percent,B19080
+B19080_001M,int,Margin of Error!!Quintile Upper Limits!!Lowest Quintile,B19080
+B19080_002M,int,Margin of Error!!Quintile Upper Limits!!Second Quintile,B19080
+B19080_003M,int,Margin of Error!!Quintile Upper Limits!!Third Quintile,B19080
+B19080_004M,int,Margin of Error!!Quintile Upper Limits!!Fourth Quintile,B19080
+B19080_005M,int,Margin of Error!!Lower Limit of Top 5 Percent,B19080
+B19080_001EA,string,Annotation of Estimate!!Quintile Upper Limits!!Lowest Quintile,B19080
+B19080_001MA,string,Annotation of Margin of Error!!Quintile Upper Limits!!Lowest Quintile,B19080
+B19080_002EA,string,Annotation of Estimate!!Quintile Upper Limits!!Second Quintile,B19080
+B19080_002MA,string,Annotation of Margin of Error!!Quintile Upper Limits!!Second Quintile,B19080
+B19080_003EA,string,Annotation of Estimate!!Quintile Upper Limits!!Third Quintile,B19080
+B19080_003MA,string,Annotation of Margin of Error!!Quintile Upper Limits!!Third Quintile,B19080
+B19080_004EA,string,Annotation of Estimate!!Quintile Upper Limits!!Fourth Quintile,B19080
+B19080_004MA,string,Annotation of Margin of Error!!Quintile Upper Limits!!Fourth Quintile,B19080
+B19080_005EA,string,Annotation of Estimate!!Lower Limit of Top 5 Percent,B19080
+B19080_005MA,string,Annotation of Margin of Error!!Lower Limit of Top 5 Percent,B19080

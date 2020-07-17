@@ -1,0 +1,873 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2601C_C01_001E,int,Total population!!Estimate!!Total population,S2601C
+S2601C_C01_002E,float,Total population!!Estimate!!SEX AND AGE!!Male,S2601C
+S2601C_C01_003E,float,Total population!!Estimate!!SEX AND AGE!!Female,S2601C
+S2601C_C01_004E,float,Total population!!Estimate!!Under 15 years,S2601C
+S2601C_C01_005E,float,Total population!!Estimate!!15 to 17 years,S2601C
+S2601C_C01_006E,float,Total population!!Estimate!!18 to 24 years,S2601C
+S2601C_C01_007E,float,Total population!!Estimate!!25 to 34 years,S2601C
+S2601C_C01_008E,float,Total population!!Estimate!!35 to 44 years,S2601C
+S2601C_C01_009E,float,Total population!!Estimate!!45 to 54 years,S2601C
+S2601C_C01_010E,float,Total population!!Estimate!!55 to 64 years,S2601C
+S2601C_C01_011E,float,Total population!!Estimate!!65 to 74 years,S2601C
+S2601C_C01_012E,float,Total population!!Estimate!!75 to 84 years,S2601C
+S2601C_C01_013E,float,Total population!!Estimate!!85 years and over,S2601C
+S2601C_C01_014E,int,Total population!!Estimate!!Under 18 years,S2601C
+S2601C_C01_015E,float,Total population!!Estimate!!Under 18 years!!Male,S2601C
+S2601C_C01_016E,float,Total population!!Estimate!!Under 18 years!!Female,S2601C
+S2601C_C01_017E,int,Total population!!Estimate!!65 years and over,S2601C
+S2601C_C01_018E,float,Total population!!Estimate!!65 years and over!!Male,S2601C
+S2601C_C01_019E,float,Total population!!Estimate!!65 years and over!!Female,S2601C
+S2601C_C01_020E,float,Total population!!Estimate!!Median age (years),S2601C
+S2601C_C01_021E,int,Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race,S2601C
+S2601C_C01_022E,float,Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White,S2601C
+S2601C_C01_023E,float,Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American,S2601C
+S2601C_C01_024E,float,Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S2601C
+S2601C_C01_025E,float,Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian,S2601C
+S2601C_C01_026E,float,Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S2601C
+S2601C_C01_027E,float,Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race,S2601C
+S2601C_C01_028E,int,Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races,S2601C
+S2601C_C01_029E,float,Total population!!Estimate!!Hispanic or Latino (of any race),S2601C
+S2601C_C01_030E,float,Total population!!Estimate!!Not Hispanic or Latino,S2601C
+S2601C_C01_031E,float,"Total population!!Estimate!!White alone, Not Hispanic or Latino",S2601C
+S2601C_C01_032E,int,Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over,S2601C
+S2601C_C01_033E,float,"Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S2601C
+S2601C_C01_034E,float,Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S2601C
+S2601C_C01_035E,float,Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S2601C
+S2601C_C01_036E,float,Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S2601C
+S2601C_C01_037E,float,Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S2601C
+S2601C_C01_038E,int,Total population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S2601C
+S2601C_C01_039E,float,Total population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade,S2601C
+S2601C_C01_040E,float,Total population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S2601C
+S2601C_C01_041E,int,Total population!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S2601C
+S2601C_C01_042E,float,Total population!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,S2601C
+S2601C_C01_043E,float,Total population!!Estimate!!Bachelor's degree or higher,S2601C
+S2601C_C01_044E,int,Total population!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S2601C
+S2601C_C01_045E,float,Total population!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S2601C
+S2601C_C01_046E,int,Total population!!Estimate!!DISABILITY STATUS!!Total population,S2601C
+S2601C_C01_047E,float,Total population!!Estimate!!DISABILITY STATUS!!Total population!!With a disability,S2601C
+S2601C_C01_048E,int,Total population!!Estimate!!DISABILITY STATUS!!Population under 18 years,S2601C
+S2601C_C01_049E,float,Total population!!Estimate!!DISABILITY STATUS!!Population under 18 years!!With a disability,S2601C
+S2601C_C01_050E,int,Total population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years,S2601C
+S2601C_C01_051E,float,Total population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability,S2601C
+S2601C_C01_052E,float,Total population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years!!No disability,S2601C
+S2601C_C01_053E,int,Total population!!Estimate!!DISABILITY STATUS!!Population 65 years and over,S2601C
+S2601C_C01_054E,float,Total population!!Estimate!!DISABILITY STATUS!!Population 65 years and over!!With a disability,S2601C
+S2601C_C01_055E,int,Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S2601C
+S2601C_C01_056E,float,Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address,S2601C
+S2601C_C01_057E,float,Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.,S2601C
+S2601C_C01_058E,float,Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Same county,S2601C
+S2601C_C01_059E,float,Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county,S2601C
+S2601C_C01_060E,float,Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Same state,S2601C
+S2601C_C01_061E,float,Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Different state,S2601C
+S2601C_C01_062E,float,Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S2601C
+S2601C_C01_063E,int,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S2601C
+S2601C_C01_064E,int,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S2601C
+S2601C_C01_065E,float,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male",S2601C
+S2601C_C01_066E,float,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female",S2601C
+S2601C_C01_067E,int,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S2601C
+S2601C_C01_068E,float,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male",S2601C
+S2601C_C01_069E,float,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female",S2601C
+S2601C_C01_070E,int,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S2601C
+S2601C_C01_071E,float,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male",S2601C
+S2601C_C01_072E,float,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female",S2601C
+S2601C_C01_073E,int,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S2601C
+S2601C_C01_074E,float,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male",S2601C
+S2601C_C01_075E,float,"Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female",S2601C
+S2601C_C01_076E,float,Total population!!Estimate!!Entered 2010 or later,S2601C
+S2601C_C01_077E,float,Total population!!Estimate!!Entered 2000 to 2009,S2601C
+S2601C_C01_078E,float,Total population!!Estimate!!Entered before 2000,S2601C
+S2601C_C01_079E,int,Total population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S2601C
+S2601C_C01_080E,float,Total population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S2601C
+S2601C_C01_081E,float,Total population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S2601C
+S2601C_C01_082E,float,"Total population!!Estimate!!Speak English less than ""very well""",S2601C
+S2601C_C01_083E,int,Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,S2601C
+S2601C_C01_084E,float,Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S2601C
+S2601C_C01_085E,float,Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S2601C
+S2601C_C01_086E,float,Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S2601C
+S2601C_C01_087E,float,Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S2601C
+S2601C_C01_088E,float,Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force,S2601C
+S2601C_C01_089E,float,Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S2601C
+S2601C_C01_090E,float,Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S2601C
+S2601C_C01_091E,int,Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over,S2601C
+S2601C_C01_092E,float,"Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2601C
+S2601C_C01_093E,float,Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S2601C
+S2601C_C01_094E,float,Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S2601C
+S2601C_C01_095E,float,"Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations",S2601C
+S2601C_C01_096E,float,"Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2601C
+S2601C_C01_097E,int,Total population!!Estimate!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals,S2601C
+S2601C_C01_098E,int,Total population!!Estimate!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S2601C
+S2601C_C01_099E,int,"Total population!!Estimate!!With earnings for full-time, year-round workers!!Male",S2601C
+S2601C_C01_100E,int,"Total population!!Estimate!!With earnings for full-time, year-round workers!!Female",S2601C
+S2601C_C01_101E,int,"Total population!!Estimate!!Mean earnings (dollars) for full-time, year-round workers!!Male",S2601C
+S2601C_C01_102E,int,"Total population!!Estimate!!Mean earnings (dollars) for full-time, year-round workers!!Female",S2601C
+S2601C_C01_103E,int,"Total population!!Estimate!!Median earnings (dollars) full-time, year-round workers!!Male",S2601C
+S2601C_C01_104E,int,"Total population!!Estimate!!Median earnings (dollars) full-time, year-round workers!!Female",S2601C
+S2601C_C01_105E,int,Total population!!Estimate!!With Food Stamp/SNAP benefits,S2601C
+S2601C_C01_106E,float,Total population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S2601C
+S2601C_C01_107E,float,Total population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S2601C
+S2601C_C01_108E,float,Total population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S2601C
+S2601C_C01_109E,float,Total population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S2601C
+S2601C_C02_001E,int,Total group quarters population!!Estimate!!Total population,S2601C
+S2601C_C02_002E,float,Total group quarters population!!Estimate!!SEX AND AGE!!Male,S2601C
+S2601C_C02_003E,float,Total group quarters population!!Estimate!!SEX AND AGE!!Female,S2601C
+S2601C_C02_004E,float,Total group quarters population!!Estimate!!Under 15 years,S2601C
+S2601C_C02_005E,float,Total group quarters population!!Estimate!!15 to 17 years,S2601C
+S2601C_C02_006E,float,Total group quarters population!!Estimate!!18 to 24 years,S2601C
+S2601C_C02_007E,float,Total group quarters population!!Estimate!!25 to 34 years,S2601C
+S2601C_C02_008E,float,Total group quarters population!!Estimate!!35 to 44 years,S2601C
+S2601C_C02_009E,float,Total group quarters population!!Estimate!!45 to 54 years,S2601C
+S2601C_C02_010E,float,Total group quarters population!!Estimate!!55 to 64 years,S2601C
+S2601C_C02_011E,float,Total group quarters population!!Estimate!!65 to 74 years,S2601C
+S2601C_C02_012E,float,Total group quarters population!!Estimate!!75 to 84 years,S2601C
+S2601C_C02_013E,float,Total group quarters population!!Estimate!!85 years and over,S2601C
+S2601C_C02_014E,int,Total group quarters population!!Estimate!!Under 18 years,S2601C
+S2601C_C02_015E,float,Total group quarters population!!Estimate!!Under 18 years!!Male,S2601C
+S2601C_C02_016E,float,Total group quarters population!!Estimate!!Under 18 years!!Female,S2601C
+S2601C_C02_017E,int,Total group quarters population!!Estimate!!65 years and over,S2601C
+S2601C_C02_018E,float,Total group quarters population!!Estimate!!65 years and over!!Male,S2601C
+S2601C_C02_019E,float,Total group quarters population!!Estimate!!65 years and over!!Female,S2601C
+S2601C_C02_020E,float,Total group quarters population!!Estimate!!Median age (years),S2601C
+S2601C_C02_021E,int,Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race,S2601C
+S2601C_C02_022E,float,Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White,S2601C
+S2601C_C02_023E,float,Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American,S2601C
+S2601C_C02_024E,float,Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S2601C
+S2601C_C02_025E,float,Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian,S2601C
+S2601C_C02_026E,float,Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S2601C
+S2601C_C02_027E,float,Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race,S2601C
+S2601C_C02_028E,int,Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races,S2601C
+S2601C_C02_029E,float,Total group quarters population!!Estimate!!Hispanic or Latino (of any race),S2601C
+S2601C_C02_030E,float,Total group quarters population!!Estimate!!Not Hispanic or Latino,S2601C
+S2601C_C02_031E,float,"Total group quarters population!!Estimate!!White alone, Not Hispanic or Latino",S2601C
+S2601C_C02_032E,int,Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over,S2601C
+S2601C_C02_033E,float,"Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S2601C
+S2601C_C02_034E,float,Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S2601C
+S2601C_C02_035E,float,Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S2601C
+S2601C_C02_036E,float,Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S2601C
+S2601C_C02_037E,float,Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S2601C
+S2601C_C02_038E,int,Total group quarters population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S2601C
+S2601C_C02_039E,float,Total group quarters population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade,S2601C
+S2601C_C02_040E,float,Total group quarters population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S2601C
+S2601C_C02_041E,int,Total group quarters population!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S2601C
+S2601C_C02_042E,float,Total group quarters population!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,S2601C
+S2601C_C02_043E,float,Total group quarters population!!Estimate!!Bachelor's degree or higher,S2601C
+S2601C_C02_044E,int,Total group quarters population!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S2601C
+S2601C_C02_045E,float,Total group quarters population!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S2601C
+S2601C_C02_046E,int,Total group quarters population!!Estimate!!DISABILITY STATUS!!Total population,S2601C
+S2601C_C02_047E,float,Total group quarters population!!Estimate!!DISABILITY STATUS!!Total population!!With a disability,S2601C
+S2601C_C02_048E,int,Total group quarters population!!Estimate!!DISABILITY STATUS!!Population under 18 years,S2601C
+S2601C_C02_049E,float,Total group quarters population!!Estimate!!DISABILITY STATUS!!Population under 18 years!!With a disability,S2601C
+S2601C_C02_050E,int,Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years,S2601C
+S2601C_C02_051E,float,Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability,S2601C
+S2601C_C02_052E,float,Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years!!No disability,S2601C
+S2601C_C02_053E,int,Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 65 years and over,S2601C
+S2601C_C02_054E,float,Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 65 years and over!!With a disability,S2601C
+S2601C_C02_055E,int,Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S2601C
+S2601C_C02_056E,float,Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address,S2601C
+S2601C_C02_057E,float,Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.,S2601C
+S2601C_C02_058E,float,Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Same county,S2601C
+S2601C_C02_059E,float,Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county,S2601C
+S2601C_C02_060E,float,Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Same state,S2601C
+S2601C_C02_061E,float,Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Different state,S2601C
+S2601C_C02_062E,float,Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S2601C
+S2601C_C02_063E,int,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S2601C
+S2601C_C02_064E,int,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S2601C
+S2601C_C02_065E,float,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male",S2601C
+S2601C_C02_066E,float,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female",S2601C
+S2601C_C02_067E,int,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S2601C
+S2601C_C02_068E,float,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male",S2601C
+S2601C_C02_069E,float,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female",S2601C
+S2601C_C02_070E,int,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S2601C
+S2601C_C02_071E,float,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male",S2601C
+S2601C_C02_072E,float,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female",S2601C
+S2601C_C02_073E,int,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S2601C
+S2601C_C02_074E,float,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male",S2601C
+S2601C_C02_075E,float,"Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female",S2601C
+S2601C_C02_076E,float,Total group quarters population!!Estimate!!Entered 2010 or later,S2601C
+S2601C_C02_077E,float,Total group quarters population!!Estimate!!Entered 2000 to 2009,S2601C
+S2601C_C02_078E,float,Total group quarters population!!Estimate!!Entered before 2000,S2601C
+S2601C_C02_079E,int,Total group quarters population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S2601C
+S2601C_C02_080E,float,Total group quarters population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S2601C
+S2601C_C02_081E,float,Total group quarters population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S2601C
+S2601C_C02_082E,float,"Total group quarters population!!Estimate!!Speak English less than ""very well""",S2601C
+S2601C_C02_083E,int,Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,S2601C
+S2601C_C02_084E,float,Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S2601C
+S2601C_C02_085E,float,Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S2601C
+S2601C_C02_086E,float,Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S2601C
+S2601C_C02_087E,float,Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S2601C
+S2601C_C02_088E,float,Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force,S2601C
+S2601C_C02_089E,float,Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S2601C
+S2601C_C02_090E,float,Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S2601C
+S2601C_C02_091E,int,Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over,S2601C
+S2601C_C02_092E,float,"Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2601C
+S2601C_C02_093E,float,Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S2601C
+S2601C_C02_094E,float,Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S2601C
+S2601C_C02_095E,float,"Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations",S2601C
+S2601C_C02_096E,float,"Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2601C
+S2601C_C02_097E,int,Total group quarters population!!Estimate!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals,S2601C
+S2601C_C02_098E,int,Total group quarters population!!Estimate!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S2601C
+S2601C_C02_099E,int,"Total group quarters population!!Estimate!!With earnings for full-time, year-round workers!!Male",S2601C
+S2601C_C02_100E,int,"Total group quarters population!!Estimate!!With earnings for full-time, year-round workers!!Female",S2601C
+S2601C_C02_101E,int,"Total group quarters population!!Estimate!!Mean earnings (dollars) for full-time, year-round workers!!Male",S2601C
+S2601C_C02_102E,int,"Total group quarters population!!Estimate!!Mean earnings (dollars) for full-time, year-round workers!!Female",S2601C
+S2601C_C02_103E,int,"Total group quarters population!!Estimate!!Median earnings (dollars) full-time, year-round workers!!Male",S2601C
+S2601C_C02_104E,int,"Total group quarters population!!Estimate!!Median earnings (dollars) full-time, year-round workers!!Female",S2601C
+S2601C_C02_105E,int,Total group quarters population!!Estimate!!With Food Stamp/SNAP benefits,S2601C
+S2601C_C02_106E,float,Total group quarters population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S2601C
+S2601C_C02_107E,float,Total group quarters population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S2601C
+S2601C_C02_108E,float,Total group quarters population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S2601C
+S2601C_C02_109E,float,Total group quarters population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S2601C
+S2601C_C01_001M,int,Total population!!Margin of Error!!Total population,S2601C
+S2601C_C01_002M,float,Total population!!Margin of Error!!SEX AND AGE!!Male,S2601C
+S2601C_C01_003M,float,Total population!!Margin of Error!!SEX AND AGE!!Female,S2601C
+S2601C_C01_004M,float,Total population!!Margin of Error!!Under 15 years,S2601C
+S2601C_C01_005M,float,Total population!!Margin of Error!!15 to 17 years,S2601C
+S2601C_C01_006M,float,Total population!!Margin of Error!!18 to 24 years,S2601C
+S2601C_C01_007M,float,Total population!!Margin of Error!!25 to 34 years,S2601C
+S2601C_C01_008M,float,Total population!!Margin of Error!!35 to 44 years,S2601C
+S2601C_C01_009M,float,Total population!!Margin of Error!!45 to 54 years,S2601C
+S2601C_C01_010M,float,Total population!!Margin of Error!!55 to 64 years,S2601C
+S2601C_C01_011M,float,Total population!!Margin of Error!!65 to 74 years,S2601C
+S2601C_C01_012M,float,Total population!!Margin of Error!!75 to 84 years,S2601C
+S2601C_C01_013M,float,Total population!!Margin of Error!!85 years and over,S2601C
+S2601C_C01_014M,int,Total population!!Margin of Error!!Under 18 years,S2601C
+S2601C_C01_015M,float,Total population!!Margin of Error!!Under 18 years!!Male,S2601C
+S2601C_C01_016M,float,Total population!!Margin of Error!!Under 18 years!!Female,S2601C
+S2601C_C01_017M,int,Total population!!Margin of Error!!65 years and over,S2601C
+S2601C_C01_018M,float,Total population!!Margin of Error!!65 years and over!!Male,S2601C
+S2601C_C01_019M,float,Total population!!Margin of Error!!65 years and over!!Female,S2601C
+S2601C_C01_020M,float,Total population!!Margin of Error!!Median age (years),S2601C
+S2601C_C01_021M,int,Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race,S2601C
+S2601C_C01_022M,float,Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White,S2601C
+S2601C_C01_023M,float,Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American,S2601C
+S2601C_C01_024M,float,Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S2601C
+S2601C_C01_025M,float,Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian,S2601C
+S2601C_C01_026M,float,Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S2601C
+S2601C_C01_027M,float,Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race,S2601C
+S2601C_C01_028M,int,Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races,S2601C
+S2601C_C01_029M,float,Total population!!Margin of Error!!Hispanic or Latino (of any race),S2601C
+S2601C_C01_030M,float,Total population!!Margin of Error!!Not Hispanic or Latino,S2601C
+S2601C_C01_031M,float,"Total population!!Margin of Error!!White alone, Not Hispanic or Latino",S2601C
+S2601C_C01_032M,int,Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S2601C
+S2601C_C01_033M,float,"Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S2601C
+S2601C_C01_034M,float,Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S2601C
+S2601C_C01_035M,float,Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S2601C
+S2601C_C01_036M,float,Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S2601C
+S2601C_C01_037M,float,Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S2601C
+S2601C_C01_038M,int,Total population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S2601C
+S2601C_C01_039M,float,Total population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade,S2601C
+S2601C_C01_040M,float,Total population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S2601C
+S2601C_C01_041M,int,Total population!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S2601C
+S2601C_C01_042M,float,Total population!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,S2601C
+S2601C_C01_043M,float,Total population!!Margin of Error!!Bachelor's degree or higher,S2601C
+S2601C_C01_044M,int,Total population!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S2601C
+S2601C_C01_045M,float,Total population!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S2601C
+S2601C_C01_046M,int,Total population!!Margin of Error!!DISABILITY STATUS!!Total population,S2601C
+S2601C_C01_047M,float,Total population!!Margin of Error!!DISABILITY STATUS!!Total population!!With a disability,S2601C
+S2601C_C01_048M,int,Total population!!Margin of Error!!DISABILITY STATUS!!Population under 18 years,S2601C
+S2601C_C01_049M,float,Total population!!Margin of Error!!DISABILITY STATUS!!Population under 18 years!!With a disability,S2601C
+S2601C_C01_050M,int,Total population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years,S2601C
+S2601C_C01_051M,float,Total population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability,S2601C
+S2601C_C01_052M,float,Total population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years!!No disability,S2601C
+S2601C_C01_053M,int,Total population!!Margin of Error!!DISABILITY STATUS!!Population 65 years and over,S2601C
+S2601C_C01_054M,float,Total population!!Margin of Error!!DISABILITY STATUS!!Population 65 years and over!!With a disability,S2601C
+S2601C_C01_055M,int,Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S2601C
+S2601C_C01_056M,float,Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address,S2601C
+S2601C_C01_057M,float,Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.,S2601C
+S2601C_C01_058M,float,Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Same county,S2601C
+S2601C_C01_059M,float,Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county,S2601C
+S2601C_C01_060M,float,Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Same state,S2601C
+S2601C_C01_061M,float,Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Different state,S2601C
+S2601C_C01_062M,float,Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S2601C
+S2601C_C01_063M,int,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S2601C
+S2601C_C01_064M,int,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S2601C
+S2601C_C01_065M,float,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male",S2601C
+S2601C_C01_066M,float,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female",S2601C
+S2601C_C01_067M,int,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S2601C
+S2601C_C01_068M,float,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male",S2601C
+S2601C_C01_069M,float,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female",S2601C
+S2601C_C01_070M,int,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S2601C
+S2601C_C01_071M,float,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male",S2601C
+S2601C_C01_072M,float,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female",S2601C
+S2601C_C01_073M,int,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S2601C
+S2601C_C01_074M,float,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male",S2601C
+S2601C_C01_075M,float,"Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female",S2601C
+S2601C_C01_076M,float,Total population!!Margin of Error!!Entered 2010 or later,S2601C
+S2601C_C01_077M,float,Total population!!Margin of Error!!Entered 2000 to 2009,S2601C
+S2601C_C01_078M,float,Total population!!Margin of Error!!Entered before 2000,S2601C
+S2601C_C01_079M,int,Total population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S2601C
+S2601C_C01_080M,float,Total population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S2601C
+S2601C_C01_081M,float,Total population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S2601C
+S2601C_C01_082M,float,"Total population!!Margin of Error!!Speak English less than ""very well""",S2601C
+S2601C_C01_083M,int,Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,S2601C
+S2601C_C01_084M,float,Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S2601C
+S2601C_C01_085M,float,Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S2601C
+S2601C_C01_086M,float,Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S2601C
+S2601C_C01_087M,float,Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S2601C
+S2601C_C01_088M,float,Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force,S2601C
+S2601C_C01_089M,float,Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S2601C
+S2601C_C01_090M,float,Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S2601C
+S2601C_C01_091M,int,Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over,S2601C
+S2601C_C01_092M,float,"Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2601C
+S2601C_C01_093M,float,Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S2601C
+S2601C_C01_094M,float,Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S2601C
+S2601C_C01_095M,float,"Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations",S2601C
+S2601C_C01_096M,float,"Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2601C
+S2601C_C01_097M,int,Total population!!Margin of Error!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals,S2601C
+S2601C_C01_098M,int,Total population!!Margin of Error!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S2601C
+S2601C_C01_099M,int,"Total population!!Margin of Error!!With earnings for full-time, year-round workers!!Male",S2601C
+S2601C_C01_100M,int,"Total population!!Margin of Error!!With earnings for full-time, year-round workers!!Female",S2601C
+S2601C_C01_101M,int,"Total population!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers!!Male",S2601C
+S2601C_C01_102M,int,"Total population!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers!!Female",S2601C
+S2601C_C01_103M,int,"Total population!!Margin of Error!!Median earnings (dollars) full-time, year-round workers!!Male",S2601C
+S2601C_C01_104M,int,"Total population!!Margin of Error!!Median earnings (dollars) full-time, year-round workers!!Female",S2601C
+S2601C_C01_105M,int,Total population!!Margin of Error!!With Food Stamp/SNAP benefits,S2601C
+S2601C_C01_106M,float,Total population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S2601C
+S2601C_C01_107M,float,Total population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S2601C
+S2601C_C01_108M,float,Total population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S2601C
+S2601C_C01_109M,float,Total population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S2601C
+S2601C_C02_001M,int,Total group quarters population!!Margin of Error!!Total population,S2601C
+S2601C_C02_002M,float,Total group quarters population!!Margin of Error!!SEX AND AGE!!Male,S2601C
+S2601C_C02_003M,float,Total group quarters population!!Margin of Error!!SEX AND AGE!!Female,S2601C
+S2601C_C02_004M,float,Total group quarters population!!Margin of Error!!Under 15 years,S2601C
+S2601C_C02_005M,float,Total group quarters population!!Margin of Error!!15 to 17 years,S2601C
+S2601C_C02_006M,float,Total group quarters population!!Margin of Error!!18 to 24 years,S2601C
+S2601C_C02_007M,float,Total group quarters population!!Margin of Error!!25 to 34 years,S2601C
+S2601C_C02_008M,float,Total group quarters population!!Margin of Error!!35 to 44 years,S2601C
+S2601C_C02_009M,float,Total group quarters population!!Margin of Error!!45 to 54 years,S2601C
+S2601C_C02_010M,float,Total group quarters population!!Margin of Error!!55 to 64 years,S2601C
+S2601C_C02_011M,float,Total group quarters population!!Margin of Error!!65 to 74 years,S2601C
+S2601C_C02_012M,float,Total group quarters population!!Margin of Error!!75 to 84 years,S2601C
+S2601C_C02_013M,float,Total group quarters population!!Margin of Error!!85 years and over,S2601C
+S2601C_C02_014M,int,Total group quarters population!!Margin of Error!!Under 18 years,S2601C
+S2601C_C02_015M,float,Total group quarters population!!Margin of Error!!Under 18 years!!Male,S2601C
+S2601C_C02_016M,float,Total group quarters population!!Margin of Error!!Under 18 years!!Female,S2601C
+S2601C_C02_017M,int,Total group quarters population!!Margin of Error!!65 years and over,S2601C
+S2601C_C02_018M,float,Total group quarters population!!Margin of Error!!65 years and over!!Male,S2601C
+S2601C_C02_019M,float,Total group quarters population!!Margin of Error!!65 years and over!!Female,S2601C
+S2601C_C02_020M,float,Total group quarters population!!Margin of Error!!Median age (years),S2601C
+S2601C_C02_021M,int,Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race,S2601C
+S2601C_C02_022M,float,Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White,S2601C
+S2601C_C02_023M,float,Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American,S2601C
+S2601C_C02_024M,float,Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S2601C
+S2601C_C02_025M,float,Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian,S2601C
+S2601C_C02_026M,float,Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S2601C
+S2601C_C02_027M,float,Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race,S2601C
+S2601C_C02_028M,int,Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races,S2601C
+S2601C_C02_029M,float,Total group quarters population!!Margin of Error!!Hispanic or Latino (of any race),S2601C
+S2601C_C02_030M,float,Total group quarters population!!Margin of Error!!Not Hispanic or Latino,S2601C
+S2601C_C02_031M,float,"Total group quarters population!!Margin of Error!!White alone, Not Hispanic or Latino",S2601C
+S2601C_C02_032M,int,Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S2601C
+S2601C_C02_033M,float,"Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S2601C
+S2601C_C02_034M,float,Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S2601C
+S2601C_C02_035M,float,Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S2601C
+S2601C_C02_036M,float,Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S2601C
+S2601C_C02_037M,float,Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S2601C
+S2601C_C02_038M,int,Total group quarters population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S2601C
+S2601C_C02_039M,float,Total group quarters population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade,S2601C
+S2601C_C02_040M,float,Total group quarters population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S2601C
+S2601C_C02_041M,int,Total group quarters population!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S2601C
+S2601C_C02_042M,float,Total group quarters population!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,S2601C
+S2601C_C02_043M,float,Total group quarters population!!Margin of Error!!Bachelor's degree or higher,S2601C
+S2601C_C02_044M,int,Total group quarters population!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S2601C
+S2601C_C02_045M,float,Total group quarters population!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S2601C
+S2601C_C02_046M,int,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Total population,S2601C
+S2601C_C02_047M,float,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Total population!!With a disability,S2601C
+S2601C_C02_048M,int,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population under 18 years,S2601C
+S2601C_C02_049M,float,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population under 18 years!!With a disability,S2601C
+S2601C_C02_050M,int,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years,S2601C
+S2601C_C02_051M,float,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability,S2601C
+S2601C_C02_052M,float,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years!!No disability,S2601C
+S2601C_C02_053M,int,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 65 years and over,S2601C
+S2601C_C02_054M,float,Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 65 years and over!!With a disability,S2601C
+S2601C_C02_055M,int,Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S2601C
+S2601C_C02_056M,float,Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address,S2601C
+S2601C_C02_057M,float,Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.,S2601C
+S2601C_C02_058M,float,Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Same county,S2601C
+S2601C_C02_059M,float,Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county,S2601C
+S2601C_C02_060M,float,Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Same state,S2601C
+S2601C_C02_061M,float,Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Different state,S2601C
+S2601C_C02_062M,float,Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S2601C
+S2601C_C02_063M,int,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S2601C
+S2601C_C02_064M,int,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S2601C
+S2601C_C02_065M,float,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male",S2601C
+S2601C_C02_066M,float,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female",S2601C
+S2601C_C02_067M,int,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S2601C
+S2601C_C02_068M,float,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male",S2601C
+S2601C_C02_069M,float,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female",S2601C
+S2601C_C02_070M,int,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S2601C
+S2601C_C02_071M,float,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male",S2601C
+S2601C_C02_072M,float,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female",S2601C
+S2601C_C02_073M,int,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S2601C
+S2601C_C02_074M,float,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male",S2601C
+S2601C_C02_075M,float,"Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female",S2601C
+S2601C_C02_076M,float,Total group quarters population!!Margin of Error!!Entered 2010 or later,S2601C
+S2601C_C02_077M,float,Total group quarters population!!Margin of Error!!Entered 2000 to 2009,S2601C
+S2601C_C02_078M,float,Total group quarters population!!Margin of Error!!Entered before 2000,S2601C
+S2601C_C02_079M,int,Total group quarters population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S2601C
+S2601C_C02_080M,float,Total group quarters population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S2601C
+S2601C_C02_081M,float,Total group quarters population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S2601C
+S2601C_C02_082M,float,"Total group quarters population!!Margin of Error!!Speak English less than ""very well""",S2601C
+S2601C_C02_083M,int,Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,S2601C
+S2601C_C02_084M,float,Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S2601C
+S2601C_C02_085M,float,Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S2601C
+S2601C_C02_086M,float,Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S2601C
+S2601C_C02_087M,float,Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S2601C
+S2601C_C02_088M,float,Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force,S2601C
+S2601C_C02_089M,float,Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S2601C
+S2601C_C02_090M,float,Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S2601C
+S2601C_C02_091M,int,Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over,S2601C
+S2601C_C02_092M,float,"Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2601C
+S2601C_C02_093M,float,Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S2601C
+S2601C_C02_094M,float,Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S2601C
+S2601C_C02_095M,float,"Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations",S2601C
+S2601C_C02_096M,float,"Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2601C
+S2601C_C02_097M,int,Total group quarters population!!Margin of Error!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals,S2601C
+S2601C_C02_098M,int,Total group quarters population!!Margin of Error!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S2601C
+S2601C_C02_099M,int,"Total group quarters population!!Margin of Error!!With earnings for full-time, year-round workers!!Male",S2601C
+S2601C_C02_100M,int,"Total group quarters population!!Margin of Error!!With earnings for full-time, year-round workers!!Female",S2601C
+S2601C_C02_101M,int,"Total group quarters population!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers!!Male",S2601C
+S2601C_C02_102M,int,"Total group quarters population!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers!!Female",S2601C
+S2601C_C02_103M,int,"Total group quarters population!!Margin of Error!!Median earnings (dollars) full-time, year-round workers!!Male",S2601C
+S2601C_C02_104M,int,"Total group quarters population!!Margin of Error!!Median earnings (dollars) full-time, year-round workers!!Female",S2601C
+S2601C_C02_105M,int,Total group quarters population!!Margin of Error!!With Food Stamp/SNAP benefits,S2601C
+S2601C_C02_106M,float,Total group quarters population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S2601C
+S2601C_C02_107M,float,Total group quarters population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S2601C
+S2601C_C02_108M,float,Total group quarters population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S2601C
+S2601C_C02_109M,float,Total group quarters population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S2601C
+S2601C_C01_001EA,string,Annotation of Total population!!Estimate!!Total population,S2601C
+S2601C_C01_001MA,string,Annotation of Total population!!Margin of Error!!Total population,S2601C
+S2601C_C01_002EA,string,Annotation of Total population!!Estimate!!SEX AND AGE!!Male,S2601C
+S2601C_C01_002MA,string,Annotation of Total population!!Margin of Error!!SEX AND AGE!!Male,S2601C
+S2601C_C01_003EA,string,Annotation of Total population!!Estimate!!SEX AND AGE!!Female,S2601C
+S2601C_C01_003MA,string,Annotation of Total population!!Margin of Error!!SEX AND AGE!!Female,S2601C
+S2601C_C01_004EA,string,Annotation of Total population!!Estimate!!Under 15 years,S2601C
+S2601C_C01_004MA,string,Annotation of Total population!!Margin of Error!!Under 15 years,S2601C
+S2601C_C01_005EA,string,Annotation of Total population!!Estimate!!15 to 17 years,S2601C
+S2601C_C01_005MA,string,Annotation of Total population!!Margin of Error!!15 to 17 years,S2601C
+S2601C_C01_006EA,string,Annotation of Total population!!Estimate!!18 to 24 years,S2601C
+S2601C_C01_006MA,string,Annotation of Total population!!Margin of Error!!18 to 24 years,S2601C
+S2601C_C01_007EA,string,Annotation of Total population!!Estimate!!25 to 34 years,S2601C
+S2601C_C01_007MA,string,Annotation of Total population!!Margin of Error!!25 to 34 years,S2601C
+S2601C_C01_008EA,string,Annotation of Total population!!Estimate!!35 to 44 years,S2601C
+S2601C_C01_008MA,string,Annotation of Total population!!Margin of Error!!35 to 44 years,S2601C
+S2601C_C01_009EA,string,Annotation of Total population!!Estimate!!45 to 54 years,S2601C
+S2601C_C01_009MA,string,Annotation of Total population!!Margin of Error!!45 to 54 years,S2601C
+S2601C_C01_010EA,string,Annotation of Total population!!Estimate!!55 to 64 years,S2601C
+S2601C_C01_010MA,string,Annotation of Total population!!Margin of Error!!55 to 64 years,S2601C
+S2601C_C01_011EA,string,Annotation of Total population!!Estimate!!65 to 74 years,S2601C
+S2601C_C01_011MA,string,Annotation of Total population!!Margin of Error!!65 to 74 years,S2601C
+S2601C_C01_012EA,string,Annotation of Total population!!Estimate!!75 to 84 years,S2601C
+S2601C_C01_012MA,string,Annotation of Total population!!Margin of Error!!75 to 84 years,S2601C
+S2601C_C01_013EA,string,Annotation of Total population!!Estimate!!85 years and over,S2601C
+S2601C_C01_013MA,string,Annotation of Total population!!Margin of Error!!85 years and over,S2601C
+S2601C_C01_014EA,string,Annotation of Total population!!Estimate!!Under 18 years,S2601C
+S2601C_C01_014MA,string,Annotation of Total population!!Margin of Error!!Under 18 years,S2601C
+S2601C_C01_015EA,string,Annotation of Total population!!Estimate!!Under 18 years!!Male,S2601C
+S2601C_C01_015MA,string,Annotation of Total population!!Margin of Error!!Under 18 years!!Male,S2601C
+S2601C_C01_016EA,string,Annotation of Total population!!Estimate!!Under 18 years!!Female,S2601C
+S2601C_C01_016MA,string,Annotation of Total population!!Margin of Error!!Under 18 years!!Female,S2601C
+S2601C_C01_017EA,string,Annotation of Total population!!Estimate!!65 years and over,S2601C
+S2601C_C01_017MA,string,Annotation of Total population!!Margin of Error!!65 years and over,S2601C
+S2601C_C01_018EA,string,Annotation of Total population!!Estimate!!65 years and over!!Male,S2601C
+S2601C_C01_018MA,string,Annotation of Total population!!Margin of Error!!65 years and over!!Male,S2601C
+S2601C_C01_019EA,string,Annotation of Total population!!Estimate!!65 years and over!!Female,S2601C
+S2601C_C01_019MA,string,Annotation of Total population!!Margin of Error!!65 years and over!!Female,S2601C
+S2601C_C01_020EA,string,Annotation of Total population!!Estimate!!Median age (years),S2601C
+S2601C_C01_020MA,string,Annotation of Total population!!Margin of Error!!Median age (years),S2601C
+S2601C_C01_021EA,string,Annotation of Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race,S2601C
+S2601C_C01_021MA,string,Annotation of Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race,S2601C
+S2601C_C01_022EA,string,Annotation of Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White,S2601C
+S2601C_C01_022MA,string,Annotation of Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White,S2601C
+S2601C_C01_023EA,string,Annotation of Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American,S2601C
+S2601C_C01_023MA,string,Annotation of Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American,S2601C
+S2601C_C01_024EA,string,Annotation of Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S2601C
+S2601C_C01_024MA,string,Annotation of Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S2601C
+S2601C_C01_025EA,string,Annotation of Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian,S2601C
+S2601C_C01_025MA,string,Annotation of Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian,S2601C
+S2601C_C01_026EA,string,Annotation of Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S2601C
+S2601C_C01_026MA,string,Annotation of Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S2601C
+S2601C_C01_027EA,string,Annotation of Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race,S2601C
+S2601C_C01_027MA,string,Annotation of Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race,S2601C
+S2601C_C01_028EA,string,Annotation of Total population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races,S2601C
+S2601C_C01_028MA,string,Annotation of Total population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races,S2601C
+S2601C_C01_029EA,string,Annotation of Total population!!Estimate!!Hispanic or Latino (of any race),S2601C
+S2601C_C01_029MA,string,Annotation of Total population!!Margin of Error!!Hispanic or Latino (of any race),S2601C
+S2601C_C01_030EA,string,Annotation of Total population!!Estimate!!Not Hispanic or Latino,S2601C
+S2601C_C01_030MA,string,Annotation of Total population!!Margin of Error!!Not Hispanic or Latino,S2601C
+S2601C_C01_031EA,string,"Annotation of Total population!!Estimate!!White alone, Not Hispanic or Latino",S2601C
+S2601C_C01_031MA,string,"Annotation of Total population!!Margin of Error!!White alone, Not Hispanic or Latino",S2601C
+S2601C_C01_032EA,string,Annotation of Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over,S2601C
+S2601C_C01_032MA,string,Annotation of Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S2601C
+S2601C_C01_033EA,string,"Annotation of Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S2601C
+S2601C_C01_033MA,string,"Annotation of Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S2601C
+S2601C_C01_034EA,string,Annotation of Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S2601C
+S2601C_C01_034MA,string,Annotation of Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S2601C
+S2601C_C01_035EA,string,Annotation of Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S2601C
+S2601C_C01_035MA,string,Annotation of Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S2601C
+S2601C_C01_036EA,string,Annotation of Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S2601C
+S2601C_C01_036MA,string,Annotation of Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S2601C
+S2601C_C01_037EA,string,Annotation of Total population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S2601C
+S2601C_C01_037MA,string,Annotation of Total population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S2601C
+S2601C_C01_038EA,string,Annotation of Total population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S2601C
+S2601C_C01_038MA,string,Annotation of Total population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S2601C
+S2601C_C01_039EA,string,Annotation of Total population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade,S2601C
+S2601C_C01_039MA,string,Annotation of Total population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade,S2601C
+S2601C_C01_040EA,string,Annotation of Total population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S2601C
+S2601C_C01_040MA,string,Annotation of Total population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S2601C
+S2601C_C01_041EA,string,Annotation of Total population!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S2601C
+S2601C_C01_041MA,string,Annotation of Total population!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S2601C
+S2601C_C01_042EA,string,Annotation of Total population!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,S2601C
+S2601C_C01_042MA,string,Annotation of Total population!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,S2601C
+S2601C_C01_043EA,string,Annotation of Total population!!Estimate!!Bachelor's degree or higher,S2601C
+S2601C_C01_043MA,string,Annotation of Total population!!Margin of Error!!Bachelor's degree or higher,S2601C
+S2601C_C01_044EA,string,Annotation of Total population!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S2601C
+S2601C_C01_044MA,string,Annotation of Total population!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S2601C
+S2601C_C01_045EA,string,Annotation of Total population!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S2601C
+S2601C_C01_045MA,string,Annotation of Total population!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S2601C
+S2601C_C01_046EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Total population,S2601C
+S2601C_C01_046MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Total population,S2601C
+S2601C_C01_047EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Total population!!With a disability,S2601C
+S2601C_C01_047MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Total population!!With a disability,S2601C
+S2601C_C01_048EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Population under 18 years,S2601C
+S2601C_C01_048MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Population under 18 years,S2601C
+S2601C_C01_049EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Population under 18 years!!With a disability,S2601C
+S2601C_C01_049MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Population under 18 years!!With a disability,S2601C
+S2601C_C01_050EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years,S2601C
+S2601C_C01_050MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years,S2601C
+S2601C_C01_051EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability,S2601C
+S2601C_C01_051MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability,S2601C
+S2601C_C01_052EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years!!No disability,S2601C
+S2601C_C01_052MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years!!No disability,S2601C
+S2601C_C01_053EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Population 65 years and over,S2601C
+S2601C_C01_053MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Population 65 years and over,S2601C
+S2601C_C01_054EA,string,Annotation of Total population!!Estimate!!DISABILITY STATUS!!Population 65 years and over!!With a disability,S2601C
+S2601C_C01_054MA,string,Annotation of Total population!!Margin of Error!!DISABILITY STATUS!!Population 65 years and over!!With a disability,S2601C
+S2601C_C01_055EA,string,Annotation of Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S2601C
+S2601C_C01_055MA,string,Annotation of Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S2601C
+S2601C_C01_056EA,string,Annotation of Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address,S2601C
+S2601C_C01_056MA,string,Annotation of Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address,S2601C
+S2601C_C01_057EA,string,Annotation of Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.,S2601C
+S2601C_C01_057MA,string,Annotation of Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.,S2601C
+S2601C_C01_058EA,string,Annotation of Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Same county,S2601C
+S2601C_C01_058MA,string,Annotation of Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Same county,S2601C
+S2601C_C01_059EA,string,Annotation of Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county,S2601C
+S2601C_C01_059MA,string,Annotation of Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county,S2601C
+S2601C_C01_060EA,string,Annotation of Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Same state,S2601C
+S2601C_C01_060MA,string,Annotation of Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Same state,S2601C
+S2601C_C01_061EA,string,Annotation of Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Different state,S2601C
+S2601C_C01_061MA,string,Annotation of Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Different state,S2601C
+S2601C_C01_062EA,string,Annotation of Total population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S2601C
+S2601C_C01_062MA,string,Annotation of Total population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S2601C
+S2601C_C01_063EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S2601C
+S2601C_C01_063MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S2601C
+S2601C_C01_064EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S2601C
+S2601C_C01_064MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S2601C
+S2601C_C01_065EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male",S2601C
+S2601C_C01_065MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male",S2601C
+S2601C_C01_066EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female",S2601C
+S2601C_C01_066MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female",S2601C
+S2601C_C01_067EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S2601C
+S2601C_C01_067MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S2601C
+S2601C_C01_068EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male",S2601C
+S2601C_C01_068MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male",S2601C
+S2601C_C01_069EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female",S2601C
+S2601C_C01_069MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female",S2601C
+S2601C_C01_070EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S2601C
+S2601C_C01_070MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S2601C
+S2601C_C01_071EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male",S2601C
+S2601C_C01_071MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male",S2601C
+S2601C_C01_072EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female",S2601C
+S2601C_C01_072MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female",S2601C
+S2601C_C01_073EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S2601C
+S2601C_C01_073MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S2601C
+S2601C_C01_074EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male",S2601C
+S2601C_C01_074MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male",S2601C
+S2601C_C01_075EA,string,"Annotation of Total population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female",S2601C
+S2601C_C01_075MA,string,"Annotation of Total population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female",S2601C
+S2601C_C01_076EA,string,Annotation of Total population!!Estimate!!Entered 2010 or later,S2601C
+S2601C_C01_076MA,string,Annotation of Total population!!Margin of Error!!Entered 2010 or later,S2601C
+S2601C_C01_077EA,string,Annotation of Total population!!Estimate!!Entered 2000 to 2009,S2601C
+S2601C_C01_077MA,string,Annotation of Total population!!Margin of Error!!Entered 2000 to 2009,S2601C
+S2601C_C01_078EA,string,Annotation of Total population!!Estimate!!Entered before 2000,S2601C
+S2601C_C01_078MA,string,Annotation of Total population!!Margin of Error!!Entered before 2000,S2601C
+S2601C_C01_079EA,string,Annotation of Total population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S2601C
+S2601C_C01_079MA,string,Annotation of Total population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S2601C
+S2601C_C01_080EA,string,Annotation of Total population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S2601C
+S2601C_C01_080MA,string,Annotation of Total population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S2601C
+S2601C_C01_081EA,string,Annotation of Total population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S2601C
+S2601C_C01_081MA,string,Annotation of Total population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S2601C
+S2601C_C01_082EA,string,"Annotation of Total population!!Estimate!!Speak English less than ""very well""",S2601C
+S2601C_C01_082MA,string,"Annotation of Total population!!Margin of Error!!Speak English less than ""very well""",S2601C
+S2601C_C01_083EA,string,Annotation of Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,S2601C
+S2601C_C01_083MA,string,Annotation of Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,S2601C
+S2601C_C01_084EA,string,Annotation of Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S2601C
+S2601C_C01_084MA,string,Annotation of Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S2601C
+S2601C_C01_085EA,string,Annotation of Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S2601C
+S2601C_C01_085MA,string,Annotation of Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S2601C
+S2601C_C01_086EA,string,Annotation of Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S2601C
+S2601C_C01_086MA,string,Annotation of Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S2601C
+S2601C_C01_087EA,string,Annotation of Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S2601C
+S2601C_C01_087MA,string,Annotation of Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S2601C
+S2601C_C01_088EA,string,Annotation of Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force,S2601C
+S2601C_C01_088MA,string,Annotation of Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force,S2601C
+S2601C_C01_089EA,string,Annotation of Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S2601C
+S2601C_C01_089MA,string,Annotation of Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S2601C
+S2601C_C01_090EA,string,Annotation of Total population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S2601C
+S2601C_C01_090MA,string,Annotation of Total population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S2601C
+S2601C_C01_091EA,string,Annotation of Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over,S2601C
+S2601C_C01_091MA,string,Annotation of Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over,S2601C
+S2601C_C01_092EA,string,"Annotation of Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2601C
+S2601C_C01_092MA,string,"Annotation of Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2601C
+S2601C_C01_093EA,string,Annotation of Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S2601C
+S2601C_C01_093MA,string,Annotation of Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S2601C
+S2601C_C01_094EA,string,Annotation of Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S2601C
+S2601C_C01_094MA,string,Annotation of Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S2601C
+S2601C_C01_095EA,string,"Annotation of Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations",S2601C
+S2601C_C01_095MA,string,"Annotation of Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations",S2601C
+S2601C_C01_096EA,string,"Annotation of Total population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2601C
+S2601C_C01_096MA,string,"Annotation of Total population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2601C
+S2601C_C01_097EA,string,Annotation of Total population!!Estimate!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals,S2601C
+S2601C_C01_097MA,string,Annotation of Total population!!Margin of Error!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals,S2601C
+S2601C_C01_098EA,string,Annotation of Total population!!Estimate!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S2601C
+S2601C_C01_098MA,string,Annotation of Total population!!Margin of Error!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S2601C
+S2601C_C01_099EA,string,"Annotation of Total population!!Estimate!!With earnings for full-time, year-round workers!!Male",S2601C
+S2601C_C01_099MA,string,"Annotation of Total population!!Margin of Error!!With earnings for full-time, year-round workers!!Male",S2601C
+S2601C_C01_100EA,string,"Annotation of Total population!!Estimate!!With earnings for full-time, year-round workers!!Female",S2601C
+S2601C_C01_100MA,string,"Annotation of Total population!!Margin of Error!!With earnings for full-time, year-round workers!!Female",S2601C
+S2601C_C01_101EA,string,"Annotation of Total population!!Estimate!!Mean earnings (dollars) for full-time, year-round workers!!Male",S2601C
+S2601C_C01_101MA,string,"Annotation of Total population!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers!!Male",S2601C
+S2601C_C01_102EA,string,"Annotation of Total population!!Estimate!!Mean earnings (dollars) for full-time, year-round workers!!Female",S2601C
+S2601C_C01_102MA,string,"Annotation of Total population!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers!!Female",S2601C
+S2601C_C01_103EA,string,"Annotation of Total population!!Estimate!!Median earnings (dollars) full-time, year-round workers!!Male",S2601C
+S2601C_C01_103MA,string,"Annotation of Total population!!Margin of Error!!Median earnings (dollars) full-time, year-round workers!!Male",S2601C
+S2601C_C01_104EA,string,"Annotation of Total population!!Estimate!!Median earnings (dollars) full-time, year-round workers!!Female",S2601C
+S2601C_C01_104MA,string,"Annotation of Total population!!Margin of Error!!Median earnings (dollars) full-time, year-round workers!!Female",S2601C
+S2601C_C01_105EA,string,Annotation of Total population!!Estimate!!With Food Stamp/SNAP benefits,S2601C
+S2601C_C01_105MA,string,Annotation of Total population!!Margin of Error!!With Food Stamp/SNAP benefits,S2601C
+S2601C_C01_106EA,string,Annotation of Total population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S2601C
+S2601C_C01_106MA,string,Annotation of Total population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S2601C
+S2601C_C01_107EA,string,Annotation of Total population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S2601C
+S2601C_C01_107MA,string,Annotation of Total population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S2601C
+S2601C_C01_108EA,string,Annotation of Total population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S2601C
+S2601C_C01_108MA,string,Annotation of Total population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S2601C
+S2601C_C01_109EA,string,Annotation of Total population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S2601C
+S2601C_C01_109MA,string,Annotation of Total population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S2601C
+S2601C_C02_001EA,string,Annotation of Total group quarters population!!Estimate!!Total population,S2601C
+S2601C_C02_001MA,string,Annotation of Total group quarters population!!Margin of Error!!Total population,S2601C
+S2601C_C02_002EA,string,Annotation of Total group quarters population!!Estimate!!SEX AND AGE!!Male,S2601C
+S2601C_C02_002MA,string,Annotation of Total group quarters population!!Margin of Error!!SEX AND AGE!!Male,S2601C
+S2601C_C02_003EA,string,Annotation of Total group quarters population!!Estimate!!SEX AND AGE!!Female,S2601C
+S2601C_C02_003MA,string,Annotation of Total group quarters population!!Margin of Error!!SEX AND AGE!!Female,S2601C
+S2601C_C02_004EA,string,Annotation of Total group quarters population!!Estimate!!Under 15 years,S2601C
+S2601C_C02_004MA,string,Annotation of Total group quarters population!!Margin of Error!!Under 15 years,S2601C
+S2601C_C02_005EA,string,Annotation of Total group quarters population!!Estimate!!15 to 17 years,S2601C
+S2601C_C02_005MA,string,Annotation of Total group quarters population!!Margin of Error!!15 to 17 years,S2601C
+S2601C_C02_006EA,string,Annotation of Total group quarters population!!Estimate!!18 to 24 years,S2601C
+S2601C_C02_006MA,string,Annotation of Total group quarters population!!Margin of Error!!18 to 24 years,S2601C
+S2601C_C02_007EA,string,Annotation of Total group quarters population!!Estimate!!25 to 34 years,S2601C
+S2601C_C02_007MA,string,Annotation of Total group quarters population!!Margin of Error!!25 to 34 years,S2601C
+S2601C_C02_008EA,string,Annotation of Total group quarters population!!Estimate!!35 to 44 years,S2601C
+S2601C_C02_008MA,string,Annotation of Total group quarters population!!Margin of Error!!35 to 44 years,S2601C
+S2601C_C02_009EA,string,Annotation of Total group quarters population!!Estimate!!45 to 54 years,S2601C
+S2601C_C02_009MA,string,Annotation of Total group quarters population!!Margin of Error!!45 to 54 years,S2601C
+S2601C_C02_010EA,string,Annotation of Total group quarters population!!Estimate!!55 to 64 years,S2601C
+S2601C_C02_010MA,string,Annotation of Total group quarters population!!Margin of Error!!55 to 64 years,S2601C
+S2601C_C02_011EA,string,Annotation of Total group quarters population!!Estimate!!65 to 74 years,S2601C
+S2601C_C02_011MA,string,Annotation of Total group quarters population!!Margin of Error!!65 to 74 years,S2601C
+S2601C_C02_012EA,string,Annotation of Total group quarters population!!Estimate!!75 to 84 years,S2601C
+S2601C_C02_012MA,string,Annotation of Total group quarters population!!Margin of Error!!75 to 84 years,S2601C
+S2601C_C02_013EA,string,Annotation of Total group quarters population!!Estimate!!85 years and over,S2601C
+S2601C_C02_013MA,string,Annotation of Total group quarters population!!Margin of Error!!85 years and over,S2601C
+S2601C_C02_014EA,string,Annotation of Total group quarters population!!Estimate!!Under 18 years,S2601C
+S2601C_C02_014MA,string,Annotation of Total group quarters population!!Margin of Error!!Under 18 years,S2601C
+S2601C_C02_015EA,string,Annotation of Total group quarters population!!Estimate!!Under 18 years!!Male,S2601C
+S2601C_C02_015MA,string,Annotation of Total group quarters population!!Margin of Error!!Under 18 years!!Male,S2601C
+S2601C_C02_016EA,string,Annotation of Total group quarters population!!Estimate!!Under 18 years!!Female,S2601C
+S2601C_C02_016MA,string,Annotation of Total group quarters population!!Margin of Error!!Under 18 years!!Female,S2601C
+S2601C_C02_017EA,string,Annotation of Total group quarters population!!Estimate!!65 years and over,S2601C
+S2601C_C02_017MA,string,Annotation of Total group quarters population!!Margin of Error!!65 years and over,S2601C
+S2601C_C02_018EA,string,Annotation of Total group quarters population!!Estimate!!65 years and over!!Male,S2601C
+S2601C_C02_018MA,string,Annotation of Total group quarters population!!Margin of Error!!65 years and over!!Male,S2601C
+S2601C_C02_019EA,string,Annotation of Total group quarters population!!Estimate!!65 years and over!!Female,S2601C
+S2601C_C02_019MA,string,Annotation of Total group quarters population!!Margin of Error!!65 years and over!!Female,S2601C
+S2601C_C02_020EA,string,Annotation of Total group quarters population!!Estimate!!Median age (years),S2601C
+S2601C_C02_020MA,string,Annotation of Total group quarters population!!Margin of Error!!Median age (years),S2601C
+S2601C_C02_021EA,string,Annotation of Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race,S2601C
+S2601C_C02_021MA,string,Annotation of Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race,S2601C
+S2601C_C02_022EA,string,Annotation of Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White,S2601C
+S2601C_C02_022MA,string,Annotation of Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!White,S2601C
+S2601C_C02_023EA,string,Annotation of Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American,S2601C
+S2601C_C02_023MA,string,Annotation of Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Black or African American,S2601C
+S2601C_C02_024EA,string,Annotation of Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S2601C
+S2601C_C02_024MA,string,Annotation of Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!American Indian and Alaska Native,S2601C
+S2601C_C02_025EA,string,Annotation of Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian,S2601C
+S2601C_C02_025MA,string,Annotation of Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Asian,S2601C
+S2601C_C02_026EA,string,Annotation of Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S2601C
+S2601C_C02_026MA,string,Annotation of Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Native Hawaiian and Other Pacific Islander,S2601C
+S2601C_C02_027EA,string,Annotation of Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race,S2601C
+S2601C_C02_027MA,string,Annotation of Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!One race!!Some other race,S2601C
+S2601C_C02_028EA,string,Annotation of Total group quarters population!!Estimate!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races,S2601C
+S2601C_C02_028MA,string,Annotation of Total group quarters population!!Margin of Error!!RACE AND HISPANIC ORIGIN OR LATINO ORIGIN!!Two or more races,S2601C
+S2601C_C02_029EA,string,Annotation of Total group quarters population!!Estimate!!Hispanic or Latino (of any race),S2601C
+S2601C_C02_029MA,string,Annotation of Total group quarters population!!Margin of Error!!Hispanic or Latino (of any race),S2601C
+S2601C_C02_030EA,string,Annotation of Total group quarters population!!Estimate!!Not Hispanic or Latino,S2601C
+S2601C_C02_030MA,string,Annotation of Total group quarters population!!Margin of Error!!Not Hispanic or Latino,S2601C
+S2601C_C02_031EA,string,"Annotation of Total group quarters population!!Estimate!!White alone, Not Hispanic or Latino",S2601C
+S2601C_C02_031MA,string,"Annotation of Total group quarters population!!Margin of Error!!White alone, Not Hispanic or Latino",S2601C
+S2601C_C02_032EA,string,Annotation of Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over,S2601C
+S2601C_C02_032MA,string,Annotation of Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over,S2601C
+S2601C_C02_033EA,string,"Annotation of Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S2601C
+S2601C_C02_033MA,string,"Annotation of Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Now married, except separated",S2601C
+S2601C_C02_034EA,string,Annotation of Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Widowed,S2601C
+S2601C_C02_034MA,string,Annotation of Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Widowed,S2601C
+S2601C_C02_035EA,string,Annotation of Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Divorced,S2601C
+S2601C_C02_035MA,string,Annotation of Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Divorced,S2601C
+S2601C_C02_036EA,string,Annotation of Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Separated,S2601C
+S2601C_C02_036MA,string,Annotation of Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Separated,S2601C
+S2601C_C02_037EA,string,Annotation of Total group quarters population!!Estimate!!MARITAL STATUS!!Population 15 years and over!!Never married,S2601C
+S2601C_C02_037MA,string,Annotation of Total group quarters population!!Margin of Error!!MARITAL STATUS!!Population 15 years and over!!Never married,S2601C
+S2601C_C02_038EA,string,Annotation of Total group quarters population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S2601C
+S2601C_C02_038MA,string,Annotation of Total group quarters population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,S2601C
+S2601C_C02_039EA,string,Annotation of Total group quarters population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade,S2601C
+S2601C_C02_039MA,string,Annotation of Total group quarters population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school through 12th grade,S2601C
+S2601C_C02_040EA,string,Annotation of Total group quarters population!!Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S2601C
+S2601C_C02_040MA,string,Annotation of Total group quarters population!!Margin of Error!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,S2601C
+S2601C_C02_041EA,string,Annotation of Total group quarters population!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S2601C
+S2601C_C02_041MA,string,Annotation of Total group quarters population!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,S2601C
+S2601C_C02_042EA,string,Annotation of Total group quarters population!!Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,S2601C
+S2601C_C02_042MA,string,Annotation of Total group quarters population!!Margin of Error!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,S2601C
+S2601C_C02_043EA,string,Annotation of Total group quarters population!!Estimate!!Bachelor's degree or higher,S2601C
+S2601C_C02_043MA,string,Annotation of Total group quarters population!!Margin of Error!!Bachelor's degree or higher,S2601C
+S2601C_C02_044EA,string,Annotation of Total group quarters population!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over,S2601C
+S2601C_C02_044MA,string,Annotation of Total group quarters population!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over,S2601C
+S2601C_C02_045EA,string,Annotation of Total group quarters population!!Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S2601C
+S2601C_C02_045MA,string,Annotation of Total group quarters population!!Margin of Error!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veteran,S2601C
+S2601C_C02_046EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Total population,S2601C
+S2601C_C02_046MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Total population,S2601C
+S2601C_C02_047EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Total population!!With a disability,S2601C
+S2601C_C02_047MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Total population!!With a disability,S2601C
+S2601C_C02_048EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Population under 18 years,S2601C
+S2601C_C02_048MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population under 18 years,S2601C
+S2601C_C02_049EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Population under 18 years!!With a disability,S2601C
+S2601C_C02_049MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population under 18 years!!With a disability,S2601C
+S2601C_C02_050EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years,S2601C
+S2601C_C02_050MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years,S2601C
+S2601C_C02_051EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability,S2601C
+S2601C_C02_051MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years!!With a disability,S2601C
+S2601C_C02_052EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 18 to 64 years!!No disability,S2601C
+S2601C_C02_052MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 18 to 64 years!!No disability,S2601C
+S2601C_C02_053EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 65 years and over,S2601C
+S2601C_C02_053MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 65 years and over,S2601C
+S2601C_C02_054EA,string,Annotation of Total group quarters population!!Estimate!!DISABILITY STATUS!!Population 65 years and over!!With a disability,S2601C
+S2601C_C02_054MA,string,Annotation of Total group quarters population!!Margin of Error!!DISABILITY STATUS!!Population 65 years and over!!With a disability,S2601C
+S2601C_C02_055EA,string,Annotation of Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S2601C
+S2601C_C02_055MA,string,Annotation of Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,S2601C
+S2601C_C02_056EA,string,Annotation of Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address,S2601C
+S2601C_C02_056MA,string,Annotation of Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same address,S2601C
+S2601C_C02_057EA,string,Annotation of Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.,S2601C
+S2601C_C02_057MA,string,Annotation of Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.,S2601C
+S2601C_C02_058EA,string,Annotation of Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Same county,S2601C
+S2601C_C02_058MA,string,Annotation of Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Same county,S2601C
+S2601C_C02_059EA,string,Annotation of Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county,S2601C
+S2601C_C02_059MA,string,Annotation of Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county,S2601C
+S2601C_C02_060EA,string,Annotation of Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Same state,S2601C
+S2601C_C02_060MA,string,Annotation of Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Same state,S2601C
+S2601C_C02_061EA,string,Annotation of Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Different state,S2601C
+S2601C_C02_061MA,string,Annotation of Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different address in the U.S.!!Different county!!Different state,S2601C
+S2601C_C02_062EA,string,Annotation of Total group quarters population!!Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S2601C
+S2601C_C02_062MA,string,Annotation of Total group quarters population!!Margin of Error!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,S2601C
+S2601C_C02_063EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S2601C
+S2601C_C02_063MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population",S2601C
+S2601C_C02_064EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S2601C
+S2601C_C02_064MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native",S2601C
+S2601C_C02_065EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male",S2601C
+S2601C_C02_065MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Male",S2601C
+S2601C_C02_066EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female",S2601C
+S2601C_C02_066MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Native!!Female",S2601C
+S2601C_C02_067EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S2601C
+S2601C_C02_067MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born",S2601C
+S2601C_C02_068EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male",S2601C
+S2601C_C02_068MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Male",S2601C
+S2601C_C02_069EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female",S2601C
+S2601C_C02_069MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Female",S2601C
+S2601C_C02_070EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S2601C
+S2601C_C02_070MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen",S2601C
+S2601C_C02_071EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male",S2601C
+S2601C_C02_071MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Male",S2601C
+S2601C_C02_072EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female",S2601C
+S2601C_C02_072MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Naturalized U.S. citizen!!Female",S2601C
+S2601C_C02_073EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S2601C
+S2601C_C02_073MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen",S2601C
+S2601C_C02_074EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male",S2601C
+S2601C_C02_074MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Male",S2601C
+S2601C_C02_075EA,string,"Annotation of Total group quarters population!!Estimate!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female",S2601C
+S2601C_C02_075MA,string,"Annotation of Total group quarters population!!Margin of Error!!PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY!!Total population!!Foreign born!!Not a U.S. citizen!!Female",S2601C
+S2601C_C02_076EA,string,Annotation of Total group quarters population!!Estimate!!Entered 2010 or later,S2601C
+S2601C_C02_076MA,string,Annotation of Total group quarters population!!Margin of Error!!Entered 2010 or later,S2601C
+S2601C_C02_077EA,string,Annotation of Total group quarters population!!Estimate!!Entered 2000 to 2009,S2601C
+S2601C_C02_077MA,string,Annotation of Total group quarters population!!Margin of Error!!Entered 2000 to 2009,S2601C
+S2601C_C02_078EA,string,Annotation of Total group quarters population!!Estimate!!Entered before 2000,S2601C
+S2601C_C02_078MA,string,Annotation of Total group quarters population!!Margin of Error!!Entered before 2000,S2601C
+S2601C_C02_079EA,string,Annotation of Total group quarters population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S2601C
+S2601C_C02_079MA,string,Annotation of Total group quarters population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over,S2601C
+S2601C_C02_080EA,string,Annotation of Total group quarters population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S2601C
+S2601C_C02_080MA,string,Annotation of Total group quarters population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!English only,S2601C
+S2601C_C02_081EA,string,Annotation of Total group quarters population!!Estimate!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S2601C
+S2601C_C02_081MA,string,Annotation of Total group quarters population!!Margin of Error!!LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH!!Population 5 years and over!!Language other than English,S2601C
+S2601C_C02_082EA,string,"Annotation of Total group quarters population!!Estimate!!Speak English less than ""very well""",S2601C
+S2601C_C02_082MA,string,"Annotation of Total group quarters population!!Margin of Error!!Speak English less than ""very well""",S2601C
+S2601C_C02_083EA,string,Annotation of Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,S2601C
+S2601C_C02_083MA,string,Annotation of Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,S2601C
+S2601C_C02_084EA,string,Annotation of Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S2601C
+S2601C_C02_084MA,string,Annotation of Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,S2601C
+S2601C_C02_085EA,string,Annotation of Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S2601C
+S2601C_C02_085MA,string,Annotation of Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,S2601C
+S2601C_C02_086EA,string,Annotation of Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S2601C
+S2601C_C02_086MA,string,Annotation of Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,S2601C
+S2601C_C02_087EA,string,Annotation of Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S2601C
+S2601C_C02_087MA,string,Annotation of Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,S2601C
+S2601C_C02_088EA,string,Annotation of Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force,S2601C
+S2601C_C02_088MA,string,Annotation of Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed!!Percent of civilian labor force,S2601C
+S2601C_C02_089EA,string,Annotation of Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S2601C
+S2601C_C02_089MA,string,Annotation of Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,S2601C
+S2601C_C02_090EA,string,Annotation of Total group quarters population!!Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S2601C
+S2601C_C02_090MA,string,Annotation of Total group quarters population!!Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,S2601C
+S2601C_C02_091EA,string,Annotation of Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over,S2601C
+S2601C_C02_091MA,string,Annotation of Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over,S2601C
+S2601C_C02_092EA,string,"Annotation of Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2601C
+S2601C_C02_092MA,string,"Annotation of Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",S2601C
+S2601C_C02_093EA,string,Annotation of Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S2601C
+S2601C_C02_093MA,string,Annotation of Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,S2601C
+S2601C_C02_094EA,string,Annotation of Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S2601C
+S2601C_C02_094MA,string,Annotation of Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,S2601C
+S2601C_C02_095EA,string,"Annotation of Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations",S2601C
+S2601C_C02_095MA,string,"Annotation of Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, extraction, and maintenance occupations",S2601C
+S2601C_C02_096EA,string,"Annotation of Total group quarters population!!Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2601C
+S2601C_C02_096MA,string,"Annotation of Total group quarters population!!Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",S2601C
+S2601C_C02_097EA,string,Annotation of Total group quarters population!!Estimate!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals,S2601C
+S2601C_C02_097MA,string,Annotation of Total group quarters population!!Margin of Error!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals,S2601C
+S2601C_C02_098EA,string,Annotation of Total group quarters population!!Estimate!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S2601C
+S2601C_C02_098MA,string,Annotation of Total group quarters population!!Margin of Error!!INCOME AND BENEFITS IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Individuals!!Per capita income (dollars),S2601C
+S2601C_C02_099EA,string,"Annotation of Total group quarters population!!Estimate!!With earnings for full-time, year-round workers!!Male",S2601C
+S2601C_C02_099MA,string,"Annotation of Total group quarters population!!Margin of Error!!With earnings for full-time, year-round workers!!Male",S2601C
+S2601C_C02_100EA,string,"Annotation of Total group quarters population!!Estimate!!With earnings for full-time, year-round workers!!Female",S2601C
+S2601C_C02_100MA,string,"Annotation of Total group quarters population!!Margin of Error!!With earnings for full-time, year-round workers!!Female",S2601C
+S2601C_C02_101EA,string,"Annotation of Total group quarters population!!Estimate!!Mean earnings (dollars) for full-time, year-round workers!!Male",S2601C
+S2601C_C02_101MA,string,"Annotation of Total group quarters population!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers!!Male",S2601C
+S2601C_C02_102EA,string,"Annotation of Total group quarters population!!Estimate!!Mean earnings (dollars) for full-time, year-round workers!!Female",S2601C
+S2601C_C02_102MA,string,"Annotation of Total group quarters population!!Margin of Error!!Mean earnings (dollars) for full-time, year-round workers!!Female",S2601C
+S2601C_C02_103EA,string,"Annotation of Total group quarters population!!Estimate!!Median earnings (dollars) full-time, year-round workers!!Male",S2601C
+S2601C_C02_103MA,string,"Annotation of Total group quarters population!!Margin of Error!!Median earnings (dollars) full-time, year-round workers!!Male",S2601C
+S2601C_C02_104EA,string,"Annotation of Total group quarters population!!Estimate!!Median earnings (dollars) full-time, year-round workers!!Female",S2601C
+S2601C_C02_104MA,string,"Annotation of Total group quarters population!!Margin of Error!!Median earnings (dollars) full-time, year-round workers!!Female",S2601C
+S2601C_C02_105EA,string,Annotation of Total group quarters population!!Estimate!!With Food Stamp/SNAP benefits,S2601C
+S2601C_C02_105MA,string,Annotation of Total group quarters population!!Margin of Error!!With Food Stamp/SNAP benefits,S2601C
+S2601C_C02_106EA,string,Annotation of Total group quarters population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S2601C
+S2601C_C02_106MA,string,Annotation of Total group quarters population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people,S2601C
+S2601C_C02_107EA,string,Annotation of Total group quarters population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S2601C
+S2601C_C02_107MA,string,Annotation of Total group quarters population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 years and over,S2601C
+S2601C_C02_108EA,string,Annotation of Total group quarters population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S2601C
+S2601C_C02_108MA,string,Annotation of Total group quarters population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!18 to 64 years,S2601C
+S2601C_C02_109EA,string,Annotation of Total group quarters population!!Estimate!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S2601C
+S2601C_C02_109MA,string,Annotation of Total group quarters population!!Margin of Error!!POVERTY RATES FOR PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED!!All people!!65 years and over,S2601C

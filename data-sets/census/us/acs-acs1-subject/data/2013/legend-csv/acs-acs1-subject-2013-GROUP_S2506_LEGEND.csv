@@ -1,0 +1,273 @@
+VARIABLE,TYPE,LABEL,GROUP
+S2506_C01_001E,int,Owner-occupied housing units with a mortgage!!Estimate!!Owner-occupied housing units with a mortgage,S2506
+S2506_C01_002E,float,"Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!Less than $50,000",S2506
+S2506_C01_003E,float,"Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$50,000 to $99,999",S2506
+S2506_C01_004E,float,"Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$100,000 to $149,999",S2506
+S2506_C01_005E,float,"Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$150,000 to $199,999",S2506
+S2506_C01_006E,float,"Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$200,000 to $299,999",S2506
+S2506_C01_007E,float,"Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$300,000 to $499,999",S2506
+S2506_C01_008E,float,"Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$500,000 or more",S2506
+S2506_C01_009E,int,Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!Median (dollars),S2506
+S2506_C01_010E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both",S2506
+S2506_C01_011E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both!!Second mortgage only",S2506
+S2506_C01_012E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both!!Home equity loan only",S2506
+S2506_C01_013E,float,Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!Both second mortgage and home equity loan,S2506
+S2506_C01_014E,float,Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!No second mortgage and no home equity loan,S2506
+S2506_C01_015E,float,"Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Less than $10,000",S2506
+S2506_C01_016E,float,"Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$10,000 to $24,999",S2506
+S2506_C01_017E,float,"Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$25,000 to $34,999",S2506
+S2506_C01_018E,float,"Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$35,000 to $49,999",S2506
+S2506_C01_019E,float,"Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$50,000 to $74,999",S2506
+S2506_C01_020E,float,"Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$75,000 to $99,999",S2506
+S2506_C01_021E,float,"Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$100,000 to $149,999",S2506
+S2506_C01_022E,float,"Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$150,000 or more",S2506
+S2506_C01_023E,int,Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Median household income (dollars),S2506
+S2506_C01_024E,float,Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 2.0,S2506
+S2506_C01_025E,float,Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!2.0 to 2.9,S2506
+S2506_C01_026E,float,Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!3.0 to 3.9,S2506
+S2506_C01_027E,float,Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!4.0 or more,S2506
+S2506_C01_028E,float,Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Not computed,S2506
+S2506_C01_029E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!Less than $200,S2506
+S2506_C01_030E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$200 to $299,S2506
+S2506_C01_031E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$300 to $399,S2506
+S2506_C01_032E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$400 to $499,S2506
+S2506_C01_033E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$500 to $599,S2506
+S2506_C01_034E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$600 to $699,S2506
+S2506_C01_035E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$700 to $799,S2506
+S2506_C01_036E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$800 to $899,S2506
+S2506_C01_037E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$900 to $999,S2506
+S2506_C01_038E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$1,000 to $1,249",S2506
+S2506_C01_039E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$1,250 to $1,499",S2506
+S2506_C01_040E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$1,500 to $1,999",S2506
+S2506_C01_041E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$2,000 or more",S2506
+S2506_C01_042E,int,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!Median (dollars),S2506
+S2506_C01_043E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000",S2506
+S2506_C01_044E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!Less than 20 percent",S2506
+S2506_C01_045E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!20 to 29 percent",S2506
+S2506_C01_046E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!30 percent or more",S2506
+S2506_C01_047E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999",S2506
+S2506_C01_048E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!Less than 20 percent",S2506
+S2506_C01_049E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!20 to 29 percent",S2506
+S2506_C01_050E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!30 percent or more",S2506
+S2506_C01_051E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999",S2506
+S2506_C01_052E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!Less than 20 percent",S2506
+S2506_C01_053E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!20 to 29 percent",S2506
+S2506_C01_054E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!30 percent or more",S2506
+S2506_C01_055E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999",S2506
+S2506_C01_056E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!Less than 20 percent",S2506
+S2506_C01_057E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!20 to 29 percent",S2506
+S2506_C01_058E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!30 percent or more",S2506
+S2506_C01_059E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more",S2506
+S2506_C01_060E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!Less than 20 percent",S2506
+S2506_C01_061E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!20 to 29 percent",S2506
+S2506_C01_062E,float,"Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!30 percent or more",S2506
+S2506_C01_063E,float,Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Zero or negative income,S2506
+S2506_C01_064E,float,Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!Less than $800,S2506
+S2506_C01_065E,float,"Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!$800 to $1,499",S2506
+S2506_C01_066E,float,"Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!$1,500 or more",S2506
+S2506_C01_067E,float,Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!No real estate taxes paid,S2506
+S2506_C01_068E,int,Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!Median (dollars),S2506
+S2506_C01_001M,int,Owner-occupied housing units with a mortgage!!Margin of Error!!Owner-occupied housing units with a mortgage,S2506
+S2506_C01_002M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!Less than $50,000",S2506
+S2506_C01_003M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$50,000 to $99,999",S2506
+S2506_C01_004M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$100,000 to $149,999",S2506
+S2506_C01_005M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$150,000 to $199,999",S2506
+S2506_C01_006M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$200,000 to $299,999",S2506
+S2506_C01_007M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$300,000 to $499,999",S2506
+S2506_C01_008M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$500,000 or more",S2506
+S2506_C01_009M,int,Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!Median (dollars),S2506
+S2506_C01_010M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both",S2506
+S2506_C01_011M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both!!Second mortgage only",S2506
+S2506_C01_012M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both!!Home equity loan only",S2506
+S2506_C01_013M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!Both second mortgage and home equity loan,S2506
+S2506_C01_014M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!No second mortgage and no home equity loan,S2506
+S2506_C01_015M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Less than $10,000",S2506
+S2506_C01_016M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$10,000 to $24,999",S2506
+S2506_C01_017M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$25,000 to $34,999",S2506
+S2506_C01_018M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$35,000 to $49,999",S2506
+S2506_C01_019M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$50,000 to $74,999",S2506
+S2506_C01_020M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$75,000 to $99,999",S2506
+S2506_C01_021M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$100,000 to $149,999",S2506
+S2506_C01_022M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$150,000 or more",S2506
+S2506_C01_023M,int,Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Median household income (dollars),S2506
+S2506_C01_024M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 2.0,S2506
+S2506_C01_025M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!2.0 to 2.9,S2506
+S2506_C01_026M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!3.0 to 3.9,S2506
+S2506_C01_027M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!4.0 or more,S2506
+S2506_C01_028M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Not computed,S2506
+S2506_C01_029M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!Less than $200,S2506
+S2506_C01_030M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$200 to $299,S2506
+S2506_C01_031M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$300 to $399,S2506
+S2506_C01_032M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$400 to $499,S2506
+S2506_C01_033M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$500 to $599,S2506
+S2506_C01_034M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$600 to $699,S2506
+S2506_C01_035M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$700 to $799,S2506
+S2506_C01_036M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$800 to $899,S2506
+S2506_C01_037M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$900 to $999,S2506
+S2506_C01_038M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$1,000 to $1,249",S2506
+S2506_C01_039M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$1,250 to $1,499",S2506
+S2506_C01_040M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$1,500 to $1,999",S2506
+S2506_C01_041M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$2,000 or more",S2506
+S2506_C01_042M,int,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!Median (dollars),S2506
+S2506_C01_043M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000",S2506
+S2506_C01_044M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!Less than 20 percent",S2506
+S2506_C01_045M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!20 to 29 percent",S2506
+S2506_C01_046M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!30 percent or more",S2506
+S2506_C01_047M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999",S2506
+S2506_C01_048M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!Less than 20 percent",S2506
+S2506_C01_049M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!20 to 29 percent",S2506
+S2506_C01_050M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!30 percent or more",S2506
+S2506_C01_051M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999",S2506
+S2506_C01_052M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!Less than 20 percent",S2506
+S2506_C01_053M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!20 to 29 percent",S2506
+S2506_C01_054M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!30 percent or more",S2506
+S2506_C01_055M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999",S2506
+S2506_C01_056M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!Less than 20 percent",S2506
+S2506_C01_057M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!20 to 29 percent",S2506
+S2506_C01_058M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!30 percent or more",S2506
+S2506_C01_059M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more",S2506
+S2506_C01_060M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!Less than 20 percent",S2506
+S2506_C01_061M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!20 to 29 percent",S2506
+S2506_C01_062M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!30 percent or more",S2506
+S2506_C01_063M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Zero or negative income,S2506
+S2506_C01_064M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!Less than $800,S2506
+S2506_C01_065M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!$800 to $1,499",S2506
+S2506_C01_066M,float,"Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!$1,500 or more",S2506
+S2506_C01_067M,float,Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!No real estate taxes paid,S2506
+S2506_C01_068M,int,Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!Median (dollars),S2506
+S2506_C01_001EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!Owner-occupied housing units with a mortgage,S2506
+S2506_C01_001MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!Owner-occupied housing units with a mortgage,S2506
+S2506_C01_002EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!Less than $50,000",S2506
+S2506_C01_002MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!Less than $50,000",S2506
+S2506_C01_003EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$50,000 to $99,999",S2506
+S2506_C01_003MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$50,000 to $99,999",S2506
+S2506_C01_004EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$100,000 to $149,999",S2506
+S2506_C01_004MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$100,000 to $149,999",S2506
+S2506_C01_005EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$150,000 to $199,999",S2506
+S2506_C01_005MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$150,000 to $199,999",S2506
+S2506_C01_006EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$200,000 to $299,999",S2506
+S2506_C01_006MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$200,000 to $299,999",S2506
+S2506_C01_007EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$300,000 to $499,999",S2506
+S2506_C01_007MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$300,000 to $499,999",S2506
+S2506_C01_008EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!$500,000 or more",S2506
+S2506_C01_008MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!$500,000 or more",S2506
+S2506_C01_009EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!VALUE!!Median (dollars),S2506
+S2506_C01_009MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!VALUE!!Median (dollars),S2506
+S2506_C01_010EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both",S2506
+S2506_C01_010MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both",S2506
+S2506_C01_011EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both!!Second mortgage only",S2506
+S2506_C01_011MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both!!Second mortgage only",S2506
+S2506_C01_012EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both!!Home equity loan only",S2506
+S2506_C01_012MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!With either a second mortgage, or home equity loan, but not both!!Home equity loan only",S2506
+S2506_C01_013EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!Both second mortgage and home equity loan,S2506
+S2506_C01_013MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!Both second mortgage and home equity loan,S2506
+S2506_C01_014EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MORTGAGE STATUS!!No second mortgage and no home equity loan,S2506
+S2506_C01_014MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MORTGAGE STATUS!!No second mortgage and no home equity loan,S2506
+S2506_C01_015EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Less than $10,000",S2506
+S2506_C01_015MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Less than $10,000",S2506
+S2506_C01_016EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$10,000 to $24,999",S2506
+S2506_C01_016MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$10,000 to $24,999",S2506
+S2506_C01_017EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$25,000 to $34,999",S2506
+S2506_C01_017MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$25,000 to $34,999",S2506
+S2506_C01_018EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$35,000 to $49,999",S2506
+S2506_C01_018MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$35,000 to $49,999",S2506
+S2506_C01_019EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$50,000 to $74,999",S2506
+S2506_C01_019MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$50,000 to $74,999",S2506
+S2506_C01_020EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$75,000 to $99,999",S2506
+S2506_C01_020MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$75,000 to $99,999",S2506
+S2506_C01_021EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$100,000 to $149,999",S2506
+S2506_C01_021MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$100,000 to $149,999",S2506
+S2506_C01_022EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$150,000 or more",S2506
+S2506_C01_022MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!$150,000 or more",S2506
+S2506_C01_023EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Median household income (dollars),S2506
+S2506_C01_023MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS)!!Median household income (dollars),S2506
+S2506_C01_024EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 2.0,S2506
+S2506_C01_024MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than 2.0,S2506
+S2506_C01_025EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!2.0 to 2.9,S2506
+S2506_C01_025MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!2.0 to 2.9,S2506
+S2506_C01_026EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!3.0 to 3.9,S2506
+S2506_C01_026MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!3.0 to 3.9,S2506
+S2506_C01_027EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!4.0 or more,S2506
+S2506_C01_027MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!4.0 or more,S2506
+S2506_C01_028EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Not computed,S2506
+S2506_C01_028MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!RATIO OF VALUE TO HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Not computed,S2506
+S2506_C01_029EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!Less than $200,S2506
+S2506_C01_029MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!Less than $200,S2506
+S2506_C01_030EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$200 to $299,S2506
+S2506_C01_030MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$200 to $299,S2506
+S2506_C01_031EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$300 to $399,S2506
+S2506_C01_031MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$300 to $399,S2506
+S2506_C01_032EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$400 to $499,S2506
+S2506_C01_032MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$400 to $499,S2506
+S2506_C01_033EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$500 to $599,S2506
+S2506_C01_033MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$500 to $599,S2506
+S2506_C01_034EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$600 to $699,S2506
+S2506_C01_034MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$600 to $699,S2506
+S2506_C01_035EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$700 to $799,S2506
+S2506_C01_035MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$700 to $799,S2506
+S2506_C01_036EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$800 to $899,S2506
+S2506_C01_036MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$800 to $899,S2506
+S2506_C01_037EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$900 to $999,S2506
+S2506_C01_037MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$900 to $999,S2506
+S2506_C01_038EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$1,000 to $1,249",S2506
+S2506_C01_038MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$1,000 to $1,249",S2506
+S2506_C01_039EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$1,250 to $1,499",S2506
+S2506_C01_039MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$1,250 to $1,499",S2506
+S2506_C01_040EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$1,500 to $1,999",S2506
+S2506_C01_040MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$1,500 to $1,999",S2506
+S2506_C01_041EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!$2,000 or more",S2506
+S2506_C01_041MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!$2,000 or more",S2506
+S2506_C01_042EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS!!Median (dollars),S2506
+S2506_C01_042MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS!!Median (dollars),S2506
+S2506_C01_043EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000",S2506
+S2506_C01_043MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000",S2506
+S2506_C01_044EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!Less than 20 percent",S2506
+S2506_C01_044MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!Less than 20 percent",S2506
+S2506_C01_045EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!20 to 29 percent",S2506
+S2506_C01_045MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!20 to 29 percent",S2506
+S2506_C01_046EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!30 percent or more",S2506
+S2506_C01_046MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Less than $20,000!!30 percent or more",S2506
+S2506_C01_047EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999",S2506
+S2506_C01_047MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999",S2506
+S2506_C01_048EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!Less than 20 percent",S2506
+S2506_C01_048MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!Less than 20 percent",S2506
+S2506_C01_049EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!20 to 29 percent",S2506
+S2506_C01_049MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!20 to 29 percent",S2506
+S2506_C01_050EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!30 percent or more",S2506
+S2506_C01_050MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$20,000 to $34,999!!30 percent or more",S2506
+S2506_C01_051EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999",S2506
+S2506_C01_051MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999",S2506
+S2506_C01_052EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!Less than 20 percent",S2506
+S2506_C01_052MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!Less than 20 percent",S2506
+S2506_C01_053EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!20 to 29 percent",S2506
+S2506_C01_053MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!20 to 29 percent",S2506
+S2506_C01_054EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!30 percent or more",S2506
+S2506_C01_054MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$35,000 to $49,999!!30 percent or more",S2506
+S2506_C01_055EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999",S2506
+S2506_C01_055MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999",S2506
+S2506_C01_056EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!Less than 20 percent",S2506
+S2506_C01_056MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!Less than 20 percent",S2506
+S2506_C01_057EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!20 to 29 percent",S2506
+S2506_C01_057MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!20 to 29 percent",S2506
+S2506_C01_058EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!30 percent or more",S2506
+S2506_C01_058MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$50,000 to $74,999!!30 percent or more",S2506
+S2506_C01_059EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more",S2506
+S2506_C01_059MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more",S2506
+S2506_C01_060EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!Less than 20 percent",S2506
+S2506_C01_060MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!Less than 20 percent",S2506
+S2506_C01_061EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!20 to 29 percent",S2506
+S2506_C01_061MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!20 to 29 percent",S2506
+S2506_C01_062EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!30 percent or more",S2506
+S2506_C01_062MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!$75,000 or more!!30 percent or more",S2506
+S2506_C01_063EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Zero or negative income,S2506
+S2506_C01_063MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS!!Zero or negative income,S2506
+S2506_C01_064EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!Less than $800,S2506
+S2506_C01_064MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!Less than $800,S2506
+S2506_C01_065EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!$800 to $1,499",S2506
+S2506_C01_065MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!$800 to $1,499",S2506
+S2506_C01_066EA,string,"Annotation of Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!$1,500 or more",S2506
+S2506_C01_066MA,string,"Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!$1,500 or more",S2506
+S2506_C01_067EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!No real estate taxes paid,S2506
+S2506_C01_067MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!No real estate taxes paid,S2506
+S2506_C01_068EA,string,Annotation of Owner-occupied housing units with a mortgage!!Estimate!!REAL ESTATE TAXES!!Median (dollars),S2506
+S2506_C01_068MA,string,Annotation of Owner-occupied housing units with a mortgage!!Margin of Error!!REAL ESTATE TAXES!!Median (dollars),S2506

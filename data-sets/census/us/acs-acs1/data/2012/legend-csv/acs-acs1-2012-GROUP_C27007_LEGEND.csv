@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C27007_001E,int,Estimate!!Total,C27007
+C27007_002E,int,Estimate!!Total!!Male,C27007
+C27007_003E,int,Estimate!!Total!!Male!!Under 18 years,C27007
+C27007_004E,int,Estimate!!Total!!Male!!Under 18 years!!With Medicaid/means-tested public coverage,C27007
+C27007_005E,int,Estimate!!Total!!Male!!Under 18 years!!No Medicaid/means-tested public coverage,C27007
+C27007_006E,int,Estimate!!Total!!Male!!18 to 64 years,C27007
+C27007_007E,int,Estimate!!Total!!Male!!18 to 64 years!!With Medicaid/means-tested public coverage,C27007
+C27007_008E,int,Estimate!!Total!!Male!!18 to 64 years!!No Medicaid/means-tested public coverage,C27007
+C27007_009E,int,Estimate!!Total!!Male!!65 years and over,C27007
+C27007_010E,int,Estimate!!Total!!Male!!65 years and over!!With Medicaid/means-tested public coverage,C27007
+C27007_011E,int,Estimate!!Total!!Male!!65 years and over!!No Medicaid/means-tested public coverage,C27007
+C27007_012E,int,Estimate!!Total!!Female,C27007
+C27007_013E,int,Estimate!!Total!!Female!!Under 18 years,C27007
+C27007_014E,int,Estimate!!Total!!Female!!Under 18 years!!With Medicaid/means-tested public coverage,C27007
+C27007_015E,int,Estimate!!Total!!Female!!Under 18 years!!No Medicaid/means-tested public coverage,C27007
+C27007_016E,int,Estimate!!Total!!Female!!18 to 64 years,C27007
+C27007_017E,int,Estimate!!Total!!Female!!18 to 64 years!!With Medicaid/means-tested public coverage,C27007
+C27007_018E,int,Estimate!!Total!!Female!!18 to 64 years!!No Medicaid/means-tested public coverage,C27007
+C27007_019E,int,Estimate!!Total!!Female!!65 years and over,C27007
+C27007_020E,int,Estimate!!Total!!Female!!65 years and over!!With Medicaid/means-tested public coverage,C27007
+C27007_021E,int,Estimate!!Total!!Female!!65 years and over!!No Medicaid/means-tested public coverage,C27007
+C27007_001M,int,Margin of Error!!Total,C27007
+C27007_002M,int,Margin of Error!!Total!!Male,C27007
+C27007_003M,int,Margin of Error!!Total!!Male!!Under 18 years,C27007
+C27007_004M,int,Margin of Error!!Total!!Male!!Under 18 years!!With Medicaid/means-tested public coverage,C27007
+C27007_005M,int,Margin of Error!!Total!!Male!!Under 18 years!!No Medicaid/means-tested public coverage,C27007
+C27007_006M,int,Margin of Error!!Total!!Male!!18 to 64 years,C27007
+C27007_007M,int,Margin of Error!!Total!!Male!!18 to 64 years!!With Medicaid/means-tested public coverage,C27007
+C27007_008M,int,Margin of Error!!Total!!Male!!18 to 64 years!!No Medicaid/means-tested public coverage,C27007
+C27007_009M,int,Margin of Error!!Total!!Male!!65 years and over,C27007
+C27007_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With Medicaid/means-tested public coverage,C27007
+C27007_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No Medicaid/means-tested public coverage,C27007
+C27007_012M,int,Margin of Error!!Total!!Female,C27007
+C27007_013M,int,Margin of Error!!Total!!Female!!Under 18 years,C27007
+C27007_014M,int,Margin of Error!!Total!!Female!!Under 18 years!!With Medicaid/means-tested public coverage,C27007
+C27007_015M,int,Margin of Error!!Total!!Female!!Under 18 years!!No Medicaid/means-tested public coverage,C27007
+C27007_016M,int,Margin of Error!!Total!!Female!!18 to 64 years,C27007
+C27007_017M,int,Margin of Error!!Total!!Female!!18 to 64 years!!With Medicaid/means-tested public coverage,C27007
+C27007_018M,int,Margin of Error!!Total!!Female!!18 to 64 years!!No Medicaid/means-tested public coverage,C27007
+C27007_019M,int,Margin of Error!!Total!!Female!!65 years and over,C27007
+C27007_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With Medicaid/means-tested public coverage,C27007
+C27007_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No Medicaid/means-tested public coverage,C27007
+C27007_001EA,string,Annotation of Estimate!!Total,C27007
+C27007_001MA,string,Annotation of Margin of Error!!Total,C27007
+C27007_002EA,string,Annotation of Estimate!!Total!!Male,C27007
+C27007_002MA,string,Annotation of Margin of Error!!Total!!Male,C27007
+C27007_003EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years,C27007
+C27007_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years,C27007
+C27007_004EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!With Medicaid/means-tested public coverage,C27007
+C27007_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!With Medicaid/means-tested public coverage,C27007
+C27007_005EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!No Medicaid/means-tested public coverage,C27007
+C27007_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!No Medicaid/means-tested public coverage,C27007
+C27007_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C27007
+C27007_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C27007
+C27007_007EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!With Medicaid/means-tested public coverage,C27007
+C27007_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!With Medicaid/means-tested public coverage,C27007
+C27007_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!No Medicaid/means-tested public coverage,C27007
+C27007_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!No Medicaid/means-tested public coverage,C27007
+C27007_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C27007
+C27007_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C27007
+C27007_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With Medicaid/means-tested public coverage,C27007
+C27007_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With Medicaid/means-tested public coverage,C27007
+C27007_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No Medicaid/means-tested public coverage,C27007
+C27007_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No Medicaid/means-tested public coverage,C27007
+C27007_012EA,string,Annotation of Estimate!!Total!!Female,C27007
+C27007_012MA,string,Annotation of Margin of Error!!Total!!Female,C27007
+C27007_013EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years,C27007
+C27007_013MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years,C27007
+C27007_014EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!With Medicaid/means-tested public coverage,C27007
+C27007_014MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!With Medicaid/means-tested public coverage,C27007
+C27007_015EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!No Medicaid/means-tested public coverage,C27007
+C27007_015MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!No Medicaid/means-tested public coverage,C27007
+C27007_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C27007
+C27007_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C27007
+C27007_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!With Medicaid/means-tested public coverage,C27007
+C27007_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!With Medicaid/means-tested public coverage,C27007
+C27007_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!No Medicaid/means-tested public coverage,C27007
+C27007_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!No Medicaid/means-tested public coverage,C27007
+C27007_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C27007
+C27007_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C27007
+C27007_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With Medicaid/means-tested public coverage,C27007
+C27007_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With Medicaid/means-tested public coverage,C27007
+C27007_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No Medicaid/means-tested public coverage,C27007
+C27007_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No Medicaid/means-tested public coverage,C27007

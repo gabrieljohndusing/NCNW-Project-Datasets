@@ -1,0 +1,77 @@
+VARIABLE,TYPE,LABEL,GROUP
+C17001D_001E,int,Estimate!!Total,C17001D
+C17001D_002E,int,Estimate!!Total!!Income in the past 12 months below poverty level,C17001D
+C17001D_003E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Male,C17001D
+C17001D_004E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Male!!Under 18 years,C17001D
+C17001D_005E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Male!!18 to 64 years,C17001D
+C17001D_006E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Male!!65 years and over,C17001D
+C17001D_007E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Female,C17001D
+C17001D_008E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Female!!Under 18 years,C17001D
+C17001D_009E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Female!!18 to 64 years,C17001D
+C17001D_010E,int,Estimate!!Total!!Income in the past 12 months below poverty level!!Female!!65 years and over,C17001D
+C17001D_011E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level,C17001D
+C17001D_012E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Male,C17001D
+C17001D_013E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Male!!Under 18 years,C17001D
+C17001D_014E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Male!!18 to 64 years,C17001D
+C17001D_015E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Male!!65 years and over,C17001D
+C17001D_016E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Female,C17001D
+C17001D_017E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Female!!Under 18 years,C17001D
+C17001D_018E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Female!!18 to 64 years,C17001D
+C17001D_019E,int,Estimate!!Total!!Income in the past 12 months at or above poverty level!!Female!!65 years and over,C17001D
+C17001D_001M,int,Margin of Error!!Total,C17001D
+C17001D_002M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level,C17001D
+C17001D_003M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Male,C17001D
+C17001D_004M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Male!!Under 18 years,C17001D
+C17001D_005M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Male!!18 to 64 years,C17001D
+C17001D_006M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Male!!65 years and over,C17001D
+C17001D_007M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Female,C17001D
+C17001D_008M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Female!!Under 18 years,C17001D
+C17001D_009M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Female!!18 to 64 years,C17001D
+C17001D_010M,int,Margin of Error!!Total!!Income in the past 12 months below poverty level!!Female!!65 years and over,C17001D
+C17001D_011M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17001D
+C17001D_012M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Male,C17001D
+C17001D_013M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Male!!Under 18 years,C17001D
+C17001D_014M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Male!!18 to 64 years,C17001D
+C17001D_015M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Male!!65 years and over,C17001D
+C17001D_016M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Female,C17001D
+C17001D_017M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Female!!Under 18 years,C17001D
+C17001D_018M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Female!!18 to 64 years,C17001D
+C17001D_019M,int,Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Female!!65 years and over,C17001D
+C17001D_001EA,string,Annotation of Estimate!!Total,C17001D
+C17001D_001MA,string,Annotation of Margin of Error!!Total,C17001D
+C17001D_002EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level,C17001D
+C17001D_002MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level,C17001D
+C17001D_003EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Male,C17001D
+C17001D_003MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Male,C17001D
+C17001D_004EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Male!!Under 18 years,C17001D
+C17001D_004MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Male!!Under 18 years,C17001D
+C17001D_005EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Male!!18 to 64 years,C17001D
+C17001D_005MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Male!!18 to 64 years,C17001D
+C17001D_006EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Male!!65 years and over,C17001D
+C17001D_006MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Male!!65 years and over,C17001D
+C17001D_007EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Female,C17001D
+C17001D_007MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Female,C17001D
+C17001D_008EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Female!!Under 18 years,C17001D
+C17001D_008MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Female!!Under 18 years,C17001D
+C17001D_009EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Female!!18 to 64 years,C17001D
+C17001D_009MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Female!!18 to 64 years,C17001D
+C17001D_010EA,string,Annotation of Estimate!!Total!!Income in the past 12 months below poverty level!!Female!!65 years and over,C17001D
+C17001D_010MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months below poverty level!!Female!!65 years and over,C17001D
+C17001D_011EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level,C17001D
+C17001D_011MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level,C17001D
+C17001D_012EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Male,C17001D
+C17001D_012MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Male,C17001D
+C17001D_013EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Male!!Under 18 years,C17001D
+C17001D_013MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Male!!Under 18 years,C17001D
+C17001D_014EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Male!!18 to 64 years,C17001D
+C17001D_014MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Male!!18 to 64 years,C17001D
+C17001D_015EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Male!!65 years and over,C17001D
+C17001D_015MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Male!!65 years and over,C17001D
+C17001D_016EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Female,C17001D
+C17001D_016MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Female,C17001D
+C17001D_017EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Female!!Under 18 years,C17001D
+C17001D_017MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Female!!Under 18 years,C17001D
+C17001D_018EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Female!!18 to 64 years,C17001D
+C17001D_018MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Female!!18 to 64 years,C17001D
+C17001D_019EA,string,Annotation of Estimate!!Total!!Income in the past 12 months at or above poverty level!!Female!!65 years and over,C17001D
+C17001D_019MA,string,Annotation of Margin of Error!!Total!!Income in the past 12 months at or above poverty level!!Female!!65 years and over,C17001D

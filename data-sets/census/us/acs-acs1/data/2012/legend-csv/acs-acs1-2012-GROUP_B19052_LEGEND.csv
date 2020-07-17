@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19052_001E,int,Estimate!!Total,B19052
+B19052_002E,int,Estimate!!Total!!With wage or salary income,B19052
+B19052_003E,int,Estimate!!Total!!No wage or salary income,B19052
+B19052_001M,int,Margin of Error!!Total,B19052
+B19052_002M,int,Margin of Error!!Total!!With wage or salary income,B19052
+B19052_003M,int,Margin of Error!!Total!!No wage or salary income,B19052
+B19052_001EA,string,Annotation of Estimate!!Total,B19052
+B19052_001MA,string,Annotation of Margin of Error!!Total,B19052
+B19052_002EA,string,Annotation of Estimate!!Total!!With wage or salary income,B19052
+B19052_002MA,string,Annotation of Margin of Error!!Total!!With wage or salary income,B19052
+B19052_003EA,string,Annotation of Estimate!!Total!!No wage or salary income,B19052
+B19052_003MA,string,Annotation of Margin of Error!!Total!!No wage or salary income,B19052
