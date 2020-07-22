@@ -15675,6 +15675,60 @@ ___
 | B21007_050E | Estimate !!<br>Total !!<br>65 years and over !!<br>Veteran !!<br>Income in the past 12 months below poverty level !!<br>With a disability|
 ___
 
+## Group: B22001
+
+### Concept: RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS BY PRESENCE OF PEOPLE 60 YEARS AND OVER FOR HOUSEHOLDS
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22001_001E | Estimate !!<br>Total|
+| B22001_005E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22001_006E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>At least one person in household 60 years or over|
+| B22001_007E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No people in household 60 years or over|
+| B22001_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| B22001_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>At least one person in household 60 years or over|
+| B22001_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No people in household 60 years or over|
+___
+
+## Group: B22002
+
+### Concept: RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS BY PRESENCE OF CHILDREN UNDER 18 YEARS BY HOUSEHOLD TYPE FOR HOUSEHOLDS
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22002_001E | Estimate !!<br>Total|
+| B22002_015E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22002_022E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years|
+| B22002_023E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Married-couple family|
+| B22002_027E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Nonfamily households|
+| B22002_024E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family|
+| B22002_026E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| B22002_025E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| B22002_016E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years|
+| B22002_017E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Married-couple family|
+| B22002_021E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Nonfamily households|
+| B22002_018E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family|
+| B22002_020E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| B22002_019E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| B22002_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| B22002_009E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years|
+| B22002_010E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Married-couple family|
+| B22002_014E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Nonfamily households|
+| B22002_011E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family|
+| B22002_013E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| B22002_012E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| B22002_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years|
+| B22002_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Married-couple family|
+| B22002_008E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Nonfamily households|
+| B22002_005E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family|
+| B22002_007E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| B22002_006E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+___
+
 ## Group: B22003
 
 ### Concept: RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS BY POVERTY STATUS IN THE PAST 12 MONTHS FOR HOUSEHOLDS
@@ -15683,8 +15737,11 @@ ___
 
 | VARIABLE | LABEL |
 | ----- | ----- |
+| B22003_001E | Estimate !!<br>Total|
+| B22003_005E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
 | B22003_007E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Income in the past 12 months at or above poverty level|
 | B22003_006E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Income in the past 12 months below poverty level|
+| B22003_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
 | B22003_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Income in the past 12 months at or above poverty level|
 | B22003_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Income in the past 12 months below poverty level|
 ___
@@ -15806,6 +15863,59 @@ ___
 | B22005I_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
 ___
 
+## Group: B22007
+
+### Concept: RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS BY FAMILY TYPE BY NUMBER OF WORKERS IN FAMILY IN THE PAST 12 MONTHS
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22007_001E | Estimate !!<br>Total|
+| B22007_023E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22007_024E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family|
+| B22007_026E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>1 worker|
+| B22007_027E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers|
+| B22007_028E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers !!<br>Husband and wife worked|
+| B22007_029E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers !!<br>Other|
+| B22007_030E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers|
+| B22007_031E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers !!<br>Husband and wife worked|
+| B22007_032E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers !!<br>Other|
+| B22007_025E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>No workers|
+| B22007_033E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family|
+| B22007_039E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present|
+| B22007_041E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>1 worker|
+| B22007_042E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>2 workers|
+| B22007_043E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>3 or more workers|
+| B22007_040E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>No workers|
+| B22007_034E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present|
+| B22007_036E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>1 worker|
+| B22007_037E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>2 workers|
+| B22007_038E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>3 or more workers|
+| B22007_035E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>No workers|
+| B22007_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| B22007_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family|
+| B22007_005E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>1 worker|
+| B22007_006E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers|
+| B22007_007E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers !!<br>Husband and wife worked|
+| B22007_008E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers !!<br>Other|
+| B22007_009E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers|
+| B22007_010E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers !!<br>Husband and wife worked|
+| B22007_011E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers !!<br>Other|
+| B22007_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>No workers|
+| B22007_012E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family|
+| B22007_018E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present|
+| B22007_020E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>1 worker|
+| B22007_021E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>2 workers|
+| B22007_022E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>3 or more workers|
+| B22007_019E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>No workers|
+| B22007_013E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present|
+| B22007_015E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>1 worker|
+| B22007_016E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>2 workers|
+| B22007_017E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>3 or more workers|
+| B22007_014E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>No workers|
+___
+
 ## Group: B22008
 
 ### Concept: MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) BY RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS
@@ -15817,6 +15927,23 @@ ___
 | B22008_001E | Estimate !!<br>Total|
 | B22008_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
 | B22008_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22010
+
+### Concept: RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS BY DISABILITY STATUS FOR HOUSEHOLDS
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22010_001E | Estimate !!<br>Total|
+| B22010_005E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22010_006E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Households with 1 or more persons with a disability|
+| B22010_007E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Households with no persons with a disability|
+| B22010_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| B22010_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Households with 1 or more persons with a disability|
+| B22010_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Households with no persons with a disability|
 ___
 
 ## Group: B23001
@@ -22714,6 +22841,34 @@ ___
 | B26119_002E | Estimate !!<br>Median earnings in the past 12 months -- !!<br>Total !!<br>Male|
 ___
 
+## Group: B26120
+
+### Concept: GROUP QUARTERS TYPE (3 TYPES) BY RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B26120_001E | Estimate !!<br>Group quarters population|
+| B26120_003E | Estimate !!<br>Group quarters population !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26120_004E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population|
+| B26120_007E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Adult correctional facilities|
+| B26120_009E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Adult correctional facilities !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26120_008E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Adult correctional facilities !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26120_006E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26120_010E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Nursing facilities/skilled nursing facilities|
+| B26120_012E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Nursing facilities/skilled nursing facilities !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26120_011E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Nursing facilities/skilled nursing facilities !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26120_005E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26120_013E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population|
+| B26120_016E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>College/university student housing|
+| B26120_018E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>College/university student housing !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26120_017E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>College/university student housing !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26120_015E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26120_014E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26120_002E | Estimate !!<br>Group quarters population !!<br>Received Food Stamps/SNAP in the past 12 months|
+___
+
 ## Group: B26201
 
 ### Concept: GROUP QUARTERS TYPE (5 TYPES) BY SEX BY AGE
@@ -23596,6 +23751,40 @@ ___
 | B26219_026E | Estimate !!<br>Median earnings in the past 12 months -- !!<br>Total !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>Military quarters/military ships !!<br>Male|
 | B26219_028E | Estimate !!<br>Median earnings in the past 12 months -- !!<br>Total !!<br>Household population|
 | B26219_002E | Estimate !!<br>Median earnings in the past 12 months -- !!<br>Total !!<br>Male|
+___
+
+## Group: B26220
+
+### Concept: GROUP QUARTERS TYPE (5 TYPES) BY RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B26220_001E | Estimate !!<br>Group quarters population|
+| B26220_003E | Estimate !!<br>Group quarters population !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26220_004E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population|
+| B26220_007E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Adult correctional facilities|
+| B26220_009E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Adult correctional facilities !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26220_008E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Adult correctional facilities !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26220_006E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26220_013E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Juvenile facilities|
+| B26220_015E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Juvenile facilities !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26220_014E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Juvenile facilities !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26220_010E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Nursing facilities/skilled nursing facilities|
+| B26220_012E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Nursing facilities/skilled nursing facilities !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26220_011E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Nursing facilities/skilled nursing facilities !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26220_005E | Estimate !!<br>Group quarters population !!<br>Institutionalized group quarters population !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26220_016E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population|
+| B26220_019E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>College/university student housing|
+| B26220_021E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>College/university student housing !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26220_020E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>College/university student housing !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26220_018E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26220_022E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>Military quarters/military ships|
+| B26220_024E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>Military quarters/military ships !!<br>Did not receive Food Stamps/SNAP in the past 12 months|
+| B26220_023E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>Military quarters/military ships !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26220_017E | Estimate !!<br>Group quarters population !!<br>Noninstitutionalized group quarters population !!<br>Received Food Stamps/SNAP in the past 12 months|
+| B26220_002E | Estimate !!<br>Group quarters population !!<br>Received Food Stamps/SNAP in the past 12 months|
 ___
 
 ## Group: B27001
@@ -25918,6 +26107,19 @@ ___
 | B99194_004E | Estimate !!<br>Percent of income allocated -- !!<br>More than 0 to less than 10 percent of total income for household allocated|
 | B99194_002E | Estimate !!<br>Percent of income allocated -- !!<br>No income allocated|
 | B99194_001E | Estimate !!<br>Total|
+___
+
+## Group: B99221
+
+### Concept: ALLOCATION OF FOOD STAMPS/SNAP RECEIPT
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B99221_001E | Estimate !!<br>Total|
+| B99221_002E | Estimate !!<br>Total !!<br>Allocated|
+| B99221_003E | Estimate !!<br>Total !!<br>Not allocated|
 ___
 
 ## Group: B992521
@@ -29747,6 +29949,19 @@ ___
 | C21007_019E | Estimate !!<br>Total !!<br>65 years and over !!<br>Veteran !!<br>Income in the past 12 months below poverty level|
 | C21007_021E | Estimate !!<br>Total !!<br>65 years and over !!<br>Veteran !!<br>Income in the past 12 months below poverty level !!<br>No disability|
 | C21007_020E | Estimate !!<br>Total !!<br>65 years and over !!<br>Veteran !!<br>Income in the past 12 months below poverty level !!<br>With a disability|
+___
+
+## Group: C22001
+
+### Concept: RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS FOR HOUSEHOLDS
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| C22001_001E | Estimate !!<br>Total|
+| C22001_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| C22001_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
 ___
 
 ## Group: C23001

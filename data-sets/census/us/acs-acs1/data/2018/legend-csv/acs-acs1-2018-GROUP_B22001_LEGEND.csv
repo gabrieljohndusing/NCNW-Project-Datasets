@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B22001_001E,int,Estimate!!Total,B22001
+B22001_002E,int,Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months,B22001
+B22001_003E,int,Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months!!At least one person in household 60 years or over,B22001
+B22001_004E,int,Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months!!No people in household 60 years or over,B22001
+B22001_005E,int,Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months,B22001
+B22001_006E,int,Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!At least one person in household 60 years or over,B22001
+B22001_007E,int,Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!No people in household 60 years or over,B22001
+B22001_001M,int,Margin of Error!!Total,B22001
+B22001_002M,int,Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months,B22001
+B22001_003M,int,Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months!!At least one person in household 60 years or over,B22001
+B22001_004M,int,Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months!!No people in household 60 years or over,B22001
+B22001_005M,int,Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months,B22001
+B22001_006M,int,Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!At least one person in household 60 years or over,B22001
+B22001_007M,int,Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!No people in household 60 years or over,B22001
+B22001_001EA,string,Annotation of Estimate!!Total,B22001
+B22001_001MA,string,Annotation of Margin of Error!!Total,B22001
+B22001_002EA,string,Annotation of Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months,B22001
+B22001_002MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months,B22001
+B22001_003EA,string,Annotation of Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months!!At least one person in household 60 years or over,B22001
+B22001_003MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months!!At least one person in household 60 years or over,B22001
+B22001_004EA,string,Annotation of Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months!!No people in household 60 years or over,B22001
+B22001_004MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months!!No people in household 60 years or over,B22001
+B22001_005EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months,B22001
+B22001_005MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months,B22001
+B22001_006EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!At least one person in household 60 years or over,B22001
+B22001_006MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!At least one person in household 60 years or over,B22001
+B22001_007EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!No people in household 60 years or over,B22001
+B22001_007MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!No people in household 60 years or over,B22001

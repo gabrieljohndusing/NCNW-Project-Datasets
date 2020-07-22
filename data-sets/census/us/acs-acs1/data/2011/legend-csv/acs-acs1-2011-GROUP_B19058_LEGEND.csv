@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B19058_001E,int,Estimate!!Total,B19058
+B19058_002E,int,Estimate!!Total!!With cash public assistance or Food Stamps/SNAP,B19058
+B19058_003E,int,Estimate!!Total!!No cash public assistance or Food Stamps/SNAP,B19058
+B19058_001M,int,Margin of Error!!Total,B19058
+B19058_002M,int,Margin of Error!!Total!!With cash public assistance or Food Stamps/SNAP,B19058
+B19058_003M,int,Margin of Error!!Total!!No cash public assistance or Food Stamps/SNAP,B19058
+B19058_001EA,string,Annotation of Estimate!!Total,B19058
+B19058_001MA,string,Annotation of Margin of Error!!Total,B19058
+B19058_002EA,string,Annotation of Estimate!!Total!!With cash public assistance or Food Stamps/SNAP,B19058
+B19058_002MA,string,Annotation of Margin of Error!!Total!!With cash public assistance or Food Stamps/SNAP,B19058
+B19058_003EA,string,Annotation of Estimate!!Total!!No cash public assistance or Food Stamps/SNAP,B19058
+B19058_003MA,string,Annotation of Margin of Error!!Total!!No cash public assistance or Food Stamps/SNAP,B19058
