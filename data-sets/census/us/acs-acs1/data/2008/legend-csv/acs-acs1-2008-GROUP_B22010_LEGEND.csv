@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B22010_001E,int,Estimate!!Total,B22010
+B22010_002E,int,Estimate!!Total!!Household received Food Stamps in the past 12 months,B22010
+B22010_003E,int,Estimate!!Total!!Household received Food Stamps in the past 12 months!!Households with 1 or more persons with a disability,B22010
+B22010_004E,int,Estimate!!Total!!Household received Food Stamps in the past 12 months!!Households with no persons with a disability,B22010
+B22010_005E,int,Estimate!!Total!!Household did not receive Food Stamps in the past 12 months,B22010
+B22010_006E,int,Estimate!!Total!!Household did not receive Food Stamps in the past 12 months!!Households with 1 or more persons with a disability,B22010
+B22010_007E,int,Estimate!!Total!!Household did not receive Food Stamps in the past 12 months!!Households with no persons with a disability,B22010
+B22010_001M,int,Margin of Error!!Total,B22010
+B22010_002M,int,Margin of Error!!Total!!Household received Food Stamps in the past 12 months,B22010
+B22010_003M,int,Margin of Error!!Total!!Household received Food Stamps in the past 12 months!!Households with 1 or more persons with a disability,B22010
+B22010_004M,int,Margin of Error!!Total!!Household received Food Stamps in the past 12 months!!Households with no persons with a disability,B22010
+B22010_005M,int,Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months,B22010
+B22010_006M,int,Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months!!Households with 1 or more persons with a disability,B22010
+B22010_007M,int,Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months!!Households with no persons with a disability,B22010
+B22010_001EA,string,Annotation of Estimate!!Total,B22010
+B22010_001MA,string,Annotation of Margin of Error!!Total,B22010
+B22010_002EA,string,Annotation of Estimate!!Total!!Household received Food Stamps in the past 12 months,B22010
+B22010_002MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps in the past 12 months,B22010
+B22010_003EA,string,Annotation of Estimate!!Total!!Household received Food Stamps in the past 12 months!!Households with 1 or more persons with a disability,B22010
+B22010_003MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps in the past 12 months!!Households with 1 or more persons with a disability,B22010
+B22010_004EA,string,Annotation of Estimate!!Total!!Household received Food Stamps in the past 12 months!!Households with no persons with a disability,B22010
+B22010_004MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps in the past 12 months!!Households with no persons with a disability,B22010
+B22010_005EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps in the past 12 months,B22010
+B22010_005MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months,B22010
+B22010_006EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps in the past 12 months!!Households with 1 or more persons with a disability,B22010
+B22010_006MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months!!Households with 1 or more persons with a disability,B22010
+B22010_007EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps in the past 12 months!!Households with no persons with a disability,B22010
+B22010_007MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps in the past 12 months!!Households with no persons with a disability,B22010
