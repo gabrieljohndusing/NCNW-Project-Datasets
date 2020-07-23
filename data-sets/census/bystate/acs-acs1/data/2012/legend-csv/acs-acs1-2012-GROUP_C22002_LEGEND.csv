@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+C22002_001E,int,Estimate!!Total,C22002
+C22002_002E,int,Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months,C22002
+C22002_003E,int,Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months!!With children under 18 years,C22002
+C22002_004E,int,Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months!!No children under 18 years old,C22002
+C22002_005E,int,Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months,C22002
+C22002_006E,int,Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!With children under 18 years,C22002
+C22002_007E,int,Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!No children under 18 years old,C22002
+C22002_001M,int,Margin of Error!!Total,C22002
+C22002_002M,int,Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months,C22002
+C22002_003M,int,Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months!!With children under 18 years,C22002
+C22002_004M,int,Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months!!No children under 18 years old,C22002
+C22002_005M,int,Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months,C22002
+C22002_006M,int,Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!With children under 18 years,C22002
+C22002_007M,int,Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!No children under 18 years old,C22002
+C22002_001EA,string,Annotation of Estimate!!Total,C22002
+C22002_001MA,string,Annotation of Margin of Error!!Total,C22002
+C22002_002EA,string,Annotation of Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months,C22002
+C22002_002MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months,C22002
+C22002_003EA,string,Annotation of Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months!!With children under 18 years,C22002
+C22002_003MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months!!With children under 18 years,C22002
+C22002_004EA,string,Annotation of Estimate!!Total!!Household received Food Stamps/SNAP in the past 12 months!!No children under 18 years old,C22002
+C22002_004MA,string,Annotation of Margin of Error!!Total!!Household received Food Stamps/SNAP in the past 12 months!!No children under 18 years old,C22002
+C22002_005EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months,C22002
+C22002_005MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months,C22002
+C22002_006EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!With children under 18 years,C22002
+C22002_006MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!With children under 18 years,C22002
+C22002_007EA,string,Annotation of Estimate!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!No children under 18 years old,C22002
+C22002_007MA,string,Annotation of Margin of Error!!Total!!Household did not receive Food Stamps/SNAP in the past 12 months!!No children under 18 years old,C22002

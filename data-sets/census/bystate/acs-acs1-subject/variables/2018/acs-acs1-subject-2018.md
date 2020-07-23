@@ -7199,7 +7199,24 @@ ___
 
 | VARIABLE | LABEL |
 | ----- | ----- |
+| S2201_C05_001E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households|
+| S2201_C05_024E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>DISABILITY STATUS !!<br>With no persons with a disability|
+| S2201_C05_023E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>DISABILITY STATUS !!<br>With one or more people with a disability|
 | S2201_C05_034E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>Median income (dollars)|
+| S2201_C05_004E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>Married-couple family|
+| S2201_C05_015E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years|
+| S2201_C05_016E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Married-couple family|
+| S2201_C05_020E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Nonfamily households|
+| S2201_C05_017E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family|
+| S2201_C05_019E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C05_018E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C05_003E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>No people in the household 60 years and over|
+| S2201_C05_008E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>Nonfamily households|
+| S2201_C05_005E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>Other family|
+| S2201_C05_007E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C05_006E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C05_022E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>At or above poverty level|
+| S2201_C05_021E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Below poverty level|
 | S2201_C05_027E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>American Indian and Alaska Native alone|
 | S2201_C05_028E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Asian alone|
 | S2201_C05_026E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Black or African American alone|
@@ -7209,7 +7226,35 @@ ___
 | S2201_C05_031E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Two or more races|
 | S2201_C05_025E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone|
 | S2201_C05_033E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone, not Hispanic or Latino|
+| S2201_C05_009E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years|
+| S2201_C05_010E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Married-couple family|
+| S2201_C05_014E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Nonfamily households|
+| S2201_C05_011E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family|
+| S2201_C05_013E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C05_012E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C05_002E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>Households !!<br>With one or more people in the household 60 years and over|
+| S2201_C05_035E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families|
+| S2201_C05_037E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>1 worker in past 12 months|
+| S2201_C05_038E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>2 or more workers in past 12 months|
+| S2201_C05_036E | Estimate !!<br>Households not receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>No workers in past 12 months|
+| S2201_C03_001E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households|
+| S2201_C03_024E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>DISABILITY STATUS !!<br>With no persons with a disability|
+| S2201_C03_023E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>DISABILITY STATUS !!<br>With one or more people with a disability|
 | S2201_C03_034E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>Median income (dollars)|
+| S2201_C03_004E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>Married-couple family|
+| S2201_C03_015E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years|
+| S2201_C03_016E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Married-couple family|
+| S2201_C03_020E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Nonfamily households|
+| S2201_C03_017E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family|
+| S2201_C03_019E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C03_018E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C03_003E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>No people in the household 60 years and over|
+| S2201_C03_008E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>Nonfamily households|
+| S2201_C03_005E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>Other family|
+| S2201_C03_007E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C03_006E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C03_022E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>At or above poverty level|
+| S2201_C03_021E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Below poverty level|
 | S2201_C03_027E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>American Indian and Alaska Native alone|
 | S2201_C03_028E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Asian alone|
 | S2201_C03_026E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Black or African American alone|
@@ -7219,7 +7264,35 @@ ___
 | S2201_C03_031E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Two or more races|
 | S2201_C03_025E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone|
 | S2201_C03_033E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone, not Hispanic or Latino|
+| S2201_C03_009E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years|
+| S2201_C03_010E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Married-couple family|
+| S2201_C03_014E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Nonfamily households|
+| S2201_C03_011E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family|
+| S2201_C03_013E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C03_012E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C03_002E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>Households !!<br>With one or more people in the household 60 years and over|
+| S2201_C03_035E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families|
+| S2201_C03_037E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>1 worker in past 12 months|
+| S2201_C03_038E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>2 or more workers in past 12 months|
+| S2201_C03_036E | Estimate !!<br>Households receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>No workers in past 12 months|
+| S2201_C06_001E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households|
+| S2201_C06_024E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>DISABILITY STATUS !!<br>With no persons with a disability|
+| S2201_C06_023E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>DISABILITY STATUS !!<br>With one or more people with a disability|
 | S2201_C06_034E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>Median income (dollars)|
+| S2201_C06_004E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>Married-couple family|
+| S2201_C06_015E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years|
+| S2201_C06_016E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Married-couple family|
+| S2201_C06_020E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Nonfamily households|
+| S2201_C06_017E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family|
+| S2201_C06_019E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C06_018E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C06_003E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>No people in the household 60 years and over|
+| S2201_C06_008E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>Nonfamily households|
+| S2201_C06_005E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>Other family|
+| S2201_C06_007E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C06_006E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C06_022E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>At or above poverty level|
+| S2201_C06_021E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Below poverty level|
 | S2201_C06_027E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>American Indian and Alaska Native alone|
 | S2201_C06_028E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Asian alone|
 | S2201_C06_026E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Black or African American alone|
@@ -7229,7 +7302,35 @@ ___
 | S2201_C06_031E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Two or more races|
 | S2201_C06_025E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone|
 | S2201_C06_033E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone, not Hispanic or Latino|
+| S2201_C06_009E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years|
+| S2201_C06_010E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Married-couple family|
+| S2201_C06_014E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Nonfamily households|
+| S2201_C06_011E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family|
+| S2201_C06_013E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C06_012E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C06_002E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>Households !!<br>With one or more people in the household 60 years and over|
+| S2201_C06_035E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families|
+| S2201_C06_037E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>1 worker in past 12 months|
+| S2201_C06_038E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>2 or more workers in past 12 months|
+| S2201_C06_036E | Estimate !!<br>Percent households not receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>No workers in past 12 months|
+| S2201_C04_001E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households|
+| S2201_C04_024E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>DISABILITY STATUS !!<br>With no persons with a disability|
+| S2201_C04_023E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>DISABILITY STATUS !!<br>With one or more people with a disability|
 | S2201_C04_034E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>Median income (dollars)|
+| S2201_C04_004E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>Married-couple family|
+| S2201_C04_015E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years|
+| S2201_C04_016E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Married-couple family|
+| S2201_C04_020E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Nonfamily households|
+| S2201_C04_017E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family|
+| S2201_C04_019E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C04_018E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C04_003E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>No people in the household 60 years and over|
+| S2201_C04_008E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>Nonfamily households|
+| S2201_C04_005E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>Other family|
+| S2201_C04_007E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C04_006E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C04_022E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>At or above poverty level|
+| S2201_C04_021E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Below poverty level|
 | S2201_C04_027E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>American Indian and Alaska Native alone|
 | S2201_C04_028E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Asian alone|
 | S2201_C04_026E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Black or African American alone|
@@ -7239,7 +7340,35 @@ ___
 | S2201_C04_031E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Two or more races|
 | S2201_C04_025E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone|
 | S2201_C04_033E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone, not Hispanic or Latino|
+| S2201_C04_009E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years|
+| S2201_C04_010E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Married-couple family|
+| S2201_C04_014E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Nonfamily households|
+| S2201_C04_011E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family|
+| S2201_C04_013E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C04_012E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C04_002E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>Households !!<br>With one or more people in the household 60 years and over|
+| S2201_C04_035E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families|
+| S2201_C04_037E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>1 worker in past 12 months|
+| S2201_C04_038E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>2 or more workers in past 12 months|
+| S2201_C04_036E | Estimate !!<br>Percent households receiving food stamps/SNAP !!<br>WORK STATUS !!<br>Families !!<br>No workers in past 12 months|
+| S2201_C02_001E | Estimate !!<br>Percent !!<br>Households|
+| S2201_C02_024E | Estimate !!<br>Percent !!<br>Households !!<br>DISABILITY STATUS !!<br>With no persons with a disability|
+| S2201_C02_023E | Estimate !!<br>Percent !!<br>Households !!<br>DISABILITY STATUS !!<br>With one or more people with a disability|
 | S2201_C02_034E | Estimate !!<br>Percent !!<br>Households !!<br>HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>Median income (dollars)|
+| S2201_C02_004E | Estimate !!<br>Percent !!<br>Households !!<br>Married-couple family|
+| S2201_C02_015E | Estimate !!<br>Percent !!<br>Households !!<br>No children under 18 years|
+| S2201_C02_016E | Estimate !!<br>Percent !!<br>Households !!<br>No children under 18 years !!<br>Married-couple family|
+| S2201_C02_020E | Estimate !!<br>Percent !!<br>Households !!<br>No children under 18 years !!<br>Nonfamily households|
+| S2201_C02_017E | Estimate !!<br>Percent !!<br>Households !!<br>No children under 18 years !!<br>Other family|
+| S2201_C02_019E | Estimate !!<br>Percent !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C02_018E | Estimate !!<br>Percent !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C02_003E | Estimate !!<br>Percent !!<br>Households !!<br>No people in the household 60 years and over|
+| S2201_C02_008E | Estimate !!<br>Percent !!<br>Households !!<br>Nonfamily households|
+| S2201_C02_005E | Estimate !!<br>Percent !!<br>Households !!<br>Other family|
+| S2201_C02_007E | Estimate !!<br>Percent !!<br>Households !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C02_006E | Estimate !!<br>Percent !!<br>Households !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C02_022E | Estimate !!<br>Percent !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>At or above poverty level|
+| S2201_C02_021E | Estimate !!<br>Percent !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Below poverty level|
 | S2201_C02_027E | Estimate !!<br>Percent !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>American Indian and Alaska Native alone|
 | S2201_C02_028E | Estimate !!<br>Percent !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Asian alone|
 | S2201_C02_026E | Estimate !!<br>Percent !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Black or African American alone|
@@ -7249,7 +7378,35 @@ ___
 | S2201_C02_031E | Estimate !!<br>Percent !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Two or more races|
 | S2201_C02_025E | Estimate !!<br>Percent !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone|
 | S2201_C02_033E | Estimate !!<br>Percent !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone, not Hispanic or Latino|
+| S2201_C02_009E | Estimate !!<br>Percent !!<br>Households !!<br>With children under 18 years|
+| S2201_C02_010E | Estimate !!<br>Percent !!<br>Households !!<br>With children under 18 years !!<br>Married-couple family|
+| S2201_C02_014E | Estimate !!<br>Percent !!<br>Households !!<br>With children under 18 years !!<br>Nonfamily households|
+| S2201_C02_011E | Estimate !!<br>Percent !!<br>Households !!<br>With children under 18 years !!<br>Other family|
+| S2201_C02_013E | Estimate !!<br>Percent !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C02_012E | Estimate !!<br>Percent !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C02_002E | Estimate !!<br>Percent !!<br>Households !!<br>With one or more people in the household 60 years and over|
+| S2201_C02_035E | Estimate !!<br>Percent !!<br>WORK STATUS !!<br>Families|
+| S2201_C02_037E | Estimate !!<br>Percent !!<br>WORK STATUS !!<br>Families !!<br>1 worker in past 12 months|
+| S2201_C02_038E | Estimate !!<br>Percent !!<br>WORK STATUS !!<br>Families !!<br>2 or more workers in past 12 months|
+| S2201_C02_036E | Estimate !!<br>Percent !!<br>WORK STATUS !!<br>Families !!<br>No workers in past 12 months|
+| S2201_C01_001E | Estimate !!<br>Total !!<br>Households|
+| S2201_C01_024E | Estimate !!<br>Total !!<br>Households !!<br>DISABILITY STATUS !!<br>With no persons with a disability|
+| S2201_C01_023E | Estimate !!<br>Total !!<br>Households !!<br>DISABILITY STATUS !!<br>With one or more people with a disability|
 | S2201_C01_034E | Estimate !!<br>Total !!<br>Households !!<br>HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>Median income (dollars)|
+| S2201_C01_004E | Estimate !!<br>Total !!<br>Households !!<br>Married-couple family|
+| S2201_C01_015E | Estimate !!<br>Total !!<br>Households !!<br>No children under 18 years|
+| S2201_C01_016E | Estimate !!<br>Total !!<br>Households !!<br>No children under 18 years !!<br>Married-couple family|
+| S2201_C01_020E | Estimate !!<br>Total !!<br>Households !!<br>No children under 18 years !!<br>Nonfamily households|
+| S2201_C01_017E | Estimate !!<br>Total !!<br>Households !!<br>No children under 18 years !!<br>Other family|
+| S2201_C01_019E | Estimate !!<br>Total !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C01_018E | Estimate !!<br>Total !!<br>Households !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C01_003E | Estimate !!<br>Total !!<br>Households !!<br>No people in the household 60 years and over|
+| S2201_C01_008E | Estimate !!<br>Total !!<br>Households !!<br>Nonfamily households|
+| S2201_C01_005E | Estimate !!<br>Total !!<br>Households !!<br>Other family|
+| S2201_C01_007E | Estimate !!<br>Total !!<br>Households !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C01_006E | Estimate !!<br>Total !!<br>Households !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C01_022E | Estimate !!<br>Total !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>At or above poverty level|
+| S2201_C01_021E | Estimate !!<br>Total !!<br>Households !!<br>POVERTY STATUS IN THE PAST 12 MONTHS !!<br>Below poverty level|
 | S2201_C01_027E | Estimate !!<br>Total !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>American Indian and Alaska Native alone|
 | S2201_C01_028E | Estimate !!<br>Total !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Asian alone|
 | S2201_C01_026E | Estimate !!<br>Total !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Black or African American alone|
@@ -7259,6 +7416,17 @@ ___
 | S2201_C01_031E | Estimate !!<br>Total !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>Two or more races|
 | S2201_C01_025E | Estimate !!<br>Total !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone|
 | S2201_C01_033E | Estimate !!<br>Total !!<br>Households !!<br>RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER !!<br>White alone, not Hispanic or Latino|
+| S2201_C01_009E | Estimate !!<br>Total !!<br>Households !!<br>With children under 18 years|
+| S2201_C01_010E | Estimate !!<br>Total !!<br>Households !!<br>With children under 18 years !!<br>Married-couple family|
+| S2201_C01_014E | Estimate !!<br>Total !!<br>Households !!<br>With children under 18 years !!<br>Nonfamily households|
+| S2201_C01_011E | Estimate !!<br>Total !!<br>Households !!<br>With children under 18 years !!<br>Other family|
+| S2201_C01_013E | Estimate !!<br>Total !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| S2201_C01_012E | Estimate !!<br>Total !!<br>Households !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| S2201_C01_002E | Estimate !!<br>Total !!<br>Households !!<br>With one or more people in the household 60 years and over|
+| S2201_C01_035E | Estimate !!<br>Total !!<br>WORK STATUS !!<br>Families|
+| S2201_C01_037E | Estimate !!<br>Total !!<br>WORK STATUS !!<br>Families !!<br>1 worker in past 12 months|
+| S2201_C01_038E | Estimate !!<br>Total !!<br>WORK STATUS !!<br>Families !!<br>2 or more workers in past 12 months|
+| S2201_C01_036E | Estimate !!<br>Total !!<br>WORK STATUS !!<br>Families !!<br>No workers in past 12 months|
 ___
 
 ## Group: S2301
@@ -10135,6 +10303,7 @@ ___
 
 | VARIABLE | LABEL |
 | ----- | ----- |
+| S2602_C03_097E | Estimate !!<br>Adult correctional facilities !!<br>EARNINGS AND BENEFITS IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>With Food Stamp/SNAP benefits|
 | S2602_C03_040E | Estimate !!<br>Adult correctional facilities !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over|
 | S2602_C03_042E | Estimate !!<br>Adult correctional facilities !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>Bachelor's degree or higher|
 | S2602_C03_041E | Estimate !!<br>Adult correctional facilities !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>High school graduate or higher|
@@ -10178,6 +10347,7 @@ ___
 | S2602_C03_014E | Estimate !!<br>Adult correctional facilities !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years|
 | S2602_C03_016E | Estimate !!<br>Adult correctional facilities !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years !!<br>Female|
 | S2602_C03_015E | Estimate !!<br>Adult correctional facilities !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years !!<br>Male|
+| S2602_C05_097E | Estimate !!<br>College/university housing !!<br>EARNINGS AND BENEFITS IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>With Food Stamp/SNAP benefits|
 | S2602_C05_040E | Estimate !!<br>College/university housing !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over|
 | S2602_C05_042E | Estimate !!<br>College/university housing !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>Bachelor's degree or higher|
 | S2602_C05_041E | Estimate !!<br>College/university housing !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>High school graduate or higher|
@@ -10221,6 +10391,7 @@ ___
 | S2602_C05_014E | Estimate !!<br>College/university housing !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years|
 | S2602_C05_016E | Estimate !!<br>College/university housing !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years !!<br>Female|
 | S2602_C05_015E | Estimate !!<br>College/university housing !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years !!<br>Male|
+| S2602_C04_097E | Estimate !!<br>Nursing facilities/skilled nursing facilities !!<br>EARNINGS AND BENEFITS IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>With Food Stamp/SNAP benefits|
 | S2602_C04_040E | Estimate !!<br>Nursing facilities/skilled nursing facilities !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over|
 | S2602_C04_042E | Estimate !!<br>Nursing facilities/skilled nursing facilities !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>Bachelor's degree or higher|
 | S2602_C04_041E | Estimate !!<br>Nursing facilities/skilled nursing facilities !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>High school graduate or higher|
@@ -10264,6 +10435,7 @@ ___
 | S2602_C04_014E | Estimate !!<br>Nursing facilities/skilled nursing facilities !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years|
 | S2602_C04_016E | Estimate !!<br>Nursing facilities/skilled nursing facilities !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years !!<br>Female|
 | S2602_C04_015E | Estimate !!<br>Nursing facilities/skilled nursing facilities !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years !!<br>Male|
+| S2602_C02_097E | Estimate !!<br>Total group quarters population !!<br>EARNINGS AND BENEFITS IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>With Food Stamp/SNAP benefits|
 | S2602_C02_040E | Estimate !!<br>Total group quarters population !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over|
 | S2602_C02_042E | Estimate !!<br>Total group quarters population !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>Bachelor's degree or higher|
 | S2602_C02_041E | Estimate !!<br>Total group quarters population !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>High school graduate or higher|
@@ -10307,6 +10479,7 @@ ___
 | S2602_C02_014E | Estimate !!<br>Total group quarters population !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years|
 | S2602_C02_016E | Estimate !!<br>Total group quarters population !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years !!<br>Female|
 | S2602_C02_015E | Estimate !!<br>Total group quarters population !!<br>Total population !!<br>SEX AND AGE !!<br>Under 18 years !!<br>Male|
+| S2602_C01_097E | Estimate !!<br>Total population !!<br>EARNINGS AND BENEFITS IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) !!<br>With Food Stamp/SNAP benefits|
 | S2602_C01_040E | Estimate !!<br>Total population !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over|
 | S2602_C01_042E | Estimate !!<br>Total population !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>Bachelor's degree or higher|
 | S2602_C01_041E | Estimate !!<br>Total population !!<br>EDUCATIONAL ATTAINMENT !!<br>Population 25 years and over !!<br>High school graduate or higher|

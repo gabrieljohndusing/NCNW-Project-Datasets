@@ -4079,6 +4079,16 @@ ___
 | B19057_002E | Estimate !!<br>Total !!<br>With public assistance income|
 ___
 
+## Group: B19058
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B19058_003E | Estimate !!<br>Total !!<br>No cash public assistance or Food Stamps/SNAP|
+| B19058_002E | Estimate !!<br>Total !!<br>With cash public assistance or Food Stamps/SNAP|
+___
+
 ## Group: B19059
 
 ___
@@ -4865,16 +4875,230 @@ ___
 | B21007_050E | Estimate !!<br>Total !!<br>65 years and over !!<br>Veteran !!<br>Income in the past 12 months below poverty level !!<br>With a disability|
 ___
 
+## Group: B22001
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22001_005E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22001_006E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>At least one person in household 60 years or over|
+| B22001_007E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No people in household 60 years or over|
+| B22001_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| B22001_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>At least one person in household 60 years or over|
+| B22001_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No people in household 60 years or over|
+___
+
+## Group: B22002
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22002_015E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22002_022E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years|
+| B22002_023E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Married-couple family|
+| B22002_027E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Nonfamily households|
+| B22002_024E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family|
+| B22002_026E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| B22002_025E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| B22002_016E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years|
+| B22002_017E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Married-couple family|
+| B22002_021E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Nonfamily households|
+| B22002_018E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family|
+| B22002_020E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| B22002_019E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| B22002_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| B22002_009E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years|
+| B22002_010E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Married-couple family|
+| B22002_014E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Nonfamily households|
+| B22002_011E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family|
+| B22002_013E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| B22002_012E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+| B22002_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years|
+| B22002_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Married-couple family|
+| B22002_008E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Nonfamily households|
+| B22002_005E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family|
+| B22002_007E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family !!<br>Female householder, no husband present|
+| B22002_006E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years !!<br>Other family !!<br>Male householder, no wife present|
+___
+
 ## Group: B22003
 
 ___
 
 | VARIABLE | LABEL |
 | ----- | ----- |
+| B22003_005E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
 | B22003_007E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Income in the past 12 months at or above poverty level|
 | B22003_006E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Income in the past 12 months below poverty level|
+| B22003_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
 | B22003_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Income in the past 12 months at or above poverty level|
 | B22003_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Income in the past 12 months below poverty level|
+___
+
+## Group: B22005A
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005A_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005A_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22005B
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005B_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005B_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22005C
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005C_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005C_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22005D
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005D_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005D_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22005E
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005E_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005E_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22005F
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005F_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005F_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22005G
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005G_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005G_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22005H
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005H_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005H_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22005I
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22005I_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22005I_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22007
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22007_023E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22007_024E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family|
+| B22007_026E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>1 worker|
+| B22007_027E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers|
+| B22007_028E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers !!<br>Husband and wife worked|
+| B22007_029E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers !!<br>Other|
+| B22007_030E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers|
+| B22007_031E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers !!<br>Husband and wife worked|
+| B22007_032E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers !!<br>Other|
+| B22007_025E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>No workers|
+| B22007_033E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family|
+| B22007_039E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present|
+| B22007_041E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>1 worker|
+| B22007_042E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>2 workers|
+| B22007_043E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>3 or more workers|
+| B22007_040E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>No workers|
+| B22007_034E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present|
+| B22007_036E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>1 worker|
+| B22007_037E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>2 workers|
+| B22007_038E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>3 or more workers|
+| B22007_035E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>No workers|
+| B22007_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| B22007_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family|
+| B22007_005E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>1 worker|
+| B22007_006E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers|
+| B22007_007E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers !!<br>Husband and wife worked|
+| B22007_008E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 workers !!<br>Other|
+| B22007_009E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers|
+| B22007_010E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers !!<br>Husband and wife worked|
+| B22007_011E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>3 or more workers !!<br>Other|
+| B22007_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>No workers|
+| B22007_012E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family|
+| B22007_018E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present|
+| B22007_020E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>1 worker|
+| B22007_021E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>2 workers|
+| B22007_022E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>3 or more workers|
+| B22007_019E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>No workers|
+| B22007_013E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present|
+| B22007_015E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>1 worker|
+| B22007_016E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>2 workers|
+| B22007_017E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>3 or more workers|
+| B22007_014E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>No workers|
+___
+
+## Group: B22008
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22008_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22008_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: B22010
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B22010_005E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| B22010_006E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Households with 1 or more persons with a disability|
+| B22010_007E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Households with no persons with a disability|
+| B22010_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| B22010_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Households with 1 or more persons with a disability|
+| B22010_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Households with no persons with a disability|
 ___
 
 ## Group: B23024
@@ -9837,6 +10061,66 @@ ___
 | C21007_019E | Estimate !!<br>Total !!<br>65 years and over !!<br>Veteran !!<br>Income in the past 12 months below poverty level|
 | C21007_021E | Estimate !!<br>Total !!<br>65 years and over !!<br>Veteran !!<br>Income in the past 12 months below poverty level !!<br>No disability|
 | C21007_020E | Estimate !!<br>Total !!<br>65 years and over !!<br>Veteran !!<br>Income in the past 12 months below poverty level !!<br>With a disability|
+___
+
+## Group: C22001
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| C22001_003E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| C22001_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+___
+
+## Group: C22002
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| C22002_005E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| C22002_007E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years old|
+| C22002_006E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years|
+| C22002_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| C22002_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>No children under 18 years old|
+| C22002_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>With children under 18 years|
+___
+
+## Group: C22007
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| C22007_016E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months|
+| C22007_017E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family|
+| C22007_019E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>1 worker|
+| C22007_020E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 or more workers|
+| C22007_018E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>No workers|
+| C22007_021E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family|
+| C22007_026E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present|
+| C22007_028E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>1 worker|
+| C22007_029E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>2 or more workers|
+| C22007_027E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>No workers|
+| C22007_022E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present|
+| C22007_024E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>1 worker|
+| C22007_025E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>2 or more workers|
+| C22007_023E | Estimate !!<br>Total !!<br>Household did not receive Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>No workers|
+| C22007_002E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months|
+| C22007_003E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family|
+| C22007_005E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>1 worker|
+| C22007_006E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>2 or more workers|
+| C22007_004E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Married-couple family !!<br>No workers|
+| C22007_007E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family|
+| C22007_012E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present|
+| C22007_014E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>1 worker|
+| C22007_015E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>2 or more workers|
+| C22007_013E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Female householder, no husband present !!<br>No workers|
+| C22007_008E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present|
+| C22007_010E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>1 worker|
+| C22007_011E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>2 or more workers|
+| C22007_009E | Estimate !!<br>Total !!<br>Household received Food Stamps/SNAP in the past 12 months !!<br>Other family !!<br>Male householder, no wife present !!<br>No workers|
 ___
 
 ## Group: C24010
