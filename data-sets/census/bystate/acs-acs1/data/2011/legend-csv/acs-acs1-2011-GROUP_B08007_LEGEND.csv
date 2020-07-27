@@ -1,0 +1,61 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08007_001E,int,Estimate!!Total,B08007
+B08007_002E,int,Estimate!!Total!!Worked in state of residence,B08007
+B08007_003E,int,Estimate!!Total!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_004E,int,Estimate!!Total!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_005E,int,Estimate!!Total!!Worked outside state of residence,B08007
+B08007_006E,int,Estimate!!Total!!Male,B08007
+B08007_007E,int,Estimate!!Total!!Male!!Worked in state of residence,B08007
+B08007_008E,int,Estimate!!Total!!Male!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_009E,int,Estimate!!Total!!Male!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_010E,int,Estimate!!Total!!Male!!Worked outside state of residence,B08007
+B08007_011E,int,Estimate!!Total!!Female,B08007
+B08007_012E,int,Estimate!!Total!!Female!!Worked in state of residence,B08007
+B08007_013E,int,Estimate!!Total!!Female!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_014E,int,Estimate!!Total!!Female!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_015E,int,Estimate!!Total!!Female!!Worked outside state of residence,B08007
+B08007_001M,int,Margin of Error!!Total,B08007
+B08007_002M,int,Margin of Error!!Total!!Worked in state of residence,B08007
+B08007_003M,int,Margin of Error!!Total!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_004M,int,Margin of Error!!Total!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_005M,int,Margin of Error!!Total!!Worked outside state of residence,B08007
+B08007_006M,int,Margin of Error!!Total!!Male,B08007
+B08007_007M,int,Margin of Error!!Total!!Male!!Worked in state of residence,B08007
+B08007_008M,int,Margin of Error!!Total!!Male!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_009M,int,Margin of Error!!Total!!Male!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_010M,int,Margin of Error!!Total!!Male!!Worked outside state of residence,B08007
+B08007_011M,int,Margin of Error!!Total!!Female,B08007
+B08007_012M,int,Margin of Error!!Total!!Female!!Worked in state of residence,B08007
+B08007_013M,int,Margin of Error!!Total!!Female!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_014M,int,Margin of Error!!Total!!Female!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_015M,int,Margin of Error!!Total!!Female!!Worked outside state of residence,B08007
+B08007_001EA,string,Annotation of Estimate!!Total,B08007
+B08007_001MA,string,Annotation of Margin of Error!!Total,B08007
+B08007_002EA,string,Annotation of Estimate!!Total!!Worked in state of residence,B08007
+B08007_002MA,string,Annotation of Margin of Error!!Total!!Worked in state of residence,B08007
+B08007_003EA,string,Annotation of Estimate!!Total!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_003MA,string,Annotation of Margin of Error!!Total!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_004EA,string,Annotation of Estimate!!Total!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_004MA,string,Annotation of Margin of Error!!Total!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_005EA,string,Annotation of Estimate!!Total!!Worked outside state of residence,B08007
+B08007_005MA,string,Annotation of Margin of Error!!Total!!Worked outside state of residence,B08007
+B08007_006EA,string,Annotation of Estimate!!Total!!Male,B08007
+B08007_006MA,string,Annotation of Margin of Error!!Total!!Male,B08007
+B08007_007EA,string,Annotation of Estimate!!Total!!Male!!Worked in state of residence,B08007
+B08007_007MA,string,Annotation of Margin of Error!!Total!!Male!!Worked in state of residence,B08007
+B08007_008EA,string,Annotation of Estimate!!Total!!Male!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_008MA,string,Annotation of Margin of Error!!Total!!Male!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_009EA,string,Annotation of Estimate!!Total!!Male!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_009MA,string,Annotation of Margin of Error!!Total!!Male!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_010EA,string,Annotation of Estimate!!Total!!Male!!Worked outside state of residence,B08007
+B08007_010MA,string,Annotation of Margin of Error!!Total!!Male!!Worked outside state of residence,B08007
+B08007_011EA,string,Annotation of Estimate!!Total!!Female,B08007
+B08007_011MA,string,Annotation of Margin of Error!!Total!!Female,B08007
+B08007_012EA,string,Annotation of Estimate!!Total!!Female!!Worked in state of residence,B08007
+B08007_012MA,string,Annotation of Margin of Error!!Total!!Female!!Worked in state of residence,B08007
+B08007_013EA,string,Annotation of Estimate!!Total!!Female!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_013MA,string,Annotation of Margin of Error!!Total!!Female!!Worked in state of residence!!Worked in county of residence,B08007
+B08007_014EA,string,Annotation of Estimate!!Total!!Female!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_014MA,string,Annotation of Margin of Error!!Total!!Female!!Worked in state of residence!!Worked outside county of residence,B08007
+B08007_015EA,string,Annotation of Estimate!!Total!!Female!!Worked outside state of residence,B08007
+B08007_015MA,string,Annotation of Margin of Error!!Total!!Female!!Worked outside state of residence,B08007

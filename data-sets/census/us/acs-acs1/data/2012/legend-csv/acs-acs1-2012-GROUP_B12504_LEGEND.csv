@@ -1,0 +1,37 @@
+VARIABLE,TYPE,LABEL,GROUP
+B12504_001E,float,Estimate!!Total,B12504
+B12504_002E,float,Estimate!!Total!!Male,B12504
+B12504_003E,float,"Estimate!!Total!!Male!!Married, spouse present",B12504
+B12504_004E,float,"Estimate!!Total!!Male!!Married, spouse absent",B12504
+B12504_005E,float,Estimate!!Total!!Male!!Separated,B12504
+B12504_006E,float,Estimate!!Total!!Female,B12504
+B12504_007E,float,"Estimate!!Total!!Female!!Married, spouse present",B12504
+B12504_008E,float,"Estimate!!Total!!Female!!Married, spouse absent",B12504
+B12504_009E,float,Estimate!!Total!!Female!!Separated,B12504
+B12504_001M,float,Margin of Error!!Total,B12504
+B12504_002M,float,Margin of Error!!Total!!Male,B12504
+B12504_003M,float,"Margin of Error!!Total!!Male!!Married, spouse present",B12504
+B12504_004M,float,"Margin of Error!!Total!!Male!!Married, spouse absent",B12504
+B12504_005M,float,Margin of Error!!Total!!Male!!Separated,B12504
+B12504_006M,float,Margin of Error!!Total!!Female,B12504
+B12504_007M,float,"Margin of Error!!Total!!Female!!Married, spouse present",B12504
+B12504_008M,float,"Margin of Error!!Total!!Female!!Married, spouse absent",B12504
+B12504_009M,float,Margin of Error!!Total!!Female!!Separated,B12504
+B12504_001EA,string,Annotation of Estimate!!Total,B12504
+B12504_001MA,string,Annotation of Margin of Error!!Total,B12504
+B12504_002EA,string,Annotation of Estimate!!Total!!Male,B12504
+B12504_002MA,string,Annotation of Margin of Error!!Total!!Male,B12504
+B12504_003EA,string,"Annotation of Estimate!!Total!!Male!!Married, spouse present",B12504
+B12504_003MA,string,"Annotation of Margin of Error!!Total!!Male!!Married, spouse present",B12504
+B12504_004EA,string,"Annotation of Estimate!!Total!!Male!!Married, spouse absent",B12504
+B12504_004MA,string,"Annotation of Margin of Error!!Total!!Male!!Married, spouse absent",B12504
+B12504_005EA,string,Annotation of Estimate!!Total!!Male!!Separated,B12504
+B12504_005MA,string,Annotation of Margin of Error!!Total!!Male!!Separated,B12504
+B12504_006EA,string,Annotation of Estimate!!Total!!Female,B12504
+B12504_006MA,string,Annotation of Margin of Error!!Total!!Female,B12504
+B12504_007EA,string,"Annotation of Estimate!!Total!!Female!!Married, spouse present",B12504
+B12504_007MA,string,"Annotation of Margin of Error!!Total!!Female!!Married, spouse present",B12504
+B12504_008EA,string,"Annotation of Estimate!!Total!!Female!!Married, spouse absent",B12504
+B12504_008MA,string,"Annotation of Margin of Error!!Total!!Female!!Married, spouse absent",B12504
+B12504_009EA,string,Annotation of Estimate!!Total!!Female!!Separated,B12504
+B12504_009MA,string,Annotation of Margin of Error!!Total!!Female!!Separated,B12504

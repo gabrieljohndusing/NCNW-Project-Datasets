@@ -1,0 +1,53 @@
+VARIABLE,TYPE,LABEL,GROUP
+B12002D_001E,int,Estimate!!Total,B12002D
+B12002D_002E,int,Estimate!!Total!!Male,B12002D
+B12002D_003E,int,Estimate!!Total!!Male!!Never married,B12002D
+B12002D_004E,int,Estimate!!Total!!Male!!Now married (except separated),B12002D
+B12002D_005E,int,Estimate!!Total!!Male!!Separated,B12002D
+B12002D_006E,int,Estimate!!Total!!Male!!Widowed,B12002D
+B12002D_007E,int,Estimate!!Total!!Male!!Divorced,B12002D
+B12002D_008E,int,Estimate!!Total!!Female,B12002D
+B12002D_009E,int,Estimate!!Total!!Female!!Never married,B12002D
+B12002D_010E,int,Estimate!!Total!!Female!!Now married (except separated),B12002D
+B12002D_011E,int,Estimate!!Total!!Female!!Separated,B12002D
+B12002D_012E,int,Estimate!!Total!!Female!!Widowed,B12002D
+B12002D_013E,int,Estimate!!Total!!Female!!Divorced,B12002D
+B12002D_001M,int,Margin of Error!!Total,B12002D
+B12002D_002M,int,Margin of Error!!Total!!Male,B12002D
+B12002D_003M,int,Margin of Error!!Total!!Male!!Never married,B12002D
+B12002D_004M,int,Margin of Error!!Total!!Male!!Now married (except separated),B12002D
+B12002D_005M,int,Margin of Error!!Total!!Male!!Separated,B12002D
+B12002D_006M,int,Margin of Error!!Total!!Male!!Widowed,B12002D
+B12002D_007M,int,Margin of Error!!Total!!Male!!Divorced,B12002D
+B12002D_008M,int,Margin of Error!!Total!!Female,B12002D
+B12002D_009M,int,Margin of Error!!Total!!Female!!Never married,B12002D
+B12002D_010M,int,Margin of Error!!Total!!Female!!Now married (except separated),B12002D
+B12002D_011M,int,Margin of Error!!Total!!Female!!Separated,B12002D
+B12002D_012M,int,Margin of Error!!Total!!Female!!Widowed,B12002D
+B12002D_013M,int,Margin of Error!!Total!!Female!!Divorced,B12002D
+B12002D_001EA,string,Annotation of Estimate!!Total,B12002D
+B12002D_001MA,string,Annotation of Margin of Error!!Total,B12002D
+B12002D_002EA,string,Annotation of Estimate!!Total!!Male,B12002D
+B12002D_002MA,string,Annotation of Margin of Error!!Total!!Male,B12002D
+B12002D_003EA,string,Annotation of Estimate!!Total!!Male!!Never married,B12002D
+B12002D_003MA,string,Annotation of Margin of Error!!Total!!Male!!Never married,B12002D
+B12002D_004EA,string,Annotation of Estimate!!Total!!Male!!Now married (except separated),B12002D
+B12002D_004MA,string,Annotation of Margin of Error!!Total!!Male!!Now married (except separated),B12002D
+B12002D_005EA,string,Annotation of Estimate!!Total!!Male!!Separated,B12002D
+B12002D_005MA,string,Annotation of Margin of Error!!Total!!Male!!Separated,B12002D
+B12002D_006EA,string,Annotation of Estimate!!Total!!Male!!Widowed,B12002D
+B12002D_006MA,string,Annotation of Margin of Error!!Total!!Male!!Widowed,B12002D
+B12002D_007EA,string,Annotation of Estimate!!Total!!Male!!Divorced,B12002D
+B12002D_007MA,string,Annotation of Margin of Error!!Total!!Male!!Divorced,B12002D
+B12002D_008EA,string,Annotation of Estimate!!Total!!Female,B12002D
+B12002D_008MA,string,Annotation of Margin of Error!!Total!!Female,B12002D
+B12002D_009EA,string,Annotation of Estimate!!Total!!Female!!Never married,B12002D
+B12002D_009MA,string,Annotation of Margin of Error!!Total!!Female!!Never married,B12002D
+B12002D_010EA,string,Annotation of Estimate!!Total!!Female!!Now married (except separated),B12002D
+B12002D_010MA,string,Annotation of Margin of Error!!Total!!Female!!Now married (except separated),B12002D
+B12002D_011EA,string,Annotation of Estimate!!Total!!Female!!Separated,B12002D
+B12002D_011MA,string,Annotation of Margin of Error!!Total!!Female!!Separated,B12002D
+B12002D_012EA,string,Annotation of Estimate!!Total!!Female!!Widowed,B12002D
+B12002D_012MA,string,Annotation of Margin of Error!!Total!!Female!!Widowed,B12002D
+B12002D_013EA,string,Annotation of Estimate!!Total!!Female!!Divorced,B12002D
+B12002D_013MA,string,Annotation of Margin of Error!!Total!!Female!!Divorced,B12002D

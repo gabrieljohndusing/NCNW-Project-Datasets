@@ -1,0 +1,333 @@
+VARIABLE,TYPE,LABEL,GROUP
+B15001_001E,int,Estimate!!Total,B15001
+B15001_002E,int,Estimate!!Total!!Male,B15001
+B15001_003E,int,Estimate!!Total!!Male!!18 to 24 years,B15001
+B15001_004E,int,Estimate!!Total!!Male!!18 to 24 years!!Less than 9th grade,B15001
+B15001_005E,int,"Estimate!!Total!!Male!!18 to 24 years!!9th to 12th grade, no diploma",B15001
+B15001_006E,int,Estimate!!Total!!Male!!18 to 24 years!!High school graduate (includes equivalency),B15001
+B15001_007E,int,"Estimate!!Total!!Male!!18 to 24 years!!Some college, no degree",B15001
+B15001_008E,int,Estimate!!Total!!Male!!18 to 24 years!!Associate's degree,B15001
+B15001_009E,int,Estimate!!Total!!Male!!18 to 24 years!!Bachelor's degree,B15001
+B15001_010E,int,Estimate!!Total!!Male!!18 to 24 years!!Graduate or professional degree,B15001
+B15001_011E,int,Estimate!!Total!!Male!!25 to 34 years,B15001
+B15001_012E,int,Estimate!!Total!!Male!!25 to 34 years!!Less than 9th grade,B15001
+B15001_013E,int,"Estimate!!Total!!Male!!25 to 34 years!!9th to 12th grade, no diploma",B15001
+B15001_014E,int,Estimate!!Total!!Male!!25 to 34 years!!High school graduate (includes equivalency),B15001
+B15001_015E,int,"Estimate!!Total!!Male!!25 to 34 years!!Some college, no degree",B15001
+B15001_016E,int,Estimate!!Total!!Male!!25 to 34 years!!Associate's degree,B15001
+B15001_017E,int,Estimate!!Total!!Male!!25 to 34 years!!Bachelor's degree,B15001
+B15001_018E,int,Estimate!!Total!!Male!!25 to 34 years!!Graduate or professional degree,B15001
+B15001_019E,int,Estimate!!Total!!Male!!35 to 44 years,B15001
+B15001_020E,int,Estimate!!Total!!Male!!35 to 44 years!!Less than 9th grade,B15001
+B15001_021E,int,"Estimate!!Total!!Male!!35 to 44 years!!9th to 12th grade, no diploma",B15001
+B15001_022E,int,Estimate!!Total!!Male!!35 to 44 years!!High school graduate (includes equivalency),B15001
+B15001_023E,int,"Estimate!!Total!!Male!!35 to 44 years!!Some college, no degree",B15001
+B15001_024E,int,Estimate!!Total!!Male!!35 to 44 years!!Associate's degree,B15001
+B15001_025E,int,Estimate!!Total!!Male!!35 to 44 years!!Bachelor's degree,B15001
+B15001_026E,int,Estimate!!Total!!Male!!35 to 44 years!!Graduate or professional degree,B15001
+B15001_027E,int,Estimate!!Total!!Male!!45 to 64 years,B15001
+B15001_028E,int,Estimate!!Total!!Male!!45 to 64 years!!Less than 9th grade,B15001
+B15001_029E,int,"Estimate!!Total!!Male!!45 to 64 years!!9th to 12th grade, no diploma",B15001
+B15001_030E,int,Estimate!!Total!!Male!!45 to 64 years!!High school graduate (includes equivalency),B15001
+B15001_031E,int,"Estimate!!Total!!Male!!45 to 64 years!!Some college, no degree",B15001
+B15001_032E,int,Estimate!!Total!!Male!!45 to 64 years!!Associate's degree,B15001
+B15001_033E,int,Estimate!!Total!!Male!!45 to 64 years!!Bachelor's degree,B15001
+B15001_034E,int,Estimate!!Total!!Male!!45 to 64 years!!Graduate or professional degree,B15001
+B15001_035E,int,Estimate!!Total!!Male!!65 years and over,B15001
+B15001_036E,int,Estimate!!Total!!Male!!65 years and over!!Less than 9th grade,B15001
+B15001_037E,int,"Estimate!!Total!!Male!!65 years and over!!9th to 12th grade, no diploma",B15001
+B15001_038E,int,Estimate!!Total!!Male!!65 years and over!!High school graduate (includes equivalency),B15001
+B15001_039E,int,"Estimate!!Total!!Male!!65 years and over!!Some college, no degree",B15001
+B15001_040E,int,Estimate!!Total!!Male!!65 years and over!!Associate's degree,B15001
+B15001_041E,int,Estimate!!Total!!Male!!65 years and over!!Bachelor's degree,B15001
+B15001_042E,int,Estimate!!Total!!Male!!65 years and over!!Graduate or professional degree,B15001
+B15001_043E,int,Estimate!!Total!!Female,B15001
+B15001_044E,int,Estimate!!Total!!Female!!18 to 24 years,B15001
+B15001_045E,int,Estimate!!Total!!Female!!18 to 24 years!!Less than 9th grade,B15001
+B15001_046E,int,"Estimate!!Total!!Female!!18 to 24 years!!9th to 12th grade, no diploma",B15001
+B15001_047E,int,Estimate!!Total!!Female!!18 to 24 years!!High school graduate (includes equivalency),B15001
+B15001_048E,int,"Estimate!!Total!!Female!!18 to 24 years!!Some college, no degree",B15001
+B15001_049E,int,Estimate!!Total!!Female!!18 to 24 years!!Associate's degree,B15001
+B15001_050E,int,Estimate!!Total!!Female!!18 to 24 years!!Bachelor's degree,B15001
+B15001_051E,int,Estimate!!Total!!Female!!18 to 24 years!!Graduate or professional degree,B15001
+B15001_052E,int,Estimate!!Total!!Female!!25 to 34 years,B15001
+B15001_053E,int,Estimate!!Total!!Female!!25 to 34 years!!Less than 9th grade,B15001
+B15001_054E,int,"Estimate!!Total!!Female!!25 to 34 years!!9th to 12th grade, no diploma",B15001
+B15001_055E,int,Estimate!!Total!!Female!!25 to 34 years!!High school graduate (includes equivalency),B15001
+B15001_056E,int,"Estimate!!Total!!Female!!25 to 34 years!!Some college, no degree",B15001
+B15001_057E,int,Estimate!!Total!!Female!!25 to 34 years!!Associate's degree,B15001
+B15001_058E,int,Estimate!!Total!!Female!!25 to 34 years!!Bachelor's degree,B15001
+B15001_059E,int,Estimate!!Total!!Female!!25 to 34 years!!Graduate or professional degree,B15001
+B15001_060E,int,Estimate!!Total!!Female!!35 to 44 years,B15001
+B15001_061E,int,Estimate!!Total!!Female!!35 to 44 years!!Less than 9th grade,B15001
+B15001_062E,int,"Estimate!!Total!!Female!!35 to 44 years!!9th to 12th grade, no diploma",B15001
+B15001_063E,int,Estimate!!Total!!Female!!35 to 44 years!!High school graduate (includes equivalency),B15001
+B15001_064E,int,"Estimate!!Total!!Female!!35 to 44 years!!Some college, no degree",B15001
+B15001_065E,int,Estimate!!Total!!Female!!35 to 44 years!!Associate's degree,B15001
+B15001_066E,int,Estimate!!Total!!Female!!35 to 44 years!!Bachelor's degree,B15001
+B15001_067E,int,Estimate!!Total!!Female!!35 to 44 years!!Graduate or professional degree,B15001
+B15001_068E,int,Estimate!!Total!!Female!!45 to 64 years,B15001
+B15001_069E,int,Estimate!!Total!!Female!!45 to 64 years!!Less than 9th grade,B15001
+B15001_070E,int,"Estimate!!Total!!Female!!45 to 64 years!!9th to 12th grade, no diploma",B15001
+B15001_071E,int,Estimate!!Total!!Female!!45 to 64 years!!High school graduate (includes equivalency),B15001
+B15001_072E,int,"Estimate!!Total!!Female!!45 to 64 years!!Some college, no degree",B15001
+B15001_073E,int,Estimate!!Total!!Female!!45 to 64 years!!Associate's degree,B15001
+B15001_074E,int,Estimate!!Total!!Female!!45 to 64 years!!Bachelor's degree,B15001
+B15001_075E,int,Estimate!!Total!!Female!!45 to 64 years!!Graduate or professional degree,B15001
+B15001_076E,int,Estimate!!Total!!Female!!65 years and over,B15001
+B15001_077E,int,Estimate!!Total!!Female!!65 years and over!!Less than 9th grade,B15001
+B15001_078E,int,"Estimate!!Total!!Female!!65 years and over!!9th to 12th grade, no diploma",B15001
+B15001_079E,int,Estimate!!Total!!Female!!65 years and over!!High school graduate (includes equivalency),B15001
+B15001_080E,int,"Estimate!!Total!!Female!!65 years and over!!Some college, no degree",B15001
+B15001_081E,int,Estimate!!Total!!Female!!65 years and over!!Associate's degree,B15001
+B15001_082E,int,Estimate!!Total!!Female!!65 years and over!!Bachelor's degree,B15001
+B15001_083E,int,Estimate!!Total!!Female!!65 years and over!!Graduate or professional degree,B15001
+B15001_001M,int,Margin of Error!!Total,B15001
+B15001_002M,int,Margin of Error!!Total!!Male,B15001
+B15001_003M,int,Margin of Error!!Total!!Male!!18 to 24 years,B15001
+B15001_004M,int,Margin of Error!!Total!!Male!!18 to 24 years!!Less than 9th grade,B15001
+B15001_005M,int,"Margin of Error!!Total!!Male!!18 to 24 years!!9th to 12th grade, no diploma",B15001
+B15001_006M,int,Margin of Error!!Total!!Male!!18 to 24 years!!High school graduate (includes equivalency),B15001
+B15001_007M,int,"Margin of Error!!Total!!Male!!18 to 24 years!!Some college, no degree",B15001
+B15001_008M,int,Margin of Error!!Total!!Male!!18 to 24 years!!Associate's degree,B15001
+B15001_009M,int,Margin of Error!!Total!!Male!!18 to 24 years!!Bachelor's degree,B15001
+B15001_010M,int,Margin of Error!!Total!!Male!!18 to 24 years!!Graduate or professional degree,B15001
+B15001_011M,int,Margin of Error!!Total!!Male!!25 to 34 years,B15001
+B15001_012M,int,Margin of Error!!Total!!Male!!25 to 34 years!!Less than 9th grade,B15001
+B15001_013M,int,"Margin of Error!!Total!!Male!!25 to 34 years!!9th to 12th grade, no diploma",B15001
+B15001_014M,int,Margin of Error!!Total!!Male!!25 to 34 years!!High school graduate (includes equivalency),B15001
+B15001_015M,int,"Margin of Error!!Total!!Male!!25 to 34 years!!Some college, no degree",B15001
+B15001_016M,int,Margin of Error!!Total!!Male!!25 to 34 years!!Associate's degree,B15001
+B15001_017M,int,Margin of Error!!Total!!Male!!25 to 34 years!!Bachelor's degree,B15001
+B15001_018M,int,Margin of Error!!Total!!Male!!25 to 34 years!!Graduate or professional degree,B15001
+B15001_019M,int,Margin of Error!!Total!!Male!!35 to 44 years,B15001
+B15001_020M,int,Margin of Error!!Total!!Male!!35 to 44 years!!Less than 9th grade,B15001
+B15001_021M,int,"Margin of Error!!Total!!Male!!35 to 44 years!!9th to 12th grade, no diploma",B15001
+B15001_022M,int,Margin of Error!!Total!!Male!!35 to 44 years!!High school graduate (includes equivalency),B15001
+B15001_023M,int,"Margin of Error!!Total!!Male!!35 to 44 years!!Some college, no degree",B15001
+B15001_024M,int,Margin of Error!!Total!!Male!!35 to 44 years!!Associate's degree,B15001
+B15001_025M,int,Margin of Error!!Total!!Male!!35 to 44 years!!Bachelor's degree,B15001
+B15001_026M,int,Margin of Error!!Total!!Male!!35 to 44 years!!Graduate or professional degree,B15001
+B15001_027M,int,Margin of Error!!Total!!Male!!45 to 64 years,B15001
+B15001_028M,int,Margin of Error!!Total!!Male!!45 to 64 years!!Less than 9th grade,B15001
+B15001_029M,int,"Margin of Error!!Total!!Male!!45 to 64 years!!9th to 12th grade, no diploma",B15001
+B15001_030M,int,Margin of Error!!Total!!Male!!45 to 64 years!!High school graduate (includes equivalency),B15001
+B15001_031M,int,"Margin of Error!!Total!!Male!!45 to 64 years!!Some college, no degree",B15001
+B15001_032M,int,Margin of Error!!Total!!Male!!45 to 64 years!!Associate's degree,B15001
+B15001_033M,int,Margin of Error!!Total!!Male!!45 to 64 years!!Bachelor's degree,B15001
+B15001_034M,int,Margin of Error!!Total!!Male!!45 to 64 years!!Graduate or professional degree,B15001
+B15001_035M,int,Margin of Error!!Total!!Male!!65 years and over,B15001
+B15001_036M,int,Margin of Error!!Total!!Male!!65 years and over!!Less than 9th grade,B15001
+B15001_037M,int,"Margin of Error!!Total!!Male!!65 years and over!!9th to 12th grade, no diploma",B15001
+B15001_038M,int,Margin of Error!!Total!!Male!!65 years and over!!High school graduate (includes equivalency),B15001
+B15001_039M,int,"Margin of Error!!Total!!Male!!65 years and over!!Some college, no degree",B15001
+B15001_040M,int,Margin of Error!!Total!!Male!!65 years and over!!Associate's degree,B15001
+B15001_041M,int,Margin of Error!!Total!!Male!!65 years and over!!Bachelor's degree,B15001
+B15001_042M,int,Margin of Error!!Total!!Male!!65 years and over!!Graduate or professional degree,B15001
+B15001_043M,int,Margin of Error!!Total!!Female,B15001
+B15001_044M,int,Margin of Error!!Total!!Female!!18 to 24 years,B15001
+B15001_045M,int,Margin of Error!!Total!!Female!!18 to 24 years!!Less than 9th grade,B15001
+B15001_046M,int,"Margin of Error!!Total!!Female!!18 to 24 years!!9th to 12th grade, no diploma",B15001
+B15001_047M,int,Margin of Error!!Total!!Female!!18 to 24 years!!High school graduate (includes equivalency),B15001
+B15001_048M,int,"Margin of Error!!Total!!Female!!18 to 24 years!!Some college, no degree",B15001
+B15001_049M,int,Margin of Error!!Total!!Female!!18 to 24 years!!Associate's degree,B15001
+B15001_050M,int,Margin of Error!!Total!!Female!!18 to 24 years!!Bachelor's degree,B15001
+B15001_051M,int,Margin of Error!!Total!!Female!!18 to 24 years!!Graduate or professional degree,B15001
+B15001_052M,int,Margin of Error!!Total!!Female!!25 to 34 years,B15001
+B15001_053M,int,Margin of Error!!Total!!Female!!25 to 34 years!!Less than 9th grade,B15001
+B15001_054M,int,"Margin of Error!!Total!!Female!!25 to 34 years!!9th to 12th grade, no diploma",B15001
+B15001_055M,int,Margin of Error!!Total!!Female!!25 to 34 years!!High school graduate (includes equivalency),B15001
+B15001_056M,int,"Margin of Error!!Total!!Female!!25 to 34 years!!Some college, no degree",B15001
+B15001_057M,int,Margin of Error!!Total!!Female!!25 to 34 years!!Associate's degree,B15001
+B15001_058M,int,Margin of Error!!Total!!Female!!25 to 34 years!!Bachelor's degree,B15001
+B15001_059M,int,Margin of Error!!Total!!Female!!25 to 34 years!!Graduate or professional degree,B15001
+B15001_060M,int,Margin of Error!!Total!!Female!!35 to 44 years,B15001
+B15001_061M,int,Margin of Error!!Total!!Female!!35 to 44 years!!Less than 9th grade,B15001
+B15001_062M,int,"Margin of Error!!Total!!Female!!35 to 44 years!!9th to 12th grade, no diploma",B15001
+B15001_063M,int,Margin of Error!!Total!!Female!!35 to 44 years!!High school graduate (includes equivalency),B15001
+B15001_064M,int,"Margin of Error!!Total!!Female!!35 to 44 years!!Some college, no degree",B15001
+B15001_065M,int,Margin of Error!!Total!!Female!!35 to 44 years!!Associate's degree,B15001
+B15001_066M,int,Margin of Error!!Total!!Female!!35 to 44 years!!Bachelor's degree,B15001
+B15001_067M,int,Margin of Error!!Total!!Female!!35 to 44 years!!Graduate or professional degree,B15001
+B15001_068M,int,Margin of Error!!Total!!Female!!45 to 64 years,B15001
+B15001_069M,int,Margin of Error!!Total!!Female!!45 to 64 years!!Less than 9th grade,B15001
+B15001_070M,int,"Margin of Error!!Total!!Female!!45 to 64 years!!9th to 12th grade, no diploma",B15001
+B15001_071M,int,Margin of Error!!Total!!Female!!45 to 64 years!!High school graduate (includes equivalency),B15001
+B15001_072M,int,"Margin of Error!!Total!!Female!!45 to 64 years!!Some college, no degree",B15001
+B15001_073M,int,Margin of Error!!Total!!Female!!45 to 64 years!!Associate's degree,B15001
+B15001_074M,int,Margin of Error!!Total!!Female!!45 to 64 years!!Bachelor's degree,B15001
+B15001_075M,int,Margin of Error!!Total!!Female!!45 to 64 years!!Graduate or professional degree,B15001
+B15001_076M,int,Margin of Error!!Total!!Female!!65 years and over,B15001
+B15001_077M,int,Margin of Error!!Total!!Female!!65 years and over!!Less than 9th grade,B15001
+B15001_078M,int,"Margin of Error!!Total!!Female!!65 years and over!!9th to 12th grade, no diploma",B15001
+B15001_079M,int,Margin of Error!!Total!!Female!!65 years and over!!High school graduate (includes equivalency),B15001
+B15001_080M,int,"Margin of Error!!Total!!Female!!65 years and over!!Some college, no degree",B15001
+B15001_081M,int,Margin of Error!!Total!!Female!!65 years and over!!Associate's degree,B15001
+B15001_082M,int,Margin of Error!!Total!!Female!!65 years and over!!Bachelor's degree,B15001
+B15001_083M,int,Margin of Error!!Total!!Female!!65 years and over!!Graduate or professional degree,B15001
+B15001_001EA,string,Annotation of Estimate!!Total,B15001
+B15001_001MA,string,Annotation of Margin of Error!!Total,B15001
+B15001_002EA,string,Annotation of Estimate!!Total!!Male,B15001
+B15001_002MA,string,Annotation of Margin of Error!!Total!!Male,B15001
+B15001_003EA,string,Annotation of Estimate!!Total!!Male!!18 to 24 years,B15001
+B15001_003MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 24 years,B15001
+B15001_004EA,string,Annotation of Estimate!!Total!!Male!!18 to 24 years!!Less than 9th grade,B15001
+B15001_004MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 24 years!!Less than 9th grade,B15001
+B15001_005EA,string,"Annotation of Estimate!!Total!!Male!!18 to 24 years!!9th to 12th grade, no diploma",B15001
+B15001_005MA,string,"Annotation of Margin of Error!!Total!!Male!!18 to 24 years!!9th to 12th grade, no diploma",B15001
+B15001_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 24 years!!High school graduate (includes equivalency),B15001
+B15001_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 24 years!!High school graduate (includes equivalency),B15001
+B15001_007EA,string,"Annotation of Estimate!!Total!!Male!!18 to 24 years!!Some college, no degree",B15001
+B15001_007MA,string,"Annotation of Margin of Error!!Total!!Male!!18 to 24 years!!Some college, no degree",B15001
+B15001_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 24 years!!Associate's degree,B15001
+B15001_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 24 years!!Associate's degree,B15001
+B15001_009EA,string,Annotation of Estimate!!Total!!Male!!18 to 24 years!!Bachelor's degree,B15001
+B15001_009MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 24 years!!Bachelor's degree,B15001
+B15001_010EA,string,Annotation of Estimate!!Total!!Male!!18 to 24 years!!Graduate or professional degree,B15001
+B15001_010MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 24 years!!Graduate or professional degree,B15001
+B15001_011EA,string,Annotation of Estimate!!Total!!Male!!25 to 34 years,B15001
+B15001_011MA,string,Annotation of Margin of Error!!Total!!Male!!25 to 34 years,B15001
+B15001_012EA,string,Annotation of Estimate!!Total!!Male!!25 to 34 years!!Less than 9th grade,B15001
+B15001_012MA,string,Annotation of Margin of Error!!Total!!Male!!25 to 34 years!!Less than 9th grade,B15001
+B15001_013EA,string,"Annotation of Estimate!!Total!!Male!!25 to 34 years!!9th to 12th grade, no diploma",B15001
+B15001_013MA,string,"Annotation of Margin of Error!!Total!!Male!!25 to 34 years!!9th to 12th grade, no diploma",B15001
+B15001_014EA,string,Annotation of Estimate!!Total!!Male!!25 to 34 years!!High school graduate (includes equivalency),B15001
+B15001_014MA,string,Annotation of Margin of Error!!Total!!Male!!25 to 34 years!!High school graduate (includes equivalency),B15001
+B15001_015EA,string,"Annotation of Estimate!!Total!!Male!!25 to 34 years!!Some college, no degree",B15001
+B15001_015MA,string,"Annotation of Margin of Error!!Total!!Male!!25 to 34 years!!Some college, no degree",B15001
+B15001_016EA,string,Annotation of Estimate!!Total!!Male!!25 to 34 years!!Associate's degree,B15001
+B15001_016MA,string,Annotation of Margin of Error!!Total!!Male!!25 to 34 years!!Associate's degree,B15001
+B15001_017EA,string,Annotation of Estimate!!Total!!Male!!25 to 34 years!!Bachelor's degree,B15001
+B15001_017MA,string,Annotation of Margin of Error!!Total!!Male!!25 to 34 years!!Bachelor's degree,B15001
+B15001_018EA,string,Annotation of Estimate!!Total!!Male!!25 to 34 years!!Graduate or professional degree,B15001
+B15001_018MA,string,Annotation of Margin of Error!!Total!!Male!!25 to 34 years!!Graduate or professional degree,B15001
+B15001_019EA,string,Annotation of Estimate!!Total!!Male!!35 to 44 years,B15001
+B15001_019MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 44 years,B15001
+B15001_020EA,string,Annotation of Estimate!!Total!!Male!!35 to 44 years!!Less than 9th grade,B15001
+B15001_020MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 44 years!!Less than 9th grade,B15001
+B15001_021EA,string,"Annotation of Estimate!!Total!!Male!!35 to 44 years!!9th to 12th grade, no diploma",B15001
+B15001_021MA,string,"Annotation of Margin of Error!!Total!!Male!!35 to 44 years!!9th to 12th grade, no diploma",B15001
+B15001_022EA,string,Annotation of Estimate!!Total!!Male!!35 to 44 years!!High school graduate (includes equivalency),B15001
+B15001_022MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 44 years!!High school graduate (includes equivalency),B15001
+B15001_023EA,string,"Annotation of Estimate!!Total!!Male!!35 to 44 years!!Some college, no degree",B15001
+B15001_023MA,string,"Annotation of Margin of Error!!Total!!Male!!35 to 44 years!!Some college, no degree",B15001
+B15001_024EA,string,Annotation of Estimate!!Total!!Male!!35 to 44 years!!Associate's degree,B15001
+B15001_024MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 44 years!!Associate's degree,B15001
+B15001_025EA,string,Annotation of Estimate!!Total!!Male!!35 to 44 years!!Bachelor's degree,B15001
+B15001_025MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 44 years!!Bachelor's degree,B15001
+B15001_026EA,string,Annotation of Estimate!!Total!!Male!!35 to 44 years!!Graduate or professional degree,B15001
+B15001_026MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 44 years!!Graduate or professional degree,B15001
+B15001_027EA,string,Annotation of Estimate!!Total!!Male!!45 to 64 years,B15001
+B15001_027MA,string,Annotation of Margin of Error!!Total!!Male!!45 to 64 years,B15001
+B15001_028EA,string,Annotation of Estimate!!Total!!Male!!45 to 64 years!!Less than 9th grade,B15001
+B15001_028MA,string,Annotation of Margin of Error!!Total!!Male!!45 to 64 years!!Less than 9th grade,B15001
+B15001_029EA,string,"Annotation of Estimate!!Total!!Male!!45 to 64 years!!9th to 12th grade, no diploma",B15001
+B15001_029MA,string,"Annotation of Margin of Error!!Total!!Male!!45 to 64 years!!9th to 12th grade, no diploma",B15001
+B15001_030EA,string,Annotation of Estimate!!Total!!Male!!45 to 64 years!!High school graduate (includes equivalency),B15001
+B15001_030MA,string,Annotation of Margin of Error!!Total!!Male!!45 to 64 years!!High school graduate (includes equivalency),B15001
+B15001_031EA,string,"Annotation of Estimate!!Total!!Male!!45 to 64 years!!Some college, no degree",B15001
+B15001_031MA,string,"Annotation of Margin of Error!!Total!!Male!!45 to 64 years!!Some college, no degree",B15001
+B15001_032EA,string,Annotation of Estimate!!Total!!Male!!45 to 64 years!!Associate's degree,B15001
+B15001_032MA,string,Annotation of Margin of Error!!Total!!Male!!45 to 64 years!!Associate's degree,B15001
+B15001_033EA,string,Annotation of Estimate!!Total!!Male!!45 to 64 years!!Bachelor's degree,B15001
+B15001_033MA,string,Annotation of Margin of Error!!Total!!Male!!45 to 64 years!!Bachelor's degree,B15001
+B15001_034EA,string,Annotation of Estimate!!Total!!Male!!45 to 64 years!!Graduate or professional degree,B15001
+B15001_034MA,string,Annotation of Margin of Error!!Total!!Male!!45 to 64 years!!Graduate or professional degree,B15001
+B15001_035EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,B15001
+B15001_035MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,B15001
+B15001_036EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!Less than 9th grade,B15001
+B15001_036MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!Less than 9th grade,B15001
+B15001_037EA,string,"Annotation of Estimate!!Total!!Male!!65 years and over!!9th to 12th grade, no diploma",B15001
+B15001_037MA,string,"Annotation of Margin of Error!!Total!!Male!!65 years and over!!9th to 12th grade, no diploma",B15001
+B15001_038EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!High school graduate (includes equivalency),B15001
+B15001_038MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!High school graduate (includes equivalency),B15001
+B15001_039EA,string,"Annotation of Estimate!!Total!!Male!!65 years and over!!Some college, no degree",B15001
+B15001_039MA,string,"Annotation of Margin of Error!!Total!!Male!!65 years and over!!Some college, no degree",B15001
+B15001_040EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!Associate's degree,B15001
+B15001_040MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!Associate's degree,B15001
+B15001_041EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!Bachelor's degree,B15001
+B15001_041MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!Bachelor's degree,B15001
+B15001_042EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!Graduate or professional degree,B15001
+B15001_042MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!Graduate or professional degree,B15001
+B15001_043EA,string,Annotation of Estimate!!Total!!Female,B15001
+B15001_043MA,string,Annotation of Margin of Error!!Total!!Female,B15001
+B15001_044EA,string,Annotation of Estimate!!Total!!Female!!18 to 24 years,B15001
+B15001_044MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 24 years,B15001
+B15001_045EA,string,Annotation of Estimate!!Total!!Female!!18 to 24 years!!Less than 9th grade,B15001
+B15001_045MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 24 years!!Less than 9th grade,B15001
+B15001_046EA,string,"Annotation of Estimate!!Total!!Female!!18 to 24 years!!9th to 12th grade, no diploma",B15001
+B15001_046MA,string,"Annotation of Margin of Error!!Total!!Female!!18 to 24 years!!9th to 12th grade, no diploma",B15001
+B15001_047EA,string,Annotation of Estimate!!Total!!Female!!18 to 24 years!!High school graduate (includes equivalency),B15001
+B15001_047MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 24 years!!High school graduate (includes equivalency),B15001
+B15001_048EA,string,"Annotation of Estimate!!Total!!Female!!18 to 24 years!!Some college, no degree",B15001
+B15001_048MA,string,"Annotation of Margin of Error!!Total!!Female!!18 to 24 years!!Some college, no degree",B15001
+B15001_049EA,string,Annotation of Estimate!!Total!!Female!!18 to 24 years!!Associate's degree,B15001
+B15001_049MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 24 years!!Associate's degree,B15001
+B15001_050EA,string,Annotation of Estimate!!Total!!Female!!18 to 24 years!!Bachelor's degree,B15001
+B15001_050MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 24 years!!Bachelor's degree,B15001
+B15001_051EA,string,Annotation of Estimate!!Total!!Female!!18 to 24 years!!Graduate or professional degree,B15001
+B15001_051MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 24 years!!Graduate or professional degree,B15001
+B15001_052EA,string,Annotation of Estimate!!Total!!Female!!25 to 34 years,B15001
+B15001_052MA,string,Annotation of Margin of Error!!Total!!Female!!25 to 34 years,B15001
+B15001_053EA,string,Annotation of Estimate!!Total!!Female!!25 to 34 years!!Less than 9th grade,B15001
+B15001_053MA,string,Annotation of Margin of Error!!Total!!Female!!25 to 34 years!!Less than 9th grade,B15001
+B15001_054EA,string,"Annotation of Estimate!!Total!!Female!!25 to 34 years!!9th to 12th grade, no diploma",B15001
+B15001_054MA,string,"Annotation of Margin of Error!!Total!!Female!!25 to 34 years!!9th to 12th grade, no diploma",B15001
+B15001_055EA,string,Annotation of Estimate!!Total!!Female!!25 to 34 years!!High school graduate (includes equivalency),B15001
+B15001_055MA,string,Annotation of Margin of Error!!Total!!Female!!25 to 34 years!!High school graduate (includes equivalency),B15001
+B15001_056EA,string,"Annotation of Estimate!!Total!!Female!!25 to 34 years!!Some college, no degree",B15001
+B15001_056MA,string,"Annotation of Margin of Error!!Total!!Female!!25 to 34 years!!Some college, no degree",B15001
+B15001_057EA,string,Annotation of Estimate!!Total!!Female!!25 to 34 years!!Associate's degree,B15001
+B15001_057MA,string,Annotation of Margin of Error!!Total!!Female!!25 to 34 years!!Associate's degree,B15001
+B15001_058EA,string,Annotation of Estimate!!Total!!Female!!25 to 34 years!!Bachelor's degree,B15001
+B15001_058MA,string,Annotation of Margin of Error!!Total!!Female!!25 to 34 years!!Bachelor's degree,B15001
+B15001_059EA,string,Annotation of Estimate!!Total!!Female!!25 to 34 years!!Graduate or professional degree,B15001
+B15001_059MA,string,Annotation of Margin of Error!!Total!!Female!!25 to 34 years!!Graduate or professional degree,B15001
+B15001_060EA,string,Annotation of Estimate!!Total!!Female!!35 to 44 years,B15001
+B15001_060MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 44 years,B15001
+B15001_061EA,string,Annotation of Estimate!!Total!!Female!!35 to 44 years!!Less than 9th grade,B15001
+B15001_061MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 44 years!!Less than 9th grade,B15001
+B15001_062EA,string,"Annotation of Estimate!!Total!!Female!!35 to 44 years!!9th to 12th grade, no diploma",B15001
+B15001_062MA,string,"Annotation of Margin of Error!!Total!!Female!!35 to 44 years!!9th to 12th grade, no diploma",B15001
+B15001_063EA,string,Annotation of Estimate!!Total!!Female!!35 to 44 years!!High school graduate (includes equivalency),B15001
+B15001_063MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 44 years!!High school graduate (includes equivalency),B15001
+B15001_064EA,string,"Annotation of Estimate!!Total!!Female!!35 to 44 years!!Some college, no degree",B15001
+B15001_064MA,string,"Annotation of Margin of Error!!Total!!Female!!35 to 44 years!!Some college, no degree",B15001
+B15001_065EA,string,Annotation of Estimate!!Total!!Female!!35 to 44 years!!Associate's degree,B15001
+B15001_065MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 44 years!!Associate's degree,B15001
+B15001_066EA,string,Annotation of Estimate!!Total!!Female!!35 to 44 years!!Bachelor's degree,B15001
+B15001_066MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 44 years!!Bachelor's degree,B15001
+B15001_067EA,string,Annotation of Estimate!!Total!!Female!!35 to 44 years!!Graduate or professional degree,B15001
+B15001_067MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 44 years!!Graduate or professional degree,B15001
+B15001_068EA,string,Annotation of Estimate!!Total!!Female!!45 to 64 years,B15001
+B15001_068MA,string,Annotation of Margin of Error!!Total!!Female!!45 to 64 years,B15001
+B15001_069EA,string,Annotation of Estimate!!Total!!Female!!45 to 64 years!!Less than 9th grade,B15001
+B15001_069MA,string,Annotation of Margin of Error!!Total!!Female!!45 to 64 years!!Less than 9th grade,B15001
+B15001_070EA,string,"Annotation of Estimate!!Total!!Female!!45 to 64 years!!9th to 12th grade, no diploma",B15001
+B15001_070MA,string,"Annotation of Margin of Error!!Total!!Female!!45 to 64 years!!9th to 12th grade, no diploma",B15001
+B15001_071EA,string,Annotation of Estimate!!Total!!Female!!45 to 64 years!!High school graduate (includes equivalency),B15001
+B15001_071MA,string,Annotation of Margin of Error!!Total!!Female!!45 to 64 years!!High school graduate (includes equivalency),B15001
+B15001_072EA,string,"Annotation of Estimate!!Total!!Female!!45 to 64 years!!Some college, no degree",B15001
+B15001_072MA,string,"Annotation of Margin of Error!!Total!!Female!!45 to 64 years!!Some college, no degree",B15001
+B15001_073EA,string,Annotation of Estimate!!Total!!Female!!45 to 64 years!!Associate's degree,B15001
+B15001_073MA,string,Annotation of Margin of Error!!Total!!Female!!45 to 64 years!!Associate's degree,B15001
+B15001_074EA,string,Annotation of Estimate!!Total!!Female!!45 to 64 years!!Bachelor's degree,B15001
+B15001_074MA,string,Annotation of Margin of Error!!Total!!Female!!45 to 64 years!!Bachelor's degree,B15001
+B15001_075EA,string,Annotation of Estimate!!Total!!Female!!45 to 64 years!!Graduate or professional degree,B15001
+B15001_075MA,string,Annotation of Margin of Error!!Total!!Female!!45 to 64 years!!Graduate or professional degree,B15001
+B15001_076EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,B15001
+B15001_076MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,B15001
+B15001_077EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!Less than 9th grade,B15001
+B15001_077MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!Less than 9th grade,B15001
+B15001_078EA,string,"Annotation of Estimate!!Total!!Female!!65 years and over!!9th to 12th grade, no diploma",B15001
+B15001_078MA,string,"Annotation of Margin of Error!!Total!!Female!!65 years and over!!9th to 12th grade, no diploma",B15001
+B15001_079EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!High school graduate (includes equivalency),B15001
+B15001_079MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!High school graduate (includes equivalency),B15001
+B15001_080EA,string,"Annotation of Estimate!!Total!!Female!!65 years and over!!Some college, no degree",B15001
+B15001_080MA,string,"Annotation of Margin of Error!!Total!!Female!!65 years and over!!Some college, no degree",B15001
+B15001_081EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!Associate's degree,B15001
+B15001_081MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!Associate's degree,B15001
+B15001_082EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!Bachelor's degree,B15001
+B15001_082MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!Bachelor's degree,B15001
+B15001_083EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!Graduate or professional degree,B15001
+B15001_083MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!Graduate or professional degree,B15001

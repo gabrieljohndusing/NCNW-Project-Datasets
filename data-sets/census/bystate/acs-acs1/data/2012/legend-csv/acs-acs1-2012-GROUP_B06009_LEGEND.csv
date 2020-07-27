@@ -1,0 +1,121 @@
+VARIABLE,TYPE,LABEL,GROUP
+B06009_001E,int,Estimate!!Total,B06009
+B06009_002E,int,Estimate!!Total!!Less than high school graduate,B06009
+B06009_003E,int,Estimate!!Total!!High school graduate (includes equivalency),B06009
+B06009_004E,int,Estimate!!Total!!Some college or associate's degree,B06009
+B06009_005E,int,Estimate!!Total!!Bachelor's degree,B06009
+B06009_006E,int,Estimate!!Total!!Graduate or professional degree,B06009
+B06009_007E,int,Estimate!!Total!!Born in state of residence,B06009
+B06009_008E,int,Estimate!!Total!!Born in state of residence!!Less than high school graduate,B06009
+B06009_009E,int,Estimate!!Total!!Born in state of residence!!High school graduate (includes equivalency),B06009
+B06009_010E,int,Estimate!!Total!!Born in state of residence!!Some college or associate's degree,B06009
+B06009_011E,int,Estimate!!Total!!Born in state of residence!!Bachelor's degree,B06009
+B06009_012E,int,Estimate!!Total!!Born in state of residence!!Graduate or professional degree,B06009
+B06009_013E,int,Estimate!!Total!!Born in other state in the United States,B06009
+B06009_014E,int,Estimate!!Total!!Born in other state in the United States!!Less than high school graduate,B06009
+B06009_015E,int,Estimate!!Total!!Born in other state in the United States!!High school graduate (includes equivalency),B06009
+B06009_016E,int,Estimate!!Total!!Born in other state in the United States!!Some college or associate's degree,B06009
+B06009_017E,int,Estimate!!Total!!Born in other state in the United States!!Bachelor's degree,B06009
+B06009_018E,int,Estimate!!Total!!Born in other state in the United States!!Graduate or professional degree,B06009
+B06009_019E,int,Estimate!!Total!!Native; born outside the United States,B06009
+B06009_020E,int,Estimate!!Total!!Native; born outside the United States!!Less than high school graduate,B06009
+B06009_021E,int,Estimate!!Total!!Native; born outside the United States!!High school graduate (includes equivalency),B06009
+B06009_022E,int,Estimate!!Total!!Native; born outside the United States!!Some college or associate's degree,B06009
+B06009_023E,int,Estimate!!Total!!Native; born outside the United States!!Bachelor's degree,B06009
+B06009_024E,int,Estimate!!Total!!Native; born outside the United States!!Graduate or professional degree,B06009
+B06009_025E,int,Estimate!!Total!!Foreign born,B06009
+B06009_026E,int,Estimate!!Total!!Foreign born!!Less than high school graduate,B06009
+B06009_027E,int,Estimate!!Total!!Foreign born!!High school graduate (includes equivalency),B06009
+B06009_028E,int,Estimate!!Total!!Foreign born!!Some college or associate's degree,B06009
+B06009_029E,int,Estimate!!Total!!Foreign born!!Bachelor's degree,B06009
+B06009_030E,int,Estimate!!Total!!Foreign born!!Graduate or professional degree,B06009
+B06009_001M,int,Margin of Error!!Total,B06009
+B06009_002M,int,Margin of Error!!Total!!Less than high school graduate,B06009
+B06009_003M,int,Margin of Error!!Total!!High school graduate (includes equivalency),B06009
+B06009_004M,int,Margin of Error!!Total!!Some college or associate's degree,B06009
+B06009_005M,int,Margin of Error!!Total!!Bachelor's degree,B06009
+B06009_006M,int,Margin of Error!!Total!!Graduate or professional degree,B06009
+B06009_007M,int,Margin of Error!!Total!!Born in state of residence,B06009
+B06009_008M,int,Margin of Error!!Total!!Born in state of residence!!Less than high school graduate,B06009
+B06009_009M,int,Margin of Error!!Total!!Born in state of residence!!High school graduate (includes equivalency),B06009
+B06009_010M,int,Margin of Error!!Total!!Born in state of residence!!Some college or associate's degree,B06009
+B06009_011M,int,Margin of Error!!Total!!Born in state of residence!!Bachelor's degree,B06009
+B06009_012M,int,Margin of Error!!Total!!Born in state of residence!!Graduate or professional degree,B06009
+B06009_013M,int,Margin of Error!!Total!!Born in other state in the United States,B06009
+B06009_014M,int,Margin of Error!!Total!!Born in other state in the United States!!Less than high school graduate,B06009
+B06009_015M,int,Margin of Error!!Total!!Born in other state in the United States!!High school graduate (includes equivalency),B06009
+B06009_016M,int,Margin of Error!!Total!!Born in other state in the United States!!Some college or associate's degree,B06009
+B06009_017M,int,Margin of Error!!Total!!Born in other state in the United States!!Bachelor's degree,B06009
+B06009_018M,int,Margin of Error!!Total!!Born in other state in the United States!!Graduate or professional degree,B06009
+B06009_019M,int,Margin of Error!!Total!!Native; born outside the United States,B06009
+B06009_020M,int,Margin of Error!!Total!!Native; born outside the United States!!Less than high school graduate,B06009
+B06009_021M,int,Margin of Error!!Total!!Native; born outside the United States!!High school graduate (includes equivalency),B06009
+B06009_022M,int,Margin of Error!!Total!!Native; born outside the United States!!Some college or associate's degree,B06009
+B06009_023M,int,Margin of Error!!Total!!Native; born outside the United States!!Bachelor's degree,B06009
+B06009_024M,int,Margin of Error!!Total!!Native; born outside the United States!!Graduate or professional degree,B06009
+B06009_025M,int,Margin of Error!!Total!!Foreign born,B06009
+B06009_026M,int,Margin of Error!!Total!!Foreign born!!Less than high school graduate,B06009
+B06009_027M,int,Margin of Error!!Total!!Foreign born!!High school graduate (includes equivalency),B06009
+B06009_028M,int,Margin of Error!!Total!!Foreign born!!Some college or associate's degree,B06009
+B06009_029M,int,Margin of Error!!Total!!Foreign born!!Bachelor's degree,B06009
+B06009_030M,int,Margin of Error!!Total!!Foreign born!!Graduate or professional degree,B06009
+B06009_001EA,string,Annotation of Estimate!!Total,B06009
+B06009_001MA,string,Annotation of Margin of Error!!Total,B06009
+B06009_002EA,string,Annotation of Estimate!!Total!!Less than high school graduate,B06009
+B06009_002MA,string,Annotation of Margin of Error!!Total!!Less than high school graduate,B06009
+B06009_003EA,string,Annotation of Estimate!!Total!!High school graduate (includes equivalency),B06009
+B06009_003MA,string,Annotation of Margin of Error!!Total!!High school graduate (includes equivalency),B06009
+B06009_004EA,string,Annotation of Estimate!!Total!!Some college or associate's degree,B06009
+B06009_004MA,string,Annotation of Margin of Error!!Total!!Some college or associate's degree,B06009
+B06009_005EA,string,Annotation of Estimate!!Total!!Bachelor's degree,B06009
+B06009_005MA,string,Annotation of Margin of Error!!Total!!Bachelor's degree,B06009
+B06009_006EA,string,Annotation of Estimate!!Total!!Graduate or professional degree,B06009
+B06009_006MA,string,Annotation of Margin of Error!!Total!!Graduate or professional degree,B06009
+B06009_007EA,string,Annotation of Estimate!!Total!!Born in state of residence,B06009
+B06009_007MA,string,Annotation of Margin of Error!!Total!!Born in state of residence,B06009
+B06009_008EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Less than high school graduate,B06009
+B06009_008MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Less than high school graduate,B06009
+B06009_009EA,string,Annotation of Estimate!!Total!!Born in state of residence!!High school graduate (includes equivalency),B06009
+B06009_009MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!High school graduate (includes equivalency),B06009
+B06009_010EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Some college or associate's degree,B06009
+B06009_010MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Some college or associate's degree,B06009
+B06009_011EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Bachelor's degree,B06009
+B06009_011MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Bachelor's degree,B06009
+B06009_012EA,string,Annotation of Estimate!!Total!!Born in state of residence!!Graduate or professional degree,B06009
+B06009_012MA,string,Annotation of Margin of Error!!Total!!Born in state of residence!!Graduate or professional degree,B06009
+B06009_013EA,string,Annotation of Estimate!!Total!!Born in other state in the United States,B06009
+B06009_013MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States,B06009
+B06009_014EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Less than high school graduate,B06009
+B06009_014MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Less than high school graduate,B06009
+B06009_015EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!High school graduate (includes equivalency),B06009
+B06009_015MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!High school graduate (includes equivalency),B06009
+B06009_016EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Some college or associate's degree,B06009
+B06009_016MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Some college or associate's degree,B06009
+B06009_017EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Bachelor's degree,B06009
+B06009_017MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Bachelor's degree,B06009
+B06009_018EA,string,Annotation of Estimate!!Total!!Born in other state in the United States!!Graduate or professional degree,B06009
+B06009_018MA,string,Annotation of Margin of Error!!Total!!Born in other state in the United States!!Graduate or professional degree,B06009
+B06009_019EA,string,Annotation of Estimate!!Total!!Native; born outside the United States,B06009
+B06009_019MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States,B06009
+B06009_020EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Less than high school graduate,B06009
+B06009_020MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Less than high school graduate,B06009
+B06009_021EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!High school graduate (includes equivalency),B06009
+B06009_021MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!High school graduate (includes equivalency),B06009
+B06009_022EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Some college or associate's degree,B06009
+B06009_022MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Some college or associate's degree,B06009
+B06009_023EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Bachelor's degree,B06009
+B06009_023MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Bachelor's degree,B06009
+B06009_024EA,string,Annotation of Estimate!!Total!!Native; born outside the United States!!Graduate or professional degree,B06009
+B06009_024MA,string,Annotation of Margin of Error!!Total!!Native; born outside the United States!!Graduate or professional degree,B06009
+B06009_025EA,string,Annotation of Estimate!!Total!!Foreign born,B06009
+B06009_025MA,string,Annotation of Margin of Error!!Total!!Foreign born,B06009
+B06009_026EA,string,Annotation of Estimate!!Total!!Foreign born!!Less than high school graduate,B06009
+B06009_026MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Less than high school graduate,B06009
+B06009_027EA,string,Annotation of Estimate!!Total!!Foreign born!!High school graduate (includes equivalency),B06009
+B06009_027MA,string,Annotation of Margin of Error!!Total!!Foreign born!!High school graduate (includes equivalency),B06009
+B06009_028EA,string,Annotation of Estimate!!Total!!Foreign born!!Some college or associate's degree,B06009
+B06009_028MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Some college or associate's degree,B06009
+B06009_029EA,string,Annotation of Estimate!!Total!!Foreign born!!Bachelor's degree,B06009
+B06009_029MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Bachelor's degree,B06009
+B06009_030EA,string,Annotation of Estimate!!Total!!Foreign born!!Graduate or professional degree,B06009
+B06009_030MA,string,Annotation of Margin of Error!!Total!!Foreign born!!Graduate or professional degree,B06009

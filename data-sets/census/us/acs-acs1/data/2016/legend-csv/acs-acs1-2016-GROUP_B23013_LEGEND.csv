@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B23013_001E,int,Estimate!!Total,B23013
+B23013_002E,int,Estimate!!Total!!Male,B23013
+B23013_003E,int,Estimate!!Total!!Female,B23013
+B23013_001M,int,Margin of Error!!Total,B23013
+B23013_002M,int,Margin of Error!!Total!!Male,B23013
+B23013_003M,int,Margin of Error!!Total!!Female,B23013
+B23013_001EA,string,Annotation of Estimate!!Total,B23013
+B23013_001MA,string,Annotation of Margin of Error!!Total,B23013
+B23013_002EA,string,Annotation of Estimate!!Total!!Male,B23013
+B23013_002MA,string,Annotation of Margin of Error!!Total!!Male,B23013
+B23013_003EA,string,Annotation of Estimate!!Total!!Female,B23013
+B23013_003MA,string,Annotation of Margin of Error!!Total!!Female,B23013

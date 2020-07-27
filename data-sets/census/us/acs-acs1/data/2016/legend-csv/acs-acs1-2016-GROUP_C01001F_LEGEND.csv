@@ -1,0 +1,37 @@
+VARIABLE,TYPE,LABEL,GROUP
+C01001F_001E,int,Estimate!!Total,C01001F
+C01001F_002E,int,Estimate!!Total!!Male,C01001F
+C01001F_003E,int,Estimate!!Total!!Male!!Under 18 years,C01001F
+C01001F_004E,int,Estimate!!Total!!Male!!18 to 64 years,C01001F
+C01001F_005E,int,Estimate!!Total!!Male!!65 years and over,C01001F
+C01001F_006E,int,Estimate!!Total!!Female,C01001F
+C01001F_007E,int,Estimate!!Total!!Female!!Under 18 years,C01001F
+C01001F_008E,int,Estimate!!Total!!Female!!18 to 64 years,C01001F
+C01001F_009E,int,Estimate!!Total!!Female!!65 years and over,C01001F
+C01001F_001M,int,Margin of Error!!Total,C01001F
+C01001F_002M,int,Margin of Error!!Total!!Male,C01001F
+C01001F_003M,int,Margin of Error!!Total!!Male!!Under 18 years,C01001F
+C01001F_004M,int,Margin of Error!!Total!!Male!!18 to 64 years,C01001F
+C01001F_005M,int,Margin of Error!!Total!!Male!!65 years and over,C01001F
+C01001F_006M,int,Margin of Error!!Total!!Female,C01001F
+C01001F_007M,int,Margin of Error!!Total!!Female!!Under 18 years,C01001F
+C01001F_008M,int,Margin of Error!!Total!!Female!!18 to 64 years,C01001F
+C01001F_009M,int,Margin of Error!!Total!!Female!!65 years and over,C01001F
+C01001F_001EA,string,Annotation of Estimate!!Total,C01001F
+C01001F_001MA,string,Annotation of Margin of Error!!Total,C01001F
+C01001F_002EA,string,Annotation of Estimate!!Total!!Male,C01001F
+C01001F_002MA,string,Annotation of Margin of Error!!Total!!Male,C01001F
+C01001F_003EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years,C01001F
+C01001F_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years,C01001F
+C01001F_004EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C01001F
+C01001F_004MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C01001F
+C01001F_005EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C01001F
+C01001F_005MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C01001F
+C01001F_006EA,string,Annotation of Estimate!!Total!!Female,C01001F
+C01001F_006MA,string,Annotation of Margin of Error!!Total!!Female,C01001F
+C01001F_007EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years,C01001F
+C01001F_007MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years,C01001F
+C01001F_008EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C01001F
+C01001F_008MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C01001F
+C01001F_009EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C01001F
+C01001F_009MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C01001F

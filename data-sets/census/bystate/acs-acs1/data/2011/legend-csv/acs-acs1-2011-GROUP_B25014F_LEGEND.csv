@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25014F_001E,int,Estimate!!Total,B25014F
+B25014F_002E,int,Estimate!!Total!!1.00 or less occupants per room,B25014F
+B25014F_003E,int,Estimate!!Total!!1.01 or more occupants per room,B25014F
+B25014F_001M,int,Margin of Error!!Total,B25014F
+B25014F_002M,int,Margin of Error!!Total!!1.00 or less occupants per room,B25014F
+B25014F_003M,int,Margin of Error!!Total!!1.01 or more occupants per room,B25014F
+B25014F_001EA,string,Annotation of Estimate!!Total,B25014F
+B25014F_001MA,string,Annotation of Margin of Error!!Total,B25014F
+B25014F_002EA,string,Annotation of Estimate!!Total!!1.00 or less occupants per room,B25014F
+B25014F_002MA,string,Annotation of Margin of Error!!Total!!1.00 or less occupants per room,B25014F
+B25014F_003EA,string,Annotation of Estimate!!Total!!1.01 or more occupants per room,B25014F
+B25014F_003MA,string,Annotation of Margin of Error!!Total!!1.01 or more occupants per room,B25014F

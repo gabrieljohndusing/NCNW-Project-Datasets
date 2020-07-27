@@ -1,0 +1,229 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25095_001E,int,Estimate!!Total,B25095
+B25095_002E,int,"Estimate!!Total!!Less than $10,000",B25095
+B25095_003E,int,"Estimate!!Total!!Less than $10,000!!Less than 20.0 percent",B25095
+B25095_004E,int,"Estimate!!Total!!Less than $10,000!!20.0 to 24.9 percent",B25095
+B25095_005E,int,"Estimate!!Total!!Less than $10,000!!25.0 to 29.9 percent",B25095
+B25095_006E,int,"Estimate!!Total!!Less than $10,000!!30.0 to 34.9 percent",B25095
+B25095_007E,int,"Estimate!!Total!!Less than $10,000!!35.0 percent or more",B25095
+B25095_008E,int,"Estimate!!Total!!Less than $10,000!!Not computed",B25095
+B25095_009E,int,"Estimate!!Total!!$10,000 to $19,999",B25095
+B25095_010E,int,"Estimate!!Total!!$10,000 to $19,999!!Less than 20.0 percent",B25095
+B25095_011E,int,"Estimate!!Total!!$10,000 to $19,999!!20.0 to 24.9 percent",B25095
+B25095_012E,int,"Estimate!!Total!!$10,000 to $19,999!!25.0 to 29.9 percent",B25095
+B25095_013E,int,"Estimate!!Total!!$10,000 to $19,999!!30.0 to 34.9 percent",B25095
+B25095_014E,int,"Estimate!!Total!!$10,000 to $19,999!!35.0 percent or more",B25095
+B25095_015E,int,"Estimate!!Total!!$10,000 to $19,999!!Not computed",B25095
+B25095_016E,int,"Estimate!!Total!!$20,000 to $34,999",B25095
+B25095_017E,int,"Estimate!!Total!!$20,000 to $34,999!!Less than 20.0 percent",B25095
+B25095_018E,int,"Estimate!!Total!!$20,000 to $34,999!!20.0 to 24.9 percent",B25095
+B25095_019E,int,"Estimate!!Total!!$20,000 to $34,999!!25.0 to 29.9 percent",B25095
+B25095_020E,int,"Estimate!!Total!!$20,000 to $34,999!!30.0 to 34.9 percent",B25095
+B25095_021E,int,"Estimate!!Total!!$20,000 to $34,999!!35.0 percent or more",B25095
+B25095_022E,int,"Estimate!!Total!!$20,000 to $34,999!!Not computed",B25095
+B25095_023E,int,"Estimate!!Total!!$35,000 to $49,999",B25095
+B25095_024E,int,"Estimate!!Total!!$35,000 to $49,999!!Less than 20.0 percent",B25095
+B25095_025E,int,"Estimate!!Total!!$35,000 to $49,999!!20.0 to 24.9 percent",B25095
+B25095_026E,int,"Estimate!!Total!!$35,000 to $49,999!!25.0 to 29.9 percent",B25095
+B25095_027E,int,"Estimate!!Total!!$35,000 to $49,999!!30.0 to 34.9 percent",B25095
+B25095_028E,int,"Estimate!!Total!!$35,000 to $49,999!!35.0 percent or more",B25095
+B25095_029E,int,"Estimate!!Total!!$35,000 to $49,999!!Not computed",B25095
+B25095_030E,int,"Estimate!!Total!!$50,000 to $74,999",B25095
+B25095_031E,int,"Estimate!!Total!!$50,000 to $74,999!!Less than 20.0 percent",B25095
+B25095_032E,int,"Estimate!!Total!!$50,000 to $74,999!!20.0 to 24.9 percent",B25095
+B25095_033E,int,"Estimate!!Total!!$50,000 to $74,999!!25.0 to 29.9 percent",B25095
+B25095_034E,int,"Estimate!!Total!!$50,000 to $74,999!!30.0 to 34.9 percent",B25095
+B25095_035E,int,"Estimate!!Total!!$50,000 to $74,999!!35.0 percent or more",B25095
+B25095_036E,int,"Estimate!!Total!!$50,000 to $74,999!!Not computed",B25095
+B25095_037E,int,"Estimate!!Total!!$75,000 to $99,999",B25095
+B25095_038E,int,"Estimate!!Total!!$75,000 to $99,999!!Less than 20.0 percent",B25095
+B25095_039E,int,"Estimate!!Total!!$75,000 to $99,999!!20.0 to 24.9 percent",B25095
+B25095_040E,int,"Estimate!!Total!!$75,000 to $99,999!!25.0 to 29.9 percent",B25095
+B25095_041E,int,"Estimate!!Total!!$75,000 to $99,999!!30.0 to 34.9 percent",B25095
+B25095_042E,int,"Estimate!!Total!!$75,000 to $99,999!!35.0 percent or more",B25095
+B25095_043E,int,"Estimate!!Total!!$75,000 to $99,999!!Not computed",B25095
+B25095_044E,int,"Estimate!!Total!!$100,000 to $149,999",B25095
+B25095_045E,int,"Estimate!!Total!!$100,000 to $149,999!!Less than 20.0 percent",B25095
+B25095_046E,int,"Estimate!!Total!!$100,000 to $149,999!!20.0 to 24.9 percent",B25095
+B25095_047E,int,"Estimate!!Total!!$100,000 to $149,999!!25.0 to 29.9 percent",B25095
+B25095_048E,int,"Estimate!!Total!!$100,000 to $149,999!!30.0 to 34.9 percent",B25095
+B25095_049E,int,"Estimate!!Total!!$100,000 to $149,999!!35.0 percent or more",B25095
+B25095_050E,int,"Estimate!!Total!!$100,000 to $149,999!!Not computed",B25095
+B25095_051E,int,"Estimate!!Total!!$150,000 or more",B25095
+B25095_052E,int,"Estimate!!Total!!$150,000 or more!!Less than 20.0 percent",B25095
+B25095_053E,int,"Estimate!!Total!!$150,000 or more!!20.0 to 24.9 percent",B25095
+B25095_054E,int,"Estimate!!Total!!$150,000 or more!!25.0 to 29.9 percent",B25095
+B25095_055E,int,"Estimate!!Total!!$150,000 or more!!30.0 to 34.9 percent",B25095
+B25095_056E,int,"Estimate!!Total!!$150,000 or more!!35.0 percent or more",B25095
+B25095_057E,int,"Estimate!!Total!!$150,000 or more!!Not computed",B25095
+B25095_001M,int,Margin of Error!!Total,B25095
+B25095_002M,int,"Margin of Error!!Total!!Less than $10,000",B25095
+B25095_003M,int,"Margin of Error!!Total!!Less than $10,000!!Less than 20.0 percent",B25095
+B25095_004M,int,"Margin of Error!!Total!!Less than $10,000!!20.0 to 24.9 percent",B25095
+B25095_005M,int,"Margin of Error!!Total!!Less than $10,000!!25.0 to 29.9 percent",B25095
+B25095_006M,int,"Margin of Error!!Total!!Less than $10,000!!30.0 to 34.9 percent",B25095
+B25095_007M,int,"Margin of Error!!Total!!Less than $10,000!!35.0 percent or more",B25095
+B25095_008M,int,"Margin of Error!!Total!!Less than $10,000!!Not computed",B25095
+B25095_009M,int,"Margin of Error!!Total!!$10,000 to $19,999",B25095
+B25095_010M,int,"Margin of Error!!Total!!$10,000 to $19,999!!Less than 20.0 percent",B25095
+B25095_011M,int,"Margin of Error!!Total!!$10,000 to $19,999!!20.0 to 24.9 percent",B25095
+B25095_012M,int,"Margin of Error!!Total!!$10,000 to $19,999!!25.0 to 29.9 percent",B25095
+B25095_013M,int,"Margin of Error!!Total!!$10,000 to $19,999!!30.0 to 34.9 percent",B25095
+B25095_014M,int,"Margin of Error!!Total!!$10,000 to $19,999!!35.0 percent or more",B25095
+B25095_015M,int,"Margin of Error!!Total!!$10,000 to $19,999!!Not computed",B25095
+B25095_016M,int,"Margin of Error!!Total!!$20,000 to $34,999",B25095
+B25095_017M,int,"Margin of Error!!Total!!$20,000 to $34,999!!Less than 20.0 percent",B25095
+B25095_018M,int,"Margin of Error!!Total!!$20,000 to $34,999!!20.0 to 24.9 percent",B25095
+B25095_019M,int,"Margin of Error!!Total!!$20,000 to $34,999!!25.0 to 29.9 percent",B25095
+B25095_020M,int,"Margin of Error!!Total!!$20,000 to $34,999!!30.0 to 34.9 percent",B25095
+B25095_021M,int,"Margin of Error!!Total!!$20,000 to $34,999!!35.0 percent or more",B25095
+B25095_022M,int,"Margin of Error!!Total!!$20,000 to $34,999!!Not computed",B25095
+B25095_023M,int,"Margin of Error!!Total!!$35,000 to $49,999",B25095
+B25095_024M,int,"Margin of Error!!Total!!$35,000 to $49,999!!Less than 20.0 percent",B25095
+B25095_025M,int,"Margin of Error!!Total!!$35,000 to $49,999!!20.0 to 24.9 percent",B25095
+B25095_026M,int,"Margin of Error!!Total!!$35,000 to $49,999!!25.0 to 29.9 percent",B25095
+B25095_027M,int,"Margin of Error!!Total!!$35,000 to $49,999!!30.0 to 34.9 percent",B25095
+B25095_028M,int,"Margin of Error!!Total!!$35,000 to $49,999!!35.0 percent or more",B25095
+B25095_029M,int,"Margin of Error!!Total!!$35,000 to $49,999!!Not computed",B25095
+B25095_030M,int,"Margin of Error!!Total!!$50,000 to $74,999",B25095
+B25095_031M,int,"Margin of Error!!Total!!$50,000 to $74,999!!Less than 20.0 percent",B25095
+B25095_032M,int,"Margin of Error!!Total!!$50,000 to $74,999!!20.0 to 24.9 percent",B25095
+B25095_033M,int,"Margin of Error!!Total!!$50,000 to $74,999!!25.0 to 29.9 percent",B25095
+B25095_034M,int,"Margin of Error!!Total!!$50,000 to $74,999!!30.0 to 34.9 percent",B25095
+B25095_035M,int,"Margin of Error!!Total!!$50,000 to $74,999!!35.0 percent or more",B25095
+B25095_036M,int,"Margin of Error!!Total!!$50,000 to $74,999!!Not computed",B25095
+B25095_037M,int,"Margin of Error!!Total!!$75,000 to $99,999",B25095
+B25095_038M,int,"Margin of Error!!Total!!$75,000 to $99,999!!Less than 20.0 percent",B25095
+B25095_039M,int,"Margin of Error!!Total!!$75,000 to $99,999!!20.0 to 24.9 percent",B25095
+B25095_040M,int,"Margin of Error!!Total!!$75,000 to $99,999!!25.0 to 29.9 percent",B25095
+B25095_041M,int,"Margin of Error!!Total!!$75,000 to $99,999!!30.0 to 34.9 percent",B25095
+B25095_042M,int,"Margin of Error!!Total!!$75,000 to $99,999!!35.0 percent or more",B25095
+B25095_043M,int,"Margin of Error!!Total!!$75,000 to $99,999!!Not computed",B25095
+B25095_044M,int,"Margin of Error!!Total!!$100,000 to $149,999",B25095
+B25095_045M,int,"Margin of Error!!Total!!$100,000 to $149,999!!Less than 20.0 percent",B25095
+B25095_046M,int,"Margin of Error!!Total!!$100,000 to $149,999!!20.0 to 24.9 percent",B25095
+B25095_047M,int,"Margin of Error!!Total!!$100,000 to $149,999!!25.0 to 29.9 percent",B25095
+B25095_048M,int,"Margin of Error!!Total!!$100,000 to $149,999!!30.0 to 34.9 percent",B25095
+B25095_049M,int,"Margin of Error!!Total!!$100,000 to $149,999!!35.0 percent or more",B25095
+B25095_050M,int,"Margin of Error!!Total!!$100,000 to $149,999!!Not computed",B25095
+B25095_051M,int,"Margin of Error!!Total!!$150,000 or more",B25095
+B25095_052M,int,"Margin of Error!!Total!!$150,000 or more!!Less than 20.0 percent",B25095
+B25095_053M,int,"Margin of Error!!Total!!$150,000 or more!!20.0 to 24.9 percent",B25095
+B25095_054M,int,"Margin of Error!!Total!!$150,000 or more!!25.0 to 29.9 percent",B25095
+B25095_055M,int,"Margin of Error!!Total!!$150,000 or more!!30.0 to 34.9 percent",B25095
+B25095_056M,int,"Margin of Error!!Total!!$150,000 or more!!35.0 percent or more",B25095
+B25095_057M,int,"Margin of Error!!Total!!$150,000 or more!!Not computed",B25095
+B25095_001EA,string,Annotation of Estimate!!Total,B25095
+B25095_001MA,string,Annotation of Margin of Error!!Total,B25095
+B25095_002EA,string,"Annotation of Estimate!!Total!!Less than $10,000",B25095
+B25095_002MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000",B25095
+B25095_003EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!Less than 20.0 percent",B25095
+B25095_003MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!Less than 20.0 percent",B25095
+B25095_004EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!20.0 to 24.9 percent",B25095
+B25095_004MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!20.0 to 24.9 percent",B25095
+B25095_005EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!25.0 to 29.9 percent",B25095
+B25095_005MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!25.0 to 29.9 percent",B25095
+B25095_006EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!30.0 to 34.9 percent",B25095
+B25095_006MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!30.0 to 34.9 percent",B25095
+B25095_007EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!35.0 percent or more",B25095
+B25095_007MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!35.0 percent or more",B25095
+B25095_008EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!Not computed",B25095
+B25095_008MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!Not computed",B25095
+B25095_009EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999",B25095
+B25095_009MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999",B25095
+B25095_010EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!Less than 20.0 percent",B25095
+B25095_010MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!Less than 20.0 percent",B25095
+B25095_011EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!20.0 to 24.9 percent",B25095
+B25095_011MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!20.0 to 24.9 percent",B25095
+B25095_012EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!25.0 to 29.9 percent",B25095
+B25095_012MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!25.0 to 29.9 percent",B25095
+B25095_013EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!30.0 to 34.9 percent",B25095
+B25095_013MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!30.0 to 34.9 percent",B25095
+B25095_014EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!35.0 percent or more",B25095
+B25095_014MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!35.0 percent or more",B25095
+B25095_015EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!Not computed",B25095
+B25095_015MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!Not computed",B25095
+B25095_016EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999",B25095
+B25095_016MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999",B25095
+B25095_017EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!Less than 20.0 percent",B25095
+B25095_017MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!Less than 20.0 percent",B25095
+B25095_018EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!20.0 to 24.9 percent",B25095
+B25095_018MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!20.0 to 24.9 percent",B25095
+B25095_019EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!25.0 to 29.9 percent",B25095
+B25095_019MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!25.0 to 29.9 percent",B25095
+B25095_020EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!30.0 to 34.9 percent",B25095
+B25095_020MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!30.0 to 34.9 percent",B25095
+B25095_021EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!35.0 percent or more",B25095
+B25095_021MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!35.0 percent or more",B25095
+B25095_022EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!Not computed",B25095
+B25095_022MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!Not computed",B25095
+B25095_023EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999",B25095
+B25095_023MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999",B25095
+B25095_024EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!Less than 20.0 percent",B25095
+B25095_024MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!Less than 20.0 percent",B25095
+B25095_025EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!20.0 to 24.9 percent",B25095
+B25095_025MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!20.0 to 24.9 percent",B25095
+B25095_026EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!25.0 to 29.9 percent",B25095
+B25095_026MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!25.0 to 29.9 percent",B25095
+B25095_027EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!30.0 to 34.9 percent",B25095
+B25095_027MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!30.0 to 34.9 percent",B25095
+B25095_028EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!35.0 percent or more",B25095
+B25095_028MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!35.0 percent or more",B25095
+B25095_029EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!Not computed",B25095
+B25095_029MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!Not computed",B25095
+B25095_030EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999",B25095
+B25095_030MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999",B25095
+B25095_031EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!Less than 20.0 percent",B25095
+B25095_031MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!Less than 20.0 percent",B25095
+B25095_032EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!20.0 to 24.9 percent",B25095
+B25095_032MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!20.0 to 24.9 percent",B25095
+B25095_033EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!25.0 to 29.9 percent",B25095
+B25095_033MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!25.0 to 29.9 percent",B25095
+B25095_034EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!30.0 to 34.9 percent",B25095
+B25095_034MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!30.0 to 34.9 percent",B25095
+B25095_035EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!35.0 percent or more",B25095
+B25095_035MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!35.0 percent or more",B25095
+B25095_036EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!Not computed",B25095
+B25095_036MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!Not computed",B25095
+B25095_037EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999",B25095
+B25095_037MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999",B25095
+B25095_038EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!Less than 20.0 percent",B25095
+B25095_038MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!Less than 20.0 percent",B25095
+B25095_039EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!20.0 to 24.9 percent",B25095
+B25095_039MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!20.0 to 24.9 percent",B25095
+B25095_040EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!25.0 to 29.9 percent",B25095
+B25095_040MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!25.0 to 29.9 percent",B25095
+B25095_041EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!30.0 to 34.9 percent",B25095
+B25095_041MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!30.0 to 34.9 percent",B25095
+B25095_042EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!35.0 percent or more",B25095
+B25095_042MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!35.0 percent or more",B25095
+B25095_043EA,string,"Annotation of Estimate!!Total!!$75,000 to $99,999!!Not computed",B25095
+B25095_043MA,string,"Annotation of Margin of Error!!Total!!$75,000 to $99,999!!Not computed",B25095
+B25095_044EA,string,"Annotation of Estimate!!Total!!$100,000 to $149,999",B25095
+B25095_044MA,string,"Annotation of Margin of Error!!Total!!$100,000 to $149,999",B25095
+B25095_045EA,string,"Annotation of Estimate!!Total!!$100,000 to $149,999!!Less than 20.0 percent",B25095
+B25095_045MA,string,"Annotation of Margin of Error!!Total!!$100,000 to $149,999!!Less than 20.0 percent",B25095
+B25095_046EA,string,"Annotation of Estimate!!Total!!$100,000 to $149,999!!20.0 to 24.9 percent",B25095
+B25095_046MA,string,"Annotation of Margin of Error!!Total!!$100,000 to $149,999!!20.0 to 24.9 percent",B25095
+B25095_047EA,string,"Annotation of Estimate!!Total!!$100,000 to $149,999!!25.0 to 29.9 percent",B25095
+B25095_047MA,string,"Annotation of Margin of Error!!Total!!$100,000 to $149,999!!25.0 to 29.9 percent",B25095
+B25095_048EA,string,"Annotation of Estimate!!Total!!$100,000 to $149,999!!30.0 to 34.9 percent",B25095
+B25095_048MA,string,"Annotation of Margin of Error!!Total!!$100,000 to $149,999!!30.0 to 34.9 percent",B25095
+B25095_049EA,string,"Annotation of Estimate!!Total!!$100,000 to $149,999!!35.0 percent or more",B25095
+B25095_049MA,string,"Annotation of Margin of Error!!Total!!$100,000 to $149,999!!35.0 percent or more",B25095
+B25095_050EA,string,"Annotation of Estimate!!Total!!$100,000 to $149,999!!Not computed",B25095
+B25095_050MA,string,"Annotation of Margin of Error!!Total!!$100,000 to $149,999!!Not computed",B25095
+B25095_051EA,string,"Annotation of Estimate!!Total!!$150,000 or more",B25095
+B25095_051MA,string,"Annotation of Margin of Error!!Total!!$150,000 or more",B25095
+B25095_052EA,string,"Annotation of Estimate!!Total!!$150,000 or more!!Less than 20.0 percent",B25095
+B25095_052MA,string,"Annotation of Margin of Error!!Total!!$150,000 or more!!Less than 20.0 percent",B25095
+B25095_053EA,string,"Annotation of Estimate!!Total!!$150,000 or more!!20.0 to 24.9 percent",B25095
+B25095_053MA,string,"Annotation of Margin of Error!!Total!!$150,000 or more!!20.0 to 24.9 percent",B25095
+B25095_054EA,string,"Annotation of Estimate!!Total!!$150,000 or more!!25.0 to 29.9 percent",B25095
+B25095_054MA,string,"Annotation of Margin of Error!!Total!!$150,000 or more!!25.0 to 29.9 percent",B25095
+B25095_055EA,string,"Annotation of Estimate!!Total!!$150,000 or more!!30.0 to 34.9 percent",B25095
+B25095_055MA,string,"Annotation of Margin of Error!!Total!!$150,000 or more!!30.0 to 34.9 percent",B25095
+B25095_056EA,string,"Annotation of Estimate!!Total!!$150,000 or more!!35.0 percent or more",B25095
+B25095_056MA,string,"Annotation of Margin of Error!!Total!!$150,000 or more!!35.0 percent or more",B25095
+B25095_057EA,string,"Annotation of Estimate!!Total!!$150,000 or more!!Not computed",B25095
+B25095_057MA,string,"Annotation of Margin of Error!!Total!!$150,000 or more!!Not computed",B25095

@@ -1,0 +1,229 @@
+VARIABLE,TYPE,LABEL,GROUP
+B14003_001E,int,Estimate!!Total,B14003
+B14003_002E,int,Estimate!!Total!!Male,B14003
+B14003_003E,int,Estimate!!Total!!Male!!Enrolled in public school,B14003
+B14003_004E,int,Estimate!!Total!!Male!!Enrolled in public school!!3 and 4 years,B14003
+B14003_005E,int,Estimate!!Total!!Male!!Enrolled in public school!!5 to 9 years,B14003
+B14003_006E,int,Estimate!!Total!!Male!!Enrolled in public school!!10 to 14 years,B14003
+B14003_007E,int,Estimate!!Total!!Male!!Enrolled in public school!!15 to 17 years,B14003
+B14003_008E,int,Estimate!!Total!!Male!!Enrolled in public school!!18 and 19 years,B14003
+B14003_009E,int,Estimate!!Total!!Male!!Enrolled in public school!!20 to 24 years,B14003
+B14003_010E,int,Estimate!!Total!!Male!!Enrolled in public school!!25 to 34 years,B14003
+B14003_011E,int,Estimate!!Total!!Male!!Enrolled in public school!!35 years and over,B14003
+B14003_012E,int,Estimate!!Total!!Male!!Enrolled in private school,B14003
+B14003_013E,int,Estimate!!Total!!Male!!Enrolled in private school!!3 and 4 years,B14003
+B14003_014E,int,Estimate!!Total!!Male!!Enrolled in private school!!5 to 9 years,B14003
+B14003_015E,int,Estimate!!Total!!Male!!Enrolled in private school!!10 to 14 years,B14003
+B14003_016E,int,Estimate!!Total!!Male!!Enrolled in private school!!15 to 17 years,B14003
+B14003_017E,int,Estimate!!Total!!Male!!Enrolled in private school!!18 and 19 years,B14003
+B14003_018E,int,Estimate!!Total!!Male!!Enrolled in private school!!20 to 24 years,B14003
+B14003_019E,int,Estimate!!Total!!Male!!Enrolled in private school!!25 to 34 years,B14003
+B14003_020E,int,Estimate!!Total!!Male!!Enrolled in private school!!35 years and over,B14003
+B14003_021E,int,Estimate!!Total!!Male!!Not enrolled in school,B14003
+B14003_022E,int,Estimate!!Total!!Male!!Not enrolled in school!!3 and 4 years,B14003
+B14003_023E,int,Estimate!!Total!!Male!!Not enrolled in school!!5 to 9 years,B14003
+B14003_024E,int,Estimate!!Total!!Male!!Not enrolled in school!!10 to 14 years,B14003
+B14003_025E,int,Estimate!!Total!!Male!!Not enrolled in school!!15 to 17 years,B14003
+B14003_026E,int,Estimate!!Total!!Male!!Not enrolled in school!!18 and 19 years,B14003
+B14003_027E,int,Estimate!!Total!!Male!!Not enrolled in school!!20 to 24 years,B14003
+B14003_028E,int,Estimate!!Total!!Male!!Not enrolled in school!!25 to 34 years,B14003
+B14003_029E,int,Estimate!!Total!!Male!!Not enrolled in school!!35 years and over,B14003
+B14003_030E,int,Estimate!!Total!!Female,B14003
+B14003_031E,int,Estimate!!Total!!Female!!Enrolled in public school,B14003
+B14003_032E,int,Estimate!!Total!!Female!!Enrolled in public school!!3 and 4 years,B14003
+B14003_033E,int,Estimate!!Total!!Female!!Enrolled in public school!!5 to 9 years,B14003
+B14003_034E,int,Estimate!!Total!!Female!!Enrolled in public school!!10 to 14 years,B14003
+B14003_035E,int,Estimate!!Total!!Female!!Enrolled in public school!!15 to 17 years,B14003
+B14003_036E,int,Estimate!!Total!!Female!!Enrolled in public school!!18 and 19 years,B14003
+B14003_037E,int,Estimate!!Total!!Female!!Enrolled in public school!!20 to 24 years,B14003
+B14003_038E,int,Estimate!!Total!!Female!!Enrolled in public school!!25 to 34 years,B14003
+B14003_039E,int,Estimate!!Total!!Female!!Enrolled in public school!!35 years and over,B14003
+B14003_040E,int,Estimate!!Total!!Female!!Enrolled in private school,B14003
+B14003_041E,int,Estimate!!Total!!Female!!Enrolled in private school!!3 and 4 years,B14003
+B14003_042E,int,Estimate!!Total!!Female!!Enrolled in private school!!5 to 9 years,B14003
+B14003_043E,int,Estimate!!Total!!Female!!Enrolled in private school!!10 to 14 years,B14003
+B14003_044E,int,Estimate!!Total!!Female!!Enrolled in private school!!15 to 17 years,B14003
+B14003_045E,int,Estimate!!Total!!Female!!Enrolled in private school!!18 and 19 years,B14003
+B14003_046E,int,Estimate!!Total!!Female!!Enrolled in private school!!20 to 24 years,B14003
+B14003_047E,int,Estimate!!Total!!Female!!Enrolled in private school!!25 to 34 years,B14003
+B14003_048E,int,Estimate!!Total!!Female!!Enrolled in private school!!35 years and over,B14003
+B14003_049E,int,Estimate!!Total!!Female!!Not enrolled in school,B14003
+B14003_050E,int,Estimate!!Total!!Female!!Not enrolled in school!!3 and 4 years,B14003
+B14003_051E,int,Estimate!!Total!!Female!!Not enrolled in school!!5 to 9 years,B14003
+B14003_052E,int,Estimate!!Total!!Female!!Not enrolled in school!!10 to 14 years,B14003
+B14003_053E,int,Estimate!!Total!!Female!!Not enrolled in school!!15 to 17 years,B14003
+B14003_054E,int,Estimate!!Total!!Female!!Not enrolled in school!!18 and 19 years,B14003
+B14003_055E,int,Estimate!!Total!!Female!!Not enrolled in school!!20 to 24 years,B14003
+B14003_056E,int,Estimate!!Total!!Female!!Not enrolled in school!!25 to 34 years,B14003
+B14003_057E,int,Estimate!!Total!!Female!!Not enrolled in school!!35 years and over,B14003
+B14003_001M,int,Margin of Error!!Total,B14003
+B14003_002M,int,Margin of Error!!Total!!Male,B14003
+B14003_003M,int,Margin of Error!!Total!!Male!!Enrolled in public school,B14003
+B14003_004M,int,Margin of Error!!Total!!Male!!Enrolled in public school!!3 and 4 years,B14003
+B14003_005M,int,Margin of Error!!Total!!Male!!Enrolled in public school!!5 to 9 years,B14003
+B14003_006M,int,Margin of Error!!Total!!Male!!Enrolled in public school!!10 to 14 years,B14003
+B14003_007M,int,Margin of Error!!Total!!Male!!Enrolled in public school!!15 to 17 years,B14003
+B14003_008M,int,Margin of Error!!Total!!Male!!Enrolled in public school!!18 and 19 years,B14003
+B14003_009M,int,Margin of Error!!Total!!Male!!Enrolled in public school!!20 to 24 years,B14003
+B14003_010M,int,Margin of Error!!Total!!Male!!Enrolled in public school!!25 to 34 years,B14003
+B14003_011M,int,Margin of Error!!Total!!Male!!Enrolled in public school!!35 years and over,B14003
+B14003_012M,int,Margin of Error!!Total!!Male!!Enrolled in private school,B14003
+B14003_013M,int,Margin of Error!!Total!!Male!!Enrolled in private school!!3 and 4 years,B14003
+B14003_014M,int,Margin of Error!!Total!!Male!!Enrolled in private school!!5 to 9 years,B14003
+B14003_015M,int,Margin of Error!!Total!!Male!!Enrolled in private school!!10 to 14 years,B14003
+B14003_016M,int,Margin of Error!!Total!!Male!!Enrolled in private school!!15 to 17 years,B14003
+B14003_017M,int,Margin of Error!!Total!!Male!!Enrolled in private school!!18 and 19 years,B14003
+B14003_018M,int,Margin of Error!!Total!!Male!!Enrolled in private school!!20 to 24 years,B14003
+B14003_019M,int,Margin of Error!!Total!!Male!!Enrolled in private school!!25 to 34 years,B14003
+B14003_020M,int,Margin of Error!!Total!!Male!!Enrolled in private school!!35 years and over,B14003
+B14003_021M,int,Margin of Error!!Total!!Male!!Not enrolled in school,B14003
+B14003_022M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!3 and 4 years,B14003
+B14003_023M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!5 to 9 years,B14003
+B14003_024M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!10 to 14 years,B14003
+B14003_025M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!15 to 17 years,B14003
+B14003_026M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!18 and 19 years,B14003
+B14003_027M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!20 to 24 years,B14003
+B14003_028M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!25 to 34 years,B14003
+B14003_029M,int,Margin of Error!!Total!!Male!!Not enrolled in school!!35 years and over,B14003
+B14003_030M,int,Margin of Error!!Total!!Female,B14003
+B14003_031M,int,Margin of Error!!Total!!Female!!Enrolled in public school,B14003
+B14003_032M,int,Margin of Error!!Total!!Female!!Enrolled in public school!!3 and 4 years,B14003
+B14003_033M,int,Margin of Error!!Total!!Female!!Enrolled in public school!!5 to 9 years,B14003
+B14003_034M,int,Margin of Error!!Total!!Female!!Enrolled in public school!!10 to 14 years,B14003
+B14003_035M,int,Margin of Error!!Total!!Female!!Enrolled in public school!!15 to 17 years,B14003
+B14003_036M,int,Margin of Error!!Total!!Female!!Enrolled in public school!!18 and 19 years,B14003
+B14003_037M,int,Margin of Error!!Total!!Female!!Enrolled in public school!!20 to 24 years,B14003
+B14003_038M,int,Margin of Error!!Total!!Female!!Enrolled in public school!!25 to 34 years,B14003
+B14003_039M,int,Margin of Error!!Total!!Female!!Enrolled in public school!!35 years and over,B14003
+B14003_040M,int,Margin of Error!!Total!!Female!!Enrolled in private school,B14003
+B14003_041M,int,Margin of Error!!Total!!Female!!Enrolled in private school!!3 and 4 years,B14003
+B14003_042M,int,Margin of Error!!Total!!Female!!Enrolled in private school!!5 to 9 years,B14003
+B14003_043M,int,Margin of Error!!Total!!Female!!Enrolled in private school!!10 to 14 years,B14003
+B14003_044M,int,Margin of Error!!Total!!Female!!Enrolled in private school!!15 to 17 years,B14003
+B14003_045M,int,Margin of Error!!Total!!Female!!Enrolled in private school!!18 and 19 years,B14003
+B14003_046M,int,Margin of Error!!Total!!Female!!Enrolled in private school!!20 to 24 years,B14003
+B14003_047M,int,Margin of Error!!Total!!Female!!Enrolled in private school!!25 to 34 years,B14003
+B14003_048M,int,Margin of Error!!Total!!Female!!Enrolled in private school!!35 years and over,B14003
+B14003_049M,int,Margin of Error!!Total!!Female!!Not enrolled in school,B14003
+B14003_050M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!3 and 4 years,B14003
+B14003_051M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!5 to 9 years,B14003
+B14003_052M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!10 to 14 years,B14003
+B14003_053M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!15 to 17 years,B14003
+B14003_054M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!18 and 19 years,B14003
+B14003_055M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!20 to 24 years,B14003
+B14003_056M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!25 to 34 years,B14003
+B14003_057M,int,Margin of Error!!Total!!Female!!Not enrolled in school!!35 years and over,B14003
+B14003_001EA,string,Annotation of Estimate!!Total,B14003
+B14003_001MA,string,Annotation of Margin of Error!!Total,B14003
+B14003_002EA,string,Annotation of Estimate!!Total!!Male,B14003
+B14003_002MA,string,Annotation of Margin of Error!!Total!!Male,B14003
+B14003_003EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school,B14003
+B14003_003MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school,B14003
+B14003_004EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school!!3 and 4 years,B14003
+B14003_004MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school!!3 and 4 years,B14003
+B14003_005EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school!!5 to 9 years,B14003
+B14003_005MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school!!5 to 9 years,B14003
+B14003_006EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school!!10 to 14 years,B14003
+B14003_006MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school!!10 to 14 years,B14003
+B14003_007EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school!!15 to 17 years,B14003
+B14003_007MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school!!15 to 17 years,B14003
+B14003_008EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school!!18 and 19 years,B14003
+B14003_008MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school!!18 and 19 years,B14003
+B14003_009EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school!!20 to 24 years,B14003
+B14003_009MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school!!20 to 24 years,B14003
+B14003_010EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school!!25 to 34 years,B14003
+B14003_010MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school!!25 to 34 years,B14003
+B14003_011EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in public school!!35 years and over,B14003
+B14003_011MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in public school!!35 years and over,B14003
+B14003_012EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school,B14003
+B14003_012MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school,B14003
+B14003_013EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school!!3 and 4 years,B14003
+B14003_013MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school!!3 and 4 years,B14003
+B14003_014EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school!!5 to 9 years,B14003
+B14003_014MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school!!5 to 9 years,B14003
+B14003_015EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school!!10 to 14 years,B14003
+B14003_015MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school!!10 to 14 years,B14003
+B14003_016EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school!!15 to 17 years,B14003
+B14003_016MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school!!15 to 17 years,B14003
+B14003_017EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school!!18 and 19 years,B14003
+B14003_017MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school!!18 and 19 years,B14003
+B14003_018EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school!!20 to 24 years,B14003
+B14003_018MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school!!20 to 24 years,B14003
+B14003_019EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school!!25 to 34 years,B14003
+B14003_019MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school!!25 to 34 years,B14003
+B14003_020EA,string,Annotation of Estimate!!Total!!Male!!Enrolled in private school!!35 years and over,B14003
+B14003_020MA,string,Annotation of Margin of Error!!Total!!Male!!Enrolled in private school!!35 years and over,B14003
+B14003_021EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school,B14003
+B14003_021MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school,B14003
+B14003_022EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!3 and 4 years,B14003
+B14003_022MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!3 and 4 years,B14003
+B14003_023EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!5 to 9 years,B14003
+B14003_023MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!5 to 9 years,B14003
+B14003_024EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!10 to 14 years,B14003
+B14003_024MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!10 to 14 years,B14003
+B14003_025EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!15 to 17 years,B14003
+B14003_025MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!15 to 17 years,B14003
+B14003_026EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!18 and 19 years,B14003
+B14003_026MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!18 and 19 years,B14003
+B14003_027EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!20 to 24 years,B14003
+B14003_027MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!20 to 24 years,B14003
+B14003_028EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!25 to 34 years,B14003
+B14003_028MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!25 to 34 years,B14003
+B14003_029EA,string,Annotation of Estimate!!Total!!Male!!Not enrolled in school!!35 years and over,B14003
+B14003_029MA,string,Annotation of Margin of Error!!Total!!Male!!Not enrolled in school!!35 years and over,B14003
+B14003_030EA,string,Annotation of Estimate!!Total!!Female,B14003
+B14003_030MA,string,Annotation of Margin of Error!!Total!!Female,B14003
+B14003_031EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school,B14003
+B14003_031MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school,B14003
+B14003_032EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school!!3 and 4 years,B14003
+B14003_032MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school!!3 and 4 years,B14003
+B14003_033EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school!!5 to 9 years,B14003
+B14003_033MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school!!5 to 9 years,B14003
+B14003_034EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school!!10 to 14 years,B14003
+B14003_034MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school!!10 to 14 years,B14003
+B14003_035EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school!!15 to 17 years,B14003
+B14003_035MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school!!15 to 17 years,B14003
+B14003_036EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school!!18 and 19 years,B14003
+B14003_036MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school!!18 and 19 years,B14003
+B14003_037EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school!!20 to 24 years,B14003
+B14003_037MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school!!20 to 24 years,B14003
+B14003_038EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school!!25 to 34 years,B14003
+B14003_038MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school!!25 to 34 years,B14003
+B14003_039EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in public school!!35 years and over,B14003
+B14003_039MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in public school!!35 years and over,B14003
+B14003_040EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school,B14003
+B14003_040MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school,B14003
+B14003_041EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school!!3 and 4 years,B14003
+B14003_041MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school!!3 and 4 years,B14003
+B14003_042EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school!!5 to 9 years,B14003
+B14003_042MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school!!5 to 9 years,B14003
+B14003_043EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school!!10 to 14 years,B14003
+B14003_043MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school!!10 to 14 years,B14003
+B14003_044EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school!!15 to 17 years,B14003
+B14003_044MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school!!15 to 17 years,B14003
+B14003_045EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school!!18 and 19 years,B14003
+B14003_045MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school!!18 and 19 years,B14003
+B14003_046EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school!!20 to 24 years,B14003
+B14003_046MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school!!20 to 24 years,B14003
+B14003_047EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school!!25 to 34 years,B14003
+B14003_047MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school!!25 to 34 years,B14003
+B14003_048EA,string,Annotation of Estimate!!Total!!Female!!Enrolled in private school!!35 years and over,B14003
+B14003_048MA,string,Annotation of Margin of Error!!Total!!Female!!Enrolled in private school!!35 years and over,B14003
+B14003_049EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school,B14003
+B14003_049MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school,B14003
+B14003_050EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!3 and 4 years,B14003
+B14003_050MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!3 and 4 years,B14003
+B14003_051EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!5 to 9 years,B14003
+B14003_051MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!5 to 9 years,B14003
+B14003_052EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!10 to 14 years,B14003
+B14003_052MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!10 to 14 years,B14003
+B14003_053EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!15 to 17 years,B14003
+B14003_053MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!15 to 17 years,B14003
+B14003_054EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!18 and 19 years,B14003
+B14003_054MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!18 and 19 years,B14003
+B14003_055EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!20 to 24 years,B14003
+B14003_055MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!20 to 24 years,B14003
+B14003_056EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!25 to 34 years,B14003
+B14003_056MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!25 to 34 years,B14003
+B14003_057EA,string,Annotation of Estimate!!Total!!Female!!Not enrolled in school!!35 years and over,B14003
+B14003_057MA,string,Annotation of Margin of Error!!Total!!Female!!Not enrolled in school!!35 years and over,B14003

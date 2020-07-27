@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B10057_001E,int,Estimate!!Total,B10057
+B10057_002E,int,Estimate!!Total!!Now married (including separated and spouse absent),B10057
+B10057_003E,int,Estimate!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years,B10057
+B10057_004E,int,Estimate!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years!!30 to 59 years,B10057
+B10057_005E,int,Estimate!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years!!60 years and over,B10057
+B10057_006E,int,Estimate!!Total!!Now married (including separated and spouse absent)!!Grandparent not responsible for own grandchildren under 18 years,B10057
+B10057_007E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)",B10057
+B10057_008E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years",B10057
+B10057_009E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years!!30 to 59 years",B10057
+B10057_010E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years!!60 years and over",B10057
+B10057_011E,int,"Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent not responsible for own grandchildren under 18 years",B10057
+B10057_001M,int,Margin of Error!!Total,B10057
+B10057_002M,int,Margin of Error!!Total!!Now married (including separated and spouse absent),B10057
+B10057_003M,int,Margin of Error!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years,B10057
+B10057_004M,int,Margin of Error!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years!!30 to 59 years,B10057
+B10057_005M,int,Margin of Error!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years!!60 years and over,B10057
+B10057_006M,int,Margin of Error!!Total!!Now married (including separated and spouse absent)!!Grandparent not responsible for own grandchildren under 18 years,B10057
+B10057_007M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)",B10057
+B10057_008M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years",B10057
+B10057_009M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years!!30 to 59 years",B10057
+B10057_010M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years!!60 years and over",B10057
+B10057_011M,int,"Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent not responsible for own grandchildren under 18 years",B10057
+B10057_001EA,string,Annotation of Estimate!!Total,B10057
+B10057_001MA,string,Annotation of Margin of Error!!Total,B10057
+B10057_002EA,string,Annotation of Estimate!!Total!!Now married (including separated and spouse absent),B10057
+B10057_002MA,string,Annotation of Margin of Error!!Total!!Now married (including separated and spouse absent),B10057
+B10057_003EA,string,Annotation of Estimate!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years,B10057
+B10057_003MA,string,Annotation of Margin of Error!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years,B10057
+B10057_004EA,string,Annotation of Estimate!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years!!30 to 59 years,B10057
+B10057_004MA,string,Annotation of Margin of Error!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years!!30 to 59 years,B10057
+B10057_005EA,string,Annotation of Estimate!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years!!60 years and over,B10057
+B10057_005MA,string,Annotation of Margin of Error!!Total!!Now married (including separated and spouse absent)!!Grandparent responsible for own grandchildren under 18 years!!60 years and over,B10057
+B10057_006EA,string,Annotation of Estimate!!Total!!Now married (including separated and spouse absent)!!Grandparent not responsible for own grandchildren under 18 years,B10057
+B10057_006MA,string,Annotation of Margin of Error!!Total!!Now married (including separated and spouse absent)!!Grandparent not responsible for own grandchildren under 18 years,B10057
+B10057_007EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)",B10057
+B10057_007MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)",B10057
+B10057_008EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years",B10057
+B10057_008MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years",B10057
+B10057_009EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years!!30 to 59 years",B10057
+B10057_009MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years!!30 to 59 years",B10057
+B10057_010EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years!!60 years and over",B10057
+B10057_010MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent responsible for own grandchildren under 18 years!!60 years and over",B10057
+B10057_011EA,string,"Annotation of Estimate!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent not responsible for own grandchildren under 18 years",B10057
+B10057_011MA,string,"Annotation of Margin of Error!!Total!!Unmarried (never married, widowed, and divorced)!!Grandparent not responsible for own grandchildren under 18 years",B10057

@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B18140_001E,int,Estimate!!Total,B18140
+B18140_002E,int,Estimate!!Total!!With a disability,B18140
+B18140_003E,int,Estimate!!Total!!With a disability!!Male,B18140
+B18140_004E,int,Estimate!!Total!!With a disability!!Female,B18140
+B18140_005E,int,Estimate!!Total!!No disability,B18140
+B18140_006E,int,Estimate!!Total!!No disability!!Male,B18140
+B18140_007E,int,Estimate!!Total!!No disability!!Female,B18140
+B18140_001M,int,Margin of Error!!Total,B18140
+B18140_002M,int,Margin of Error!!Total!!With a disability,B18140
+B18140_003M,int,Margin of Error!!Total!!With a disability!!Male,B18140
+B18140_004M,int,Margin of Error!!Total!!With a disability!!Female,B18140
+B18140_005M,int,Margin of Error!!Total!!No disability,B18140
+B18140_006M,int,Margin of Error!!Total!!No disability!!Male,B18140
+B18140_007M,int,Margin of Error!!Total!!No disability!!Female,B18140
+B18140_001EA,string,Annotation of Estimate!!Total,B18140
+B18140_001MA,string,Annotation of Margin of Error!!Total,B18140
+B18140_002EA,string,Annotation of Estimate!!Total!!With a disability,B18140
+B18140_002MA,string,Annotation of Margin of Error!!Total!!With a disability,B18140
+B18140_003EA,string,Annotation of Estimate!!Total!!With a disability!!Male,B18140
+B18140_003MA,string,Annotation of Margin of Error!!Total!!With a disability!!Male,B18140
+B18140_004EA,string,Annotation of Estimate!!Total!!With a disability!!Female,B18140
+B18140_004MA,string,Annotation of Margin of Error!!Total!!With a disability!!Female,B18140
+B18140_005EA,string,Annotation of Estimate!!Total!!No disability,B18140
+B18140_005MA,string,Annotation of Margin of Error!!Total!!No disability,B18140
+B18140_006EA,string,Annotation of Estimate!!Total!!No disability!!Male,B18140
+B18140_006MA,string,Annotation of Margin of Error!!Total!!No disability!!Male,B18140
+B18140_007EA,string,Annotation of Estimate!!Total!!No disability!!Female,B18140
+B18140_007MA,string,Annotation of Margin of Error!!Total!!No disability!!Female,B18140

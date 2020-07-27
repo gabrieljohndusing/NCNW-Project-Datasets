@@ -1,0 +1,197 @@
+VARIABLE,TYPE,LABEL,GROUP
+B01001_001E,int,Estimate!!Total,B01001
+B01001_002E,int,Estimate!!Total!!Male,B01001
+B01001_003E,int,Estimate!!Total!!Male!!Under 5 years,B01001
+B01001_004E,int,Estimate!!Total!!Male!!5 to 9 years,B01001
+B01001_005E,int,Estimate!!Total!!Male!!10 to 14 years,B01001
+B01001_006E,int,Estimate!!Total!!Male!!15 to 17 years,B01001
+B01001_007E,int,Estimate!!Total!!Male!!18 and 19 years,B01001
+B01001_008E,int,Estimate!!Total!!Male!!20 years,B01001
+B01001_009E,int,Estimate!!Total!!Male!!21 years,B01001
+B01001_010E,int,Estimate!!Total!!Male!!22 to 24 years,B01001
+B01001_011E,int,Estimate!!Total!!Male!!25 to 29 years,B01001
+B01001_012E,int,Estimate!!Total!!Male!!30 to 34 years,B01001
+B01001_013E,int,Estimate!!Total!!Male!!35 to 39 years,B01001
+B01001_014E,int,Estimate!!Total!!Male!!40 to 44 years,B01001
+B01001_015E,int,Estimate!!Total!!Male!!45 to 49 years,B01001
+B01001_016E,int,Estimate!!Total!!Male!!50 to 54 years,B01001
+B01001_017E,int,Estimate!!Total!!Male!!55 to 59 years,B01001
+B01001_018E,int,Estimate!!Total!!Male!!60 and 61 years,B01001
+B01001_019E,int,Estimate!!Total!!Male!!62 to 64 years,B01001
+B01001_020E,int,Estimate!!Total!!Male!!65 and 66 years,B01001
+B01001_021E,int,Estimate!!Total!!Male!!67 to 69 years,B01001
+B01001_022E,int,Estimate!!Total!!Male!!70 to 74 years,B01001
+B01001_023E,int,Estimate!!Total!!Male!!75 to 79 years,B01001
+B01001_024E,int,Estimate!!Total!!Male!!80 to 84 years,B01001
+B01001_025E,int,Estimate!!Total!!Male!!85 years and over,B01001
+B01001_026E,int,Estimate!!Total!!Female,B01001
+B01001_027E,int,Estimate!!Total!!Female!!Under 5 years,B01001
+B01001_028E,int,Estimate!!Total!!Female!!5 to 9 years,B01001
+B01001_029E,int,Estimate!!Total!!Female!!10 to 14 years,B01001
+B01001_030E,int,Estimate!!Total!!Female!!15 to 17 years,B01001
+B01001_031E,int,Estimate!!Total!!Female!!18 and 19 years,B01001
+B01001_032E,int,Estimate!!Total!!Female!!20 years,B01001
+B01001_033E,int,Estimate!!Total!!Female!!21 years,B01001
+B01001_034E,int,Estimate!!Total!!Female!!22 to 24 years,B01001
+B01001_035E,int,Estimate!!Total!!Female!!25 to 29 years,B01001
+B01001_036E,int,Estimate!!Total!!Female!!30 to 34 years,B01001
+B01001_037E,int,Estimate!!Total!!Female!!35 to 39 years,B01001
+B01001_038E,int,Estimate!!Total!!Female!!40 to 44 years,B01001
+B01001_039E,int,Estimate!!Total!!Female!!45 to 49 years,B01001
+B01001_040E,int,Estimate!!Total!!Female!!50 to 54 years,B01001
+B01001_041E,int,Estimate!!Total!!Female!!55 to 59 years,B01001
+B01001_042E,int,Estimate!!Total!!Female!!60 and 61 years,B01001
+B01001_043E,int,Estimate!!Total!!Female!!62 to 64 years,B01001
+B01001_044E,int,Estimate!!Total!!Female!!65 and 66 years,B01001
+B01001_045E,int,Estimate!!Total!!Female!!67 to 69 years,B01001
+B01001_046E,int,Estimate!!Total!!Female!!70 to 74 years,B01001
+B01001_047E,int,Estimate!!Total!!Female!!75 to 79 years,B01001
+B01001_048E,int,Estimate!!Total!!Female!!80 to 84 years,B01001
+B01001_049E,int,Estimate!!Total!!Female!!85 years and over,B01001
+B01001_001M,int,Margin of Error!!Total,B01001
+B01001_002M,int,Margin of Error!!Total!!Male,B01001
+B01001_003M,int,Margin of Error!!Total!!Male!!Under 5 years,B01001
+B01001_004M,int,Margin of Error!!Total!!Male!!5 to 9 years,B01001
+B01001_005M,int,Margin of Error!!Total!!Male!!10 to 14 years,B01001
+B01001_006M,int,Margin of Error!!Total!!Male!!15 to 17 years,B01001
+B01001_007M,int,Margin of Error!!Total!!Male!!18 and 19 years,B01001
+B01001_008M,int,Margin of Error!!Total!!Male!!20 years,B01001
+B01001_009M,int,Margin of Error!!Total!!Male!!21 years,B01001
+B01001_010M,int,Margin of Error!!Total!!Male!!22 to 24 years,B01001
+B01001_011M,int,Margin of Error!!Total!!Male!!25 to 29 years,B01001
+B01001_012M,int,Margin of Error!!Total!!Male!!30 to 34 years,B01001
+B01001_013M,int,Margin of Error!!Total!!Male!!35 to 39 years,B01001
+B01001_014M,int,Margin of Error!!Total!!Male!!40 to 44 years,B01001
+B01001_015M,int,Margin of Error!!Total!!Male!!45 to 49 years,B01001
+B01001_016M,int,Margin of Error!!Total!!Male!!50 to 54 years,B01001
+B01001_017M,int,Margin of Error!!Total!!Male!!55 to 59 years,B01001
+B01001_018M,int,Margin of Error!!Total!!Male!!60 and 61 years,B01001
+B01001_019M,int,Margin of Error!!Total!!Male!!62 to 64 years,B01001
+B01001_020M,int,Margin of Error!!Total!!Male!!65 and 66 years,B01001
+B01001_021M,int,Margin of Error!!Total!!Male!!67 to 69 years,B01001
+B01001_022M,int,Margin of Error!!Total!!Male!!70 to 74 years,B01001
+B01001_023M,int,Margin of Error!!Total!!Male!!75 to 79 years,B01001
+B01001_024M,int,Margin of Error!!Total!!Male!!80 to 84 years,B01001
+B01001_025M,int,Margin of Error!!Total!!Male!!85 years and over,B01001
+B01001_026M,int,Margin of Error!!Total!!Female,B01001
+B01001_027M,int,Margin of Error!!Total!!Female!!Under 5 years,B01001
+B01001_028M,int,Margin of Error!!Total!!Female!!5 to 9 years,B01001
+B01001_029M,int,Margin of Error!!Total!!Female!!10 to 14 years,B01001
+B01001_030M,int,Margin of Error!!Total!!Female!!15 to 17 years,B01001
+B01001_031M,int,Margin of Error!!Total!!Female!!18 and 19 years,B01001
+B01001_032M,int,Margin of Error!!Total!!Female!!20 years,B01001
+B01001_033M,int,Margin of Error!!Total!!Female!!21 years,B01001
+B01001_034M,int,Margin of Error!!Total!!Female!!22 to 24 years,B01001
+B01001_035M,int,Margin of Error!!Total!!Female!!25 to 29 years,B01001
+B01001_036M,int,Margin of Error!!Total!!Female!!30 to 34 years,B01001
+B01001_037M,int,Margin of Error!!Total!!Female!!35 to 39 years,B01001
+B01001_038M,int,Margin of Error!!Total!!Female!!40 to 44 years,B01001
+B01001_039M,int,Margin of Error!!Total!!Female!!45 to 49 years,B01001
+B01001_040M,int,Margin of Error!!Total!!Female!!50 to 54 years,B01001
+B01001_041M,int,Margin of Error!!Total!!Female!!55 to 59 years,B01001
+B01001_042M,int,Margin of Error!!Total!!Female!!60 and 61 years,B01001
+B01001_043M,int,Margin of Error!!Total!!Female!!62 to 64 years,B01001
+B01001_044M,int,Margin of Error!!Total!!Female!!65 and 66 years,B01001
+B01001_045M,int,Margin of Error!!Total!!Female!!67 to 69 years,B01001
+B01001_046M,int,Margin of Error!!Total!!Female!!70 to 74 years,B01001
+B01001_047M,int,Margin of Error!!Total!!Female!!75 to 79 years,B01001
+B01001_048M,int,Margin of Error!!Total!!Female!!80 to 84 years,B01001
+B01001_049M,int,Margin of Error!!Total!!Female!!85 years and over,B01001
+B01001_001EA,string,Annotation of Estimate!!Total,B01001
+B01001_001MA,string,Annotation of Margin of Error!!Total,B01001
+B01001_002EA,string,Annotation of Estimate!!Total!!Male,B01001
+B01001_002MA,string,Annotation of Margin of Error!!Total!!Male,B01001
+B01001_003EA,string,Annotation of Estimate!!Total!!Male!!Under 5 years,B01001
+B01001_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 5 years,B01001
+B01001_004EA,string,Annotation of Estimate!!Total!!Male!!5 to 9 years,B01001
+B01001_004MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 9 years,B01001
+B01001_005EA,string,Annotation of Estimate!!Total!!Male!!10 to 14 years,B01001
+B01001_005MA,string,Annotation of Margin of Error!!Total!!Male!!10 to 14 years,B01001
+B01001_006EA,string,Annotation of Estimate!!Total!!Male!!15 to 17 years,B01001
+B01001_006MA,string,Annotation of Margin of Error!!Total!!Male!!15 to 17 years,B01001
+B01001_007EA,string,Annotation of Estimate!!Total!!Male!!18 and 19 years,B01001
+B01001_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 and 19 years,B01001
+B01001_008EA,string,Annotation of Estimate!!Total!!Male!!20 years,B01001
+B01001_008MA,string,Annotation of Margin of Error!!Total!!Male!!20 years,B01001
+B01001_009EA,string,Annotation of Estimate!!Total!!Male!!21 years,B01001
+B01001_009MA,string,Annotation of Margin of Error!!Total!!Male!!21 years,B01001
+B01001_010EA,string,Annotation of Estimate!!Total!!Male!!22 to 24 years,B01001
+B01001_010MA,string,Annotation of Margin of Error!!Total!!Male!!22 to 24 years,B01001
+B01001_011EA,string,Annotation of Estimate!!Total!!Male!!25 to 29 years,B01001
+B01001_011MA,string,Annotation of Margin of Error!!Total!!Male!!25 to 29 years,B01001
+B01001_012EA,string,Annotation of Estimate!!Total!!Male!!30 to 34 years,B01001
+B01001_012MA,string,Annotation of Margin of Error!!Total!!Male!!30 to 34 years,B01001
+B01001_013EA,string,Annotation of Estimate!!Total!!Male!!35 to 39 years,B01001
+B01001_013MA,string,Annotation of Margin of Error!!Total!!Male!!35 to 39 years,B01001
+B01001_014EA,string,Annotation of Estimate!!Total!!Male!!40 to 44 years,B01001
+B01001_014MA,string,Annotation of Margin of Error!!Total!!Male!!40 to 44 years,B01001
+B01001_015EA,string,Annotation of Estimate!!Total!!Male!!45 to 49 years,B01001
+B01001_015MA,string,Annotation of Margin of Error!!Total!!Male!!45 to 49 years,B01001
+B01001_016EA,string,Annotation of Estimate!!Total!!Male!!50 to 54 years,B01001
+B01001_016MA,string,Annotation of Margin of Error!!Total!!Male!!50 to 54 years,B01001
+B01001_017EA,string,Annotation of Estimate!!Total!!Male!!55 to 59 years,B01001
+B01001_017MA,string,Annotation of Margin of Error!!Total!!Male!!55 to 59 years,B01001
+B01001_018EA,string,Annotation of Estimate!!Total!!Male!!60 and 61 years,B01001
+B01001_018MA,string,Annotation of Margin of Error!!Total!!Male!!60 and 61 years,B01001
+B01001_019EA,string,Annotation of Estimate!!Total!!Male!!62 to 64 years,B01001
+B01001_019MA,string,Annotation of Margin of Error!!Total!!Male!!62 to 64 years,B01001
+B01001_020EA,string,Annotation of Estimate!!Total!!Male!!65 and 66 years,B01001
+B01001_020MA,string,Annotation of Margin of Error!!Total!!Male!!65 and 66 years,B01001
+B01001_021EA,string,Annotation of Estimate!!Total!!Male!!67 to 69 years,B01001
+B01001_021MA,string,Annotation of Margin of Error!!Total!!Male!!67 to 69 years,B01001
+B01001_022EA,string,Annotation of Estimate!!Total!!Male!!70 to 74 years,B01001
+B01001_022MA,string,Annotation of Margin of Error!!Total!!Male!!70 to 74 years,B01001
+B01001_023EA,string,Annotation of Estimate!!Total!!Male!!75 to 79 years,B01001
+B01001_023MA,string,Annotation of Margin of Error!!Total!!Male!!75 to 79 years,B01001
+B01001_024EA,string,Annotation of Estimate!!Total!!Male!!80 to 84 years,B01001
+B01001_024MA,string,Annotation of Margin of Error!!Total!!Male!!80 to 84 years,B01001
+B01001_025EA,string,Annotation of Estimate!!Total!!Male!!85 years and over,B01001
+B01001_025MA,string,Annotation of Margin of Error!!Total!!Male!!85 years and over,B01001
+B01001_026EA,string,Annotation of Estimate!!Total!!Female,B01001
+B01001_026MA,string,Annotation of Margin of Error!!Total!!Female,B01001
+B01001_027EA,string,Annotation of Estimate!!Total!!Female!!Under 5 years,B01001
+B01001_027MA,string,Annotation of Margin of Error!!Total!!Female!!Under 5 years,B01001
+B01001_028EA,string,Annotation of Estimate!!Total!!Female!!5 to 9 years,B01001
+B01001_028MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 9 years,B01001
+B01001_029EA,string,Annotation of Estimate!!Total!!Female!!10 to 14 years,B01001
+B01001_029MA,string,Annotation of Margin of Error!!Total!!Female!!10 to 14 years,B01001
+B01001_030EA,string,Annotation of Estimate!!Total!!Female!!15 to 17 years,B01001
+B01001_030MA,string,Annotation of Margin of Error!!Total!!Female!!15 to 17 years,B01001
+B01001_031EA,string,Annotation of Estimate!!Total!!Female!!18 and 19 years,B01001
+B01001_031MA,string,Annotation of Margin of Error!!Total!!Female!!18 and 19 years,B01001
+B01001_032EA,string,Annotation of Estimate!!Total!!Female!!20 years,B01001
+B01001_032MA,string,Annotation of Margin of Error!!Total!!Female!!20 years,B01001
+B01001_033EA,string,Annotation of Estimate!!Total!!Female!!21 years,B01001
+B01001_033MA,string,Annotation of Margin of Error!!Total!!Female!!21 years,B01001
+B01001_034EA,string,Annotation of Estimate!!Total!!Female!!22 to 24 years,B01001
+B01001_034MA,string,Annotation of Margin of Error!!Total!!Female!!22 to 24 years,B01001
+B01001_035EA,string,Annotation of Estimate!!Total!!Female!!25 to 29 years,B01001
+B01001_035MA,string,Annotation of Margin of Error!!Total!!Female!!25 to 29 years,B01001
+B01001_036EA,string,Annotation of Estimate!!Total!!Female!!30 to 34 years,B01001
+B01001_036MA,string,Annotation of Margin of Error!!Total!!Female!!30 to 34 years,B01001
+B01001_037EA,string,Annotation of Estimate!!Total!!Female!!35 to 39 years,B01001
+B01001_037MA,string,Annotation of Margin of Error!!Total!!Female!!35 to 39 years,B01001
+B01001_038EA,string,Annotation of Estimate!!Total!!Female!!40 to 44 years,B01001
+B01001_038MA,string,Annotation of Margin of Error!!Total!!Female!!40 to 44 years,B01001
+B01001_039EA,string,Annotation of Estimate!!Total!!Female!!45 to 49 years,B01001
+B01001_039MA,string,Annotation of Margin of Error!!Total!!Female!!45 to 49 years,B01001
+B01001_040EA,string,Annotation of Estimate!!Total!!Female!!50 to 54 years,B01001
+B01001_040MA,string,Annotation of Margin of Error!!Total!!Female!!50 to 54 years,B01001
+B01001_041EA,string,Annotation of Estimate!!Total!!Female!!55 to 59 years,B01001
+B01001_041MA,string,Annotation of Margin of Error!!Total!!Female!!55 to 59 years,B01001
+B01001_042EA,string,Annotation of Estimate!!Total!!Female!!60 and 61 years,B01001
+B01001_042MA,string,Annotation of Margin of Error!!Total!!Female!!60 and 61 years,B01001
+B01001_043EA,string,Annotation of Estimate!!Total!!Female!!62 to 64 years,B01001
+B01001_043MA,string,Annotation of Margin of Error!!Total!!Female!!62 to 64 years,B01001
+B01001_044EA,string,Annotation of Estimate!!Total!!Female!!65 and 66 years,B01001
+B01001_044MA,string,Annotation of Margin of Error!!Total!!Female!!65 and 66 years,B01001
+B01001_045EA,string,Annotation of Estimate!!Total!!Female!!67 to 69 years,B01001
+B01001_045MA,string,Annotation of Margin of Error!!Total!!Female!!67 to 69 years,B01001
+B01001_046EA,string,Annotation of Estimate!!Total!!Female!!70 to 74 years,B01001
+B01001_046MA,string,Annotation of Margin of Error!!Total!!Female!!70 to 74 years,B01001
+B01001_047EA,string,Annotation of Estimate!!Total!!Female!!75 to 79 years,B01001
+B01001_047MA,string,Annotation of Margin of Error!!Total!!Female!!75 to 79 years,B01001
+B01001_048EA,string,Annotation of Estimate!!Total!!Female!!80 to 84 years,B01001
+B01001_048MA,string,Annotation of Margin of Error!!Total!!Female!!80 to 84 years,B01001
+B01001_049EA,string,Annotation of Estimate!!Total!!Female!!85 years and over,B01001
+B01001_049MA,string,Annotation of Margin of Error!!Total!!Female!!85 years and over,B01001

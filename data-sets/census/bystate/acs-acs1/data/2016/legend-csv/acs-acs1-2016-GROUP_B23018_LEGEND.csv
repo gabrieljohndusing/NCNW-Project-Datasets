@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B23018_001E,int,Estimate!!Aggregate usual hours,B23018
+B23018_002E,int,Estimate!!Aggregate usual hours!!Male,B23018
+B23018_003E,int,Estimate!!Aggregate usual hours!!Female,B23018
+B23018_001M,int,Margin of Error!!Aggregate usual hours,B23018
+B23018_002M,int,Margin of Error!!Aggregate usual hours!!Male,B23018
+B23018_003M,int,Margin of Error!!Aggregate usual hours!!Female,B23018
+B23018_001EA,string,Annotation of Estimate!!Aggregate usual hours,B23018
+B23018_001MA,string,Annotation of Margin of Error!!Aggregate usual hours,B23018
+B23018_002EA,string,Annotation of Estimate!!Aggregate usual hours!!Male,B23018
+B23018_002MA,string,Annotation of Margin of Error!!Aggregate usual hours!!Male,B23018
+B23018_003EA,string,Annotation of Estimate!!Aggregate usual hours!!Female,B23018
+B23018_003MA,string,Annotation of Margin of Error!!Aggregate usual hours!!Female,B23018

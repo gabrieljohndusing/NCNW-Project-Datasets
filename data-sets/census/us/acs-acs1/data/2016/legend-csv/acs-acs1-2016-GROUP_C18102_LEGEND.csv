@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18102_001E,int,Estimate!!Total,C18102
+C18102_002E,int,Estimate!!Total!!Male,C18102
+C18102_003E,int,Estimate!!Total!!Male!!Under 18 years,C18102
+C18102_004E,int,Estimate!!Total!!Male!!Under 18 years!!With a hearing difficulty,C18102
+C18102_005E,int,Estimate!!Total!!Male!!Under 18 years!!No hearing difficulty,C18102
+C18102_006E,int,Estimate!!Total!!Male!!18 to 64 years,C18102
+C18102_007E,int,Estimate!!Total!!Male!!18 to 64 years!!With a hearing difficulty,C18102
+C18102_008E,int,Estimate!!Total!!Male!!18 to 64 years!!No hearing difficulty,C18102
+C18102_009E,int,Estimate!!Total!!Male!!65 years and over,C18102
+C18102_010E,int,Estimate!!Total!!Male!!65 years and over!!With a hearing difficulty,C18102
+C18102_011E,int,Estimate!!Total!!Male!!65 years and over!!No hearing difficulty,C18102
+C18102_012E,int,Estimate!!Total!!Female,C18102
+C18102_013E,int,Estimate!!Total!!Female!!Under 18 years,C18102
+C18102_014E,int,Estimate!!Total!!Female!!Under 18 years!!With a hearing difficulty,C18102
+C18102_015E,int,Estimate!!Total!!Female!!Under 18 years!!No hearing difficulty,C18102
+C18102_016E,int,Estimate!!Total!!Female!!18 to 64 years,C18102
+C18102_017E,int,Estimate!!Total!!Female!!18 to 64 years!!With a hearing difficulty,C18102
+C18102_018E,int,Estimate!!Total!!Female!!18 to 64 years!!No hearing difficulty,C18102
+C18102_019E,int,Estimate!!Total!!Female!!65 years and over,C18102
+C18102_020E,int,Estimate!!Total!!Female!!65 years and over!!With a hearing difficulty,C18102
+C18102_021E,int,Estimate!!Total!!Female!!65 years and over!!No hearing difficulty,C18102
+C18102_001M,int,Margin of Error!!Total,C18102
+C18102_002M,int,Margin of Error!!Total!!Male,C18102
+C18102_003M,int,Margin of Error!!Total!!Male!!Under 18 years,C18102
+C18102_004M,int,Margin of Error!!Total!!Male!!Under 18 years!!With a hearing difficulty,C18102
+C18102_005M,int,Margin of Error!!Total!!Male!!Under 18 years!!No hearing difficulty,C18102
+C18102_006M,int,Margin of Error!!Total!!Male!!18 to 64 years,C18102
+C18102_007M,int,Margin of Error!!Total!!Male!!18 to 64 years!!With a hearing difficulty,C18102
+C18102_008M,int,Margin of Error!!Total!!Male!!18 to 64 years!!No hearing difficulty,C18102
+C18102_009M,int,Margin of Error!!Total!!Male!!65 years and over,C18102
+C18102_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With a hearing difficulty,C18102
+C18102_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No hearing difficulty,C18102
+C18102_012M,int,Margin of Error!!Total!!Female,C18102
+C18102_013M,int,Margin of Error!!Total!!Female!!Under 18 years,C18102
+C18102_014M,int,Margin of Error!!Total!!Female!!Under 18 years!!With a hearing difficulty,C18102
+C18102_015M,int,Margin of Error!!Total!!Female!!Under 18 years!!No hearing difficulty,C18102
+C18102_016M,int,Margin of Error!!Total!!Female!!18 to 64 years,C18102
+C18102_017M,int,Margin of Error!!Total!!Female!!18 to 64 years!!With a hearing difficulty,C18102
+C18102_018M,int,Margin of Error!!Total!!Female!!18 to 64 years!!No hearing difficulty,C18102
+C18102_019M,int,Margin of Error!!Total!!Female!!65 years and over,C18102
+C18102_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With a hearing difficulty,C18102
+C18102_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No hearing difficulty,C18102
+C18102_001EA,string,Annotation of Estimate!!Total,C18102
+C18102_001MA,string,Annotation of Margin of Error!!Total,C18102
+C18102_002EA,string,Annotation of Estimate!!Total!!Male,C18102
+C18102_002MA,string,Annotation of Margin of Error!!Total!!Male,C18102
+C18102_003EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years,C18102
+C18102_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years,C18102
+C18102_004EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!With a hearing difficulty,C18102
+C18102_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!With a hearing difficulty,C18102
+C18102_005EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!No hearing difficulty,C18102
+C18102_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!No hearing difficulty,C18102
+C18102_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C18102
+C18102_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C18102
+C18102_007EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!With a hearing difficulty,C18102
+C18102_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!With a hearing difficulty,C18102
+C18102_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!No hearing difficulty,C18102
+C18102_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!No hearing difficulty,C18102
+C18102_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C18102
+C18102_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C18102
+C18102_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With a hearing difficulty,C18102
+C18102_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With a hearing difficulty,C18102
+C18102_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No hearing difficulty,C18102
+C18102_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No hearing difficulty,C18102
+C18102_012EA,string,Annotation of Estimate!!Total!!Female,C18102
+C18102_012MA,string,Annotation of Margin of Error!!Total!!Female,C18102
+C18102_013EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years,C18102
+C18102_013MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years,C18102
+C18102_014EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!With a hearing difficulty,C18102
+C18102_014MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!With a hearing difficulty,C18102
+C18102_015EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!No hearing difficulty,C18102
+C18102_015MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!No hearing difficulty,C18102
+C18102_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C18102
+C18102_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C18102
+C18102_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!With a hearing difficulty,C18102
+C18102_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!With a hearing difficulty,C18102
+C18102_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!No hearing difficulty,C18102
+C18102_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!No hearing difficulty,C18102
+C18102_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C18102
+C18102_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C18102
+C18102_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With a hearing difficulty,C18102
+C18102_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With a hearing difficulty,C18102
+C18102_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No hearing difficulty,C18102
+C18102_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No hearing difficulty,C18102

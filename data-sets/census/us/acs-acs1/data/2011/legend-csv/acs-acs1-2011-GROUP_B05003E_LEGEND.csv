@@ -1,0 +1,93 @@
+VARIABLE,TYPE,LABEL,GROUP
+B05003E_001E,int,Estimate!!Total,B05003E
+B05003E_002E,int,Estimate!!Total!!Male,B05003E
+B05003E_003E,int,Estimate!!Total!!Male!!Under 18 years,B05003E
+B05003E_004E,int,Estimate!!Total!!Male!!Under 18 years!!Native,B05003E
+B05003E_005E,int,Estimate!!Total!!Male!!Under 18 years!!Foreign born,B05003E
+B05003E_006E,int,Estimate!!Total!!Male!!Under 18 years!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_007E,int,Estimate!!Total!!Male!!Under 18 years!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_008E,int,Estimate!!Total!!Male!!18 years and over,B05003E
+B05003E_009E,int,Estimate!!Total!!Male!!18 years and over!!Native,B05003E
+B05003E_010E,int,Estimate!!Total!!Male!!18 years and over!!Foreign born,B05003E
+B05003E_011E,int,Estimate!!Total!!Male!!18 years and over!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_012E,int,Estimate!!Total!!Male!!18 years and over!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_013E,int,Estimate!!Total!!Female,B05003E
+B05003E_014E,int,Estimate!!Total!!Female!!Under 18 years,B05003E
+B05003E_015E,int,Estimate!!Total!!Female!!Under 18 years!!Native,B05003E
+B05003E_016E,int,Estimate!!Total!!Female!!Under 18 years!!Foreign born,B05003E
+B05003E_017E,int,Estimate!!Total!!Female!!Under 18 years!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_018E,int,Estimate!!Total!!Female!!Under 18 years!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_019E,int,Estimate!!Total!!Female!!18 years and over,B05003E
+B05003E_020E,int,Estimate!!Total!!Female!!18 years and over!!Native,B05003E
+B05003E_021E,int,Estimate!!Total!!Female!!18 years and over!!Foreign born,B05003E
+B05003E_022E,int,Estimate!!Total!!Female!!18 years and over!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_023E,int,Estimate!!Total!!Female!!18 years and over!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_001M,int,Margin of Error!!Total,B05003E
+B05003E_002M,int,Margin of Error!!Total!!Male,B05003E
+B05003E_003M,int,Margin of Error!!Total!!Male!!Under 18 years,B05003E
+B05003E_004M,int,Margin of Error!!Total!!Male!!Under 18 years!!Native,B05003E
+B05003E_005M,int,Margin of Error!!Total!!Male!!Under 18 years!!Foreign born,B05003E
+B05003E_006M,int,Margin of Error!!Total!!Male!!Under 18 years!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_007M,int,Margin of Error!!Total!!Male!!Under 18 years!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_008M,int,Margin of Error!!Total!!Male!!18 years and over,B05003E
+B05003E_009M,int,Margin of Error!!Total!!Male!!18 years and over!!Native,B05003E
+B05003E_010M,int,Margin of Error!!Total!!Male!!18 years and over!!Foreign born,B05003E
+B05003E_011M,int,Margin of Error!!Total!!Male!!18 years and over!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_012M,int,Margin of Error!!Total!!Male!!18 years and over!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_013M,int,Margin of Error!!Total!!Female,B05003E
+B05003E_014M,int,Margin of Error!!Total!!Female!!Under 18 years,B05003E
+B05003E_015M,int,Margin of Error!!Total!!Female!!Under 18 years!!Native,B05003E
+B05003E_016M,int,Margin of Error!!Total!!Female!!Under 18 years!!Foreign born,B05003E
+B05003E_017M,int,Margin of Error!!Total!!Female!!Under 18 years!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_018M,int,Margin of Error!!Total!!Female!!Under 18 years!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_019M,int,Margin of Error!!Total!!Female!!18 years and over,B05003E
+B05003E_020M,int,Margin of Error!!Total!!Female!!18 years and over!!Native,B05003E
+B05003E_021M,int,Margin of Error!!Total!!Female!!18 years and over!!Foreign born,B05003E
+B05003E_022M,int,Margin of Error!!Total!!Female!!18 years and over!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_023M,int,Margin of Error!!Total!!Female!!18 years and over!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_001EA,string,Annotation of Estimate!!Total,B05003E
+B05003E_001MA,string,Annotation of Margin of Error!!Total,B05003E
+B05003E_002EA,string,Annotation of Estimate!!Total!!Male,B05003E
+B05003E_002MA,string,Annotation of Margin of Error!!Total!!Male,B05003E
+B05003E_003EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years,B05003E
+B05003E_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years,B05003E
+B05003E_004EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!Native,B05003E
+B05003E_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!Native,B05003E
+B05003E_005EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!Foreign born,B05003E
+B05003E_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!Foreign born,B05003E
+B05003E_006EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_006MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_007EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_007MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_008EA,string,Annotation of Estimate!!Total!!Male!!18 years and over,B05003E
+B05003E_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 years and over,B05003E
+B05003E_009EA,string,Annotation of Estimate!!Total!!Male!!18 years and over!!Native,B05003E
+B05003E_009MA,string,Annotation of Margin of Error!!Total!!Male!!18 years and over!!Native,B05003E
+B05003E_010EA,string,Annotation of Estimate!!Total!!Male!!18 years and over!!Foreign born,B05003E
+B05003E_010MA,string,Annotation of Margin of Error!!Total!!Male!!18 years and over!!Foreign born,B05003E
+B05003E_011EA,string,Annotation of Estimate!!Total!!Male!!18 years and over!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_011MA,string,Annotation of Margin of Error!!Total!!Male!!18 years and over!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_012EA,string,Annotation of Estimate!!Total!!Male!!18 years and over!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_012MA,string,Annotation of Margin of Error!!Total!!Male!!18 years and over!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_013EA,string,Annotation of Estimate!!Total!!Female,B05003E
+B05003E_013MA,string,Annotation of Margin of Error!!Total!!Female,B05003E
+B05003E_014EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years,B05003E
+B05003E_014MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years,B05003E
+B05003E_015EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!Native,B05003E
+B05003E_015MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!Native,B05003E
+B05003E_016EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!Foreign born,B05003E
+B05003E_016MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!Foreign born,B05003E
+B05003E_017EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_017MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_018EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_018MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_019EA,string,Annotation of Estimate!!Total!!Female!!18 years and over,B05003E
+B05003E_019MA,string,Annotation of Margin of Error!!Total!!Female!!18 years and over,B05003E
+B05003E_020EA,string,Annotation of Estimate!!Total!!Female!!18 years and over!!Native,B05003E
+B05003E_020MA,string,Annotation of Margin of Error!!Total!!Female!!18 years and over!!Native,B05003E
+B05003E_021EA,string,Annotation of Estimate!!Total!!Female!!18 years and over!!Foreign born,B05003E
+B05003E_021MA,string,Annotation of Margin of Error!!Total!!Female!!18 years and over!!Foreign born,B05003E
+B05003E_022EA,string,Annotation of Estimate!!Total!!Female!!18 years and over!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_022MA,string,Annotation of Margin of Error!!Total!!Female!!18 years and over!!Foreign born!!Naturalized U.S. citizen,B05003E
+B05003E_023EA,string,Annotation of Estimate!!Total!!Female!!18 years and over!!Foreign born!!Not a U.S. citizen,B05003E
+B05003E_023MA,string,Annotation of Margin of Error!!Total!!Female!!18 years and over!!Foreign born!!Not a U.S. citizen,B05003E

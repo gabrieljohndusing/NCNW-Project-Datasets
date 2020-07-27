@@ -1,0 +1,41 @@
+VARIABLE,TYPE,LABEL,GROUP
+B18101B_001E,int,Estimate!!Total,B18101B
+B18101B_002E,int,Estimate!!Total!!Under 18 years,B18101B
+B18101B_003E,int,Estimate!!Total!!Under 18 years!!With a disability,B18101B
+B18101B_004E,int,Estimate!!Total!!Under 18 years!!No disability,B18101B
+B18101B_005E,int,Estimate!!Total!!18 to 64 years,B18101B
+B18101B_006E,int,Estimate!!Total!!18 to 64 years!!With a disability,B18101B
+B18101B_007E,int,Estimate!!Total!!18 to 64 years!!No disability,B18101B
+B18101B_008E,int,Estimate!!Total!!65 years and over,B18101B
+B18101B_009E,int,Estimate!!Total!!65 years and over!!With a disability,B18101B
+B18101B_010E,int,Estimate!!Total!!65 years and over!!No disability,B18101B
+B18101B_001M,int,Margin of Error!!Total,B18101B
+B18101B_002M,int,Margin of Error!!Total!!Under 18 years,B18101B
+B18101B_003M,int,Margin of Error!!Total!!Under 18 years!!With a disability,B18101B
+B18101B_004M,int,Margin of Error!!Total!!Under 18 years!!No disability,B18101B
+B18101B_005M,int,Margin of Error!!Total!!18 to 64 years,B18101B
+B18101B_006M,int,Margin of Error!!Total!!18 to 64 years!!With a disability,B18101B
+B18101B_007M,int,Margin of Error!!Total!!18 to 64 years!!No disability,B18101B
+B18101B_008M,int,Margin of Error!!Total!!65 years and over,B18101B
+B18101B_009M,int,Margin of Error!!Total!!65 years and over!!With a disability,B18101B
+B18101B_010M,int,Margin of Error!!Total!!65 years and over!!No disability,B18101B
+B18101B_001EA,string,Annotation of Estimate!!Total,B18101B
+B18101B_001MA,string,Annotation of Margin of Error!!Total,B18101B
+B18101B_002EA,string,Annotation of Estimate!!Total!!Under 18 years,B18101B
+B18101B_002MA,string,Annotation of Margin of Error!!Total!!Under 18 years,B18101B
+B18101B_003EA,string,Annotation of Estimate!!Total!!Under 18 years!!With a disability,B18101B
+B18101B_003MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!With a disability,B18101B
+B18101B_004EA,string,Annotation of Estimate!!Total!!Under 18 years!!No disability,B18101B
+B18101B_004MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!No disability,B18101B
+B18101B_005EA,string,Annotation of Estimate!!Total!!18 to 64 years,B18101B
+B18101B_005MA,string,Annotation of Margin of Error!!Total!!18 to 64 years,B18101B
+B18101B_006EA,string,Annotation of Estimate!!Total!!18 to 64 years!!With a disability,B18101B
+B18101B_006MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!With a disability,B18101B
+B18101B_007EA,string,Annotation of Estimate!!Total!!18 to 64 years!!No disability,B18101B
+B18101B_007MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!No disability,B18101B
+B18101B_008EA,string,Annotation of Estimate!!Total!!65 years and over,B18101B
+B18101B_008MA,string,Annotation of Margin of Error!!Total!!65 years and over,B18101B
+B18101B_009EA,string,Annotation of Estimate!!Total!!65 years and over!!With a disability,B18101B
+B18101B_009MA,string,Annotation of Margin of Error!!Total!!65 years and over!!With a disability,B18101B
+B18101B_010EA,string,Annotation of Estimate!!Total!!65 years and over!!No disability,B18101B
+B18101B_010MA,string,Annotation of Margin of Error!!Total!!65 years and over!!No disability,B18101B

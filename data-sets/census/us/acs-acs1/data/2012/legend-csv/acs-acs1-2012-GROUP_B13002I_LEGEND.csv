@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B13002I_001E,int,Estimate!!Total,B13002I
+B13002I_002E,int,Estimate!!Total!!Women who had a birth in the past 12 months,B13002I
+B13002I_003E,int,Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13002I
+B13002I_004E,int,"Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13002I
+B13002I_005E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months,B13002I
+B13002I_006E,int,Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13002I
+B13002I_007E,int,"Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13002I
+B13002I_001M,int,Margin of Error!!Total,B13002I
+B13002I_002M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months,B13002I
+B13002I_003M,int,Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13002I
+B13002I_004M,int,"Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13002I
+B13002I_005M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months,B13002I
+B13002I_006M,int,Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13002I
+B13002I_007M,int,"Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13002I
+B13002I_001EA,string,Annotation of Estimate!!Total,B13002I
+B13002I_001MA,string,Annotation of Margin of Error!!Total,B13002I
+B13002I_002EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months,B13002I
+B13002I_002MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months,B13002I
+B13002I_003EA,string,Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13002I
+B13002I_003MA,string,Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Now married (including separated and spouse absent),B13002I
+B13002I_004EA,string,"Annotation of Estimate!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13002I
+B13002I_004MA,string,"Annotation of Margin of Error!!Total!!Women who had a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13002I
+B13002I_005EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months,B13002I
+B13002I_005MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months,B13002I
+B13002I_006EA,string,Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13002I
+B13002I_006MA,string,Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Now married (including separated and spouse absent),B13002I
+B13002I_007EA,string,"Annotation of Estimate!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13002I
+B13002I_007MA,string,"Annotation of Margin of Error!!Total!!Women who did not have a birth in the past 12 months!!Unmarried (never married, widowed and divorced)",B13002I

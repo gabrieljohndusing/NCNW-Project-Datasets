@@ -1,0 +1,93 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25116_001E,int,Estimate!!Total,B25116
+B25116_002E,int,Estimate!!Total!!Owner occupied,B25116
+B25116_003E,int,Estimate!!Total!!Owner occupied!!1-person household,B25116
+B25116_004E,int,Estimate!!Total!!Owner occupied!!1-person household!!Householder 15 to 54 years,B25116
+B25116_005E,int,Estimate!!Total!!Owner occupied!!1-person household!!Householder 55 to 64 years,B25116
+B25116_006E,int,Estimate!!Total!!Owner occupied!!1-person household!!Householder 65 to 74 years,B25116
+B25116_007E,int,Estimate!!Total!!Owner occupied!!1-person household!!Householder 75 years and over,B25116
+B25116_008E,int,Estimate!!Total!!Owner occupied!!2-or-more person household,B25116
+B25116_009E,int,Estimate!!Total!!Owner occupied!!2-or-more person household!!Householder 15 to 54 years,B25116
+B25116_010E,int,Estimate!!Total!!Owner occupied!!2-or-more person household!!Householder 55 to 64 years,B25116
+B25116_011E,int,Estimate!!Total!!Owner occupied!!2-or-more person household!!Householder 65 to 74 years,B25116
+B25116_012E,int,Estimate!!Total!!Owner occupied!!2-or-more person household!!Householder 75 years and over,B25116
+B25116_013E,int,Estimate!!Total!!Renter occupied,B25116
+B25116_014E,int,Estimate!!Total!!Renter occupied!!1-person household,B25116
+B25116_015E,int,Estimate!!Total!!Renter occupied!!1-person household!!Householder 15 to 54 years,B25116
+B25116_016E,int,Estimate!!Total!!Renter occupied!!1-person household!!Householder 55 to 64 years,B25116
+B25116_017E,int,Estimate!!Total!!Renter occupied!!1-person household!!Householder 65 to 74 years,B25116
+B25116_018E,int,Estimate!!Total!!Renter occupied!!1-person household!!Householder 75 years and over,B25116
+B25116_019E,int,Estimate!!Total!!Renter occupied!!2-or-more person household,B25116
+B25116_020E,int,Estimate!!Total!!Renter occupied!!2-or-more person household!!Householder 15 to 54 years,B25116
+B25116_021E,int,Estimate!!Total!!Renter occupied!!2-or-more person household!!Householder 55 to 64 years,B25116
+B25116_022E,int,Estimate!!Total!!Renter occupied!!2-or-more person household!!Householder 65 to 74 years,B25116
+B25116_023E,int,Estimate!!Total!!Renter occupied!!2-or-more person household!!Householder 75 years and over,B25116
+B25116_001M,int,Margin of Error!!Total,B25116
+B25116_002M,int,Margin of Error!!Total!!Owner occupied,B25116
+B25116_003M,int,Margin of Error!!Total!!Owner occupied!!1-person household,B25116
+B25116_004M,int,Margin of Error!!Total!!Owner occupied!!1-person household!!Householder 15 to 54 years,B25116
+B25116_005M,int,Margin of Error!!Total!!Owner occupied!!1-person household!!Householder 55 to 64 years,B25116
+B25116_006M,int,Margin of Error!!Total!!Owner occupied!!1-person household!!Householder 65 to 74 years,B25116
+B25116_007M,int,Margin of Error!!Total!!Owner occupied!!1-person household!!Householder 75 years and over,B25116
+B25116_008M,int,Margin of Error!!Total!!Owner occupied!!2-or-more person household,B25116
+B25116_009M,int,Margin of Error!!Total!!Owner occupied!!2-or-more person household!!Householder 15 to 54 years,B25116
+B25116_010M,int,Margin of Error!!Total!!Owner occupied!!2-or-more person household!!Householder 55 to 64 years,B25116
+B25116_011M,int,Margin of Error!!Total!!Owner occupied!!2-or-more person household!!Householder 65 to 74 years,B25116
+B25116_012M,int,Margin of Error!!Total!!Owner occupied!!2-or-more person household!!Householder 75 years and over,B25116
+B25116_013M,int,Margin of Error!!Total!!Renter occupied,B25116
+B25116_014M,int,Margin of Error!!Total!!Renter occupied!!1-person household,B25116
+B25116_015M,int,Margin of Error!!Total!!Renter occupied!!1-person household!!Householder 15 to 54 years,B25116
+B25116_016M,int,Margin of Error!!Total!!Renter occupied!!1-person household!!Householder 55 to 64 years,B25116
+B25116_017M,int,Margin of Error!!Total!!Renter occupied!!1-person household!!Householder 65 to 74 years,B25116
+B25116_018M,int,Margin of Error!!Total!!Renter occupied!!1-person household!!Householder 75 years and over,B25116
+B25116_019M,int,Margin of Error!!Total!!Renter occupied!!2-or-more person household,B25116
+B25116_020M,int,Margin of Error!!Total!!Renter occupied!!2-or-more person household!!Householder 15 to 54 years,B25116
+B25116_021M,int,Margin of Error!!Total!!Renter occupied!!2-or-more person household!!Householder 55 to 64 years,B25116
+B25116_022M,int,Margin of Error!!Total!!Renter occupied!!2-or-more person household!!Householder 65 to 74 years,B25116
+B25116_023M,int,Margin of Error!!Total!!Renter occupied!!2-or-more person household!!Householder 75 years and over,B25116
+B25116_001EA,string,Annotation of Estimate!!Total,B25116
+B25116_001MA,string,Annotation of Margin of Error!!Total,B25116
+B25116_002EA,string,Annotation of Estimate!!Total!!Owner occupied,B25116
+B25116_002MA,string,Annotation of Margin of Error!!Total!!Owner occupied,B25116
+B25116_003EA,string,Annotation of Estimate!!Total!!Owner occupied!!1-person household,B25116
+B25116_003MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!1-person household,B25116
+B25116_004EA,string,Annotation of Estimate!!Total!!Owner occupied!!1-person household!!Householder 15 to 54 years,B25116
+B25116_004MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!1-person household!!Householder 15 to 54 years,B25116
+B25116_005EA,string,Annotation of Estimate!!Total!!Owner occupied!!1-person household!!Householder 55 to 64 years,B25116
+B25116_005MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!1-person household!!Householder 55 to 64 years,B25116
+B25116_006EA,string,Annotation of Estimate!!Total!!Owner occupied!!1-person household!!Householder 65 to 74 years,B25116
+B25116_006MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!1-person household!!Householder 65 to 74 years,B25116
+B25116_007EA,string,Annotation of Estimate!!Total!!Owner occupied!!1-person household!!Householder 75 years and over,B25116
+B25116_007MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!1-person household!!Householder 75 years and over,B25116
+B25116_008EA,string,Annotation of Estimate!!Total!!Owner occupied!!2-or-more person household,B25116
+B25116_008MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!2-or-more person household,B25116
+B25116_009EA,string,Annotation of Estimate!!Total!!Owner occupied!!2-or-more person household!!Householder 15 to 54 years,B25116
+B25116_009MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!2-or-more person household!!Householder 15 to 54 years,B25116
+B25116_010EA,string,Annotation of Estimate!!Total!!Owner occupied!!2-or-more person household!!Householder 55 to 64 years,B25116
+B25116_010MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!2-or-more person household!!Householder 55 to 64 years,B25116
+B25116_011EA,string,Annotation of Estimate!!Total!!Owner occupied!!2-or-more person household!!Householder 65 to 74 years,B25116
+B25116_011MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!2-or-more person household!!Householder 65 to 74 years,B25116
+B25116_012EA,string,Annotation of Estimate!!Total!!Owner occupied!!2-or-more person household!!Householder 75 years and over,B25116
+B25116_012MA,string,Annotation of Margin of Error!!Total!!Owner occupied!!2-or-more person household!!Householder 75 years and over,B25116
+B25116_013EA,string,Annotation of Estimate!!Total!!Renter occupied,B25116
+B25116_013MA,string,Annotation of Margin of Error!!Total!!Renter occupied,B25116
+B25116_014EA,string,Annotation of Estimate!!Total!!Renter occupied!!1-person household,B25116
+B25116_014MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!1-person household,B25116
+B25116_015EA,string,Annotation of Estimate!!Total!!Renter occupied!!1-person household!!Householder 15 to 54 years,B25116
+B25116_015MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!1-person household!!Householder 15 to 54 years,B25116
+B25116_016EA,string,Annotation of Estimate!!Total!!Renter occupied!!1-person household!!Householder 55 to 64 years,B25116
+B25116_016MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!1-person household!!Householder 55 to 64 years,B25116
+B25116_017EA,string,Annotation of Estimate!!Total!!Renter occupied!!1-person household!!Householder 65 to 74 years,B25116
+B25116_017MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!1-person household!!Householder 65 to 74 years,B25116
+B25116_018EA,string,Annotation of Estimate!!Total!!Renter occupied!!1-person household!!Householder 75 years and over,B25116
+B25116_018MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!1-person household!!Householder 75 years and over,B25116
+B25116_019EA,string,Annotation of Estimate!!Total!!Renter occupied!!2-or-more person household,B25116
+B25116_019MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!2-or-more person household,B25116
+B25116_020EA,string,Annotation of Estimate!!Total!!Renter occupied!!2-or-more person household!!Householder 15 to 54 years,B25116
+B25116_020MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!2-or-more person household!!Householder 15 to 54 years,B25116
+B25116_021EA,string,Annotation of Estimate!!Total!!Renter occupied!!2-or-more person household!!Householder 55 to 64 years,B25116
+B25116_021MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!2-or-more person household!!Householder 55 to 64 years,B25116
+B25116_022EA,string,Annotation of Estimate!!Total!!Renter occupied!!2-or-more person household!!Householder 65 to 74 years,B25116
+B25116_022MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!2-or-more person household!!Householder 65 to 74 years,B25116
+B25116_023EA,string,Annotation of Estimate!!Total!!Renter occupied!!2-or-more person household!!Householder 75 years and over,B25116
+B25116_023MA,string,Annotation of Margin of Error!!Total!!Renter occupied!!2-or-more person household!!Householder 75 years and over,B25116

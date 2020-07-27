@@ -1,0 +1,73 @@
+VARIABLE,TYPE,LABEL,GROUP
+B07003_001E,int,Estimate!!Total,B07003
+B07003_002E,int,Estimate!!Total!!Male,B07003
+B07003_003E,int,Estimate!!Total!!Female,B07003
+B07003_004E,int,Estimate!!Total!!Same house 1 year ago,B07003
+B07003_005E,int,Estimate!!Total!!Same house 1 year ago!!Male,B07003
+B07003_006E,int,Estimate!!Total!!Same house 1 year ago!!Female,B07003
+B07003_007E,int,Estimate!!Total!!Moved within same county,B07003
+B07003_008E,int,Estimate!!Total!!Moved within same county!!Male,B07003
+B07003_009E,int,Estimate!!Total!!Moved within same county!!Female,B07003
+B07003_010E,int,Estimate!!Total!!Moved from different county within same state,B07003
+B07003_011E,int,Estimate!!Total!!Moved from different county within same state!!Male,B07003
+B07003_012E,int,Estimate!!Total!!Moved from different county within same state!!Female,B07003
+B07003_013E,int,Estimate!!Total!!Moved from different state,B07003
+B07003_014E,int,Estimate!!Total!!Moved from different state!!Male,B07003
+B07003_015E,int,Estimate!!Total!!Moved from different state!!Female,B07003
+B07003_016E,int,Estimate!!Total!!Moved from abroad,B07003
+B07003_017E,int,Estimate!!Total!!Moved from abroad!!Male,B07003
+B07003_018E,int,Estimate!!Total!!Moved from abroad!!Female,B07003
+B07003_001M,int,Margin of Error!!Total,B07003
+B07003_002M,int,Margin of Error!!Total!!Male,B07003
+B07003_003M,int,Margin of Error!!Total!!Female,B07003
+B07003_004M,int,Margin of Error!!Total!!Same house 1 year ago,B07003
+B07003_005M,int,Margin of Error!!Total!!Same house 1 year ago!!Male,B07003
+B07003_006M,int,Margin of Error!!Total!!Same house 1 year ago!!Female,B07003
+B07003_007M,int,Margin of Error!!Total!!Moved within same county,B07003
+B07003_008M,int,Margin of Error!!Total!!Moved within same county!!Male,B07003
+B07003_009M,int,Margin of Error!!Total!!Moved within same county!!Female,B07003
+B07003_010M,int,Margin of Error!!Total!!Moved from different county within same state,B07003
+B07003_011M,int,Margin of Error!!Total!!Moved from different county within same state!!Male,B07003
+B07003_012M,int,Margin of Error!!Total!!Moved from different county within same state!!Female,B07003
+B07003_013M,int,Margin of Error!!Total!!Moved from different state,B07003
+B07003_014M,int,Margin of Error!!Total!!Moved from different state!!Male,B07003
+B07003_015M,int,Margin of Error!!Total!!Moved from different state!!Female,B07003
+B07003_016M,int,Margin of Error!!Total!!Moved from abroad,B07003
+B07003_017M,int,Margin of Error!!Total!!Moved from abroad!!Male,B07003
+B07003_018M,int,Margin of Error!!Total!!Moved from abroad!!Female,B07003
+B07003_001EA,string,Annotation of Estimate!!Total,B07003
+B07003_001MA,string,Annotation of Margin of Error!!Total,B07003
+B07003_002EA,string,Annotation of Estimate!!Total!!Male,B07003
+B07003_002MA,string,Annotation of Margin of Error!!Total!!Male,B07003
+B07003_003EA,string,Annotation of Estimate!!Total!!Female,B07003
+B07003_003MA,string,Annotation of Margin of Error!!Total!!Female,B07003
+B07003_004EA,string,Annotation of Estimate!!Total!!Same house 1 year ago,B07003
+B07003_004MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago,B07003
+B07003_005EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Male,B07003
+B07003_005MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Male,B07003
+B07003_006EA,string,Annotation of Estimate!!Total!!Same house 1 year ago!!Female,B07003
+B07003_006MA,string,Annotation of Margin of Error!!Total!!Same house 1 year ago!!Female,B07003
+B07003_007EA,string,Annotation of Estimate!!Total!!Moved within same county,B07003
+B07003_007MA,string,Annotation of Margin of Error!!Total!!Moved within same county,B07003
+B07003_008EA,string,Annotation of Estimate!!Total!!Moved within same county!!Male,B07003
+B07003_008MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!Male,B07003
+B07003_009EA,string,Annotation of Estimate!!Total!!Moved within same county!!Female,B07003
+B07003_009MA,string,Annotation of Margin of Error!!Total!!Moved within same county!!Female,B07003
+B07003_010EA,string,Annotation of Estimate!!Total!!Moved from different county within same state,B07003
+B07003_010MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state,B07003
+B07003_011EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!Male,B07003
+B07003_011MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!Male,B07003
+B07003_012EA,string,Annotation of Estimate!!Total!!Moved from different county within same state!!Female,B07003
+B07003_012MA,string,Annotation of Margin of Error!!Total!!Moved from different county within same state!!Female,B07003
+B07003_013EA,string,Annotation of Estimate!!Total!!Moved from different state,B07003
+B07003_013MA,string,Annotation of Margin of Error!!Total!!Moved from different state,B07003
+B07003_014EA,string,Annotation of Estimate!!Total!!Moved from different state!!Male,B07003
+B07003_014MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!Male,B07003
+B07003_015EA,string,Annotation of Estimate!!Total!!Moved from different state!!Female,B07003
+B07003_015MA,string,Annotation of Margin of Error!!Total!!Moved from different state!!Female,B07003
+B07003_016EA,string,Annotation of Estimate!!Total!!Moved from abroad,B07003
+B07003_016MA,string,Annotation of Margin of Error!!Total!!Moved from abroad,B07003
+B07003_017EA,string,Annotation of Estimate!!Total!!Moved from abroad!!Male,B07003
+B07003_017MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!Male,B07003
+B07003_018EA,string,Annotation of Estimate!!Total!!Moved from abroad!!Female,B07003
+B07003_018MA,string,Annotation of Margin of Error!!Total!!Moved from abroad!!Female,B07003

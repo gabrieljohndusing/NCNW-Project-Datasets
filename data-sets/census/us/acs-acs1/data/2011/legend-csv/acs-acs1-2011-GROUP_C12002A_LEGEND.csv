@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+C12002A_001E,int,Estimate!!Total,C12002A
+C12002A_002E,int,Estimate!!Total!!Never married,C12002A
+C12002A_003E,int,Estimate!!Total!!Now married (except separated),C12002A
+C12002A_004E,int,Estimate!!Total!!Separated,C12002A
+C12002A_005E,int,Estimate!!Total!!Widowed,C12002A
+C12002A_006E,int,Estimate!!Total!!Divorced,C12002A
+C12002A_001M,int,Margin of Error!!Total,C12002A
+C12002A_002M,int,Margin of Error!!Total!!Never married,C12002A
+C12002A_003M,int,Margin of Error!!Total!!Now married (except separated),C12002A
+C12002A_004M,int,Margin of Error!!Total!!Separated,C12002A
+C12002A_005M,int,Margin of Error!!Total!!Widowed,C12002A
+C12002A_006M,int,Margin of Error!!Total!!Divorced,C12002A
+C12002A_001EA,string,Annotation of Estimate!!Total,C12002A
+C12002A_001MA,string,Annotation of Margin of Error!!Total,C12002A
+C12002A_002EA,string,Annotation of Estimate!!Total!!Never married,C12002A
+C12002A_002MA,string,Annotation of Margin of Error!!Total!!Never married,C12002A
+C12002A_003EA,string,Annotation of Estimate!!Total!!Now married (except separated),C12002A
+C12002A_003MA,string,Annotation of Margin of Error!!Total!!Now married (except separated),C12002A
+C12002A_004EA,string,Annotation of Estimate!!Total!!Separated,C12002A
+C12002A_004MA,string,Annotation of Margin of Error!!Total!!Separated,C12002A
+C12002A_005EA,string,Annotation of Estimate!!Total!!Widowed,C12002A
+C12002A_005MA,string,Annotation of Margin of Error!!Total!!Widowed,C12002A
+C12002A_006EA,string,Annotation of Estimate!!Total!!Divorced,C12002A
+C12002A_006MA,string,Annotation of Margin of Error!!Total!!Divorced,C12002A

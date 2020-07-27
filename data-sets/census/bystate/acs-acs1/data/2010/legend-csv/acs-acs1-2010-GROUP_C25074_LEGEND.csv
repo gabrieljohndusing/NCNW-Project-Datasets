@@ -1,0 +1,101 @@
+VARIABLE,TYPE,LABEL,GROUP
+C25074_001E,int,Estimate!!Total,C25074
+C25074_002E,int,"Estimate!!Total!!Less than $10,000",C25074
+C25074_003E,int,"Estimate!!Total!!Less than $10,000!!Less than 30.0 percent",C25074
+C25074_004E,int,"Estimate!!Total!!Less than $10,000!!30.0 percent or more",C25074
+C25074_005E,int,"Estimate!!Total!!Less than $10,000!!Not computed",C25074
+C25074_006E,int,"Estimate!!Total!!$10,000 to $19,999",C25074
+C25074_007E,int,"Estimate!!Total!!$10,000 to $19,999!!Less than 30.0 percent",C25074
+C25074_008E,int,"Estimate!!Total!!$10,000 to $19,999!!30.0 percent or more",C25074
+C25074_009E,int,"Estimate!!Total!!$10,000 to $19,999!!Not computed",C25074
+C25074_010E,int,"Estimate!!Total!!$20,000 to $34,999",C25074
+C25074_011E,int,"Estimate!!Total!!$20,000 to $34,999!!Less than 30.0 percent",C25074
+C25074_012E,int,"Estimate!!Total!!$20,000 to $34,999!!30.0 percent or more",C25074
+C25074_013E,int,"Estimate!!Total!!$20,000 to $34,999!!Not computed",C25074
+C25074_014E,int,"Estimate!!Total!!$35,000 to $49,999",C25074
+C25074_015E,int,"Estimate!!Total!!$35,000 to $49,999!!Less than 30.0 percent",C25074
+C25074_016E,int,"Estimate!!Total!!$35,000 to $49,999!!30.0 percent or more",C25074
+C25074_017E,int,"Estimate!!Total!!$35,000 to $49,999!!Not computed",C25074
+C25074_018E,int,"Estimate!!Total!!$50,000 to $74,999",C25074
+C25074_019E,int,"Estimate!!Total!!$50,000 to $74,999!!Less than 30.0 percent",C25074
+C25074_020E,int,"Estimate!!Total!!$50,000 to $74,999!!30.0 percent or more",C25074
+C25074_021E,int,"Estimate!!Total!!$50,000 to $74,999!!Not computed",C25074
+C25074_022E,int,"Estimate!!Total!!$75,000 or more",C25074
+C25074_023E,int,"Estimate!!Total!!$75,000 or more!!Less than 30.0 percent",C25074
+C25074_024E,int,"Estimate!!Total!!$75,000 or more!!30.0 percent or more",C25074
+C25074_025E,int,"Estimate!!Total!!$75,000 or more!!Not computed",C25074
+C25074_001M,int,Margin of Error!!Total,C25074
+C25074_002M,int,"Margin of Error!!Total!!Less than $10,000",C25074
+C25074_003M,int,"Margin of Error!!Total!!Less than $10,000!!Less than 30.0 percent",C25074
+C25074_004M,int,"Margin of Error!!Total!!Less than $10,000!!30.0 percent or more",C25074
+C25074_005M,int,"Margin of Error!!Total!!Less than $10,000!!Not computed",C25074
+C25074_006M,int,"Margin of Error!!Total!!$10,000 to $19,999",C25074
+C25074_007M,int,"Margin of Error!!Total!!$10,000 to $19,999!!Less than 30.0 percent",C25074
+C25074_008M,int,"Margin of Error!!Total!!$10,000 to $19,999!!30.0 percent or more",C25074
+C25074_009M,int,"Margin of Error!!Total!!$10,000 to $19,999!!Not computed",C25074
+C25074_010M,int,"Margin of Error!!Total!!$20,000 to $34,999",C25074
+C25074_011M,int,"Margin of Error!!Total!!$20,000 to $34,999!!Less than 30.0 percent",C25074
+C25074_012M,int,"Margin of Error!!Total!!$20,000 to $34,999!!30.0 percent or more",C25074
+C25074_013M,int,"Margin of Error!!Total!!$20,000 to $34,999!!Not computed",C25074
+C25074_014M,int,"Margin of Error!!Total!!$35,000 to $49,999",C25074
+C25074_015M,int,"Margin of Error!!Total!!$35,000 to $49,999!!Less than 30.0 percent",C25074
+C25074_016M,int,"Margin of Error!!Total!!$35,000 to $49,999!!30.0 percent or more",C25074
+C25074_017M,int,"Margin of Error!!Total!!$35,000 to $49,999!!Not computed",C25074
+C25074_018M,int,"Margin of Error!!Total!!$50,000 to $74,999",C25074
+C25074_019M,int,"Margin of Error!!Total!!$50,000 to $74,999!!Less than 30.0 percent",C25074
+C25074_020M,int,"Margin of Error!!Total!!$50,000 to $74,999!!30.0 percent or more",C25074
+C25074_021M,int,"Margin of Error!!Total!!$50,000 to $74,999!!Not computed",C25074
+C25074_022M,int,"Margin of Error!!Total!!$75,000 or more",C25074
+C25074_023M,int,"Margin of Error!!Total!!$75,000 or more!!Less than 30.0 percent",C25074
+C25074_024M,int,"Margin of Error!!Total!!$75,000 or more!!30.0 percent or more",C25074
+C25074_025M,int,"Margin of Error!!Total!!$75,000 or more!!Not computed",C25074
+C25074_001EA,string,Annotation of Estimate!!Total,C25074
+C25074_001MA,string,Annotation of Margin of Error!!Total,C25074
+C25074_002EA,string,"Annotation of Estimate!!Total!!Less than $10,000",C25074
+C25074_002MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000",C25074
+C25074_003EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!Less than 30.0 percent",C25074
+C25074_003MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!Less than 30.0 percent",C25074
+C25074_004EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!30.0 percent or more",C25074
+C25074_004MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!30.0 percent or more",C25074
+C25074_005EA,string,"Annotation of Estimate!!Total!!Less than $10,000!!Not computed",C25074
+C25074_005MA,string,"Annotation of Margin of Error!!Total!!Less than $10,000!!Not computed",C25074
+C25074_006EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999",C25074
+C25074_006MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999",C25074
+C25074_007EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!Less than 30.0 percent",C25074
+C25074_007MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!Less than 30.0 percent",C25074
+C25074_008EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!30.0 percent or more",C25074
+C25074_008MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!30.0 percent or more",C25074
+C25074_009EA,string,"Annotation of Estimate!!Total!!$10,000 to $19,999!!Not computed",C25074
+C25074_009MA,string,"Annotation of Margin of Error!!Total!!$10,000 to $19,999!!Not computed",C25074
+C25074_010EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999",C25074
+C25074_010MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999",C25074
+C25074_011EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!Less than 30.0 percent",C25074
+C25074_011MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!Less than 30.0 percent",C25074
+C25074_012EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!30.0 percent or more",C25074
+C25074_012MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!30.0 percent or more",C25074
+C25074_013EA,string,"Annotation of Estimate!!Total!!$20,000 to $34,999!!Not computed",C25074
+C25074_013MA,string,"Annotation of Margin of Error!!Total!!$20,000 to $34,999!!Not computed",C25074
+C25074_014EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999",C25074
+C25074_014MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999",C25074
+C25074_015EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!Less than 30.0 percent",C25074
+C25074_015MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!Less than 30.0 percent",C25074
+C25074_016EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!30.0 percent or more",C25074
+C25074_016MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!30.0 percent or more",C25074
+C25074_017EA,string,"Annotation of Estimate!!Total!!$35,000 to $49,999!!Not computed",C25074
+C25074_017MA,string,"Annotation of Margin of Error!!Total!!$35,000 to $49,999!!Not computed",C25074
+C25074_018EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999",C25074
+C25074_018MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999",C25074
+C25074_019EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!Less than 30.0 percent",C25074
+C25074_019MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!Less than 30.0 percent",C25074
+C25074_020EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!30.0 percent or more",C25074
+C25074_020MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!30.0 percent or more",C25074
+C25074_021EA,string,"Annotation of Estimate!!Total!!$50,000 to $74,999!!Not computed",C25074
+C25074_021MA,string,"Annotation of Margin of Error!!Total!!$50,000 to $74,999!!Not computed",C25074
+C25074_022EA,string,"Annotation of Estimate!!Total!!$75,000 or more",C25074
+C25074_022MA,string,"Annotation of Margin of Error!!Total!!$75,000 or more",C25074
+C25074_023EA,string,"Annotation of Estimate!!Total!!$75,000 or more!!Less than 30.0 percent",C25074
+C25074_023MA,string,"Annotation of Margin of Error!!Total!!$75,000 or more!!Less than 30.0 percent",C25074
+C25074_024EA,string,"Annotation of Estimate!!Total!!$75,000 or more!!30.0 percent or more",C25074
+C25074_024MA,string,"Annotation of Margin of Error!!Total!!$75,000 or more!!30.0 percent or more",C25074
+C25074_025EA,string,"Annotation of Estimate!!Total!!$75,000 or more!!Not computed",C25074
+C25074_025MA,string,"Annotation of Margin of Error!!Total!!$75,000 or more!!Not computed",C25074

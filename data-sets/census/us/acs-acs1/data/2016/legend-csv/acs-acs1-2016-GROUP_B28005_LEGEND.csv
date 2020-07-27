@@ -1,0 +1,77 @@
+VARIABLE,TYPE,LABEL,GROUP
+B28005_001E,int,Estimate!!Total,B28005
+B28005_002E,int,Estimate!!Total!!Under 18 years,B28005
+B28005_003E,int,Estimate!!Total!!Under 18 years!!Has a computer,B28005
+B28005_004E,int,Estimate!!Total!!Under 18 years!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_005E,int,Estimate!!Total!!Under 18 years!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_006E,int,Estimate!!Total!!Under 18 years!!Has a computer!!Without an Internet subscription,B28005
+B28005_007E,int,Estimate!!Total!!Under 18 years!!No computer,B28005
+B28005_008E,int,Estimate!!Total!!18 to 64 years,B28005
+B28005_009E,int,Estimate!!Total!!18 to 64 years!!Has a computer,B28005
+B28005_010E,int,Estimate!!Total!!18 to 64 years!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_011E,int,Estimate!!Total!!18 to 64 years!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_012E,int,Estimate!!Total!!18 to 64 years!!Has a computer!!Without an Internet subscription,B28005
+B28005_013E,int,Estimate!!Total!!18 to 64 years!!No computer,B28005
+B28005_014E,int,Estimate!!Total!!65 years and over,B28005
+B28005_015E,int,Estimate!!Total!!65 years and over!!Has a computer,B28005
+B28005_016E,int,Estimate!!Total!!65 years and over!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_017E,int,Estimate!!Total!!65 years and over!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_018E,int,Estimate!!Total!!65 years and over!!Has a computer!!Without an Internet subscription,B28005
+B28005_019E,int,Estimate!!Total!!65 years and over!!No computer,B28005
+B28005_001M,int,Margin of Error!!Total,B28005
+B28005_002M,int,Margin of Error!!Total!!Under 18 years,B28005
+B28005_003M,int,Margin of Error!!Total!!Under 18 years!!Has a computer,B28005
+B28005_004M,int,Margin of Error!!Total!!Under 18 years!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_005M,int,Margin of Error!!Total!!Under 18 years!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_006M,int,Margin of Error!!Total!!Under 18 years!!Has a computer!!Without an Internet subscription,B28005
+B28005_007M,int,Margin of Error!!Total!!Under 18 years!!No computer,B28005
+B28005_008M,int,Margin of Error!!Total!!18 to 64 years,B28005
+B28005_009M,int,Margin of Error!!Total!!18 to 64 years!!Has a computer,B28005
+B28005_010M,int,Margin of Error!!Total!!18 to 64 years!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_011M,int,Margin of Error!!Total!!18 to 64 years!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_012M,int,Margin of Error!!Total!!18 to 64 years!!Has a computer!!Without an Internet subscription,B28005
+B28005_013M,int,Margin of Error!!Total!!18 to 64 years!!No computer,B28005
+B28005_014M,int,Margin of Error!!Total!!65 years and over,B28005
+B28005_015M,int,Margin of Error!!Total!!65 years and over!!Has a computer,B28005
+B28005_016M,int,Margin of Error!!Total!!65 years and over!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_017M,int,Margin of Error!!Total!!65 years and over!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_018M,int,Margin of Error!!Total!!65 years and over!!Has a computer!!Without an Internet subscription,B28005
+B28005_019M,int,Margin of Error!!Total!!65 years and over!!No computer,B28005
+B28005_001EA,string,Annotation of Estimate!!Total,B28005
+B28005_001MA,string,Annotation of Margin of Error!!Total,B28005
+B28005_002EA,string,Annotation of Estimate!!Total!!Under 18 years,B28005
+B28005_002MA,string,Annotation of Margin of Error!!Total!!Under 18 years,B28005
+B28005_003EA,string,Annotation of Estimate!!Total!!Under 18 years!!Has a computer,B28005
+B28005_003MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!Has a computer,B28005
+B28005_004EA,string,Annotation of Estimate!!Total!!Under 18 years!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_004MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_005EA,string,Annotation of Estimate!!Total!!Under 18 years!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_005MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_006EA,string,Annotation of Estimate!!Total!!Under 18 years!!Has a computer!!Without an Internet subscription,B28005
+B28005_006MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!Has a computer!!Without an Internet subscription,B28005
+B28005_007EA,string,Annotation of Estimate!!Total!!Under 18 years!!No computer,B28005
+B28005_007MA,string,Annotation of Margin of Error!!Total!!Under 18 years!!No computer,B28005
+B28005_008EA,string,Annotation of Estimate!!Total!!18 to 64 years,B28005
+B28005_008MA,string,Annotation of Margin of Error!!Total!!18 to 64 years,B28005
+B28005_009EA,string,Annotation of Estimate!!Total!!18 to 64 years!!Has a computer,B28005
+B28005_009MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!Has a computer,B28005
+B28005_010EA,string,Annotation of Estimate!!Total!!18 to 64 years!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_010MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_011EA,string,Annotation of Estimate!!Total!!18 to 64 years!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_011MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_012EA,string,Annotation of Estimate!!Total!!18 to 64 years!!Has a computer!!Without an Internet subscription,B28005
+B28005_012MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!Has a computer!!Without an Internet subscription,B28005
+B28005_013EA,string,Annotation of Estimate!!Total!!18 to 64 years!!No computer,B28005
+B28005_013MA,string,Annotation of Margin of Error!!Total!!18 to 64 years!!No computer,B28005
+B28005_014EA,string,Annotation of Estimate!!Total!!65 years and over,B28005
+B28005_014MA,string,Annotation of Margin of Error!!Total!!65 years and over,B28005
+B28005_015EA,string,Annotation of Estimate!!Total!!65 years and over!!Has a computer,B28005
+B28005_015MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Has a computer,B28005
+B28005_016EA,string,Annotation of Estimate!!Total!!65 years and over!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_016MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Has a computer!!With dial-up Internet subscription alone,B28005
+B28005_017EA,string,Annotation of Estimate!!Total!!65 years and over!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_017MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Has a computer!!With a broadband Internet subscription,B28005
+B28005_018EA,string,Annotation of Estimate!!Total!!65 years and over!!Has a computer!!Without an Internet subscription,B28005
+B28005_018MA,string,Annotation of Margin of Error!!Total!!65 years and over!!Has a computer!!Without an Internet subscription,B28005
+B28005_019EA,string,Annotation of Estimate!!Total!!65 years and over!!No computer,B28005
+B28005_019MA,string,Annotation of Margin of Error!!Total!!65 years and over!!No computer,B28005

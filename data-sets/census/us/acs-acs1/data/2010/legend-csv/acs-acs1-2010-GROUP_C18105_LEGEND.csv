@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18105_001E,int,Estimate!!Total,C18105
+C18105_002E,int,Estimate!!Total!!Male,C18105
+C18105_003E,int,Estimate!!Total!!Male!!5 to 17 years,C18105
+C18105_004E,int,Estimate!!Total!!Male!!5 to 17 years!!With an ambulatory difficulty,C18105
+C18105_005E,int,Estimate!!Total!!Male!!5 to 17 years!!No ambulatory difficulty,C18105
+C18105_006E,int,Estimate!!Total!!Male!!18 to 64 years,C18105
+C18105_007E,int,Estimate!!Total!!Male!!18 to 64 years!!With an ambulatory difficulty,C18105
+C18105_008E,int,Estimate!!Total!!Male!!18 to 64 years!!No ambulatory difficulty,C18105
+C18105_009E,int,Estimate!!Total!!Male!!65 years and over,C18105
+C18105_010E,int,Estimate!!Total!!Male!!65 years and over!!With an ambulatory difficulty,C18105
+C18105_011E,int,Estimate!!Total!!Male!!65 years and over!!No ambulatory difficulty,C18105
+C18105_012E,int,Estimate!!Total!!Female,C18105
+C18105_013E,int,Estimate!!Total!!Female!!5 to 17 years,C18105
+C18105_014E,int,Estimate!!Total!!Female!!5 to 17 years!!With an ambulatory difficulty,C18105
+C18105_015E,int,Estimate!!Total!!Female!!5 to 17 years!!No ambulatory difficulty,C18105
+C18105_016E,int,Estimate!!Total!!Female!!18 to 64 years,C18105
+C18105_017E,int,Estimate!!Total!!Female!!18 to 64 years!!With an ambulatory difficulty,C18105
+C18105_018E,int,Estimate!!Total!!Female!!18 to 64 years!!No ambulatory difficulty,C18105
+C18105_019E,int,Estimate!!Total!!Female!!65 years and over,C18105
+C18105_020E,int,Estimate!!Total!!Female!!65 years and over!!With an ambulatory difficulty,C18105
+C18105_021E,int,Estimate!!Total!!Female!!65 years and over!!No ambulatory difficulty,C18105
+C18105_001M,int,Margin of Error!!Total,C18105
+C18105_002M,int,Margin of Error!!Total!!Male,C18105
+C18105_003M,int,Margin of Error!!Total!!Male!!5 to 17 years,C18105
+C18105_004M,int,Margin of Error!!Total!!Male!!5 to 17 years!!With an ambulatory difficulty,C18105
+C18105_005M,int,Margin of Error!!Total!!Male!!5 to 17 years!!No ambulatory difficulty,C18105
+C18105_006M,int,Margin of Error!!Total!!Male!!18 to 64 years,C18105
+C18105_007M,int,Margin of Error!!Total!!Male!!18 to 64 years!!With an ambulatory difficulty,C18105
+C18105_008M,int,Margin of Error!!Total!!Male!!18 to 64 years!!No ambulatory difficulty,C18105
+C18105_009M,int,Margin of Error!!Total!!Male!!65 years and over,C18105
+C18105_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With an ambulatory difficulty,C18105
+C18105_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No ambulatory difficulty,C18105
+C18105_012M,int,Margin of Error!!Total!!Female,C18105
+C18105_013M,int,Margin of Error!!Total!!Female!!5 to 17 years,C18105
+C18105_014M,int,Margin of Error!!Total!!Female!!5 to 17 years!!With an ambulatory difficulty,C18105
+C18105_015M,int,Margin of Error!!Total!!Female!!5 to 17 years!!No ambulatory difficulty,C18105
+C18105_016M,int,Margin of Error!!Total!!Female!!18 to 64 years,C18105
+C18105_017M,int,Margin of Error!!Total!!Female!!18 to 64 years!!With an ambulatory difficulty,C18105
+C18105_018M,int,Margin of Error!!Total!!Female!!18 to 64 years!!No ambulatory difficulty,C18105
+C18105_019M,int,Margin of Error!!Total!!Female!!65 years and over,C18105
+C18105_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With an ambulatory difficulty,C18105
+C18105_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No ambulatory difficulty,C18105
+C18105_001EA,string,Annotation of Estimate!!Total,C18105
+C18105_001MA,string,Annotation of Margin of Error!!Total,C18105
+C18105_002EA,string,Annotation of Estimate!!Total!!Male,C18105
+C18105_002MA,string,Annotation of Margin of Error!!Total!!Male,C18105
+C18105_003EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years,C18105
+C18105_003MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years,C18105
+C18105_004EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years!!With an ambulatory difficulty,C18105
+C18105_004MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years!!With an ambulatory difficulty,C18105
+C18105_005EA,string,Annotation of Estimate!!Total!!Male!!5 to 17 years!!No ambulatory difficulty,C18105
+C18105_005MA,string,Annotation of Margin of Error!!Total!!Male!!5 to 17 years!!No ambulatory difficulty,C18105
+C18105_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C18105
+C18105_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C18105
+C18105_007EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!With an ambulatory difficulty,C18105
+C18105_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!With an ambulatory difficulty,C18105
+C18105_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!No ambulatory difficulty,C18105
+C18105_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!No ambulatory difficulty,C18105
+C18105_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C18105
+C18105_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C18105
+C18105_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With an ambulatory difficulty,C18105
+C18105_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With an ambulatory difficulty,C18105
+C18105_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No ambulatory difficulty,C18105
+C18105_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No ambulatory difficulty,C18105
+C18105_012EA,string,Annotation of Estimate!!Total!!Female,C18105
+C18105_012MA,string,Annotation of Margin of Error!!Total!!Female,C18105
+C18105_013EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years,C18105
+C18105_013MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years,C18105
+C18105_014EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years!!With an ambulatory difficulty,C18105
+C18105_014MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years!!With an ambulatory difficulty,C18105
+C18105_015EA,string,Annotation of Estimate!!Total!!Female!!5 to 17 years!!No ambulatory difficulty,C18105
+C18105_015MA,string,Annotation of Margin of Error!!Total!!Female!!5 to 17 years!!No ambulatory difficulty,C18105
+C18105_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C18105
+C18105_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C18105
+C18105_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!With an ambulatory difficulty,C18105
+C18105_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!With an ambulatory difficulty,C18105
+C18105_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!No ambulatory difficulty,C18105
+C18105_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!No ambulatory difficulty,C18105
+C18105_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C18105
+C18105_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C18105
+C18105_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With an ambulatory difficulty,C18105
+C18105_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With an ambulatory difficulty,C18105
+C18105_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No ambulatory difficulty,C18105
+C18105_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No ambulatory difficulty,C18105

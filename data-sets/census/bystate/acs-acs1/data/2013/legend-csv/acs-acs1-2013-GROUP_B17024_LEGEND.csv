@@ -1,0 +1,525 @@
+VARIABLE,TYPE,LABEL,GROUP
+B17024_001E,int,Estimate!!Total,B17024
+B17024_002E,int,Estimate!!Total!!Under 6 years,B17024
+B17024_003E,int,Estimate!!Total!!Under 6 years!!Under .50,B17024
+B17024_004E,int,Estimate!!Total!!Under 6 years!!.50 to .74,B17024
+B17024_005E,int,Estimate!!Total!!Under 6 years!!.75 to .99,B17024
+B17024_006E,int,Estimate!!Total!!Under 6 years!!1.00 to 1.24,B17024
+B17024_007E,int,Estimate!!Total!!Under 6 years!!1.25 to 1.49,B17024
+B17024_008E,int,Estimate!!Total!!Under 6 years!!1.50 to 1.74,B17024
+B17024_009E,int,Estimate!!Total!!Under 6 years!!1.75 to 1.84,B17024
+B17024_010E,int,Estimate!!Total!!Under 6 years!!1.85 to 1.99,B17024
+B17024_011E,int,Estimate!!Total!!Under 6 years!!2.00 to 2.99,B17024
+B17024_012E,int,Estimate!!Total!!Under 6 years!!3.00 to 3.99,B17024
+B17024_013E,int,Estimate!!Total!!Under 6 years!!4.00 to 4.99,B17024
+B17024_014E,int,Estimate!!Total!!Under 6 years!!5.00 and over,B17024
+B17024_015E,int,Estimate!!Total!!6 to 11 years,B17024
+B17024_016E,int,Estimate!!Total!!6 to 11 years!!Under .50,B17024
+B17024_017E,int,Estimate!!Total!!6 to 11 years!!.50 to .74,B17024
+B17024_018E,int,Estimate!!Total!!6 to 11 years!!.75 to .99,B17024
+B17024_019E,int,Estimate!!Total!!6 to 11 years!!1.00 to 1.24,B17024
+B17024_020E,int,Estimate!!Total!!6 to 11 years!!1.25 to 1.49,B17024
+B17024_021E,int,Estimate!!Total!!6 to 11 years!!1.50 to 1.74,B17024
+B17024_022E,int,Estimate!!Total!!6 to 11 years!!1.75 to 1.84,B17024
+B17024_023E,int,Estimate!!Total!!6 to 11 years!!1.85 to 1.99,B17024
+B17024_024E,int,Estimate!!Total!!6 to 11 years!!2.00 to 2.99,B17024
+B17024_025E,int,Estimate!!Total!!6 to 11 years!!3.00 to 3.99,B17024
+B17024_026E,int,Estimate!!Total!!6 to 11 years!!4.00 to 4.99,B17024
+B17024_027E,int,Estimate!!Total!!6 to 11 years!!5.00 and over,B17024
+B17024_028E,int,Estimate!!Total!!12 to 17 years,B17024
+B17024_029E,int,Estimate!!Total!!12 to 17 years!!Under .50,B17024
+B17024_030E,int,Estimate!!Total!!12 to 17 years!!.50 to .74,B17024
+B17024_031E,int,Estimate!!Total!!12 to 17 years!!.75 to .99,B17024
+B17024_032E,int,Estimate!!Total!!12 to 17 years!!1.00 to 1.24,B17024
+B17024_033E,int,Estimate!!Total!!12 to 17 years!!1.25 to 1.49,B17024
+B17024_034E,int,Estimate!!Total!!12 to 17 years!!1.50 to 1.74,B17024
+B17024_035E,int,Estimate!!Total!!12 to 17 years!!1.75 to 1.84,B17024
+B17024_036E,int,Estimate!!Total!!12 to 17 years!!1.85 to 1.99,B17024
+B17024_037E,int,Estimate!!Total!!12 to 17 years!!2.00 to 2.99,B17024
+B17024_038E,int,Estimate!!Total!!12 to 17 years!!3.00 to 3.99,B17024
+B17024_039E,int,Estimate!!Total!!12 to 17 years!!4.00 to 4.99,B17024
+B17024_040E,int,Estimate!!Total!!12 to 17 years!!5.00 and over,B17024
+B17024_041E,int,Estimate!!Total!!18 to 24 years,B17024
+B17024_042E,int,Estimate!!Total!!18 to 24 years!!Under .50,B17024
+B17024_043E,int,Estimate!!Total!!18 to 24 years!!.50 to .74,B17024
+B17024_044E,int,Estimate!!Total!!18 to 24 years!!.75 to .99,B17024
+B17024_045E,int,Estimate!!Total!!18 to 24 years!!1.00 to 1.24,B17024
+B17024_046E,int,Estimate!!Total!!18 to 24 years!!1.25 to 1.49,B17024
+B17024_047E,int,Estimate!!Total!!18 to 24 years!!1.50 to 1.74,B17024
+B17024_048E,int,Estimate!!Total!!18 to 24 years!!1.75 to 1.84,B17024
+B17024_049E,int,Estimate!!Total!!18 to 24 years!!1.85 to 1.99,B17024
+B17024_050E,int,Estimate!!Total!!18 to 24 years!!2.00 to 2.99,B17024
+B17024_051E,int,Estimate!!Total!!18 to 24 years!!3.00 to 3.99,B17024
+B17024_052E,int,Estimate!!Total!!18 to 24 years!!4.00 to 4.99,B17024
+B17024_053E,int,Estimate!!Total!!18 to 24 years!!5.00 and over,B17024
+B17024_054E,int,Estimate!!Total!!25 to 34 years,B17024
+B17024_055E,int,Estimate!!Total!!25 to 34 years!!Under .50,B17024
+B17024_056E,int,Estimate!!Total!!25 to 34 years!!.50 to .74,B17024
+B17024_057E,int,Estimate!!Total!!25 to 34 years!!.75 to .99,B17024
+B17024_058E,int,Estimate!!Total!!25 to 34 years!!1.00 to 1.24,B17024
+B17024_059E,int,Estimate!!Total!!25 to 34 years!!1.25 to 1.49,B17024
+B17024_060E,int,Estimate!!Total!!25 to 34 years!!1.50 to 1.74,B17024
+B17024_061E,int,Estimate!!Total!!25 to 34 years!!1.75 to 1.84,B17024
+B17024_062E,int,Estimate!!Total!!25 to 34 years!!1.85 to 1.99,B17024
+B17024_063E,int,Estimate!!Total!!25 to 34 years!!2.00 to 2.99,B17024
+B17024_064E,int,Estimate!!Total!!25 to 34 years!!3.00 to 3.99,B17024
+B17024_065E,int,Estimate!!Total!!25 to 34 years!!4.00 to 4.99,B17024
+B17024_066E,int,Estimate!!Total!!25 to 34 years!!5.00 and over,B17024
+B17024_067E,int,Estimate!!Total!!35 to 44 years,B17024
+B17024_068E,int,Estimate!!Total!!35 to 44 years!!Under .50,B17024
+B17024_069E,int,Estimate!!Total!!35 to 44 years!!.50 to .74,B17024
+B17024_070E,int,Estimate!!Total!!35 to 44 years!!.75 to .99,B17024
+B17024_071E,int,Estimate!!Total!!35 to 44 years!!1.00 to 1.24,B17024
+B17024_072E,int,Estimate!!Total!!35 to 44 years!!1.25 to 1.49,B17024
+B17024_073E,int,Estimate!!Total!!35 to 44 years!!1.50 to 1.74,B17024
+B17024_074E,int,Estimate!!Total!!35 to 44 years!!1.75 to 1.84,B17024
+B17024_075E,int,Estimate!!Total!!35 to 44 years!!1.85 to 1.99,B17024
+B17024_076E,int,Estimate!!Total!!35 to 44 years!!2.00 to 2.99,B17024
+B17024_077E,int,Estimate!!Total!!35 to 44 years!!3.00 to 3.99,B17024
+B17024_078E,int,Estimate!!Total!!35 to 44 years!!4.00 to 4.99,B17024
+B17024_079E,int,Estimate!!Total!!35 to 44 years!!5.00 and over,B17024
+B17024_080E,int,Estimate!!Total!!45 to 54 years,B17024
+B17024_081E,int,Estimate!!Total!!45 to 54 years!!Under .50,B17024
+B17024_082E,int,Estimate!!Total!!45 to 54 years!!.50 to .74,B17024
+B17024_083E,int,Estimate!!Total!!45 to 54 years!!.75 to .99,B17024
+B17024_084E,int,Estimate!!Total!!45 to 54 years!!1.00 to 1.24,B17024
+B17024_085E,int,Estimate!!Total!!45 to 54 years!!1.25 to 1.49,B17024
+B17024_086E,int,Estimate!!Total!!45 to 54 years!!1.50 to 1.74,B17024
+B17024_087E,int,Estimate!!Total!!45 to 54 years!!1.75 to 1.84,B17024
+B17024_088E,int,Estimate!!Total!!45 to 54 years!!1.85 to 1.99,B17024
+B17024_089E,int,Estimate!!Total!!45 to 54 years!!2.00 to 2.99,B17024
+B17024_090E,int,Estimate!!Total!!45 to 54 years!!3.00 to 3.99,B17024
+B17024_091E,int,Estimate!!Total!!45 to 54 years!!4.00 to 4.99,B17024
+B17024_092E,int,Estimate!!Total!!45 to 54 years!!5.00 and over,B17024
+B17024_093E,int,Estimate!!Total!!55 to 64 years,B17024
+B17024_094E,int,Estimate!!Total!!55 to 64 years!!Under .50,B17024
+B17024_095E,int,Estimate!!Total!!55 to 64 years!!.50 to .74,B17024
+B17024_096E,int,Estimate!!Total!!55 to 64 years!!.75 to .99,B17024
+B17024_097E,int,Estimate!!Total!!55 to 64 years!!1.00 to 1.24,B17024
+B17024_098E,int,Estimate!!Total!!55 to 64 years!!1.25 to 1.49,B17024
+B17024_099E,int,Estimate!!Total!!55 to 64 years!!1.50 to 1.74,B17024
+B17024_100E,int,Estimate!!Total!!55 to 64 years!!1.75 to 1.84,B17024
+B17024_101E,int,Estimate!!Total!!55 to 64 years!!1.85 to 1.99,B17024
+B17024_102E,int,Estimate!!Total!!55 to 64 years!!2.00 to 2.99,B17024
+B17024_103E,int,Estimate!!Total!!55 to 64 years!!3.00 to 3.99,B17024
+B17024_104E,int,Estimate!!Total!!55 to 64 years!!4.00 to 4.99,B17024
+B17024_105E,int,Estimate!!Total!!55 to 64 years!!5.00 and over,B17024
+B17024_106E,int,Estimate!!Total!!65 to 74 years,B17024
+B17024_107E,int,Estimate!!Total!!65 to 74 years!!Under .50,B17024
+B17024_108E,int,Estimate!!Total!!65 to 74 years!!.50 to .74,B17024
+B17024_109E,int,Estimate!!Total!!65 to 74 years!!.75 to .99,B17024
+B17024_110E,int,Estimate!!Total!!65 to 74 years!!1.00 to 1.24,B17024
+B17024_111E,int,Estimate!!Total!!65 to 74 years!!1.25 to 1.49,B17024
+B17024_112E,int,Estimate!!Total!!65 to 74 years!!1.50 to 1.74,B17024
+B17024_113E,int,Estimate!!Total!!65 to 74 years!!1.75 to 1.84,B17024
+B17024_114E,int,Estimate!!Total!!65 to 74 years!!1.85 to 1.99,B17024
+B17024_115E,int,Estimate!!Total!!65 to 74 years!!2.00 to 2.99,B17024
+B17024_116E,int,Estimate!!Total!!65 to 74 years!!3.00 to 3.99,B17024
+B17024_117E,int,Estimate!!Total!!65 to 74 years!!4.00 to 4.99,B17024
+B17024_118E,int,Estimate!!Total!!65 to 74 years!!5.00 and over,B17024
+B17024_119E,int,Estimate!!Total!!75 years and over,B17024
+B17024_120E,int,Estimate!!Total!!75 years and over!!Under .50,B17024
+B17024_121E,int,Estimate!!Total!!75 years and over!!.50 to .74,B17024
+B17024_122E,int,Estimate!!Total!!75 years and over!!.75 to .99,B17024
+B17024_123E,int,Estimate!!Total!!75 years and over!!1.00 to 1.24,B17024
+B17024_124E,int,Estimate!!Total!!75 years and over!!1.25 to 1.49,B17024
+B17024_125E,int,Estimate!!Total!!75 years and over!!1.50 to 1.74,B17024
+B17024_126E,int,Estimate!!Total!!75 years and over!!1.75 to 1.84,B17024
+B17024_127E,int,Estimate!!Total!!75 years and over!!1.85 to 1.99,B17024
+B17024_128E,int,Estimate!!Total!!75 years and over!!2.00 to 2.99,B17024
+B17024_129E,int,Estimate!!Total!!75 years and over!!3.00 to 3.99,B17024
+B17024_130E,int,Estimate!!Total!!75 years and over!!4.00 to 4.99,B17024
+B17024_131E,int,Estimate!!Total!!75 years and over!!5.00 and over,B17024
+B17024_001M,int,Margin of Error!!Total,B17024
+B17024_002M,int,Margin of Error!!Total!!Under 6 years,B17024
+B17024_003M,int,Margin of Error!!Total!!Under 6 years!!Under .50,B17024
+B17024_004M,int,Margin of Error!!Total!!Under 6 years!!.50 to .74,B17024
+B17024_005M,int,Margin of Error!!Total!!Under 6 years!!.75 to .99,B17024
+B17024_006M,int,Margin of Error!!Total!!Under 6 years!!1.00 to 1.24,B17024
+B17024_007M,int,Margin of Error!!Total!!Under 6 years!!1.25 to 1.49,B17024
+B17024_008M,int,Margin of Error!!Total!!Under 6 years!!1.50 to 1.74,B17024
+B17024_009M,int,Margin of Error!!Total!!Under 6 years!!1.75 to 1.84,B17024
+B17024_010M,int,Margin of Error!!Total!!Under 6 years!!1.85 to 1.99,B17024
+B17024_011M,int,Margin of Error!!Total!!Under 6 years!!2.00 to 2.99,B17024
+B17024_012M,int,Margin of Error!!Total!!Under 6 years!!3.00 to 3.99,B17024
+B17024_013M,int,Margin of Error!!Total!!Under 6 years!!4.00 to 4.99,B17024
+B17024_014M,int,Margin of Error!!Total!!Under 6 years!!5.00 and over,B17024
+B17024_015M,int,Margin of Error!!Total!!6 to 11 years,B17024
+B17024_016M,int,Margin of Error!!Total!!6 to 11 years!!Under .50,B17024
+B17024_017M,int,Margin of Error!!Total!!6 to 11 years!!.50 to .74,B17024
+B17024_018M,int,Margin of Error!!Total!!6 to 11 years!!.75 to .99,B17024
+B17024_019M,int,Margin of Error!!Total!!6 to 11 years!!1.00 to 1.24,B17024
+B17024_020M,int,Margin of Error!!Total!!6 to 11 years!!1.25 to 1.49,B17024
+B17024_021M,int,Margin of Error!!Total!!6 to 11 years!!1.50 to 1.74,B17024
+B17024_022M,int,Margin of Error!!Total!!6 to 11 years!!1.75 to 1.84,B17024
+B17024_023M,int,Margin of Error!!Total!!6 to 11 years!!1.85 to 1.99,B17024
+B17024_024M,int,Margin of Error!!Total!!6 to 11 years!!2.00 to 2.99,B17024
+B17024_025M,int,Margin of Error!!Total!!6 to 11 years!!3.00 to 3.99,B17024
+B17024_026M,int,Margin of Error!!Total!!6 to 11 years!!4.00 to 4.99,B17024
+B17024_027M,int,Margin of Error!!Total!!6 to 11 years!!5.00 and over,B17024
+B17024_028M,int,Margin of Error!!Total!!12 to 17 years,B17024
+B17024_029M,int,Margin of Error!!Total!!12 to 17 years!!Under .50,B17024
+B17024_030M,int,Margin of Error!!Total!!12 to 17 years!!.50 to .74,B17024
+B17024_031M,int,Margin of Error!!Total!!12 to 17 years!!.75 to .99,B17024
+B17024_032M,int,Margin of Error!!Total!!12 to 17 years!!1.00 to 1.24,B17024
+B17024_033M,int,Margin of Error!!Total!!12 to 17 years!!1.25 to 1.49,B17024
+B17024_034M,int,Margin of Error!!Total!!12 to 17 years!!1.50 to 1.74,B17024
+B17024_035M,int,Margin of Error!!Total!!12 to 17 years!!1.75 to 1.84,B17024
+B17024_036M,int,Margin of Error!!Total!!12 to 17 years!!1.85 to 1.99,B17024
+B17024_037M,int,Margin of Error!!Total!!12 to 17 years!!2.00 to 2.99,B17024
+B17024_038M,int,Margin of Error!!Total!!12 to 17 years!!3.00 to 3.99,B17024
+B17024_039M,int,Margin of Error!!Total!!12 to 17 years!!4.00 to 4.99,B17024
+B17024_040M,int,Margin of Error!!Total!!12 to 17 years!!5.00 and over,B17024
+B17024_041M,int,Margin of Error!!Total!!18 to 24 years,B17024
+B17024_042M,int,Margin of Error!!Total!!18 to 24 years!!Under .50,B17024
+B17024_043M,int,Margin of Error!!Total!!18 to 24 years!!.50 to .74,B17024
+B17024_044M,int,Margin of Error!!Total!!18 to 24 years!!.75 to .99,B17024
+B17024_045M,int,Margin of Error!!Total!!18 to 24 years!!1.00 to 1.24,B17024
+B17024_046M,int,Margin of Error!!Total!!18 to 24 years!!1.25 to 1.49,B17024
+B17024_047M,int,Margin of Error!!Total!!18 to 24 years!!1.50 to 1.74,B17024
+B17024_048M,int,Margin of Error!!Total!!18 to 24 years!!1.75 to 1.84,B17024
+B17024_049M,int,Margin of Error!!Total!!18 to 24 years!!1.85 to 1.99,B17024
+B17024_050M,int,Margin of Error!!Total!!18 to 24 years!!2.00 to 2.99,B17024
+B17024_051M,int,Margin of Error!!Total!!18 to 24 years!!3.00 to 3.99,B17024
+B17024_052M,int,Margin of Error!!Total!!18 to 24 years!!4.00 to 4.99,B17024
+B17024_053M,int,Margin of Error!!Total!!18 to 24 years!!5.00 and over,B17024
+B17024_054M,int,Margin of Error!!Total!!25 to 34 years,B17024
+B17024_055M,int,Margin of Error!!Total!!25 to 34 years!!Under .50,B17024
+B17024_056M,int,Margin of Error!!Total!!25 to 34 years!!.50 to .74,B17024
+B17024_057M,int,Margin of Error!!Total!!25 to 34 years!!.75 to .99,B17024
+B17024_058M,int,Margin of Error!!Total!!25 to 34 years!!1.00 to 1.24,B17024
+B17024_059M,int,Margin of Error!!Total!!25 to 34 years!!1.25 to 1.49,B17024
+B17024_060M,int,Margin of Error!!Total!!25 to 34 years!!1.50 to 1.74,B17024
+B17024_061M,int,Margin of Error!!Total!!25 to 34 years!!1.75 to 1.84,B17024
+B17024_062M,int,Margin of Error!!Total!!25 to 34 years!!1.85 to 1.99,B17024
+B17024_063M,int,Margin of Error!!Total!!25 to 34 years!!2.00 to 2.99,B17024
+B17024_064M,int,Margin of Error!!Total!!25 to 34 years!!3.00 to 3.99,B17024
+B17024_065M,int,Margin of Error!!Total!!25 to 34 years!!4.00 to 4.99,B17024
+B17024_066M,int,Margin of Error!!Total!!25 to 34 years!!5.00 and over,B17024
+B17024_067M,int,Margin of Error!!Total!!35 to 44 years,B17024
+B17024_068M,int,Margin of Error!!Total!!35 to 44 years!!Under .50,B17024
+B17024_069M,int,Margin of Error!!Total!!35 to 44 years!!.50 to .74,B17024
+B17024_070M,int,Margin of Error!!Total!!35 to 44 years!!.75 to .99,B17024
+B17024_071M,int,Margin of Error!!Total!!35 to 44 years!!1.00 to 1.24,B17024
+B17024_072M,int,Margin of Error!!Total!!35 to 44 years!!1.25 to 1.49,B17024
+B17024_073M,int,Margin of Error!!Total!!35 to 44 years!!1.50 to 1.74,B17024
+B17024_074M,int,Margin of Error!!Total!!35 to 44 years!!1.75 to 1.84,B17024
+B17024_075M,int,Margin of Error!!Total!!35 to 44 years!!1.85 to 1.99,B17024
+B17024_076M,int,Margin of Error!!Total!!35 to 44 years!!2.00 to 2.99,B17024
+B17024_077M,int,Margin of Error!!Total!!35 to 44 years!!3.00 to 3.99,B17024
+B17024_078M,int,Margin of Error!!Total!!35 to 44 years!!4.00 to 4.99,B17024
+B17024_079M,int,Margin of Error!!Total!!35 to 44 years!!5.00 and over,B17024
+B17024_080M,int,Margin of Error!!Total!!45 to 54 years,B17024
+B17024_081M,int,Margin of Error!!Total!!45 to 54 years!!Under .50,B17024
+B17024_082M,int,Margin of Error!!Total!!45 to 54 years!!.50 to .74,B17024
+B17024_083M,int,Margin of Error!!Total!!45 to 54 years!!.75 to .99,B17024
+B17024_084M,int,Margin of Error!!Total!!45 to 54 years!!1.00 to 1.24,B17024
+B17024_085M,int,Margin of Error!!Total!!45 to 54 years!!1.25 to 1.49,B17024
+B17024_086M,int,Margin of Error!!Total!!45 to 54 years!!1.50 to 1.74,B17024
+B17024_087M,int,Margin of Error!!Total!!45 to 54 years!!1.75 to 1.84,B17024
+B17024_088M,int,Margin of Error!!Total!!45 to 54 years!!1.85 to 1.99,B17024
+B17024_089M,int,Margin of Error!!Total!!45 to 54 years!!2.00 to 2.99,B17024
+B17024_090M,int,Margin of Error!!Total!!45 to 54 years!!3.00 to 3.99,B17024
+B17024_091M,int,Margin of Error!!Total!!45 to 54 years!!4.00 to 4.99,B17024
+B17024_092M,int,Margin of Error!!Total!!45 to 54 years!!5.00 and over,B17024
+B17024_093M,int,Margin of Error!!Total!!55 to 64 years,B17024
+B17024_094M,int,Margin of Error!!Total!!55 to 64 years!!Under .50,B17024
+B17024_095M,int,Margin of Error!!Total!!55 to 64 years!!.50 to .74,B17024
+B17024_096M,int,Margin of Error!!Total!!55 to 64 years!!.75 to .99,B17024
+B17024_097M,int,Margin of Error!!Total!!55 to 64 years!!1.00 to 1.24,B17024
+B17024_098M,int,Margin of Error!!Total!!55 to 64 years!!1.25 to 1.49,B17024
+B17024_099M,int,Margin of Error!!Total!!55 to 64 years!!1.50 to 1.74,B17024
+B17024_100M,int,Margin of Error!!Total!!55 to 64 years!!1.75 to 1.84,B17024
+B17024_101M,int,Margin of Error!!Total!!55 to 64 years!!1.85 to 1.99,B17024
+B17024_102M,int,Margin of Error!!Total!!55 to 64 years!!2.00 to 2.99,B17024
+B17024_103M,int,Margin of Error!!Total!!55 to 64 years!!3.00 to 3.99,B17024
+B17024_104M,int,Margin of Error!!Total!!55 to 64 years!!4.00 to 4.99,B17024
+B17024_105M,int,Margin of Error!!Total!!55 to 64 years!!5.00 and over,B17024
+B17024_106M,int,Margin of Error!!Total!!65 to 74 years,B17024
+B17024_107M,int,Margin of Error!!Total!!65 to 74 years!!Under .50,B17024
+B17024_108M,int,Margin of Error!!Total!!65 to 74 years!!.50 to .74,B17024
+B17024_109M,int,Margin of Error!!Total!!65 to 74 years!!.75 to .99,B17024
+B17024_110M,int,Margin of Error!!Total!!65 to 74 years!!1.00 to 1.24,B17024
+B17024_111M,int,Margin of Error!!Total!!65 to 74 years!!1.25 to 1.49,B17024
+B17024_112M,int,Margin of Error!!Total!!65 to 74 years!!1.50 to 1.74,B17024
+B17024_113M,int,Margin of Error!!Total!!65 to 74 years!!1.75 to 1.84,B17024
+B17024_114M,int,Margin of Error!!Total!!65 to 74 years!!1.85 to 1.99,B17024
+B17024_115M,int,Margin of Error!!Total!!65 to 74 years!!2.00 to 2.99,B17024
+B17024_116M,int,Margin of Error!!Total!!65 to 74 years!!3.00 to 3.99,B17024
+B17024_117M,int,Margin of Error!!Total!!65 to 74 years!!4.00 to 4.99,B17024
+B17024_118M,int,Margin of Error!!Total!!65 to 74 years!!5.00 and over,B17024
+B17024_119M,int,Margin of Error!!Total!!75 years and over,B17024
+B17024_120M,int,Margin of Error!!Total!!75 years and over!!Under .50,B17024
+B17024_121M,int,Margin of Error!!Total!!75 years and over!!.50 to .74,B17024
+B17024_122M,int,Margin of Error!!Total!!75 years and over!!.75 to .99,B17024
+B17024_123M,int,Margin of Error!!Total!!75 years and over!!1.00 to 1.24,B17024
+B17024_124M,int,Margin of Error!!Total!!75 years and over!!1.25 to 1.49,B17024
+B17024_125M,int,Margin of Error!!Total!!75 years and over!!1.50 to 1.74,B17024
+B17024_126M,int,Margin of Error!!Total!!75 years and over!!1.75 to 1.84,B17024
+B17024_127M,int,Margin of Error!!Total!!75 years and over!!1.85 to 1.99,B17024
+B17024_128M,int,Margin of Error!!Total!!75 years and over!!2.00 to 2.99,B17024
+B17024_129M,int,Margin of Error!!Total!!75 years and over!!3.00 to 3.99,B17024
+B17024_130M,int,Margin of Error!!Total!!75 years and over!!4.00 to 4.99,B17024
+B17024_131M,int,Margin of Error!!Total!!75 years and over!!5.00 and over,B17024
+B17024_001EA,string,Annotation of Estimate!!Total,B17024
+B17024_001MA,string,Annotation of Margin of Error!!Total,B17024
+B17024_002EA,string,Annotation of Estimate!!Total!!Under 6 years,B17024
+B17024_002MA,string,Annotation of Margin of Error!!Total!!Under 6 years,B17024
+B17024_003EA,string,Annotation of Estimate!!Total!!Under 6 years!!Under .50,B17024
+B17024_003MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!Under .50,B17024
+B17024_004EA,string,Annotation of Estimate!!Total!!Under 6 years!!.50 to .74,B17024
+B17024_004MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!.50 to .74,B17024
+B17024_005EA,string,Annotation of Estimate!!Total!!Under 6 years!!.75 to .99,B17024
+B17024_005MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!.75 to .99,B17024
+B17024_006EA,string,Annotation of Estimate!!Total!!Under 6 years!!1.00 to 1.24,B17024
+B17024_006MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!1.00 to 1.24,B17024
+B17024_007EA,string,Annotation of Estimate!!Total!!Under 6 years!!1.25 to 1.49,B17024
+B17024_007MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!1.25 to 1.49,B17024
+B17024_008EA,string,Annotation of Estimate!!Total!!Under 6 years!!1.50 to 1.74,B17024
+B17024_008MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!1.50 to 1.74,B17024
+B17024_009EA,string,Annotation of Estimate!!Total!!Under 6 years!!1.75 to 1.84,B17024
+B17024_009MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!1.75 to 1.84,B17024
+B17024_010EA,string,Annotation of Estimate!!Total!!Under 6 years!!1.85 to 1.99,B17024
+B17024_010MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!1.85 to 1.99,B17024
+B17024_011EA,string,Annotation of Estimate!!Total!!Under 6 years!!2.00 to 2.99,B17024
+B17024_011MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!2.00 to 2.99,B17024
+B17024_012EA,string,Annotation of Estimate!!Total!!Under 6 years!!3.00 to 3.99,B17024
+B17024_012MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!3.00 to 3.99,B17024
+B17024_013EA,string,Annotation of Estimate!!Total!!Under 6 years!!4.00 to 4.99,B17024
+B17024_013MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!4.00 to 4.99,B17024
+B17024_014EA,string,Annotation of Estimate!!Total!!Under 6 years!!5.00 and over,B17024
+B17024_014MA,string,Annotation of Margin of Error!!Total!!Under 6 years!!5.00 and over,B17024
+B17024_015EA,string,Annotation of Estimate!!Total!!6 to 11 years,B17024
+B17024_015MA,string,Annotation of Margin of Error!!Total!!6 to 11 years,B17024
+B17024_016EA,string,Annotation of Estimate!!Total!!6 to 11 years!!Under .50,B17024
+B17024_016MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!Under .50,B17024
+B17024_017EA,string,Annotation of Estimate!!Total!!6 to 11 years!!.50 to .74,B17024
+B17024_017MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!.50 to .74,B17024
+B17024_018EA,string,Annotation of Estimate!!Total!!6 to 11 years!!.75 to .99,B17024
+B17024_018MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!.75 to .99,B17024
+B17024_019EA,string,Annotation of Estimate!!Total!!6 to 11 years!!1.00 to 1.24,B17024
+B17024_019MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!1.00 to 1.24,B17024
+B17024_020EA,string,Annotation of Estimate!!Total!!6 to 11 years!!1.25 to 1.49,B17024
+B17024_020MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!1.25 to 1.49,B17024
+B17024_021EA,string,Annotation of Estimate!!Total!!6 to 11 years!!1.50 to 1.74,B17024
+B17024_021MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!1.50 to 1.74,B17024
+B17024_022EA,string,Annotation of Estimate!!Total!!6 to 11 years!!1.75 to 1.84,B17024
+B17024_022MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!1.75 to 1.84,B17024
+B17024_023EA,string,Annotation of Estimate!!Total!!6 to 11 years!!1.85 to 1.99,B17024
+B17024_023MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!1.85 to 1.99,B17024
+B17024_024EA,string,Annotation of Estimate!!Total!!6 to 11 years!!2.00 to 2.99,B17024
+B17024_024MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!2.00 to 2.99,B17024
+B17024_025EA,string,Annotation of Estimate!!Total!!6 to 11 years!!3.00 to 3.99,B17024
+B17024_025MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!3.00 to 3.99,B17024
+B17024_026EA,string,Annotation of Estimate!!Total!!6 to 11 years!!4.00 to 4.99,B17024
+B17024_026MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!4.00 to 4.99,B17024
+B17024_027EA,string,Annotation of Estimate!!Total!!6 to 11 years!!5.00 and over,B17024
+B17024_027MA,string,Annotation of Margin of Error!!Total!!6 to 11 years!!5.00 and over,B17024
+B17024_028EA,string,Annotation of Estimate!!Total!!12 to 17 years,B17024
+B17024_028MA,string,Annotation of Margin of Error!!Total!!12 to 17 years,B17024
+B17024_029EA,string,Annotation of Estimate!!Total!!12 to 17 years!!Under .50,B17024
+B17024_029MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!Under .50,B17024
+B17024_030EA,string,Annotation of Estimate!!Total!!12 to 17 years!!.50 to .74,B17024
+B17024_030MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!.50 to .74,B17024
+B17024_031EA,string,Annotation of Estimate!!Total!!12 to 17 years!!.75 to .99,B17024
+B17024_031MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!.75 to .99,B17024
+B17024_032EA,string,Annotation of Estimate!!Total!!12 to 17 years!!1.00 to 1.24,B17024
+B17024_032MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!1.00 to 1.24,B17024
+B17024_033EA,string,Annotation of Estimate!!Total!!12 to 17 years!!1.25 to 1.49,B17024
+B17024_033MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!1.25 to 1.49,B17024
+B17024_034EA,string,Annotation of Estimate!!Total!!12 to 17 years!!1.50 to 1.74,B17024
+B17024_034MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!1.50 to 1.74,B17024
+B17024_035EA,string,Annotation of Estimate!!Total!!12 to 17 years!!1.75 to 1.84,B17024
+B17024_035MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!1.75 to 1.84,B17024
+B17024_036EA,string,Annotation of Estimate!!Total!!12 to 17 years!!1.85 to 1.99,B17024
+B17024_036MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!1.85 to 1.99,B17024
+B17024_037EA,string,Annotation of Estimate!!Total!!12 to 17 years!!2.00 to 2.99,B17024
+B17024_037MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!2.00 to 2.99,B17024
+B17024_038EA,string,Annotation of Estimate!!Total!!12 to 17 years!!3.00 to 3.99,B17024
+B17024_038MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!3.00 to 3.99,B17024
+B17024_039EA,string,Annotation of Estimate!!Total!!12 to 17 years!!4.00 to 4.99,B17024
+B17024_039MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!4.00 to 4.99,B17024
+B17024_040EA,string,Annotation of Estimate!!Total!!12 to 17 years!!5.00 and over,B17024
+B17024_040MA,string,Annotation of Margin of Error!!Total!!12 to 17 years!!5.00 and over,B17024
+B17024_041EA,string,Annotation of Estimate!!Total!!18 to 24 years,B17024
+B17024_041MA,string,Annotation of Margin of Error!!Total!!18 to 24 years,B17024
+B17024_042EA,string,Annotation of Estimate!!Total!!18 to 24 years!!Under .50,B17024
+B17024_042MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!Under .50,B17024
+B17024_043EA,string,Annotation of Estimate!!Total!!18 to 24 years!!.50 to .74,B17024
+B17024_043MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!.50 to .74,B17024
+B17024_044EA,string,Annotation of Estimate!!Total!!18 to 24 years!!.75 to .99,B17024
+B17024_044MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!.75 to .99,B17024
+B17024_045EA,string,Annotation of Estimate!!Total!!18 to 24 years!!1.00 to 1.24,B17024
+B17024_045MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!1.00 to 1.24,B17024
+B17024_046EA,string,Annotation of Estimate!!Total!!18 to 24 years!!1.25 to 1.49,B17024
+B17024_046MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!1.25 to 1.49,B17024
+B17024_047EA,string,Annotation of Estimate!!Total!!18 to 24 years!!1.50 to 1.74,B17024
+B17024_047MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!1.50 to 1.74,B17024
+B17024_048EA,string,Annotation of Estimate!!Total!!18 to 24 years!!1.75 to 1.84,B17024
+B17024_048MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!1.75 to 1.84,B17024
+B17024_049EA,string,Annotation of Estimate!!Total!!18 to 24 years!!1.85 to 1.99,B17024
+B17024_049MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!1.85 to 1.99,B17024
+B17024_050EA,string,Annotation of Estimate!!Total!!18 to 24 years!!2.00 to 2.99,B17024
+B17024_050MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!2.00 to 2.99,B17024
+B17024_051EA,string,Annotation of Estimate!!Total!!18 to 24 years!!3.00 to 3.99,B17024
+B17024_051MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!3.00 to 3.99,B17024
+B17024_052EA,string,Annotation of Estimate!!Total!!18 to 24 years!!4.00 to 4.99,B17024
+B17024_052MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!4.00 to 4.99,B17024
+B17024_053EA,string,Annotation of Estimate!!Total!!18 to 24 years!!5.00 and over,B17024
+B17024_053MA,string,Annotation of Margin of Error!!Total!!18 to 24 years!!5.00 and over,B17024
+B17024_054EA,string,Annotation of Estimate!!Total!!25 to 34 years,B17024
+B17024_054MA,string,Annotation of Margin of Error!!Total!!25 to 34 years,B17024
+B17024_055EA,string,Annotation of Estimate!!Total!!25 to 34 years!!Under .50,B17024
+B17024_055MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!Under .50,B17024
+B17024_056EA,string,Annotation of Estimate!!Total!!25 to 34 years!!.50 to .74,B17024
+B17024_056MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!.50 to .74,B17024
+B17024_057EA,string,Annotation of Estimate!!Total!!25 to 34 years!!.75 to .99,B17024
+B17024_057MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!.75 to .99,B17024
+B17024_058EA,string,Annotation of Estimate!!Total!!25 to 34 years!!1.00 to 1.24,B17024
+B17024_058MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!1.00 to 1.24,B17024
+B17024_059EA,string,Annotation of Estimate!!Total!!25 to 34 years!!1.25 to 1.49,B17024
+B17024_059MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!1.25 to 1.49,B17024
+B17024_060EA,string,Annotation of Estimate!!Total!!25 to 34 years!!1.50 to 1.74,B17024
+B17024_060MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!1.50 to 1.74,B17024
+B17024_061EA,string,Annotation of Estimate!!Total!!25 to 34 years!!1.75 to 1.84,B17024
+B17024_061MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!1.75 to 1.84,B17024
+B17024_062EA,string,Annotation of Estimate!!Total!!25 to 34 years!!1.85 to 1.99,B17024
+B17024_062MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!1.85 to 1.99,B17024
+B17024_063EA,string,Annotation of Estimate!!Total!!25 to 34 years!!2.00 to 2.99,B17024
+B17024_063MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!2.00 to 2.99,B17024
+B17024_064EA,string,Annotation of Estimate!!Total!!25 to 34 years!!3.00 to 3.99,B17024
+B17024_064MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!3.00 to 3.99,B17024
+B17024_065EA,string,Annotation of Estimate!!Total!!25 to 34 years!!4.00 to 4.99,B17024
+B17024_065MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!4.00 to 4.99,B17024
+B17024_066EA,string,Annotation of Estimate!!Total!!25 to 34 years!!5.00 and over,B17024
+B17024_066MA,string,Annotation of Margin of Error!!Total!!25 to 34 years!!5.00 and over,B17024
+B17024_067EA,string,Annotation of Estimate!!Total!!35 to 44 years,B17024
+B17024_067MA,string,Annotation of Margin of Error!!Total!!35 to 44 years,B17024
+B17024_068EA,string,Annotation of Estimate!!Total!!35 to 44 years!!Under .50,B17024
+B17024_068MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!Under .50,B17024
+B17024_069EA,string,Annotation of Estimate!!Total!!35 to 44 years!!.50 to .74,B17024
+B17024_069MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!.50 to .74,B17024
+B17024_070EA,string,Annotation of Estimate!!Total!!35 to 44 years!!.75 to .99,B17024
+B17024_070MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!.75 to .99,B17024
+B17024_071EA,string,Annotation of Estimate!!Total!!35 to 44 years!!1.00 to 1.24,B17024
+B17024_071MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!1.00 to 1.24,B17024
+B17024_072EA,string,Annotation of Estimate!!Total!!35 to 44 years!!1.25 to 1.49,B17024
+B17024_072MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!1.25 to 1.49,B17024
+B17024_073EA,string,Annotation of Estimate!!Total!!35 to 44 years!!1.50 to 1.74,B17024
+B17024_073MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!1.50 to 1.74,B17024
+B17024_074EA,string,Annotation of Estimate!!Total!!35 to 44 years!!1.75 to 1.84,B17024
+B17024_074MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!1.75 to 1.84,B17024
+B17024_075EA,string,Annotation of Estimate!!Total!!35 to 44 years!!1.85 to 1.99,B17024
+B17024_075MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!1.85 to 1.99,B17024
+B17024_076EA,string,Annotation of Estimate!!Total!!35 to 44 years!!2.00 to 2.99,B17024
+B17024_076MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!2.00 to 2.99,B17024
+B17024_077EA,string,Annotation of Estimate!!Total!!35 to 44 years!!3.00 to 3.99,B17024
+B17024_077MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!3.00 to 3.99,B17024
+B17024_078EA,string,Annotation of Estimate!!Total!!35 to 44 years!!4.00 to 4.99,B17024
+B17024_078MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!4.00 to 4.99,B17024
+B17024_079EA,string,Annotation of Estimate!!Total!!35 to 44 years!!5.00 and over,B17024
+B17024_079MA,string,Annotation of Margin of Error!!Total!!35 to 44 years!!5.00 and over,B17024
+B17024_080EA,string,Annotation of Estimate!!Total!!45 to 54 years,B17024
+B17024_080MA,string,Annotation of Margin of Error!!Total!!45 to 54 years,B17024
+B17024_081EA,string,Annotation of Estimate!!Total!!45 to 54 years!!Under .50,B17024
+B17024_081MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!Under .50,B17024
+B17024_082EA,string,Annotation of Estimate!!Total!!45 to 54 years!!.50 to .74,B17024
+B17024_082MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!.50 to .74,B17024
+B17024_083EA,string,Annotation of Estimate!!Total!!45 to 54 years!!.75 to .99,B17024
+B17024_083MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!.75 to .99,B17024
+B17024_084EA,string,Annotation of Estimate!!Total!!45 to 54 years!!1.00 to 1.24,B17024
+B17024_084MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!1.00 to 1.24,B17024
+B17024_085EA,string,Annotation of Estimate!!Total!!45 to 54 years!!1.25 to 1.49,B17024
+B17024_085MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!1.25 to 1.49,B17024
+B17024_086EA,string,Annotation of Estimate!!Total!!45 to 54 years!!1.50 to 1.74,B17024
+B17024_086MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!1.50 to 1.74,B17024
+B17024_087EA,string,Annotation of Estimate!!Total!!45 to 54 years!!1.75 to 1.84,B17024
+B17024_087MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!1.75 to 1.84,B17024
+B17024_088EA,string,Annotation of Estimate!!Total!!45 to 54 years!!1.85 to 1.99,B17024
+B17024_088MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!1.85 to 1.99,B17024
+B17024_089EA,string,Annotation of Estimate!!Total!!45 to 54 years!!2.00 to 2.99,B17024
+B17024_089MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!2.00 to 2.99,B17024
+B17024_090EA,string,Annotation of Estimate!!Total!!45 to 54 years!!3.00 to 3.99,B17024
+B17024_090MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!3.00 to 3.99,B17024
+B17024_091EA,string,Annotation of Estimate!!Total!!45 to 54 years!!4.00 to 4.99,B17024
+B17024_091MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!4.00 to 4.99,B17024
+B17024_092EA,string,Annotation of Estimate!!Total!!45 to 54 years!!5.00 and over,B17024
+B17024_092MA,string,Annotation of Margin of Error!!Total!!45 to 54 years!!5.00 and over,B17024
+B17024_093EA,string,Annotation of Estimate!!Total!!55 to 64 years,B17024
+B17024_093MA,string,Annotation of Margin of Error!!Total!!55 to 64 years,B17024
+B17024_094EA,string,Annotation of Estimate!!Total!!55 to 64 years!!Under .50,B17024
+B17024_094MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!Under .50,B17024
+B17024_095EA,string,Annotation of Estimate!!Total!!55 to 64 years!!.50 to .74,B17024
+B17024_095MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!.50 to .74,B17024
+B17024_096EA,string,Annotation of Estimate!!Total!!55 to 64 years!!.75 to .99,B17024
+B17024_096MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!.75 to .99,B17024
+B17024_097EA,string,Annotation of Estimate!!Total!!55 to 64 years!!1.00 to 1.24,B17024
+B17024_097MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!1.00 to 1.24,B17024
+B17024_098EA,string,Annotation of Estimate!!Total!!55 to 64 years!!1.25 to 1.49,B17024
+B17024_098MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!1.25 to 1.49,B17024
+B17024_099EA,string,Annotation of Estimate!!Total!!55 to 64 years!!1.50 to 1.74,B17024
+B17024_099MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!1.50 to 1.74,B17024
+B17024_100EA,string,Annotation of Estimate!!Total!!55 to 64 years!!1.75 to 1.84,B17024
+B17024_100MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!1.75 to 1.84,B17024
+B17024_101EA,string,Annotation of Estimate!!Total!!55 to 64 years!!1.85 to 1.99,B17024
+B17024_101MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!1.85 to 1.99,B17024
+B17024_102EA,string,Annotation of Estimate!!Total!!55 to 64 years!!2.00 to 2.99,B17024
+B17024_102MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!2.00 to 2.99,B17024
+B17024_103EA,string,Annotation of Estimate!!Total!!55 to 64 years!!3.00 to 3.99,B17024
+B17024_103MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!3.00 to 3.99,B17024
+B17024_104EA,string,Annotation of Estimate!!Total!!55 to 64 years!!4.00 to 4.99,B17024
+B17024_104MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!4.00 to 4.99,B17024
+B17024_105EA,string,Annotation of Estimate!!Total!!55 to 64 years!!5.00 and over,B17024
+B17024_105MA,string,Annotation of Margin of Error!!Total!!55 to 64 years!!5.00 and over,B17024
+B17024_106EA,string,Annotation of Estimate!!Total!!65 to 74 years,B17024
+B17024_106MA,string,Annotation of Margin of Error!!Total!!65 to 74 years,B17024
+B17024_107EA,string,Annotation of Estimate!!Total!!65 to 74 years!!Under .50,B17024
+B17024_107MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!Under .50,B17024
+B17024_108EA,string,Annotation of Estimate!!Total!!65 to 74 years!!.50 to .74,B17024
+B17024_108MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!.50 to .74,B17024
+B17024_109EA,string,Annotation of Estimate!!Total!!65 to 74 years!!.75 to .99,B17024
+B17024_109MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!.75 to .99,B17024
+B17024_110EA,string,Annotation of Estimate!!Total!!65 to 74 years!!1.00 to 1.24,B17024
+B17024_110MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!1.00 to 1.24,B17024
+B17024_111EA,string,Annotation of Estimate!!Total!!65 to 74 years!!1.25 to 1.49,B17024
+B17024_111MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!1.25 to 1.49,B17024
+B17024_112EA,string,Annotation of Estimate!!Total!!65 to 74 years!!1.50 to 1.74,B17024
+B17024_112MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!1.50 to 1.74,B17024
+B17024_113EA,string,Annotation of Estimate!!Total!!65 to 74 years!!1.75 to 1.84,B17024
+B17024_113MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!1.75 to 1.84,B17024
+B17024_114EA,string,Annotation of Estimate!!Total!!65 to 74 years!!1.85 to 1.99,B17024
+B17024_114MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!1.85 to 1.99,B17024
+B17024_115EA,string,Annotation of Estimate!!Total!!65 to 74 years!!2.00 to 2.99,B17024
+B17024_115MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!2.00 to 2.99,B17024
+B17024_116EA,string,Annotation of Estimate!!Total!!65 to 74 years!!3.00 to 3.99,B17024
+B17024_116MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!3.00 to 3.99,B17024
+B17024_117EA,string,Annotation of Estimate!!Total!!65 to 74 years!!4.00 to 4.99,B17024
+B17024_117MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!4.00 to 4.99,B17024
+B17024_118EA,string,Annotation of Estimate!!Total!!65 to 74 years!!5.00 and over,B17024
+B17024_118MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!5.00 and over,B17024
+B17024_119EA,string,Annotation of Estimate!!Total!!75 years and over,B17024
+B17024_119MA,string,Annotation of Margin of Error!!Total!!75 years and over,B17024
+B17024_120EA,string,Annotation of Estimate!!Total!!75 years and over!!Under .50,B17024
+B17024_120MA,string,Annotation of Margin of Error!!Total!!75 years and over!!Under .50,B17024
+B17024_121EA,string,Annotation of Estimate!!Total!!75 years and over!!.50 to .74,B17024
+B17024_121MA,string,Annotation of Margin of Error!!Total!!75 years and over!!.50 to .74,B17024
+B17024_122EA,string,Annotation of Estimate!!Total!!75 years and over!!.75 to .99,B17024
+B17024_122MA,string,Annotation of Margin of Error!!Total!!75 years and over!!.75 to .99,B17024
+B17024_123EA,string,Annotation of Estimate!!Total!!75 years and over!!1.00 to 1.24,B17024
+B17024_123MA,string,Annotation of Margin of Error!!Total!!75 years and over!!1.00 to 1.24,B17024
+B17024_124EA,string,Annotation of Estimate!!Total!!75 years and over!!1.25 to 1.49,B17024
+B17024_124MA,string,Annotation of Margin of Error!!Total!!75 years and over!!1.25 to 1.49,B17024
+B17024_125EA,string,Annotation of Estimate!!Total!!75 years and over!!1.50 to 1.74,B17024
+B17024_125MA,string,Annotation of Margin of Error!!Total!!75 years and over!!1.50 to 1.74,B17024
+B17024_126EA,string,Annotation of Estimate!!Total!!75 years and over!!1.75 to 1.84,B17024
+B17024_126MA,string,Annotation of Margin of Error!!Total!!75 years and over!!1.75 to 1.84,B17024
+B17024_127EA,string,Annotation of Estimate!!Total!!75 years and over!!1.85 to 1.99,B17024
+B17024_127MA,string,Annotation of Margin of Error!!Total!!75 years and over!!1.85 to 1.99,B17024
+B17024_128EA,string,Annotation of Estimate!!Total!!75 years and over!!2.00 to 2.99,B17024
+B17024_128MA,string,Annotation of Margin of Error!!Total!!75 years and over!!2.00 to 2.99,B17024
+B17024_129EA,string,Annotation of Estimate!!Total!!75 years and over!!3.00 to 3.99,B17024
+B17024_129MA,string,Annotation of Margin of Error!!Total!!75 years and over!!3.00 to 3.99,B17024
+B17024_130EA,string,Annotation of Estimate!!Total!!75 years and over!!4.00 to 4.99,B17024
+B17024_130MA,string,Annotation of Margin of Error!!Total!!75 years and over!!4.00 to 4.99,B17024
+B17024_131EA,string,Annotation of Estimate!!Total!!75 years and over!!5.00 and over,B17024
+B17024_131MA,string,Annotation of Margin of Error!!Total!!75 years and over!!5.00 and over,B17024

@@ -1,0 +1,101 @@
+VARIABLE,TYPE,LABEL,GROUP
+B18108_001E,int,Estimate!!Total,B18108
+B18108_002E,int,Estimate!!Total!!Under 5 years,B18108
+B18108_003E,int,Estimate!!Total!!Under 5 years!!With either a vision or hearing difficulty but not both,B18108
+B18108_004E,int,Estimate!!Total!!Under 5 years!!With both hearing and vision difficulty,B18108
+B18108_005E,int,Estimate!!Total!!Under 5 years!!No disability,B18108
+B18108_006E,int,Estimate!!Total!!5 to 17 years,B18108
+B18108_007E,int,Estimate!!Total!!5 to 17 years!!With one type of disability,B18108
+B18108_008E,int,Estimate!!Total!!5 to 17 years!!With two or more types of disability,B18108
+B18108_009E,int,Estimate!!Total!!5 to 17 years!!No disability,B18108
+B18108_010E,int,Estimate!!Total!!18 to 34 years,B18108
+B18108_011E,int,Estimate!!Total!!18 to 34 years!!With one type of disability,B18108
+B18108_012E,int,Estimate!!Total!!18 to 34 years!!With two or more types of disability,B18108
+B18108_013E,int,Estimate!!Total!!18 to 34 years!!No disability,B18108
+B18108_014E,int,Estimate!!Total!!35 to 64 years,B18108
+B18108_015E,int,Estimate!!Total!!35 to 64 years!!With one type of disability,B18108
+B18108_016E,int,Estimate!!Total!!35 to 64 years!!With two or more types of disability,B18108
+B18108_017E,int,Estimate!!Total!!35 to 64 years!!No disability,B18108
+B18108_018E,int,Estimate!!Total!!65 to 74 years,B18108
+B18108_019E,int,Estimate!!Total!!65 to 74 years!!With one type of disability,B18108
+B18108_020E,int,Estimate!!Total!!65 to 74 years!!With two or more types of disability,B18108
+B18108_021E,int,Estimate!!Total!!65 to 74 years!!No disability,B18108
+B18108_022E,int,Estimate!!Total!!75 years and over,B18108
+B18108_023E,int,Estimate!!Total!!75 years and over!!With one type of disability,B18108
+B18108_024E,int,Estimate!!Total!!75 years and over!!With two or more types of disability,B18108
+B18108_025E,int,Estimate!!Total!!75 years and over!!No disability,B18108
+B18108_001M,int,Margin of Error!!Total,B18108
+B18108_002M,int,Margin of Error!!Total!!Under 5 years,B18108
+B18108_003M,int,Margin of Error!!Total!!Under 5 years!!With either a vision or hearing difficulty but not both,B18108
+B18108_004M,int,Margin of Error!!Total!!Under 5 years!!With both hearing and vision difficulty,B18108
+B18108_005M,int,Margin of Error!!Total!!Under 5 years!!No disability,B18108
+B18108_006M,int,Margin of Error!!Total!!5 to 17 years,B18108
+B18108_007M,int,Margin of Error!!Total!!5 to 17 years!!With one type of disability,B18108
+B18108_008M,int,Margin of Error!!Total!!5 to 17 years!!With two or more types of disability,B18108
+B18108_009M,int,Margin of Error!!Total!!5 to 17 years!!No disability,B18108
+B18108_010M,int,Margin of Error!!Total!!18 to 34 years,B18108
+B18108_011M,int,Margin of Error!!Total!!18 to 34 years!!With one type of disability,B18108
+B18108_012M,int,Margin of Error!!Total!!18 to 34 years!!With two or more types of disability,B18108
+B18108_013M,int,Margin of Error!!Total!!18 to 34 years!!No disability,B18108
+B18108_014M,int,Margin of Error!!Total!!35 to 64 years,B18108
+B18108_015M,int,Margin of Error!!Total!!35 to 64 years!!With one type of disability,B18108
+B18108_016M,int,Margin of Error!!Total!!35 to 64 years!!With two or more types of disability,B18108
+B18108_017M,int,Margin of Error!!Total!!35 to 64 years!!No disability,B18108
+B18108_018M,int,Margin of Error!!Total!!65 to 74 years,B18108
+B18108_019M,int,Margin of Error!!Total!!65 to 74 years!!With one type of disability,B18108
+B18108_020M,int,Margin of Error!!Total!!65 to 74 years!!With two or more types of disability,B18108
+B18108_021M,int,Margin of Error!!Total!!65 to 74 years!!No disability,B18108
+B18108_022M,int,Margin of Error!!Total!!75 years and over,B18108
+B18108_023M,int,Margin of Error!!Total!!75 years and over!!With one type of disability,B18108
+B18108_024M,int,Margin of Error!!Total!!75 years and over!!With two or more types of disability,B18108
+B18108_025M,int,Margin of Error!!Total!!75 years and over!!No disability,B18108
+B18108_001EA,string,Annotation of Estimate!!Total,B18108
+B18108_001MA,string,Annotation of Margin of Error!!Total,B18108
+B18108_002EA,string,Annotation of Estimate!!Total!!Under 5 years,B18108
+B18108_002MA,string,Annotation of Margin of Error!!Total!!Under 5 years,B18108
+B18108_003EA,string,Annotation of Estimate!!Total!!Under 5 years!!With either a vision or hearing difficulty but not both,B18108
+B18108_003MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!With either a vision or hearing difficulty but not both,B18108
+B18108_004EA,string,Annotation of Estimate!!Total!!Under 5 years!!With both hearing and vision difficulty,B18108
+B18108_004MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!With both hearing and vision difficulty,B18108
+B18108_005EA,string,Annotation of Estimate!!Total!!Under 5 years!!No disability,B18108
+B18108_005MA,string,Annotation of Margin of Error!!Total!!Under 5 years!!No disability,B18108
+B18108_006EA,string,Annotation of Estimate!!Total!!5 to 17 years,B18108
+B18108_006MA,string,Annotation of Margin of Error!!Total!!5 to 17 years,B18108
+B18108_007EA,string,Annotation of Estimate!!Total!!5 to 17 years!!With one type of disability,B18108
+B18108_007MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!With one type of disability,B18108
+B18108_008EA,string,Annotation of Estimate!!Total!!5 to 17 years!!With two or more types of disability,B18108
+B18108_008MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!With two or more types of disability,B18108
+B18108_009EA,string,Annotation of Estimate!!Total!!5 to 17 years!!No disability,B18108
+B18108_009MA,string,Annotation of Margin of Error!!Total!!5 to 17 years!!No disability,B18108
+B18108_010EA,string,Annotation of Estimate!!Total!!18 to 34 years,B18108
+B18108_010MA,string,Annotation of Margin of Error!!Total!!18 to 34 years,B18108
+B18108_011EA,string,Annotation of Estimate!!Total!!18 to 34 years!!With one type of disability,B18108
+B18108_011MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!With one type of disability,B18108
+B18108_012EA,string,Annotation of Estimate!!Total!!18 to 34 years!!With two or more types of disability,B18108
+B18108_012MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!With two or more types of disability,B18108
+B18108_013EA,string,Annotation of Estimate!!Total!!18 to 34 years!!No disability,B18108
+B18108_013MA,string,Annotation of Margin of Error!!Total!!18 to 34 years!!No disability,B18108
+B18108_014EA,string,Annotation of Estimate!!Total!!35 to 64 years,B18108
+B18108_014MA,string,Annotation of Margin of Error!!Total!!35 to 64 years,B18108
+B18108_015EA,string,Annotation of Estimate!!Total!!35 to 64 years!!With one type of disability,B18108
+B18108_015MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!With one type of disability,B18108
+B18108_016EA,string,Annotation of Estimate!!Total!!35 to 64 years!!With two or more types of disability,B18108
+B18108_016MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!With two or more types of disability,B18108
+B18108_017EA,string,Annotation of Estimate!!Total!!35 to 64 years!!No disability,B18108
+B18108_017MA,string,Annotation of Margin of Error!!Total!!35 to 64 years!!No disability,B18108
+B18108_018EA,string,Annotation of Estimate!!Total!!65 to 74 years,B18108
+B18108_018MA,string,Annotation of Margin of Error!!Total!!65 to 74 years,B18108
+B18108_019EA,string,Annotation of Estimate!!Total!!65 to 74 years!!With one type of disability,B18108
+B18108_019MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!With one type of disability,B18108
+B18108_020EA,string,Annotation of Estimate!!Total!!65 to 74 years!!With two or more types of disability,B18108
+B18108_020MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!With two or more types of disability,B18108
+B18108_021EA,string,Annotation of Estimate!!Total!!65 to 74 years!!No disability,B18108
+B18108_021MA,string,Annotation of Margin of Error!!Total!!65 to 74 years!!No disability,B18108
+B18108_022EA,string,Annotation of Estimate!!Total!!75 years and over,B18108
+B18108_022MA,string,Annotation of Margin of Error!!Total!!75 years and over,B18108
+B18108_023EA,string,Annotation of Estimate!!Total!!75 years and over!!With one type of disability,B18108
+B18108_023MA,string,Annotation of Margin of Error!!Total!!75 years and over!!With one type of disability,B18108
+B18108_024EA,string,Annotation of Estimate!!Total!!75 years and over!!With two or more types of disability,B18108
+B18108_024MA,string,Annotation of Margin of Error!!Total!!75 years and over!!With two or more types of disability,B18108
+B18108_025EA,string,Annotation of Estimate!!Total!!75 years and over!!No disability,B18108
+B18108_025MA,string,Annotation of Margin of Error!!Total!!75 years and over!!No disability,B18108

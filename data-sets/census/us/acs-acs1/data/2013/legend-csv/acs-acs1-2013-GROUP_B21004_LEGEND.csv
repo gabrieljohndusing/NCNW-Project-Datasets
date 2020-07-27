@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B21004_001E,int,Estimate!!Total,B21004
+B21004_002E,int,Estimate!!Total!!Veteran,B21004
+B21004_003E,int,Estimate!!Total!!Veteran!!Male,B21004
+B21004_004E,int,Estimate!!Total!!Veteran!!Female,B21004
+B21004_005E,int,Estimate!!Total!!Nonveteran,B21004
+B21004_006E,int,Estimate!!Total!!Nonveteran!!Male,B21004
+B21004_007E,int,Estimate!!Total!!Nonveteran!!Female,B21004
+B21004_001M,int,Margin of Error!!Total,B21004
+B21004_002M,int,Margin of Error!!Total!!Veteran,B21004
+B21004_003M,int,Margin of Error!!Total!!Veteran!!Male,B21004
+B21004_004M,int,Margin of Error!!Total!!Veteran!!Female,B21004
+B21004_005M,int,Margin of Error!!Total!!Nonveteran,B21004
+B21004_006M,int,Margin of Error!!Total!!Nonveteran!!Male,B21004
+B21004_007M,int,Margin of Error!!Total!!Nonveteran!!Female,B21004
+B21004_001EA,string,Annotation of Estimate!!Total,B21004
+B21004_001MA,string,Annotation of Margin of Error!!Total,B21004
+B21004_002EA,string,Annotation of Estimate!!Total!!Veteran,B21004
+B21004_002MA,string,Annotation of Margin of Error!!Total!!Veteran,B21004
+B21004_003EA,string,Annotation of Estimate!!Total!!Veteran!!Male,B21004
+B21004_003MA,string,Annotation of Margin of Error!!Total!!Veteran!!Male,B21004
+B21004_004EA,string,Annotation of Estimate!!Total!!Veteran!!Female,B21004
+B21004_004MA,string,Annotation of Margin of Error!!Total!!Veteran!!Female,B21004
+B21004_005EA,string,Annotation of Estimate!!Total!!Nonveteran,B21004
+B21004_005MA,string,Annotation of Margin of Error!!Total!!Nonveteran,B21004
+B21004_006EA,string,Annotation of Estimate!!Total!!Nonveteran!!Male,B21004
+B21004_006MA,string,Annotation of Margin of Error!!Total!!Nonveteran!!Male,B21004
+B21004_007EA,string,Annotation of Estimate!!Total!!Nonveteran!!Female,B21004
+B21004_007MA,string,Annotation of Margin of Error!!Total!!Nonveteran!!Female,B21004

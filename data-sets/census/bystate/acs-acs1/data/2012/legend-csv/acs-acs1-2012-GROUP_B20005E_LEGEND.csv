@@ -1,0 +1,381 @@
+VARIABLE,TYPE,LABEL,GROUP
+B20005E_001E,int,Estimate!!Total,B20005E
+B20005E_002E,int,Estimate!!Total!!Male,B20005E
+B20005E_003E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months",B20005E
+B20005E_004E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!No earnings",B20005E
+B20005E_005E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings",B20005E
+B20005E_006E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_007E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_008E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_009E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_010E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_011E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_012E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_013E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_014E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_015E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_016E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_017E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_018E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_019E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_020E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_021E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_022E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_023E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_024E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_025E,int,"Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$100,000 or more",B20005E
+B20005E_026E,int,Estimate!!Total!!Male!!Other,B20005E
+B20005E_027E,int,Estimate!!Total!!Male!!Other!!No earnings,B20005E
+B20005E_028E,int,Estimate!!Total!!Male!!Other!!With earnings,B20005E
+B20005E_029E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_030E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_031E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_032E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_033E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_034E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_035E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_036E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_037E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_038E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_039E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_040E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_041E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_042E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_043E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_044E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_045E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_046E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_047E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_048E,int,"Estimate!!Total!!Male!!Other!!With earnings!!$100,000 or more",B20005E
+B20005E_049E,int,Estimate!!Total!!Female,B20005E
+B20005E_050E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months",B20005E
+B20005E_051E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!No earnings",B20005E
+B20005E_052E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings",B20005E
+B20005E_053E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_054E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_055E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_056E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_057E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_058E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_059E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_060E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_061E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_062E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_063E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_064E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_065E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_066E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_067E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_068E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_069E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_070E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_071E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_072E,int,"Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$100,000 or more",B20005E
+B20005E_073E,int,Estimate!!Total!!Female!!Other,B20005E
+B20005E_074E,int,Estimate!!Total!!Female!!Other!!No earnings,B20005E
+B20005E_075E,int,Estimate!!Total!!Female!!Other!!With earnings,B20005E
+B20005E_076E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_077E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_078E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_079E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_080E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_081E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_082E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_083E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_084E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_085E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_086E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_087E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_088E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_089E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_090E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_091E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_092E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_093E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_094E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_095E,int,"Estimate!!Total!!Female!!Other!!With earnings!!$100,000 or more",B20005E
+B20005E_001M,int,Margin of Error!!Total,B20005E
+B20005E_002M,int,Margin of Error!!Total!!Male,B20005E
+B20005E_003M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months",B20005E
+B20005E_004M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!No earnings",B20005E
+B20005E_005M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings",B20005E
+B20005E_006M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_007M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_008M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_009M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_010M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_011M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_012M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_013M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_014M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_015M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_016M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_017M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_018M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_019M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_020M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_021M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_022M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_023M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_024M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_025M,int,"Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$100,000 or more",B20005E
+B20005E_026M,int,Margin of Error!!Total!!Male!!Other,B20005E
+B20005E_027M,int,Margin of Error!!Total!!Male!!Other!!No earnings,B20005E
+B20005E_028M,int,Margin of Error!!Total!!Male!!Other!!With earnings,B20005E
+B20005E_029M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_030M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_031M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_032M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_033M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_034M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_035M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_036M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_037M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_038M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_039M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_040M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_041M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_042M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_043M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_044M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_045M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_046M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_047M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_048M,int,"Margin of Error!!Total!!Male!!Other!!With earnings!!$100,000 or more",B20005E
+B20005E_049M,int,Margin of Error!!Total!!Female,B20005E
+B20005E_050M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months",B20005E
+B20005E_051M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!No earnings",B20005E
+B20005E_052M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings",B20005E
+B20005E_053M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_054M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_055M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_056M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_057M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_058M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_059M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_060M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_061M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_062M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_063M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_064M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_065M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_066M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_067M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_068M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_069M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_070M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_071M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_072M,int,"Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$100,000 or more",B20005E
+B20005E_073M,int,Margin of Error!!Total!!Female!!Other,B20005E
+B20005E_074M,int,Margin of Error!!Total!!Female!!Other!!No earnings,B20005E
+B20005E_075M,int,Margin of Error!!Total!!Female!!Other!!With earnings,B20005E
+B20005E_076M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_077M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_078M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_079M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_080M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_081M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_082M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_083M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_084M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_085M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_086M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_087M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_088M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_089M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_090M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_091M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_092M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_093M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_094M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_095M,int,"Margin of Error!!Total!!Female!!Other!!With earnings!!$100,000 or more",B20005E
+B20005E_001EA,string,Annotation of Estimate!!Total,B20005E
+B20005E_001MA,string,Annotation of Margin of Error!!Total,B20005E
+B20005E_002EA,string,Annotation of Estimate!!Total!!Male,B20005E
+B20005E_002MA,string,Annotation of Margin of Error!!Total!!Male,B20005E
+B20005E_003EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months",B20005E
+B20005E_003MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months",B20005E
+B20005E_004EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!No earnings",B20005E
+B20005E_004MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!No earnings",B20005E
+B20005E_005EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings",B20005E
+B20005E_005MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings",B20005E
+B20005E_006EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_006MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_007EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_007MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_008EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_008MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_009EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_009MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_010EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_010MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_011EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_011MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_012EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_012MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_013EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_013MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_014EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_014MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_015EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_015MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_016EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_016MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_017EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_017MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_018EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_018MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_019EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_019MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_020EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_020MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_021EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_021MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_022EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_022MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_023EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_023MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_024EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_024MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_025EA,string,"Annotation of Estimate!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$100,000 or more",B20005E
+B20005E_025MA,string,"Annotation of Margin of Error!!Total!!Male!!Worked full-time, year-round in the past 12 months!!With earnings!!$100,000 or more",B20005E
+B20005E_026EA,string,Annotation of Estimate!!Total!!Male!!Other,B20005E
+B20005E_026MA,string,Annotation of Margin of Error!!Total!!Male!!Other,B20005E
+B20005E_027EA,string,Annotation of Estimate!!Total!!Male!!Other!!No earnings,B20005E
+B20005E_027MA,string,Annotation of Margin of Error!!Total!!Male!!Other!!No earnings,B20005E
+B20005E_028EA,string,Annotation of Estimate!!Total!!Male!!Other!!With earnings,B20005E
+B20005E_028MA,string,Annotation of Margin of Error!!Total!!Male!!Other!!With earnings,B20005E
+B20005E_029EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_029MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_030EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_030MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_031EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_031MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_032EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_032MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_033EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_033MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_034EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_034MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_035EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_035MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_036EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_036MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_037EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_037MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_038EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_038MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_039EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_039MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_040EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_040MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_041EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_041MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_042EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_042MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_043EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_043MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_044EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_044MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_045EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_045MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_046EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_046MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_047EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_047MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_048EA,string,"Annotation of Estimate!!Total!!Male!!Other!!With earnings!!$100,000 or more",B20005E
+B20005E_048MA,string,"Annotation of Margin of Error!!Total!!Male!!Other!!With earnings!!$100,000 or more",B20005E
+B20005E_049EA,string,Annotation of Estimate!!Total!!Female,B20005E
+B20005E_049MA,string,Annotation of Margin of Error!!Total!!Female,B20005E
+B20005E_050EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months",B20005E
+B20005E_050MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months",B20005E
+B20005E_051EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!No earnings",B20005E
+B20005E_051MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!No earnings",B20005E
+B20005E_052EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings",B20005E
+B20005E_052MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings",B20005E
+B20005E_053EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_053MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_054EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_054MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_055EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_055MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_056EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_056MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_057EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_057MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_058EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_058MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_059EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_059MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_060EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_060MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_061EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_061MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_062EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_062MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_063EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_063MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_064EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_064MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_065EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_065MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_066EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_066MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_067EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_067MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_068EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_068MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_069EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_069MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_070EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_070MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_071EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_071MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_072EA,string,"Annotation of Estimate!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$100,000 or more",B20005E
+B20005E_072MA,string,"Annotation of Margin of Error!!Total!!Female!!Worked full-time, year-round in the past 12 months!!With earnings!!$100,000 or more",B20005E
+B20005E_073EA,string,Annotation of Estimate!!Total!!Female!!Other,B20005E
+B20005E_073MA,string,Annotation of Margin of Error!!Total!!Female!!Other,B20005E
+B20005E_074EA,string,Annotation of Estimate!!Total!!Female!!Other!!No earnings,B20005E
+B20005E_074MA,string,Annotation of Margin of Error!!Total!!Female!!Other!!No earnings,B20005E
+B20005E_075EA,string,Annotation of Estimate!!Total!!Female!!Other!!With earnings,B20005E
+B20005E_075MA,string,Annotation of Margin of Error!!Total!!Female!!Other!!With earnings,B20005E
+B20005E_076EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_076MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$1 to $2,499 or loss",B20005E
+B20005E_077EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_077MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$2,500 to $4,999",B20005E
+B20005E_078EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_078MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$5,000 to $7,499",B20005E
+B20005E_079EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_079MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$7,500 to $9,999",B20005E
+B20005E_080EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_080MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$10,000 to $12,499",B20005E
+B20005E_081EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_081MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$12,500 to $14,999",B20005E
+B20005E_082EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_082MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$15,000 to $17,499",B20005E
+B20005E_083EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_083MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$17,500 to $19,999",B20005E
+B20005E_084EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_084MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$20,000 to $22,499",B20005E
+B20005E_085EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_085MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$22,500 to $24,999",B20005E
+B20005E_086EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_086MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$25,000 to $29,999",B20005E
+B20005E_087EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_087MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$30,000 to $34,999",B20005E
+B20005E_088EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_088MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$35,000 to $39,999",B20005E
+B20005E_089EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_089MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$40,000 to $44,999",B20005E
+B20005E_090EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_090MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$45,000 to $49,999",B20005E
+B20005E_091EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_091MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$50,000 to $54,999",B20005E
+B20005E_092EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_092MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$55,000 to $64,999",B20005E
+B20005E_093EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_093MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$65,000 to $74,999",B20005E
+B20005E_094EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_094MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$75,000 to $99,999",B20005E
+B20005E_095EA,string,"Annotation of Estimate!!Total!!Female!!Other!!With earnings!!$100,000 or more",B20005E
+B20005E_095MA,string,"Annotation of Margin of Error!!Total!!Female!!Other!!With earnings!!$100,000 or more",B20005E

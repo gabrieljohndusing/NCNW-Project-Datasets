@@ -1,0 +1,85 @@
+VARIABLE,TYPE,LABEL,GROUP
+C18101_001E,int,Estimate!!Total,C18101
+C18101_002E,int,Estimate!!Total!!Male,C18101
+C18101_003E,int,Estimate!!Total!!Male!!Under 18 years,C18101
+C18101_004E,int,Estimate!!Total!!Male!!Under 18 years!!With a disability,C18101
+C18101_005E,int,Estimate!!Total!!Male!!Under 18 years!!No disability,C18101
+C18101_006E,int,Estimate!!Total!!Male!!18 to 64 years,C18101
+C18101_007E,int,Estimate!!Total!!Male!!18 to 64 years!!With a disability,C18101
+C18101_008E,int,Estimate!!Total!!Male!!18 to 64 years!!No disability,C18101
+C18101_009E,int,Estimate!!Total!!Male!!65 years and over,C18101
+C18101_010E,int,Estimate!!Total!!Male!!65 years and over!!With a disability,C18101
+C18101_011E,int,Estimate!!Total!!Male!!65 years and over!!No disability,C18101
+C18101_012E,int,Estimate!!Total!!Female,C18101
+C18101_013E,int,Estimate!!Total!!Female!!Under 18 years,C18101
+C18101_014E,int,Estimate!!Total!!Female!!Under 18 years!!With a disability,C18101
+C18101_015E,int,Estimate!!Total!!Female!!Under 18 years!!No disability,C18101
+C18101_016E,int,Estimate!!Total!!Female!!18 to 64 years,C18101
+C18101_017E,int,Estimate!!Total!!Female!!18 to 64 years!!With a disability,C18101
+C18101_018E,int,Estimate!!Total!!Female!!18 to 64 years!!No disability,C18101
+C18101_019E,int,Estimate!!Total!!Female!!65 years and over,C18101
+C18101_020E,int,Estimate!!Total!!Female!!65 years and over!!With a disability,C18101
+C18101_021E,int,Estimate!!Total!!Female!!65 years and over!!No disability,C18101
+C18101_001M,int,Margin of Error!!Total,C18101
+C18101_002M,int,Margin of Error!!Total!!Male,C18101
+C18101_003M,int,Margin of Error!!Total!!Male!!Under 18 years,C18101
+C18101_004M,int,Margin of Error!!Total!!Male!!Under 18 years!!With a disability,C18101
+C18101_005M,int,Margin of Error!!Total!!Male!!Under 18 years!!No disability,C18101
+C18101_006M,int,Margin of Error!!Total!!Male!!18 to 64 years,C18101
+C18101_007M,int,Margin of Error!!Total!!Male!!18 to 64 years!!With a disability,C18101
+C18101_008M,int,Margin of Error!!Total!!Male!!18 to 64 years!!No disability,C18101
+C18101_009M,int,Margin of Error!!Total!!Male!!65 years and over,C18101
+C18101_010M,int,Margin of Error!!Total!!Male!!65 years and over!!With a disability,C18101
+C18101_011M,int,Margin of Error!!Total!!Male!!65 years and over!!No disability,C18101
+C18101_012M,int,Margin of Error!!Total!!Female,C18101
+C18101_013M,int,Margin of Error!!Total!!Female!!Under 18 years,C18101
+C18101_014M,int,Margin of Error!!Total!!Female!!Under 18 years!!With a disability,C18101
+C18101_015M,int,Margin of Error!!Total!!Female!!Under 18 years!!No disability,C18101
+C18101_016M,int,Margin of Error!!Total!!Female!!18 to 64 years,C18101
+C18101_017M,int,Margin of Error!!Total!!Female!!18 to 64 years!!With a disability,C18101
+C18101_018M,int,Margin of Error!!Total!!Female!!18 to 64 years!!No disability,C18101
+C18101_019M,int,Margin of Error!!Total!!Female!!65 years and over,C18101
+C18101_020M,int,Margin of Error!!Total!!Female!!65 years and over!!With a disability,C18101
+C18101_021M,int,Margin of Error!!Total!!Female!!65 years and over!!No disability,C18101
+C18101_001EA,string,Annotation of Estimate!!Total,C18101
+C18101_001MA,string,Annotation of Margin of Error!!Total,C18101
+C18101_002EA,string,Annotation of Estimate!!Total!!Male,C18101
+C18101_002MA,string,Annotation of Margin of Error!!Total!!Male,C18101
+C18101_003EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years,C18101
+C18101_003MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years,C18101
+C18101_004EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!With a disability,C18101
+C18101_004MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!With a disability,C18101
+C18101_005EA,string,Annotation of Estimate!!Total!!Male!!Under 18 years!!No disability,C18101
+C18101_005MA,string,Annotation of Margin of Error!!Total!!Male!!Under 18 years!!No disability,C18101
+C18101_006EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years,C18101
+C18101_006MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years,C18101
+C18101_007EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!With a disability,C18101
+C18101_007MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!With a disability,C18101
+C18101_008EA,string,Annotation of Estimate!!Total!!Male!!18 to 64 years!!No disability,C18101
+C18101_008MA,string,Annotation of Margin of Error!!Total!!Male!!18 to 64 years!!No disability,C18101
+C18101_009EA,string,Annotation of Estimate!!Total!!Male!!65 years and over,C18101
+C18101_009MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over,C18101
+C18101_010EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!With a disability,C18101
+C18101_010MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!With a disability,C18101
+C18101_011EA,string,Annotation of Estimate!!Total!!Male!!65 years and over!!No disability,C18101
+C18101_011MA,string,Annotation of Margin of Error!!Total!!Male!!65 years and over!!No disability,C18101
+C18101_012EA,string,Annotation of Estimate!!Total!!Female,C18101
+C18101_012MA,string,Annotation of Margin of Error!!Total!!Female,C18101
+C18101_013EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years,C18101
+C18101_013MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years,C18101
+C18101_014EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!With a disability,C18101
+C18101_014MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!With a disability,C18101
+C18101_015EA,string,Annotation of Estimate!!Total!!Female!!Under 18 years!!No disability,C18101
+C18101_015MA,string,Annotation of Margin of Error!!Total!!Female!!Under 18 years!!No disability,C18101
+C18101_016EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years,C18101
+C18101_016MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years,C18101
+C18101_017EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!With a disability,C18101
+C18101_017MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!With a disability,C18101
+C18101_018EA,string,Annotation of Estimate!!Total!!Female!!18 to 64 years!!No disability,C18101
+C18101_018MA,string,Annotation of Margin of Error!!Total!!Female!!18 to 64 years!!No disability,C18101
+C18101_019EA,string,Annotation of Estimate!!Total!!Female!!65 years and over,C18101
+C18101_019MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over,C18101
+C18101_020EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!With a disability,C18101
+C18101_020MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!With a disability,C18101
+C18101_021EA,string,Annotation of Estimate!!Total!!Female!!65 years and over!!No disability,C18101
+C18101_021MA,string,Annotation of Margin of Error!!Total!!Female!!65 years and over!!No disability,C18101

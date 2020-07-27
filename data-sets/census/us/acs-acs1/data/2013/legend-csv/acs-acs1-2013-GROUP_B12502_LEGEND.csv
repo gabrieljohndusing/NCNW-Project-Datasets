@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B12502_001E,int,Estimate!!Total,B12502
+B12502_002E,int,Estimate!!Total!!Male,B12502
+B12502_003E,int,Estimate!!Total!!Male!!Never married,B12502
+B12502_004E,int,Estimate!!Total!!Male!!Ever married,B12502
+B12502_005E,int,Estimate!!Total!!Male!!Ever married!!Widowed last year,B12502
+B12502_006E,int,Estimate!!Total!!Male!!Ever married!!Not widowed last year,B12502
+B12502_007E,int,Estimate!!Total!!Female,B12502
+B12502_008E,int,Estimate!!Total!!Female!!Never married,B12502
+B12502_009E,int,Estimate!!Total!!Female!!Ever married,B12502
+B12502_010E,int,Estimate!!Total!!Female!!Ever married!!Widowed last year,B12502
+B12502_011E,int,Estimate!!Total!!Female!!Ever married!!Not widowed last year,B12502
+B12502_001M,int,Margin of Error!!Total,B12502
+B12502_002M,int,Margin of Error!!Total!!Male,B12502
+B12502_003M,int,Margin of Error!!Total!!Male!!Never married,B12502
+B12502_004M,int,Margin of Error!!Total!!Male!!Ever married,B12502
+B12502_005M,int,Margin of Error!!Total!!Male!!Ever married!!Widowed last year,B12502
+B12502_006M,int,Margin of Error!!Total!!Male!!Ever married!!Not widowed last year,B12502
+B12502_007M,int,Margin of Error!!Total!!Female,B12502
+B12502_008M,int,Margin of Error!!Total!!Female!!Never married,B12502
+B12502_009M,int,Margin of Error!!Total!!Female!!Ever married,B12502
+B12502_010M,int,Margin of Error!!Total!!Female!!Ever married!!Widowed last year,B12502
+B12502_011M,int,Margin of Error!!Total!!Female!!Ever married!!Not widowed last year,B12502
+B12502_001EA,string,Annotation of Estimate!!Total,B12502
+B12502_001MA,string,Annotation of Margin of Error!!Total,B12502
+B12502_002EA,string,Annotation of Estimate!!Total!!Male,B12502
+B12502_002MA,string,Annotation of Margin of Error!!Total!!Male,B12502
+B12502_003EA,string,Annotation of Estimate!!Total!!Male!!Never married,B12502
+B12502_003MA,string,Annotation of Margin of Error!!Total!!Male!!Never married,B12502
+B12502_004EA,string,Annotation of Estimate!!Total!!Male!!Ever married,B12502
+B12502_004MA,string,Annotation of Margin of Error!!Total!!Male!!Ever married,B12502
+B12502_005EA,string,Annotation of Estimate!!Total!!Male!!Ever married!!Widowed last year,B12502
+B12502_005MA,string,Annotation of Margin of Error!!Total!!Male!!Ever married!!Widowed last year,B12502
+B12502_006EA,string,Annotation of Estimate!!Total!!Male!!Ever married!!Not widowed last year,B12502
+B12502_006MA,string,Annotation of Margin of Error!!Total!!Male!!Ever married!!Not widowed last year,B12502
+B12502_007EA,string,Annotation of Estimate!!Total!!Female,B12502
+B12502_007MA,string,Annotation of Margin of Error!!Total!!Female,B12502
+B12502_008EA,string,Annotation of Estimate!!Total!!Female!!Never married,B12502
+B12502_008MA,string,Annotation of Margin of Error!!Total!!Female!!Never married,B12502
+B12502_009EA,string,Annotation of Estimate!!Total!!Female!!Ever married,B12502
+B12502_009MA,string,Annotation of Margin of Error!!Total!!Female!!Ever married,B12502
+B12502_010EA,string,Annotation of Estimate!!Total!!Female!!Ever married!!Widowed last year,B12502
+B12502_010MA,string,Annotation of Margin of Error!!Total!!Female!!Ever married!!Widowed last year,B12502
+B12502_011EA,string,Annotation of Estimate!!Total!!Female!!Ever married!!Not widowed last year,B12502
+B12502_011MA,string,Annotation of Margin of Error!!Total!!Female!!Ever married!!Not widowed last year,B12502

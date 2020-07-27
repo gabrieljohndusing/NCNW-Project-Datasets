@@ -1,0 +1,45 @@
+VARIABLE,TYPE,LABEL,GROUP
+B25032F_001E,int,Estimate!!Total,B25032F
+B25032F_002E,int,"Estimate!!Total!!1, detached",B25032F
+B25032F_003E,int,"Estimate!!Total!!1, attached",B25032F
+B25032F_004E,int,Estimate!!Total!!2,B25032F
+B25032F_005E,int,Estimate!!Total!!3 or 4,B25032F
+B25032F_006E,int,Estimate!!Total!!5 to 9,B25032F
+B25032F_007E,int,Estimate!!Total!!10 to 19,B25032F
+B25032F_008E,int,Estimate!!Total!!20 to 49,B25032F
+B25032F_009E,int,Estimate!!Total!!50 or more,B25032F
+B25032F_010E,int,Estimate!!Total!!Mobile home,B25032F
+B25032F_011E,int,"Estimate!!Total!!Boat, RV, van, etc.",B25032F
+B25032F_001M,int,Margin of Error!!Total,B25032F
+B25032F_002M,int,"Margin of Error!!Total!!1, detached",B25032F
+B25032F_003M,int,"Margin of Error!!Total!!1, attached",B25032F
+B25032F_004M,int,Margin of Error!!Total!!2,B25032F
+B25032F_005M,int,Margin of Error!!Total!!3 or 4,B25032F
+B25032F_006M,int,Margin of Error!!Total!!5 to 9,B25032F
+B25032F_007M,int,Margin of Error!!Total!!10 to 19,B25032F
+B25032F_008M,int,Margin of Error!!Total!!20 to 49,B25032F
+B25032F_009M,int,Margin of Error!!Total!!50 or more,B25032F
+B25032F_010M,int,Margin of Error!!Total!!Mobile home,B25032F
+B25032F_011M,int,"Margin of Error!!Total!!Boat, RV, van, etc.",B25032F
+B25032F_001EA,string,Annotation of Estimate!!Total,B25032F
+B25032F_001MA,string,Annotation of Margin of Error!!Total,B25032F
+B25032F_002EA,string,"Annotation of Estimate!!Total!!1, detached",B25032F
+B25032F_002MA,string,"Annotation of Margin of Error!!Total!!1, detached",B25032F
+B25032F_003EA,string,"Annotation of Estimate!!Total!!1, attached",B25032F
+B25032F_003MA,string,"Annotation of Margin of Error!!Total!!1, attached",B25032F
+B25032F_004EA,string,Annotation of Estimate!!Total!!2,B25032F
+B25032F_004MA,string,Annotation of Margin of Error!!Total!!2,B25032F
+B25032F_005EA,string,Annotation of Estimate!!Total!!3 or 4,B25032F
+B25032F_005MA,string,Annotation of Margin of Error!!Total!!3 or 4,B25032F
+B25032F_006EA,string,Annotation of Estimate!!Total!!5 to 9,B25032F
+B25032F_006MA,string,Annotation of Margin of Error!!Total!!5 to 9,B25032F
+B25032F_007EA,string,Annotation of Estimate!!Total!!10 to 19,B25032F
+B25032F_007MA,string,Annotation of Margin of Error!!Total!!10 to 19,B25032F
+B25032F_008EA,string,Annotation of Estimate!!Total!!20 to 49,B25032F
+B25032F_008MA,string,Annotation of Margin of Error!!Total!!20 to 49,B25032F
+B25032F_009EA,string,Annotation of Estimate!!Total!!50 or more,B25032F
+B25032F_009MA,string,Annotation of Margin of Error!!Total!!50 or more,B25032F
+B25032F_010EA,string,Annotation of Estimate!!Total!!Mobile home,B25032F
+B25032F_010MA,string,Annotation of Margin of Error!!Total!!Mobile home,B25032F
+B25032F_011EA,string,"Annotation of Estimate!!Total!!Boat, RV, van, etc.",B25032F
+B25032F_011MA,string,"Annotation of Margin of Error!!Total!!Boat, RV, van, etc.",B25032F

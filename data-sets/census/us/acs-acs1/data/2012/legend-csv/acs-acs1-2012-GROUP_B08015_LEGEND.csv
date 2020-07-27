@@ -1,0 +1,13 @@
+VARIABLE,TYPE,LABEL,GROUP
+B08015_001E,int,"Estimate!!Aggregate number of vehicles (car, truck, or van) used in commuting",B08015
+B08015_002E,int,"Estimate!!Aggregate number of vehicles (car, truck, or van) used in commuting!!Male",B08015
+B08015_003E,int,"Estimate!!Aggregate number of vehicles (car, truck, or van) used in commuting!!Female",B08015
+B08015_001M,int,"Margin of Error!!Aggregate number of vehicles (car, truck, or van) used in commuting",B08015
+B08015_002M,int,"Margin of Error!!Aggregate number of vehicles (car, truck, or van) used in commuting!!Male",B08015
+B08015_003M,int,"Margin of Error!!Aggregate number of vehicles (car, truck, or van) used in commuting!!Female",B08015
+B08015_001EA,string,"Annotation of Estimate!!Aggregate number of vehicles (car, truck, or van) used in commuting",B08015
+B08015_001MA,string,"Annotation of Margin of Error!!Aggregate number of vehicles (car, truck, or van) used in commuting",B08015
+B08015_002EA,string,"Annotation of Estimate!!Aggregate number of vehicles (car, truck, or van) used in commuting!!Male",B08015
+B08015_002MA,string,"Annotation of Margin of Error!!Aggregate number of vehicles (car, truck, or van) used in commuting!!Male",B08015
+B08015_003EA,string,"Annotation of Estimate!!Aggregate number of vehicles (car, truck, or van) used in commuting!!Female",B08015
+B08015_003MA,string,"Annotation of Margin of Error!!Aggregate number of vehicles (car, truck, or van) used in commuting!!Female",B08015
