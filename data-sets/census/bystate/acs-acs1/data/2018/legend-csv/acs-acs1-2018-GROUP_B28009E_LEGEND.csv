@@ -1,0 +1,25 @@
+VARIABLE,TYPE,LABEL,GROUP
+B28009E_001E,int,Estimate!!Total,B28009E
+B28009E_002E,int,Estimate!!Total!!Has a computer,B28009E
+B28009E_003E,int,Estimate!!Total!!Has a computer!!With dial-up Internet subscription alone,B28009E
+B28009E_004E,int,Estimate!!Total!!Has a computer!!With a broadband Internet subscription,B28009E
+B28009E_005E,int,Estimate!!Total!!Has a computer!!Without an Internet subscription,B28009E
+B28009E_006E,int,Estimate!!Total!!No Computer,B28009E
+B28009E_001M,int,Margin of Error!!Total,B28009E
+B28009E_002M,int,Margin of Error!!Total!!Has a computer,B28009E
+B28009E_003M,int,Margin of Error!!Total!!Has a computer!!With dial-up Internet subscription alone,B28009E
+B28009E_004M,int,Margin of Error!!Total!!Has a computer!!With a broadband Internet subscription,B28009E
+B28009E_005M,int,Margin of Error!!Total!!Has a computer!!Without an Internet subscription,B28009E
+B28009E_006M,int,Margin of Error!!Total!!No Computer,B28009E
+B28009E_001EA,string,Annotation of Estimate!!Total,B28009E
+B28009E_001MA,string,Annotation of Margin of Error!!Total,B28009E
+B28009E_002EA,string,Annotation of Estimate!!Total!!Has a computer,B28009E
+B28009E_002MA,string,Annotation of Margin of Error!!Total!!Has a computer,B28009E
+B28009E_003EA,string,Annotation of Estimate!!Total!!Has a computer!!With dial-up Internet subscription alone,B28009E
+B28009E_003MA,string,Annotation of Margin of Error!!Total!!Has a computer!!With dial-up Internet subscription alone,B28009E
+B28009E_004EA,string,Annotation of Estimate!!Total!!Has a computer!!With a broadband Internet subscription,B28009E
+B28009E_004MA,string,Annotation of Margin of Error!!Total!!Has a computer!!With a broadband Internet subscription,B28009E
+B28009E_005EA,string,Annotation of Estimate!!Total!!Has a computer!!Without an Internet subscription,B28009E
+B28009E_005MA,string,Annotation of Margin of Error!!Total!!Has a computer!!Without an Internet subscription,B28009E
+B28009E_006EA,string,Annotation of Estimate!!Total!!No Computer,B28009E
+B28009E_006MA,string,Annotation of Margin of Error!!Total!!No Computer,B28009E

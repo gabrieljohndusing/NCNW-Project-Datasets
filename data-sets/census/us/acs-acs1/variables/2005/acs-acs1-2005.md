@@ -6231,6 +6231,111 @@ ___
 | B13014_012E | Estimate !!<br>Total !!<br>Women who had a birth in the past 12 months !!<br>Unmarried (never married, widowed and divorced) !!<br>Some college or associate's degree|
 ___
 
+## Group: B14001
+
+### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001_001E | Estimate !!<br>Total|
+| B14001_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14001_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 4|
+| B14001_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5 to grade 8|
+| B14001_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14001_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14001_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14001_010E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14001A
+
+### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER (WHITE ALONE)
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001A_001E | Estimate !!<br>Total|
+| B14001A_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001A_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college or graduate school|
+| B14001A_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 8|
+| B14001A_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001A_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, kindergarten|
+| B14001A_007E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14001B
+
+### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE)
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001B_001E | Estimate !!<br>Total|
+| B14001B_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001B_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college or graduate school|
+| B14001B_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 8|
+| B14001B_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001B_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, kindergarten|
+| B14001B_007E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14001C
+
+### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE)
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001C_001E | Estimate !!<br>Total|
+| B14001C_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001C_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college or graduate school|
+| B14001C_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 8|
+| B14001C_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001C_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, kindergarten|
+| B14001C_007E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14001D
+
+### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER (ASIAN ALONE)
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001D_001E | Estimate !!<br>Total|
+| B14001D_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001D_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college or graduate school|
+| B14001D_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 8|
+| B14001D_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001D_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, kindergarten|
+| B14001D_007E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14001E
+
+### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001E_001E | Estimate !!<br>Total|
+| B14001E_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001E_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college or graduate school|
+| B14001E_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 8|
+| B14001E_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001E_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, kindergarten|
+| B14001E_007E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
 ## Group: B14001F
 
 ### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER (SOME OTHER RACE ALONE)
@@ -6263,6 +6368,40 @@ ___
 | B14001G_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
 | B14001G_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, kindergarten|
 | B14001G_007E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14001H
+
+### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO)
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001H_001E | Estimate !!<br>Total|
+| B14001H_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001H_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college or graduate school|
+| B14001H_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 8|
+| B14001H_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001H_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, kindergarten|
+| B14001H_007E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14001I
+
+### Concept: SCHOOL ENROLLMENT BY LEVEL OF SCHOOL FOR THE POPULATION 3 YEARS AND OVER (HISPANIC OR LATINO)
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001I_001E | Estimate !!<br>Total|
+| B14001I_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001I_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college or graduate school|
+| B14001I_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 8|
+| B14001I_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001I_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, kindergarten|
+| B14001I_007E | Estimate !!<br>Total !!<br>Not enrolled in school|
 ___
 
 ## Group: B14002

@@ -1,0 +1,29 @@
+VARIABLE,TYPE,LABEL,GROUP
+B14001H_001E,int,Estimate!!Total,B14001H
+B14001H_002E,int,Estimate!!Total!!Enrolled in school,B14001H
+B14001H_003E,int,"Estimate!!Total!!Enrolled in school!!Enrolled in nursery school, kindergarten",B14001H
+B14001H_004E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 1 to grade 8,B14001H
+B14001H_005E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 9 to grade 12,B14001H
+B14001H_006E,int,Estimate!!Total!!Enrolled in school!!Enrolled in college or graduate school,B14001H
+B14001H_007E,int,Estimate!!Total!!Not enrolled in school,B14001H
+B14001H_001M,int,Margin of Error!!Total,B14001H
+B14001H_002M,int,Margin of Error!!Total!!Enrolled in school,B14001H
+B14001H_003M,int,"Margin of Error!!Total!!Enrolled in school!!Enrolled in nursery school, kindergarten",B14001H
+B14001H_004M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 1 to grade 8,B14001H
+B14001H_005M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 9 to grade 12,B14001H
+B14001H_006M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in college or graduate school,B14001H
+B14001H_007M,int,Margin of Error!!Total!!Not enrolled in school,B14001H
+B14001H_001EA,string,Annotation of Estimate!!Total,B14001H
+B14001H_001MA,string,Annotation of Margin of Error!!Total,B14001H
+B14001H_002EA,string,Annotation of Estimate!!Total!!Enrolled in school,B14001H
+B14001H_002MA,string,Annotation of Margin of Error!!Total!!Enrolled in school,B14001H
+B14001H_003EA,string,"Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in nursery school, kindergarten",B14001H
+B14001H_003MA,string,"Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in nursery school, kindergarten",B14001H
+B14001H_004EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 1 to grade 8,B14001H
+B14001H_004MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 1 to grade 8,B14001H
+B14001H_005EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 9 to grade 12,B14001H
+B14001H_005MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 9 to grade 12,B14001H
+B14001H_006EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in college or graduate school,B14001H
+B14001H_006MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in college or graduate school,B14001H
+B14001H_007EA,string,Annotation of Estimate!!Total!!Not enrolled in school,B14001H
+B14001H_007MA,string,Annotation of Margin of Error!!Total!!Not enrolled in school,B14001H
