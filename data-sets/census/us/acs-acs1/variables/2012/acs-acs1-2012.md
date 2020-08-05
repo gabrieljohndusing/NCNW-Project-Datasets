@@ -1234,6 +1234,24 @@ ___
 | B13015_007E | Estimate !!<br>Total !!<br>Women who had a birth in the past 12 months !!<br>Unmarried (never married, widowed and divorced) !!<br>Received public assistance income|
 ___
 
+## Group: B14001
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14001_001E | Estimate !!<br>Total|
+| B14001_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14001_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14001_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1 to grade 4|
+| B14001_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5 to grade 8|
+| B14001_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9 to grade 12|
+| B14001_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14001_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14001_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14001_010E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
 ## Group: B14006
 
 ___
@@ -1260,6 +1278,276 @@ ___
 | B14006_005E | Estimate !!<br>Total !!<br>Income in the past 12 months below the poverty level !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
 | B14006_004E | Estimate !!<br>Total !!<br>Income in the past 12 months below the poverty level !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
 | B14006_011E | Estimate !!<br>Total !!<br>Income in the past 12 months below the poverty level !!<br>Not enrolled in school|
+___
+
+## Group: B14007
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007_001E | Estimate !!<br>Total|
+| B14007_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007A
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007A_001E | Estimate !!<br>Total|
+| B14007A_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007A_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007A_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007A_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007A_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007A_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007A_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007A_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007A_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007A_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007A_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007A_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007A_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007A_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007A_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007A_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007A_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007A_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007B
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007B_001E | Estimate !!<br>Total|
+| B14007B_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007B_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007B_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007B_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007B_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007B_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007B_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007B_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007B_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007B_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007B_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007B_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007B_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007B_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007B_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007B_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007B_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007B_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007C
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007C_001E | Estimate !!<br>Total|
+| B14007C_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007C_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007C_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007C_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007C_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007C_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007C_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007C_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007C_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007C_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007C_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007C_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007C_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007C_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007C_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007C_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007C_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007C_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007D
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007D_001E | Estimate !!<br>Total|
+| B14007D_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007D_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007D_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007D_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007D_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007D_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007D_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007D_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007D_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007D_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007D_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007D_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007D_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007D_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007D_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007D_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007D_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007D_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007E
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007E_001E | Estimate !!<br>Total|
+| B14007E_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007E_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007E_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007E_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007E_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007E_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007E_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007E_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007E_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007E_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007E_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007E_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007E_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007E_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007E_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007E_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007E_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007E_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007F
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007F_001E | Estimate !!<br>Total|
+| B14007F_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007F_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007F_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007F_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007F_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007F_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007F_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007F_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007F_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007F_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007F_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007F_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007F_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007F_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007F_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007F_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007F_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007F_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007G
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007G_001E | Estimate !!<br>Total|
+| B14007G_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007G_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007G_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007G_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007G_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007G_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007G_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007G_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007G_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007G_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007G_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007G_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007G_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007G_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007G_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007G_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007G_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007G_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007H
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007H_001E | Estimate !!<br>Total|
+| B14007H_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007H_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007H_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007H_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007H_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007H_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007H_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007H_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007H_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007H_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007H_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007H_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007H_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007H_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007H_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007H_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007H_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007H_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
+___
+
+## Group: B14007I
+
+___
+
+| VARIABLE | LABEL |
+| ----- | ----- |
+| B14007I_001E | Estimate !!<br>Total|
+| B14007I_002E | Estimate !!<br>Total !!<br>Enrolled in school|
+| B14007I_017E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in college, undergraduate years|
+| B14007I_005E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 1|
+| B14007I_014E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 10|
+| B14007I_015E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 11|
+| B14007I_016E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 12|
+| B14007I_006E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 2|
+| B14007I_007E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 3|
+| B14007I_008E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 4|
+| B14007I_009E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 5|
+| B14007I_010E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 6|
+| B14007I_011E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 7|
+| B14007I_012E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 8|
+| B14007I_013E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in grade 9|
+| B14007I_004E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in kindergarten|
+| B14007I_003E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Enrolled in nursery school, preschool|
+| B14007I_018E | Estimate !!<br>Total !!<br>Enrolled in school !!<br>Graduate or professional school|
+| B14007I_019E | Estimate !!<br>Total !!<br>Not enrolled in school|
 ___
 
 ## Group: B15010

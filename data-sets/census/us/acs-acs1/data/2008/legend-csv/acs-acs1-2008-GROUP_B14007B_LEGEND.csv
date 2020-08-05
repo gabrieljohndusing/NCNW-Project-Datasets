@@ -1,0 +1,77 @@
+VARIABLE,TYPE,LABEL,GROUP
+B14007B_001E,int,Estimate!!Total,B14007B
+B14007B_002E,int,Estimate!!Total!!Enrolled in school,B14007B
+B14007B_003E,int,"Estimate!!Total!!Enrolled in school!!Enrolled in nursery school, preschool",B14007B
+B14007B_004E,int,Estimate!!Total!!Enrolled in school!!Enrolled in kindergarten,B14007B
+B14007B_005E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 1,B14007B
+B14007B_006E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 2,B14007B
+B14007B_007E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 3,B14007B
+B14007B_008E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 4,B14007B
+B14007B_009E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 5,B14007B
+B14007B_010E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 6,B14007B
+B14007B_011E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 7,B14007B
+B14007B_012E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 8,B14007B
+B14007B_013E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 9,B14007B
+B14007B_014E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 10,B14007B
+B14007B_015E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 11,B14007B
+B14007B_016E,int,Estimate!!Total!!Enrolled in school!!Enrolled in grade 12,B14007B
+B14007B_017E,int,"Estimate!!Total!!Enrolled in school!!Enrolled in college, undergraduate years",B14007B
+B14007B_018E,int,Estimate!!Total!!Enrolled in school!!Graduate or professional school,B14007B
+B14007B_019E,int,Estimate!!Total!!Not enrolled in school,B14007B
+B14007B_001M,int,Margin of Error!!Total,B14007B
+B14007B_002M,int,Margin of Error!!Total!!Enrolled in school,B14007B
+B14007B_003M,int,"Margin of Error!!Total!!Enrolled in school!!Enrolled in nursery school, preschool",B14007B
+B14007B_004M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in kindergarten,B14007B
+B14007B_005M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 1,B14007B
+B14007B_006M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 2,B14007B
+B14007B_007M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 3,B14007B
+B14007B_008M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 4,B14007B
+B14007B_009M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 5,B14007B
+B14007B_010M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 6,B14007B
+B14007B_011M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 7,B14007B
+B14007B_012M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 8,B14007B
+B14007B_013M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 9,B14007B
+B14007B_014M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 10,B14007B
+B14007B_015M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 11,B14007B
+B14007B_016M,int,Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 12,B14007B
+B14007B_017M,int,"Margin of Error!!Total!!Enrolled in school!!Enrolled in college, undergraduate years",B14007B
+B14007B_018M,int,Margin of Error!!Total!!Enrolled in school!!Graduate or professional school,B14007B
+B14007B_019M,int,Margin of Error!!Total!!Not enrolled in school,B14007B
+B14007B_001EA,string,Annotation of Estimate!!Total,B14007B
+B14007B_001MA,string,Annotation of Margin of Error!!Total,B14007B
+B14007B_002EA,string,Annotation of Estimate!!Total!!Enrolled in school,B14007B
+B14007B_002MA,string,Annotation of Margin of Error!!Total!!Enrolled in school,B14007B
+B14007B_003EA,string,"Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in nursery school, preschool",B14007B
+B14007B_003MA,string,"Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in nursery school, preschool",B14007B
+B14007B_004EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in kindergarten,B14007B
+B14007B_004MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in kindergarten,B14007B
+B14007B_005EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 1,B14007B
+B14007B_005MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 1,B14007B
+B14007B_006EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 2,B14007B
+B14007B_006MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 2,B14007B
+B14007B_007EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 3,B14007B
+B14007B_007MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 3,B14007B
+B14007B_008EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 4,B14007B
+B14007B_008MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 4,B14007B
+B14007B_009EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 5,B14007B
+B14007B_009MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 5,B14007B
+B14007B_010EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 6,B14007B
+B14007B_010MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 6,B14007B
+B14007B_011EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 7,B14007B
+B14007B_011MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 7,B14007B
+B14007B_012EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 8,B14007B
+B14007B_012MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 8,B14007B
+B14007B_013EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 9,B14007B
+B14007B_013MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 9,B14007B
+B14007B_014EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 10,B14007B
+B14007B_014MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 10,B14007B
+B14007B_015EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 11,B14007B
+B14007B_015MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 11,B14007B
+B14007B_016EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in grade 12,B14007B
+B14007B_016MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in grade 12,B14007B
+B14007B_017EA,string,"Annotation of Estimate!!Total!!Enrolled in school!!Enrolled in college, undergraduate years",B14007B
+B14007B_017MA,string,"Annotation of Margin of Error!!Total!!Enrolled in school!!Enrolled in college, undergraduate years",B14007B
+B14007B_018EA,string,Annotation of Estimate!!Total!!Enrolled in school!!Graduate or professional school,B14007B
+B14007B_018MA,string,Annotation of Margin of Error!!Total!!Enrolled in school!!Graduate or professional school,B14007B
+B14007B_019EA,string,Annotation of Estimate!!Total!!Not enrolled in school,B14007B
+B14007B_019MA,string,Annotation of Margin of Error!!Total!!Not enrolled in school,B14007B
